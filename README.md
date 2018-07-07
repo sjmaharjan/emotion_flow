@@ -8,10 +8,10 @@ Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gómez, Fabio A. González, and  
 ---
 
 * code
-    * EmotionFlow.ipynb:  loads the model and predicts on the test data with analysis
+    * EmotionFlow.ipynb:  loads the model and predicts on the test data, and also performs analysis
 
 * data
-    * data_1000 :  book corpus with all book truncated to first 1K sentences
+    * data_1000 :  book corpus with all books truncated to first 1K sentences
     * data_all : book corpus with all book content
     * books_meta_info.tsv : tsv file with split, genre, class label information for all books
 
@@ -19,7 +19,7 @@ Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gómez, Fabio A. González, and  
     * sf_mt_50_checked_model.hdf5 : saved best model (with whole book content, 50 chunks, MT) 
 
 * vectors
-    * nrc_mean_sd_50_all.pkl : emotion chunk feature vectors built with NRC emotion lexicons (50 chunks, whole book content)
+    * nrc_mean_sd_50_all.pkl : emotion chunk feature vectors built with the  NRC emotion lexicons (50 chunks, whole book content)
     * nrc_mean_sd_50_all_index.pkl : book ids
     
 
