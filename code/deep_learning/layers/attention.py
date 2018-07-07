@@ -127,7 +127,10 @@ class MLPAttention(Layer):
         # print (at.eval())
         if mask is not None and mask[0] is not None:
             at *= K.cast(mask, K.floatx())
+
+        self.attention_param = at
         # ot: (BATCH_SIZE, MAX_TIMESTEPS, EMBED_SIZE)
+
         atx = K.expand_dims(at, axis=-1)
         ot = atx * x
         # output: (BATCH_SIZE, EMBED_SIZE)
