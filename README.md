@@ -1,7 +1,7 @@
 # Emotion Flow
 ---
 
-Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Go ́mez, Fabio A. Gonza ́lez, and  Thamar Solorio, [Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books](http://www.aclweb.org/anthology/N18-2042) (NAACL'18)
+Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gómez, Fabio A. González, and  Thamar Solorio, [Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books](http://www.aclweb.org/anthology/N18-2042) (NAACL'18)
 
 
 # Project Structure
