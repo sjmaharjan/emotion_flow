@@ -8,7 +8,7 @@ Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gómez, Fabio A. González, and  
 ---
 
 * code
-    * EmotionFlow.ipynb:  loads the model and predict on the test data with analysis
+    * EmotionFlow.ipynb:  loads the model and predicts on the test data with analysis
 
 * data
     * data_1000 :  book corpus with all book truncated to first 1K sentences
