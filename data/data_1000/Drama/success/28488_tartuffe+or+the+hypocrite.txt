@@ -1,0 +1,424 @@
+
+
+Copyright (C) 2009 by Jeffrey D. Hoeper. Moliere (Jean-Baptiste Poquelin)  1622-1673
+
+Tartuffe or The Hypocrite
+
+Translated by Jeffrey D. Hoeper
+
+ACT I
+SCENE I
+Madame Pernelle and her servant Flipote, Elmire, Mariane, Dorine, Damis, Cleante
+
+Mme. Pernelle. Let's go, Flipote, let's go. I hate this place. Elmire. I can't keep up, you rush at such a pace. Mme. Pernelle. Peace, my dear, peace; come no farther. I don't wish to cause you any bother. Elmire. What duty demands, I insist on giving. But, mother, what has caused your hasty leaving? Mme. Pernelle. I just can't stand the way your household runs . . . And no one cares what I wish to have done. Oh, yes, I leave your household quite dissatisfied
+        For all my wise advice has been defied . . . And nobody respects me, and everybody shouts,
+        And truly this is a home for the king of louts! Dorine. If . . . Mme. Pernelle. You, my dearie, are a bold lassy,
+        A little brazen and very sassy,
+        You butt into everything to speak your mind. Damis. But . . . Mme. Pernelle. You, grandson, are a fool of the worst kind. It is I, your grandmother, that pronounce this edict
+        And to my son, your father, I have oft predicted
+        That you'll turn out to be a worthless wastrel,
+        And give him in life a foretaste of Hell. Mariane. I think . . . Mme. Pernelle. My lord, his sister! You seem so discreet
+        And so untainted, so very sweet,
+        But the stillest waters are filled with scum,
+        And your sly ways earn my revulsion. Elmire. But . . . Mme. Pernelle. Daughter, my views may make you mad,
+        But your conduct in all things is all bad. In your family's eyes you should be an example-setter;
+        In that respect their late mother did far better. You are extravagant, and it wounds me, I guess,
+        To see you sashay about dressed like a princess. A woman who wishes only to please her mate,
+        Dear daughter, need not primp and undulate. Cleante. Madam, after all . . . Mme. Pernelle. And her brother, as for you,
+        I respect you, love you, and revere you, too,
+        But finally, if I were my son, her spouse,
+        I would at once beg you to leave this house. Without cease you teach your rules and mottos
+        Which decent people should never follow. I now speak frankly, but it is my part;
+        I never spare the words that stir my heart. Damis. Your man Tartuffe is satisfied, no fear . . . Mme. Pernelle. He is a holy man whom all should hear,
+        And I cannot bear, without great rue,
+        To hear him mocked by a fool like you. Damis. What? Am I myself to bear a carping critic,
+        A base usurper with a power tyrannic,
+        Such that we can do nothing for diversion
+        Without hearing about that creep's aversion? Dorine. If we were to hear and obey his whims,
+        We couldn't do anything without sins
+        For he forbids all, this false Capuchin. Mme. Pernelle. And everything he forbids is well forbidden. He strives to guide you on the road to heaven,
+        And it's my son's duty to make you love him. Damis. No, grandma, neither dad nor anyone else
+        Can oblige me to wish for his good health. I'd be false to myself if I didn't say this:
+        When I see him around, I begin to get pissed. I can smell the outcome, and soon this coot,
+        And I will find ourselves in a grand dispute. Dorine. It's certainly a clear cause for remark
+        When a nobody acts like a patriarch,
+        A beggar who was barefoot when he came hence
+        And whose whole wardrobe wasn't worth two cents! And he's gone so far as to forget his past for
+        He opposes everything and plays the master. Mme. Pernelle. Ah! mercy on me! Things would be better,
+        If you'd only follow his holy orders. Dorine. He passes for a saint in your fantasy,
+        But, I swear, he acts with hypocrisy. Mme. Pernelle. Watch your tongue! Dorine. Not to him nor his man Laurent
+        Would I trust my honor without good warrant. Mme. Pernelle. I don't know what his servant's like at heart,
+        But for the man himself, I'll guarantee his part. You only treat him with hate and aversion
+        Because he truly strives for your conversion. He hurls his heart up against each sin
+        And the glory of God is all he hopes to win. Dorine. Yes. But why, especially during some
+        Time past, must he ban all guests from our home? Can a courtesy call offend Heaven
+        Enough to merit a huge commotion? Would you like it explained, just between us? [Gesturing toward Elmire.] Of Madam there, on my oath, he's jealous! Mme. Pernelle. Be quiet, and think before you speak. Others, too, condemn the company you keep. All this bustle from the people who arrive,
+        The carriages ceaselessly parking at curb-side,
+        And the servants in a circle chattering,
+        Make noise that your neighbors find nerve-shattering. I'd like to think there's no harm meant,
+        But when gossips talk, they're malevolent. Cleante. How can you hope to stop people talking? It would truly be most irritating
+        If, for the sake of idle, foolish chatter,
+        We must renounce the friends that really matter. And even if we could resolve to do it,
+        How could you hope to keep the whole world quiet? No castle wall can defend against lies,
+        So let's ignore the fools who criticize,
+        And strive to live in innocence and ease,
+        Letting gossips gossip as they please. Dorine. Daphne, our neighbor, and her petty spouse--
+        Weren't they the ones who slandered this house? Those whom the whole world finds ridiculous
+        Are always first in line to stick it to us. They never fail to sniff out and swiftly share
+        The earliest rumor of a love affair,
+        Sowing seeds of scandal with eager expedition
+        And twisting truth past all recognition. In their own colors, they paint all others,
+        Brazenly calling all men their brothers;
+        In the faint hope of finding some resemblance,
+        They try to give a gloss of innocence
+        To their schemes or to make others share
+        The burden of blame that is only theirs. Mme. Pernelle. All this hair-splitting is off the subject. Orante lives a life that is perfect
+        With all her thoughts on heaven, and I hear
+        That she deeply mourns the way you live here. Dorine. The lady herself is quite an example! You want a chaste life? She's a nice sample. But old age has stuck her in this zealous mood,
+        And everyone knows she's a reluctant prude. 'Cause as long as she could snare a man's heart,
+        She was more than willing to play her part. But now that her eyes have lost their luster,
+        She leaves the world that already left her
+        And uses a pompous veil of phony wisdom
+        To hide the fact that her looks are gone. It's the last resort of the aging flirt,
+        So peeved at having no man at her skirt
+        That, alone and abandoned to solitude,
+        Her only recourse is to become a prude. And these good women censure all with such
+         Great severity; nor do they pardon much. They biliously blame immorality
+        Not from charity, but only from envy
+        That others are drinking in that pleasure
+        From which old age now drains their measure. Mme. Pernelle [to Elmire]. Such idle tales form a silly song. In your home, my dear, I've been silenced too long
+        Because, like a crap-shooter with the die,
+        Madame won't give up her turn; but now my
+        Chance has come. I applaud my son's great wisdom
+        In opening his home to this holy person
+        Who's been heaven-sent to meet your needs
+        In turning from evil to God's holy deeds. For your soul's salvation, please pay attention:
+        What he reprehends, merits reprehension. These visits, these balls, these conversations
+        Are flawless signs of Satanic possession. In them you never hear the holy Credo--
+        Just songs, chatter, gossip, malice, and innuendo. Often the neighbors get stabbed to the heart
+        By vicious lies from the third or fourth part. So good people suffer real anxiety
+        From the sad confusion spread at your party. A slew of slanders are spread along the way
+        And, as a doctor told me the other day,
+        This is truly the Tower of Babylon
+        Because everyone babbles on and on;
+        And, to tell a story that now comes to mind . . . Now look at him and how he laughs! [Indicating Cleante.] Go find
+        Some snickering fools. They are just your kind! [To Elmire.] Adieu, my daughter. I'll say no more. But I don't intend to darken your door
+        For a long, long time. You've fallen from grace. [Slapping Flipote.] Hurry up, there! Don't stand staring into space! Lord Almighty! I'll slap your silly face. Go on, you slut, go on. SCENE II
+Cleante, Dorine
+
+Cleante. I'm not following;
+        I'm sure there'd only be more quarrelling. How that old harridan . . . Dorine. Oh, how I regret
+        That she can't hear you use that epithet. She'd tell you at length what she thinks of your wit,
+        And that she's not old enough to merit it. Cleante. What a fuss she made about nearly nothing! And what a passion for Tartuffe, her darling! Dorine. Oh! Really, she's normal compared to her son,
+        And if you could see him, you'd say, "Here's one
+        Who's nuts!" During the war, he seemed quite sage,
+        And in serving his prince, showed some courage,
+        But now he's become an absolute fool
+        Since he gave himself up to Tartuffe's rule. He calls him his brother and the love of his life--
+        More dear than mother, daughter, son, or wife. He's the sole confidant of all his secrets
+        And the sole director of all his projects. He caresses him, kisses him, and could not show a mistress
+        More love and affection than he gives to this
+        Leech. At dinner he gives him the highest place
+        And watches with joy as he stuffs his face
+        With cakes and tarts and often the best part
+        Of a pig, and if he should happen to hiccup or fart,
+        Says, "God be with you!" He's mad about him--
+        His honey, his hero. He always quotes him
+        And admires his deeds. His smallest acts are miracles
+        And even his stupidest words are oracles. Tartuffe, who uses his dupe to make a buck,
+        Knows a hundred wily ways to pluck this duck;
+        He rakes off great sums with his biblical bull
+        And demands the right to censor us all. His foolish footman has such presumption
+        That even he dares to give us instruction. Madly preaching, he scatters with eyes afire
+        Our ribbons, our rouge, and our best attire. Last night he ripped up with his own bare hands
+        A kerchief left lying in The Holy Lands,
+        Claiming our crime was truly gigantic
+        In mixing what's holy with what's Satanic. SCENE III
+Elmire, Mariane, Damis, Cleante, Dorine
+
+Elmire [to Cleante]. You should be glad you missed the dreadful chore
+        Of attending her lecture beside the door--
+        Here comes my spouse! Since he doesn't see me,
+        I'm going upstairs to rest quietly. Cleante. Then I'll remain with no pleasure on my part
+        To tell him hello and then quickly depart. Damis. Ask him about the marriage of Mariane. I think Tartuffe will oppose it if he can,
+        For he sets up so many prerequisites,
+        And you know what an interest I take in it. The heat that inflames my sister and Valere
+        Has made his sweet sister so very dear
+        To me that if . . . Dorine. Shh, he's here. SCENE IV
+Orgon, Cleante, Dorine
+
+Orgon. Hello, brother! Cleante. I'm glad you've returned before my departure. The countryside isn't quite blossoming yet. Orgon. Dorine . . . One second brother, please! Just let
+        Me set my heart at ease and soothe my fear
+        Concerning the things that have happened here. [To Dorine.] For these past two days, how have things gone on? What has happened? And how is everyone? Dorine. The first day your wife had a bad fever
+        And a headache that just wouldn't leave her. Orgon. And Tartuffe? Dorine. Tartuffe? He's in splendid shape,
+        Fat and flabby, with red lips, and a shining face. Orgon. Poor fellow! Dorine. That night, your wife felt so sick
+        And so feverish that she could only pick
+        At her dinner and scarcely ate a bite. Orgon. And Tartuffe? Dorine. He alone ate with all his might,
+        And devoutly devoured a pair of pheasants
+        And a leg of lamb in our lady's presence. Orgon. Poor fellow! Dorine. The whole night passed before she
+        Could even close her eyes to fall asleep;
+        Shivers and chills beset her in bed,
+        And right up till dawn we watched her with dread. Orgon. And Tartuffe? Dorine. Drowsy from all that he'd consumed,
+        He left the table, went straight to his room,
+        And fell quickly into his nice, warm sack
+        Where he slept all night flat on his back. Orgon. Poor fellow. Dorine. At last your wife began heeding
+        Our good advice that she needed bleeding,
+        And she began to recover soon thereafter. Orgon. And Tartuffe? Dorine. He couldn't have been any better. To fortify himself against every ill
+        And to regain the blood that Madam spilled,
+        He drank at brunch four great glasses of wine. Orgon. Poor fellow! Dorine. Both of them are now quite fine;
+        I'll now be going up to tell your wife
+        Of your deep concern at this threat to her life. SCENE V
+Orgon, Cleante
+
+Cleante. She's making fun of you to your face, brother;
+        And, though I don't intend to be a bother,
+        I must frankly admit that there's some justice
+        In what she says. What a crazy caprice
+        You have for him! And how could he exert
+        Such charm that you'll even let your wife be hurt? After taking this pauper into your heart,
+        You go so far . . . Orgon. Stop there! Or we must part! You don't know the man to whom you refer. Cleante. Okay. Say I don't know him if you prefer,
+        But then to know what sort of man he might be . . . Orgon. Brother, you'd be charmed if you could only see
+        Him, and your glee would be . . . gargantuan! He's a man who . . . who . . . a man . . . well, a man! Learn from him a peacefulness most exquisite,
+        That lets you drop your woes like . . . dried horseshit! Yes, I've been reborn because of his preaching:
+        He teaches me that I shouldn't love anything,
+        From every earthly passion he has freed my life;
+        I'd watch my brother, mother, children, and wife
+        Drop dead without caring so much as that! [He snaps his fingers.] Cleante. You've sure got humane sentiments down pat! Orgon. Ah! If you'd seen him as I did at first,
+        Your eyes would have feasted on him with a spiritual thirst! Each day he came to church smiling with sweet peace
+        And threw himself down before me on both knees. He drew upon himself the eyes of everyone there
+        By the holy fervor of his pious prayer. He sighed and wept with a most saintly passion
+        And humbly kissed the earth in a fetching fashion;
+        And when I was going, he rushed out front
+        To bless me with water from the holy font. His servant (matching his master to a T)
+        Then informed me of his identity--
+        And his poverty. So I made a donation,
+        But then he tried to return a portion. "It's too much," he said. "You're too generous;
+        I don't merit your pity and kindness." And when I refused to take it back, he gave
+        It in alms to the poor right there in the nave. Then God bade me take him into my home
+        And now life is sweet as a honeycomb. He governs us all, and to protect my honor
+        Bids my wife grant his godly rule upon her. He forewarns me of men who might give her the eye,
+        And he really seems far more jealous than I! Why, you wouldn't believe his fear of Hell! He thinks himself damned for the least bagatelle. Such trifles suffice to scandalize him
+        That he even accused himself of sin
+        For having slain with a bit too much wrath
+        A flea that just happened to cross his path. Cleante. My goodness, brother! I think you're crazy! Are you mocking me with sheer lunacy? And how can you pretend that this pure rot . . . ? Orgon. Dear brother, your words reek of that free thought
+        With which I find you more than a bit impeached,
+        And, as ten times or more I have clearly preached,
+        You will soon find yourself in a wicked bind. Cleante. Now this is the normal jargon of your kind. They want everyone to be as blind as they are. To be clear-sighted, is to be in error,
+        And one who rejects their vain hypocrisy
+        Has no respect for faith or sanctity. Go on, all your tart sermons scarcely smart;
+        I know what I'm saying, and God sees my heart. I'm not a slave to your silly ceremony. There is false piety like false bravery;
+        Just as one often sees, when honor calls us,
+        That the bravest men never make the most fuss,
+        So, too, the good Christians, whom one should follow,
+        Are not those who find life so hard to swallow. What now? Will you not make any distinction
+        Between hypocrisy and true devotion? Would you wish to use the same commonplace
+        To describe both a mere mask and a true face? To equate artifice with sincerity
+        Is to confound appearance and reality. To admire a shadow as much as you do
+        Is to prefer counterfeit money to true. The majority of men are strangely made! And their true natures are rarely displayed. For them the bounds of reason are too small;
+        In their shabby souls they love to lounge and sprawl. And very often they spoil a noble deed
+        By their urge for excess and reckless speed. But all this, brother, is idle chatter. Orgon. Without doubt you are a renowned teacher;
+        With all the world's knowledge in your coffer. You're the only oracle, the wisest sage,
+        The enlightened one, the Cato of our age;
+        And next to you, all other men are dumb. Cleante. Brother, I know I'm not the wisest one
+        Nor the most learned man in Christendom
+        But in moral matters my greatest coup
+        Is to differentiate false from true. And since I know of no heroes about
+        More to be praised than the truly devout
+        And nothing at all with greater appeal
+        Than the holy fervor of saintly zeal,
+        So too nothing could be more odious
+        Than the white-washed face of a zeal that's specious,
+        Or these frank charlatans, seeking places,
+        Whose false and sacrilegious double faces
+        Exploit our love of God and make a game
+        Of our reverence for Christ's holy name. These people who, with a shop-keeper's soul,
+        Make cheap trinkets to trade on the Credo,
+        And hope to purchase credit and favor
+        Bought with sly winks and affected fervor;
+        These people, I say, whose uncommon hurry
+        On the path to Heaven leads through their treasury,
+        Who, writhing and praying, demand a profit each day
+        And call for a Retreat while pocketing their pay,
+        Who know how to tally their zeal with their vices,--
+        Faithless, vindictive, full of artifices--
+        To ruin someone they'll conceal their resentment
+        With a capacious cloak of Godly contentment. They are doubly dangerous in their vicious ire
+        Because they destroy us with what we admire,
+        And their piety, which gains them an accolade,
+        Is a tool to slay us with a sacred blade. There are many men in this false disguise,
+        But those with pure hearts are easy to recognize. Our age, my friend, has brought into plain sight
+        Many glorious examples of what is right. Look at Ariston, or Periandre,
+        Oronte, Alcidamus, or Clitandre;
+        Their title is one that all agree to. They decline any fanfare for their virtue;
+        They don't indulge in vain ostentation;
+        Their humane faith finds form in moderation;
+        They never censure all of our actions,
+        For they sense the vain pride in such transactions. And, leaving boastful rhetoric to others,
+        By their own actions they reprove their brothers. The appearance of evil is no concern of theirs;
+        They cast the best light on others' affairs. They plot no intrigues; seek no one to fleece;
+        Their only concern is to live at peace. They don't seek to cause any sinner chagrin;
+        Their abhorrence is directed only at sin. And they don't take the side of God more extremely
+        Than God himself--who could act supremely! These are my models, and these are their ways;
+        Such examples are the ones that most merit praise. But your man, in truth, is not made from such steel. In good faith, perhaps, you praise his great zeal,
+        But I think you're dazed by his meaningless
+        Glitter. Orgon. Dear brother-in-law, are you finished? Cleante. Yes. Orgon. Your humble servant. [He begins to leave.] Cleante. Pardon me. One word, brother. Let's drop this discussion. You know that Valere
+        Has your word that he'll be Mariane's spouse. Orgon. Yes. Cleante. And you've announced this fact in your house. Orgon. That is true. Cleante. Then why postpone the event? Orgon. I don't know. Cleante. Do you intend to recant? Orgon. Perhaps. Cleante. How could you go back on your word? Orgon. I didn't say I would. Cleante. I hope no absurd
+        Hitch could make you retract your own promise. Orgon. We'll see. Cleante. Why do you speak with such finesse? Valere sent me to ask you this verbatim. Orgon. Praise God! Cleante. But what shall I report to him? Orgon. What you please. Cleante. But it is essential
+        To know your plans. What are they? Orgon. To do all
+        That God wishes. Cleante. Stick to the point. I know
+        Your promise. Will you keep it? Yes, or no? Orgon. Farewell. Cleante. I fear his promise will be withdrawn,
+        So I'd better report what's going on. ACT II
+
+SCENE I
+Orgon, Mariane
+
+Orgon. Mariane. Mariane. Yes. Orgon. Come here. We need to speak
+        Privately. Mariane. Father, what is it you seek? Orgon [looking in the closet]. I'm seeing if anyone can overhear us. This is a perfect place for such a purpose. There now, it's okay. Mariane, I find
+        You endowed with a heart that's sweet and kind
+        And you have always been most dear to me. Mariane. A father's love brings true felicity. Orgon. Well said, my child! And to earn it fully
+        You should devote yourself to contenting me. Mariane. That's how my devotion is put to the proof. Orgon. Good. Now what do you think of our guest, Tartuffe? Mariane. Who me? Orgon. You. Think well before you reply. Mariane. Oh my! Tell me what to say . . . and I'll comply. [Dorine enters quietly and hides herself behind Orgon without being seen.] Orgon. That's sensibly spoken. Now tell me, girl,
+        That his merit shines like a gleaming pearl,
+        That he warms your heart, and that you would rejoice
+        To have him be your husband by my choice. Eh? [Mariane recoils in dismay.] Mariane. Eh? Orgon. What's that? Mariane. Please? Orgon. What? Mariane. Am I in error? Orgon. Why? Mariane. Whom do you wish that I should now swear
+        Touches my heart--and who would rejoice me
+        If we joined, by your choice, in matrimony? Orgon. Tartuffe. Mariane. Out of the question, father, I assure
+        You! Why urge on me such an imposture? Orgon. But, my dear, I wish it to be true,
+        And it should be enough that I've chosen for you. Mariane. What? Father, would you . . .? Orgon. Yes, I intend, you see
+        To unite in marriage Tartuffe and my family. He will be your husband. I do declare it! Since you have promised . . . SCENE II
+Dorine, Orgon, Mariane
+
+Orgon [perceiving Dorine]. What do you stare at? You must be eaten up with curiosity
+        To eavesdrop on my daughter and me. Dorine. I don't know whether the rumor I hear
+        Is sly conjecture or a wicked smear;
+        But I've just heard word of this marriage,
+        And I trust it is only verbiage. Orgon. Why? Is the idea itself so very absurd? Dorine. I wouldn't believe it, sir, if you gave your word! Orgon. I will make you believe it by-and-by. Dorine. Yes. You're going to tell us a bald-faced lie. Orgon. I am only saying what you will soon see. Dorine. Nonsense! Orgon. What I say, dear girl, will soon be. Dorine. Go on. Don't believe him! It's too bizarre! He's joking. Orgon. I say . . . Dorine. No, you've gone too far,
+        And no one believes you. Orgon. Damn you, you shrew . . . Dorine. Well, I believe you then; the worse for you. What? Monsieur, can you pose as one who's sage,
+        Gravely stroking your bearded visage? And still be fool enough to wish . . . Orgon. Hear me! I have given you too much liberty,
+        And it no longer gives me any pleasure. Dorine. Monsieur, please. Keep your anger within measure. Are you mocking us with your silly plot? Your daughter is no match for a bigot;
+        He has other schemes to worry about. And what would you gain if she wed this lout? With your wealth, what benefit would it bring
+        To pick a bum . . . Orgon. Ssh! Say he has nothing;
+        For that reason, you should revere him the more. He is a holy man and nobly poor. It raises him up to greater grandeur
+        That he has renounced all wealth by his pure
+        Detachment from the merely temporal
+        And his powerful love for the Eternal. But my assistance may give him the means
+        To restore his lands and remove his liens. He is a man of repute in the land of his birth,
+        And, even as he is, he's a man of worth. Dorine. Yes, so he tells us, but his vanity
+        Does not sit so well with true piety. A man pleased with a simple sanctity
+        Needn't vaunt his name and his dignity,
+        And the humility born of devotion
+        Suffers beneath such blatant ambition. What good is his pride? . . . But perhaps I digress:
+        Let's speak of the man--not his nobleness. Can you bestow, without feeling like a rat,
+        A girl like this on a man like that? And shouldn't you think of propriety
+        And foresee the end with anxiety? We know that some girls cannot remain chaste
+        If their husband's tush is not to their taste,
+        And that the best-laid plans for an honest life
+        Are somewhat easier for the best-laid wife,
+        And that many a man with a horned head
+        Has driven his wife to another man's bed. It is entirely too much to ask
+        That a wife be faithful to a flabby ass. And one who gives a girl to a man she hates
+        Is guilty before God for all her mistakes. Consider the perils you expose yourself to. Orgon. So you think I should learn how to live from you! Dorine. You could do worse than follow my lead. Orgon. Dear daughter, do drop this maid's daffy creed;
+        I know what's best for you in this affair. It's true I betrothed you to young Valere,
+        But I hear he likes his dicing and drinking
+        And even worse is inclined to free-thinking. I note with regret we don't see him at mass. Dorine. Must he be there the same moment you pass
+        Like those who attend only to be seen? Orgon. Your advice isn't wanted. Don't intervene. Tartuffe is on the path to salvation,
+        And that is a treasure past calculation. This wedding will bring blessings beyond measure,
+        And be crowned with great sweetness and pleasure. Together you will live, thriving on love
+        Like new-born babes, or a pair of turtledoves. You will never be found in angry debate
+        For you will find all that you wish in this mate. Dorine. She'll only make him a cuckold, I'm sure. Orgon. What? Dorine. He looks just like a caricature,
+        And his fate, monsieur, will make him an ass
+        No matter how much virtue your daughter has. Orgon. Don't interrupt me and remember your place
+        And quit sticking your nose up in my face! Dorine. I'm only trying, sir, to protect you. [Hereafter she always interrupts him at the moment he begins speaking to his daughter.] Orgon. You're too kind, but do shut up--please do! Dorine. If I didn't like you . . . Orgon. I don't need liking. Dorine. But I will like you, sir, despite your griping. Orgon. Oh? Dorine. Your honor is dear and I'd be provoked
+        To find you the butt of some smutty joke. Orgon. Can't you keep quiet? Dorine. In all good conscience,
+        It's a shame to foster such an alliance. Orgon. Shut up, you viper, with your brazen traits . . . Dorine. What? You've been reborn, yet you give way to hate? Orgon. Yes, your twaddle has made me quite high-strung,
+        And I now insist that you hold your tongue. Dorine. All right. But I'll think in silence nonetheless. Orgon. Think if you wish to, but strive for success
+        At shutting your mouth . . . or beware. [Turning to his daughter]  Let's see,
+        I have weighed everything quite maturely. Dorine [aside]. I hate this silence. [She falls quiet every time Orgon turns toward her.] Orgon. Without being smug, I'll
+        Say Tartuffe's face . . . Dorine. Yes, he has a fine muzzle! Orgon. Is so fine that even if you forgot
+        His other traits . . . Dorine [aside]. And they're a sorry lot! [Orgon turns toward Dorine and, with his arms folded, listens while staring in her face.] If I were in her place, most assuredly
+        No man would wed me with impunity,
+        And I'd prove to him right after the wedding
+        That a wife's vengeance lies in the bedding! Orgon [to Dorine]. So you refuse to obey me, is that true? Dorine. What's your beef, sir? I'm not speaking to you. Orgon. Then what are you doing? Dorine. Soliloquizing. Orgon. Very well. [aside]  To give her a good chastising,
+        I think she needs a taste of the back of my hand. [He prepares to slap her, but each time Dorine sees him looking at her, she stands silent and erect.] Child, you should approve of all I have planned . . . And have faith in the spouse . . . who's my designee. [To Dorine.] Speak to yourself! Dorine. I've nothing to say to me. Orgon. Just one little word. Dorine. I'm not in the mood. Orgon. Because I was ready! Dorine. What ineptitude! Orgon. Now, daughter, let's see some obedience. Accept my choice with complete deference. Dorine [running away]. I'd thumb my nose at such a silly spouse. [Orgon tries to slap Dorine and misses.] Orgon. Daughter, your maid is a pest and would arouse
+        Vice in a saint--she's an absolute shrew! I'm so upset that I can't continue. Her taunts have nearly driven me to swear,
+        And I need to calm down in the open air. SCENE III
+Dorine, Mariane
+
+Dorine. Have you entirely lost your voice and heart? Why must I continue playing your part? To think you allow such a mad proposal
+        Without voicing even a meek refusal! Mariane. How can I resist such a harsh patriarch? Dorine. By any means! Don't be an easy mark! Mariane. But how? Dorine. Tell him you can't love on command,
+        That you marry for yourself, not by demand,
+        And since you are most concerned in these affairs
+        You'll choose for yourself the sire of his heirs,
+        And that, if Tartuffe is so charming to him,
+        He can wed him himself--if that's his whim. Mariane. A father, I'm sure, has absolute power;
+        Before him I can only cringe and cower. Dorine. Use your head. Valere wants to tie the knot. Do you really love him, I ask--or not? Mariane. Your injustice to me has a mortal sting! Dorine, how can you ask me such a thing? Haven't I poured out my whole soul to you,
+        And don't you know yet that my love is true? Dorine. How do I know that your heart echoes your voice
+        And that this love is truly your own choice? Mariane. Your doubts, Dorine, wrong me greatly;
+        My real feelings are shown far too plainly. Dorine. You love him then? Mariane. Yes, with the strongest passion. Dorine. And he seems to love you in the same fashion? Mariane. I think so. Dorine. And both of you burn equally
+        For this union in marriage? Mariane. Certainly. Dorine. And about this other man, what's your intention? Mariane. I'd die before I'd submit to coercion. Dorine. Fine! I hadn't thought of that recourse. Death would give you such a forcible divorce. What an ingenious remedy! Geez! I hate to hear such stupid ideas. Mariane. Good Heavens! What a rotten mood you're in! You have no pity for my pain, Dorine! Dorine. I have no sympathy for foolishness
+        And those who meet a crisis with such weakness. Mariane. But what do you want me to do? I was born frail. Dorine. A woman in love needs a heart of steel. Mariane. But haven't I kept it free for my lover
+        Whose task it is to win me from my father? Dorine. What! If your father is a mad fanatic
+        Whose love for Tartuffe is completely lunatic
+        And who has blocked the match you are now bewailing,
+        Is your lover to be damned for failing? Mariane. But am I to display how deeply I'm bitten
+        By rejecting Tartuffe like one who's love-smitten? Am I, because of Valere's strength and beauty,
+        To renounce my modesty and duty? And would you have me show my heart to all . . . ? Dorine. No, no, not at all. I'm wrong to forestall
+        Your marriage to Tartuffe, and my defiance
+        Is apparent in barring that alliance. What reason have I for my outrageous
+        Attempt to stop something so advantageous? Tartuffe! Oh! Isn't he something to behold? Surely Tartuffe is not made from such a mold,
+        If rightly viewed, as to make a person laugh;
+        'Twould be an honor to be his better half. The whole world already crowns him with glory;--
+        Both in physique and character he's laudatory;
+        He has red ears and a florid, flushing face
+        With him for a mate you'd live in joyful grace. Mariane. Dear God! Dorine. What delight you will feel within
+        To know that you're wed to a man like him. Mariane. Oh! Please stop talking, and show me the way
+        To avoid this marriage. I will obey,
+        You've said enough, and I'm ready to be led. Dorine. No. A good daughter must obey her dad--
+        Even if he wishes her to make love
+        To an ape. What are you complaining of? You will proceed to his little villa
+        Where you will get your absolute fill of
+        Uncles and cousins to be entertained. Right away you'll move among the most urbane
+        Of hicks. First you will make some overture
+        To the wives of the judge and the tax assessor,
+        Who will kindly seat you on a folding chair. During Carnival, you may hope to have there
+        A ball with two bagpipes for an orchestra
+        And maybe some puppets and a tame gorilla. But if your husband . . . Mariane. Oh! You're killing me. Please help me avoid this catastrophe. Dorine. I am your servant. Mariane. Oh! Dorine, mercy . . . Dorine. To punish you, I ought to leave things be. Mariane. My dear girl! Dorine. No. Mariane. If I declared my love . . . Dorine. No. Tartuffe is your man; that's sure enough. Mariane. You know that I've always trusted that you'd
+        Help me . . . Dorine. No. I'm sure you will be tartuffed. Mariane. All right! Since my fate no longer moves you,
+        Henceforth you may leave me alone and blue;
+        From deep sorrow my heart will draw relief,
+        And I know an absolute cure for my grief. [She starts to leave.] Dorine. Whoa! I'm not really angry. Come back,--do. In spite of everything, I pity you. Mariane. If I'm to be the one you crucify,
+        You'll see, Dorine, how quickly I shall die. Dorine. Don't torture yourself. We can easily
+        Block them. . . . But look! I think that's Valere I see. SCENE IV
+Valere, Mariane, Dorine
+
+Valere. Gossip is singing a little ditty,
+        My dear,--news to me and very pretty. Mariane. What? Valere. That you will marry Tartuffe. Mariane. It's true
+        That my father has such a plan in view. Valere. Your father . . . Mariane. Has altered his inclination. Through him, all this has come to my attention. Valere. What? Seriously? Mariane. Yes, seriously. He wants this wedding--quite decidedly! Valere. And how does your heart respond to this plan,
+        Madam? Mariane. I don't know. Valere. Your response is plain. You don't know? Mariane. No. Valere. No? Mariane. What do you recommend? Valere. I recommend that you accept this husband. Mariane. You recommend that? Valere. Yes. Mariane. Really? Valere. I do. A wonderful choice, well worth attending to. Mariane. Very well! That's advice, sir, that I accept. Valere. I doubt that taking it causes you regret. Mariane. No more regret than giving it causes you. Valere. I gave it thinking pleasure would ensue. Mariane. And I, I'll take it--simply to please you. Dorine [moving upstage]. Let's see what comes of this hullabaloo. Valere. So that's your love for me? And did you lie
+        When you . . . Mariane. Please, let's not speak of days gone by. You've told me quite plainly that I must embrace
+        As my mate the man they've chosen for that place,
+        And now I say that I promise to obey
+        Since you so kindly advise me that way. Valere. Don't excuse yourself through circumlocution:
+        You've already made your own resolution,
+        And you've seized upon a frivolous excuse
+        To justify this lamentable ruse. Mariane. Quite true and well said. Valere. No doubt, and your soul
+        Never lost, for love of me, its self-control. Mariane. Alas! Alas! You may as well think so. Valere. Yes, I may think so, but my broken heart
+        Foresees you, too, suffering from Love's dart;
+        I know to whom I'll take my heart and hand. Mariane. No doubt, and the love that merit can command...
+Valere. Dear God, let's leave merit to one side. I haven't much of it, as you have signified,
+        But I know where there's a woman, soft-eyed
+        And open-hearted . . . and this double-cross
+        May make her more inclined to recompense my loss. Mariane. The loss isn't great; and your fickleness
+        Will soon lead you to find a new mistress. Valere. I'll do my best--of that you may be sure! When one is forgotten, it's hard to endure,
+        And so I, too, must struggle to forget. If I can't do it, I'll fake it . . . and yet
+        I could never forgive my own servility
+        If I kept loving one who abandoned me. Mariane. What a noble, uplifting sentiment! Valere. Quite so. Everyone should give it their assent. What? Do you think that I should perpetuate
+        The flame of love that I have felt of late,
+        And see you pass into another's arms
+        Without letting my heart seek other charms? Mariane. No, indeed. It's what I want, and I vow
+        I wish the thing were to happen right now. Valere. You do? Mariane. Yes. Valere. That's enough insults from you,
+        Madam, and now I will bid you adieu. [He starts to leave; each time he does so, he quickly comes back.] Mariane. Very well. Valere [coming back]. At least remember that you
+        Are the one who forced me down this avenue. Mariane. Yes. Valere. And that I am doing nothing more
+        Than following the path you took before. Mariane. So be it. Valere [leaving]. Fine. I'm doing what you want. Mariane. Good. Valere [returning again]. I'm leaving forever--not some short jaunt. Mariane. The sooner the better. [He begins to leave and, when he is near the door, he returns.] Valere. Eh? Mariane. What? Valere. You called? Mariane. Me? No. Valere. Ah. Well then, I'll soon be abroad. Adieu, madam. [He slowly starts to leave.] Mariane. Adieu. Dorine [to Mariane]. I think, perchance,
+        You've lost your mind through extravagance,
+        And I've only allowed you to go on
+        Like this to see what folly you might spawn. Hey! Valere! [She grabs him by the arm and he makes a show of resistance.] Valere. Huh? What do you want, Dorine? 

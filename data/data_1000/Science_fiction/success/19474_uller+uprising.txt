@@ -1,0 +1,1418 @@
+
+
+
+
+Produced by Greg Weeks, Sankar Viswanathan, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                         Transcriber's Note:
+
+       Extensive research did not uncover any evidence that the
+       U.S. copyright on this publication was renewed. H. BEAM PIPER
+
+
+                                ULLER
+                               UPRISING
+
+
+
+
+                      ACE SCIENCE FICTION BOOKS
+
+                               NEW YORK
+
+
+       *       *       *       *       *
+
+This Ace Science Fiction Book contains the complete text of the
+original hardcover edition. It has been completely reset in a typeface
+designed for easy reading, and was printed from new film. PRINTING HISTORY
+Twayne edition/ 1952
+Ace edition/ June 1983
+
+Copyright (C) 1952 by Twayne Publishers, Inc. Copyright (C) renewed 1983 by Charter Communications, Inc.
+Introduction (C) 1952, 1983 by Dr. John D. Clark
+New Introduction (C) 1983 by John F. Carr
+Cover art by Gino D'Achille
+
+       *       *       *       *       *
+
+
+
+
+Introduction to
+
+_ULLER UPRISING_
+
+by John F. Carr
+
+
+With the publication of this novel, _Uller Uprising_, all of H. Beam
+Piper's previously published science fiction is now available in Ace
+editions. _Uller Uprising_ was first published in 1952 in a Twayne
+Science Fiction Triplet--a hardbound collection of three thematically
+connected novels. (The other two were Judith Merril's _Daughters of
+Earth_ and Fletcher Pratt's _The Long View_.) A year later it appeared
+in the February and March issues of _Space Science Fiction_, edited by
+Lester Del Rey. The magazine version, which was abridged by about a third, was
+believed by many bibliographers to be the only version--and as a
+novella it was too short for book publication. The Twayne version had
+a small print run and is so scarce that few people have seen it. Those
+bibliographers who knew of its existence assumed that both versions of
+_Uller_ were the same. It was through a telephone conversation with
+Charles N. Brown, publisher of _Locus_ and correspondent with Piper,
+that I learned about the Twayne edition and its greater length. Brown
+allowed me to photocopy his original, for which we owe him a debt of
+thanks; because the Twayne version is not only novel length, but far
+better than the shorter one that appeared in _Space Science Fiction_. Probably the most surprising and interesting thing about the Twayne
+edition is the essay that forms the introduction to that volume, and
+is reprinted here. The essay is by Dr. John D. Clark, an eminent
+scientist of the fourties and fifties and one of the discoverers of
+sulfa, the first "miracle drug." It describes in great detail the
+planetary system of the star Beta Hydri, and gives the names of those
+planets: Uller and Niflheim. A publisher's note states that Clark's
+essay was written first, and given to the contributors as background
+material for a novel they would then write. The fans of H. Beam Piper seem to owe a great debt to Dr. Clark. _Uller Uprising_ became the foundation of Piper's monumental
+Terro-Human Future History; the first story where we encounter the
+Terran Federation. In it we learn about Odin, the planet that will one
+day be the capital of the First Galactic Empire; and humble Niflheim,
+which in more decadent times will become a common expletive, a word
+meaning hell. This is also where Piper introduced and explained the
+Atomic Era dating system (A.E.). _Uller Uprising_ is set in the early
+years of the Terran Federation's expansion and exploration, an epoch
+of great vitality. In "The Edge of the Knife" Piper compares this time
+of discovery to the Spanish conquest of the Americas. This feeling of
+vigor and unlimited possibilities runs through all the early
+Federation stories: _Uller Uprising_, "Omnilingual," "Naudsonce,"
+"When in the Course--," and, to a lesser degree, in the late
+Federation novels, _Little Fuzzy_, _Fuzzy Sapiens_, and _Fuzzies and
+Other People_. (See _Federation_ by H. Beam Piper for a good overview
+of this period.) In these stories we see Terro-Humans at their best and at their worst:
+Individual heroism and bravery in the face of grave danger in _Uller
+Uprising_; Federation law and justice in _Little Fuzzy_ and its
+sequels; and, in "Omnilingual" and "Naudsonce," the spirit of science
+and rational inquiry. Yet we also see colonial exploitation and
+subjugation in _Uller Uprising_ and "Oomphel in the Sky," the greed
+and corruption of Chartered land companies in _Little Fuzzy_, and
+political corruption in _Four-Day Planet_. These stories are about a
+living Terro-Human culture, not a utopia. It was Piper's attention to historical realism and his use of actual
+historical models that have helped his work to pass the test of time
+and have led to his becoming the favorite of a new generation of
+readers more than twenty-five years after his death. _Uller Uprising_ is the story of a confrontation between a human
+overlord and alien servants, with an ironic twist at the end. Like
+most of Piper's best work, _Uller Uprising_ is modeled after an actual
+event in human history; in this case the Sepoy Mutiny (a Bengal
+uprising in British-held India brought about when rumors were spread
+to native soldiers that cartridges being issued by the British were
+coated with animal fat. The rebellion quickly spread throughout India
+and led to the massacre of the British Colony at Cawnpore.). Piper's
+novel is not a mere retelling of the Indian Mutiny, but rather an
+analysis of an historical event applied to a similar situation in the
+far future. *       *       *       *       *
+
+Like many philosophers and social theorists before him, Piper
+attempted to chart the progress of human-kind; unlike most, however,
+he did not envision or try to create a system of ethics that would end
+all of humanity's problems. The best he could offer was his model of
+the self-reliant man: The man who "actually knows what has to be done
+and how to do it, and he's going to go right ahead and do it, without
+holding a dozen conferences and round-table discussions and giving
+everybody a fair and equal chance to foul things up for him." Piper brought his own ideas and judgments about society and history
+into all of his work, but they appear most clearly in his Terro-Human
+Future History. While not everyone will agree with Piper's theories
+they give his work a bite that most popular fiction lacks. One cannot
+read Piper complacently. And one can often find a wry insight
+sandwiched in between the blood and thunder. Other future histories may span more centuries or better illuminate
+the highlights of several decades, but until a rival is created with
+more historical depth and attention to detail, H. Beam Piper's
+Terro-Human Future History will stand as the Bayeux Tapestry of
+science fiction histories. In many ways--certainly during his lifetime--Piper was the most
+underrated of the John W. Campbell's "Astounding" writers. He was
+probably also the most Campbellian; his _self-reliant man_ is almost a
+mirror image of Campbell's "Citizen." Piper died a bitter man, a failure in his own mind; shortly before his
+death he believed he could no longer earn a living as a writer without
+charity from his friends or the state. Now he's the cornerstone of Ace Books. Had he lived long enough to
+finish another half dozen books, he would have been among the sf
+greats of the sixties.... But maybe he does know, after all. Jerry Pournelle, who was very much
+influenced by Piper and in many ways considers himself Beam's
+spiritual descendant--and incidently was John W. Campbell's last major
+_discovery_--has said that sometimes, when he's gotten down a
+particularly good line, he can hear the "old man" chuckle and whisper,
+_atta boy_. Introduction
+
+Dr. John D. Clark
+
+THE SILICONE WORLD
+
+
+1. THE STAR AND ITS MOST IMPORTANT PLANET
+
+The planet is named Uller (it seems that when interstellar travel was
+developed, the names of Greek Gods had been used up, so those of Norse
+gods were used). It is the second planet of the star Beta Hydri, right
+angle 0:23, declension-77:32, G-0 (solar) type star, of approximately
+the same size as Sol; distance from Earth, 21 light years. Uller revolves around it in a nearly circular orbit, at a distance of
+100,000,000 miles, making it a little colder than Earth. A year is of
+the approximate length of that on Earth. A day lasts 26 hours. The axis of Uller is in the same plane as the orbit, so that at a
+certain time of the year the north pole is pointed directly at the
+sun, while at the opposite end of the orbit it points directly away. The result is highly exaggerated seasons. At the poles the temperature
+runs from 120 deg.C to a low of-80 deg.C. At the equator it remains not far
+from 10 deg.C all year round. Strong winds blow during the summer and
+winter, from the hot to the cold pole; few winds during the spring and
+fall. The appearance of the poles varies during the year from baked
+deserts to glaciers covered with solid CO_{2}. Free water exists in
+the equatorial regions all year round. 2. SOLAR MOVEMENT AS SEEN FROM ULLER
+
+As seen from the north pole--no sun is visible on Jan. 1. On April 1,
+it bisects the horizon all day, swinging completely around. April 1 to
+July 1, it continues swinging around, gradually rising in the sky, the
+spiral converging to its center at the zenith, which it reaches July
+1. From July 1 to October 1 the spiral starts again, spreading out
+from the center until on October 1 it bisects the horizon again. On
+October 1 night arrives to stay until April 1. At the equator, the sun is visible bisecting the southern horizon for
+all 26 hours of the day on January 1. From January 1 to April 1, the
+sun starts to dip below the horizon at night, to rise higher above it
+during the day. During all this time it rises and sets at the same
+hours, but rises in the southeast and sets in the southwest. At noon
+it is higher each day in the southern sky until April 1, when it rises
+due east, passes through the zenith and sets due west. From April 1 to
+July 1, its noon position drops down to the north, until on July 1, it
+is visible all day, bisected by the northern horizon. 3. CHEMISTRY AND GEOLOGY OF ULLER
+
+Calcium and chlorine are rarer than on earth, sodium is somewhat
+commoner. As a result of the shortage of calcium there is a higher
+ration of silicates to carbonates than exists on earth. The water is
+slightly alkaline and resembles a very dilute solution of sodium
+silicate (water glass). It would have a pH of 8.5 and tastes slightly
+soapy. Also, when it dries out it leaves a sticky, and then a glassy,
+crackly film. Rocks look fairly earthlike, but the absence or scarcity
+of anything like limestone is noticeable. Practically all the
+sedimentary rocks are of the sandstone type. All rivers are seasonal, running from the polar regions to the central
+seas in the spring only, or until the polar cap is completely dried
+out. 4. ANIMAL LIFE
+
+As on Earth life arose in the primitive waters and with a carbon base,
+but because of the abundance of silicone, there was a strong tendency
+for the microscopic organisms to develop silicate exoskeletons, like
+diatoms. The present invertebrate animal life of the planet is of this
+type and is confined to the equatorial seas. They run from amoeba-like
+objects to things like crayfish, with silicate skeletons. Later, some
+species of them started taking silicone into their soft tissues, and
+eventually their carbon-chain compounds were converted to silicone
+type chains, from
+
+  |  |  |         |   |  |   |  |
+--C--C--C-- to O--Si--O--Si--O--Si,
+  |  |  |         |   |  |   |  |
+
+with organic radicals on the side links. These organisms were a
+transitional type, with silicone tissues and water body fluids,
+resembling the earthly amphibians, and are now practically extinct. There are a few species, something like segmented worms, still to be
+seen in the backwaters of the central seas. A further development occurred when the silicone chain animals began
+to get short-chain silicones into their circulatory systems, held in
+solution by OH or NH_{2} groups on the ends and branches of the
+chains. The proportion of these compounds gradually increased until
+the water was a minor and then a missing constituent. The larger
+mobile species were, then, practically anhydrous. Their blood consists
+of short-chain silicones, with quartz reinforcing for the soft parts
+and their armor, teeth, etc., of pure amorphous quartz (opal). Most of
+these parts are of the milky variety, variously tinted with metallic
+impurities, as are the varieties of sapphires. These pure silicone animals, due to their practical indestructibility,
+annihilated all but the smaller of the carbon animals, and drove the
+compromise types into odd corners as relics. They developed into a
+fish-like animal with a very large swim-bladder to compensate for the
+rather higher density of the silicone tissues, and from these fish the
+land animals developed. Due to their high density and resulting high
+weight, they tend to be low on the ground, rather reptilian in look. Three pairs of legs are usual in order to distribute the heavy load. There is no sharp dividing line between the quartz armor and the
+silicone tissue. One merges into the other. The dominant pure silicone animals only could become mobile and
+venture far from the temperate equatorial regions of Uller, since they
+neither froze nor stiffened with cold, nor became incapacitated by
+heat. Note that all animal life is cold-blooded, with a negligible
+difference between body and ambient temperatures. Since the animals
+are silicones, they don't get sluggish like cold snakes. 5. PLANT LIFE
+
+The plants are of the carbon-metabolism, silicate-shell type, like the
+primitive animals. They spread out from the equator as far as they
+could go before the baking polar summers killed them. They have normal
+seasonal growth in the temperate zones and remain dormant and frozen
+in the winter. At the poles there is no vegetation, not because of the
+cold winter, but because of the hot summer. The winter winds
+frequently blow over dead trees and roll them as far as the equatorial
+seas. Other dead vegetation, because of the highly silicious water,
+always gets petrified unless it is eaten first. What with the
+quartz-speckled hides of the living vegetation and the solid quartz of
+the dead, a forest is spectacular. The silicone animals live on the plants. They chew them up, dehydrate
+them, and convert their silicious outer bark and carbonaceous
+interiors into silicones for themselves. When silicone tissue is
+metabolized, the carbon and hydrogen go to CO_{2} and H_{2}O, which
+are breathed out, while the silicone goes into SiO_{2}, which is
+deposited as more teeth and armor. (Compare the terrestrial octopus,
+which makes armor-plating out of calcium urate instead of excreting
+urea or uric acid.) The animals can, of course, eat each other too, or
+make a meal of the small carbonaceous animals of the equatorial seas. Further note that the animals cannot digest plants when they are cold. They can eat them and store them, but the disposal of the solid water
+and CO_{2} is too difficult a problem. When they warm up, the water in
+the plants melts and can be disposed of, and things are simpler. II
+
+THE FLUORINE PLANET
+
+1. THE STAR AND PLANET
+
+
+The planet named Niflheim is the fourth planet of Nu Puppis, right
+angle 6:36, declension-43:09; B8 type star, blue-white and hot, 148
+light years distant from Earth, which will require a speed in excess
+of light to reach it. Niflheim is 462,000,000 miles from its primary, a little less than the
+distance of Jupiter from our sun. It thus does not receive too great a
+total amount of energy, but what it does receive is of high potential,
+a large fraction of it being in the ultra-violet and higher
+frequencies. (Watch out for really super-special sunburn, etc., on
+unwarned personnel.) The gravity of Niflheim is approximately 1 g, the atmospheric pressure
+approximately 1 atmosphere, and the average ambient temperature
+about-60 deg.C;-76 deg.F. 2. ATMOSPHERE
+
+The oxidizer in the atmosphere is free fluorine (F_{2}) in a rather
+low concentration, about 4 or 5 percent. With it appears a mad
+collection of gases. There are a few inert diluents, such as N_{2}
+(nitrogen), argon, helium, neon, etc., but the major fraction consists
+of CF_{4} (carbon tetrafluoride), BF_{3} (boron trifluoride), SiF_{4}
+(silicon tetrafluoride), PF_{5} (phosphorous pentafluoride), SF_{6}
+(sulphur hexafluoride) and probably others. In other words, the
+fluorides of all the non-metals that can form fluorides. The
+phosphorous pentafluoride rains out when the weather gets cold. There
+is also free oxygen, but no chlorine. That would be liquid except in
+very hot weather. It sometimes appears combined with fluorine in
+chlorine trifluoride. The atmosphere has a slight yellowish tinge. 3. SOIL AND GEOLOGY
+
+Above the metallic core of the planet, the lithosphere consists
+exclusively of fluorides of the metals. There are no oxides, sulfides,
+silicates or chlorides. There are small deposits of such things as
+bromine trifluoride, but these have no great importance. Since
+fluorides are weak mechanically, the terrain is flattish. Nothing
+tough like granite to build mountains out of. Since the fluoride ion
+is colorless, the color of the soil depends upon the predominant metal
+in the region. As most of the light metals also have colorless ions,
+the colored rocks are rather rare. 4. THE WATERS UNDER THE EARTH
+
+They consist of liquid hydrofluoric acid (HF). It melts at-83 deg.C and
+boils at 19.4 deg.C. In it are dissolved varying quantities of metallic
+and non-metallic fluorides, such as boron trifluoride, sodium
+fluoride, etc. When the oceans and lakes freeze, they do so from the
+bottom up, so there is no layer of ice over free liquid. 5. PLANTS AND PLANT METABOLISM
+
+The plants function by photosynthesis, taking HF as water from the
+soil, and carbon tetrafluoride as the equivalent of carbon dioxide
+from the air to produce chain compounds, such as:
+
+  H  H  H  H
+  |  |  |  |
+--C--C--C--C--
+  |  |  |  |
+  F  F  F  F
+
+and at the same time liberating free fluorine. This reaction could
+only take place on a planet receiving lots of ultra-violet because so
+much energy is needed to break up carbon tetrafluoride and
+hydrofluoric acid. The plant catalyst (doubling for the magnesium in
+chlorophyll) is nickel. The plants are colored in various ways. They
+get their metals from the soil. 6. ANIMALS AND ANIMAL METABOLISM
+
+Animals depend upon two main reactions for their energy, and for the
+construction of their harder tissues. The soft tissues are about the
+same as the plant molecules, but the hard tissues are produced by the
+reaction:
+
+  H  H  H                 F  F  F
+  |  |  |                 |  |  |
+--C--C--C-- + F_{2} --> --C--C--C-- + HF
+  |  |  |                 |  |  |
+  F  F  F                 F  F  F
+
+resulting in a teflon boned and shelled organism. He's going to be
+tough to do much with. Diatoms leave strata of powdered teflon. The
+main energy reaction is:
+
+  H  H  H
+  |  |  |
+--C--C--C-- ... + F_{2} --> CF_{4} + HF
+  |  |  |
+  F  F  F
+
+The blood catalyst metal is titanium, which results in colorless
+arterial blood and violet veinous, as the titanium flips back and
+forth between tri and tetra-valent states. 7. EFFECT ON INTRUDING ITEMS
+
+Water decomposes into oxygen and hydrofluoric acid. All organic matter
+(earth type) converts into oxygen, carbon tetrafluoride, hydrofluoric
+acid, etc., with more or less speed. A rubber gas mask lasts about an
+hour. Glass first frosts and then disappears. Plastics act like
+rubber, only a little slower. The heavy metals, iron, nickel, copper,
+monel, etc., stand up well, forming an insoluble coat of fluorides at
+first and then doing nothing else. 8. WHY GO THERE? Large natural crystals of fluorides, such as calcium difluoride,
+titanium tetrafluoride, zirconium tetrafluoride, are extremely useful
+in optical instruments of various forms. Uranium appears as uranium
+hexafluoride, all ready for the diffusion process. Compounds of such
+non-metals as boron are obtainable from the atmosphere in high purity
+with very little trouble. All metallurgy must be electrical. There are
+considerable deposits of beryllium, and they occur in high
+concentration in its ores. PROLOGUE
+
+On Satan's Footstool
+
+
+The big armor-tender vibrated, gently and not unpleasantly, as the
+contragravity field alternated on and off, occasionally varying its
+normal rate of five hundred to the second when some thermal updraft
+lifted the vehicle and the automatic radar-altimeter control acted to
+alter the frequency and lower it again. Sometimes it rocked slightly,
+like a boat on the water, and, in the big screen which served in lieu
+of a window at the front of the control cabin, the dingy-yellow
+landscape would seem to tilt a little. If unshielded human eyes could
+have endured the rays of Nu Puppis, Niflheim's primary, the whole scene
+would have appeared a vivid Saint Patrick's Day green, the effect of
+the blue-predominant light on the yellow atmosphere. The outside
+'visor-pickup, however, was fitted with filters which blocked out the
+gamma-rays and X-rays and most of the ultra-violet-rays, and added the
+longer light-waves of red and orange which were absent, so that things
+looked much as they would have under the light of a G0-type star like
+Sol. The air was faintly yellow, the sky was yellow with a greenish
+cast, and the clouds were green-gray. A thousand feet below, the local equivalent of a forest grew, the
+trees, topped with huge ragged leaves, looking like hundred-foot
+stalks of celery. There would be animal life down there, too--little
+round things, four inches across, like eight-legged crabs, gnawing at
+the vegetation, and bigger things, two feet long, with articulated
+shell-armor and sixteen legs, which fed on the smaller herbivores. Beyond, in the middleground, was open grassland, if one could so call
+a mat of wormlike colorless or pastel-tinted sprouts, and a river
+meandered through it. On the skyline, fifty miles away, was a range of
+low dunes and hills, none more than a thousand feet high. No human had ever set foot on the surface, or breathed the air, of
+Niflheim. To have done so would have been instant death; the air was a
+mixture of free fluorine and fluoride gasses, the soil was metallic
+fluorides, damp with acid rains, and the river was pure hydrofluoric
+acid. Even the ordinary spacesuit would have been no protection; the
+glass and rubber and plastic would have disintegrated in a matter of
+minutes. People came to Niflheim, and worked the mines and uranium
+refineries and chemical plants, but they did so inside power-driven
+and contragravity-lifted armor, and they lived on artificial
+satellites two thousand miles off-planet. This vehicle, for instance,
+was built and protected as no spaceship ever had to be, completely
+insulated and entered only through a triple airlock--an outer lock,
+which would be evacuated outward after it was closed, a middle lock
+kept evacuated at all times, and an inner lock, evacuated into the
+interior of the vehicle before the middle lock could be opened. Niflheim was worse than airless, much worse. The chief engineer sat at his controls, making the minor lateral
+adjustments in the vehicle's position which were not possible to the
+automatic controls. One of the radiomen was receiving from the orbital
+base; the other was saying, over and over, in an exasperatedly
+patient voice: "Dr. Murillo. Dr. Murillo. Please come in, Dr. Murillo." At his own panel of instruments, a small man with grizzled
+black hair around a bald crown, and a grizzled beard, chewed nervously
+at the stump of a dead cigar and listened intently to what was--or for
+what wasn't--coming in to his headset receiver. A couple of assistants
+checked dials and refreshed their memories from notebooks and peered
+anxiously into the big screen. A large, plump-faced, young man in
+soiled khaki shirt and shorts, with extremely hairy legs, was doodling
+on his notepad and eating candy out of a bag. And a black-haired girl
+in a suit of coveralls three sizes too big for her, and, apparently,
+not much of anything else, lounged with one knee hooked over her
+chair-arm, staring into the screen at the distant horizon. "Dr. Murillo. Dr. Mur--" The radioman broke off in mid-syllable and
+listened for a moment. "I hear you, doctor, go ahead." Then, a moment
+later "What's your position, now, doctor?" "I can see them," the girl said, lifting a hand in front of her. "At
+two o'clock, about one of my hand's-breadths above the horizon." The man with the grizzled beard put his face into the fur around the
+eyepiece of the telescopic-'visor and twisted a dial. "You have good
+eyes, Miss Quinton," he complimented. "Only four personal armors;
+Ahmed, ask him where the fifth is." "We only see four of your personal-armors," the radioman said. "Who's
+missing, and why?" He waited for a moment, then lowered the hand-phone
+and turned. "The fifth one's inside the handling-machine. One of the
+Ullerans. Gorkrink." The larger of the specks that had appeared on the horizon resolved
+itself into a handling-machine, a thing like an oversized
+contragravity-tank, with a bulldozer-blade, a stubby derrick-boom
+instead of a gun, and jointed, claw-tipped arms to the sides. The
+smaller dots grew into personal armor--egg-shaped things that sprouted
+arms and grab-hooks and pushers in all directions. The man with the
+grizzled beard began talking rapidly into his hand-phone, then hung it
+up. There was a series of bumps, and the armor-tender, weightless on
+contragravity, shook as the handling-machine came aboard. "You ever see any nuclear bombing, Miss Quinton?" the young man with
+the hairy legs asked, offering her his candy bag. "Only by telecast, back Sol-side," she replied, helping herself. "Test-shots at the Federation Navy proving-ground on Mars. I never
+even heard of nuclear bombs being used for mining till I came here,
+though." "Well, if this turns out as well as the other job, three months ago,
+it'll be something to see," he promised. "These volcanoes have been
+dormant for, oh, maybe as long as a thousand years; there ought to be
+a pretty good head of gas down there. And the magma'll be thick,
+viscous stuff, like basalt on Terra. Of course, this won't be anything
+like basalt in composition--it'll be intensely compressed metallic
+fluorides, with a very high metal-content. The volcanoes we shot three
+months ago yielded a fine flow of lava with all sorts of
+metals--nickel, beryllium, vanadium, chromium, indium, as well as
+copper and iron." "What sort of gas were you speaking about?" she asked. "Hydrogen. That's what's going to make the fireworks; it combines
+explosively with fluorine. The hydrogen-fluorine combination is what
+passes for combustion here; the result is hydrofluoric acid, the
+local equivalent of water. See, the metallic core of this planet is
+covered, much less thickly than that of Terra, with fluoride
+rock--fluorspar, and that sort of thing. There's nothing like granite
+here, for instance. That's why those big dunes, out there, are the
+best Niflheim has in the way of mountains. The subsurface hydrogen is
+produced when the acid filters down through the rock, combines with
+pure metals underneath." "Dr. Murillo's inside, now," the radioman said. "Just came out of the
+inner airlock. He'll be up as soon as he gets out of his
+pressure-suit." "As soon as he gets here, I'll touch it off," the bearded man said. "Everything set, de Jong?" "Everything ready, Dr. Gomes," one of his assistants assured him. The door at the rear of the control-cabin opened, and Juan Murillo,
+the seismologist, entered, followed by an assistant. Murillo was a big
+man, copper-skinned, barrel-chested; he looked like a third-or
+fourth-generation Martian, of Andes Indian ancestry. He came forward
+and stood behind Gomes' chair, looking down at the instruments. His
+assistant stopped at the door. This assistant was not human. He was a
+biped, vaguely humanoid, but he had four arms and a face like a
+lizard's, and, except for some equipment on a belt, he was entirely
+naked. He spoke rapidly to Murillo, in a squeaking jabber. Murillo turned. "Yes, if you wish, Gorkrink," he said, in the
+English-Spanish-Afrikaans-Portuguese mixture that was Sixth Century,
+A.E., Lingua Terra. Then he turned back to Gomes as the Ulleran sat
+down in a chair by the door. "Well, she's all yours, Lourenco, shoot the works." Gomes stabbed the radio-detonator button in front of him. A voice came
+out of the PA-speaker overhead: "In sixty seconds, the bombs will be
+detonated ... thirty seconds ... fifteen seconds ... ten seconds ...
+five seconds, four seconds, three seconds, two seconds, one
+second...."
+
+Out on the rolling skyline, fifty miles away, a lancelike ray of
+blue-white light shot up into the gathering dusk--a clump of five
+rays, really, from five deep shafts in an irregular pentagon half a
+mile across, blended into one by the distance. An instant later, there
+was a blinding flash, like sheet-lightning, and a huge ball of
+varicolored fire belched upward, leaving a series of smoke-rings to
+float more slowly after it. That fireball flattened, then spread to
+form the mushroom-head of a column of incandescent gas that mounted to
+overtake it, engorging the smoke-rings as it rose, twisting, writhing,
+changing shape, turning to dark smoke in one moment and belching flame
+and crackling with lightning the next. The armor-tender began to pitch
+and roll; it was all the engineer and one of the assistants could do,
+together, to keep it level. "In about half an hour," the large young man told the girl, "the real
+fireworks should be starting. What's coming up now is just small
+debris from the nuclear blast. When the shockwaves get down far enough
+to crack things open, the gas'll come up, and then steam and ash, and
+then the magma. This one ought to be twice as good as the one we shot
+three months ago; it ought to be every bit as good as Krakatoa, on
+Terra, in 59 Pre-Atomic." "Well, even this much was worth staying over for," the girl said,
+watching the screen. "You going on to Uller on the _City of Canberra_?" Lourenco Gomes
+asked. "I wish I were; I have to stay over and make another shot, in a
+month or so, and I've had about all of Niflheim I can take, now. The
+sooner I get onto a planet where they don't ration the air, the better
+I'll like it." "Well, what do you know!" the large young man with the hairy legs
+mock-marveled. "He doesn't like our nice planet!" "Nice planet!" Gomes muttered something. "They call Terra God's
+Footstool; well, I'll give you one guess who uses this thing to prop
+his cloven hoofs on." "When are you going to Terra?" the girl asked him. "Terra? I don't know, a year, two years. But I'm going to Uller on the
+next ship--the _City of Pretoria_--if we get the next blast off in
+time. They want me to design some improvements on a couple of
+power-reactors, so I'll probably see you when I get there." "Here she comes!" the chief engineer called. "Watch the base of the
+column!" The pillar of fiery smoke and dust, still boiling up from where the
+bombs had gone off far underground, was being violently agitated at
+the bottom. A series of new flashes broke out, lifting and spreading
+the incandescent radioactive gasses, and then a great gush of flame
+rose. A column of pure hydrogen must have rushed up into the vacuum
+created by the explosion; the next blast of flame, in a lateral sheet,
+came at nearly ten thousand feet above the ground, and great rags of
+fire, changing from red to violet and back through the spectrum to red
+again, went soaring away to dissipate in the upper atmosphere. Then
+geysers of hot ash and molten rock spouted upward; some of the
+white-hot debris landed almost at the acid river, half-way to the
+armor-tender. "We've started a first-class earthquake, too," the Hispano-Indian
+Martian Murillo said, looking at the instruments. "About six big
+cracks opening in the rock-structure. You know, when this quiets down
+and cools off, we'll have more ore on the surface than we can handle
+in ten years, and more than we could have mined by ordinary means in
+fifty." About four miles from the original blast, another eruption began with
+a terrific gas-explosion. "Well, that finishes our work," the large young man said, going to a
+kitbag in the corner of the cabin and getting out a bottle. "Get some
+of those plastic cups, over there, somebody; this one calls for a
+drink." "That's right," Gomes said. "You do something once, it may be an
+accident; you repeat the performance, and it's a success." He began
+pushing papers aside on his desk, and the girl in the too-ample
+coveralls brought drinking cups. The Ulleran, in the background, rose quickly and squeaked
+apologetically. Murillo nodded. "Yes, of course, Gorkrink. No need for
+you to stay here." The Ulleran went out, closing the door behind him. "That taboo against Ullerans and Terrans watching each other eat and
+drink," Murillo said. "What is that, part of their religion?" "No, it's their version of modesty," the girl replied. "Like some of
+our sex-inhibitions, which they can't even begin to understand.... But
+you were speaking to him in Lingua Terra; I didn't know any of them
+understood it." "Gorkrink does," Murillo said, uncorking the bottle and pouring into
+the plastic cups. "None of them can speak it, of course, because of
+the structure of their vocal organs, any more than we can speak their
+languages without artificial aids. But I can talk to him in Lingua
+Terra without having to put one of those damn gags in my mouth, and he
+can pass my instructions on to the others. He's been a big help; I'll
+be sorry to lose him." "Lose him?" "Yes, his year's up; he's going back to Uller on the _Canberra_. You
+know, it's impossible to keep some trace of fluorine from the air in
+the handling-machines, or even out on the orbiters, and it plays the
+devil with their lungs. He wanted to stay on another three months, to
+help with the next shot, but the medics wouldn't hear of it.... He's
+from Keegark, wherever on Uller that is; claims to be a prince, or
+something. I know all the other geeks kowtow to him. But he's a damn
+good worker. Very smart; picks things up the first time you tell him. I'll recommend him unqualifiedly for any kind of work with
+contragravity or mechanized equipment." They all had drinks, now, except the chief engineer, who wanted a
+rain-check on his. "Well, here's to us," Murillo said. "The first A-bomb miners in
+history...."
+
+
+
+
+I.
+
+Commander-in-Chief Front and Center
+
+
+General Carlos von Schlichten threw his cigarette away, flexed his
+hands in his gloves, and set his monocle more firmly in his eye,
+stepping forward as the footsteps on the stairway behind him ceased
+and the other officers emerged from the squat flint keep--Captain
+Cazabielle, the post CO; big, chocolate-brown Brigadier-General
+Themistocles M'zangwe; little Colonel Hideyoshi O'Leary. Far in front
+of him, to the left, the horizon was lost in the cloudbank over Takkad
+Sea; directly in front, and to the right, the brown and gray and black
+flint mountains sawed into the sky until they vanished in the
+distance. Unseen below, the old caravan-trail climbed one side of the
+pass and slid down the other, a sheer five hundred feet below the
+parapet and the two corner catapult-platforms which now mounted 90-mm
+guns. On the little hundred-foot-square parade ground in front of the
+keep, his aircar was parked, and the soldiers were assembled. Ten or twelve of them were Terrans--a couple of lieutenants,
+sergeants, gunners, technicians, the sergeant-driver and
+corporal-gunner of his own car. The other fifty-odd were Ulleran
+natives. They stood erect on stumpy legs and broad, six-toed feet. They had four arms apiece, one pair from true shoulders and the other
+connected to a pseudo-pelvis midway down the torso. Their skins were
+slate-gray and rubbery, speckled with pinhead-sized bits of quartz
+that had been formed from perspiration, for their body-tissues were
+silicone instead of carbon-hydrogen. Their narrow heads were
+unpleasantly saurian; they had small, double-lidded red eyes, and
+slit-like nostrils, and wide mouths filled with opalescent teeth. Except for their belts and equipment, they were completely naked; the
+uniform consisted of the emblem of the Chartered Uller Company
+stencil-painted on chests and backs. Clothing, to them, was
+unnecessary, either for warmth or modesty. As to the former, they were
+cold-blooded and could stand a temperature-range of from a hundred and
+twenty to minus one hundred Centigrade. Von Schlichten had seen them
+sleeping in the open with their bodies covered with frost or freezing
+rain; he had also seen them wade through boiling water. As to the
+second, they had practically no sex-inhibitions; they were all of the
+same gender, true, functional, hermaphrodites. Any individual among
+them could bear young, or fertilize the ova of any other individual. Fifteen years ago, when he had come to Uller as a former Terran
+Federation captain newly commissioned colonel in the army of the Uller
+Company, it had taken some time before he had become accustomed to the
+detailing of a non-com and a couple of privates out of each platoon
+for baby-sitting duty. At least, though, they didn't have the
+squaw-trouble around army posts on Uller that they had on Thor, where
+he had last been stationed. An airjeep, coming in out of the sun, circled the crag-top fort and
+let down onto the terrace next to von Schlichten's command-car. It
+carried a bristle of 15-mm machine-guns, and two of the eight 50-mm
+rocket-tubes on either side were empty and freshly smoke-stained. The
+duraglass canopy slid back, and the two-man crew--lieutenant-driver
+and sergeant-gunner--jumped out. Von Schlichten knew them both. "Lieutenant Kendall; Sergeant Garcia," he greeted. "Good afternoon,
+gentlemen." Both saluted, in the informal, hell-with-rank-we're-all-human manner
+of Terran soldiers on extraterrestrial duty, and returned the
+greeting. "How's the Jeel situation?" he asked, then nodded toward the fired
+rocket-tubes. "I see you had some shooting." "Yes, sir," the lieutenant said. "Two bands of them. We sighted the
+first coming up the eastern side of the mountain about two miles this
+side of the Blue Springs. We got about half of them with MG-fire, and
+the rest dived into a big rock-crevice. We had to use two rockets on
+them, and then had to let down and pot a few of them with our pistols. We caught the second band in that little punchbowl place about a mile
+this side of Zortolk's Old Fort. There were only six of them; they
+were bunched together, feeding. Off one of their own gang, I'd say;
+the way we've been keeping them up in the high rocks, they've been
+eating inside the family quite a bit, lately. We let them have two
+rockets. No survivors. Not many very big pieces, in fact. We let down
+at Zortolk's for a beer, after that, and Captain Martinelli told us
+that one of his jeeps caught what he thinks was the same band that was
+down off the mountain night-before-last and ate those peasants on
+Prince Neeldink's estate." "By God, I'm glad to hear that!" There'd been a perfect hell of a flap
+about that business. Before the Terrans came to Uller, it was a good
+year when not more than five hundred farm-folk would be killed and
+eaten by Jeel cannibals. The incident of two nights ago had been the
+first of its kind in almost six months, but the nobleman whose serfs
+had been eaten was practically accusing the Company of responsibility
+for the crime. "I'll see that Neeldink is informed. The more you do
+for these damned geeks, the more they expect from you.... When you get
+your vehicle re-ammoed, lieutenant, suppose you buzz back to where you
+machine-gunned that first gang. If there are any more around, they'll
+have moved in for the free meal by now." This breakdown of the Jeels'
+taboo against eating fellow-tribesmen was one of the best things he'd
+heard from the cannibal-extermination project for some time. He turned to Themistocles M'zangwe. "In about two weeks, get a little
+task-force together. Say ten combat-cars, about twenty airjeeps, and a
+battalion of Kragan Rifles in troop-carriers. Oh, yes, and this
+good-for-nothing Konkrook Fencibles outfit of Prince Jaizerd's; they
+can be used for beaters, and to block escape routes." He turned back
+to Lieutenant Kendall and Sergeant Garcia. "Good work, boys. And if
+the synchro-photos show that any of that first bunch got away, don't
+feel too badly about it. These Jeels can hide on the top of a
+pool-table." He climbed into the command-car, followed by Themistocles M'zangwe and
+Hideyoshi O'Leary. Sergeant Harry Quong and Corporal Hassan Bogdanoff
+took their places on the front seat; the car lifted, turned to nose
+into the wind, and rose in a slow spiral. Below, the fort grew
+smaller, a flat-topped rectangle of masonry overlooking the pass, a
+gun covering each approach, and two more on the square keep to cover
+the rocky hogback on which the fort had been built, with the flagpole
+between them. Once that pole had lifted a banner of ragged black
+marsh-flopper skin bearing the device of the Kragan riever-chieftain
+whose family had built the castle; now it carried a neat rectangle of
+blue bunting emblazoned with the wreathed globe of the Terran
+Federation and, below that, the blue-gray pennant which bore the
+vermilion trademark of the Chartered Uller Company. "Where now, sir?" Harry Quong asked. He looked at his watch. Seventeen-hundred; there wasn't time for a
+visit to Zortolk's Old Fort, ten miles to the north at the next pass. "Back to Konkrook, to the island." The nose of the car swung east by south; the cold-jet rotors began
+humming and then the hot-jets were cut in. The car turned from the
+fort and the mountains and shot away over the foothills toward the
+coastal plain. Below were forests, yellow-green with new foliage of
+the second growing season of the equatorial year, veined with narrow
+dirt roads and spotted with occasional clearings. Farther east, the
+dirty gray woodsmoke of Uller marked the progress of the
+charcoal-burnings. It took forty years to burn the forests clear back
+to the flint cliffs; by the time the burners reached the mountains,
+the new trees at the seaward edge would be ready to cut. Off to the
+south, he could see the dark green squares, where the hemlocks and
+Norway spruce had been planted by the Company. With a little chemical
+fertilizer, they were doing well, and they made better charcoal than
+the silicate-heavy native wood. That was the only natural fuel on
+Uller; there was no coal, of course, since fallen timber and even
+standing dead trees petrified in a matter of a couple of years. There
+was too much silica on Uller, and not enough of anything else; what
+would be coal-seams on Terra were strata of silicified wood. And, of
+course, there was no petroleum. There was less charcoal being burned
+now than formerly; the Uller Company had been bringing in great
+quantities of synthetic thermoconcentrate-fuel, and had been setting
+up nuclear furnaces and nuclear-electric power-plants, wherever they
+gained a foothold on the planet. Beyond the forests came the farmlands. Around the older estates, thick
+walls of flint and petrified wood had been built, and wide moats dug,
+to keep out the shellosaurs. But now the moats were dry, and the walls
+falling into disrepair. Some of the newer farms, land devoted to
+agriculture with the declining demand for charcoal, had neither moats
+nor walls. That was the Company, too; the huge shell-armored beasts
+had become virtually extinct in the Konk Isthmus now, since the
+introduction of bazookas and recoilless rifles. There seemed to be
+quite a bit of power-equipment working in the fields, and big
+contragravity lorries were drifting back and forth, scattering
+fertilizer, mainly nitrates from Mimir or Yggdrasill. There were still
+a good number of animal-drawn plows and harrows in use, however. As planets went, Uller was no bargain, he thought sourly. At times, he
+wished he had never followed the lure of rapid promotion and
+fantastically high pay and left the Federation regulars for the army
+of the Uller Company. If he hadn't, he'd probably be a colonel, at
+five thousand sols a year, but maybe it would be better to be a
+middle-aged colonel on a decent planet--Odin, with its two moons,
+Hugin and Munin, and its wide grasslands and its evergreen forests
+that looked and even smelled like the pinewoods of Terra, or Baldur,
+with snow-capped mountains, and clear, cold lakes, and rocky rivers
+dashing under great vine-hung trees, or Freya, where the people were
+human to the last degree and the women were so breathtakingly
+beautiful--than a Company army general at twenty-five thousand on
+this combination icebox, furnace, wind-tunnel and stonepile, where the
+water tasted like soapsuds and left a crackly film when it dried;
+where the temperature ranged, from pole to pole, between two hundred
+and fifty and minus a hundred and fifty Fahrenheit and the
+Beaufort-scale ran up to thirty; where nothing that ran or swam or
+grew was fit for a human to eat, and where the people....
+
+Of course, there were worse planets than Uller. There was Nidhog, cold
+and foggy, its equatorial zone a gloomy marsh and the rest of the planet
+locked in eternal ice. There was Bifrost, which always kept the same
+face turned to its primary; one side blazingly hot and the other close
+to absolute zero, with a narrow and barely habitable twilight zone
+between. There was Mimir, swarming with a race of semi-intelligent
+quasi-rodents, murderous, treacherous, utterly vicious. Or Niflheim. The
+Uller Company had the franchise for Niflheim, too; they'd had to take
+that and agree to exploit the planet's resources in order to get the
+franchise for Uller, which furnished a good quick measure of the
+comparative merits of the two. Ahead, the city of Konkrook sprawled along the delta of the Konk river
+and extended itself inland. The river was dry, now. Except in spring,
+when it was a red-brown torrent, it never ran more than a trickle, and
+not at all this late in the northern summer. The aircar lost altitude,
+and the hot-jet stopped firing. They came gliding in over the suburbs
+and the yellow-green parks, over the low one-story dwellings and
+shops, the lofty temples and palaces, the fantastically twisted
+towers, following a street that became increasingly mean and squalid
+as it neared the industrial district along the waterfront. Von Schlichten, on the right, glanced idly down, puffing slowly on
+his cigarette. Then he stiffened, the muscles around his right eye
+clamping tighter on the monocle. Leaning forward, he punched Harry
+Quong lightly on the shoulder. "Circle back, sergeant; let's have a look at that street again," he
+directed. "Something going on, down there; looks like a riot." "Yes, sir; I saw it," the Chinese-Australian driver replied. "Terrans
+in trouble; bein' mobbed by geeks. Aircar parked right in the bloody
+middle of it." The car made a twisting, banking loop and came back, more slowly. Colonel Hideyoshi O'Leary was using the binoculars. "That's right," he said. "Terrans being mobbed. Two of them, backed up
+against a house. I saw one of them firing a pistol." Von Schlichten had the handset of the car's radio, and was punching
+out the combination of the Company guardhouse on Gongonk Island; he
+held down the signal button until he got an answer. "Von Schlichten, in car over Konkrook. Riot on Fourth Avenue, just off
+Seventy-second Street." No Terran could possibly remember the names of
+Konkrook's streets; even native troops recruited from outside found
+the numbers easier to learn and remember. "Geeks mobbing a couple of
+Terrans. I'm going down, now, to do what I can to help; send troops in
+a hurry. Kragan Rifles. And stand by; my driver'll give it to you as
+it happens." The voice of somebody at the guardhouse, bawling orders, came out of
+the receiver as he tossed the phone forward over Harry Quong's
+shoulder; Quong caught it and began speaking rapidly and urgently into
+it while he steered with the other hand. Von Schlichten took one of
+the five-pound spiked riot-maces out of the rack in front of him. Themistocles M'zangwe had already drawn his pistol; he shifted it to
+his left hand and took a mace in his right. The Nipponese-Irish
+colonel, looking like a homicidally infuriated pixie, had an automatic
+in one hand and a long dagger in the other. Harry Quong and Hassan Bogdanoff were old Uller hands; they'd done
+this sort of work before. Bogdanoff rose into the ball-turret and
+swung the twin 15-mm's around, cutting loose. Quong brought the car in
+fast, at about shoulder-height on the mob. Between them, they left a
+swath of mangled, killed, wounded, and stunned natives. Then, spinning
+the car around, Quong set it down hard on a clump of rioters as close
+as possible to the struggling group around the two Terrans. Von
+Schlichten threw back the canopy and jumped out of the car, O'Leary
+and M'zangwe behind him. There was another aircar, a dark maroon civilian job, at the curb; its
+native driver was slumped forward over the controls, a short
+crossbow-bolt sticking out of his neck. Backed against the closed door
+of a house, a Terran with white hair and a small beard was clubbing
+futilely with an empty pistol. He was wounded, and blood was streaming
+over his face. His companion, a young woman in a long fur coat, was
+laying about her with a native bolo-knife. Von Schlichten's mace had a spiked ball-head, and a four-inch spike in
+front of that. He smashed the ball down on the back of one Ulleran's
+head, and jabbed another in the rump with the spike. "_Zak! Zak!_" he yelled, in pidgin-Ulleran. "_Jik-jik_, you
+lizard-faced Creator's blunder!" The Ulleran whirled, swinging a blade somewhere between a big
+butcherknife and a small machete. His mouth was open, and there was
+froth on his lips. "_Znidd suddabit!_" he screamed. Von Schlichten parried the cut on the steel shaft of his mace. "_Suddabit_ yourself, you geek bastard!" he shouted back, ramming the
+spike-end into the opal-filled mouth. "And _znidd_ you, too," he
+added, recovering and slamming the ball-head down on the narrow
+saurian skull. The Ulleran went down, spurting a yellow fluid about
+the consistency of gun-oil. Then, without wasting words, he maced
+another of the things. Ahead, one of the natives had caught the wounded Terran with both
+lower hands, and was raising a dagger with his upper right. The girl
+in the fur coat swung wildly, slashing the knife-arm, then chopped
+down on the creature's neck. To one side, a native somewhat better
+dressed than the others, to the extent of a couple of belts with gold
+ornaments, drew a Terran automatic. Von Schlichten hurled his mace and
+drew his pistol, thumbing off the safety as he swung it up, but before
+he could fire, Hassan Bogdanoff had seen and swung his guns around;
+the double burst caught the native in the chest and fairly tore him
+apart. Another of them closed with the girl, grabbing her right arm with all
+four hands and biting at her; she screamed and kicked her attacker in
+the groin, where an Ulleran is, if anything, even more vulnerable than
+a Terran. The native howled hideously, and von Schlichten, jumping
+over a couple of corpses, shoved the muzzle of his pistol into the
+creature's open mouth and pulled the trigger, blowing its head apart
+like a rotten pumpkin and splashing both himself and the girl with
+yellow blood and rancid-looking gray-green brains. Hideyoshi O'Leary, jumping forward after von Schlichten, stuck his
+dagger into the neck of a rioter and left it there, then caught the
+girl around the waist with his free arm. Themistocles M'zangwe dropped
+his mace and swung the frail-looking man onto his back. Together, they
+struggled back to the command-car, von Schlichten covering the retreat
+with his pistol. Another rioter--a Zirk nomad from the North, he
+guessed--was aiming one of the long-barreled native air-rifles,
+holding the ten-inch globe of the air-chamber in both lower hands. Von
+Schlichten shot him, and the Zirk literally blew to pieces. For an instant, he wondered how the small bursting-charge of a 10-mm
+explosive pistol-bullet could accomplish such havoc, and assumed that
+the native had been carrying a bomb in his belt. Then another
+explosion tossed fragmentary corpses nearby, and another and another. Glancing quickly over his shoulder, he saw four combat-cars coming in,
+firing with 40-mm auto-cannon and 15-mm machine-guns. They swept
+between the hovels on one side and the warehouses on the other,
+strafing the mob, darted up to a thousand feet, looped, and came
+swooping back, and this time there were three long blue-gray
+troop-carriers behind them. These landed in the hastily cleared street and began disgorging native
+Company soldiers--Kragan mercenaries, he noted with satisfaction. They
+carried a modified version of the regular Terran Federation infantry
+rifle, stocked and sighted to conform to their physical peculiarities,
+with long, thorn-like, triangular bayonets. One platoon ran forward,
+dropped to one knee, and began firing rapidly into what was left of
+the mob. Four-handed soldiers can deliver a simply astonishing volume
+of fire, particularly when armed with auto-rifles having twenty-shot
+drop-out magazines which can be changed with the lower hands without
+lowering the weapon. There was a clatter of shod hoofs, and a company of the King of
+Konkrook's cavalry came trotting up on their six-legged,
+lizard-headed, quartz-speckled mounts. Some of these charged into side
+alleys, joyfully lancing and cutting down fleeing rioters, while
+others dismounted, three tossing their reins to a fourth, and went to
+work with their crossbows. Von Schlichten, who ordinarily entertained
+a dim opinion of the King of Konkrook's soldiery, admitted,
+grudgingly, that it was smart work; four hands were a big help in
+using a crossbow, too. A Terran captain of native infantry came over, saluting. "Are you and your people all right, general?" he asked. Von Schlichten glanced at the front seat of his car, where Harry
+Quong, a pistol in his right hand, was still talking into the
+radio-phone, and Hassan Bogdanoff was putting fresh belts into his
+guns. Then he saw that the Graeco-African brigadier and the
+Irish-Japanese colonel had gotten the wounded man into the car. The
+girl, having dropped her bolo, was leaning against the side of the
+car, one foot heedlessly in what was left of an Ulleran who had gotten
+smashed under it, weak with nervous reaction. "We seem to be, Captain Pedolsky. Very smart work; you must have those
+vehicles of yours on hyperspace-drive.... How is he, colonel?" "We'd better get him to the hospital, right away," O'Leary replied. "I
+think he has a concussion." "Harry, call the hospital. Tell them what the score is, and tell them
+we're bringing the casualty in to their top landing stage.... Why,
+we'll make out very nicely, captain. You'd better stay around with
+your Kragans and make sure that these geeks of King Jaikark's don't
+let the riot flare up again and get away from them. And don't let them
+get the impression that they can maintain order around here without
+our help; the Company would like to see that attitude discouraged." "Yes, sir, I understand." Captain Pedolsky opened the pouch on his
+belt and took out the false palate and tongue-clicker without which no
+Terran could do more than mouth a crude and barely comprehensible
+pidgin-Ulleran. Stuffing the gadget into his mouth, he turned and
+began jabbering orders. Von Schlichten helped the girl into the car, placing her on his right. The wounded civilian was propped up in the left corner of the seat,
+and Colonel O'Leary and Brigadier-General M'zangwe took the
+jump-seats. The driver put on the contragravity-field, and the car
+lifted up. "Them, see if there's a flask and a drinking-cup in the door pocket
+next to you," he said. "I think Miss Quinton could use a drink." The girl turned. Even in her present disheveled condition, she was
+beautiful--a trifle on the petite side, with black hair and black eyes
+that quirked up oddly at the outer corners. Her nails were
+black-lacquered and spotted with little gold stars, evidently a new
+feminine fad from Terra. "I certainly could, general.... How did you know my name?" "You've been on Uller for the last three months; ever since the _City
+of Canberra_ got in from Niflheim. On Uller, there aren't enough of us
+that everybody doesn't know all about everybody else. You're Dr. Paula
+Quinton; you're an extraterrestrial sociographer, and you're a
+field-agent for the Extraterrestrials' Rights Association, like
+Mohammed Ferriera, here." He took the cup and flask from Themistocles
+M'zangwe and poured her a drink. "Take this easy, now; Baldur
+honey-rum, a hundred and fifty proof." He watched her sip the stuff cautiously, cough over the first
+mouthful, and then get the rest of it down. "More?" When she shook her head, he stoppered the flask and relieved
+her of the cup. "What were you doing in that district, anyhow?" he
+wanted to know. "I'd have thought Mohammed Ferriera would have had
+more sense than to take you there, or go there, himself, for that
+matter." "We went to visit a friend of his, a native named Keeluk, who seems to
+be a sort of combination clergyman and labor leader," she replied. "I'm going to observe labor conditions at the North Pole mines in a
+short while, and Mr. Keeluk was going to give me letters of
+introduction to friends of his at Skilk." With the aid of his monocle, von Schlichten managed to keep a straight
+face. Neither M'zangwe nor O'Leary had any such aid; the African
+rolled his eyes and the Japanese-Irishman grimaced. "We talked with Mr. Keeluk for a while," the girl said, "and when we
+came out, we found that our driver had been killed and a mob had
+gathered. Of course, we were carrying pistols; they're part of this
+survival-kit you make everybody carry, along with the emergency-rations
+and the water-desilicator. Mr. Ferriera's wasn't loaded, but mine was. When they rushed us, I shot a couple of them, and then picked up that
+big knife...."
+
+"That's why you're still alive," von Schlichten commented. "We wouldn't be if you hadn't come along," she told him. "I never in
+my life saw anything as beautiful as you coming through that mob
+swinging that war-club!" "Well, I never saw anything much more beautiful than those 40-mm's
+beginning to land in the mob," von Schlichten replied. The aircar swung out over Konkrook Channel and headed toward the
+blue-gray Company buildings on Gongonk Island, and the Company
+airport, swarming with lorries and airboats, where the ten
+thousand-ton _Oom Paul Kruger_ had just come in from Keegark, and the
+Company's one real warship, the cruiser _Procyon_, was lifting out for
+Grank, in the North. Down at the southern tip of the island, the
+three-thousand-foot globe of the spaceship _City of Pretoria_, from
+Niflheim, was loading with cargo for Terra. "Just what happened, while you and Mr. Ferriera were in Keeluk's
+house. Miss Quinton?" Hideyoshi O'Leary asked, trying not to sound
+official. "Was Keeluk with you all the time? Or did he go out for a
+while, say fifteen or twenty minutes before you left?" "Why, yes, he did." Paula Quinton looked surprised. "How did you guess
+it? You see, a dog started barking, behind the house, and he excused
+himself and...."
+
+"A dog?" von Schlichten almost shouted. The other officers echoed him,
+and on the front seat, Harry Quong said, "Coo-bli'me!" "Why, yes...." Paula Quinton's eyes widened. "But there are no dogs on
+Uller, except a few owned by Terrans. And wasn't there something
+about ...?" Von Schlichten had the radio-phone and was calling the command car at
+the scene of the riot. The sergeant-driver answered. "Von Schlichten here; my compliments to Captain Pedolsky, and tell him
+he's to make immediate and thorough search of the house in front of
+which the incident occurred, and adjoining houses. For his
+information, that's Keeluk's house. Tell him to look for traces of
+Governor-General Harrington's collie, or any of the other terrestrial
+animals that have been disappearing--that goat, for instance, or those
+rabbits. And I want Keeluk brought in, alive and in condition to be
+interrogated. I'll send more troops, or Constabulary, to help you." He
+handed the phone to M'zangwe. "You take care of that end of it, Them;
+you know who can be spared." "But, what ...?" the girl began. "That's why you were attacked," he told her. "Keeluk was afraid to let
+you get away from there alive to report hearing that dog, so he went
+out and had a gang of thugs rounded up to kill you." "But he was only gone five minutes." "In five minutes, I can put all the troops in Konkrook into action. Keeluk doesn't have radio or TV--we hope--but he has his forces
+concentrated, and he has a pretty good staff." "But Mr. Keeluk's a friend of ours. He knows what our Association is
+trying to do for his people...."
+
+"So he shows his appreciation by setting that mob on you. Look, he has
+a lot of influence in that section. When you were attacked, why wasn't
+he out trying to quiet the mob?" "When they jumped you, you tried to get back into the house," M'zangwe
+put in. "And you found the door barred against you." "Yes, but...." The girl looked troubled; M'zangwe had guessed right. "But what's all the excitement about the dog? What is it, the sacred
+totem-animal of the Uller Company?" "It's just a big brown collie, named Stalin, like half the dogs on
+Terra. Somebody stole it, and Keeluk was keeping it, and we want to
+know why. We don't like geek mysteries; not when they lead to
+murderous attacks on Terrans, at least." The aircar let down on the hospital landing stage. A stretcher was
+waiting, with a Terran interne and two Ulleran orderlies. They got the
+still-unconscious Mohammed Ferriera out of the car. "You'd better go with them, yourself, Miss Quinton," von Schlichten
+advised. "You have a couple of nasty-looking bruises and bumps. A
+couple of abrasions, too, where those geeks grabbed you; they have
+hides like sandpaper. And better have that coat cleaned, before that
+goo on it hardens, or it'll be ruined." "Yes. You have a lot of it on your uniform, too." He glanced down at the blue-gray jacket. "So I have. And another
+thing. Those letters Keeluk was going to give you, the ones to his
+friends in Skilk. Did you get them?" She felt in the pocket of her coat. "Yes. I still have them." "I wish you'd let Colonel O'Leary have a look at them. There may be
+more to them than you think.... Hid, will you go with Miss Quinton?" II. Rakkeed, Stalin, and the Rev. Keeluk
+
+
+Von Schlichten, in a fresh uniform, sat at the end of the table in
+Sidney Harrington's office; Harrington and Eric Blount, the
+Lieutenant-Governor, faced each other across it, over the three-foot
+disc of an Ulleran chess-board. Harrington had the white, or center,
+position. Blount, sandy-haired and considerably younger, was playing
+black, and his pieces were closing in relentlessly from the outer rim. "Well, then what?" Harrington asked. Von Schlichten dropped ash from his cigarette into the tray that
+served all three of them. "Nothing much," he replied. "Keeluk bugged out as soon as he saw my
+car let down. We picked up a few of his ragtag-and-bobtail, and
+they're being questioned now, but I doubt if they'll tell us anything
+we don't know already. The dog had been kept in a lean-to back of the
+house; it had been removed, probably as soon as Keeluk called in his
+goon-gang. At least one of the rabbits had been kept on the premises,
+too, some time ago. No trace of the goat." He watched Blount move one of his pieces and nodded approvingly. "The
+riot's been put down," he continued, "but we're keeping two companies
+of Kragans in the city, and about a dozen airjeeps patrolling the
+section from Eightieth down to Sixty-fourth, and from the waterfront
+back to Eighth Avenue. There is also the equivalent of a regiment of
+King Jaikark's infantry--spearmen, crossbowmen, and a few
+riflemen--and two of those outsize cavalry companies of his, helping
+hold the lid down. They're making mass arrests, indiscriminately. More
+slaves for Jaikark's court favorite, of course." "Or else Gurgurk wants them to use for patronage," Blount added. "He's
+been building quite a political organization, lately. Getting ready to
+shove Jaikark off the throne, I'd say." Harrington pushed one of his pieces out along a radial line toward the
+rim. Blount promptly took a pawn, which, under Ulleran rules, entitled
+him to a second move. He shifted another piece, a sort of combination
+knight and bishop, to threaten the piece Harrington had moved. "Oh, Gurgurk wouldn't dare try anything like that," the
+Governor-General said. "He knows we wouldn't let him get away with it. We have too much of an investment in King Jaikark." "Then why's Gurgurk been supporting this damned Rakkeed?" Blount
+wanted to know, hastily interposing a piece. "Gurgurk can follow one
+of two lines of policy. He can undertake to heave Jaikark off the
+throne and seize power, or he has to support Jaikark on the throne. We're subsidizing Jaikark. Rakkeed has been preaching this crusade
+against the Terrans, and against Jaikark, whom we control. Gurgurk has
+been subsidizing Rakkeed...."
+
+"You haven't any proof of that," Harrington protested. "My Intelligence Section has," von Schlichten put in. "We can give
+sums of money, and dates, and the names of the intermediaries through
+whom they were paid to Rakkeed. Eric is absolutely correct in making
+that statement." "Personally, I think Gurgurk's plan is something like this: Rakkeed
+will stir up anti-Terran sentiment here in Konkrook, and direct it
+against our puppet, Jaikark, as well as against us," Blount said. "When the outbreak comes, Jaikark will be killed, and then Gurgurk
+will step in, seize the Palace, and use the Royal army to put down the
+revolt that he's incited in the first place. That will put him in the
+position of the friend of the Company, and most of his dupes will be
+rounded up and sold as slaves, and King Gurgurk'll pocket the
+proceeds. The only question is, will Rakkeed let himself be used that
+way? I think Rakkeed's bigger than Gurgurk ever can be. And more of a
+threat to the Company. Everywhere we turn, Rakkeed's at the bottom of
+whatever happens to be wrong. This business, for instance; Keeluk's
+one of Rakkeed's followers." "Eric, you have Rakkeed on the brain!" Harrington exclaimed
+impatiently, then moved the threatened piece counterclockwise on the
+circle where he had placed it. "He's just a barbarian caravan-driver." Eric Blount moved the piece that had taken Harrington's pawn. "Your king's in danger," he warned. "And Hitler was just a
+paper-hanger." "Rakkeed has no following, except among the rabble." Harrington puffed
+furiously at his pipe, trying to figure the best protection for his
+king. "You just think he hasn't," Blount retorted. "Here in Konkrook, he's
+always entertained by one or another of the big ship-owning nobles. They probably deprecate his table-manners, but they just love his
+politics. And the same thing at Keegark, and at the Free Cities along
+the Eastern Shore." "The last time Rakkeed was in Konkrook, he was the guest of the
+Keegarkan Ambassador," von Schlichten stated. "Intelligence got that
+from a spy we'd planted among the embassy servants." "You sure this spy wasn't just romancing?" Harrington asked. "You get
+so confounded many wild stories about Rakkeed. Three days after he was
+reported here at Konkrook, he was reported at Skilk, five thousand
+miles away, said to be having an audience with King Firkked." "No mystery to that," von Schlichten said. "He travels on our ships,
+in disguise, coolie-class, on the geek-deck." "Be a good idea if he could be caught at it, some time," Blount said,
+making another move. "One of the lower-deck loading ports could be
+left unlocked, by carelessness, and he could blunder overboard at
+about five thousand feet." He watched Harrington make a deceptively
+pointless-looking move. "Sid, this damn dog business worries me." "Worries me, too. I'm fond of that mutt, and God only knows what sort
+of stuff he's been getting to eat. And I hate to think of why those
+geeks stole him, too." "Well, at risk of seeming heartless, I'm not so much worried for
+Stalin as I am about why Keeluk was hiding him, and why he was willing
+to murder the only two Terrans in Konkrook who trust him, to prevent
+our finding out that he had him." "A Mr. Keeluk, a clergyman," von Schlichten quoted. He chain-lit
+another cigarette and stubbed out the old one. "Maybe the Rev. Keeluk
+wanted Stalin for sacramental purposes." Blount looked up sharply. "Ritual killing?" he asked. "Or sympathetic
+magic?" Von Schlichten shrugged. "Take your choice. Maybe Rakkeed wanted the
+dog, to kill before a congregation of his followers, killing us by
+proxy, or in effigy. Or maybe they think we worship Stalin, and
+getting control of him would give them power over us. I wish we knew a
+little more about Ulleran psychology." That wasn't the first time he'd made that wish. Even if sex weren't
+the paramount psychological factor the ancient Freudians believed, it
+was an extremely important one, and on Uller most of the fundamental
+terms of Terran psychology were meaningless. At the same time, the
+average Ulleran probably had complexes and neuroses that would have
+had Freud talking to himself, and they certainly indulged in practices
+that would have even stood Krafft-Ebing's hair on end. "One thing," Blount said. "It doesn't take any Ulleran psychologist to
+know that about eighty percent of them hate us poisonously." "Oh, rubbish!" Harrington blew the exclamation out around his
+pipe-stem with a gush of smoke. "A few fanatics hate us, and a few
+merchants who lost money when we replaced this primitive barter
+economy of theirs, but nine-tenths of them have benefited enormously
+from us, and continue to benefit...."
+
+"And hate us more deeply with each new benefit," Blount added. "They
+resent everything we've done for them." "Yes, this spaceport proposition of King Orgzild of Keegark looks like
+it, now doesn't it?" Harrington retorted. "He hates and resents us so
+much that he's offered us a spaceport at his city...."
+
+"What's it going to cost him?" Blount asked. "He furnishes the
+land--sequestered from the estate of some noble he executed for
+treason--and the labor--all forced. We furnish the structural steel,
+the machine-equipment, the engineering. We get a spaceport we don't
+really need, and he gets all the business it'll bring to Keegark. Considering the fact that Rakkeed is a welcome guest at his embassy
+here, and at the Royal Palace at Keegark, I'm beginning to wonder if
+he isn't fomenting trouble for us here at Konkrook to make us willing
+to move our main base to his city." He made a move. Instantly, Harrington slashed out from the middle of
+the board with one of his heavy-duty, all-purpose pieces and took a
+piece, then moved again. "Now look whose king's threatened!" he crowed. "Yes, I see." Blount brought a piece clockwise around the board and
+took the threatening piece, then moved again. "I hope you see whose
+king's threatened, now." Harrington swore, reached out to move a piece, and then jerked his
+hand back as though the piece were radioactive. For a while, he sat
+puffing his pipe and staring at the board. "In fact, Orgzild's so sure that we're going to accept his offer that
+he's started building two new power-reactors, to handle the additional
+power-demand that'll result from the increased business," Blount
+continued. "Where's he getting the plutonium?" von Schlichten asked. "Where can he get it?" Harrington replied. "He just bought four tons
+of it from us, off the _City of Pretoria_." "That's a hell of a lot of plutonium," Blount said. "I wonder if he
+mightn't have some idea of what else plutonium can be used for,
+beside generating power." "Oh, God, I hope not!" Harrington exclaimed. "You're going to get me
+started seeing burglars under the bed, next...."
+
+"Maybe there are burglars," Blount said, pointing with his
+cigarette-holder to Harrington's threatened king. "Can't you do
+something about that, Sid?" Then he turned to von Schlichten. "Before
+we get off the subject, how about those letters the Rev. Keeluk gave
+to the Quinton girl?" "All addressed to Skilkans known to be Rakkeed disciples and rabidly
+anti-Terran," von Schlichten replied. "We radioed the list to Skilk;
+Colonel Cheng-Li, our intelligence man there, teleprinted us back a
+lot of material on them that looks like the Newgate Calendar. We
+turned the letters themselves over to Doc Petrie, the Ulleran
+philology sharp, who is a pretty fair cryptanalyst. He couldn't find
+any indications of cipher, but there was a lot of gossip about
+Keeluk's friends and parishioners which might have arbitrary
+code-meanings. I'm going to explain the situation to Miss Quinton, and
+advise her to have nothing to do with any of the people Keeluk gave
+her letters to." Harrington had gotten his king temporarily out of danger, losing a
+piece doing it. "Think she'll listen to you?" he asked. "These Extraterrestrials'
+Rights Association people are a lot of blasted fanatics, themselves. We're a gang of bloody-handed, flint-hearted, imperialistic sons of
+bitches in their book, and anything we say's sure to be a Hitler-sized
+lie." "Oh, they're not as bad as all that. I never met the girl before
+today, but old Mohammed Ferriera's a decent bloke. And their
+association's really done a lot of good. For one thing, they put an
+end to the peonage system on Yggdrasill, and I know what conditions
+were like, there, before they did." A calculating look came into Harrington's eye. He puffed slowly at his
+pipe and slid a piece from the center toward the sector of the board
+nearest him. Blount whistled softly and made a quick re-arrangement. "Carlos, did you say she told you she was going to Skilk, in the near
+future?" Harrington asked. "Well, look here; you're going up that way,
+yourself, with that battalion of Kragans, on the _Aldebaran_. Why
+don't you invite her to make the trip with you? You can be quite
+attractive to young ladies, when you try, and she'll be grateful for
+that rescue this afternoon, which is always a good foundation. Maybe
+you can plant a couple of ideas where they'll do the most good. She's
+only been here for three months--since the _Canberra_ got in from
+Niflheim. You know and I know and we all know that there are a lot of
+things up there at the polar mines that would look like hell to
+anybody who didn't understand local conditions...."
+
+"Well, Miss Quinton's company won't be any particularly heavy cross
+for me to bear," von Schlichten replied. "I won't guarantee anything,
+of course...."
+
+The intercom-speaker on the table whistled several times. Harrington
+swore, laid down his pipe, and got up, brushing ashes from the front
+of his coat. He flipped a switch and spoke into the box. "Governor," a voice replied out of it, "there's a geek procession just
+landed from a water-barge in front, and is coming up the roadway to
+Company House. A platoon of Jaikark's Household Guards, with rifles;
+the Spear of State; a royal litter; about thirty geek nobles, on foot;
+a gift-litter; another platoon of riflemen, if you say the last
+syllable quick enough." "That'll be Gurgurk, coming to tell us how unhappy his Sodden and
+Inebriated Geekship is about that fracas on Seventy-second Street,"
+Harrington said. "The gift-litter will contain the customary
+indemnity, at the current market quotation. Have Gurgurk and party
+admitted, all but the rifle-platoons; give him an honor guard of our
+Kragans, and keep his own gun-toters outside. Take them to the
+Reception Hall, and hold them there till I signal from the Audience
+Hall, and then herd them in." He came back and made a move. Immediately, Blount took one of his
+pieces, moved again, took another, and made the third move to which he
+was entitled. "I'll mate you in four moves," he predicted. "Want to play it out,
+before we go down?" "Sure; what's time to a geek? Gurgurk'd think we were worried about
+something if we didn't keep him waiting.... Good Lord! You do have me
+over a barrel, Eric!" III. Four-and-Twenty Geek Heads
+
+
+Governor-General Sidney Harrington sat on the comfortably upholstered
+bench on the dais of the Audience Hall, flanked by von Schlichten and
+Eric Blount. He didn't look particularly regal, even on that high
+seat--with his ruddy outdoorsman's face and his ragged gray mustache
+and his old tweed coat spotted with pipe-ashes, he might have been any
+of the dozen-odd country-gentleman neighbors of von Schlichten's
+boyhood in the Argentine. But then, to a Terran, any of the kings of
+Uller would have looked like a freak birth in a lizard-house at a zoo;
+it was hard to guess what impression Harrington would make on an
+Ulleran. He took the false palate and tongue-clicker, officially designated as
+an "enunciator, Ulleran" and, colloquially, as a geek-speaker, out of
+his coat pocket and shoved it into his mouth. Von Schlichten and
+Blount put in theirs, and Harrington pressed the floor-button with his
+toe. After a brief interval, the wide doors at the other end of the
+hall slid open, and the Konkrookan notables, attended by a dozen
+Company native-officers and a guard of Kragan Rifles, entered. The
+honor-guard advanced in two columns; between them marched an unclad
+and heavily armed native carrying an ornate spear with a three-foot
+blade upright in front of him with all four hands. It was the
+Konkrookan Spear of State; it represented the proxy-presence of King
+Jaikark. Behind it stalked Gurgurk, the Konkrookan equivalent of Prime
+Minister or Grand Vizier; he wore a gold helmet and a thing like a
+string-vest made of gold wire, and carried a long sword with a
+two-hand grip, a pair of Terran automatics built for a hand with six
+four-knuckled fingers, and a pair of matched daggers. He was
+considerably past the Ulleran prime of life--seventy or eighty, to
+judge from the worn appearance of his opal teeth, the color of his
+skin, and the predominantly reddish tint of his quartz-speckles. An
+immature Ulleran would be a very light gray, white under the arms, and
+his quartz-specks would run from white to pale yellow. The retinue of
+nobles behind Gurgurk ran through the whole spectrum, from a
+princeling who was almost oyster-gray to old Ghroghrank, the Keegarkan
+Ambassador, who was even blacker and more red-speckled than Gurgurk. All of them carried about as much ironmongery as the Prime
+Minister--the pistols were all Terran, and the swords and daggers were
+mostly made either on Terra or at the Terran-operated steel-works on
+Volund. Four slaves brought up the rear carrying an ornately inlaid box on
+poles. When the spear-bearer reached the exact middle of the hall, he
+halted and grounded his regalia-weapon with a thump. Gurgurk came up
+and halted a couple of paces behind and to the left of the spear, and
+all the other nobles drew up in two curved lines some ten paces to the
+rear, with considerable pushing and jostling and a _sotto voce_
+argument, with overtones of weapon-fingering, about precedence. All,
+that is, but Ghroghrank and another noble, who came up and planted
+themselves beside Gurgurk. Von Schlichten regarded the assemblage
+sourly through his monocle. Maybe Sid Harrington _did_ look regal,
+after all. The Governor-General rose slowly and descended from the dais,
+advancing to within ten paces of the Spear, von Schlichten and Blount
+accompanying him. Out of the corner of his eye, von Schlichten watched
+a couple of Kragan mercenaries with fifty-shot machine-rifles move
+unobtrusively to positions from whence they could, if necessary, spray
+the visitors with bullets without endangering the Terrans. "Welcome, Gurgurk," Harrington gibbered through his false palate. "The
+Company is honored by this visit." "I come in the name of my royal master, His Sublime and Ineffable
+Majesty, Jaikark the Seventeenth, King of Konkrook and of all the
+lands of the Konk Isthmus," Gurgurk squeaked and clicked. "I have the
+honor to bring with me the Lord Ghroghrank, Ambassador of King Orgzild
+of Keegark to the court of my royal master." "And I," Ghroghrank said, after being suitably welcomed, "am honored
+to be accompanied by Prince Gorkrink, special envoy from my master,
+his Royal and Imperial Majesty King Orgzild, who is in your city to
+receive the shipment of power-metal my royal master has been honored
+to be permitted to purchase from the Company." More protocol about welcoming Gorkrink. Then Gurgurk cleared his
+throat with a series of barking sounds. "My royal master, His Sublime and Ineffable Majesty, is prostrated
+with grief," he stated solemnly. "Were his sorrow not so overwhelming,
+he would have come in His Own Sacred Person to express the pain and
+shame which he feels that people of the Company should be set upon
+and endangered in the streets of the royal city." If he weren't doped to the ears, von Schlichten substituted mentally. There was a native drug which had, on its users, the combined effects
+of hashish, heroin and yohimbine; Jaikark and all his court circle
+were addicts. He probably hadn't even heard of the riot. "The soldiers of His Sublime and Ineffable Majesty came most promptly
+to the aid of the troops of the Company, did they not, General von
+Schlichten?" Harrington asked. "Within minutes, Your Excellency," von Schlichten replied gravely. "Their promptness, valor, and efficiency were most exemplary." Gurgurk spoke at length, expressing himself as delighted, on behalf of
+his royal master, at hearing such high praise from so distinguished a
+soldier. Eric Blount then contributed a short speech, beseeching the
+gods that the deep and beautiful friendship existing between the
+Chartered Uller Company and His Sublime etcetera would continue
+unimpaired, and that His Sublime etcetera would enjoy long life and
+peaceful reign, managing, by a trick of Konkrookan grammar, to imply
+that the second would be conditional upon the first. The Keegarkan
+Ambassador then spoke his piece, expressing on behalf of King Orgzild
+the deepest regret that the people of the Company should be so
+molested, and managing to hint that things like that simply didn't
+happen at Keegark. The Prince Gorkrink then spoke briefly, in sympathy for the great and
+good friend of all Ulleran peoples, Mohammed Ferriera, who had been
+injured, and hoping that he would soon enjoy full health again. He
+also managed to convey King Orgzild's pleasure at having obtained the
+plutonium. Von Schlichten noticed that a few of his more recent
+quartz-specks were slightly greenish in tinge, a sure sign that he
+had, not long ago, been exposed to the fluorine-tainted air which men
+and geeks alike breathed on Niflheim. When a geek prince hired out as
+a laborer for a year on Niflheim, he did so for only one purpose--to
+learn Terran technologies. Gurgurk then announced that so enormous a crime against the friends of
+His Sublime etcetera had not been allowed to go unpunished, signaling
+behind him with one of his lower hands for the box to be brought
+forward. The slaves carried it to the front, set it down, and opened
+it, taking from it a rug which they spread on the floor. On this, from
+the box, they placed twenty-four newly severed opal-grinning heads, in
+four neat rows. They had all been freshly scrubbed and polished, but
+they still smelled like crushed cockroaches. The three Terrans looked at them gravely. A double-dozen heads was
+standard payment for an attack in which no Terran had been killed. Ostensibly, they were the heads of the ringleaders: in practice, they
+were usually lopped from the first two-dozen prisoners or over-age
+slaves at hand, without regard for whether the victims had even heard
+of the crime which they were expiating. If the Extraterrestrial's
+Rights Association were really serious about the rights of these
+geeks, they'd advocate booting out all these native princes and
+turning the whole planet over to the Company. That had been the Terran
+Federation's idea, from the beginning; why else give the Company's
+chief representative the title of Governor-General? There was another long speech from Gurgurk, with the nobles behind him
+murmuring antiphonal agreement--standard procedure, for which there
+was a standard pun, geek chorus--and a speech of response from Sid
+Harrington. Standing stiffly through the whole rigamarole, von
+Schlichten waited for it to end, as finally it did. They walked back from the door, whence they had escorted the
+delegation, and stood looking down at the saurian heads on the rug. Harrington raised his voice and called to a Kragan sergeant whose
+chevrons were painted on all four arms. "Take this carrion out and stuff it in the incinerator," he ordered. "If any of you think you can clean up this rug and this box, you're
+welcome to them." "Wait a moment," von Schlichten told the sergeant. Then he disgorged
+and pouched his geek-speaker. "See that head, there?" he asked,
+rolling it over with his toe. "I killed that geek, myself, with my
+pistol, while Them and Hid were getting Ferriera into the car. Miss
+Quinton killed that one with the bolo; see where she chopped him on
+the back of the neck? The cut that took off the head was a little low,
+and missed it. And Hid O'Leary stuck a knife in that one." He walked
+around the rug, turning heads over with his foot. "This was cut-rate
+head-payment; they just slashed off two-dozen heads at the scene of
+the riot. I don't like this butchery of worn-out slaves and petty
+thieves any better than anybody else, but this I don't like either. Six months ago, Gurgurk wouldn't have tried to pull anything like
+this. Now he's laughing up his non-existent sleeve at us." "That's what I've been preaching, all along," Eric Blount took up
+after him. "These geeks need having the fear of Terra thrown into
+them." "Oh, nonsense, Eric; you're just as bad as Carlos, here!" Harrington
+tut-tutted. "Next, you'll be saying that we ought to depose Jaikark
+and take control ourselves." "Well, what's wrong with that, for an idea?" von Schlichten demanded. "Don't you think we could? Our Kragans could go through that army of
+Jaikark's like fast neutrons through toilet-paper." "My God!" Harrington exploded. "Don't let me hear that kind of talk
+again! We're not _conquistadores_; we're employees of a business
+concern, here to make money honestly, by exchanging goods and services
+with these people...."
+
+He turned and walked away, out of the Audience Hall, leaving von
+Schlichten and Blount to watch the removal of the geek-heads. "You know, I went a little too far," von Schlichten confessed. "Or too
+fast, rather. He's got to be conditioned to accept that idea." "We can't go too slowly, either," Blount replied. "If we wait for him
+to change his mind, it'll be the same as waiting for him to retire. And that'll be waiting too long." Von Schlichten nodded seriously. "Did you notice the green specks in
+the hide of that Prince Gorkrink?" he asked. "He's just come back from
+Niflheim. Not on the _Pretoria_, I don't think. Probably on the
+_Canberra_, three months ago." "And he's here to get that plutonium, and ship it to Keegark on the
+_Oom Paul Kruger_," Blount considered. "I wonder just what he learned,
+on Niflheim." "I wonder just what's going on at Keegark," von Schlichten said. "Orgzild's pulled down a regular First-Century-model iron curtain. You
+know, four of our best native Intelligence operatives have been
+murdered in Keegark in the last three months, and six more have just
+vanished there." "Well, I'm going there in a few days, myself, to talk to Orgzild about
+this spaceport deal," Blount said. "I'll have a talk with Hendrik
+Lemoyne and MacKinnon. And I'll see what I can find out for myself." "Well, let's go have a drink," von Schlichten suggested, consulting
+his watch. "About time for a cocktail." IV. If You Read It in Stanley-Browne
+
+
+Von Schlichten and Blount entered the bar together--the Broadway Room,
+decorated in gleaming plastics and chromium in enthusiastic if
+slightly inaccurate imitation of a First Century New York nightclub. There were no native servants to spoil the illusion, such as it was:
+the service was fully automatic. Going to a bartending machine, von
+Schlichten dialed the cocktail they had decided upon and inserted his
+key to charge the drinks to his account, filling a four-portion jug. As they turned away, they almost collided with Hideyoshi O'Leary and
+Paula Quinton. The girl wore a long-sleeved gown to conceal a bandage
+on her right wrist, and her face was rather heavily powdered in spots;
+otherwise she looked none the worse for recent experiences. "Well, you seem to have gotten yourself repaired, Miss Quinton," he
+greeted her. "Feel better, now?... Miss Quinton, this is
+Lieutenant-Governor Blount. Eric, Miss Paula Quinton." "Delighted, Miss Quinton," Blount said. "Carlos tells us he found you
+standing over poor Mohammed Ferriera, fighting like a commando. How is
+Mohammed, by the way? No danger, I hope; we all like him." Mohammed Ferriera was still unconscious, the girl reported; he had a
+minor concussion, but the medics were not greatly disturbed, and
+expected him to be fully recovered in a few weeks. Von Schlichten
+invited her and her escort to join him and Blount. Colonel O'Leary was
+carrying a cocktail jug and a couple of glasses; finding a table out
+of the worst of the noise, they all sat down together. "I suppose you think it's a joke, our being nearly murdered by the
+people we came to help," Paula began, a trifle defensively. "Not a very funny joke," von Schlichten told her. "It's been played on
+us till it's lost its humor." "Yes, geek ingratitude's an old story to all of us," Blount agreed. "You stay on this planet very long and you'll see what I mean." "You call them that, too?" she asked, as though disappointed in him. "Maybe if you stopped calling them geeks, they wouldn't resent you the
+way they do. You know, that's a nasty name; in the First Century
+Pre-Atomic, it designated a degraded person who performed some sort of
+revolting public exhibition...."
+
+"Biting off live chickens' heads, in a sideshow wild-man act,"
+Hideyoshi O'Leary supplied. "When you get up north, watch how the
+peasants kill these little things like six-legged iguanas that they
+raise for food." "That isn't the reason, though," von Schlichten said. "As we use it,
+the word's pure onomatopoeia. You've learned some of the languages;
+you know what they sound like. _Geek-geek-geek._"
+
+"As far as that goes, you know what the geek name for a Terran is?" Blount asked. "_Suddabit._"
+
+She looked puzzled for a moment, then slipped in her enunciator. Even
+in the absence of any native, she used her handkerchief to mask the
+act. "Suddabit," she said, distinctly. "Sud-da-a-bit." Taking out the
+geek-speaker, she put it away. "Why, that's exactly how they'd
+pronounce it!" "And don't tell me you haven't heard it before," O'Leary said. "The
+geeks were screaming it at you, over on Seventy-second Street, this
+afternoon. _Znidd suddabit_; kill the Terrans. That's Rakkeed the
+Prophet's whole gospel." "So you see," Eric Blount rammed home the moral, "this is just another
+case of nobody with any right to call anybody else's kettle black.... Cigarette?" "Thank you." She leaned toward the lighter-flame O'Leary had snapped
+into being. "I suspect that of being a principle you'd like me to bear
+in mind at the polar mines, when I see, let's say, some laborer being
+beaten by a couple of overseers with three foot lengths of
+three-quarter-inch steel cable." "Well, you could also remember that a native's skin is about half an
+inch thick, and a good deal tougher than a human's," von Schlichten
+told her. "And it wouldn't hurt any if you found out how these
+laborers are treated at home. Mostly they're serfs hired from the big
+landowners; it's a fact you can easily verify that permission to join
+the labor-companies at the polar mines is regarded as a privilege,
+granted as a reward or denied as a punishment. And most of the geek
+landowners are bitterly critical of the way we treat our labor at the
+mines; they claim we make them dissatisfied with the treatment they
+get at home." "Of course, they're always glad to have the peasants taken off their
+hands during a slack agricultural season," Blount added, "and we train
+workers to handle contragravity power-equipment. I won't deny that
+there's a lot of unnecessary brutality on the part of the native
+foremen and overseers, which we're trying, gradually, to eliminate. You'll have to remember, though, that we're dealing with a naturally
+brutal race." "Of course, mistreatment of native labor is always blamed on other
+natives, never on the gentle and kindly Terrans," she replied. "That's
+been SOP on every planet our Association's had any experience with." "Now look; you just came here from Niflheim," von Schlichten objected. "The Company employs quite a few geeks there; how much brutality did
+you run into there?" "Well, I must admit, the Ullerans who work there are very well
+treated. Except that I don't think it's right to employ any people
+with silicone body-tissues where they're going to breathe
+fluorine-tainted air." "Nobody ought to be employed on that planet!" Hideyoshi O'Leary
+declared. "I did a two-year hitch there, when I was first commissioned
+in the Company service." "I put in two years there, too," Blount supported him. "And I might
+add that that's a year longer than any Ulleran native is ever allowed
+to spend on Niflheim. You know what the setup is, there, don't you? The Terran Federation Space Navy discovered and explored both Uller
+and Niflheim, which made both planets public domain. The Company was
+originally formed to exploit Uller alone, but the Federation insisted
+that both planets would have to be franchised to the same company. They wanted Niflheim exploited, mainly because of the uranium-deposits
+there. As it turned out, the Company's making as much money out of
+Niflheim as we are out of Uller." "What you miss is this," von Schlichten pointed out. "On Niflheim,
+there are about a thousand Terrans, and not more than five hundred
+geeks, all employed on construction-work and in the mines, on the
+planet itself, working directly under Terran supervision. We use them
+because they have four hands, and in the power-driven contragravity
+armor that's necessary there, they can manipulate more controls and do
+more things at once than we can. Here on Uller, at the polar mines,
+there are about ten thousand geeks working under five hundred Terrans,
+and most of the latter are engineers or technicians who don't do
+supervisory work. So we have to use native foremen, and they're guilty
+of what mistreatment the workers suffer." "And remember, too," O'Leary added, "work at the polar mines can only
+go on for about two months out of the year--mid-September to
+mid-November at the Arctic, and mid-March to mid-May at the Antarctic. Naturally, things have to be done in a hurry and under pressure." "Well, why do you work mines at the poles? Aren't there mineral
+deposits in places where you can work all year 'round?" "Not as rich, or as accessible," Blount said. "You know what the
+seasons are like, at the poles of this planet. The temperature will
+range from about two-fifty Fahrenheit in mid-summer to a hundred and
+fifty below in winter. There's the most intense sort of thermal
+erosion you can imagine--the ice-cap melts in the spring to a sea,
+which boils away completely by the middle of the summer. There will be
+violent circular storms of hot wind, blowing away the light sand and
+dust and leaving the heavier particles of metallic ores and metals
+behind. Then, when the winds fall, we move in for a couple of months. It isn't really mining, or even quarrying; we just scoop up ore from
+the surface, load it onto ore-boats, and fly it down to Skilk and
+Krink and Grank, where it's smelted through the winter. The natives
+run the smelters; use the heat to thaw frozen food for themselves and
+their livestock while they're melting the ore. In the north,
+metallurgy and food-preparation have always been combined that way." "Yes, if you think the natives who work at the mines feel themselves
+ill-treated, you might propose closing them down entirely and see what
+the native reaction would be," von Schlichten told her. "Independently
+hired free workers can make themselves rich, by native standards, in a
+couple of seasons; many of the serfs pick up enough money from us in
+incentive-pay to buy their freedom after one season." "Well, if the Company's doing so much good on this planet, how is it
+that this native, Rakkeed, the one you call the Mad Prophet, is able
+to find such a following?" Paula demanded. "There must be something
+wrong somewhere." "That's a fair question," Blount replied, inverting a cocktail jug
+over his glass to extract the last few drops. "When we came to Uller,
+we found a culture roughly like that of Europe during the Seventh
+Century Pre-Atomic, or, more closely, like that of Japan before the
+beginning of the First Century P. A. We initiated a technological and
+economic revolution here, and such revolutions have their casualties,
+too. A number of classes and groups got squeezed pretty badly, like
+the horse-breeders and harness-manufacturers on Terra by the invention
+of the automobile, or the coal and hydroelectric interests when direct
+conversion of nuclear energy to electric current was developed, or
+the railroads and steamship lines at the time of the discovery of the
+contragravity-field. Naturally, there's a lot of ill-feeling on the
+part of merchants and artisans who weren't able or willing to adapt
+themselves to changing conditions; they're all backing Rakkeed and
+yelling '_Znidd suddabit!_' now. You know, it's a shame that geek
+messiah isn't a smart crook, instead of an honest fanatic; he could
+take in the equivalent of a couple of million sols a year off the
+North Uller merchants and the Equatorial Zone shipowners. But it is a
+fact, which not even Rakkeed can successfully deny, that we've raised
+the general living standard of this planet by about two hundred
+percent." "Rakkeed is a Zirk," von Schlichten said. "They're the nomads who hire
+out to the northern merchants as caravan-drivers, and also prey, or
+used to prey, on the caravans as brigands. Since our air-freighters
+got into operation, neither caravan-driving nor caravan-raiding has
+been a paying business, and our air-patrols have made caravan-raiding
+suicidal as well. So the Zirks don't like us. The only thing they know
+or are willing to learn is handling these six-legged riding-and
+pack-animals we call hipposaurs. We employ a few of them as cavalry,
+and a few more of them work as the local equivalent of _gauchos_, and
+the rest just sit around and listen to Rakkeed's sermons." Both jugs were empty. Colonel O'Leary, as befitted his junior rank,
+picked them up; after a good-natured wrangle with von Schlichten,
+Blount handed the colonel his credit-key. "The merchants in the north don't like us; beside spoiling the
+caravan-trade, we're spoiling their local business, because the
+land-owning barons, who used to deal with them, are now dealing
+directly with us. At Skilk, King Firkked's afraid his feudal nobility
+is going to try to force a Runnymede on him, so he's been currying
+favor with the urban merchants; that makes him as pro-Rakkeed and as
+anti-Terran as they are. At Krink, King Jonkvank has the support of
+his barons, but he's afraid of his urban bourgeoisie, and we pay him a
+handsome subsidy, so he's pro-Terran and anti-Rakkeed. At Skilk,
+Rakkeed comes and goes openly; at Krink he has a price on his head." "Jonkvank is not one of the assets we boast about too loudly,"
+Hideyoshi O'Leary said, pausing on his way from the table. "He's as
+bloody-minded an old murderer as you'd care not to meet in a dark
+alley anywhere." "We can turn our backs on him and not expect a knife between our
+shoulders, anyhow," von Schlichten said. "And we can believe, oh, up
+to eighty percent of what he tells us, and that's sixty percent better
+than any of the other native princes, except King Kankad, of course. The Kragans are the only real friends we have on this planet." He
+thought for a moment. "Miss Quinton, are you doing sociographic
+research-work here, in addition to your Ex-Rights work?" he asked. "Well, let me advise you to pay some attention to the Kragans. You'll
+only find them treated at any length at all in that compendium of
+misinformation, Willard Stanley-Browne's _Short Sociographic History
+of Beta Hydrae II_, and ninety percent of what Stanley-Browne says
+about them is completely erroneous." "Oh, but they're just a parasite-race on the Terrans," Dr. Paula
+Quinton objected. "You find races like that all through the explored
+galaxy--pathetic cultural mongrels." 

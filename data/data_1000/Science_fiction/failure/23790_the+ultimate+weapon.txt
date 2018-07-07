@@ -1,0 +1,947 @@
+
+
+
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+ [Cover Illustration:
+ JOHN W. CAMPBELL
+ THE ULTIMATE WEAPON
+
+ When star fights star,
+ is chaos the best defense?] RED SUN RISING
+
+
+The star Mira was unpredictably variable. Sometimes it was blazing,
+brilliant and hot. Other times it was oddly dim, cool, shedding little
+warmth on its many planets. Gresth Gkae, leader of the Mirans, was
+seeking a better star, one to which his "people" could migrate. That
+star had to be steady, reliable, with a good planetary system. And in
+his astronomical searching, he found Sol. With hundreds of ships, each larger than whole Terrestrial spaceports,
+and traveling faster than the speed of light, the Mirans set out to move
+in to Solar regions and take over. And on Earth there was nothing which would be capable of beating off
+this incredible armada--until Buck Kendall stumbled upon THE ULTIMATE
+WEAPON. JOHN W. CAMPBELL first started writing in 1930 when his first short
+story, _When the Atoms Failed_, was accepted by a science-fiction
+magazine. At that time he was twenty years old and still a student at
+college. As the title of the story indicates, he was even at that time
+occupied with the significance of atomic energy and nuclear physics. For the next seven years, Campbell, bolstered by a scientific background
+that ran from childhood experiments, to study at Duke University and the
+Massachusetts Institute of Technology, wrote and sold science-fiction,
+achieving for himself an enviable reputation in the field. In 1937 he became the editor of _Astounding Stories_ magazine and
+applied himself at once to the task of bettering the magazine and the
+field of s-f writing in general. His influence on science-fiction since
+then has been great. Today he still remains as the editor of that
+magazine's evolved and redesigned successor, _Analog_. _THE
+          ULTIMATE
+           WEAPON_
+
+
+             by
+      JOHN W. CAMPBELL
+
+
+
+       ACE BOOKS, INC.
+ 1120 Avenue of the Americas
+    New York, N.Y. 10036
+
+
+
+
+THE ULTIMATE WEAPON
+
+Copyright, 1936, by John W. Campbell
+
+Originally published as a serial in _Amazing Stories_ under the title of
+_Uncertainty_. All Rights Reserved
+
+
+_Cover by Gerald McConnell_
+
+
+Printed in U.S.A.
+
+
+
+
+Transcriber's Note:
+
+    Extensive research did not uncover any evidence that the U.S.
+    copyright on this publication was renewed. Minor spelling and
+    typographical errors have been corrected without note. Subscript
+    characters are shown within {braces}. The mathematical symbol pi is
+    shown as [pi]. [Illustration]
+
+I
+
+
+Patrol Cruiser "IP-T 247" circling out toward Pluto on leisurely
+inspection tour to visit the outpost miners there, was in no hurry at
+all as she loafed along. Her six-man crew was taking it very easy, and
+easy meant two-man watches, and low speed, to watch for the instrument
+panel and attend ship into the bargain. She was about thirty million miles off Pluto, just beginning to get in
+touch with some of the larger mining stations out there, when Buck
+Kendall's turn at the controls came along. Buck Kendall was one of
+life's little jokes. When Nature made him, she was absentminded. Buck
+stood six feet two in his stocking feet, with his usual slight stoop in
+operation. When he forgot, and stood up straight, he loomed about two
+inches higher. He had the body and muscles of a dock navvy, which Nature
+started out to make. Then she forgot and added something of the same
+stuff she put in Sir Francis Drake. Maybe that made Old Nature nervous,
+and she started adding different things. At any rate, Kendall, as
+finally turned out, had a brain that put him in the first rank of
+scientists--when he felt like it--the general constitution of an ostrich
+and a flair for gambling. The present position was due to such a gamble. An IP man, a friend of
+his, had made the mistake of betting him a thousand dollars he wouldn't
+get beyond a Captain's bars in the Patrol. Kendall had liked the idea
+anyway, and adding a bit of a bet to it made it irresistible. So, being
+a very particular kind of a fool, the glorious kind which old Nature
+turns out now and then, he left a five million dollar estate on Long
+Island, Terra, that same evening, and joined up in the Patrol. The Sir
+Francis Drake strain had immediately come forth--and Kendall was having
+the time of his life. In a six-man cruiser, his real work in the
+Interplanetary Patrol had started. He was still in it--but it was his
+command now, and a blue circle on his left sleeve gave his lieutenant's
+rank. Buck Kendall had immediately proceeded to enlist in his command the IP
+man who had made the mistaken bet, and Rad Cole was on duty with him
+now. Cole was the technician of the T-247. His rank as Technical
+Engineer was practically equivalent to Kendall's circle-rank, which made
+the two more comfortable together. Cole was listening carefully to the signals coming through from Pluto. "That," he decided, "sounds like Tad Nichols' fist. You can recognize
+that broken-down truck-horse trot of his on the key as far away as you
+can hear it." "Is that what it is?" sighed Buck. "I thought it was static mushing him
+at first. What's he like?" "Like all the other damn fools who come out two billion miles to scratch
+rock, as if there weren't enough already on the inner planets. He's got
+a rich platinum property. Sells ninety percent of his output to buy his
+power, and the other eleven percent for his clothes and food." "He must be an efficient miner," suggested Kendall, "to maintain 101%
+production like that." "No, but his bank account is. He's figured out that's the most economic
+level of production. If he produces less, he won't be able to pay for
+his heating power, and if he produces more, his operation power will
+burn up his bank account too fast." "Hmmm--sensible way to figure. A man after my own heart. How does he
+plan to restock his bank account?" "By mining on Mercury. He does it regularly--sort of a commuter. Out
+here his power bills eat it up. On Mercury he goes in for potassium, and
+sells the power he collects in cooling his dome, of course. He's a good
+miner, and the old fool can make money down there." Like any really
+skilled operator, Cole had been sending Morse messages while he talked. Now he sat quiet waiting for the reply, glancing at the chronometer. "I take it he's not after money--just after fun," suggested Buck. "Oh, no. He's after money," replied Cole gravely. "You ask him--he's
+going to make his eternal fortune yet by striking a real bed of jovium,
+and then he'll retire." "Oh, one of that kind." "They all are," Cole laughed. "Eternal hope, and the rest of it." He
+listened a moment and went on. "But old Nichols is a first-grade
+engineer. He wouldn't be able to remake that bankroll every time if he
+wasn't. You'll see his Dome out there on Pluto--it's always the best on
+the planet. Tip-top shape. And he's a bit of an experimenter too. Ah--he's with us." Nichols' ragged signals were coming through--or pounding through. They
+were worse than usual, and at first Kendall and Cole couldn't make them
+out. Then finally they got them in bursts. The man was excited, and his
+bad key-work made it worse. " --Randing stopped. They got him I think. He
+said--th--ship as big--a--nsport. Said it wa--eaded my--ay. Neutrons--on
+instruments--he's coming over the horizon--it's huge--war ship I
+think--register--instru--neutrons--." Abruptly the signals were blanked
+out completely. *       *       *       *       *
+
+Cole and Kendall sat frozen and stiff. Each looked at the other abruptly,
+then Kendall moved. From the receiver, he ripped out the recording coil,
+and instantly jammed it into the analyzer. He started it through once,
+then again, then again, at different tone settings, till he found a very
+shrill whine that seemed to clear up most of Nichols' bad key-work. "T-247--T-247--Emergency. Emergency. Randing reports the--over his
+horizon. Huge--ip--reign manufacture. Almost spherical. Randing's stopped. They got him I think. He said the ship was as big as a transport. Said
+it was headed my way. Neutrons--ont--gister--instruments. I think--is
+h--he's coming over the horizon. It's huge, and a war ship I
+think--register--instruments--neutrons." Kendall's finger stabbed out at a button. Instantly the noise of the
+other men, wakened abruptly by the mild shocks, came from behind. Kendall swung to the controls, and Cole raced back to the engine room. The hundred-foot ship shot suddenly forward under the thrust of her tail
+ion-rockets. A blue-red cloud formed slowly behind her and expanded. Talbot appeared, and silently took her over from Kendall. "Stations,
+men," snapped Kendall. "Emergency call from a miner of Pluto reporting a
+large armed vessel which attacked them." Kendall swung back, and eased
+himself against the thrusting acceleration of the over-powered little
+ship, toward the engine room. Cole was bending over his apparatus,
+making careful check-ups, closing weapon-circuits. No window gave view
+of space here; on the left was the tiny tender's pocket, on the right,
+above and below the great water tanks that fed the ion-rockets, behind
+the rockets themselves. The tungsten metal walls were cold and gray
+under the ship lights; the hunched bulks of the apparatus crowded the
+tiny room. Gigantic racked accumulators huddled in the corners. Martin
+and Garnet swung into position in the fighting-tanks just ahead of the
+power rooms; Canning slid rapidly through the engine room, oozed through
+a tiny door, and took up his position in the stern-chamber, seated
+half-over the great ion-rocket sheath. "Ready in positions, Captain Kendall," called the war-pilot as the
+little green lights appeared on his board. "Test discharges on maximum," ordered Kendall. He turned to Cole. "You
+start the automatic key?" "Right, Captain." "All shipshape?" "Right as can be. Accumulators at thirty-seven per cent, thanks to the
+loaf out here. They ought to pick up our signal back on Jupiter, he's
+nearest now. The station on Europa will get it." "Talbot--we are only to investigate if the ship is as reported. Have you
+seen any signs of her?" "No sir, and the signals are blank." "I'll work from here." Kendall took his position at the commanding
+control. Cole made way for him, and moved to the power board. One by one
+he tested the automatic doors, the pressure bulkheads. Kendall watched
+the instruments as one after another of the weapons were tested on
+momentary full discharge--titanic flames of five million volt protons. Then the ship thudded to the chatter of the Garnell rifles. *       *       *       *       *
+
+Tensely the men watched the planet ahead, white, yet barely visible in
+the weak sunlight so far out. It was swimming slowly nearer as the tiny
+ship gathered speed. Kendall cast a glance over his detector-instruments. The radio network
+was undisturbed, the magnetic and electric fields recognized only the
+slight disturbances occasioned by the planet itself. There was nothing,
+noth--
+
+Five hundred miles away, a gigantic ship came into instantaneous being. Simultaneously, and instantaneously, the various detector systems howled
+their warnings. Kendall gasped as the thing appeared on his view screen,
+with the scale-lines below. The scale must be cock-eyed. They said the
+ship was fifteen hundred feet in diameter, and two thousand long! "Retreat," ordered Kendall, "at maximum acceleration." Talbot was already acting. The gyroscopes hummed in their castings, and
+the motors creaked. The T-247 spun on her axis, and abruptly the
+acceleration built up as the ion-rockets began to shudder. A faint smell
+of "heat" began to creep out of the converter. Immense "weight" built
+up, and pressed the men into their specially designed seats--
+
+The gigantic ship across the way turned slowly, and seemed to stare at
+the T-247. Then it darted toward them at incredible speed till the poor
+little T-247 seemed to be standing still, as sailors say. The stranger
+was so gigantic now, the screens could not show all of him. "God, Buck--he's going to take us!" Simultaneously, the T-247 rolled, and from her broke every possible
+stream of destruction. The ion-rocket flames swirled abruptly toward
+her, the proton-guns whined their song of death in their housings, and
+the heavy pounding shudder of the Garnell guns racked the ship. Strangely, Kendall suddenly noticed, there was a stillness in the ship. The guns and the rays were still going--but the little human sounds
+seemed abruptly gone. "Talbot--Garnet--" Only silence answered him. Cole looked across at him
+in sudden white-faced amazement. "They're gone--" gasped Cole. Kendall stood paralyzed for thirty seconds. Then suddenly he seemed to
+come to life. "Neutrons! Neutrons--and water tanks! Old Nichols was
+right--" He turned to his friend. "Cole--the tender--quick." He darted a
+glance at the screen. The giant ship still lay alongside. A wash of ions
+was curling around her, splitting, and passing on. The pinprick
+explosions of the Garnell shells dotted space around her--but never on
+her. Cole was already racing for the tender lock. In an instant Kendall piled
+in after him. The tiny ship, scarcely ten feet long, was powered for
+flights of only two hours acceleration, and had oxygen for but
+twenty-four hours for six men, seventy-two hours for two men--maybe. The
+heavy door was slammed shut behind them, as Cole seated himself at the
+panel. He depressed a lever, and a sudden smooth push shot them away
+from the T-247. "DON'T!" called Kendall sharply as Cole reached for the ion-rocket
+control. "Douse those lights!" The ship was dark in dark space. The
+lighted hull of the T-247 drifted away from the little tender--further
+and further till the giant ship on the far side became visible. "Not a light--not a sign of fields in operation." Kendall said,
+unconsciously speaking softly. "This thing is so tiny, that it may
+escape their observation in the fields of the T-247 and Pluto down
+there. It's our only hope." "What happened? How in the name of the planets did they kill those men
+without a sound, without a flash, and without even warning us, or
+injuring us?" "Neutrons--don't you see?" "Frankly, I don't. I'm no scientist--merely a technician. Neutrons
+aren't used in any process I've run across." "Well, remember they're uncharged, tiny things. Small as protons, but
+without electric field. The result is they pass right through an
+ordinary atom without being stopped unless they make a direct hit. Tungsten, while it has a beautifully high melting point, is mostly open
+space, and a neutron just sails right through it, or any heavy atom. Light atoms stop neutrons better--there's less open space in 'em. Hydrogen is best. Well--a man is made up mostly of light elements, and a
+man stops those neutrons--it isn't surprising it killed those other
+fellows invisibly, and without a sound." "You mean they bathed that ship in neutrons?" "Shot it full of 'em. Just like our proton guns, only sending neutrons." "Well, why weren't we killed too?" "'Water stops neutrons,' I said. Figure it out." "The rocket-water tanks--all around us! Great masses of water--" gasped
+Cole. "That saved us?" "Right. I wonder if they've spotted us." *       *       *       *       *
+
+The stranger ship was moving slowly in relation to the T-247. Suddenly
+the motion changed, the stranger spun--and a giant lock appeared in her
+side, opened. The T-247 began to move, floated more and more rapidly
+straight for the lock. Her various weapons had stopped operating now,
+the hoppers of the Garnell guns exhausted, the charge of the
+accumulators aboard the ship down so low the proton guns had died out. "Lord--they're taking the whole ship!" "Say--Cole, is that any ship you ever heard of before? _I don't think
+that's just a pirate!_"
+
+"Not a pirate--what then?" "How'd he get inside our detector screens so fast? Watch--he'll either
+leave, or come after us--" The T-247 had settled inside the lock now,
+and the great metal door closed after it. The whole patrol ship had been
+swallowed by a giant. Kendall was sketching swiftly on a notebook,
+watching the vast ship closely, putting down a record of its lines, and
+formation. He glanced up at it, and then down for a few more lines, and
+up at it--
+
+The stranger ship abruptly dwindled. It dwindled with incredible speed,
+rushing off along the line of sight at an impossible velocity, and
+abruptly clicking out of sight, like an image on a movie-film that has
+been cut, and repaired after the scene that showed the final
+disappearance. "Cole--Cole--did you get that? Did you see--do you understand what
+happened?" Kendall was excitedly shouting now. "He missed us," Cole sighed. "It's a wonder--hanging out here in space,
+with the protector of the T-247's fields gone." "No, no, you asteroid--that's not it. _He went off faster than light
+itself!_"
+
+"Eh--what? Faster than _light_? That can't be done--"
+
+"He did it, I know he did. That's how he got inside our screens. He came
+inside faster than the warning message could relay back the information. Didn't you see him accelerate to an impossible speed in an impossible
+time? Didn't you see how he just vanished as he exceeded the speed of
+light, and stopped reflecting it? _That ship was no ship of this solar
+system!_"
+
+"Where did he come from then?" "God only knows, but it's a long, long way off." II
+
+
+The IP-M-122 picked them up. The M-122 got out there two days later, in
+response to the calls the T-247 had sent out. As soon as she got within
+ten million miles of the little tender, she began getting Cole's
+signals, and within twelve hours had reached the tiny thing, located it,
+and picked it up. Captain Jim Warren was in command, one of the old school commanders of
+the IP. He listened to Kendall's report, listened to Cole's tale--and
+radioed back a report of his own. Space pirates in a large ship had
+attacked the T-247, he said, and carried it away. He advised a close
+watch. On Pluto, his investigations disclosed nothing more than the fact
+that three mines had been raided, all platinum supplies taken, and the
+records and machinery removed. *       *       *       *       *
+
+The M-122 was a fifty-man patrol cruiser, and Warren felt sure he could
+handle the menace alone, and hung around for over two weeks looking for
+it. He saw nothing, and no further reports came of attack. Again and
+again, Kendall tried to convince him this ship he was hunting was no
+mere space pirate, and again and again Warren grunted, and went on his
+way. He would not send in any report Kendall made out, because to do so
+would add his endorsement to that report. He would not take Kendall
+back, though that was well within his authority. In fact, it was a full month before Kendall again set foot on any of the
+Minor Planets, and then it was Mars, the base of the M-122. Kendall and
+Cole took passage immediately on an IP supply ship, and landed in New
+York six days later. At once, Kendall headed for Commander McLaurin's
+office. Buck Kendall, lieutenant of the IP, found he would have to make
+regular application to see McLaurin through a dozen intermediate
+officers. By this time, Kendall was savagely determined to see McLaurin himself,
+and see him in the least possible time. Cole, too, was beginning to
+believe in Kendall's assertion of the stranger ship's extra-systemic
+origin. As yet neither could understand the strange actions of the
+machine, its attack on the Pluto mines, and the capture and theft of a
+patrol ship. "There is," said Kendall angrily, "just one way to see McLaurin and see
+him quick. And, by God, I'm going to. Will you resign with me, Cole? I'll see him within a week then, I'll bet." For a minute, Cole hesitated. Then he shook hands with his friends. "Today!" And that day it was. They resigned, together. Immediately, Buck
+Kendall got the machinery in motion for an interview, working now from
+the outside, pulling the strings with the weight of a hundred million
+dollar fortune. Even the IP officers had to pay a bit of attention when
+Bernard Kendall, multi-millionaire began talking and demanding things. Within a week, Kendall _did_ see McLaurin. At that time, McLaurin was fifty-three years old, his crisp hair still
+black as space, with scarcely a touch of the gray that appears in his
+more recent photographs. He stood six feet tall, a broad-shouldered,
+powerful man, his face grave with lines of intelligence and character. There was also a permanent narrowing of the eyes, from years under the
+blazing sun of space. But most of all, while those years in space had
+narrowed and set his eyes, they had not narrowed and set his mind. An
+infinitely finer character than old Jim Warren, his experience in space
+had taught him always to expect the unexpected, to understand the
+incomprehensible as being part of the unknown and incalculable
+properties of space and the worlds that swam in it. Besides the fine
+technical education he had started with, he had acquired a liberal
+education in mankind. When Buck Kendall, straight and powerful, came
+into his office with Cole, he recognized in him a character that would
+drive steadily and straight for its goal. Also, he recognized behind the
+millionaire that had succeeded in pulling wires enough to see him, the
+scientist who had had more than one paper published "in an amateur way." "Dr. Bernard Kendall?" he asked, rising. "Yes, sir. Late Buck Kendall, lieutenant of the IP. I quit and got Cole
+here to quit with me, so we could see you." "Unusual tactics. I've had several men join up to get an interview with
+me." McLaurin smiled. "Yes, I can imagine that, but we had to see you in a hurry. A hidebound
+old rapscallion by the name of Jim Warren picked us up out by Pluto,
+floating around in a six-man tender. We made some reports to him, but he
+wouldn't believe, and he wouldn't send them through--so we had to send
+ourselves through. Sir, this system is about to be attacked by some
+extra-systemic race. The IP-T-247 was so attacked, her crew killed off,
+and the ship itself carried away." "I got the report Captain Jim Warren sent through, stating it was a gang
+of space pirates. Now what makes you believe otherwise?" "That ship that attacked us, attacked with a neutron gun, a gun that
+shot neutrons through the hull of our ship as easily as protons pass
+through open space. Those neutrons killed off four of the crew, and
+spared us only because we happened to be behind the water tanks. Masses
+of hydrogen will stop neutrons, so we lived, and escaped in the tender. The little tender, lightless, escaped their observation, and we were
+picked up. Now, when the 247 had been picked up, and locked into their
+ship, that ship started accelerating. It accelerated so fast along my
+line of sight that it just dwindled, and--vanished. It didn't vanish in
+distance, it vanished _because it exceeded the speed of light_." "Isn't that impossible?" "Not at all. It can be done--if you can find some way of escaping from
+this space to do it. Now if you could cut across through a higher
+dimension, your _projection_ in this dimension might easily exceed the
+speed of light. For instance, if I could cut directly through the Earth,
+at a speed of one thousand miles an hour, my projection on the surface
+would go twelve thousand miles while I was going eight. Similar, if you
+could cut _through_ the four dimensional space instead of following its
+surface, you'd attain a speed greater than light." "Might it not still be a space pirate? That's a lot easier to believe,
+even allowing your statement that he exceeded the speed of light." "If you invented a neutron gun which could kill through tungsten walls
+without injuring anything within, a system of accelerating a ship that
+didn't affect the inhabitants of that ship, and a means of exceeding the
+speed of light, all within a few months of each other, would you become
+a pirate? I wouldn't, and I don't think any one else would. A pirate is
+a man who seeks adventure and relief from work. Given a means of
+exceeding the speed of light, I'd get all the adventure I wanted
+investigating other planets. If I didn't have a cent before, I'd have
+relief from work by selling it for a few hundred millions--and I'd sell
+it mighty easily too, for an invention like that is worth an
+incalculable sum. Tie to that the value of compensated acceleration, and
+no man's going to turn pirate. He can make more millions selling his
+inventions than he can make thousands turning pirate with them. So who'd
+turn pirate?" "Right." McLaurin nodded. "I see your point. Now before I'd accept your
+statements _in re_ the 'speed of light' thing, I'd want opinions from
+some IP physicists." "Then let's have a conference, because something's got to be done soon. I don't know why we haven't heard further from that fellow." "Privately--we have," McLaurin said in a slightly worried tone. "He was
+detected by the instruments of every IP observatory I suspect. We got
+the reports but didn't know what to make of them. They indicated so many
+funny things, they were sent in as accidental misreadings of the
+instruments. But since _all_ the observatories reported them, similar
+misreadings, at about the same times, that is with variations of only a
+few hours, we thought something must have been up. The only thing was
+the phenomena were reported progressively from Pluto to Neptune, clear
+across the solar system, in a definite progression, but at a velocity of
+crossing that didn't tie in with any conceivable force. They crossed
+faster than the velocity of light. That ship must have spent about half
+an hour off each planet before passing on to the next. And, accepting
+your faster-than-light explanation, we can understand it." "Then I think you have proof." "If we have, what would you do about it?" "Get to work on those 'misreadings' of the instruments for one thing,
+and for a second, and more important, line every IP ship with paraffin
+blocks six inches thick." "Paraffin--why?" "The easiest form of hydrogen to get. You can't use solid hydrogen,
+because that melts too easily. Water can be turned into steam too
+easily, and requires more work. Paraffin is a solid that's largely
+hydrogen. That's what they've always used on neutrons since they
+discovered them. Confine your paraffin between tungsten walls, and
+you'll stop the secondary protons as well as the neutrons." "Hmmm--I suppose so. How about seeing those physicists?" "I'd like to see them today, sir. The sooner you get started on this
+work, the better it will be for the IP." "Having seen me, will you join up in the IP again?" asked McLaurin. "No, sir, I don't think I will. I have another field you know, in which
+I may be more useful. Cole here's a better technician than fighter--and
+a darned good fighter, too--and I think that an inexperienced
+space-captain is a lot less useful than a second-rate physicist at work
+in a laboratory. If we hope to get anywhere, or for that matter, I
+suspect, stay anywhere, we'll have to do a lot of research pretty
+promptly." "What's your explanation of that ship?" "One of two things: an inventor of some other system trying out his
+latest toy, or an expedition sent out by a planetary government for
+exploration. I favor the latter for two reasons: that ship was _big_. No
+inventor would build a thing that size, requiring a crew of several
+hundred men to try out his invention. A government would build just
+about that if they wanted to send out an expedition. If it were an
+inventor, he'd be interested in meeting other people, to see what they
+had in the way of science, and probably he'd want to do it in a
+peaceable way. That fellow wasn't interested in peace, by any means. So
+I think it's a government ship, and an unfriendly government. They sent
+that ship out either for scientific research, for trade research and
+exploration, or for acquisitive exploration. If they were out for
+scientific research, they'd proceed as would the inventor, to establish
+friendly communication. If they were out for trade, the same would
+apply. If they were out for acquisitive exploration, they'd investigate
+the planets, the sun, the people, only to the extent of learning how
+best to overcome them. They'd want to get a sample of our people, and a
+sample of our weapons. They'd want samples of our machinery, our
+literature and our technology. That's exactly what that ship got. "Somebody, somewhere out there in space, either doesn't like their home,
+or wants more home. They've been out looking for one. I'll bet they sent
+out hundreds of expeditions to thousands of nearby stars, gradually
+going further and further, seeking a planetary system. This is probably
+the one and only one they found. It's a good one too. It has planets at
+all temperatures, of all sizes. It is a fairly compact one, it has a
+stable sun that will last far longer than any race can hope to." "Hmm--how can there be good and bad planetary systems?" asked McLaurin. "I'd never thought of that." Kendall laughed. "Mighty easy. How'd you like to live on a planet of a
+Cepheid Variable? Pleasant situation, with the radiation flaring up and
+down. How'd you like to live on a planet of Antares? That blasted sun
+is so big, to have a comfortable planet you'd have to be at least ten
+billion miles out. Then if you had an interplanetary commerce, you'd
+have to struggle with orbits tens of billions of miles across instead of
+mere millions. Further, you'd have a sun so blasted big, it would take
+an impossible amount of energy to lift the ship up from one planet to
+another. If your trip was, say, twenty billions of miles to the next
+planet, you'd be fighting a gravity as bad as the solar gravity at Earth
+here all the way--no decline with a little distance like that." "H-m-m-m--quite true. Then I should say that Mira would take the prize. It's a red giant, and it's an irregular variable. The sunlight there
+would be as unstable as the weather in New England. It's almost as big
+as Antares, and it won't hold still. Now that _would_ make a bad
+planetary system." "It would!" Kendall laughed. But as we know--he laughed too soon, and he
+shouldn't have used the conditional. He should have said, "It does!" III
+
+
+Gresth Gkae, Commander of Expeditionary Force 93, of the Planet Sthor,
+was returning homeward with joyful mind. In the lock of his great ship,
+lay the T-247. In her cargo holds lay various items of machinery, mining
+supplies, foods, and records. And in her log books lay the records of
+many readings on the nine larger planets of a highly satisfactory
+planetary system. Gresth Gkae had spent no less than three ultra-wearing years going from
+one sun to another in a definitely mapped out section of space. He had
+investigated only eleven stars in that time, eleven stars, progressively
+further from the titanic red-flaming sun he knew as "the" sun. He knew
+it as "the" sun, and had several other appellations for it. Mira was
+so-named by Earthmen because it was indeed a "wonder" star, in Latin,
+mirare means "to wonder." Irregularly, and for no apparent reason it
+would change its rate of radiation. So far as those inhabitants of Sthor
+and her sister world Asthor knew, there was no reason. It just did it. Perhaps with malicious intent to be annoying. If so, it was
+exceptionally successful. Sthor and Asthor experienced, periodically, a
+young ice age. When Mira decided to take a rest, Sthor and Asthor froze
+up, from the poles most of the way to the equators. Then Mira would
+stretch herself a little, move about restlessly and Sthor and Asthor
+would become uninhabitably hot, anywhere within twenty degrees of the
+equator. Those Sthorian people had evolved in a way that made the conditions
+endurable for savage or uncivilized people, but when a scientific
+civilization with a well-ordered mode of existence tried to establish
+itself, Mira was all sorts of a nuisance. Gresth Gkae was a peculiar individual to human ways of thinking. He
+stood some seven feet tall, on his strange, double-kneed legs and his
+four toed feet. His body was covered with little, short feather-like
+things that moved now with a volition of their own. They were moving
+very slowly and regularly. The space-ship was heated to a comfortable
+temperature, and the little fans were helping to cool Gresth Gkae. Had
+it been cold, every little feather would have lain down close against
+its neighbors, forming an admirable, wind-proof and cold-proof blanket. Nature, on Sthor, had original ideas of arrangement too. Sthorians
+possessed two eyes--one directly above the other, in the center of their
+faces. The face was so long, and narrow, it resembled a blunt hatchet,
+with the two eyes on the edge. To counter-balance this vertical
+arrangement of the eyes, the nostrils had been separated some four
+inches, with one on each of the sloping cheeks. His ears were little
+pink-flesh cups on short, muscular stems. His mouth was narrow, and
+small, but armed with quite solid teeth adapted to his diet, a diet
+consisting of almost anything any creature had ever considered edible. Like most successful forms of intelligent life, Gresth Gkae was
+omnivorous. An intelligent form of life is necessarily adaptable, and
+adaptation meant being able to eat what was at hand. One of his eyes, the upper one, was fully twice the size of the lower
+one. This was his telescopic eye. The lower, or microscopic eye was
+adapted to work for which a human being would have required a low power
+microscope, the upper eye possessed a more normal power of vision,
+_plus_ considerable telescopic powers. Gresth Gkae was using it now to look ahead in the blank of space to
+where gigantic Mira appeared. On his screens now, Mira appeared deep
+violet, for he was approaching at a speed greater than that of light,
+and even this projected light of Mira was badly distorted. "The distance is half a light-year now, sir," reported the navigation
+officer. "Reduce the speed, then, to normal velocity for these ranges. What
+reserve of fuel have we?" "Less than one thousand pounds. We will barely be able to stop. We were
+too free in the use of our weapons, I fear," replied the Chief
+Technician. "Well, what would you? We needed those things in our reports. Besides,
+we could extract fuel from that ore we took on at Planet Nine of Phahlo. It is merely that I wish speed in the return." "As we all do. How soon do you believe the Council will proceed against
+the new system?" "It will be fully a year, I fear. They must gather the expeditions
+together, and re-equip the ships. It will be a long time before all will
+have come in." "Could they not send fast ships after them to recall them?" "Could they have traced us as we wove our way from Thart to Karst to
+Raloork to Phahlo? It would be impossible." *       *       *       *       *
+
+Steadily the great ship had been boring on her way. Mira had been a disc
+for nearly two days, gigantic, two-hundred-and-fifty-million-mile Mira
+took a great deal of dwarfing by distance to lose her disc. Even at the
+Twin Planets, eight thousand two hundred and fifty millions of miles
+out, Mira covered half the sky, it seemed, red and angry. Sometimes,
+though, to the disgust of the Sthorians it was just red-faced and lazy. Then Sthor froze. "Grih is in a descendant stage," said the navigation officer presently. "Sthor will be cold when we arrive." "It will warm quickly enough with our news!" Gresth laughed. "A
+system--a delightful system--discovered. A system of many close-grouped
+planets. Why think--from one side of that system to the other is less of
+a distance than from Ansthat, our first planet's orbit, to Insthor's
+orbit! That sun, as we know, is steady and warm. All will be well, when
+we have eliminated that rather peculiar race. Odd, that they should, in
+some ways, be so nearly like us! Nearly Sthorian in build. I would not
+have expected it. Though they did have some amazing peculiarities! Imagine--two eyes just alike, and in a horizontal row. And that flat
+face. They looked as though they had suffered some accident that smashed
+the front of the face in. And also the peculiar beak-like projection. Why should a race ever develop so amazing a projection in so peculiar
+and exposed a position? It sticks out inviting attack and injury. Right
+in the middle of the face. And to make it worse, there is the
+air-channel, and the only air channel. Why, one minor injury to the
+throat would be certain to damage that passage beyond repair, and bring
+death. Yet such relatively unimportant things as ears, and eyes are
+doubled. Surely you would expect that so important a member as the
+air-passage would be doubled for safety. "Those strange, awkward arms and legs were what puzzled me. I have been
+attempting to manipulate myself as they must be forced to, and I cannot
+see how delicate or accurate manual manipulation would be possible with
+those rigid, inflexible arms. In some ways I feel they must have had
+clever minds to overcome so great a handicap to constructive work. But I
+suppose single joints in the arms become as natural to them as our own
+more mobile two. "I wonder if life in any intelligent form wouldn't develop somewhat
+similar formations, though. Think, in all parts of Sthor, before men
+became civilized and developed communication, even so much as twenty
+thousand years ago, our records show that seats and chairs were much as
+they are today, and much as they are, in all places among all groups. Then too, the eye has developed in many different species, and always
+reached much the same structure. When a thing is intended and developed
+to serve a given purpose, no matter who develops it, or where or how, is
+it not apt to have similar shapes and parts? A chair must have legs, and
+a seat and arm-rests and a back. You may vary their nature and their
+shape, but not widely, and they must be there. An eye must, anywhere,
+have a sensitive retina, an adjustable lens, and an adjustable device
+for controlling the entrance of light. Similarly there are certain
+functions that the body of an intelligent creature must serve which
+naturally tend to make intelligent creatures similar. He must have a
+tool--the hand--"
+
+"Yes, yes--I see your point. It must be so, for surely these creatures
+out there are strange enough in other ways." "But tell me, have you calculated when we shall land?" "In twelve hours, thirty-three minutes, sir." Eleven hours later, the expedition ship had slowed to a normal
+space-speed. On her left hung the giant globe of Asthor, rotating
+slowly, moving slowly in her orbit. Directly ahead, Sthor loomed even
+greater. Tiny Teelan, the thousand-mile diameter moon of the Insthor
+system shone dull red in the reflected light of gigantic Mira. Mira
+herself was gigantic, red and menacing across eight and a quarter
+billions of miles of space. One hundred thousand miles apart, the twin worlds Sthor and Asthor
+rotated about their common center of gravity, eternally facing each
+other. Ten million miles from their common center of gravity, Teelan
+rotated in a vast orbit. Sthor and Asthor were capped at each pole now by gigantic white icecaps. Mira was sulking, and as a consequence the planets were freezing. The expedition ship sank slowly toward Sthor. A swarm of smaller craft
+had flown up at its approach to meet it. A gaily-colored small ship
+marked the official greeting-ship. Gresth had withheld his news
+purposely. Now suddenly he began broadcasting it from the powerful
+transmitter on his ship. As the words came through on a thousand sets,
+all the little ships began to whirl, dance and break out into glowing,
+sparkling lights. On Sthor and Asthor even commotions began to be
+visible. A new planetary system had been found-- They could move! Their
+overflowing populations could be spread out! The whole Insthor system went mad with delight as the great
+Expeditionary Ship settled downward. IV
+
+
+There was a glint of humor in Buck Kendall's eyes as he passed the sheet
+over to McLaurin. Commander McLaurin looked down the columns with
+twinkling eyes. "'Petition to establish the Lunar Mining Bank,'" he read. "What a bank! Officers: President, General James Logan, late of the IP;
+Vice-president, Colonel Warren Gerardhi, also late of the IP; Staff,
+consists of 90% ex-IP men, and a few scattered accountants. Designed by
+the well-known designer of IP stations, Colonel Richard Murray." Commander McLaurin looked up at Kendall with a broad grin. "And you
+actually got Interplanetary Life to give you a mortgage on the
+structure?" "Why not? It'll cut cost fifty-eight millions, with its twelve-foot
+tungsten-beryllium walls and the heavy defense weapons against those
+terrible pirates. You know we must defend our property." "With the thing you're setting up out there on Luna, you could more
+readily wipe out the IP than anything else I know of. Any new defense
+ideas?" "Plenty. Did you get any further appropriations from the IP
+Appropriations Board?" McLaurin looked sour. "No. The dear taxpayers might object, and those
+thickheaded, clogged rockets on the Board can't see your data on the
+Stranger. They gave me just ten millions, and that only because you
+demonstrated you could shoot every living thing out of the latest IP
+cruiser with that neutron gun of yours. By the way, they may kick when I
+don't install more than a few of those." "Let 'em. You can stall for a few months. You'll need that money more
+for other purposes. You've installed that paraffin lining?" "Yes--I got a report on that of 'finished' last week. How have you made
+out?" Buck Kendall's face fell. "Not so hot. Devin's been the biggest help--he
+did most of the work on that neutron gun really--"
+
+"After," McLaurin interrupted, "you told him how." "--but we're pretty well stuck now, it seems. You'll be off duty
+tomorrow evening, can't you drop around to the lab? We're going to try
+out a new system for releasing atomic energy." "Isn't that a pretty faint hope? We've been trying to get it for three
+centuries now, and haven't yet. What chance at it within a year or
+so?--which is the time you allow yourself before the Stranger returns." "It is, I'll admit that. But there's another factor, not to be
+forgotten. The data we got from correlating those 'misreadings' from the
+various IP posts mean a lot. We are working on an entirely different
+trail now. You come on out, and you can see our new apparatus. They are
+working on tremendous voltages, and hoping to smash the thing by a
+brutal bombardment of terrific voltage. We're trying, thanks to the
+results of those instruments, to get results with small, terrifically
+intense fields." "How do you know that's their general system?" "They left traces on the records of the post instruments. These records
+show such intensities as we never got. They have atomic energy,
+necessarily, and they might have had material energy, actual destruction
+of matter, but apparently, from the field readings it's the former. To
+be able to make those tremendous hops, light-years in length, they
+needed a real store of energy. They have accumulators, of course, but I
+don't think they could store enough power by the system they use to do
+it." "Well, how's your trick 'bank' out on Luna, despite its twelve-foot
+walls, going to stand an atomic explosion?" "More protective devices to come is our only hope. I'm working on three
+trails: atomic energy, some type of magnetic shield that will stop any
+moving material particle, and their faster-than-light thing. Also, that
+fortress--I mean, of course, bank--is going to have a lot of lead-lined
+rooms." "I wish I could use the remaining money the Board gave me to lead-line a
+lot of those IP ships," said McLaurin wistfully. "Can't you make a
+gamma-ray bomb of some sort?" "Not without their atomic energy release. With it, of course, it's easy
+to flood a region with rays. It'll be a million times worse than radium
+'C,' which is bad enough." "Well, I'll send through this petition for armaments. They'll pass it
+all right, I think. They may get some kicks from old Jacob Ezra Stubbs. Jacob Ezra doesn't believe in anything war-like. I wish they'd find some
+way to keep him off of the Arms Petition Board. He might just as well
+stay home and let 'em vote his ticket uniformly 'nay.'" Buck Kendall
+left with a laugh. *       *       *       *       *
+
+Buck Kendall had his troubles though. When he had reached Earth again,
+he found that his properties totaled one hundred and three million
+dollars, roughly. One doesn't sell properties of that magnitude, one
+borrows against them. But to all intents and purposes, Buck Kendall
+owned two half-completed ship's hulls in the Baldwin Spaceship Yards, a
+great deal of massive metal work on its way to Luna, and contracts for
+some very extensive work on a "bank." Beyond that, about eleven million
+was left. A large portion of the money had been invested in a laboratory, the like
+of which the world had never seen. It was devoted exclusively to
+physics, and principally the physics of destruction. Dr. Paul Devin was
+the Director, Cole was in charge of the technical work, and Buck Kendall
+was free to do all the work he thought needed doing. Returned to his laboratory, he looked sourly at the bench on which seven
+mechanicians were working. The ninth successive experiment on the
+release of atomic energy had failed. The tenth was in process of
+construction. A heavy pure tungsten dome, three feet in diameter, three
+inches thick, was being lowered over a clear insulum dome, a foot
+smaller. Inside, the real apparatus was arranged around the little pool
+of mercury. From it, two massive tungsten-copper alloy conductors led
+through the insulum housing, and outside. These, so Kendall had hoped,
+would surge with the power of broken atoms, but he was beginning to
+believe rather bitterly, they would never do so. Buck went on to his offices, and the main calculator room. There were
+ten calculator tables here, two of them in operation now. "Hello, Devin. Getting on?" "No," said Devin bitterly, "I'm getting off. Look at these results." He
+brought over a sheaf of graphs, with explanatory tables attached. Rapidly Buck ran through them with him. Most of them were graphs of
+functions of light, considered as a wave in these experiments. "H-m-m-m--not very encouraging. Looks like you've got the field--but it
+just snaps shut on itself and won't work. The lack of volume makes it
+break down, if you establish it, and makes it impossible to establish in
+the first place without the energy of matter. Not so hot. That's
+certainly cock-eyed somewhere." "I'm not. The math may be." "Well"--Kendall grinned--"it amounts to the same thing. The point is,
+light doesn't. Let's run over that theory again. Light is not only
+magnetic; but electric. Somehow it transforms electric fields cyclically
+into magnetic fields and back again. Now what we want to do is to
+transform an electric into a magnetic field and have it stay there. That's the first step. The second thing, is to have the lines of
+magnetic force you develop, lie down like a sheath around the ship,
+instead of standing out like the hairs on an angry cat, the way they
+want to. That means turning them ninety degrees, and turning an electric
+into a magnetic field means turning the space-strain ninety degrees. Light evidently forms a magnetic field whose lines of force reach along
+its direction of motion, so that's your starting point." "Yes, and _that_," growled Devin, "seems to be the finishing point. Quite definitely and clearly, the graph looped down to zero. In other
+words, the field closed in on itself, and destroyed itself." "Light doesn't vanish." "I'll make you all the lights you want." "I simply mean there must be something that will stop it." "Certainly. Transform it back to electric field before it gets a chance
+to close in, then repeat the process--the way light does." "That wouldn't make such a good magnetic shield. Every time that field
+started pulsing out through the walls of the ship it would generate
+heat. We want a permanent field that will stay on the job out there. I
+wonder if you couldn't make a conductor device that would open that
+field out--some special type of oscillating field that would keep it
+open." "H-m-m-m--that's an angle I might try. Any suggestions?" Kendall had suggestions, and rapidly he outlined a development that
+appeared from some of the earlier mathematics on light, and might be
+what they wanted. *       *       *       *       *
+
+Kendall, however, had problems of his own to work on. The question of
+atomic energy he was leaving alone, till the present experiment either
+succeeded, or, as he rather suspected, failed as had its predecessors. His present problem was to develop more fully some interesting lines of
+research he had run across in investigating mathematically the trick of
+turning electric to magnetic fields and then turning them back again. It
+might be that along this line he would find the answer to the speed
+greater than that of light. At any rate, he was interested. He worked the rest of that day, and most of the next on that line--till
+he ran it into the ground with a pair of equations that ended with the
+expression: dx.dv=h/(4[pi]m). Then Kendall looked at them for a long
+moment, then he sighed gently and threw them into a file cabinet. Heisenberg's Uncertainty. He'd reduced the thing to a form that simply
+told him it was beyond the limits of certainty and he ran it into the
+normal, natural uncertainty inevitable in Nature. Anyway he had real work to do now. The machine was about ready for his
+attention. The mechanicians had finished putting it in shape for
+demonstration and trial. He himself would have to test it over the rest
+of the afternoon and arrange for power and so forth. By evening, when Commander McLaurin called around with some of the other
+investors in Kendall's "bank" on Luna, the thing was already started,
+warming up. The fields were being fed and the various scientists of the
+group were watching with interest. Power was flowing in already at a
+rate of nearly one hundred thousand horsepower per minute, thanks to a
+special line given them by New York Power (a Kendall property). At ten
+o'clock they were beginning to expect the reaction to start. By this
+time the fields weren't gaining in intensity very rapidly, a maximum
+intensity had been reached that should, they felt, break the atoms soon. At eleven-thirty, through the little view window, Buck Kendall saw
+something that made him cry out in amazement. The mercury metal in the
+receiver, behind its layers of screening was beginning to glow, with a
+dull reddish light, and little solidifications were appearing in it! Eagerly the men looked, as the solidifications spread slowly, like
+crystals growing in an evaporating solution. Twelve o'clock came and went, and one o'clock and two o'clock. Still the
+slow crystallization went on. Buck Kendall was casting furtive glances
+at the kilowatt-hour meter. It stood at a figure that represented
+twenty-seven thousand dollars' worth of power. Long since the power rate
+had been increased to the maximum available, as the power plant's normal
+load reduced as the morning hours came. Surely, this time something
+would start, but Buck had two worries. If all the enormous amount of
+energy they had poured in there decided to release itself at once--
+
+And at any rate, Buck saw they'd never dare to let a generator stop,
+once it was started! The men were a tense group around the machine at three-fifteen A.M. There remained only a tiny, dancing globule of silvery mercury
+skittering around on the sharp, needle-like crystals of the dull red
+metal that had resulted. Slowly that skittering drop was shrinking--
+
+Three twenty-two and a half A.M. saw the last fraction of it vanish. Tensely the men stared into the machine--backing off slowly--watching
+the meters on the board. At nearly eighty thousand volts the power had
+been fed into it. The power continued to flow, and a growing halo of intense violet light
+appeared suddenly on those red, needle-like crystals, a swiftly
+expanding halo--
+
+Without a sound, without the slightest disturbance, the halo vanished,
+and softly, gently, the needle-like crystals relapsed, melted away, and
+a dull pool of metallic mercury rested in the receiver. At eighty thousand volts, power was flowing in--
+
+And it didn't even sparkle. V
+
+
+The apparatus of the magnetic shield had been completed two days later,
+and set up in Buck's own laboratory. On the bench was the powerful, but
+small, little projector of the straight magnetic field, simply a
+specially designed accumulator, a super-condenser, and the peculiar
+apparatus Devin had designed to distort the electric field through
+ninety degrees to a magnetic field. Behind this was a curious,
+paraboloid projector made up of hundreds of tiny, carefully orientated
+coils. This was Buck's own contribution. They were ready for the tests. "I would invite McLaurin in to see this," said Kendall looking at them,
+and then across the room bitterly toward the alleged atomic power
+apparatus on the opposite bench. "I think it will work. But after
+_that_--" He stared, glaring, at the heavy tungsten dome with its heavy
+tungsten contacts, across which the flame of released atomic energy was
+supposed to have leapt. "That was probably the flattest flop any
+experiment ever flopped." "Well--it didn't blow up. That's one comfort," suggested Devin. "I wish it had. Then at least it would have shown some response. The
+only response shown, actually, was shown on the power meter. It damn
+near wore out the bearings turning so fast." "Personally, I prefer the lack of action." Devin laughed. "Have you got
+that circuit hooked up?" "Right," sighed Kendall, turning back to the work in hand. "Is Douglass
+in on this?" "Yes--in the next room. He'll let us know when he's ready. He's setting
+up those instruments." Douglass, a young junior physicist, late of the IP Physics Department,
+stuck his head in the door and announced his instruments were all set
+up. "Keep an eye on them. They'll move somehow, at any rate. This thing
+couldn't go as flat as that atom-buster of mine." Carefully Kendall made a few last-minute adjustments on the limiting
+relays, and took up his position at the power board. Devin took his
+place near the apparatus, with another series of instruments, similar to
+those Douglass was now watching in the next room, some thirty feet away,
+through the two-inch metal wall. "Ready," called Kendall. The switch shot home. Instantly Kendall, Devin, and all the men in the
+building jumped some six feet from their former positions. A monstrous
+roar of sound crashed out in that laboratory that thundered from one
+wall to the other, and bellowed in a Titan's fury. It thundered and
+growled, it bellowed and howled, the walls shook with the march and
+counter-march of crashing waves of sound. And a ten-foot wavering flame of blue-white, bellying electric fire
+shuddered up to the ceiling from the contact points of the alleged
+atomic generator. The heat, pouring out from the flashing, roaring arc
+sent prickles of aching burns over Kendall's skin. For ten seconds he
+stood in utter, paralyzed surprise as his flop of flops bellowed its
+anger at his disdain. Then he leapt to the power board and shut off the
+roaring thing, by cutting the switch that had started it. "Spirits of Space! Did _that_ come to life!" "_Atomic Energy!_" Devin cried. "Atomic energy, hell. That's my thirty thousand dollars' worth of power
+breaking loose again," chortled Kendall. "We missed the atomic energy,
+but, sweet boy, what an accumulator we stubbed our toes on! I wondered
+where in blazes all that power went to. That's the answer. I'll bet I
+can tell you right now what happened. We built that mercury up to a new
+level, and that transitional stage was the red, crystalline metal. When
+it reached the higher stage, it was temporarily stable--but that
+projector over there that we designed for the purpose of holding open
+electric and magnetic fields just opened the door and let all that power
+right out again." "But why isn't it atomic energy? How do you know that no more than your
+power that you put in is coming out?" demanded Devin. "The arc, man, the arc. That was a high-current, and low-voltage arc. Couldn't you tell by the sound that no great voltage--as atomic voltages
+go--was smashing across there? If we were getting atomic voltage--and
+power--there'd have been a different tone to it, high and shriller. "Now, did you take any readings?" "What do you think, man? I'm human. Do you think I got any readings with
+that thing bellowing and shrieking in my ears, and burning my skin with
+ultra-violet? It itches now." Kendall laughed. "You know what to do for an itch. Now, I'm going to
+make a bet. We had those points separated for a half-million volts
+discharge, but there was a dust-cover thrown over them just now. That,
+you notice, is missing. I'll bet that served as a starter lead for the
+main arc. Now I'm going to start that projector thing again, and move
+the points there through about six inches, and that thing probably won't
+start itself." *       *       *       *       *
+
+Most of the laboratory staff had collected at the doorway, looking in at
+the white-hot tungsten discharge points, and the now silent "atomic
+engine." Kendall turned to them and said: "The flop picked itself up. You go on back, we seem to be all in one piece yet. Douglass, you didn't
+get any readings, did you?" Sheepishly, Douglass grinned at him. "Eh--er--no--but I tore my pants. The magnetic field grabbed me and I jumped. They had some steel buttons,
+and a lot of steel keys--they're kinda' hard to keep on now." The laboratory staff broke into a roar of laughter, as Douglass, holding
+up his trousers with both hands was beheld. "I guess the field worked," he said. "I guess maybe it did," adjudged Kendall solemnly. "We have some rope
+here if you need it--"
+
+Douglass returned to his post. Swiftly, Kendall altered the atomic distortion storage apparatus, and
+returned to the power-board. "Ready?" "Check." Kendall shoved home the switch. The storage device was silent. Only a
+slight feeling of strain made itself felt, and the sudden noisy hum of a
+small transformer nearby. "She works, Buck!" Devin called. "The readings
+check almost exactly." "All good then. Now I want to get to that atomic thing. We can let that
+slide for a little bit--I'll answer it." The telephone had rung noisily. "Kendall Labs--Kendall speaking." "This is Superintendent Foster, of the New York Power, Mr. Kendall. We
+have some trouble just now that we think your operations may be
+responsible for. The sub-station at North Beaumont blew all the fuses,
+and threw the breakers at the main station. The men out there said the
+transformers began howling--"
+
+"Right you are--I'm afraid I did do that. I had no idea that it would
+reach so far. How far is that from my place here?" "It's about a thousand yards, according to the survey maps." "Thanks--and I'll be careful about it. Any damage, I am responsible for? All okay?" "Yes, sir, Mr. Kendall." Kendall hung up. "We stirred up a lot more dust
+than we expected, Devin. Now let's start seeing if we can keep track of
+it. Douglass, how did your readings show?" "I took them at the ten stations, and here they are. The stations are
+two feet apart." "H-m-m--.5--.55--.6--.7--20--198--5950--6010--6012--5920. Very, very
+nice--only the darned thing's got an arm as long as the law. Your
+readings were about .2, Devin?" "That's right." "Then these little readings are just leakage. What's our normal
+intensity here?" "About .19. Just a very small fraction less than the readings." "Perfect--we have what amounts to a hollow shell of magnetic force--we
+can move inside, and you can move outside--far enough. But you can't get
+a conductor or a magnetic field through it." He put the readings on the
+bench, and looked at the apparatus across the room. "Now I want to start
+right on that other. Douglass, you move that magnetostat apparatus out
+of the way, and leave just the 'can-opener' of ours--the projector. I'm
+pretty sure that's what does the deed. Devin, see if you can hunt up
+some electrostatic voltmeters with a range in the neighborhood of--I
+think it'll be about eighty thousand." *       *       *       *       *
+
+Rapidly, Douglass was dismounting the apparatus, as Devin started for
+the stock room. Kendall started making some new connections,
+reconnecting the apparatus they had intended using on the "atomic
+engine," largely high-capacity resistances. He seemed to perform this
+work mechanically, his mind definitely on something else. Suddenly he
+stopped, and looked carefully into the receiver of the machine. The
+metal in it was silvery, liquid, and here and there a floating crystal
+of the dull red metal. Slowly a smile spread across his face. He turned
+to Douglass. "Douglass--ah, you're through. Get on the trail of MacBride, and get him
+and his crew to work making half a dozen smaller things like this. Tell
+'em they can leave off the tungsten shield. I want different metals in
+the receiver of each. Use--hmmm--sodium--copper--magnesium--aluminium,
+iron and chromium. Got it?" "Yes, sir." He left, just as Devin returned with a large electrostatic
+voltmeter. "I'd like," said he, "to know how you know the voltage will range around
+eighty thousand." "K-ring excitation potential for mercury. I'm willing to bet that thing
+simply shoved the whole electron system of the mercury out a notch--that
+it simply _hasn't_ any K-ring of electrons now. I'm trying some other
+metals. Douglass is going to have MacBride make up half a dozen more
+machines. Machines--they need a name. This--ah--this is an 'atostor.' MacBride's going to make up half a dozen of 'em, and try half a dozen
+metals. I'm almost certain that's not mercury in there now, at all. It's
+probably element 99 or something like it." "It looks like mercury--"
+
+"Certainly. So would 99. Following the periodic table, 99 would probably
+have an even lower melting point than mercury, be silvery, dense and
+heavy--and perhaps slightly radioactive. The series under the B family
+of Group II is Magnesium, Zinc, Cadmium, Mercury--and 99. The melting
+point is going down all the way, and they're all silvery metals. I'm
+going to try copper, and I fully expect it to turn silvery--in fact, to
+become silver." "Then let's see." Swiftly they hooked up the apparatus, realigned the
+projector, and again Kendall took his place at the power-board. As he
+closed the switch, on no-load, the electrostatic voltmeter flopped over
+instantly, and steadied at just over 80,000 volts. "I hate to say 'I told you so,'" said Kendall. "But let's hook in a
+load. Try it on about 100 amps first." Devin began cutting in load. The resistors began heating up swiftly as
+more and more current flowed through them. By not so much as by a
+vibration of the voltmeter needle, did the apparatus betray any strain
+as the load mounted swiftly. 100--200--500--1000 amperes. Still, that
+needle held steady. Finally, with a drain of ten thousand amperes, all
+the equipment available could handle, the needle was steady as a rock,
+though the tremendous load of 800,000,000 watts was cut in and out. That, to atoms, atoms by the nonillions, was no appreciable load at all. There was _no_ internal resistance whatever. The perfect accumulator
+had certainly been discovered. "I'll have to call McLaurin--" Kendall hurried away with a broad, broad
+smile. VI
+
+
+"Hello, Tom?" The telephone rattled in a peeved sort of way. "Yes, it is. What now? And when am I going to see you in a social sort of way again?" "Not for a long, long time; I'm busy. I'm busy right now as a matter of
+fact. I'm calling up the vice-president of Faragaut Interplanetary
+Lines, and I want to place an order." "Why bother me? We have clerks, you know, for that sort of thing,"
+suggested Faragaut in a pained voice. "Tom, do you know how much I'm worth now?" "Not much," replied Faragaut promptly. "What of it? I hear, as a matter
+of fact that you're worth even less in a business way. They're talking
+quite a lot down this way about an alleged bank you're setting up on
+Luna. I hear it's got more protective devices, and armor than any IP
+station in the System, that you even had it designed by an IP designer,
+and have a gang of Colonels and Generals in charge. I also hear that
+you've succeeded in getting rid of money at about one million dollars a
+day--just slightly shy of that." "You overestimate me, my friend. Much of that is merely contracted for. Actually it'll take me nearly nine months to get rid of it. And by that
+time I'll have more. Anyway, I think I have something like ten million
+left. And remember that way back in the twentieth century some old
+fellow beat my record. Armour, I think it was, lost a million dollars a
+day for a couple of months running. "Anyway, what I called you up for was to say I'd like to order five
+hundred thousand tons of mercury, for delivery as soon as possible." "What! Oh, say, I thought you were going in for business." Faragaut gave
+a slight laugh of relief. "Tom, I am. I mean exactly what I say. I want
+five--hundred--thousand--_tons_ of metallic mercury, and just as soon as
+you can get it." "Man, there isn't that much in the system." "I know it. Get all there is on the market for me, and contract to take
+all the 'Jupiter Heavy-Metals' can turn out. You send those orders
+through, and clean out the market completely. Somebody's about to pay
+for the work I've been doing, and boy, they're going to pay through the
+nose. After you've got that order launched, and don't make a christening
+party of the launching either, why just drop out here, and I'll show you
+why the value of mercury is going so high you won't be able to follow it
+in a space ship." "The cost of that," said Faragaut, seriously now, "will be
+about--fifty-three million at the market price. You'd have to put up
+twenty-six cash, and I don't believe you've got it." Buck laughed. "Tom, loan me a dozen million, will you? You send that
+order through, and then come see what I've got. I've got a break, too! Mercury's the best metal for this use--and it'll stop gamma rays too!" "So it will--but for the love of the system, what of it?" "Come and see--tonight. Will you send that order through?" "I will, Buck. I hope you're right. Cash is tight now, and I'll probably
+have to put up nearer twenty million, when all that buying goes through. How long will it be tied up in that deal, do you think?" "Not over three weeks. And I'll guarantee you three hundred percent--if
+you'll stay in with me after you start. Otherwise--I don't think making
+this money would be fair just now." "I'll be out to see you in about two hours, Buck. Where are you? At the
+estate?" asked Faragaut seriously. "In my lab out there. Thanks, Tom." McLaurin was there when Tom Faragaut arrived. And General Logan, and
+Colonel Gerardhi. There was a restrained air of gratefulness about all
+of them that Tom Faragaut couldn't quite understand. He had been looking
+up Buck Kendall's famous bank, and more and more he had begun to wonder
+just what was up. The list of stockholders had read like a list of IP
+heroes and executives. The staff had been a list of IP men with a
+slender sprinkling of accountants. And the sixty-million dollar
+structure was to be a bank without advertising of any sort! Usually such
+a venture is planned and published months in advance. This had sprung up
+suddenly, with a strange quietness. Almost silently, Buck Kendall led the way to the laboratory. A small
+metal tank was supported in a peculiar piece of apparatus, and from it
+led a small platinum pipe to a domed apparatus made largely of insulum. A little pool of mercury, with small red crystals floating in it rested
+in a shallow hollow surrounded by heavy conductors. "That's it, Tom. I wanted to show you first what we have, and why I
+wanted all that mercury. Within three weeks, every man, woman and child
+in the system will be clamoring for mercury metal. That's the perfect
+accumulator." Quickly he demonstrated the machine, charging it, and then
+discharging it. It was better than 99.95% efficient on the charge, and
+was 100% efficient on the discharge. "Physically, any metal will do. Technically, mercury is best for a
+number of reasons. It's a liquid. I can, and do it in this, charge a
+certain quantity, and then move it up to the storage tank. Charge
+another pool, and move it up. In discharge, I can let a stream flow in
+continuously if I required a steady, terrific drain of power without
+interruption. If I wanted it for more normal service, I'd discharge a
+pool, drain it, refill the receiver, and discharge a second pool. Thus,
+mercury is the metal to use. "Do you see why I wanted all that metal?" "I do, Buck--Lord, I do," gasped Faragaut. "That is the perfect power
+supply." "No, confound it, it isn't. It's a secondary source. It isn't primary. We're just as limited in the _supply_ of power as ever--only we have
+increased our distribution of power. Lord knows, we're going to need a
+power _supply_ badly enough before long--" Buck relapsed into moody
+silence. "What," asked Faragaut, looking around him, "does that mean?" It was McLaurin who told him of the stranger ship, and Kendall's
+interpretation of its meaning. Slowly Faragaut grasped the meaning
+behind Buck's strange actions of the past months. "The Lunar Bank," he said slowly, half to himself. "Staffed by trained
+IP men, experts in expert destruction. Buck, you said something about
+the profits of this venture. What did you mean?" Buck smiled. "We're going to stick up IP to the extent necessary to pay
+for that fort--er--bank--on Luna. We'll also boost the price so that
+we'll make enough to pay for those ships I'm having made. The public
+will pay for that." "I see. And we aren't to stick the price too high, and just make money?" "That's the general idea." "The IP Appropriations Board won't give you what you need, Commander,
+for real improvements on the IP ships?" "They won't believe Kendall. Therefore they won't." "What did you mean about gamma rays, Buck?" "Mercury will stop them and the Commander here intends to have the
+refitted ships built so that the engine room and control room are one,
+and completely surrounded by the mercury tanks. The men will be
+protected against the gamma rays." "Won't the rays affect the power stored in the mercury--perhaps release
+it?" "We tried it out, of course, and while we can't get the intensities we
+expect, and can't really make any measurements of the gamma-ray energy
+impinging on the mercury--it seems to absorb, and store that energy!" "What's next on the program, Buck?" "Finish those ships I have building. And I want to do some more
+development work. The Stranger will return within six months now, I
+believe. It will take all that time, and more for real refitting of the
+IP ships." "How about more forts--or banks, whichever you want to call them. Mars
+isn't protected." "Mars is abandoned," replied General Logan seriously. "We haven't any
+too much to protect old Earth, and she must come first. Mars will, of
+course, be protected as best the IP ships can. But--we're expecting
+defeat. This isn't a case of glorious victory. It will be a case of hard
+won survival. We don't know anything about the enemy--except that they
+are capable of interstellar flights, and have atomic energy. They are
+evidently far ahead of us. Our battle is to survive till we learn how to
+conquer. For a time, at least, the Strangers will have possession of
+most of the planets of the system. We do not think they will be able to
+reach Earth, because Commander McLaurin here will withdraw his ships to
+Earth to protect the planet--and the great 'Lunar Bank' will display its
+true character." VII
+
+
+Faragaut looked unsympathetically at Buck Kendall, as he stood glaring
+perplexedly at the apparatus he had been working on. "What's the matter, Buck, won't she perk?" "No, damn it, and it should." "That," pointed out Faragaut, "is just what you think. Nature thinks
+otherwise. We generally have to abide by her opinions. What is it--or
+what is it meant to be?" "Perfect reflector." "Make a nice mirror. What else, and how come?" "A mirror is just what I want. I want something that will reflect _all_
+the radiation that falls on it. No metal will, even in its range of
+maximum reflectivity. Aluminum goes pretty high, silver, on some ranges,
+a bit higher. But none of them reaches 99%. I want a perfect reflector
+that I can put behind a source of wild, radiant energy so I can focus
+it, and put it where it will do the most good." "Ninety-nine percent. Sounds pretty good. That's better efficiency than
+most anything else we have, isn't it?" "No, it isn't. The accumulator is 100% efficient on the discharge, and a
+good transformer, even before that, ran as high as 99.8 sometimes. They
+had to. 

@@ -1,0 +1,1644 @@
+
+
+
+
+Produced by Ron Swanson
+
+
+
+
+
+SELECT POEMS OF THOMAS GRAY. EDITED, WITH NOTES,
+BY
+WILLIAM J. ROLFE, A.M.,
+FORMERLY HEAD MASTER OF THE HIGH SCHOOL, CAMBRIDGE, MASS. _WITH ENGRAVINGS_. _NEW YORK_:
+HARPER & BROTHERS, PUBLISHERS,
+FRANKLIN SQUARE. 1883. Entered according to Act of Congress, in the year 1876, by
+HARPER & BROTHERS,
+In the Office of the Librarian of Congress, at Washington. PREFACE. Many editions of Gray have been published in the last fifty years,
+some of them very elegant, and some showing considerable editorial
+labor, but not one, so far as I am aware, critically exact either in
+text or in notes. No editor since Mathias (A.D. 1814) has given the
+2d line of the _Elegy_ as Gray wrote and printed it; while Mathias's
+mispunctuation of the 123d line has been copied by his successors,
+almost without exception. Other variations from the early editions
+are mentioned in the notes. It is a curious fact that the most accurate edition of Gray's
+collected poems is the _editio princeps_ of 1768, printed under his
+own supervision. The first edition of the two Pindaric odes, _The
+Progress of Poesy_ and _The Bard_ (Strawberry-Hill, 1757), was
+printed with equal care, and the proofs were probably read by the
+poet. The text of the present edition has been collated, line by
+line, with that of these early editions, and in no instance have I
+adopted a later reading. All the MS. variations, and the various
+readings I have noted in the modern editions, are given in the notes. Pickering's edition of 1835, edited by Mitford, has been followed
+blindly in nearly all the more recent editions, and its many errors
+(see pp. 84 and 105, foot-notes) have been faithfully reproduced. Even its blunders in the "indenting" of the lines in the
+corresponding stanzas of the two Pindaric odes, which any careful
+proof-reader ought to have corrected, have been copied again and
+again--as in the Boston (1853) reprint of Pickering, the pretty
+little edition of Bickers & Son (London, n. d.), the fac-simile of
+the latter printed at our University Press, Cambridge (1866), etc. Of former editions of Gray, the only one very fully annotated is
+Mitford's (Pickering, 1835), already mentioned. I have drawn freely
+from that, correcting many errors, and also from Wakefield's and
+Mason's editions, and from Hales's notes (_Longer English Poems_,
+London, 1872) on the _Elegy_ and the Pindaric odes. To all this
+material many original notes and illustrations have been added. The facts concerning the first publication of the _Elegy_ are not
+given correctly by any of the editors, and even the "experts" of
+_Notes and Queries_ have not been able to disentangle the snarl of
+conflicting evidence. I am not sure that I have settled the question
+myself (see p. 74 and foot-note), but I have at least shown that Gray
+is a more credible witness in the case than any of his critics. Their
+testimony is obviously inconsistent and inconclusive; he may have
+confounded the names of two magazines, but that remains to be
+proved. [1]
+
+[Footnote 1: Since writing the above to-day, I have found by the
+merest chance in my own library another bit of evidence in the case,
+which fully confirms my surmise that the _Elegy_ was printed in _The
+Magazine of Magazines_ before it appeared in the _Grand Magazine of
+Magazines_. _Chambers's Book of Days_ (vol. ii. p. 146), in an
+article on "Gray and his Elegy," says:
+
+"It first saw the light in _The Magazine of Magazines_, February,
+1751. Some imaginary literary wag is made to rise in a convivial
+assembly, and thus announce it: 'Gentlemen, give me leave to soothe
+my own melancholy, and amuse you in a most noble manner, with a full
+copy of verses by the very ingenious Mr. Gray, of Peterhouse,
+Cambridge. They are stanzas written in a country churchyard.' Then
+follow the verses. A few days afterwards, Dodsley's edition
+appeared," etc. The same authority gives the four stanzas omitted after the 18th (see
+p. 79) as they appear in the _North American Review_, except that the
+first line of the third is "Hark how the sacred calm that _reigns_
+around," a reading which I have found nowhere else. The stanza "There
+scattered oft," etc. (p. 81), is given as in the review. The reading
+on p. 82 must be a later one.] I have retained most of the "parallel passages" from the poets given
+by the editors, and have added others, without regard to the critics
+who have sneered at this kind of annotations. Whether Gray borrowed
+from the others, or the others from him, matters little; very likely,
+in most instances, neither party was consciously the borrower. Gray,
+in his own notes, has acknowledged certain debts to other poets, and
+probably these were all that he was aware of. Some of these he
+contracted unwittingly (see what he says of one of them in a letter
+to Walpole, quoted in the note on the _Ode on the Spring_, 31), and
+the same may have been true of some apparently similar cases pointed
+out by modern editors. To me, however, the chief interest of these
+coincidences and resemblances of thought or expression is as studies
+in the "comparative anatomy" of poetry. The teacher will find them
+useful as pegs to hang questions upon, or texts for oral instruction. The pupil, or the young reader, who finds out who all these poets
+were, when they lived, what they wrote, etc., will have learned no
+small amount of English literary history. If he studies the
+quotations merely as illustrations of style and expression, or as
+examples of the poetic diction of various periods, he will have
+learned some lessons in the history and the use of his mother-tongue. The wood-cuts on pp. 9, 25, 26, 27, 28, 30, 34, 36, 39, 40, 41, 42,
+45, 50, and 61 are from Birket Foster's designs; those on pp. 29, 31,
+33, 35, 37, and 38 are from the graceful drawings of "E. V. B." (the
+Hon. Mrs. Boyle); the rest are from various sources. _Cambridge_, Feb. 29, 1876. CONTENTS. PAGE
+THE LIFE OF THOMAS GRAY, BY ROBERT CARRUTHERS . . . . 9
+
+STOKE-POGIS, BY WILLIAM HOWITT  . . . . . . . . . . . 16
+
+ELEGY WRITTEN IN A COUNTRY CHURCHYARD . . . . . . . . 23
+
+MISCELLANEOUS POEMS . . . . . . . . . . . . . . . . . 43
+
+  ON THE SPRING . . . . . . . . . . . . . . . . . . . 45
+
+  ON THE DEATH OF A FAVOURITE CAT . . . . . . . . . . 48
+
+  ON A DISTANT PROSPECT OF ETON COLLEGE . . . . . . . 50
+
+  THE PROGRESS OF POESY . . . . . . . . . . . . . . . 55
+
+  THE BARD  . . . . . . . . . . . . . . . . . . . . . 61
+
+  HYMN TO ADVERSITY . . . . . . . . . . . . . . . . . 68
+
+NOTES . . . . . . . . . . . . . . . . . . . . . . . . 71
+
+  APPENDIX TO NOTES . . . . . . . . . . . . . . . . . 138
+
+INDEX . . . . . . . . . . . . . . . . . . . . . . . . 145
+
+
+
+
+[Illustration: STOKE-POGIS CHURCH.] THE LIFE OF THOMAS GRAY. BY ROBERT CARRUTHERS. Thomas Gray, the author of the celebrated _Elegy written in a Country
+Churchyard_, was born in Cornhill, London, December 26, 1716. His
+father, Philip Gray, an exchange broker and scrivener, was a wealthy
+and nominally respectable citizen, but he treated his family with
+brutal severity and neglect, and the poet was altogether indebted for
+the advantages of a learned education to the affectionate care and
+industry of his mother, whose maiden name was Antrobus, and who, in
+conjunction with a maiden sister, kept a millinery shop. A brother of
+Mrs. Gray was assistant to the Master of Eton, and was also a fellow
+of Pembroke College, Cambridge. Under his protection the poet was
+educated at Eton, and from thence went to Peterhouse, attending
+college from 1734 to September, 1738. At Eton he had as
+contemporaries Richard West, son of the Lord Chancellor of Ireland,
+and Horace Walpole, son of the triumphant Whig minister, Sir Robert
+Walpole. West died early in his 26th year, but his genius and virtues
+and his sorrows will forever live in the correspondence of his
+friend. In the spring of 1739, Gray was invited by Horace Walpole to
+accompany him as travelling companion in a tour through France and
+Italy. They made the usual route, and Gray wrote remarks on all he
+saw in Florence, Rome, Naples, etc. His observations on arts and
+antiquities, and his sketches of foreign manners, evince his
+admirable taste, learning, and discrimination. Since Milton, no such
+accomplished English traveller had visited those classic shores. In
+their journey through Dauphiny, Gray's attention was strongly
+arrested by the wild and picturesque site of the Grande Chartreuse,
+surrounded by its dense forest of beech and fir, its enormous
+precipices, cliffs, and cascades. He visited it a second time on his
+return, and in the album of the mountain convent he wrote his famous
+Alcaic Ode. At Reggio the travellers quarrelled and parted. Walpole
+took the whole blame on himself. He was fond of pleasure and
+amusements, "intoxicated by vanity, indulgence, and the insolence of
+his situation as a prime minister's son"--his own confession--while
+Gray was studious, of a serious disposition, and independent spirit. The immediate cause of the rupture is said to have been Walpole's
+clandestinely opening, reading, and resealing a letter addressed to
+Gray, in which he expected to find a confirmation of his suspicions
+that Gray had been writing unfavourably of him to some friends in
+England. A partial reconciliation was effected about three years
+afterwards by the intervention of a lady, and Walpole redeemed his
+youthful error by a life-long sincere admiration and respect for his
+friend. From Reggio Gray proceeded to Venice, and thence travelled
+homewards, attended by a _laquais de voyage_. He arrived in England
+in September, 1741, having been absent about two years and a half. His father died in November, and it was found that the poet's fortune
+would not enable him to prosecute the study of the law. He therefore
+retired to Cambridge, and fixed his residence at the university. There he continued for the remainder of his life, with the exception
+of about two years spent in London, when the treasures of the British
+Museum were thrown open. At Cambridge he had the range of noble
+libraries. His happiness consisted in study, and he perused with
+critical attention the Greek and Roman poets, philosophers,
+historians, and orators. Plato and the Anthologia he read and
+annotated with great care, as if for publication. He compiled tables
+of Greek chronology, added notes to Linnaeus and other naturalists,
+wrote geographical disquisitions on Strabo; and, besides being
+familiar with French and Italian literature, was a zealous
+archaeological student, and profoundly versed in architecture,
+botany, painting, and music. In all departments of human learning,
+except mathematics, he was a master. But it follows that one so
+studious, so critical, and so fastidious, could not be a voluminous
+writer. A few poems include all the original compositions of Gray-
+-the quintessence, as it were, of thirty years of ceaseless study and
+contemplation, irradiated by bright and fitful gleams of inspiration. In 1742 Gray composed his _Ode to Spring_, his _Ode on a Distant
+Prospect of Eton College_, and his _Ode to Adversity_--productions
+which most readers of poetry can repeat from memory. He commenced a
+didactic poem, _On the Alliance of Education and Government_, but
+wrote only about a hundred lines. Every reader must regret that this
+philosophical poem is but a fragment. It is in the style and measure
+of Dryden, of whom Gray was an ardent admirer and close student. His
+_Elegy written in a Country Churchyard_ was completed and published
+in 1751. In the form of a sixpenny _brochure_ it circulated rapidly,
+four editions being exhausted the first year. This popularity
+surprised the poet. He said sarcastically that it was owing entirely
+to the subject, and that the public would have received it as well if
+it had been written in prose. The solemn and affecting nature of the
+poem, applicable to all ranks and classes, no doubt aided its sale;
+it required high poetic sensibility and a cultivated taste to
+appreciate the rapid transitions, the figurative language, and
+lyrical magnificence of the odes; but the elegy went home to all
+hearts; while its musical harmony, originality, and pathetic train of
+sentiment and feeling render it one of the most perfect of English
+poems. No vicissitudes of taste or fashion have affected its
+popularity. When the original manuscript of the poem was lately
+(1854) offered for sale, it brought the almost incredible sum of 131
+pounds. The two great odes of Gray, _The Progress of Poetry_ and _The
+Bard_, were published in 1757, and were but coldly received. His
+name, however, stood high, and on the death of Cibber, the same year,
+he was offered the laureateship, which he wisely declined. He was
+ambitious, however, of obtaining the more congenial and dignified
+appointment of Professor of Modern History in the University of
+Cambridge, which fell vacant in 1762, and, by the advice of his
+friends, he made application to Lord Bute, but was unsuccessful. Lord
+Bute had designed it for the tutor of his son-in-law, Sir James
+Lowther. No one had heard of the tutor, but the Bute influence was
+all-prevailing. In 1765 Gray took a journey into Scotland,
+penetrating as far north as Dunkeld and the Pass of Killiecrankie;
+and his account of his tour, in letters to his friends, is replete
+with interest and with touches of his peculiar humour and graphic
+description. One other poem proceeded from his pen. In 1768 the
+Professorship of Modern History was again vacant, and the Duke of
+Grafton bestowed it upon Gray. A sum of 400 pounds per annum was thus
+added to his income; but his health was precarious--he had lost it,
+he said, just when he began to be easy in his circumstances. The
+nomination of the Duke of Grafton to the office of Chancellor of the
+University enabled Gray to acknowledge the favour conferred on
+himself. He thought it better that gratitude should sing than
+expectation, and he honoured his grace's installation with an ode. Such occasional productions are seldom happy; but Gray preserved his
+poetic dignity and select beauty of expression. He made the founders
+of Cambridge, as Mr. Hallam has remarked, "pass before our eyes like
+shadows over a magic glass." When the ceremony of the installation
+was over, the poet-professor went on a tour to the lakes of
+Cumberland and Westmoreland, and few of the beauties of the
+lake-country, since so famous, escaped his observation. This was to
+be his last excursion. While at dinner one day in the college-hall he
+was seized with an attack of gout in his stomach, which resisted all
+the powers of medicine, and proved fatal in less than a week. He died
+on the 30th of July, 1771, and was buried, according to his own
+desire, beside the remains of his mother at Stoke-Pogis, near Slough,
+in Buckinghamshire, in a beautiful sequestered village churchyard
+that is supposed to have furnished the scene of his elegy. [1] The
+literary habits and personal peculiarities of Gray are familiar to us
+from the numerous representations and allusions of his friends. It is
+easy to fancy the recluse-poet sitting in his college-chambers in the
+old quadrangle of Pembroke Hall. His windows are ornamented with
+mignonette and choice flowers in China vases, but outside may be
+discerned some iron-work intended to be serviceable as a fire-escape,
+for he has a horror of fire. His furniture is neat and select; his
+books, rather for use than show, are disposed around him. He has a
+harpsichord in the room. In the corner of one of the apartments is a
+trunk containing his deceased mother's dresses, carefully folded up
+and preserved. His fastidiousness, bordering upon effeminacy, is
+visible in his gait and manner--in his handsome features and small,
+well-dressed person, especially when he walks abroad and sinks the
+author and hard student in "the gentleman who sometimes writes for
+his amusement." He writes always with a crow-quill, speaks slowly and
+sententiously, and shuns the crew of dissonant college revellers, who
+call him "a prig," and seek to annoy him. Long mornings of study, and
+nights feverish from ill-health, are spent in those chambers; he is
+often listless and in low spirits; yet his natural temper is not
+desponding, and he delights in employment. He has always something to
+learn or to communicate--some sally of humour or quiet stroke of
+satire for his friends and correspondents--some note on natural
+history to enter in his journal--some passage of Plato to unfold and
+illustrate--some golden thought of classic inspiration to inlay on
+his page--some bold image to tone down--some verse to retouch and
+harmonize. His life is on the whole innocent and happy, and a feeling
+of thankfulness to the Great Giver is breathed over all. [Footnote 1: A claim has been put up for the churchyard of
+Granchester, about two miles from Cambridge, the great bell of St.
+Mary's serving for the "curfew." But Stoke-Pogis is more likely to
+have been the spot, if any individual locality were indicated. The
+poet often visited the village, his aunt and mother residing there,
+and his aunt was interred in the churchyard of the place. Gray's
+epitaph on his mother is characterized not only by the tenderness
+with which he always regarded her memory, but by his style and cast
+of thought. It runs thus: "Beside her friend and sister here sleep
+the remains of Dorothy Gray, widow, the careful, tender mother of
+many children, one of whom alone had the misfortune to survive her. She died March 11, 1753, aged 72." She had lived to read the _Elegy_,
+which was perhaps an ample recompense for her maternal cares and
+affection. Mrs. Gray's will commences in a similar touching strain:
+"In the name of God, amen. This is the last will and desire of
+Dorothy Gray to her son Thomas Gray." [Cunningham's edit. of
+_Johnson's Lives_.] They were all in all to each other. The father's
+cruelty and neglect, their straitened circumstances, the sacrifices
+made by the mother to maintain her son at the university, her pride
+in the talents and conduct of that son, and the increasing gratitude
+and affection of the latter, nursed in his scholastic and cloistered
+solitude--these form an affecting but noble record in the history of
+genius. [One would infer from the above that Mrs. Gray was _not_ "interred in
+the churchyard of the place," though the epitaph given immediately
+after shows that she _was_. Gray in his will directed that he should
+be laid beside her there. The passage in the will reads thus: "First,
+I do desire that my body may be deposited in the vault, made by my
+dear mother in the churchyard of Stoke-Pogeis, near Slough in
+Buckinghamshire, by her remains, in a coffin of seasoned oak, neither
+lined nor covered, and (unless it be inconvenient) I could wish that
+one of my executors may see me laid in the grave, and distribute
+among such honest and industrious poor persons in said parish as he
+thinks fit, the sum of ten pounds in charity."--_Ed_.]] Various editions of the collected works of Gray have been published. The first, including memoirs of his life and his correspondence,
+edited by his friend, the Rev. W. Mason, appeared in 1775. It has
+been often reprinted, and forms the groundwork of the editions by
+Mathias (1814) and Mitford (1816). Mr. Mitford, in 1843, published
+Gray's correspondence with the Rev. Norton Nicholls; and in 1854
+another collection of Gray's letters was published, edited also by
+Mr. Mitford. Every scrap of the poet's MSS. is eagerly sought after,
+and every year seems to add to his popularity as a poet and
+letter-writer. *     *     *     *     *     *
+
+In 1778 a monument to Gray was erected in Westminster Abbey by Mason,
+with the following inscription:
+
+  No more the Grecian muse unrivall'd reigns,
+    To Britain let the nations homage pay;
+  She felt a Homer's fire in Milton's strains,
+    A Pindar's rapture in the lyre of Gray. The cenotaph afterwards erected in Stoke Park by Mr. Penn is
+described below. [Illustration: WEST-END HOUSE.] STOKE-POGIS. FROM HOWITT'S "HOMES AND HAUNTS OF THE BRITISH POETS. "[1]
+
+[Footnote 1: Harper's edition, vol. i. p. 314 foll.] It is at Stoke-Pogis that we seek the most attractive vestiges of
+Gray. Here he used to spend his vacations, not only when a youth at
+Eton, but during the whole of his future life, while his mother and
+his aunts lived. Here it was that his _Ode on a Distant Prospect of
+Eton College_, his celebrated _Elegy written in a Country
+Churchyard_, and his _Long Story_ were not only written, but were
+mingled with the circumstances and all the tenderest feelings of his
+own life. His mother and aunts lived at an old-fashioned house in a very
+retired spot at Stoke, called West-End. This house stood in a hollow,
+much screened by trees. A small stream ran through the garden, and it
+is said that Gray used to employ himself when here much in this
+garden, and that many of the trees still remaining are of his
+planting. On one side of the house extended an upland field, which
+was planted round so as to give a charming retired walk; and at the
+summit of the field was raised an artificial mound, and upon it was
+built a sort of arcade or summer-house, which gave full prospect of
+Windsor and Eton. Here Gray used to delight to sit; here he was
+accustomed to read and write much; and it is just the place to
+inspire the _Ode on Eton College_, which lay in the midst of its fine
+landscape, beautifully in view. The old house inhabited by Gray and
+his mother has just been pulled down, and replaced by an Elizabethan
+mansion by the present proprietor, Mr. Penn, of Stoke Park, just
+by. [2] The garden, of course, has shared in the change, and now
+stands gay with its fountain and its modern greenhouse, and,
+excepting for some fine trees, no longer reminds you of Gray. The
+woodland walk still remains round the adjoining field, and the
+summer-house on its summit, though now much cracked by time, and only
+held together by iron cramps. The trees are now so lofty that they
+completely obstruct the view, and shut out both Eton and Windsor. [Footnote 2: This was written (or published, at least) in 1846; but
+Mitford, in the Life of Gray prefixed to the "Eton edition" of his
+Poems, published in 1847, says: "The house, which is now called
+_West-End_, lies in a secluded part of the parish, on the road to
+Fulmer. It has lately been much enlarged and adorned by its present
+proprietor [Mr. Penn], but the room called 'Gray's' (distinguished by
+a small balcony) is still preserved; and a shady walk round an
+adjoining meadow, with a summer-house on the rising land, are still
+remembered as favourite places frequented by the poet."--_Ed_.] *     *     *     *     *     *
+
+Stoke Park is about a couple of miles from Slough. The country is
+flat, but its monotony is broken up by the noble character and
+disposition of its woods. Near the house is a fine expanse of water,
+across which the eye falls on fine views, particularly to the south,
+of Windsor Castle, Cooper's Hill, and the Forest Woods. About three
+hundred yards from the north front of the house stands a column,
+sixty-eight feet high, bearing on the top a colossal statue of Sir
+Edward Coke, by Rosa. The woods of the park shut out the view of
+West-End House, Gray's occasional residence, but the space is open
+from the mansion across the park, so as to take in the view both of
+the church and of a monument erected by the late Mr. Penn to Gray. Alighting from the carriage at a lodge, we enter the park just at the
+monument. This is composed of fine freestone, and consists of a large
+sarcophagus, supported on a square pedestal, with inscriptions on
+each side. Three of them are selected from the _Ode on Eton College_
+and the _Elegy_. They are:
+
+  Hard by yon wood, now smiling as in scorn,
+    Muttering his wayward fancies he would rove;
+  Now drooping, woeful-wan, like one forlorn,
+    Or craz'd with care, or cross'd in hopeless love. One morn I miss'd him on the custom'd hill,
+    Along the heath, and near his fav'rite tree;
+  Another came; nor yet beside the rill,
+    Nor up the lawn, nor at the wood was he. The second is from the _Ode_:
+
+  Ye distant spires! ye antique towers! That crown the watery glade,
+  Where grateful Science still adores
+    Her Henry's holy shade;
+  And ye, that from the stately brow
+  Of Windsor's heights th' expanse below
+    Of grove, of lawn, of mead survey,
+  Whose turf, whose shade, whose flowers among
+  Wanders the hoary Thames along
+    His silver-winding way. Ah, happy hills! ah, pleasing shade! Ah, fields belov'd in vain! Where once my careless childhood stray'd,
+    A stranger yet to pain! I feel the gales that from ye blow,
+  A momentary bliss bestow. The third is again from the _Elegy_:
+
+  Beneath those rugged elms, that yew-tree's shade,
+    Where heaves the turf in many a mouldering heap,
+  Each in his narrow cell forever laid,
+    The rude forefathers of the hamlet sleep. The breezy call of incense-breathing morn,
+    The swallow twittering from the straw-built shed,
+  The cock's shrill clarion or the echoing horn,
+    No more shall rouse them from their lowly bed. The fourth bears this inscription:
+
+            This Monument, in honour of
+                    THOMAS GRAY,
+               Was erected A.D. 1799,
+                 Among the scenery
+  Celebrated by that great Lyric and Elegiac Poet. He died in 1771,
+   And lies unnoted in the adjoining Church-yard,
+      Under the Tomb-stone on which he piously
+      And pathetically recorded the interment
+          Of his Aunt and lamented Mother. This monument is in a neatly kept garden-like enclosure, with a
+winding walk approaching from the shade of the neighbouring trees. To
+the right, across the park, at some little distance, backed by fine
+trees, stands the rural little church and churchyard where Gray wrote
+his _Elegy_, and where he lies. As you walk on to this, the mansion
+closes the distant view between the woods with fine effect. The
+church has often been engraved, and is therefore tolerably familiar
+to the general reader. It consists of two barn-like structures, with
+tall roofs, set side by side, and the tower and finely tapered spire
+rising above them at the northwest corner. The church is thickly hung
+with ivy, where
+
+   "The moping owl may to the moon complain
+  Of such as, wandering near her secret bower,
+    Molest her ancient, solitary reign." The structure is as simple and old-fashioned, both without and
+within, as any village church can well be. No village, however, is to
+be seen. Stoke consists chiefly of scattered houses, and this is now
+in the midst of the park. In the churchyard,
+
+ "Beneath those rugged elms, that yew-tree's shade,
+    Where heaves the turf in many a mouldering heap,
+  Each in his narrow cell forever laid,
+    The rude forefathers of the hamlet sleep." All this is quite literal; and the tomb of the poet himself, near the
+southeast window, completes the impression of the scene. It is a
+plain brick altar tomb, covered with a blue slate slab, and, besides
+his own ashes, contains those of his mother and aunt. On the slab are
+inscribed the following lines by Gray himself: "In the vault beneath
+are deposited, in hope of a joyful resurrection, the remains of _Mary
+Antrobus_. She died unmarried, Nov. 5, 1749, aged sixty-six. In the
+same pious confidence, beside her friend and sister, here sleep the
+remains of _Dorothy Gray_, widow; the careful, tender mother of many
+children, ONE of whom alone had the misfortune to survive her. She
+died, March 11, 1753, aged LXXII." No testimony of the interment of Gray in the same tomb was inscribed
+anywhere till Mr. Penn, in 1799, erected the monument already
+mentioned, and placed a small slab in the wall, under the window,
+opposite to the tomb itself, recording the fact of Gray's burial
+there. The whole scene is well worthy of a summer day's stroll,
+especially for such as, pent in the metropolis, know how to enjoy the
+quiet freshness of the country and the associations of poetry and the
+past. [Illustration: GRAY'S MONUMENT, STOKE PARK.] ELEGY WRITTEN IN A COUNTRY CHURCHYARD. [Illustration]
+
+
+ELEGY WRITTEN IN A COUNTRY CHURCHYARD. The curfew tolls the knell of parting day,
+    The lowing herd wind slowly o'er the lea,
+  The plowman homeward plods his weary way,
+    And leaves the world to darkness and to me. Now fades the glimmering landscape on the sight,         5
+    And all the air a solemn stillness holds,
+  Save where the beetle wheels his droning flight,
+    And drowsy tinklings lull the distant folds:
+
+[Illustration]
+
+  Save that, from yonder ivy-mantled tower,
+    The moping owl does to the moon complain              10
+  Of such as, wandering near her secret bower,
+    Molest her ancient solitary reign. [Illustration]
+
+  Beneath those rugged elms, that yew-tree's shade,
+    Where heaves the turf in many a mouldering heap,
+  Each in his narrow cell forever laid,                   15
+    The rude forefathers of the hamlet sleep. [Illustration]
+
+  The breezy call of incense-breathing morn,
+    The swallow twittering from the straw-built shed,
+  The cock's shrill clarion, or the echoing horn,
+    No more shall rouse them from their lowly bed. 20
+
+[Illustration]
+
+  For them no more the blazing hearth shall burn,
+    Or busy housewife ply her evening care;
+  No children run to lisp their sire's return,
+    Or climb his knees the envied kiss to share. [Illustration]
+
+  Oft did the harvest to their sickle yield,              25
+    Their furrow oft the stubborn glebe has broke;
+  How jocund did they drive their team afield! How bow'd the woods beneath their sturdy stroke! [Illustration]
+
+  Let not Ambition mock their useful toil,
+    Their homely joys, and destiny obscure;               30
+  Nor Grandeur hear with a disdainful smile
+    The short and simple annals of the poor. The boast of heraldry, the pomp of power,
+    And all that beauty, all that wealth e'er gave,
+  Awaits alike th' inevitable hour. 35
+    The paths of glory lead but to the grave. Nor you, ye proud, impute to these the fault,
+    If Memory o'er their tomb no trophies raise;
+  Where, through the long-drawn aisle and fretted vault,
+    The pealing anthem swells the note of praise. 40
+
+  Can storied urn or animated bust
+    Back to its mansion call the fleeting breath? Can Honour's voice provoke the silent dust? Or Flattery soothe the dull cold ear of Death? Perhaps in this neglected spot is laid                  45
+    Some heart once pregnant with celestial fire;
+  Hands, that the rod of empire might have sway'd,
+    Or wak'd to ecstasy the living lyre:
+
+  But Knowledge to their eyes her ample page,
+    Rich with the spoils of time, did ne'er unroll;       50
+  Chill Penury repress'd their noble rage,
+    And froze the genial current of the soul. [Illustration]
+
+  Full many a gem of purest ray serene
+    The dark unfathom'd caves of ocean bear;
+  Full many a flower is born to blush unseen,             55
+    And waste its sweetness on the desert air. Some village Hampden, that with dauntless breast
+    The little tyrant of his fields withstood,
+  Some mute inglorious Milton here may rest,
+    Some Cromwell, guiltless of his country's blood. 60
+
+[Illustration]
+
+  Th' applause of listening senates to command,
+    The threats of pain and ruin to despise,
+  To scatter plenty o'er a smiling land,
+    And read their history in a nation's eyes,
+
+  Their lot forbade: nor circumscrib'd alone              65
+    Their growing virtues, but their crimes confin'd;
+  Forbade to wade through slaughter to a throne,
+    And shut the gates of mercy on mankind,
+
+  The struggling pangs of conscious truth to hide,
+    To quench the blushes of ingenuous shame,             70
+  Or heap the shrine of Luxury and Pride
+    With incense kindled at the Muse's flame. [Illustration]
+
+  Far from the madding crowd's ignoble strife,
+    Their sober wishes never learn'd to stray;
+  Along the cool sequester'd vale of life                 75
+    They kept the noiseless tenor of their way. Yet even these bones from insult to protect,
+    Some frail memorial still erected nigh,
+  With uncouth rhymes and shapeless sculpture deck'd,
+    Implores the passing tribute of a sigh. 80
+
+[Illustration]
+
+  Their name, their years, spelt by th' unletter'd Muse,
+    The place of fame and elegy supply;
+  And many a holy text around she strews,
+    That teach the rustic moralist to die. [Illustration]
+
+  For who, to dumb forgetfulness a prey,                  85
+    This pleasing anxious being e'er resign'd,
+  Left the warm precincts of the cheerful day,
+    Nor cast one longing lingering look behind? On some fond breast the parting soul relies,
+    Some pious drops the closing eye requires;            90
+  Even from the tomb the voice of Nature cries,
+    Even in our ashes live their wonted fires. [Illustration]
+
+  For thee, who, mindful of th' unhonour'd dead,
+    Dost in these lines their artless tale relate,
+  If chance, by lonely contemplation led,                 95
+    Some kindred spirit shall inquire thy fate,
+
+[Illustration]
+
+  Haply some hoary-headed swain may say,
+    "Oft have we seen him at the peep of dawn
+  Brushing with hasty steps the dews away,
+    To meet the sun upon the upland lawn. 100
+
+[Illustration]
+
+  "There at the foot of yonder nodding beech,
+    That wreathes its old fantastic roots so high,
+  His listless length at noontide would he stretch,
+    And pore upon the brook that babbles by. "Hard by yon wood, now smiling as in scorn,            105
+    Muttering his wayward fancies he would rove;
+  Now drooping, woeful-wan, like one forlorn,
+    Or craz'd with care, or cross'd in hopeless love. "One morn I miss'd him on the custom'd hill,
+    Along the heath, and near his favourite tree;        110
+  Another came; nor yet beside the rill,
+    Nor up the lawn, nor at the wood was he;
+
+  "The next, with dirges due in sad array,
+    Slow through the church-way path we saw him borne. Approach and read (for thou canst read) the lay        115
+    Grav'd on the stone beneath yon aged thorn." [Illustration]
+
+                    THE EPITAPH. Here rests his head upon the lap of Earth
+    A youth, to Fortune and to Fame unknown;
+  Fair Science frown'd not on his humble birth,
+    And Melancholy mark'd him for her own. 120
+
+  Large was his bounty, and his soul sincere,
+    Heaven did a recompense as largely send;
+  He gave to Misery all he had, a tear;
+    He gain'd from Heaven ('twas all he wish'd) a friend. No farther seek his merits to disclose,                125
+    Or draw his frailties from their dread abode,
+  (There they alike in trembling hope repose)
+    The bosom of his Father and his God. [Illustration]
+
+
+
+
+MISCELLANEOUS POEMS. [Illustration]
+
+
+ON THE SPRING. Lo! where the rosy-bosom'd Hours,
+    Fair Venus' train, appear,
+  Disclose the long-expecting flowers,
+    And wake the purple year! The Attic warbler pours her throat,           5
+  Responsive to the cuckoo's note,
+    The untaught harmony of spring;
+  While, whispering pleasure as they fly,
+  Cool Zephyrs thro' the clear blue sky
+    Their gather'd fragrance fling. 10
+
+  Where'er the oak's thick branches stretch
+    A broader browner shade,
+  Where'er the rude and moss-grown beech
+    O'ercanopies the glade,
+  Beside some water's rushy brink              15
+  With me the Muse shall sit, and think
+    (At ease reclin'd in rustic state)
+  How vain the ardour of the crowd,
+  How low, how little are the proud,
+    How indigent the great! 20
+
+  Still is the toiling hand of Care;
+    The panting herds repose:
+  Yet hark, how thro' the peopled air
+    The busy murmur glows! The insect youth are on the wing,            25
+  Eager to taste the honied spring,
+    And float amid the liquid noon:
+  Some lightly o'er the current skim,
+  Some show their gayly-gilded trim
+    Quick-glancing to the sun. 30
+
+  To Contemplation's sober eye
+    Such is the race of Man;
+  And they that creep, and they that fly,
+    Shall end where they began. Alike the busy and the gay                   35
+  But flutter thro' life's little day,
+    In Fortune's varying colours drest:
+  Brush'd by the hand of rough Mischance,
+  Or chill'd by age, their airy dance
+    They leave, in dust to rest. 40
+
+  Methinks I hear in accents low
+    The sportive kind reply:
+  Poor moralist! and what art thou? A solitary fly! Thy joys no glittering female meets,         45
+  No hive hast thou of hoarded sweets,
+    No painted plumage to display:
+  On hasty wings thy youth is flown;
+  Thy sun is set, thy spring is gone--
+    We frolic while 'tis May. 50
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+ON THE DEATH OF A FAVOURITE CAT,
+_Drowned in a Tub of Gold Fishes_. 'Twas on a lofty vase's side,
+  Where China's gayest art had dyed
+    The azure flowers that blow;
+  Demurest of the tabby kind,
+  The pensive Selima, reclin'd,                 5
+    Gaz'd on the lake below. Her conscious tail her joy declar'd:
+  The fair round face, the snowy beard,
+    The velvet of her paws,
+  Her coat, that with the tortoise vies,       10
+  Her ears of jet, and emerald eyes,
+    She saw; and purr'd applause. Still had she gaz'd; but midst the tide
+  Two angel forms were seen to glide,
+    The Genii of the stream:                   15
+  Their scaly armour's Tyrian hue
+  Through richest purple to the view
+    Betray'd a golden gleam. The hapless nymph with wonder saw:
+  A whisker first, and then a claw,            20
+    With many an ardent wish,
+  She stretch'd in vain to reach the prize. What female heart can gold despise? What Cat's averse to fish? Presumptuous maid! with looks intent         25
+  Again she stretch'd, again she bent,
+    Nor knew the gulf between. (Malignant Fate sat by, and smil'd.) The slippery verge her feet beguil'd,
+    She tumbled headlong in. 30
+
+  Eight times emerging from the flood,
+  She mew'd to every watery God,
+    Some speedy aid to send. No Dolphin came, no Nereid stirr'd:
+  Nor cruel Tom, nor Susan heard. 35
+    A favourite has no friend! From hence, ye beauties, undeceiv'd,
+  Know, one false step is ne'er retriev'd,
+    And be with caution bold. Not all that tempts your wandering eyes      40
+  And heedless hearts is lawful prize,
+    Nor all that glisters gold. [Illustration]
+
+
+ON A DISTANT PROSPECT OF ETON COLLEGE. [Greek: Anthropos, hikane prophasis eis to dustuchein.]--MENANDER. Ye distant spires, ye antique towers,
+    That crown the watery glade,
+  Where grateful Science still adores
+    Her Henry's holy shade;
+  And ye, that from the stately brow                5
+  Of Windsor's heights th' expanse below
+    Of grove, of lawn, of mead survey,
+  Whose turf, whose shade, whose flowers among
+  Wanders the hoary Thames along
+    His silver-winding way:                        10
+
+  Ah, happy hills! ah, pleasing shade! Ah, fields belov'd in vain! Where once my careless childhood stray'd,
+    A stranger yet to pain! I feel the gales that from ye blow               15
+  A momentary bliss bestow,
+    As, waving fresh their gladsome wing,
+  My weary soul they seem to soothe,
+  And, redolent of joy and youth,
+    To breathe a second spring. 20
+
+  Say, Father Thames, for thou hast seen
+    Full many a sprightly race
+  Disporting on thy margent green
+    The paths of pleasure trace;
+  Who foremost now delight to cleave               25
+  With pliant arm thy glassy wave? The captive linnet which enthrall? What idle progeny succeed
+  To chase the rolling circle's speed,
+    Or urge the flying ball? 30
+
+  While some, on earnest business bent,
+    Their murmuring labours ply
+  'Gainst graver hours that bring constraint
+    To sweeten liberty,
+  Some bold adventurers disdain                    35
+  The limits of their little reign,
+    And unknown regions dare descry:
+  Still as they run they look behind,
+  They hear a voice in every wind,
+    And snatch a fearful joy. 40
+
+  Gay hope is theirs by fancy fed,
+    Less pleasing when possest;
+  The tear forgot as soon as shed,
+    The sunshine of the breast:
+  Theirs buxom health of rosy hue,                 45
+  Wild wit, invention ever new,
+    And lively cheer of vigour born;
+  The thoughtless day, the easy night,
+  The spirits pure, the slumbers light,
+    That fly th' approach of morn. 50
+
+  Alas! regardless of their doom,
+    The little victims play;
+  No sense have they of ills to come,
+    No care beyond to-day:
+  Yet see how all around 'em wait                  55
+  The ministers of human fate,
+    And black Misfortune's baleful train! Ah, show them where in ambush stand
+  To seize their prey the murtherous band! Ah, tell them, they are men! 60
+
+  These shall the fury Passions tear,
+    The vultures of the mind,
+  Disdainful Anger, pallid Fear,
+    And Shame that skulks behind;
+  Or pining Love shall waste their youth,          65
+  Or Jealousy with rankling tooth,
+    That inly gnaws the secret heart;
+  And Envy wan, and faded Care,
+  Grim-visag'd comfortless Despair,
+    And Sorrow's piercing dart. 70
+
+  Ambition this shall tempt to rise,
+    Then whirl the wretch from high,
+  To bitter Scorn a sacrifice,
+    And grinning Infamy. The stings of Falsehood those shall try,         75
+  And hard Unkindness' alter'd eye,
+    That mocks the tear it forc'd to flow;
+  And keen Remorse with blood defil'd,
+  And moody Madness laughing wild
+    Amid severest woe. 80
+
+  Lo! in the vale of years beneath
+    A grisly troop are seen,
+  The painful family of Death,
+    More hideous than their queen:
+  This racks the joints, this fires the veins,     85
+  That every labouring sinew strains,
+    Those in the deeper vitals rage:
+  Lo! Poverty, to fill the band,
+  That numbs the soul with icy hand,
+    And slow-consuming Age. 90
+
+  To each his sufferings: all are men,
+    Condemn'd alike to groan;
+  The tender for another's pain,
+    Th' unfeeling for his own. Yet, ah! why should they know their fate,        95
+  Since sorrow never comes too late,
+    And happiness too swiftly flies? Thought would destroy their paradise. No more;--where ignorance is bliss,
+    'Tis folly to be wise. 100
+
+[Illustration: SEAL OF ETON COLLEGE.] [Illustration: APOLLO CITHAROEDUS. FROM THE VATICAN.] THE PROGRESS OF POESY. _A Pindaric Ode_. [Greek:  Phonanta sunetoisin: es
+           De to pan hermeneon
+           Chatizei.] --PINDAR, _Ol_. II. I. 1. Awake, Aeolian lyre, awake,
+  And give to rapture all thy trembling strings. From Helicon's harmonious springs
+    A thousand rills their mazy progress take:
+  The laughing flowers that round them blow,                  5
+  Drink life and fragrance as they flow. Now the rich stream of music winds along,
+  Deep, majestic, smooth, and strong,
+  Thro' verdant vales, and Ceres' golden reign:
+  Now rolling down the steep amain,                          10
+  Headlong, impetuous, see it pour;
+  The rocks and nodding groves rebellow to the roar. I. 2. Oh! Sovereign of the willing soul,
+  Parent of sweet and solemn-breathing airs,
+  Enchanting shell! the sullen Cares                         15
+    And frantic Passions hear thy soft control. On Thracia's hills the Lord of War
+  Has curb'd the fury of his car,
+  And dropt his thirsty lance at thy command. Perching on the sceptred hand                              20
+  Of Jove, thy magic lulls the feather'd king
+  With ruffled plumes and flagging wing:
+  Quench'd in dark clouds of slumber lie
+  The terror of his beak, and lightnings of his eye. I. 3. Thee the voice, the dance, obey,                           25
+  Temper'd to thy warbled lay. O'er Idalia's velvet-green
+  The rosy-crowned Loves are seen
+  On Cytherea's day
+  With antic Sports, and blue-eyed Pleasures,                30
+  Frisking light in frolic measures;
+  Now pursuing, now retreating,
+    Now in circling troops they meet:
+  To brisk notes in cadence beating,
+    Glance their many-twinkling feet. 35
+  Slow melting strains their Queen's approach declare:
+    Where'er she turns the Graces homage pay. With arms sublime, that float upon the air,
+    In gliding state she wins her easy way:
+  O'er her warm cheek, and rising bosom, move                40
+  The bloom of young Desire and purple light of Love. [Illustration: DELPHI AND MOUNT PARNASSUS.] II. 1. Man's feeble race what ills await! Labour, and Penury, the racks of Pain,
+  Disease, and Sorrow's weeping train,
+    And Death, sad refuge from the storms of Fate! 45
+  The fond complaint, my song, disprove,
+  And justify the laws of Jove. Say, has he given in vain the heavenly Muse? Night and all her sickly dews,
+  Her spectres wan, and birds of boding cry,                 50
+  He gives to range the dreary sky;
+  Till down the eastern cliffs afar
+  Hyperion's march they spy, and glittering shafts of war. II. 2. In climes beyond the solar road,
+  Where shaggy forms o'er ice-built mountains roam,          55
+  The Muse has broke the twilight gloom
+    To cheer the shivering native's dull abode. And oft, beneath the odorous shade
+  Of Chili's boundless forests laid,
+  She deigns to hear the savage youth repeat,                60
+  In loose numbers wildly sweet,
+  Their feather-cinctur'd chiefs, and dusky loves. Her track, where'er the Goddess roves,
+  Glory pursue, and generous Shame,
+  Th' unconquerable Mind, and Freedom's holy flame. 65
+
+
+II. 3. Woods, that wave o'er Delphi's steep,
+  Isles, that crown th' Aegean deep,
+  Fields, that cool Ilissus laves,
+  Or where Maeander's amber waves
+  In lingering labyrinths creep,                             70
+  How do your tuneful echoes languish,
+  Mute, but to the voice of anguish! Where each old poetic mountain
+    Inspiration breath'd around;
+  Every shade and hallow'd fountain                          75
+    Murmur'd deep a solemn sound:
+  Till the sad Nine, in Greece's evil hour,
+    Left their Parnassus for the Latian plains. Alike they scorn the pomp of tyrant Power,
+    And coward Vice, that revels in her chains. 80
+  When Latium had her lofty spirit lost,
+  They sought, O Albion! next thy sea-encircled coast. [Illustration: THE AVON AND STRATFORD CHURCH.] III. 1. Far from the sun and summer gale,
+  In thy green lap was Nature's darling laid,
+  What time, where lucid Avon stray'd,                       85
+    To him the mighty mother did unveil
+  Her awful face: the dauntless child
+  Stretch'd forth his little arms and smil'd. "This pencil take (she said), whose colours clear
+  Richly paint the vernal year:                              90
+  Thine too these golden keys, immortal Boy! This can unlock the gates of joy;
+  Of horror that, and thrilling fears,
+  Or ope the sacred source of sympathetic tears." III. 2. Nor second He, that rode sublime                         95
+  Upon the seraph wings of Ecstasy,
+  The secrets of th' abyss to spy. He pass'd the flaming bounds of place and time:
+  The living throne, the sapphire blaze,
+  Where angels tremble while they gaze,                     100
+  He saw; but, blasted with excess of light,
+  Clos'd his eyes in endless night. Behold, where Dryden's less presumptuous car,
+  Wide o'er the fields of glory bear
+  Two coursers of ethereal race,                            105
+  With necks in thunder cloth'd, and long-resounding pace. III. 3. Hark, his hands the lyre explore! Bright-eyed Fancy hovering o'er
+  Scatters from her pictur'd urn
+  Thoughts that breathe, and words that burn. 110
+  But ah! 'tis heard no more----
+  Oh! lyre divine, what daring spirit
+  Wakes thee now? Tho' he inherit
+  Nor the pride, nor ample pinion,
+    That the Theban eagle bear,                             115
+  Sailing with supreme dominion
+    Thro' the azure deep of air,
+  Yet oft before his infant eyes would run
+    Such forms as glitter in the Muse's ray
+  With orient hues, unborrow'd of the sun:                  120
+    Yet shall he mount, and keep his distant way
+  Beyond the limits of a vulgar fate,
+  Beneath the Good how far--but far above the Great. [Illustration]
+
+
+THE BARD. _A Pindaric Ode_. I. 1. "Ruin seize thee, ruthless King! Confusion on thy banners wait;
+  Tho' fann'd by Conquest's crimson wing,
+    They mock the air with idle state. Helm, nor hauberk's twisted mail,                             5
+  Nor e'en thy virtues, Tyrant, shall avail
+  To save thy secret soul from nightly fears,
+  From Cambria's curse, from Cambria's tears!" Such were the sounds that o'er the crested pride
+  Of the first Edward scatter'd wild dismay,                   10
+    As down the steep of Snowdon's shaggy side
+  He wound with toilsome march his long array. Stout Gloster stood aghast in speechless trance:
+  "To arms!" cried Mortimer, and couch'd his quivering lance. I. 2. On a rock whose haughty brow                               15
+  Frowns o'er old Conway's foaming flood,
+    Rob'd in the sable garb of woe,
+  With haggard eyes the poet stood
+  (Loose his beard, and hoary hair
+  Stream'd, like a meteor, to the troubled air),               20
+  And with a master's hand, and prophet's fire,
+  Struck the deep sorrows of his lyre. "Hark, how each giant oak, and desert cave,
+    Sighs to the torrent's awful voice beneath! O'er thee, O King! their hundred arms they wave,             25
+    Revenge on thee in hoarser murmurs breathe;
+  Vocal no more, since Cambria's fatal day,
+  To high-born Hoel's harp, or soft Llewellyn's lay. I. 3. "Cold is Cadwallo's tongue,
+    That hush'd the stormy main;                               30
+  Brave Urien sleeps upon his craggy bed;
+    Mountains, ye mourn in vain
+    Modred, whose magic song
+  Made huge Plinlimmon bow his cloud-topt head. On dreary Arvon's shore they lie,                          35
+  Smear'd with gore, and ghastly pale:
+  Far, far aloof th' affrighted ravens sail;
+    The famish'd eagle screams, and passes by. Dear lost companions of my tuneful art,
+    Dear as the light that visits these sad eyes,              40
+  Dear as the ruddy drops that warm my heart,
+    Ye died amidst your dying country's cries--
+  No more I weep. They do not sleep. On yonder cliffs, a grisly band,
+  I see them sit, they linger yet,                             45
+    Avengers of their native land:
+  With me in dreadful harmony they join,
+  And weave with bloody hands the tissue of thy line. II. 1. "Weave the warp, and weave the woof,
+    The winding-sheet of Edward's race. 50
+  Give ample room, and verge enough
+    The characters of hell to trace. Mark the year, and mark the night,
+  When Severn shall reecho with affright
+  The shrieks of death thro' Berkeley's roofs that ring,       55
+  Shrieks of an agonizing king! She-wolf of France, with unrelenting fangs,
+  That tear'st the bowels of thy mangled mate,
+    From thee be born, who o'er thy country hangs
+  The scourge of heaven. What terrors round him wait! 60
+  Amazement in his van, with Flight combin'd,
+  And Sorrow's faded form, and Solitude behind. II. 2. "Mighty victor, mighty lord! Low on his funeral couch he lies! No pitying heart, no eye, afford                           65
+  A tear to grace his obsequies. Is the sable warrior fled? Thy son is gone. He rests among the dead. The swarm that in thy noontide beam were born? Gone to salute the rising morn. 70
+  Fair laughs the morn, and soft the zephyr blows,
+    While proudly riding o'er the azure realm
+  In gallant trim the gilded vessel goes;
+    Youth on the prow, and Pleasure at the helm;
+  Regardless of the sweeping whirlwind's sway,                 75
+  That, hush'd in grim repose, expects his evening prey. II. 3. "Fill high the sparkling bowl,
+    The rich repast prepare;
+  Reft of a crown, he yet may share the feast:
+    Close by the regal chair                                   80
+    Fell Thirst and Famine scowl
+  A baleful smile upon their baffled guest. Heard ye the din of battle bray,
+  Lance to lance, and horse to horse? Long years of havoc urge their destined course,              85
+    And thro' the kindred squadrons mow their way. Ye towers of Julius, London's lasting shame,
+    With many a foul and midnight murther fed,
+  Revere his consort's faith, his father's fame,
+    And spare the meek usurper's holy head. 90
+  Above, below, the rose of snow,
+    Twin'd with her blushing foe, we spread:
+  The bristled boar in infant gore
+    Wallows beneath the thorny shade. Now, brothers, bending o'er the accursed loom,               95
+  Stamp we our vengeance deep, and ratify his doom. [Illustration: THE BLOODY TOWER.] III. 1. "Edward, lo! to sudden fate
+    (Weave we the woof. The thread is spun.) Half of thy heart we consecrate. (The web is wove. The work is done.) 100
+  Stay, oh stay! nor thus forlorn
+  Leave me unbless'd, unpitied, here to mourn:
+  In yon bright track, that fires the western skies,
+  They melt, they vanish from my eyes. But oh! what solemn scenes on Snowdon's height            105
+  Descending slow their glittering skirts unroll? Visions of glory, spare my aching sight! Ye unborn ages, crowd not on my soul! No more our long-lost Arthur we bewail. All hail, ye genuine kings, Britannia's issue, hail! 110
+
+
+III. 2. "Girt with many a baron bold
+  Sublime their starry fronts they rear;
+    And gorgeous dames, and statesmen old
+  In bearded majesty, appear. In the midst a form divine! 115
+  Her eye proclaims her of the Briton line;
+  Her lion-port, her awe-commanding face,
+  Attemper'd sweet to virgin-grace. What strings symphonious tremble in the air,
+    What strains of vocal transport round her play! 120
+  Hear from the grave, great Taliessin, hear;
+    They breathe a soul to animate thy clay. Bright Rapture calls, and soaring as she sings,
+  Waves in the eye of heaven her many-colour'd wings. III. 3. "The verse adorn again                                    125
+    Fierce War, and faithful Love,
+  And Truth severe, by fairy Fiction drest. In buskin'd measures move
+    Pale Grief, and pleasing Pain,
+  With Horror, tyrant of the throbbing breast. 130
+    A voice, as of the cherub-choir,
+  Gales from blooming Eden bear;
+  And distant warblings lessen on my ear,
+    That lost in long futurity expire. Fond impious man, think'st thou yon sanguine cloud,         135
+    Rais'd by thy breath, has quench'd the orb of day? To-morrow he repairs the golden flood,
+    And warms the nations with redoubled ray. Enough for me; with joy I see
+    The different doom our fates assign. 140
+  Be thine despair, and sceptred care;
+    To triumph, and to die, are mine." He spoke, and headlong from the mountain's height
+  Deep in the roaring tide he plung'd to endless night. [Illustration: QUEEN ELIZABETH.] [Illustration]
+
+
+HYMN TO ADVERSITY. [Greek:  Zena----
+           Ton phronein brotous hodo-
+           santa, toi pathei mathan
+           Thenta kurios echein.] AESCHYLUS, _Agam_. Daughter of Jove, relentless power,
+      Thou tamer of the human breast,
+    Whose iron scourge and torturing hour
+      The bad affright, afflict the best! Bound in thy adamantine chain,                        5
+    The proud are taught to taste of pain,
+    And purple tyrants vainly groan
+  With pangs unfelt before, unpitied and alone. When first thy sire to send on earth
+      Virtue, his darling child, design'd,               10
+    To thee he gave the heavenly birth,
+      And bade to form her infant mind. Stern rugged nurse! thy rigid lore
+    With patience many a year she bore:
+    What sorrow was, thou bad'st her know,               15
+  And from her own she learn'd to melt at others' woe. Scar'd at thy frown terrific, fly
+      Self-pleasing Folly's idle brood,
+    Wild Laughter, Noise, and thoughtless Joy,
+      And leave us leisure to be good. 20
+    Light they disperse, and with them go
+    The summer friend, the flattering foe;
+    By vain Prosperity receiv'd,
+  To her they vow their truth, and are again believ'd. Wisdom in sable garb array'd,                        25
+      Immersed in rapturous thought profound,
+    And Melancholy, silent maid,
+      With leaden eye that loves the ground,
+    Still on thy solemn steps attend;
+    Warm Charity, the general friend,                    30
+    With Justice, to herself severe,
+  And Pity, dropping soft the sadly-pleasing tear. Oh! gently on thy suppliant's head,
+      Dread goddess, lay thy chastening hand! Not in thy Gorgon terrors clad,                      35
+      Not circled with the vengeful band
+    (As by the impious thou art seen),
+    With thundering voice and threatening mien,
+    With screaming Horror's funeral cry,
+  Despair, and fell Disease, and ghastly Poverty:        40
+
+    Thy form benign, O goddess, wear,
+      Thy milder influence impart;
+    Thy philosophic train be there
+      To soften, not to wound, my heart. The generous spark extinct revive,                   45
+    Teach me to love and to forgive,
+    Exact my own defects to scan,
+  What others are to feel, and know myself a Man. [Illustration: BERKELEY CASTLE. "Mark the year, and mark the night,
+  When Severn shall reecho with affright
+  The shrieks of death thro' Berkeley's roofs that ring,
+  Shrieks of an agonizing king!" _The Bard_, 53.] NOTES. LIST OF ABBREVIATIONS. A. S., Anglo-Saxon. Arc., Milton's _Arcades_. C. T., Chaucer's _Canterbury Tales_. Cf. (_confer_), compare. D. V., Goldsmith's _Deserted Village_. Ep., Epistle, Epode. Foll., following. F. Q., Spenser's _Faerie Queene_. H., Haven's _Rhetoric_ (Harper's edition). Hales, _Longer English Poems_, edited by Rev. J. W. Hales (London,
+1872). Il Pens., Milton's _Il Penseroso_. L'All., Milton's _L'Allegro_. Ol., Pindar's _Olympian Odes_. P. L., Milton's _Paradise Lost_. P. R., Milton's _Paradise Regained_. S. A., Milton's _Samson Agonistes_. Shakes. Gr., Abbott's _Shakespearian Grammar_ (the references are to
+_sections_, not pages). Shep. Kal., Spenser's _Shepherd's Kalendar_. st., stanza. Wb., Webster's Dictionary (last revised quarto edition). Worc., Worcester's Dictionary (quarto edition). Other abbreviations (names of books in the Bible, plays of
+Shakespeare, works of Ovid, Virgil, and Horace, etc.) need no
+explanation. NOTES. [Illustration]
+
+
+ELEGY IN A COUNTRY CHURCHYARD. This poem was begun in the year 1742, but was not finished until
+1750, when Gray sent it to Walpole with a letter (dated June 12,
+1750) in which he says: "I have been here at Stoke a few days (where
+I shall continue good part of the summer), and having put an end to a
+thing, whose beginning you have seen long ago, I immediately send it
+you. You will, I hope, look upon it in the light of a thing with an
+end to it: a merit that most of my writings have wanted, and are like
+to want." It was shown in manuscript to some of the author's friends,
+and was published in 1751 only because it was about to be printed
+surreptitiously. February 11, 1751, Gray wrote to Walpole that the proprietors of "the
+Magazine of Magazines" were about to publish his _Elegy_, and added,
+"I have but one bad way left to escape the honour they would inflict
+upon me; and therefore am obliged to desire you would make Dodsley
+print it immediately (which may be done in less than a week's time)
+from your copy, but without my name, in what form is most convenient
+for him, but on his best paper and character; he must correct the
+press himself,[1] and print it without any interval between the
+stanzas, because the sense is in some places continued beyond them;
+and the title must be--'Elegy, written in a Country Churchyard.' If
+he would add a line or two to say it came into his hands by accident,
+I should like it better." Walpole did as requested, and wrote an
+advertisement to the effect that accident alone brought the poem
+before the public, although an apology was unnecessary to any but the
+author. On which Gray wrote, "I thank you for your advertisement,
+which saves my honour." [Footnote 1: Dodsley's proof-reading must have been somewhat
+careless, for there are many errors of the press in this _editio
+princeps_. Gray writes to Walpole, under date of "Ash-Wednesday,
+Cambridge, 1751," as follows: "Nurse Dodsley has given it a pinch or
+two in the cradle, that (I doubt) it will bear the marks of as long
+as it lives. But no matter: we have ourselves suffered under her
+hands before now; and besides, it will only look the more careless
+and by _accident_ as it were." Again, March 3, 1751, he writes: "I do
+not expect any more editions; as I have appeared in more magazines
+than one. The chief errata were _sacred_ for _secret_; _hidden_ for
+_kindred_ (in spite of dukes and classics); and '_frowning_ as in
+scorn' for _smiling_. I humbly propose, for the benefit of Mr.
+Dodsley and his matrons, that take _awake_ [in line 92, which at
+first read "awake and faithful to her wonted fires"] for a verb, that
+they should read _asleep_, and all will be right." Other errors were,
+"Their _harrow_ oft the stubborn glebe," "And read their _destiny_ in
+a nation's eyes," "With uncouth rhymes and shapeless _culture_
+decked," "Slow through the churchway _pass_," and many of minor
+importance.] A writer in _Notes and Queries_, June 12, 1875, states that the poem
+first appeared in the _London Magazine_, March, 1751, p. 134, and
+that "the Magazine of Magazines" is "a gentle term of scorn used by
+Gray to indicate" that periodical, and not the name of any actual
+magazine. But in the next number of _Notes and Queries_ (June 19,
+1875) Mr. F. Locker informs us that he has in his possession a
+title-page of the _Grand Magazine of Magazines_, and the page of the
+number for April, 1751, which contains the _Elegy_. The magazine is
+said to be "collected and digested by Roger Woodville, Esq.," and
+"published by Cooper at the Globe, in Pater Noster Row." Gray says nothing in his letters of the appearance of the _Elegy_ in
+the _London Magazine_. The full title of that periodical was "The
+London Magazine: or Gentleman's Monthly Intelligencer." The editor's
+name was not given; the publisher was "R. Baldwin, jun. at the Rose
+in Pater-Noster Row." The volume for 1751 was the 20th, and the
+Preface (written at the close of the year) begins thus: "As the two
+most formidable Enemies we have ever had, are now extinct, we have
+great Reason to conclude, that it is only the Merit, and real
+Usefulness of our COLLECTION, that hath supported its Sale and
+Reputation for Twenty Years." A foot-note informs us that the
+"Enemies" are the "_Magazine of Magazines_ and _Grand Magazine of
+Magazines_;" from which it would appear that there were two
+periodicals of similar name published in London in 1751. [2]
+
+[Footnote 2: May not the _Elegy_ have been printed in both of these? We do not know how otherwise to reconcile the conflicting statements
+concerning the "Magazine of Magazines," as Gray calls it. In the
+first place, Gray appears (from other portions of his letter to
+Walpole) to be familiar with this magazine, and would not be likely
+to confound it with another of similar name. Then, as we have seen,
+he writes _early in March_ to Walpole that the poem has been printed
+"in more magazines than one." This cannot refer to the _Grand
+Magazine of Magazines_, if, as Mr. Locker states, it was the _April_
+number of that periodical in which the poem appeared. Nor can it
+refer to the _London Magazine_, as it is clear from internal evidence
+that the March number, containing the _Elegy_, was not issued until
+early in April. It contains a summary of current news down to Sunday,
+March 31, and the price of stocks in the London market for March 30. The _February_ number, in its "monthly catalogue" of new books,
+records the publication of the _Elegy_ by Dodsley thus: "An Elegy
+wrote in a Church-yard, pr. 6d. Dodsley." If, then, the _Elegy_ did not appear in either the _London Magazine_
+or the _Grand Magazine of Magazines_ until more than a month (in the
+case of the latter, perhaps two months) after Dodsley had issued it,
+in what magazine was it that it _did_ appear just before he issued
+it? The _N. A. Review_ says that "it was a close race between the
+Magazine and Dodsley; but the former, having a little the start, came
+out a few days ahead." If so, it must have been the _March_ number;
+or the _February_ one, if it was published, like the _London_, at the
+end of the month. Gray calls it "the Magazine of Magazines," and we
+shall take his word for it until we have reason for doubting it. What
+else was included in his "more magazines than one" we cannot even
+guess. We have not been able to find the _Magazine of Magazines_ or the
+_Grand Magazine of Magazines_ in the libraries, and know nothing
+about either "of our own knowledge." The _London Magazine_ is in the
+Harvard College Library, and the statements concerning that we can
+personally vouch for.] The author's name is not given with the _Elegy_ as printed in the
+_London Magazine_. The poem is sandwiched between an "Epilogue to
+_Alfred, a Masque_" and some coarse rhymes entitled "Strip-Me-Naked,
+or Royal Gin for ever." There is not even a printer's "rule" or
+"dash" to separate the title of the latter from the last line of the
+_Elegy_. The poem is more correctly printed than in Dodsley's
+authorized edition; though, queerly enough, it has "winds" in the
+second line and the parenthesis "(all he had)" in the Epitaph. Of
+Dodsley's misprints noted above it has only "Their _harrow_ oft" and
+"shapeless _culture_." These four errors, indeed, are the only ones
+worth noting, except "Or _wake_ to extasy the living lyre." The "Magazine of Magazines" (as the writer in the _North American
+Review_ tells us) printed the _Elegy_ with the author's name. The
+authorized though anonymous edition was thus briefly noticed by _The
+Monthly Review_, the critical Rhadamanthus of the day: "_An Elegy in
+a Country Churchyard_. 4to. Dodsley's. Seven pages.--The excellence
+of this little piece amply compensates for its want of quantity." "Soon after its publication," says Mason, "I remember, sitting with
+Mr. Gray in his College apartment, he expressed to me his surprise at
+the rapidity of its sale. I replied:
+
+  'Sunt lacrymae rerum, et mentem mortalia tangunt.' He paused awhile, and taking his pen, wrote the line on a printed
+copy of it lying on his table. 'This,' said he, 'shall be its future
+motto.' 'Pity,' cried I, 'that Dr. Young's Night Thoughts have
+preoccupied it.' 'So,' replied he, 'indeed it is.'" Gray himself
+tells the story of its success on the margin of the manuscript copy
+of the _Elegy_ preserved at Cambridge among his papers, and
+reproduced in _fac-simile_ in Mathias's elegant edition of the poet. The following is a careful transcript of the memorandum:
+
+  "publish'd in
+   Feb:^{ry}, 1751.
+   by Dodsley: &
+   went thro' four
+   Editions; in two
+   months; and af-
+   terwards a fifth
+   6^{th} 7^{th} & 8^{th} 9^{th} & 10^{th}
+   & 11^{th}
+   printed also in 1753
+   with M^r Bentley's
+   Designs, of w^{ch}
+   there is a 2^d Edition
+   & again by Dodsley
+   in his Miscellany,
+   Vol: 4^{th} & in a
+   Scotch Collection
+   call'd _the Union_. translated into
+   Latin by Chr: Anstey
+   Esq, & the Rev^d M^r
+   Roberts, & publish'd
+   in 1762; & again
+   in the same year
+   by Rob: Lloyd, M: A:"
+
+"One peculiar and remarkable tribute to the merit of the _Elegy_,"
+says Professor Henry Reed, "is to be noticed in the great number of
+translations which have been made of it into various languages, both
+of ancient and modern Europe. It is the same kind of tribute which
+has been rendered to _Robinson Crusoe_ and to _The Pilgrim's
+Progress_, and is proof of the same universality of interest,
+transcending the limits of language and of race. To no poem in the
+English language has the same kind of homage been paid so abundantly. Of what other poem is there a polyglot edition? Italy and England
+have competed with their polyglot editions of the _Elegy_: Torri's,
+bearing the title, 'Elegia di Tomaso Gray sopra un Cimitero di
+Campagna, tradotta dall' Inglese in piu lingue: Verona, 1817;
+Livorno, 1843;' and Van Voorst's London edition." Professor Reed adds
+a list of the translations (which, however, is incomplete), including
+one in Hebrew, seven in Greek, twelve in Latin, thirteen in Italian,
+fifteen in French, six in German, and one in Portuguese. "Had Gray written nothing but his _Elegy_," remarks Byron, "high as
+he stands, I am not sure that he would not stand higher; it is the
+cornerstone of his glory." The tribute paid the poem by General Wolfe is familiar to all, but we
+cannot refrain from quoting Lord Mahon's beautiful account of it in
+his _History of England_. On the night of September 13th, 1759, the
+night before the battle on the Plains of Abraham, Wolfe was
+descending the St. Lawrence with a part of his troops. The historian
+says: "Swiftly, but silently, did the boats fall down with the tide,
+unobserved by the enemy's sentinels at their posts along the shore. Of the soldiers on board, how eagerly must every heart have throbbed
+at the coming conflict! how intently must every eye have contemplated
+the dark outline, as it lay pencilled upon the midnight sky, and as
+every moment it grew closer and clearer, of the hostile heights! Not
+a word was spoken--not a sound heard beyond the rippling of the
+stream. Wolfe alone--thus tradition has told us--repeated in a low
+tone to the other officers in his boat those beautiful stanzas with
+which a country churchyard inspired the muse of Gray. One noble line,
+
+  'The paths of glory lead but to the grave,'
+
+must have seemed at such a moment fraught with mournful meaning. At
+the close of the recitation Wolfe added, 'Now, gentlemen, I would
+rather be the author of that poem than take Quebec.'" Hales, in his Introduction to the poem, remarks: "The _Elegy_ is
+perhaps the most widely known poem in our language. The reason of
+this extensive popularity is perhaps to be sought in the fact that it
+expresses in an exquisite manner feelings and thoughts that are
+universal. In the current of ideas in the _Elegy_ there is perhaps
+nothing that is rare, or exceptional, or out of the common way. The
+musings are of the most rational and obvious character possible; it
+is difficult to conceive of any one musing under similar
+circumstances who should not muse so; but they are not the less deep
+and moving on this account. The mystery of life does not become
+clearer, or less solemn and awful, for any amount of contemplation. Such inevitable, such everlasting questions as rise on the mind when
+one lingers in the precincts of Death can never lose their freshness,
+never cease to fascinate and to move. It is with such questions, that
+would have been commonplace long ages since if they could ever be so,
+that the _Elegy_ deals. It deals with them in no lofty philosophical
+manner, but in a simple, humble, unpretentious way, always with the
+truest and the broadest humanity. The poet's thoughts turn to the
+poor; he forgets the fine tombs inside the church, and thinks only of
+the 'mouldering heaps' in the churchyard. Hence the problem that
+especially suggests itself is the potential greatness, when they
+lived, of the 'rude forefathers' that now lie at his feet. He does
+not, and cannot solve it, though he finds considerations to mitigate
+the sadness it must inspire; but he expresses it in all its awfulness
+in the most effective language and with the deepest feeling; and his
+expression of it has become a living part of our language." The writer in the _North American Review_ (vol. 96) from whom we have
+elsewhere quoted says of the _Elegy_: "It is upon this that Gray's
+fame as a poet must chiefly rest. By this he will be known forever
+alike to the lettered and the unlettered. Many, in future ages, who
+may never have heard of his classic Odes, his various learning, or
+his sparkling letters, will revere him only as the author of the
+_Elegy_. For this he will be enshrined through all time in the hearts
+of the myriads who shall speak our English tongue. For this his name
+will be held in glad remembrance in the far-off summer isles of the
+Pacific, and amidst the waste of polar snows. If he had written
+nothing else, his place as a leading poet in our language would still
+be assured. Many have asserted, with Johnson, that he was a mere
+mechanical poet--one who brought from without, but never found
+within; that the gift of inspiration was not native to him; that his
+imagination was borrowed finery, his fancy tinsel, and his invention
+the world's well-worn jewels; that whatever in his verse was poetic
+was not new, and what was new was not poetic; that he was only an
+unworldly dyspeptic, living amid many books, and laboriously delving
+for a lifetime between musty covers, picking out now and then
+another's gems and bits of ore, and fashioning them into
+ill-compacted mosaics, which he wrongly called his own. To all this
+the _Elegy_ is a sufficient answer. It is not old--it is not bookish;
+it is new and human. Books could not make its maker: he was born of
+the divine breath alone. Consider all the commentators, the
+scholiasts, the interpreters, the annotators, and other like
+book-worms, from Aristarchus down to Doderlein; and may it not be
+said that, among them all, 'Nec viget quidquam simile aut secundum?' "Gray wrote but little, yet he wrote that little well. He might have
+done far more for us; the same is true of most men, even of the
+greatest. The possibilities of a life are always in advance of its
+performance. But we cannot say that his life was a wasted one. Even
+this little _Elegy_ alone should go for much. For, suppose that he
+had never written this, but instead had done much else in other ways,
+according to his powers: that he had written many learned treatises;
+that he had, with keen criticism, expounded and reconstructed Greek
+classics; that he had, perchance, sat upon the woolsack, and laid
+rich offerings at the feet of blind Justice;--taking the years
+together, would it have been, on the whole, better for him or for us? Would he have added so much to the sum of human happiness? He might
+thus have made himself a power for a time, to be dethroned by some
+new usurper in the realm of knowledge; now he is a power and a joy
+forever to countless thousands." Two manuscripts of the _Elegy_, in Gray's handwriting, still exist. Both were bequeathed by the poet, together with his library, letters,
+and many miscellaneous papers, to his friends the Rev. William Mason
+and the Rev. James Browne, as joint literary executors. Mason
+bequeathed the entire trust to Mr. Stonhewer. The latter, in making
+his will, divided the legacy into two parts. The larger share went to
+the Master and Fellows of Pembroke Hall. Among the papers, which are
+still in the possession of the College, was found a copy of the
+_Elegy_. An excellent fac-simile of this manuscript appears in
+Mathias's edition of Gray, published in 1814. In referring to it
+hereafter we shall designate it as the "Pembroke" MS. The remaining portion of Gray's literary bequest, including the other
+manuscript of the _Elegy_, was left by Mr. Stonhewer to his friend,
+Mr. Bright. In 1845 Mr. Bright's sons sold the collection at auction. The MS. of the _Elegy_ was bought by Mr. Granville John Penn, of
+Stoke Park, for _one hundred pounds_--the highest sum that had ever
+been known to be paid for a single sheet of paper. In 1854 this
+manuscript came again into the market, and was knocked down to Mr.
+Robert Charles Wrightson, of Birmingham, for 131 pounds. On the 29th
+of May, 1875, it was once more offered for sale in London, and was
+purchased by Sir William Fraser for 230 pounds, or about $1150. A
+photographic reproduction of it was published in London in 1862. For
+convenience we shall refer to it as the "Wrightson" MS. There can be little doubt that the Wrightson MS. is the original one,
+and that the Pembroke MS. is a fair copy made from it by the poet. The former contains a greater number of alterations, and varies more
+from the printed text. It bears internal evidence of being the rough
+draft, while the other represents a later stage of the poem. We will
+give the variations of both from the present version. [3]
+
+[Footnote 3: For the readings of the Wrightson MS. we have had to
+depend on Mason, Mitford, and other editors of the poem, and on the
+article in the _North American Review_, already referred to. The
+readings of the Pembroke MS. are taken from the engraved fac-simile
+in Mathias's edition. The two stanzas of which a fac-simile is given on page 73 are from
+the Pembroke MS., but the wood-cut hardly does justice to the
+feminine delicacy of the poet's handwriting.] The Wrightson MS. has in the first stanza, "The lowing herd _wind_
+slowly," etc. See our note on this line, below. In the 2d stanza, it reads, "And _now_ the air," etc. The 5th stanza is as follows:
+
+  "For ever sleep: the breezy call of morn,
+     Or swallow twitt'ring from the straw-built shed,
+   Or Chanticleer so shrill, or echoing horn,
+     No more shall rouse them from their lowly bed." In 8th stanza, "Their _rustic_ joys," etc. In 10th stanza, the first two lines read,
+
+  "Forgive, ye proud, th' involuntary fault,
+     If memory to these no trophies raise." In 12th stanza, "Hands that the _reins_ of empire," etc. In 13th stanza, "Chill Penury _depress'd_," etc. The 15th stanza reads thus:
+
+  "Some village Cato, who, with dauntless breast,
+     The little tyrant of his fields withstood;
+   Some mute inglorious Tully here may rest,
+     Some Caesar guiltless of his country's blood. "[4]
+
+[Footnote 4: The _Saturday Review_ for June 19, 1875, has a long
+article on the change made by Gray in this stanza, entitled, "A
+Lesson from Gray's Elegy," from which we cull the following
+paragraphs:
+
+"Gray, having first of all put down the names of three Romans as
+illustrations of his meaning, afterwards deliberately struck them out
+and put the names of three Englishmen instead. This is a sign of a
+change in the taste of the age, a change with which Gray himself had
+a good deal to do. The deliberate wiping out of the names of Cato,
+Tully, and Caesar, to put in the names of Hampden, Milton, and
+Cromwell, seems to us so obviously a change for the better that there
+seems to be no room for any doubt about it. It is by no means certain
+that Gray's own contemporaries would have thought the matter equally
+clear. We suspect that to many people in his day it must have seemed
+a daring novelty to draw illustrations from English history,
+especially from parts of English history which, it must be
+remembered, were then a great deal more recent than they are now. To
+be sure, in choosing English illustrations, a poet of Gray's time was
+in rather a hard strait. If he chose illustrations from the century
+or two before his own time, he could only choose names which had
+hardly got free from the strife of recent politics. If, in a poem of
+the nature of the Elegy, he had drawn illustrations from earlier
+times of English history, he would have found but few people in his
+day likely to understand him....
+
+"The change which Gray made in this well-known stanza is not only an
+improvement in a particular poem, it is a sign of a general
+improvement in taste. He wrote first according to the vicious taste
+of an earlier time, and he then changed it according to his own
+better taste. And of that better taste he was undoubtedly a prophet
+to others. Gray's poetry must have done a great deal to open men's
+eyes to the fact that they were Englishmen, and that on them, as
+Englishmen, English things had a higher claim than Roman, and that to
+them English examples ought to be more speaking than Roman ones. But
+there is another side of the case not to be forgotten. Those who
+would have regretted the change from Cato, Tully, and Caesar to
+Hampden, Milton, and Cromwell, those who perhaps really did think
+that the bringing in of Hampden, Milton, and Cromwell was a
+degradation of what they would have called the Muse, were certainly
+not those who had the truest knowledge of Cato, Tully, and Caesar. The 'classic' taste from which Gray helped to deliver us was a taste
+which hardly deserves to be called a taste. Pardonable perhaps in the
+first heat of the Renaissance, when 'classic' studies and objects had
+the charm of novelty, it had become by his day a mere silly
+fashion."] In 18th stanza, "Or _crown_ the shrine," etc. After this stanza, the MS. has the following four stanzas, now
+omitted:
+
+  "The thoughtless world to Majesty may bow,
+     Exalt the brave, and idolize success;
+   But more to innocence their safety owe
+     Than Pow'r, or Genius, e'er conspir'd to bless. "And thou who, mindful of the unhonour'd Dead,
+     Dost in these notes their artless tale relate,
+   By night and lonely contemplation led
+     To wander in the gloomy walks of fate:
+
+  "Hark! how the sacred Calm, that breathes around,
+     Bids every fierce tumultuous passion cease;
+   In still small accents whisp'ring from the ground
+     A grateful earnest of eternal peace. "No more, with reason and thyself at strife,
+     Give anxious cares and endless wishes room;
+   But through the cool sequester'd vale of life
+     Pursue the silent tenor of thy doom. "[5]
+
+[Footnote 5: We follow Mason (ed. 1778) in the text of these stanzas. The _North American Review_ has "Power _and_ Genius" in the first,
+and "_linger_ in the _lonely_ walks" in the second.] The second of these stanzas has been remodelled and used as the 24th
+of the present version. Mason thought that there was a pathetic
+melancholy in all four which claimed preservation. The third he
+considered equal to any in the whole _Elegy_. The poem was originally
+intended to end here, the introduction of "the hoary-headed swain"
+being a happy after-thought. In the 19th stanza, the MS. has "never _learn'd_ to stray." In the 21st stanza, "fame and _epitaph_," etc. In the 23d stanza, the last line reads,
+
+  "And buried ashes glow with social fires." "Social" subsequently became "wonted," and other changes were made
+(see p. 74, foot-note) before the line took its present form. The 24th stanza reads,
+
+  "If chance that e'er some pensive Spirit more,
+     By sympathetic musings here delay'd,
+   With vain, though kind inquiry shall explore
+     Thy once-lov'd haunt, this long-deserted shade. "[6]
+
+[Footnote 6: Mitford (Eton ed.) gives "sympathizing" in the second
+line, and for the last,
+
+  "Thy ever loved haunt--this long deserted shade." The latter is obviously wrong (Gray was incapable of such metre), and
+the former is probably wrong also.] The last line of the 25th stanza reads,
+
+  "On the high brow of yonder hanging lawn." Then comes the following stanza, afterwards omitted:
+
+  "Him have we seen the greenwood side along,
+     While o'er the heath we hied, our labour done,
+   Oft as the woodlark pip'd her farewell song,
+     With wistful eyes pursue the setting sun. "[7]
+
+Mason remarked: "I rather wonder that he rejected this stanza, as it
+not only has the same sort of Doric delicacy which charms us
+peculiarly in this part of the poem, but also completes the account
+of his whole day; whereas, this evening scene being omitted, we have
+only his morning walk, and his noontide repose." [Footnote 7: Here also we follow Mason; the _North American Review_
+reads "our _labours_ done."] The first line of the 27th stanza reads,
+
+  "With gestures quaint, now smiling as in scorn." After the 29th stanza, and before the Epitaph, the MS. contains the
+following omitted stanza:
+
+  "There scatter'd oft, the earliest of the year,
+     By hands unseen are frequent violets found;
+   The robin loves to build and warble there,
+     And little footsteps lightly print the ground." This--with two or three verbal changes only[8]--was inserted in all
+the editions up to 1753, when it was dropped. The omission was not
+made from any objection to the stanza in itself, but simply because
+it was too long a parenthesis in this place; on the principle which
+he states in a letter to Dr. Beattie: "As to description, I have
+always thought that it made the most graceful ornament of poetry, but
+never ought to make the subject." The part was sacrificed for the
+good of the whole. Mason very justly remarked that "the lines,
+however, are in themselves exquisitely fine, and demand
+preservation." [Footnote 8: See next page. The writer in the _North American Review_
+is our only authority for the stanza as given above. He appears to
+have had the photographic reproduction of the Wrightson MS., but we
+cannot vouch for the accuracy of his transcripts from it.] The first line of the 31st stanza has "and his _heart_ sincere." The 32d and last stanza is as follows:
+
+  "No farther seek his merits to disclose,
+     Nor seek to draw them from their dread abode--
+   (His frailties there in trembling hope repose);
+     The bosom of his Father and his God. "[9]
+
+[Footnote 9: The above are all the variations from the present text
+in the Wrightson MS. which are noted by the authorities on whom we
+have depended; but we suspect that the following readings, mentioned
+by Mitford as in the MS., belong to _that_ MS., as they are _not_
+found in the other: in the 7th stanza, "sickles" for "sickle;" in
+18th, "shrines" for "shrine." Two others (in stanzas 9th and 27th)
+are referred to in our account of the Pembroke MS. below.] The Pembroke MS. has the following variations from the present
+version:
+
+In the 1st stanza, "wind" for "winds." 2d stanza, "_Or_ drowsy," etc. 5th stanza, "_and_ the ecchoing horn." 6th stanza, "_Nor_ climb his knees." 9th stanza, "_Awaits_ alike." Probably this is also the reading of
+the Wrightson MS. Mitford gives it as noted by Mason, and it is
+retained by Gray in the ed. of 1768. The 10th stanza begins,
+
+  "_Forgive_, ye Proud, _th' involuntary_ fault
+      If Memory _to these_," etc.,
+
+the present readings ("Nor you," "impute to these," and "Mem'ry o'er
+their tomb") being inserted in the margin. The 12th stanza has "_reins_ of empire," with "rod" in the margin. In the 15th stanza, the word "lands" has been crossed out, and
+"fields" written above it. The 17th has "_Or_ shut the gates," etc. In the 21st we have "fame and _epitaph_ supply." The 23d has "_And_ in our ashes _glow_," the readings "Ev'n" and
+"live" being inserted in the margin. The 27th stanza has "_would he_ rove." We suspect that this is also
+the reading of the Wrightson MS., as Mitford says it is noted by
+Mason. In the 28th stanza, the first line reads "_from_ the custom'd hill." In the 29th a word which we cannot make out has been erased, and
+"aged" substituted. Before the Epitaph, two asterisks refer to the bottom of the page,
+where the following stanza is given, with the marginal note, "Omitted
+in 1753:"
+
+  "There scatter'd oft, the earliest of the Year,
+     By Hands unseen, are Show'rs of Violets found;
+   The Red-breast loves to build, and warble there,
+     And little Footsteps lightly print the Ground." The last two lines of the 31st stanza (see note below) are pointed as
+follows:
+
+  "He gave to Mis'ry all he had, a Tear,
+     He gain'd from Heav'n ('twas all he wish'd) a Friend." Some of the peculiarities of spelling in this MS. are the following:
+"Curfeu;" "Plowman;" "Tinkleings;" "mopeing;" "ecchoing;" "Huswife;"
+"Ile" (aisle); "wast" (waste); "village-Hambden;" "Rhimes;"
+"spell't;" "chearful;" "born" (borne); etc. Mitford, in his Life of Gray prefixed to the "Eton" edition of his
+Poems (edited by Rev. John Moultrie, 1847), says: "I possess many
+curious variations from the printed text, taken from a copy of it in
+his own handwriting." He adds specimens of these variations, a few of
+which differ from both the Wrightson and Pembroke MSS. We give these
+in our notes below. See on 12, 24, and 93. Several localities have contended for the honor of being the scene of
+the _Elegy_, but the general sentiment has always, and justly, been
+in favor of Stoke-Pogis. It was there that Gray began the poem in
+1742; and there, as we have seen, he finished it in 1750. In that
+churchyard his mother was buried, and there, at his request, his own
+remains were afterwards laid beside her. The scene is, moreover, in
+all respects in perfect keeping with the spirit of the poem. According to the common Cambridge tradition, Granchester, a parish
+about two miles southwest of the University, to which Gray was in the
+habit of taking his "constitutional" daily, is the locality of the
+poem; and the great bell of St. Mary's is the "curfew" of the first
+stanza. Another tradition makes a similar claim for Madingley, some
+three miles and a half northwest of Cambridge. Both places have
+churchyards such as the _Elegy_ describes; and this is about all that
+can be said in favor of their pretensions. There is also a parish
+called Burnham Beeches, in Buckinghamshire, which one writer at least
+has suggested as the scene of the poem, but for no better reason than
+that Gray once wrote a description of the place to Walpole, and
+casually mentioned the existence of certain "beeches," at the foot of
+which he would "squat," and "there grow to the trunk a whole
+morning." Gray's uncle had a seat in the neighborhood, and the poet
+often visited here, but the spot was not hallowed to him by the fond
+and tender associations that gathered about Stoke. 1. _The curfew_. Hales remarks: "It is a great mistake to suppose
+that the ringing of the curfew was, at its institution, a mark of
+Norman oppression. If such a custom was unknown before the Conquest,
+it only shows that the old English police was less well-regulated
+than that of many parts of the Continent, and how much the superior
+civilization of the Norman-French was needed. Fires were the curse of
+the timber-built towns of the Middle Ages: 'Solae pestes Londoniae
+sunt stultorum immodica potatio et _frequens incendium_'
+(Fitzstephen). The enforced extinction of domestic lights at an
+appointed signal was designed to be a safeguard against them." Warton wanted to have this line read
+
+  "The curfew tolls!--the knell of parting day." It is sufficient to say that Gray, as the manuscript shows, did not
+want it to read so, and that we much prefer his way to Warton's. Mitford says that _toll_ is "not the appropriate verb," as the curfew
+was rung, not tolled. We presume that depended, to some extent, on
+the fancy of the ringer. Milton (_Il Pens._ 76) speaks of the curfew
+as
+
+  "Swinging slow with sullen roar." Gray himself quotes here Dante, _Purgat._ 8:
+
+                   --"squilla di lontano
+  Che paia 'l giorno pianger, che si muore;"
+
+and we cannot refrain from adding, for the benefit of those
+unfamiliar with Italian, Longfellow's exquisite translation:
+
+              --"from far away a bell
+  That seemeth to deplore the dying day." Mitford quotes (incorrectly, as often) Dryden, _Prol. to Troilus and
+Cressida_, 22:
+
+  "That tolls the knell for their departed sense." On _parting_=departing, cf. Shakes. _Cor._ v. 6: "When I parted
+hence;" Goldsmith, _D. V._ 171: "Beside the bed where parting life
+was laid," etc. 2. _The lowing herd wind_, etc. _Wind_, and not _winds_, is the
+reading of the MS. (see fac-simile of this stanza on p. 73) and of
+_all_ the early editions--that of 1768, Mason's, Wakefield's,
+Mathias's, etc.--but we find no note of the fact in Mitford's or any
+other of the more recent editions, which have substituted _winds_. Whether the change was made as an amendment or accidentally, we do
+not know;[10] but the original reading seems to us by far the better
+one. The poet does not refer to the herd as an aggregate, but to the
+animals that compose it. He sees, not _it_, but "_them_ on their
+winding way." The ordinary reading mars both the meaning and the
+melody of the line. [Footnote 10: Very likely the latter, as we have seen that _winds_
+appears in the unauthorized version of the _London Magazine_ (March,
+1751), where it may be a misprint, like the others noted above. We may remark here that the edition of 1768--the _editio princeps_ of
+the _collected_ Poems--was issued under Gray's own supervision, and
+is printed with remarkable accuracy. We have detected only one
+indubitable error of the type in the entire volume. Certain
+peculiarities of spelling were probably intentional, as we find the
+like in the fac-similes of the poet's manuscripts. The many
+quotations from Greek, Latin, and Italian are correctly given
+(according to the received texts of the time), and the references to
+authorities, so far as we have verified them, are equally exact. The
+book throughout bears the marks of Gray's scholarly and critical
+habits, and we may be sure that the poems appear in precisely the
+form which he meant they should retain. In doubtful cases, therefore,
+we have generally followed this edition. Mason's (the _second_
+edition: York, 1778) is also carefully edited and printed, and its
+readings seldom vary from Gray's. All of Mitford's that we have
+examined swarm with errors, especially in the notes. Pickering's
+(1835), edited by Mitford, is perhaps the worst of all. The Boston
+ed. (Little, Brown, & Co., 1853) is a pretty careful reproduction of
+Pickering's, with all its inaccuracies.] 3. The critic of the _N. A. Review_ points out that this line "is
+quite peculiar in its possible transformations. We have made," he
+adds, "twenty different versions preserving the rhythm, the general
+sentiment and the rhyming word. Any one of these variations might be,
+not inappropriately, substituted for the original reading." Luke quotes Spenser, _F. Q._ vi. 7, 39: "And now she was uppon the
+weary way." 6. _Air_ is of course the object, not the subject of the verb. 7. _Save where the beetle_, etc. Cf. Collins, _Ode to Evening_:
+
+  "Now air is hush'd, save where the weak-eyed bat
+   With short shrill shriek flits by on leathern wing,
+       Or where the beetle winds
+       His small but sullen horn,
+   As oft he rises 'midst the twilight path,
+   Against the pilgrim borne in heedless hum." and _Macbeth_, iii. 2:
+
+                           "Ere the bat hath flown
+   His cloister'd flight; ere to black Hecate's summons
+   The shard-borne beetle, with his drowsy hums,
+   Hath rung night's yawning peal," etc. 10. _The moping owl_. Mitford quotes Ovid, _Met._ v. 550: "Ignavus
+bubo, dirum mortalibus omen;" Thomson, _Winter_, 114:
+
+  "Assiduous in his bower the wailing owl
+   Plies his sad song;"
+
+and Mallet, _Excursion_:
+
+                     "the wailing owl
+   Screams solitary to the mournful moon." 12. _Her ancient solitary reign_. Cf. Virgil, _Geo._ iii. 476:
+"desertaque regna pastorum." A MS. variation of this line mentioned
+by Mitford is, "Molest and pry into her ancient reign." 13. "As he stands in the churchyard, he thinks only of the poorer
+people, because the better-to-do lay interred inside the church. Tennyson (_In Mem._ x.) speaks of resting
+
+               'beneath the clover sod
+     That takes the sunshine and the rains,
+     Or where the kneeling hamlet drains
+   The chalice of the grapes of God.' In Gray's time, and long before, and some time after it, the former
+resting-place was for the poor, the latter for the rich. It was so in
+the first instance, for two reasons: (i.) the interior of the church
+was regarded as of great sanctity, and all who could sought a place
+in it, the most dearly coveted spot being near the high altar; (ii.) when elaborate tombs were the fashion, they were built inside the
+church for the sake of security, 'gay tombs' being liable to be
+'robb'd' (see the funeral dirge in Webster's _White Devil_). As these
+two considerations gradually ceased to have power, and other
+considerations of an opposite tendency began to prevail, the inside
+of the church became comparatively deserted, except when ancestral
+reasons gave no choice" (Hales). 17. Cf. Milton, _Arcades_, 56: "the odorous breath of morn;" _P. L._
+ix. 192:
+
+  "Now when as sacred light began to dawn
+   In Eden on the humid flowers that breath'd
+   Their morning incense," etc. 18. Hesiod ([Greek: Erg.] 

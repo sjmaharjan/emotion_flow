@@ -1,0 +1,1551 @@
+
+
+
+
+Produced by Douglas B. Killings
+
+
+
+
+
+THE NIBELUNGENLIED
+
+By An Unknown Author
+
+Translated by Daniel B. Shumway
+
+
+Originally written in Middle High German (M.H.G. ), sometime around 1200
+A.D., although this dating is by no means certain. Author unknown. The text of this edition is based on that published as "The
+Nibelungenlied", translated by Daniel B. Shumway (Houghton-Mifflin Co.,
+New York, 1909). PREPARER'S NOTE: In order to make this electronic edition easier to use,
+the preparer has found it necessary to re-arrange the endnotes of Mr.
+Shumway's edition, collating them with the chapters themselves and
+substituting page references with footnote references. The preparer
+takes full responsibility for these changes.--DBK. SELECTED BIBLIOGRAPHY:
+
+OTHER TRANSLATIONS--
+
+Hatto, A.T. (Trans. ): "Nibelungenlied" (Penguin Classics, London, 1962). Prose translation. Ryder, Frank G. (Trans. ): "The Song of the Nibelungs" (Wayne State
+University Press, Detroit, 1962). Verse translation. RECOMMENDED READING--
+
+Anonymous: "Kudrun", Translated by Marion E. Gibbs & Sidney Johnson
+(Garland Pub., New York, 1992). Anonymous: "Volsungasaga", Translated by William Morris and Eirikr
+Magnusson (Walter Scott Press, London, 1888; Reissued by the Online
+Medieval and Classical Library as E-Text #29, 1997). Saxo Grammaticus: "The First Nine Books of the Danish History",
+Translated by Oliver Elton (London, 1894; Reissued by the Online
+Medieval and Classical Library as E-Text OMACL #28, 1997). PREFACE
+
+This work has been undertaken in the belief that a literal translation
+of as famous an epic as the "Nibelungenlied" would be acceptable to the
+general reading public whose interest in the story of Siegfried has
+been stimulated by Wagner's operas and by the reading of such poems as
+William Morris' "Sigurd the Volsung". Prose has been selected as the
+medium of translation, since it is hardly possible to give an accurate
+rendering and at the same time to meet the demands imposed by rhyme
+and metre; at least, none of the verse translations made thus far have
+succeeded in doing this. The prose translations, on the other hand,
+mostly err in being too continuous and in condensing too much, so that
+they retell the story instead of translating it. The present translator
+has tried to avoid these two extremes. He has endeavored to translate
+literally and accurately, and to reproduce the spirit of the original,
+as far as a prose translation will permit. To this end the language has
+been made as simple and as Saxon in character as possible. An exception
+has been made, however, in the case of such Romance words as were in use
+in England during the age of the romances of chivalry, and which would
+help to land a Romance coloring; these have been frequently employed. Very few obsolete words have been used, and these are explained in the
+notes, but the language has been made to some extent archaic, especially
+in dialogue, in order to give the impression of age. At the request of
+the publishers the Introduction Sketch has been shorn of the apparatus
+of scholarship and made as popular as a study of the poem and its
+sources would allow. The advanced student who may be interested in
+consulting authorities will find them given in the introduction to the
+parallel edition in the Riverside Literature Series. A short list of
+English works on the subject had, however, been added. In conclusion the translator would like to thank his colleagues, C.G. Child and Cornelius Weygandt, for their helpful suggestions in starting
+the work, and also to acknowledge his indebtedness to the German edition
+of Paul Piper, especially in preparing the notes. --DANIEL BUSSIER
+SHUMWAY,
+
+Philadelphia, February 15, 1909. INTRODUCTORY SKETCH
+
+There is probably no poem of German literature that has excited such
+universal interest, or that has been so much studied and discussed, as
+the "Nibelungenlied". In its present form it is a product of the age
+of chivalry, but it reaches back to the earliest epochs of German
+antiquity, and embraces not only the pageantry of courtly chivalry,
+but also traits of ancient Germanic folklore and probably of Teutonic
+mythology. One of its earliest critics fitly called it a German "Iliad",
+for, like this great Greek epic, it goes back to the remotest times and
+unites the monumental fragments of half-forgotten myths and historical
+personages into a poem that is essentially national in character, and
+the embodiment of all that is great in the antiquity of the race. Though
+lacking to some extent the dignity of the "Iliad", the "Nibelungenlied"
+surpasses the former in the deep tragedy which pervades it, the tragedy
+of fate, the inevitable retribution for crime, the never-dying struggle
+between the powers of good and evil, between light and darkness. That the poem must have been exceedingly popular during the Middle Ages
+is evinced by the great number of Manuscripts that have come down to us. We possess in all twenty-eight more or less complete MSS., preserved
+in thirty-one fragments, fifteen of which date from the thirteenth and
+fourteenth centuries. Of all these MSS., but nine are so well preserved
+that, in spite of some minor breaks, they can be considered complete. Of
+this number three, designated respectively as A, B, C, are looked upon
+as the most important for purposes of textual criticism, and around them
+a fierce battle has been waged, which is not even yet settled. (1) It
+is now generally conceded that the longest MS., C, is a later redaction
+with many additional strophes, but opinions are divided as to whether
+the priority should be given to A or B, the probabilities being that B
+is the more original, A merely a careless copy of B. In spite of the great popularity of the "Nibelungenlied", the poem was
+soon forgotten by the mass of the people. With the decay of courtly
+chivalry and the rise of the prosperous citizen class, whose ideals and
+tastes lay in a different direction, this epic shared the fate of many
+others of its kind, and was relegated to the dusty shelves of monastery
+or ducal libraries, there to wait till a more cultured age, curious
+as to the literature of its ancestors, should bring it forth from
+its hiding places. However, the figures of the old legend were not
+forgotten, but lived on among the people, and were finally embodied in a
+popular ballad, "Das Lied vom Hurnen Segfrid", which has been preserved
+in a print of the sixteenth century, although the poem itself is thought
+to go back at least to the thirteenth. The legend was also dramatized by
+Hans Sachs, the shoemaker poet of Nuremberg, and related in prose form
+in a chap book which still exists in prints of the eighteenth century. The story and the characters gradually became so vague and distorted,
+that only a trained eye could detect in the burlesque figures of the
+popular account the heroes of the ancient Germanic Legend. The honor of rediscovering the "Nibelungenlied" and of restoring it to
+the world of literature belongs to a young physician by the name of J.H. Obereit, who found the manuscript C at the castle of Hohenems in the
+Tirol on June 29, 1755; but the scientific study of the poem begins with
+Karl Lachmann, one of the keenest philological critics that Germany
+has ever produced. In 1816 he read before the University of Berlin
+his epoch-making essay upon the original form of the "Nibelungenlied". Believing that the poem was made up of a number of distinct ballads
+or lays, he sought by means of certain criteria to eliminate all parts
+which were, as he thought, later interpolations or emendations. As a
+result of this sifting and discarding process, he reduced the poem
+to what he considered to have been its original form, namely, twenty
+separate lays, which he thought had come down to us in practically the
+same form in which they had been sung by various minstrels. This view is no longer held in its original form. Though we have every
+reason to believe that ballads of Siegfried the dragon killer, of
+Siegfried and Kriemhild, and of the destruction of the Nibelungs existed
+in Germany, yet these ballads are no longer to be seen in our poem. They
+formed merely the basis or source for some poet who thought to revive
+the old heroic legends of the German past which were familiar to his
+hearers and to adapt them to the tastes of his time. In all probability
+we must assume two, three, or even more steps in the genesis of the
+poem. There appear to have been two different sources, one a Low German
+account, quite simple and brief, the other a tradition of the Lower
+Rhine. The legend was perhaps developed by minstrels along the Rhine,
+until it was taken and worked up into its present form by some Austrian
+poet. Who this poet was we do not know, but we do know that he was
+perfectly familiar with all the details of courtly etiquette. He seems
+also to have been acquainted with the courtly epics of Heinrich von
+Veldeke and Hartman von Ouwe, but his poem is free from the tedious and
+often exaggerated descriptions of pomp, dress, and court ceremonies,
+that mar the beauty of even the best of the courtly epics. Many
+painstaking attempts have been made to discover the identity of the
+writer of our poem, but even the most plausible of all these theories
+which considers Kurenberg, one of the earliest of the "Minnesingers",
+to be the author, because of the similarity of the strophic form of our
+poem to that used by him, is not capable of absolute proof, and
+recent investigations go to show that Kurenberg was indebted to
+the "Nibelungen" strophe for the form of his lyric, and not the
+"Nibelungenlied" to him. The "Nibelungen" strophe is presumably much
+older, and, having become popular in Austria through the poem, was
+adopted by Kurenberg for his purposes. As to the date of the poem, in
+its present form it cannot go back further than about 1190, because of
+the exactness of the rhymes, nor could it have been written later
+than 1204, because of certain allusions to it in the sixth book of
+"Parzival", which we know to have been written at this date. The two
+Low German poems which probably form the basis of our epic may have been
+united about 1150. It was revised and translated into High German and
+circulated at South German courts about 1170, and then received its
+present courtly form about 1190, this last version being the immediate
+source of our manuscripts. The story of Siegfried, his tragic death, and the dire vengeance visited
+upon his slayers, which lies at the basis of our poem, antedates the
+latter by many centuries, and was known to all nations whose languages
+prove by their resemblance to the German tongue their original identity
+with the German people. Not only along the banks of the Rhine and the
+Danube and upon the upland plains of Southern Germany, but also along
+the rocky fjords of Norway, among the Angles and Saxons in their new
+home across the channel, even in the distant Shetland Islands and on the
+snow-covered wastes of Iceland, this story was told around the fires at
+night and sung to the harp in the banqueting halls of kings and nobles,
+each people and each generation telling it in its own fashion and adding
+new elements of its own invention. This great geographical distribution
+of the legend, and the variety of forms in which it appears, make it
+difficult to know where we must seek its origin. The northern version is
+in many respects older and simpler in form than the German, but still it
+is probable that Norway was not the home of the saga, but that it took
+its rise in Germany along the banks of the Rhine among the ancient
+tribe of the Franks, as is shown by the many geographical names that are
+reminiscent of the characters of the story, such as a Siegfried "spring"
+in the Odenwald, a Hagen "well" at Lorsch, a Brunhild "bed" near
+Frankfort, and the well-known "Drachenfels", or Dragon's Rock, on the
+Rhine. It is to Norway, however, that we must go for our knowledge
+of the story, for, singularly enough, with the exception of the
+"Nibelungenlied" and the popular ballad, German literature has preserved
+almost no trace of the legend, and such as exist are too late and too
+corrupt to be of much use in determining the original features of the
+story. Just when the legend emigrated to Skandinavia we do not know, but
+certainly at an early date, perhaps during the opening years of the
+sixth century. It may have been introduced by German traders, by slaves
+captured by the Northmen on their frequent marauding expeditions, or,
+as Mogk believes, may have been taken by the Heruli on their return
+to Norway after their defeat by the Langobardi. By whatever channel,
+however, the story reached the North, it became part and parcel of
+Skandinavian folklore, only certain names still pointing to the original
+home of the legend. In the ninth century, when Harald Harfagr changed
+the ancient free constitution of the land, many Norwegians emigrated
+to Iceland, taking with them these acquired legends, which were better
+preserved in this remote island because of the peaceful introduction
+of Christianity, than on the Continent, where the Church was more
+antagonistic to the customs and legends of the heathen period. The Skandinavian version of the Siegfried legend has been handed down
+to us in five different forms. The first of these is the poetic or
+older "Edda", also called Saemund's "Edda", as it was assigned to the
+celebrated Icelandic scholar Saemundr Sigfusson. The "Codex Regius", in
+which it is preserved, dates from the middle of the thirteenth century,
+but is probably a copy of an older manuscript. The songs it contains
+were written at various times, the oldest probably in the first half of
+the ninth century, the latest not much before the date of the earliest
+manuscript. Most of them, however, belong to the Viking period, when
+Christianity was already beginning to influence the Norwegians, that
+is, between the years 800 and 1000. They are partly heroic, partly
+mythological in character, and are written in alliterative strophes
+interspersed with prose, and have the form of dialogues. Though the
+legends on which these songs are based were brought from Norway, most of
+them were probably composed in Iceland. Among these songs, now, we find
+a number which deal with the adventures of Siegfried and his tragic end. The second source of the Siegfried story is the so-called
+"Volsungasaga", a prose paraphrase of the "Edda" songs. The MS. dates
+from the beginning of the thirteenth century, but the account was
+probably written a century earlier. The adventures of Siegfried and his
+ancestors are here related in great detail and his ancestry traced back
+to Wodan. Although a secondary source, as it is based on the "Edda", the
+"Volsungasaga" is nevertheless of great importance, since it supplies a
+portion of the "Codex Regius" which has been lost, and thus furnishes us
+with the contents of the missing songs. The third source is the prose "Edda", sometimes called the "Snorra
+Edda", after the famous Icelander Snorri Sturluson (1178-1241),to whom
+it was ascribed. The author was acquainted with both the poetic "Edda"
+and the "Volsungasaga", and follows these accounts closely. The younger
+"Edda" is not really a tale, but a book of poetics; it relates, however,
+the Siegfried saga briefly. It is considered an original source, since
+it evidently made use of songs that have not come down to us, especially
+in the account of the origin of the treasure, which is here told more
+in detail and with considerable differences. The "Nornagestsaga" or
+"Nornageststhattr", the story of "Nornagest", forms the fourth source of
+the Siegfried story. It is really a part of the Olaf saga, but contains
+the story of Sigurd and Gunnar (the Norse forms of Siegfried and
+Gunther), which an old man Nornagest relates to King Olaf Tryggvason,
+who converted the Norwegians to Christianity. The story was written
+about 1250 to illustrate the transition from heathendom to the Christian
+faith. It is based on the "Edda" and the "Volsungasaga", and is
+therefore of minor importance as a source. These four sources represent the early introduction of the Siegfried
+legend into Skandinavia. A second introduction took place about the
+middle of the thirteenth century, at the time of the flourishing of
+the Hanseatic League, when the story was introduced together with other
+popular German epics. These poems are products of the age of chivalry,
+and are characterized by the romantic and courtly features of this
+movement. The one which concerns us here, as the fifth source of the
+Siegfried story, is the so-called "Thidreksaga", which celebrates
+the adventures of the famous legendary hero, Dietrich of Berne,
+the historical Theodorich of Ravenna. In as far as it contains the
+adventures of the Nibelungs, it is also called the "Niflungasaga". The
+"Thidreksaga" was written about 1250 by a Norwegian who, as he himself
+tells us, heard the story from Germans in the neighborhood of Bremen
+and Munster. Since it is thus based on Saxon traditions, it can be
+considered an independent source of the legend, and, in fact, differs
+from the earlier Norse versions in many important details. The author
+was acquainted, however, with the older versions, and sought to
+compromise between them, but mostly followed his German authorities. The story, as given in the older Norse versions, is in most respects
+more original than in the "Nibelungenlied". It relates the history of
+the treasure of the Nibelungs, tracing it back to a giant by the name of
+"Hreithmar", who received it from the god "Loki" as a compensation for
+the killing of the former's son "Otur", whom Loki had slain in the form
+of an otter. Loki obtained the ransom from a dwarf named "Andwari",
+who in turn had stolen it from the river gods of the Rhine. Andwari
+pronounces a terrible curse upon the treasure and its possessors, and
+this curse passes from Loki to the Giant Hreithmar, who is murdered when
+asleep by his two sons "Fafnir" and "Regin". The latter, however, is
+cheated out of the coveted prize by Fafnir, who carries it away to the
+"Gnita" heath, where he guards it in the form of a dragon. This treasure, with its accompanying curse, next passes into the hands
+of a human being named Sigurd (the Norse form of Siegfried, as we have
+seen), a descendant of the race of the Volsungs, who trace their history
+back to Wodan and are especially favored by him. The full story of
+Siegfried's ancestry is far too long to relate here, and does not
+especially concern us, as it has little or no influence on the later
+development of the story. It is sufficient for our purpose to know that
+Siegfried was the son of Siegmund, who was slain in battle before the
+birth of his son. Sigurd was carefully reared by his mother "Hjordis"
+and the wise dwarf Regin, who taught him the knowledge of runes and
+of many languages. (2) At the suggestion of Regin, Sigurd asks for and
+receives the steed "Grani" from the king, and is then urged by his tutor
+to help him obtain the treasure guarded by the latter's brother Fafnir. Sigurd promises, but first demands a sword. Two, that are given him by
+Regin, prove worthless, and he forges a new one from the pieces of his
+father's sword, which his mother had preserved. With this he easily
+splits the anvil and cuts in two a flake of wool, floating down the
+Rhine. He first avenges the death of his father, and then sets off with
+Regin to attack the dragon Fafnir. At the advice of the former Sigurd
+digs a ditch across the dragon's peth and pierces him from below with
+his sword, as the latter comes down to drink. In dying the dragon warns
+Sigurd against the treasure and its curse, and against Regin, who, he
+says, is planning Sigurd's death, intending to obtain the treasure for
+himself. When Regin sees the dragon safely dead, he creeps from his place of
+concealment, drinks of the blood, and, cutting out the heart, begs
+Sigurd to roast it for him. While doing so, Sigurd burns his fingers,
+and, putting them in his mouth, understands at once the language of the
+birds and hears them say that Sigurd himself should eat the heart and
+then he would be wiser than all other men. They also betray Regin's evil
+designs, and counsel the lad to kill his tutor. This Sigurd then does,
+cutting off Regin's head, drinking the blood of both brothers, and
+eating Fafnir's heart. (3) On the further advice of the birds Sigurd
+first fetches the treasure from the cave, and then journeys to the
+mountain "Hindarfjall", where he rescues the sleeping Valkyrie,
+"Sigrdrifu" ("Brynhild", "Brunhild"), who, stung by the sleep thorn
+of Wodan, and clad in full armor, lies asleep within a castle that is
+surrounded by a wall of flame. With the help of his steed Grani, Sigurd
+succeeds in penetrating through the fire to the castle. The sleeping
+maiden awakes when he cuts the armor from her with his sword, for it
+was as tight as if grown fast to the flesh. She hails her deliverer
+with great joy, for she had vowed never to marry a man who knew fear. At
+Sigurd's request she teaches him many wise precepts, and finally pledges
+her troth to him. He then departs, after promising to be faithful to her
+and to remember her teachings. On his journeyings Sigurd soon arrives at the court of "Giuki" (the
+Norse form of the German "Gibicho", "Gibich"), a king whose court lay on
+the lower Rhine. Giuki has three sons, "Gunnar", "Hogni", and "Guthorm",
+and a daughter "Gudrun", endowed with great beauty. The queen bears
+the name of Grimhild, and is versed in magic, but possessed of an evil
+heart. (4) Sigurd is received with great honor, for his coming had been
+announced to Gudrun in dreams, which had in part been interpreted to her
+by Brynhild. The mother, knowing of Sigurd's relations to the latter,
+gives him a potion which produces forgetfulness, so that he no longer
+remembers his betrothed, and accepts the hand of Gudrun, which the king
+offers him at the queen's request. The marriage is celebrated with
+great pomp, and Sigurd remains permanently attached to Giuki's court,
+performing with the others many deeds of valor. Meanwhile Grimhild urges her son Gunnar to sue for the hand of Brynhild. Taking with him Sigurd and a few others, Gunnar visits first Brynhild's
+father "Budli", and then her brother-in-law "Heimir", from both of whom
+he learns that she is free to choose whom she will, but that she will
+marry no one who has not ridden through the wall of flame. With this
+answer they proceed to Brynhild's castle, where Gunnar is unable to
+pierce the flames, even when seated on Sigurd's steed. Finally Sigurd
+and Gunnar change forms, and Sigurd, disguised as Gunnar, rides through
+the wall of fire, announces himself to Brynhild as Gunnar, the son of
+Giuki, and reminds her of her promise to marry the one who penetrated
+the fire. Brynhild consents with great reluctance, for she is busy
+carrying on a war with a neighboring king. Sigurd then passes three
+nights at her side, placing, however, his sword Gram between them, as
+a bar of separation. At parting he draws from her finger the ring, with
+which he had originally pledged his troth to her, and replaces it with
+another, taken from Fafnir's hoard. Soon after this the marriage of
+Gunnar and Brynhild is celebrated with great splendor, and all return to
+Giuki's court, where they live happily for some time. One day, however, when the ladies go down to the river to take a bath,
+Brynhild will not bathe further down stream than Gudrun, that is, in the
+water which flows from Gudrun to her, (5) giving as the reason, that her
+father was mightier and her husband braver, since he had ridden through
+the fire, while Sigurd had been a menial. Stung at this, Gudrun retorts
+that not Gunnar but Sigurd had penetrated the flames and had taken from
+her the fateful ring "Andvaranaut", which she then shows to her rival in
+proof of her assertion. Brynhild turns deathly pale, but answers not
+a word. After a second conversation on the subject had increased the
+hatred of the queens, Brynhild plans vengeance. Pretending to be ill,
+she takes to her bed, and when Gunnar inquires what ails her, she asks
+him if he remembers the circumstances of the wooing and that not he but
+Sigurd had penetrated the flames. She attempts to take Gunnar's life, as
+she had pledged her troth to Sigurd, and is thereupon placed in chains
+by Hogni. Seven days she sleeps, and no one dares to wake her. Finally
+Sigurd succeeds in making her talk, and she tells him how cruelly she
+has been deceived, that the better man had been destined for her, but
+that she had received the poorer one. This Sigurd denies, for Giuki's
+son had killed the king of the Danes and also Budli's brother, a great
+warrior. Moreover, although he, Sigurd, had ridden through the flames,
+he had not become her husband. He begs her therefore not to harbor a
+grudge against Gunnar. Brynhild remains unconvinced, and plans Sigurd's death, and threatens
+Gunnar with the loss of dominion and life, if he will not kill Sigurd. After some hesitation, Gunnar consents, and, calling Hogni, informs
+him that he must kill Sigurd, in order to obtain the treasure of the
+Rhinegold. Hogni warns him against breaking his oath to Sigurd, when it
+occurs to Gunnar, that his brother Gutthorm had sworn no oath and might
+do the deed. Both now proceed to excite the latter's greed, and give him
+wolf's and snake meat to eat to make him savage. Twice Gutthorm makes
+the attempt, as Sigurd lies in bed, but is deterred by the latter's
+penetrating glance. The third time he finds Sigurd asleep, and pierces
+him with his sword. Sigurd, awakening at the pain, hurls his own sword
+after his murderer, fairly cutting him in two. He then dies, protesting
+his innocence and designating Brynhild as the instigator of his murder. Brynhild at first laughs aloud at Gudrun's frantic grief, but later her
+joy turns into sorrow, and she determines to share Sigurd's death. In
+vain they try to dissuade her; donning her gold corselet, she pierces
+herself with a sword and begs to be burned on Sigurd's funeral pyre. In
+dying she prophesies the future, telling of Gudrun's marriage to "Atli"
+and of the death of the many men which will be caused thereby. After Brynhild's death Gudrun in her sorrow flees to the court of King
+"Half" of Denmark, where she remains seven years. Finally Grimhild
+learns of the place of her daughter's concealment, and tries to bring
+about a reconciliation with Gunnar and Hogni. They offer her much
+treasure, if she will marry Atli. At first she refuses and thinks only
+of revenge, but finally she consents and the marriage is celebrated in
+Atli's land. After a time Atli, who is envious of Gunnar's riches, for
+the latter had taken possession of Sigurd's hoard, invites him to his
+court. A man named "Vingi", who was sent with the invitation, changes
+the runes of warning, which Gudrun had given him, so that they, too,
+read as an invitation. The brothers determine to accept the invitation,
+and, though warned by many dreams, they set out for Atli's court, which
+they reach in due time. Vingi now breaks forth into exultations, that he
+has lured them into a snare, and is slain by Hogni with a battle axe. As they ride to the king's hall, Atli and his sons arm themselves for
+battle, and demand Sigurd's treasure, which belongs by right to Gudrun. Gunnar refuses to surrender it, and the fight begins, after some
+exchange of taunting words. Gudrun tries at first to reconcile the
+combatants, but, failing, arms herself and fights on the side of her
+brothers. The battle rages furiously with great loss on both sides,
+until nearly all of the Nibelungs are killed, when Gunnar and Hogni
+are forced to yield to the power of numbers and are captured and bound. Gunnar is asked, if he will purchase his life with the treasure. He
+replies that he first wishes to see Hogni's bleeding heart. At first the
+heart of a slave is cut out and brought to him, but Gunnar recognizes it
+at once as that of a coward. Then they cut out Hogni's heart, who laughs
+at the pain. This Gunnar sees is the right one, and is jubilant, for now
+Atli shall never obtain the treasure, as Gunnar alone knows where it is
+hid. In a rage Atli orders Gunnar to be thrown to the snakes. Though
+his hands are bound, Gunnar plays so sweetly with his toes on the harp,
+which Gudrun has sent him, that all the snakes are lulled to sleep, with
+the exception of an adder, which stings him to the heart, so that he
+dies. Atli now walks triumphantly over the dead bodies, and remarks to Gudrun
+that she alone is to blame for what has happened. She refuses his offers
+of peace and reconciliation, and towards evening kills her two sons
+"Erp" and "Eitil", and serves them at the banquet, which the king gives
+for his retainers. When Atli asks for his sons, he is told that he had
+drunk their blood mixed with wine and had eaten their hearts. That night
+when Atli is asleep, Gudrun takes Hogni's son "Hniflung", who desires
+to avenge his father, and together they enter Atli's room and thrust a
+sword through his breast. Atli awakes from the pain, only to be told
+by Gudrun that she is his murderess. When he reproaches her with thus
+killing her husband, she answers that she cared only for Sigurd. Atli
+now asks for a fitting burial, and on receiving the promise of this,
+expires. Gudrun carries out her promise, and burns the castle with
+Atli and all his dead retainers. Other Edda songs relate the further
+adventures of Gudrun, but they do not concern us here, as the
+"Nibelungenlied" stops with the death of the Nibelungs. This in brief is the story of Siegfried, as it has been handed down to
+us in the Skandinavian sources. It is universally acknowledged that
+this version, though more original than the Gorman tradition, does not
+represent the simplest and most original form of the tale; but what the
+original form was, has long been and still is a matter of dispute. Two
+distinctly opposite views are held, the one seeing in the story the
+personification of the forces of nature, the other, scouting the
+possibility of a mythological interpretation, seeks a purely human
+origin for the tale, namely, a quarrel among relatives for the
+possession of treasure. The former view is the older, and obtained
+almost exclusively at one time. The latter has been gaining ground of
+recent years, and is held by many of the younger students of the legend. According to the mythological view, the maiden slumbering upon the
+lonely heights is the sun, the wall of flames surrounding her the
+morning red ("Morgenrote"). Siegfried is the youthful day who is
+destined to rouse the sun from her slumber. At the appointed time he
+ascends, and before his splendor the morning red disappears. He awakens
+the maiden; radiantly the sun rises from its couch and joyously greets
+the world of nature. But light and shade are indissolubly connected; day
+changes of itself into night. When at evening the sun sinks to rest
+and surrounds herself once more with a wall of flames, the day again
+approaches, but no longer in the youthful form of the morning to arouse
+her from her slumber, but in the sombre shape of Gunther, to rest at her
+side. Day has turned into night; this is the meaning of the change of
+forms. The wall of flame vanishes, day and sun descend into the realm of
+darkness. Under this aspect the Siegfried story is a day myth; but under
+another it is a myth of the year. The dragon is the symbol of winter,
+the dwarfs of darkness. Siegfried denotes the bright summer, his sword
+the sunbeams. The youthful year grows up in the dark days of winder. When its time has come, it goes forth triumphantly and destroys
+the darkness and the cold of winter. Through the symbolization the
+abstractions gain form and become persons; the saga is thus not a mere
+allegory, but a personification of nature's forces. The treasure may
+have entered the saga through the widespread idea of the dragon as the
+guardian of treasure, or it may represent the beauty of nature which
+unfolds when the season has conquered. In the last act of the saga,
+Siegfried's death, Wilmanns, the best exponent of this view, sees again
+a symbolic representation of a process of nature. According to him it
+signifies the death of the god of the year in winter. In the spring he
+kills the dragon, in the winter he goes weary to his rest and is foully
+slain by the hostile powers of darkness. Later, when this act was
+connected with the story of Gunther's wooing Brunhild, the real meaning
+was forgotten, and Siegfried's death was attributed to the grief and
+jealousy of the insulted queen. Opposed now to the mythological interpretation is the other view already
+spoken of, which denies the possibility of mythological features, and
+does not seek to trace the legend beyond the heroic stage. The best
+exponent of this view is R. C. Boer, who has made a remarkable attempt
+to resolve the story into its simplest constituents. According to him
+the nucleus of the legend is an old story of the murder of relatives
+("Verwandienmord"), the original form being perhaps as follows. Attila
+(i.e., the enemy of Hagen under any name) is married to Hagen's sister
+Grimhild or Gudrun. He invites his brother-in-law to his house, attacks
+him in the hope of obtaining his treasure, and kills him. According
+to this view Hagen was originally the king, but later sinks to a
+subordinate position through the subsequent connection of the story with
+the Burgundians. It is of course useless to hunt for the date of such
+an episode in history. Such a murder could have frequently occurred, and
+can be localized anywhere. Very early we find this Hagen story united
+with the Siegfried legend. If the latter is mythological, then we have
+a heterogeneous combination, a mythical legend grafted on a purely human
+one. This Boer thinks unlikely, and presents a number of arguments to
+disprove the mythical character of the Siegfried story, into which
+we cannot enter here. He comes, however, to the conclusion, that the
+Siegfried tale is likewise purely human, and consisted originally of the
+murder of relatives, that is, a repetition of the Hagen title. Siegfried
+is married to Hagen's sister, and is killed by his brother-in-law
+because of his treasure. The kernel of the legend is, therefore, the
+enmity between relatives, which exists in two forms, the one in which
+the son-in-law kills his father-in-law, as in the "Helgi" saga, the
+other in which Hagen kills his son-in-law and is killed by him, too, as
+in the "Hilde" saga. The German tradition tries to combine the two by
+introducing the new feature, that Kriemhild causes the death of her
+relatives, in order to avenge her first husband. Boer is of the opinion
+that both the Norse and the German versions have forgotten the original
+connection between the two stories, and that this connection was nothing
+more nor less than the common motive of the treasure. The same treasure,
+which causes Hagen to murder Siegfried, causes his own death in turn
+through the greed of Attila. There was originally, according to Boer, no
+question of revenge, except the revenge of fate, the retribution which
+overtakes the criminal. This feeling for the irony of fate was lost
+when the motive, that Hagen kills Siegfried because of his treasure,
+was replaced by the one that he does it at the request of Brunhild. This
+leads Boer to the conclusion, that Brunhild did not originally belong to
+the Siegfried story, but to the well-known fairy tale of Sleeping Beauty
+("Erlosungsmurchen"), which occurs in a variety of forms. The type is
+that of a hero who rescues a maiden from a magic charm, which may take
+the form of a deep sleep, as in the case of Sleeping Beauty, or of being
+sewed into a garment, as in No. 111 of Grimm's fairy tales. By the union
+of the two stories, i.e., the Hagen-Siegfried saga with the Sleeping
+Beauty tale, Siegfried stands in relation to two women; on the one hand
+his relation to Sigrdrifa-Brynhild, the maiden whom he rescues on the
+rock, on the other his marriage with Grimhild-Gudrun and his consequent
+death. This twofold relation had to be disposed of, and since his
+connection with Grimhild was decisive for his fate, his relation to
+Brunhild had to be changed. It could not be entirely ignored, for it
+was too well known, therefore it was given a different interpretation. Siegfried still rescues a maiden from the rock, not for himself,
+however, but for another. The exchange of forms on the part of
+Siegfried and Gunther is a reminiscence of the older form. It gives the
+impression, that Siegfried, and yet not Siegfried, won the bride. This
+alteration probably took place when the Burgundians were introduced into
+the legend. With this introduction an unlocalized saga of unknown heroes
+of ancient times became one of events of world-wide importance; the fall
+of a mighty race was depicted as the result of Siegfried's death. To
+render this plausible, it was necessary on the one hand to idealize
+the hero, so that his death should appear as a deed of horror demanding
+fearful vengeance, and on the other, to make the king of the Burgundians
+an active participator in Siegfried's death, for otherwise it would not
+seem natural, that the whole race should be exterminated for a crime
+committed by the king's brother or vassal. As the role of Brunhild's
+husband had become vacant, and as Gunther had no special role, it was
+natural that it should be given to him. Boer traces very ingeniously
+the gradual development of this exchange of roles through the various
+sources. Another method of explaining away Siegfried's relation to two women is
+to identify them, and this has been done by the Seyfrid ballad. Here the
+hero rescues Kriemhild from the power of the dragon, marries her,
+and then is later killed by her brothers through envy and hatred. As
+Brunhild and Kriemhild are here united in one person, there is no need
+of a wooing for the king, nor of vengeance on the part of Brunhild,
+accordingly the old motive of greed (here envy) reappears. As to the fight with the dragon, Boer believes that it did not
+originally belong to the saga, for in none of the sources except the
+popular ballad is the fight with the dragon connected with the release
+of Brunhild. If the Siegfried-Hagen story is purely human, then the
+dragon cannot have originally belonged to it, but was later introduced,
+because of the widespread belief in the dragon as the guardian of
+treasure, and in order to answer the question as to the provenience of
+the hoard. This is, however, only one answer to the question. Another,
+widespread in German legends, is that the treasure comes from the
+Nibelungs, that is, from the dwarfs. Many identify the dwarfs and the
+dragon, but this finds no support in the sources, for here the dwarfs
+and Fafnir are never confused. The "Nibelungenlied" describes an
+adventure with each, but the treasure is only connected with the dwarfs. The "Thidreksaga" knows only the dragon fight but not the dwarfs, as is
+likewise the case with the Seyfrid ballad. Only in the Norse sources
+do we find a contamination. The story of Hreithmar and his sons, who
+quarrel about the treasure, resembles that of Schilbung and Nibelung in
+the "Nibelungenlied", and probably has the same source. One of the sons,
+because of his guarding the treasure, is identified with the dragon,
+and so we read that Fafnir becomes a dragon, after gaining the treasure. Originally, however, he was not a dragon, but a dwarf. These two
+independent forms can be geographically localized. The dwarf legend is
+the more southern; it is told in detail in the "Nibelungenlied". The
+dragon legend probably originated in the Cimbrian peninsula, where the
+"Beowulf" saga, in which the dragon fight plays such an important part,
+likewise arose. There thus stand sharply opposed to each other two theories, one seeing
+in the Siegfried saga a personification of natural forces, the other
+tracing it back to a purely human story of murder through greed. It may
+be, that the true form of the original saga lies half way between
+these two views. The story of the fall of the Nibelungs, that is, their
+killing at Etzel's court, may go back to the tale of the murder of
+relatives for money. On the other hand it is hard to believe that the
+Siegfried saga is nothing but a repetition of the Attila motive, for
+this is too brief a formula to which to reduce the long legend of
+Siegfried, with its many deeds. Even if we discard the mythological
+interpretation, it is the tale of a daring hero, who is brought up in
+the woods by a cunning dwarf. He kills a dragon and takes possession of
+his hoard, then rescues a maiden, imprisoned upon a mountain, as in the
+older Norse version and the popular ballad, or in a tower, as in the
+"Thidreksaga", and surrounded either by a wall of fire, as in the
+Norse, or by a large body of water, as in the "Nibelungenlied". After
+betrothing himself to the maiden, he sets forth in search of further
+adventures, and falls into the power of an evil race, who by their
+magic arts lure him to them, cause his destruction, and then obtain
+his treasure and the maiden for themselves. By her very name Sigrdrifa
+belongs to Siegfried, just as Gunther and Gudrun-Grimhild belong
+together, and it seems hardly possible that she should have entered the
+story later, as Boer would have us believe. After all, it is largely a
+matter of belief, for it is impossible to prove positively that mythical
+elements did or did not exist in the original. To the combined Siegfried-Nibelung story various historical elements
+were added during the fifth century. At the beginning of this period the
+Franks were located on the left bank of the Rhine from Coblenz downward. Further up the river, that is, to the south, the Burgundians had
+established a kingdom in what is now the Rhenish Palatinate, their
+capital being Worms and their king "Gundahar", or "Gundicarius", as the
+Romans called him. For twenty years the Burgundians lived on good terms
+with the surrounding nations. Then, growing bolder, they suddenly
+rose against the Romans in the year 436, but the rebellion was quietly
+suppressed by the Roman general Aetius. Though defeated, the Burgundians
+were not subdued, and the very next year they broke their oaths and
+again sought to throw off the Roman yoke. This time the Romans called to
+their aid the hordes of Huns, who had been growing rapidly in power and
+were already pressing hard upon the German nations from the east. Only
+too glad for an excuse, the Huns poured into the land in great numbers
+and practically swept the Burgundian people from the face of the earth. According to the Roman historians, twenty thousand Burgundians were
+slain in this great battle of the Catalaunian Fields. Naturally this
+catastrophe, in which a whole German nation fell before the hordes of
+invading barbarians, produced a profound impression upon the Teutonic
+world. The King Gundahar, the Gunther of the "Nibelungenlied", who also
+fell in the battle, became the central figure of a new legend, namely,
+the story of the fall of the Burgundians. Attila is not thought to have taken part in the invasion, still, after
+his death in 454, his name gradually came to be associated with the
+slaughter of the Burgundians, for a legend operates mainly with types,
+and as Attila was a Hun and throughout the Middle Ages was looked upon
+as the type of a cruel tyrant, greedy for conquest, it was but natural
+for him to play the role assigned to him in the legend. Quite plausible
+is Boer's explanation of the entrance of Attila into the legend. The
+"Thidreksaga" locates him in Seest in Westphalia. Now this province once
+bore the haute of "Hunaland", and by a natural confusion, because of
+the similarity of the names, "Huna" and "Huns", Attila, who is the
+chief representative of Hunnish power, was connected with the legend
+and located at Seest. This would show that the original extension of the
+legend was slight, as Xanten, the home of Hagen, is but seventy miles
+from Seest. The original form would then be that Hagen was slain by a
+king of "Hunaland", then because history relates that the Burgundians
+were slain by the Huns, the similarity of the names led to the
+introduction of Attila and the identification of the Nibelungs with the
+Burgundians. The fact, too, that the Franks rapidly took possession
+of the district depopulated by the crushing defeat of the Burgundians
+likewise aided the confusion, and thus the Franks became the natural
+heirs of the legend concerning the death of Gunther, and so we read of
+the fall of the Nibelungs, a name that is wholly Frankish in character. This identification led also to Attila's being considered the avenger of
+Siegfried's death. Poetic justice, however, demands that the slaughter
+of the Burgundians at the hands of Attila be also avenged. The rumor,
+that Attila's death was not natural, but that he had been murdered by
+his wife Ildico ("Hildiko"), gave the necessary features to round out
+the story. As Kriemhild was the sister of the Burgundian kings, it was
+but natural to explain her killing of Attila, as described in the Norse
+versions, by her desire to avenge her brothers. In our "Nibelungenlied", however, it is no longer Attila, but Kriemhild,
+who is the central figure of the tragedy. Etzel, as he is called here,
+has sunk to the insignificant role of a stage king, a perfectly passive
+observer of the fight raging around him. This change was brought about
+perhaps by the introduction of Dietrich of Berne, the most imposing
+figure of all Germanic heroic lore. The necessity of providing him
+with a role corresponding to his importance, coupled with a growing
+repugnance on the part of the proud Franks to acknowledge defeat at the
+hands of the Huns, caused the person of Attila to dwindle in importance. Gradually, too, the role played by Kriemhild was totally changed. Instead of being the avenger of her brothers, as depicted in the Norse
+versions, she herself becomes the cause of their destruction. Etzel
+is not only innocent of any desire to harm the Nibelungs, but is even
+ignorant of the revenge planned by his wife. This change in her role was
+probably due to the feeling that it was incumbent upon her to avenge the
+murder of Siegfried. Our "Nibelungenlied" knows but little of the adventures of Siegfried's
+youth as depicted in the Norse versions. The theme of the poem is no
+longer the love of Sigurd, the homeless wanderer, for the majestic
+Valkyrie Brunhild, but the love idyll of Siegfried, the son of the king
+of the Netherlands, and the dainty Burgundian princess Kriemhild. The poem has forgotten Siegfried's connection with Brunhild; it knows
+nothing of his penetrating the wall of flames to awake and rescue her,
+nothing of the betrothal of the two. In our poem Siegfried is carefully
+reared at his father's court in the Netherlands, and sets out with great
+pomp for the court of the Burgundians. In the Norse version he naturally
+remains at Gunther's court after his marriage, but in our poem he
+returns to the Netherlands with his bride. This necessitates the
+introduction of several new scenes to depict his arrival home, the
+invitation to the feast at Worms, and the reception of the guests on the
+part of the Burgundians. In the "Nibelungenlied" the athletic sports, as an obstacle to the
+winning of Brunhild, take the place of the wall of flames of the older
+Norse versions. Siegfried and Gunther no longer change forms, but
+Siegfried dons the "Tarnkappe", which renders him invisible, so that
+while Gunther makes the motions, Siegfried really does the work, a thing
+which is rather difficult to imagine. The quarrel of the two queens is
+likewise very differently depicted in the "Nibelungenlied" from what it
+is in the Norse version. In the latter it takes place while the
+ladies are bathing in the river, and is brought on by the arrogance of
+Brunhild, who refuses to stand lower down the stream and bathe in the
+water flowing from Gudrun to her. In the "Thidreksaga" it occurs in the
+seclusion of the ladies' apartments, but in our poem it culminates in
+front of the cathedral before the assembled court, and requires as its
+background all the pomp and splendor of medieval chivalry. With a master
+hand and a wonderful knowledge of female character, the author depicts
+the gradual progress of the quarrel until it terminates in a magnificent
+scene of wounded pride and malignant hatred. Kriemhild, as usual, plays
+the more important part, and, while standing up for her rights, tries in
+every way to conciliate Brunhild and not to hurt her feelings. At
+last, however, stung by the taunts of the latter, she in turn loses her
+patience, bursts out with the whole story of the twofold deception to
+which Brunhild has been subjected, and then triumphantly sweeps into
+the church, leaving her rival stunned and humiliated by the news she
+has heard. In the Norse tradition the scene serves merely to enlighten
+Brunhild as to the deception played upon her. In the "Nibelungenlied" it
+becomes the real cause of Siegfried's death, for Brunhild plans to kill
+Siegfried to avenge the public slight done to her. She has no other
+reason, as Siegfried swears that there had been no deception. Brunhild
+appeals to us much less in the "Nibelungenlied" than in the Norse
+version. In the latter she feels herself deeply wronged by Siegfried's
+faithlessness, and resolves on his death because she will not be the
+wife of two men. In our poem she has no reason for wishing his death
+except her wounded pride. In the "Nibelungenlied", too, she disappears
+from view after Siegfried's death, whereas in the Norse tradition she
+ascends his funeral pyre and dies at his side. The circumstances of Siegfried's death are likewise totally different
+in the two versions. In the Norse, as we have seen, he is murdered while
+asleep in bed, by Gunnar's younger brother Gutthorm. In our poem he is
+killed by Hagen, while bending over a spring to drink. This is preceded
+by a scene in which Hagen treacherously induces Kriemhild to mark the
+one vulnerable spot on Siegfried's body, on the plea of protecting
+him. This deepens the tragedy, and renders Kriemhild's misery and
+self-reproaches the greater. After Siegfried's burial his father,
+who had also come to Worms with his son, vainly endeavors to persuade
+Kriemhild to return with him to the Netherlands. Her refusal is
+unnatural in the extreme, for she had reigned there ten years or
+more with Siegfried, and had left her little son behind, and yet she
+relinquishes all this and remains with her brothers, whom she knows to
+be the murderers of her husband. This is evidently a reminiscence of
+an earlier form in which Siegfried was a homeless adventurer, as in the
+"Thidreksaga". The second half of the tale, the destruction of the Nibelungs,
+is treated of very briefly in the early Norse versions, but the
+"Nibelungenlied", which knows so little of Siegfried's youth, has
+developed and enlarged upon the story, until it overshadows the first
+part in length and importance and gives the name to the whole poem. The main difference between the two versions is that in the older
+Norse tradition it is Attila who invites the Nibelungs to his court and
+attacks them in order to gain possession of the treasure, while Gudrun
+(Kriemhild) first tries to reconcile the warring parties, and, not
+succeeding in this, snatches up a sword and fights on the side of
+her brothers and later kills her husband as an act of revenge. In the
+"Thidreksaga" and the "Nibelungenlied", however, she is the instigator
+of the fight and the cause of her brothers' death, and finally suffers
+death herself at the hands of Master Hildebrand, who is furious that
+such noble heroes should fall at a woman's hand. The second part of
+the poem is grewsome reading at best, with its weltering corpses and
+torrents of blood. The horror is relieved only by the grim humor of
+Hagen and by the charming scene at Rudeger's court, where the young
+prince Giselher is betrothed to Rudeger's daughter. Rudeger is without
+doubt the most tragic figure of this part. He is bound on the one hand
+by his oath of allegiance to Kriemhild and on the other by ties of
+friendship to the Burgundians. His agony of mind at the dilemma in which
+Kriemhild's command to attack the Burgundians places him is pitiful. Divided between love and duty, the conviction that he must fulfill his
+vow, cost what it may, gradually forces itself upon him and he rushes to
+his death in combat with his dearest friends. Towering above all others in its gloomy grandeur stands the figure of
+Hagen, the real hero of the second half of the poem. Fully aware that
+he is going to his death, he nevertheless scorns to desert his
+companions-in-arms, and awaits the fate in store for him with a stoicism
+that would do honor to a Spartan. He calmly accepts the consequences of
+his crime, and to the last mocks and scoffs at Kriemhild, until her fury
+knows no bounds. No character shows so little the refining influences of
+Christianity as does his. In all essential respects he is still the same
+old gigantic Teuton, who meets us in the earliest forms of the legend. As to the various minor characters, many of which appear only in the
+"Nibelungenlied", space will not permit of their discussion here,
+although they will be treated of briefly in the notes. Suffice it to
+say, that the "Nibelungenlied" has introduced a number of effective
+scenes for the purpose of bringing some of them, especially Folker and
+Dankwart, into prominence. Among the best of these are, first, the night
+watch, when Folker first plays the Burgundians to sleep with his violin,
+and then stands guard with Hagen, thus preventing the surprise planned
+by Kriemhild; further, the visit to the church on the following morning,
+when the men of both parties clash; and lastly the tournament between
+the Huns and the Burgundians, which gives the author an excellent chance
+to show the prowess of the various heroes. Let us pass now to the consideration of the strophic form of the
+"Nibelungenlied". The two Danish ballads of "Grimhild's Revenge"
+("Grimhild's Haevn"), which are based upon the first combination of
+the Low German, i.e., Saxon, and the Rhenish traditions, prove that the
+strophe is considerably older than the preserved redactions of our poem,
+and that it was probably of Saxon origin. The metrical form goes back
+most probably to the four-accented verse of the poet Otfrid of the ninth
+century, although some have thought that Latin hymns, others that the
+French epic verse, may have been of influence. The direct derivation
+from Otfrid seems, however, the most plausible, as it accounts for the
+importance of the caesura, which generally marks a pause in the
+sense, as well as in the verse, and also for its masculine ending. The
+"Nibelungen" strophe consists of four long lines separated by a caesura
+into two distinct halves. The first half of each line contains four
+accents, the fourth falling upon the last syllable. This last stress,
+however, is not, as a rule as strong as the others, the effect being
+somewhat like that of a feminine ending. On this account some speak of
+three accents in the first half line, with a feminine ending. The fourth
+stress is, however, too strong to be thus disregarded, but because of
+its lighter character is best marked with a grave accent. The second
+half of each line ends in a masculine rhyme. The first three lines have
+each three stresses in the second half, while the second half of the
+fourth line has four accents to mark the end of the strophe. This
+longer fourth line is one of the most marked characteristics of the
+"Nibelungen" strophe. The rhymes are arranged in the order of "a", "a",
+"b", "b", though in a few isolated cases near the end of the poem but
+one rhyme is used throughout the strophe. The opening lines of the poem may serve to illustrate the strophic form
+and scansion, and at the same time will give the reader an idea of the
+Middle High German language in which the poem is written:
+
+     Uns ist in alten maeren   wunders vil geseit
+     von heleden lobebaeron,   von grozer arebeit,
+     von froude und hochgeziten,   von weinen und von klagen,
+     von kuener recken striten   muget ir nu wunder hoeren sagen. Ez wuochs in Burgonden   ein edel magedin,
+     daz in allen landen   niht schoeners mohte sin,
+     Kriemhild geheizen;   si wart ein scoene wip,
+     darambe muosen degene   vil verliesen den lip. Der minneclichen meide   triuten wol gezam,
+     ir muotten kuene recken,   niemen was ir gram,
+     ane ma zen schoene   so was ir edel lip;
+     der iunevrouwen tugende   zierten anderiu wip. Ir pilagen drie kilnege   edel unde rich,
+     Ganther ande Geruot,   die recken lobelieh,
+     und Giselher der iunge,   ein uz erwelter degen,
+     diu frouwe was ir swester,   die fu'rsten hetens in ir
+                                        pflegen. Die herren waren milte,   von arde hohe erborn,
+     mit kraft unmazen kuene,   die recken uz erkorn,
+     dazen Burgonden   so was ir lant genant,
+     si framden starkiu wunder   sit in Etzelen lant. Ze Wormze bidem Rine   si wenden mit ir kraft,
+     in diende von ir landen   stolziu ritterscaft
+     mit lobelichen eren   unz an ir endes zit,
+     sit sturben si inemerliche   von zweier edelen frouwen nit. Some of the final rhymes with proper names, such as "Hagene": "degene"
+(str. 84) or "Hagene": "tragene" (str. 300) appear to be feminine, but
+it is really the final "e" that rhymes, and a scansion of the line in
+question shows that the three accents are not complete without this
+final "e". In this respect our poem differs from most of the Middle High
+German poems, as this practice of using the final "e" in rhyme began to
+die out in the twelfth century, though occasionally found throughout the
+period. The rhymes are, as a rule, quite exact, the few cases of impure
+rhymes being mainly those in which short and long vowels are rhymed
+together, e.g. "mich": "rich" or "man": "han". Caesural rhymes are
+frequently met with, and were considered by Lachmann to be the marks of
+interpolated strophes, a view no longer held. A further peculiarity
+of the "Nibelungen" strophe is the frequent omission of the unaccented
+syllable in the second half of the last line of the strophe between the
+second and third stresses. Examples of this will be found in the second,
+third, and fifth strophes of the passage given above. The language of the "Nibelungenlied" is the so-called Middle High
+German, that is, the High German written and spoken in the period
+between 1100 and 1500, the language of the great romances of chivalry
+and of the "Minnesingers". More exactly, the poem is written in the
+Austrian dialect of the close of the twelfth century, but contains many
+archaisms, which point to the fact of its having undergone a number of
+revisions. In closing this brief study of the "Nibelungenlied", just a word or
+two further with reference to the poem, its character, and its place in
+German literature. Its theme is the ancient Teutonic ideal of "Treue"
+(faithfulness or fidelity), which has found here its most magnificent
+portrayal; faithfulness unto death, the loyalty of the vassal for his
+lord, as depicted in Hagen, the fidelity of the wife for her husband,
+as shown by Kriemhild, carried out with unhesitating consistency to the
+bitter end. This is not the gallantry of medieval chivalry, which colors
+so largely the opening scenes of the poem, but the heroic valor, the
+death-despising stoicism of the ancient Germans, before which the
+masters of the world, the all-conquering Romans, were compelled to bow. In so far as the "Nibelungenlied" has forgotten most of the history of
+the youthful Siegfried, and knows nothing of his love for Brunhild, it
+is a torso, but so grand withal, that one hardly regrets the loss of
+these integral elements of the old saga. As it is a working over of
+originally separate lays, it is not entirely homogeneous, and contains
+not a few contradictions. In spite of these faults, however, which a
+close study reveals, it is nevertheless the grandest product of Middle
+High German epic poetry, and deservedly the most popular poem of older
+German literature. It lacks, to be sure, the grace of diction found in
+Gottfried von Strassburg's "Tristan und Isolde", the detailed and often
+magnificent descriptions of armor and dress to be met with in the epics
+of Hartman von Ouwe; it is wanting in the lofty philosophy of Wolfram
+von Eschenbach's "Parzival", and does not, as this latter, lead the
+reader into the realms of religious doubts and struggles. It is imposing
+through its very simplicity, through the grandeur of the story, which
+it does not seek to adorn and decorate. It nowhere pauses to analyze
+motives nor to give us a picture of inner conflict as modern authors are
+fond of doing. Its characters are impulsive and prompt in action, and
+when they have once acted, waste no time in useless regret or remorse. It resembles the older "Spielmannsdichtung", or minstrel poetry, in the
+terseness and vigor of its language and in the lack of poetic imagery,
+but it is free from the coarseness and vulgar and grotesque humor of the
+latter. It approaches the courtly epic in its introduction of the pomp
+of courtly ceremonial, but this veneer of chivalry is very thin, and
+beneath the outward polish of form the heart beats as passionately and
+wildly as in the days of Herman, the Cheruscan chief. There are perhaps
+greater poems in literature than the "Nibelungenlied", but few so
+majestic in conception, so sublime in their tragedy, so simple in their
+execution, and so national in their character, as this great popular
+epic of German literature. ENDNOTES:
+  (1)  A is a parchment MS. of the second half of the thirteenth
+       century, now found in Munich. It forms the basis of
+       Lachmann's edition. It is a parchment MS. of the middle of
+       the thirteenth century, belonging to the monastery of St.
+       Gall. It has been edited by Bartsch, "Deutsche Klassiker
+       des Mittelalters", vol. 3, and by Piper, "Deutsche National-
+       Literatur", vol. 6. C is a parchment MS., of the thirteenth
+       century, now in the ducal library of Donauesehingen. It is
+       the best written of all the MSS., and has been edited by
+       Zarncke. (2)  The "Thidreksaga" differs from the other Norse versions in
+       having "Sigfrod", as he is called here, brought up in
+       ignorance of his parents, a trait which was probably
+       borrowed from the widespread "Genoveva" story, although
+       thought by some to have been an original feature of our
+       legend. (3)  The "Thidreksaga", which has forgotten the enmity of the
+       brothers, and calls Sigurd's tutor "Mimr", tells the episode
+       in somewhat different fashion. The brothers plan to kill
+       Sigurd, and the latter is attacked by the dragon, while
+       burning charcoal in the forest. After killing the monster
+       with a firebrand, Sigurd bathes himself in the blood and
+       thus become covered with a horny skin, which renders him
+       invulnerable, save in one place between the shoulder blades,
+       which he could not reach. This bathing in the blood is also
+       related in the Seyfrid ballad and in the "Nibelungenlied",
+       with the difference, that the vulnerable spot is caused by a
+       linden leaf falling upon him. (4)  The fact that all but one of these names alliterate, shows
+       that the Norse version is here more original. Gunnar is the
+       same as Gunther (Gundaharius), Hogni as Hagen; Gutthorm
+       (Godomar) appears in the German version as Gernot. In this
+       latter the father is called Danerat, the mother Uote, and
+       the name Grimhild is transferred from the mother to the
+       daughter. (5)  In the prose "Edda", in the water which drips from Gudrun's
+       hair. THE NIBELUNGENLIED (1)
+
+
+
+
+ADVENTURE I (2)
+
+Full many a wonder is told us in stories old, of heroes worthy of
+praise, of hardships dire, of joy and feasting, of the fighting of bold
+warriors, of weeping and of wailing; now ye may hear wonders told. In Burgundy there grew so noble a maid that in all the lands none fairer
+might there be. Kriemhild (3) was she called; a comely woman she became,
+for whose sake many a knight must needs lose his life. Well worth the
+loving was this winsome maid. Bold knights strove for her, none bare her
+hate. Her peerless body was beautiful beyond degree; the courtly virtues
+of this maid of noble birth would have adorned many another woman too. Three kings, noble and puissant, did nurture her, Gunther (4) and
+Gernot, (5) warriors worthy of praise, and Giselher, (6) the youth, a
+chosen knight. This lady was their sister, the princes had her in their
+care. The lordings were free in giving, of race high-born, passing bold
+of strength were they, these chosen knights. Their realm hight Burgundy. Great marvels they wrought hereafter in Etzel's (7) land. At Worms (8)
+upon the Rhine they dwelt with all their power. Proud knights from out
+their lands served them with honor, until their end was come. Thereafter
+they died grievously, through the hate of two noble dames. Their mother, a mighty queen, was called the Lady Uta, (9) their father,
+Dankrat, (10) who left them the heritage after his life was over; a
+mighty man of valor that he was, who won thereto in youth worship full
+great. These kings, as I have said, were of high prowess. To them owed
+allegiance the best of warriors, of whom tales were ever told, strong
+and brave, fearless in the sharp strife. Hagen (11) there was of Troneg,
+thereto his brother Dankwart, (12) the doughty; Ortwin of Metz (13);
+Gere (14) and Eckewart, (15) the margraves twain; Folker of Alzei, (16)
+endued with fullness of strength. Rumolt (17) was master of the kitchen,
+a chosen knight; the lords Sindolt and Hunolt, liegemen of these three
+kings, had rule of the court and of its honors. Thereto had they many
+a warrior whose name I cannot tell. Dankwart was marshal; his nephew,
+Ortwin, seneschal unto the king; Sindolt was cupbearer, a chosen knight;
+Hunolt served as chamberlain; well they wot how to fill these lofty
+stations. Of the forces of the court and its far-reaching might, of
+the high worship (18) and of the chivalry these lords did ply with joy
+throughout their life, of this forsooth none might relate to you the
+end. In the midst of these high honors Kriemhild dreamed a dream, of how she
+trained a falcon, strong, fair, and wild, which, before her very eyes,
+two eagles rent to pieces. No greater sorrow might chance to her in all
+this world. This dream then she told to Uta her mother, who could not
+unfold it to the dutiful maid in better wise than this: "The falcon
+which thou trainest, that is a noble man, but thou must needs lose him
+soon, unless so be that God preserve him." "Why speakest thou to me of men, dear brother mine? I would fain ever be
+without a warrior's love. So fair will I remain until my death, that I
+shall never gain woe from love of man." "Now forswear this not too roundly," spake the mother in reply. "If ever
+thou shalt wax glad of heart in this world, that will chance through the
+love of man. Passing fair wilt thou become, if God grant thee a right
+worthy knight." "I pray you leave this speech," spake she, "my lady. Full oft hath it
+been seen in many a wife, how joy may at last end in sorrow. I shall
+avoid them both, then can it ne'er go ill with me." Thus in her heart Kriemhild forsware all love. Many a happy day
+thereafter the maiden lived without that she wist any whom she would
+care to love. In after days she became with worship a valiant here's
+bride. He was the selfsame falcon which she beheld in her dream that her
+mother unfolded to her. How sorely did she avenge this upon her nearest
+kin, who slew him after! Through his dying alone there fell full many a
+mother's son. ENDNOTES:
+   (1)  "Nibelungenlied", the lay of the Nibelungs. The ordinary
+        etymology of this name is 'children of the mist'
+        ("Nebelkinder", O.N. "Niflungar"), and it is thought to have
+        belonged originally to the dwarfs. Piper, I, 50, interprets
+        it as 'the sons of Nibul'; Boer, II, 198, considers
+        "Hniflungar" to be the correct Norse form and interprets it
+        as 'the descendants of Hnaef' (O.E. "Hnaef", O.H.G. "Hnabi"), whose death is related in the "Finnsaga". (2)  "Adventure" (M.H.G. "aventiure", from O.F. "aventure", Lat. "adventura"). The word meant originally a happening,
+        especially some great event, then the report of such an
+        event. Here it is used in the sense of the different cantos
+        or "fitts" of the poem, as in the "Gudrun" and other M.H.G. epics. Among the courtly poets it also frequently denotes
+        the source, or is the personification of the muse of poetry. (3)  "Kriemhild" is the Upper German form of the Frankish
+        "Grimhild". In the MSS., the name generally appears with a
+        further shifting as "Chriemhilt", as if the initial
+        consonant were Germanic "k". On the various forms of the
+        name, which have never yet been satisfactorily explained,
+        see Mullenhoff, ZsfdA. xii, 299, 413; xv, 313; and
+        Bohnenberger, PB. Beit. xxiv, 221-231. (4)  "Gunther" is the historical "Gundahari", king of the
+        Burgundians in the fifth century. (5)  "Gernot" was probably introduced by some minstrel in place
+        of the historical "Godomar", who appears in the Norse
+        version as "Gutthormr", though the names are not
+        etymologically the same, as "Godomar" would be "Guthmarr" in
+        Old Norse. (6)  "Giselher" is the historical "Gislaharius". Although
+        mentioned by the "Lex Burgundionum" as one of the Burgundian
+        kings, he does not appear in the early Norse version, or in
+        other poems dealing with these persons, such as the
+        "Waltharius", the "Rabenschlacht", the "Rosengarten", etc.,
+        and was probably introduced at a late date into the saga. Originally no role was ascribed to him, and not even his
+        death is told. He probably came from some independent
+        source. (7)  "Etzel" is the German form for the historical "Attila"
+        (Norse "Atli"). A discussion of his connection with the
+        saga will be found in the introduction. (8)  "Worms" is the ancient "Borbetomagus", which in the first
+        century B.C. was the chief city of the German tribe of the
+        "Vangioni". In the fifth century it was the capital of the
+        Burgundian kingdom, but was destroyed by the Huns. The
+        Merovingians rebuilt it, and in the seventh century it
+        became a bishopric where Charlemagne at times held his
+        court. It was later noted as the meeting-place of many
+        imperial diets. It remained a free city till 1801. In the
+        "Thidreksaga" the name is corrupted into "Wernize". (9)  "Uta" (M.H.G. "Uote"). The name means ancestress, and is
+        frequently used for the mother of heroes. The modern German
+        form is "Ute", but in order to insure its being pronounced
+        with two syllables, the form "Uta" was chosen. (10) "Dankrat" (M.H.G. "Dancrat") appears as the father only in
+        the "Nibelungenlied" and poems dependent on it, e.g., the
+        "Klage" and "Biterolf", elsewhere as "Gibiche" (Norse
+        "Giuki"). (11) "Hagen of Troneg". Troneg is probably a corruption of the
+        name of the Latin colony, "colonia Trajana", on the Lower
+        Rhine, which as early as the fifth century was written as
+        "Troja", giving rise to the legend that the Franks were
+        descended from the ancient Trojans. "Troja" was then
+        further corrupted to "Tronje" and "Tronege". Hagen was
+        therefore originally a Frank and had no connection with the
+        Burgundian kings, as the lack of alliteration also goes to
+        show. Boer thinks that not Siegfried but Hagen originally
+        lived at Xanten (see note 3 to Adventure II), as this was
+        often called Troja Francorum. When the Hagen story was
+        connected with the Burgundians and Hagen became either their
+        brother or their vassal, his home was transferred to Worms
+        and Siegfried was located at Xanten, as he had no especial
+        localization. Thus Siegfried is never called Siegfried of
+        Troneg, as is Hagen. Other attempts to explain Troneg will
+        be found in Piper, I, 48. (12) "Dankwart" is not an historical character nor one that
+        belonged to the early form of the legend. He may have come
+        from another saga, where he played the principal role as
+        Droege (ZsfdA. 48, 499) thinks. Boer considers him to be
+        Hagen's double, invented to play a part that would naturally
+        fall to Hagen's share, were he not otherwise engaged at the
+        moment. In our poem he is called "Dancwart der snelle", a
+        word that has proved a stumbling-block to translators,
+        because in modern German it means 'speedy', 'swift'. Its
+        original meaning was, however, 'brave', 'warlike', although
+        the later meaning is already found in M.H.G. In all such
+        doubtful cases the older meaning has been preferred, unless
+        the context forbids, and the word 'doughty' has been chosen
+        to translate it. (13) "Ortwin of Metz" appears also in the "Eckenlied",
+        "Waltharius", and in "Biterolf". He is most likely a late
+        introduction (but see Piper, I, 44). Rieger thinks that he
+        belonged to a wealthy family "De Metis". Though the "i" is
+        long in the original, and Simrock uses the form "Ortewein"
+        in his translation, the spelling with short "i" has been
+        chosen, as the lack of accent tends to shorten the vowel in
+        such names. (14) "Gere" is likewise a late introduction. He is perhaps the
+        historical Margrave Gere (965) of East Saxony, whom Otto the
+        Great appointed as a leader against the Slavs. See O. von
+        Heinemann, "Markgraf Gero", Braunschweig, 1860, and Piper, L
+        43. (15) "Eckewart" is also a late accession. He is perhaps the
+        historical margrave of Meissen (1002), the first of the
+        name. He, too, won fame in battle against the Slavs. (16) "Folker of Alzet" (M.H.G. "Volker von Alzeije"), the
+        knightly minstrel, is hardly an historical personage, in
+        spite of the fact that Alzey is a well-known town in Rhine
+        Hesse on the Selz, eighteen miles southwest of Mainz. The
+        town has, to be sure, a violin in its coat of arms, as also
+        the noble family of the same name. It is most likely,
+        however, that this fact caused Folker to be connected with
+        Alzei. In the "Thidreksaga" Folker did not play the role of
+        minstrel, and it is probable that some minstrel reviser of
+        our poem developed the character and made it the
+        personification of himself. (17) "Rumolt", "Bindolt", and "Hunolt" have no historical basis
+        and merely help to swell the retinue of the Burgundians. (18) "Worship". This word has been frequently used here in its
+        older meaning of 'worth', 'reverence', 'respect', to
+        translate the M.H.G. "eren", 'honors'. ADVENTURE II. Of Siegfried. In the Netherlands there grew the child of a noble king (his father had
+for name Siegemund, (1) his mother Siegelind), (2) in a mighty castle,
+known far and wide, in the lowlands of the Rhine: Xanten, (3) men called
+it. Of this hero I sing, how fair he grew. Free he was of every blemish. Strong and famous he later became, this valiant man. Ho! What great
+worship he won in this world! Siegfried hight this good and doughty
+knight. Full many kingdoms did he put to the test through his warlike
+mood. Through his strength of body he rode into many lands. Ho! What
+bold warriors he after found in the Burgundian land! Mickle wonders
+might one tell of Siegfried in his prime, in youthful days; what honors
+he received and how fair of body he. The most stately women held him
+in their love; with the zeal which was his due men trained him. But of
+himself what virtues he attained! Truly his father's lands were honored,
+that he was found in all things of such right lordly mind. Now was he
+become of the age that he might ride to court. Gladly the people saw
+him, many a maid wished that his desire might ever bear him hither. Enow
+gazed on him with favor; of this the prince was well aware. Full seldom
+was the youth allowed to ride without a guard of knights. Siegmund and
+Siegelind bade deck him out in brave attire. The older knights who were
+acquaint with courtly custom, had him in their care. Well therefore
+might he win both folk and land. Now he was of the strength that he bare weapons well. Whatever he needed
+thereto, of this he had enow. With purpose he began to woo fair ladies;
+these bold Siegfried courted well in proper wise. Then bade Siegmund
+have cried to all his men, that he would hold a feasting with his loving
+kindred. The tidings thereof men brought into the lands of other kings. To the strangers and the home-folk he gave steeds and armor. Wheresoever
+any was found who, because of his birth, should become a knight, these
+noble youths were summoned to the land for the feasting. Here with the
+youthful prince they gained the knightly sword. Wonders might one tell
+of this great feast; Siegmund and Siegelind wist well how to gain great
+worship with their gifts, of which their hands dealt out great store. Wherefore one beheld many strangers riding to their realm. Four hundred
+sword-thanes (4) were to put on knightly garb with Siegfried. Many a
+fair maid was aught but idle with the work, for he was beloved of them
+all. Many precious stones the ladies inlaid on the gold, which together
+with the edging they would work upon the dress of the proud young
+warriors, for this must needs be done. The host bade make benches for the many valiant men, for the midsummer
+festival, (5) at which Siegfried should gain the name of knight. Then
+full many a noble knight and many a high-born squire did hie them to
+the minster. Right were the elders in that they served the young, as had
+been done to them afore. Pastimes they had and hope of much good cheer. To the honor of God a mass was sung; then there rose from the people
+full great a press, as the youths were made knights in courtly wise,
+with such great honors as might not ever lightly be again. Then they
+ran to where they found saddled many a steed. In Siegmund's court the
+hurtling (6) waxed so fierce that both palace (7) and hall were heard
+to ring; the high-mettled warriors clashed with mighty sound. From young
+and old one heard many a shock, so that the splintering of the shafts
+reechoed to the clouds. Truncheons (8) were seen flying out before
+the palace from the hand of many a knight. This was done with zeal. At
+length the host bade cease the tourney and the steeds were led away. Upon the turf one saw all to-shivered (9) many a mighty buckler and
+great store of precious stones from the bright spangles (10) of the
+shields. Through the hurtling this did hap. Then the guests of the host betook them to where men bade them sit. With
+good cheer they refreshed them and with the very best of wine, of which
+one bare frill plenty. To the strangers and the home-folk was shown
+worship enow. Though much pastime they had throughout the day, many of
+the strolling folk forsware all rest. They served for the largess, which
+men found there richly, whereby Siegmund's whole land was decked with
+praise. Then bade the king enfeoff Siegfried, the youth, with land
+and castles, as he himself had done. Much his hand bestowed upon the
+sword-companions. The journey liked them well, that to this land they
+were come. The feasting lasted until the seventh day. Siegelind,
+the noble queen, for the love of her son, dealt out ruddy gold in
+time-honored wise. Full well she wot how to make him beloved of the
+folk. Scarce could a poor man be found among the strolling mimes. Steeds
+and raiment were scattered by their hand, as if they were to live not
+one more day. I trow that never did serving folk use such great bounty. With worshipful honors the company departed hence. Of the mighty barons
+the tale doth tell that they desired the youth unto their lord, but of
+this the stately knight, Sir Siegfried, listed naught. Forasmuch as both
+Siegmund and Siegelind were still alive, the dear child of them twain
+wished not to wear a crown, but fain would he become a lord against all
+the deeds of force within his lands, whereof the bold and daring knight
+was sore adread. ENDNOTES:
+   (1)  "Siegmund" (M.H.G. "Sigemunt") was originally the hero of an
+        independent saga. See "Volsungasaga", chaps. 3-8. (2)  "Siegelind" (M.H.G. "Sigelint") is the correct name of
+        Siegfried's mother, as the alliteration shows. The Early
+        Norse version has "Hjordis", which has come from the "Helgi
+        saga". (3)  "Xanten" (M.H.G. "Santen" from the Latin "ad sanctos") is at
+        present a town in the Rhenish Prussian district of
+        Dusseldorf. It does not now lie on the Rhine, but did in
+        the Middle Ages. (4)  "Sword-thanes" (M.H.G. "swertdegene") were the young squires
+        who were to be made knights. It was the custom for a
+        youthful prince to receive the accolade with a number of
+        others. (5)  "Midsummer festival". The M.H.G. "sunewende" means
+        literally the 'sun's turning', i.e., the summer solstice. This was one of the great Germanic festivals, which the
+        church later turned into St. John's Eve. The bonfires still
+        burnt in Germany on this day are survivals of the old
+        heathen custom. (6)  "Hurtling" translates here M.H.G. "buhurt", a word borrowed
+        from the French to denote a knightly sport in which many
+        knights clashed together. Hurtling was used in older
+        English in the same significance. (7)  "Palace" (M.H.G. "palas", Lat. "palatium") is a large
+        building standing alone and largely used as a reception
+        hall. (8)  "Truncheons" (M.H.G. "trunzune", O.F. "troncon", 'lance
+        splinters', 'fragments of spears'. (9)  "To-shivered", 'broken to pieces', in imitation of the older
+        English to-beat, to-break, etc. (10) "Spangles" (M.H.G. "spangen"), strips of metal radiating
+        from the raised centre of the shield and often set, as here,
+        with precious stones. ADVENTURE III. How Siegfried Came to Worms. It was seldom that sorrow of heart perturbed the prince. He heard tales
+told of how there lived in Burgundy a comely maid, fashioned wondrous
+fair, from whom he thereafter gained much of joy, but suffering, too. Her beauty out of measure was known far and wide. So many a here heard
+of her noble mind, that it alone brought many a guest (1) to Gunther's
+land. But however many were seen wooing for her love, Kriemhild never
+confessed within her heart that she listed any for a lover. He was
+still a stranger to her, whose rule she later owned. Then did the son of
+Siegelind aspire to lofty love; the wooing of all others was to his but
+as the wind, for well he wot how to gain a lady fair. In later days the
+noble Kriemhild became bold Siegfried's bride. Kinsmen and liegemen enow
+advised him, since he would have hope of constant love, that he woo
+one who was his peer. At this bold Siegfried spake: "Then will I choose
+Kriemhild, the fair maid of Burgundy, for her beauty beyond measure. This I know full well, never was emperor so mighty, and he would have a
+wife, that it would not beseem him to love this noble queen." Tidings of this reached Siegmund's ear; through the talk of the
+courtiers he was made ware of the wish of his son. Full loth it was to
+the king, that his child would woo the glorious maid. Siegelind heard it
+too, the wife of the noble king. Greatly she feared for her child, for
+full well she knew Gunther and his men. Therefore they sought to turn
+the hero from this venture. Up spake then the daring Siegfried: "Dear
+father mine, I would fain ever be without the love of noble dames, if I
+may not woo her in whom my heart hath great delight; whatsoever any may
+aver, it will avail but naught." "And thou wilt not turn back," spake the king, "then am I in sooth glad
+of thy will and will help thee bring it to pass, as best I may. Yet hath
+this King Gunther full many a haughty man. If there were none else but
+Hagen, the doughty knight, he can use such arrogance that I fear me it
+will repent us sore, if we woo this high-born maid." Then Siegfried made reply: "Wherefore need that hinder us? What I may
+not obtain from them in friendly wise, that my hand and its strength can
+gain. I trow that 1 can wrest from him both folk and land." To this Prince Siegmund replied: "Thy speech liketh me not, for if this
+tale were told upon the Rhine, then durst thou never ride unto that
+land. Long time have Gunther and Gernot been known to me. By force may
+none win the maid, of this have I been well assured; but wilt thou ride
+with warriors unto this land, and we still have aught of friends, they
+shall be summoned soon." "It is not to my mind," spake again Siegfried, "that warriors should
+follow me to the Rhine, as if for battle, that I constrain thereby the
+noble maid. My single hand can win her well--with eleven (2) comrades
+I will fare to Gunther's land; thereto shalt thou help me, Father
+Siegmund." Then to his knights they gave for garments furs both gray and
+vair. (3)
+
+Now his mother Siegelind also heard the tale. She began to make dole for
+her loved child, whom she feared to lose through Gunther's men. Sorely
+the noble queen gan weep. Lord Siegfried hied him straightway to where
+he saw her; to his mother he spake in gentle wise: "Lady, ye must not
+weep for me; naught have I to fear from all his fighting men. I pray
+you, speed me on my journey to the Burgundian land, that I and my
+warriors may have array such as proud heroes can wear with honor; for
+this I will say you gramercy i' faith." "Since naught will turn thee," spake then the Lady Siegelind, "so will I
+speed thee on thy journey, mine only child, with the best of weeds that
+ever knight did wear, thee and thy comrades. Ye shall have enow." Siegfried, the youth, then made low obeisance to the queen. He spake:
+"None but twelve warriors will I have upon the way. Let raiment be
+made ready for them, I pray, for I would fain see how it standeth with
+Kriemhild." Then sate fair ladies night and day. Few enow of them, I trow, did ease
+them, till Siegfried's weeds had all been wrought. Nor would he desist
+from faring forth. His father bade adorn the knightly garb in which his
+son should ride forth from Siegmund's land. The shining breastplates,
+too, were put in trim, also the stanch helmets and their shields both
+fair and broad. Now their journey to the Burgundian land drew near;
+man and wife began to fear lest they never should come home again. The
+heroes bade lade their sumpters with weapons and with harness. Their
+steeds were fair and their trappings red with gold. No need were there
+to live more proudly than Siegfried and his men. Then he asked for leave
+to journey to the land of Burgundy; this the king and queen sorrowfully
+vouchsafed. Lovingly he comforted them twain. "For my sake," spake he,
+"must ye not weep, nor have fear for me or for my life." The warriors, too, were sad and many a maiden wept; I ween, their hearts
+did tell them rightly that many of their kinsmen would come to death
+because of this. Just cause had they for wailing; need enow they had in
+sooth. Upon the seventh morning, forth upon the river sand at Worms the brave
+warriors pricked. Their armor was of ruddy gold and their trappings
+fashioned fair. Smoothly trotted the steeds of bold Siegfried's men. Their shields were new; gleaming and broad and fair their helmets, as
+Siegfried, the bold, rode to court in Gunther's land. Never had such
+princely attire been seen on heroes; their sword-points hung down
+to their spurs. Sharp javelins were borne by these chosen knights. Siegfried wielded one full two spans broad, which upon its edges cut
+most dangerously. In their hands they held gold-colored bridles; their
+martingales were silken: so they came into the land. Everywhere the folk
+began to gape amazed and many of Gunther's men fared forth to meet them. High-mettled warriors, both knight and squire, betook them to the lords
+(as was but right), and received into the land of their lords these
+guests and took from their hands the black sumpters which bore the
+shields. The steeds, too, they wished to lead away for easement. How
+boldly then brave Siegfried spake: "Let stand the mounts of me and of
+my men. We will soon hence again, of this have I great desire. Whosoever
+knoweth rightly where I can find the king, Gunther, the mighty, of
+Burgundian land, let him not keep his peace but tell me." Then up spake one to whom it was rightly known: "Would ye find the king,
+that can hap full well. In yon broad hall with his heroes did I but see
+him. Ye must hither hie you; there ye may find with him many a lordly
+man." To the king now the word was brought, that full lusty knights were come,
+who wore white breastplates and princely garb. None knew them in the
+Burgundian land. Much it wondered the king whence came these lordly
+warriors in such shining array, with such good shields, both new and
+broad. Loth was it to Gunther, that none could tell him this. Then
+Ortwin of Metz (a bold and mighty man was he) made answer to the king:
+"Since we know them not, ye should send for mine uncle Hagen, and let
+him see them. To him are known (4) all kingdoms and foreign lands. If so
+be he knoweth these lords, he will tell us straightway." Then bade the king that Hagen and his men be brought. One saw him with
+his warriors striding in lordly wise unto the court. "What would the king of me?" asked Hagen. "There be come to my house strange warriors, whelm here none knoweth. If
+ye have ever seen them, I pray you, Hagen, tell me now the truth." "That will I," spake then Hagen. He hied him to a window and over the
+guests he let his glances roam. Well liked him their trappings and their
+array, but full strange were they to him in the Burgundian land. He
+spake: "From wheresoever these warriors be come unto the Rhine, they may
+well be princes or envoys of kings, for their steeds are fair and
+their garments passing good. Whencesoever they bear these, forsooth
+high-mettled warriors be they." "I dare well say," so spake Hagen, "though I never have seen Siegfried,
+yet can I well believe, however this may be, that he is the warrior that
+strideth yonder in such lordly wise. He bringeth new tidings hither to
+this land. By this here's hand were slain the bold Nibelungs, Schilbung
+and Nibelung, (5) sons of a mighty king. Since then he hath wrought
+great marvels with his huge strength. Once as the hero rode alone
+without all aid, he found before a mountain, as I have in sooth been
+told, by Nibelung's hoard full many a daring man. Strangers they were to
+him, till he gained knowledge of them there. "The hoard of Nibelung was borne entire from out a hollow hill. Now hear
+a wondrous tale, of how the liegemen of Nibelung wished to divide it
+there. This the hero Siegfried saw and much it gan wonder him. So near
+was he now come to them, that he beheld the heroes, and the knights
+espied him, too. One among them spake: `Here cometh the mighty
+Siegfried, the hero of Netherland.' Passing strange were the tidings
+that, he found among the Nibelungs. Schilbung and Nibelung greeted well
+the knight; with one accord these young and noble lordings bade the
+stately man divide the hoard. Eagerly they asked it, and the lord in
+turn gan vow it to them. "He beheld such store of gems, as we have heard said, that a hundred
+wains might not bear the lead; still more was there of ruddy gold from
+the Nibelung land. All this the hand of the daring Siegfried should
+divide. As a guerdon they gave him the sword of Nibelung, but they were
+served full ill by the service which the good knight Siegfried should
+render them. Nor could he end it for them; angry of mood (6) they grew. Twelve bold men of their kith were there, mighty giants these. What
+might that avail them! Siegfried's hand slew them soon in wrath, and
+seven hundred warriors from the Nibelung land he vanquished with the
+good sword Balmung. (7) Because of the great fear that, many a young
+warrior had of the sword and of the valiant man, they made the land and
+its castles subject to his hand. Likewise both the mighty kings he
+slew, but soon he himself was sorely pressed by Alberich. (8) The
+latter weened to venge straightway his masters, till he then discovered
+Siegfried's mighty strength; for no match for him was the sturdy dwarf. Like wild lions they ran to the hill, where from Alberich he won the
+Cloak of Darkness. (9) Thus did Siegfried, the terrible, become master
+of the hoard; those who had dared the combat, all lay there slain. Soon
+bade he cart and bear the treasure to the place from whence the men of
+Nibelung had borne it forth. He made Alberich, the strong, warden of the
+hoard and bade him swear an oath to serve him as his knave; and fit he
+was for work of every sort." So spake Hagen of Troneg: "This he hath done. Nevermore did warrior win
+such mighty strength. I wot yet more of him: it is known to me that the
+hero slew a dragon and bathed him in the blood, so that his skin became
+like horn. Therefore no weapons will cut him, as hath full oft been
+seen. All the better must we greet this lord, that we may not earn the
+youthful warrior's hate. So bold is he that we should hold him as a
+friend, for he hath wrought full many a wonder by his strength." Then spake the mighty king: "Thou mayst well have right. Behold how
+valiantly he with his knights doth stand in lust of battle, the daring
+man! Let us go down to meet the warrior." "That ye may do with honor," spake then Hagen; "he is of noble race, son
+of a mighty king. God wot, methinks, he beareth him in such wise, that
+it can be no little matter for which he hath ridden hither." "Now be he welcome to us," spake then the king of the land. "He is both
+noble and brave, as I have heard full well. This shall stand him in good
+stead in the Burgundian land." Then went Lord Gunther to where Siegfried
+stood. The host and his warriors received the guest in such wise that full
+little was there lack of worship. Low bowed the stately man, that they
+had greeted him so fair. "It wondereth me," spake the king straightway,
+"whence ye, noble Siegfried, be come unto this land, or what ye seek at
+Worms upon the Rhine." Then the stranger made answer to the king: "This will I not conceal from
+you. Tales were told me in my father's land, that here with you were the
+boldest warriors that ever king did gain. This I have often heard, and
+that I might know it of a truth, therefore am I come. Likewise do I hear
+boasting of your valor, that no bolder king hath ever been seen. This
+the folk relate much through all these lands. Therefore will I not turn
+back, till it be known to me. I also am a warrior and was to wear a
+crown. Fain would I bring it to pass that it may be said of me: Rightly
+doth he rule both folk and land. Of this shall my head and honor be a
+pledge. Now be ye so bold, as hath been told me, I reck not be it
+lief or loth to any man, I will gain from you whatso ye have--land and
+castles shall be subject to my hand." The king had likewise his men had marvel at the tidings they here heard,
+that he was willed to take from them their land. The knights waxed
+wroth, as they heard this word. "How have I earned this," spake Gunther,
+the knight, "that we should lose by the force of any man that which my
+father hath rules so long with honor? We should let it ill appear that
+we, too, are used in knightly ways." "In no wise will I desist," spake again the valiant man. "Unless it be
+that through thy strength thy land have peace, I will rule it all. And
+shouldst thou gain, by thy strength, my ancestral lands, they shall
+be subject to thy sway. Thy lands, and mine as well, shall lie alike;
+whether of us twain can triumph over the other, him shall both land and
+people serve." Hagen and Gernot, too, straightway gainsaid this. "We have no wish,"
+spake Gernot, "that we should conquer aught of lands, or that any man
+lie dead at hero's hands. We have rich lands, which serve us, as is
+meet, nor hath any a better claim to them than we." There stood his kinsmen, grim of mood; among them, too, Ortwin of Metz. "It doth irk me much to hear these words of peace," spake he; "the
+mighty Siegfried hath defied you for no just cause. Had ye and your
+brothers no meet defense, and even if he led a kingly troop, I trow well
+so to fight that the daring man have good cause to leave this haughty
+mien." At this the hero of Netherland grew wonderly wroth. He spake: "Thy hand
+shall not presume against me. I am a mighty king, a king's vassal thou. Twelve of thy ilk durst not match me in strife." Then Ortwin of Metz called loudly for swords. Well was he fit to be
+Hagen of Troneg's sister's son. It rued the king that he had held his
+peace so long. Then Gernot, the bold and lusty knight, came in between. He spake to Ortwin: "Now give over thy anger. Lord Siegfried hath done
+us no such wrong, but that we may still part the strife in courteous
+wise. Be advised of me and hold him still as friend; far better will
+this beseem us." Then spake the doughty Hagen: "It may well grieve us and all thy knights
+that he ever rode for battle to the Rhine. He should have given it over;
+my lordings never would have done such ill to him." To this Siegfried, the mighty man, made answer: "Doth this irk you, Sir
+Hagen, which I spake, then will I let you see that my hands shall have
+dominion here in the Burgundian land." "I alone will hinder this," answered Gernot, and he forbade his knights
+speak aught with haughtiness that might cause rue. Siegfried, too, then
+bethought him of the noble maid. "How might it beseem us to fight with you?" spake Gernot anew. "However
+really heroes should lie dead because of this, we should have scant
+honor therefrom and ye but little gain." To this Siegfried, the son of Siegmund, made reply: "Why waiteth Hagen,
+and Ortwin, too, that he hasteth not to fight with his kin, of whom he
+hath so many here in Burgundy?" At this all held their peace; such was Gernot's counsel. Then spake
+Queen Uta's son: "Ye shall be welcome to us with all your war-mates, who
+are come with you. We shall gladly serve you, I and all my kin." Then for the guests they bade pour out King Gunther's wine. The master
+of the land then spake: "All that we have, if ye desire it in honorable
+wise, shall owe fealty to you; with you shall both life and goods be
+shared." At this Lord Siegfried grew of somewhat gentler mood. Then they bade
+that care be taken of the armor of the guests. The best of hostels that
+men might find were sought for Siegfried's squires; great easement they
+gave them. Thereafter they gladly saw the guest in Burgundy. Many a day
+they offered him great worship, a thousand fold more than I can tell
+you. This his prowess wrought; ye may well believe, full scant a one he
+saw who was his foe. Whenever the lordings and their liegemen did play at knightly games,
+Siegfried was aye the best, whatever they began. Herein could no one
+match him, so mighty was his strength, whether they threw the stone or
+hurled the shaft. When through courtesie the full lusty knights
+made merry with the ladies, there were they glad to see the hero of
+Netherland, for upon high love his heart was bent. He was aye ready for
+whatso they undertook, but in his heart he bare a lovely maid, whom he
+had never seen. She too, who in secret spake full well of him, cherished
+him alone. Whenever the pages, squires, and knights would play their
+games within the court, Kriemhild, the noble queen, watched them from
+the windows, for no other pastime she needed on such days. Had he known
+that she gazed on him thus, whom he bare within his heart, then had he
+had pastime enough, I trow, for well I wot that no greater joy in all
+this world could chance to him. Whenever he stood by the heroes in the court, as men still are wont to
+do, for pastime's sake, so winsome was the posture of Siegelind's son,
+that many a lady loved him for very joy of heart. But he bethought him
+many a day: "How shall that hap, that I with mine own eyes may see the
+noble maid, whom I do love with all my heart and so have done long time. Sadly must I stand, sith she be still a stranger to me." Whenever the mighty kings fared forth into their land, the warriors all
+must needs accompany them at hand, and Siegfried, too. This the lady
+rued, and he, too, suffered many pangs for love of her. Thus he dwelt
+with the lordings, of a truth, full a year in Gunther's land, and in all
+this time he saw not once the lovely maid, from whom in later days there
+happed to him much joy and eke much woe. ENDNOTES:
+   (1)  "Guest" translates here the M.H.G. "gest", a word which may
+        mean either 'guest' or 'stranger,' and it is often
+        difficult, as here, to tell to which meaning the preference
+        should be given. (2)  "Eleven" translates the M.H.G. "selbe zwelfte", which means
+        one of twelve. The accounts are, however, contradictory, as
+        a few lines below mention is made of twelve companions of
+        Siegfried. (3)  "Vair" (O.F. "vair", Lat. "varius"), 'variegated', like the
+        fur of the squirrel. (4)  "Known". It was a mark of the experienced warrior, that he
+        was acquainted with the customs and dress of various
+        countries and with the names and lineage of all important
+        personages. Thus in the "Hildebrandslied" Hildebrand asks
+        Hadubrand to tell him his father's name, and adds: "If thou
+        tellest me the one, I shall know the other." (5)  "Schilbung" and "Nibelung", here spoken of as the sons of a
+        mighty king, were originally dwarfs, and, according to some
+        authorities, the original owners of the treasure. Boer, ix,
+        199, thinks, however, that the name Nibelungs was
+        transferred from Hagen to these dwarfs at a late stage in
+        the formation of the saga. (6)  "Angry of mood". The reason of this anger is apparent from
+        the more detailed account in "Biterolf", 7801. The quarrel
+        arose from the fact that, according to ancient law,
+        Siegfried acquired with the sword the rights of the first
+        born, which the brothers, however, refused to accord to him. (7)  "Balmung". In the older Norse version and in the
+        "Thidreksaga" Siegfried's sword bore the name of Gram. (8)  "Alberich" is a dwarf king who appears in a number of
+        legends, e.g., in the "Ortnit saga" and in "Biterolf". Under the Romance form of his name, "Oberon", he plays an
+        important role in modern literature. (9)  "Cloak of Darkness". This translates the M.H.G. "tarnkappe", a word often retained by translators. It is
+        formed from O.H.G. tarni, 'secret' (cf. O.E. "dyrne"), and
+        "kappe" from late Latin "cappa", 'cloak'. It rendered the
+        wearer invisible and gave him the strength of twelve men. ADVENTURE IV. How He Fought with the Saxons. (1)
+
+Now there came strange tales to Gunther's land, though messengers sent
+them from afar--tales of unknown warriors, who bare them hate. When they
+heard this word, in sooth it pleased them not. These warriors will
+I name to you: there was Liudeger of Saxon land, a great and lordly
+prince, and then from Denmark Lindegast, the king. For their journey
+they had gathered many a lordly stranger. To Gunther's land were come the messengers his foes had sent. Men asked
+the strangers for their tidings and bade them hie them soon to court
+unto King Gunther. The king gave them greeting fair; he spake: "Be
+ye welcome. I have not heard who sent you hither, but let that now be
+told." So spake the right good king. But they feared full sore King
+Gunther's warlike mood. "Will ye, O King, permit that we tell the tales we bring, then we shall
+not hold our tongue, but name to you the lordings who have sent us
+hither: Liudegast and Liudeger; they would march upon this land. Ye
+have earned their wrath, indeed we heard that both lords bear you mortal
+hate. They would harry at Worms upon the Rhine and have the aid of
+many a knight; that may ye know upon our faith. Within twelve weeks the
+journey must befall. And ye have aught of good friends, who will help
+guard your castles and your lands, let this soon be seen. Here shall be
+carved by them many a helm and shield. Or would ye parley with them, let
+messengers be sent. Then the numerous bands of your mighty foes will
+not ride so near you, to give you pain of heart, from which full many a
+lusty knight and a good must die." "Now bide a time," spake the good king, "till I bethink me better; then
+ye shall know my mind. Have I aught of trusty men, I will not withhold
+from them these startling tales, but will make complaint thereof unto my
+friends." To Gunther, the mighty king, it was loth enow, but in his heart he bare
+the speech in secret wise. He bade Hagen be fetched and others of his
+men, and sent eftsoon to court for Gernot. Then came the very best of
+men that could be found. The king spake: "Men would seek us here in this
+our land with mighty armies, now make ye wail for that." To this Gernot, a brave and lusty knight, made answer: "That will we
+fend indeed with swords. Only the fey (2) will fall. So let them die;
+for their sake I will not forget my honor. Let these foes of ours be
+welcome to us." Then spake Hagen of Troneg: "This thinketh me not good. Liudegast and
+Liudeger bear great arrogance; nor can we summon all our men in such
+short time. Why tell ye not Siegfried of the thing?" So spake the
+valiant knight. To the messengers they bade give lodging in the town. Whatever hate they
+bore them, yet Gunther, the mighty, bade purvey them well, as was but
+right, till he discovered of his friends who there was who would lend
+him aid. Yet in his fears the king was ill at ease. Just then full
+blithe a knight, who wot not what had happed, saw him thus sad and
+prayed King Gunther to tell him of the matter. "Much it wondereth me,"
+spake Siegfried, for he it was, "that ye thus have changed your merry
+wont, which ye have used thus far with us." To this Gunther, the stately knight, replied: "It liketh me not to tell
+all folk the grievance which I must bear within my heart in secret wise. Only to trusty friends should one confide his woe of heart." At this Siegfried's color waxed both pale and red. To the king he spake:
+"I have denied you naught and will gladly help you turn aside your
+woes. And ye seek friends, I will be one of them and trow well to deport
+myself with honor until mine end." "Now God reward you, Sir Siegfried, your speech thinketh me good, and
+though your prowess help me not, yet do I rejoice to hear that ye are
+friend to me, and live I yet a while, I shall repay you well. I will
+let you hear why I stand thus sad; from the messengers of my foes I
+have heard that they would visit me with war, a thing which knights have
+never done to us in all these lands." "Regard this lightly," spake then Siegfried, "and calm your mood. Do
+as I pray you. Let me gain for you both worship and advantage and do ye
+command your knights, that they gather to your aid. Should your mighty
+foes be helped by thirty thousand (3) men, yet could I withstand them,
+had I but a thousand; for that rely on me." Then spake King Gunther: "For this I'll serve you ever." "So bid me call a thousand of your men, since of mine own I have
+but twelve, and I will guard your land. Faithfully shall the hand of
+Siegfried serve you. Hagen shall help us and also Ortwin, Dankwart,
+and Sindolt, your trusty men. Folker, the valiant man, shall also ride
+along; he shall bear the banner, for to none would I liefer grant it. Let now the envoys ride home to their masters' lands. Give them to
+understand they soon shall see us, that our castles may rest in peace." Then the king bade summon both his kinsmen and his men. The messengers
+of Liudeger betook them to the court. Fain they were that they should
+journey home again. Gunther, the good king, made offrance of rich gifts
+and gave them safe-convoy. At this their spirits mounted high. "Now say
+unto my foes," spake then Gunther, "that they may well give over their
+journey and stay at home; but if they will seek me here within my lands,
+hardships shall they know, and my friends play me not false." Rich gifts men bare then for the envoys; enow of these had Gunther to
+bestow, nor durst the men of Liudeger refuse them. When at last they
+took their leave, they parted hence in merry mood. Now when the messengers were come to Denmark and King Liudegast had
+heard how they parted from the Rhine, as was told him, much he rued, in
+sooth, their (4) proud defiance. The envoys said that Gunther had full
+many a valiant man-at-arms and among them they saw a warrior stand,
+whose name was Siegfried, a hero from Netherland. Little liked it
+Liudegast when he heard aright this tale. When the men of Denmark
+had heard these tidings told, they hasted all the more to call their
+friends; till Sir Liudegast had gathered for his journey full twenty
+thousand knights from among his valiant men. Then King Liudeger, also,
+of Saxon land, sent forth his summons, till they had forty thousand men
+and more, with whom they thought to ride to the Burgundian land. Likewise at home King Gunther got him men-at-arms among his kin and the
+liegemen of his brothers, and among Hagen's men whom they wished to lead
+thence for battle. Much need of this the heroes had, but warriors soon
+must suffer death from this. Thus they made them ready for the journey. When they would hence, Folker, the daring, must bear the flag. In such
+wise they thought to ride from Worms across the Rhine. Hagen of Troneg
+was master of the troop; with them rode Sindolt and Hunolt, too, who
+wist well how to merit Gunther's gold. Dankwart, Hagen's brother, and
+Ortwin, too, well could they serve with honor in this war. "Sir King," spake then Siegfried, "stay ye at home; since that your
+warriors are willed to follow me, remain ye with the ladies and keep
+your spirits high. I trow well to guard for you both honor and estate. Well will I bring it to pass that those who thought to seek you out at
+Worms upon the Rhine, had better far have stayed at home. We shall ride
+so nigh unto their land that their proud defiance shall be turned to
+fear." From the Rhine they rode through Hesse with their warriors towards Saxon
+land, where they later fought. With fire and pillage, too, they harried
+all the countryside, so that the two kings did learn of it in dire
+distress. Then came they to the border; the warriors marched along. Siegfried, the strong, gan ask: "Who shall now guard here the troop?" Forsooth never did men ride more scathfully to the Saxons. They spake:
+"Let the valiant Dankwart guard the young upon the way, he is a doughty
+knight. Thus shall we lose the less through Liudeger's men. Let him and
+Ortwin guard the rear." "Then I myself will ride," spake Siegfried, the knight, "and play the
+outlook toward the foe, until I discover aright where these warriors
+be." Quickly the son of fair Siegelind donned his harness. The troop
+he gave in charge to Hagen, when he would depart, and to Gernot, the
+valiant man. Thus he rode hence into the Saxon land alone and many a
+helmet band he cut to pieces on that day. Soon he spied the mighty host
+that lay encamped upon the plain and far outweighed the forces of his
+men. Forty thousand or better still there were. Full blithely Siegfried
+saw this in lofty mood. Meantime a warrior full well arrayed had mounted
+to the outlook 'gainst the foe. Him Sir Siegfried spied, and the bold
+man saw him, too. Each began to watch the other in hostile wise. Who it
+was, who stood on guard, I'll tell you now; a gleaming shield of gold
+lay by his hand. It was the good King Liudegast, who was guarding here
+his band. The noble stranger pricked along in lordly wise. Now had Sir Liudegast espied him with hostile eye. Into the flanks of
+their horses they plunged the spurs; with all their might they couched
+the spears against the shields. At this great fear befell the mighty
+king. After the thrust the horses carried past each other the royal
+knights, as though borne upon the wind. With the bridles they wheeled
+in knightly wise and the two fierce champions encountered with their
+swords. Then smote Sir Siegfried, so that the whole field did ring. Through the hero's hand from out the helmets, as from firebrands, flew
+the bright red sparks. Each in the other found his match. Sir Liudegast,
+too, struck many a savage blow; the might of each broke full upon the
+shields. Thirty of Liudegast's men stood there on guard, but ere they
+could come to his aid, Siegfried had won the fight, with three groat
+wounds which he dealt the king through his gleaming breastplate, the
+which was passing good. The blood from the wounds gushed forth along
+the edges of the sword, whereat King Liudegast stood in sorry mood. He
+begged for life and made offrance of his lands and said that his name
+was Liudegast. Then came his warrior's, who had witnessed what there had
+happed upon the lookout. As Siegfried would lead his captive thence, he
+was set upon by thirty of these men. With mighty blows the hero's hand
+guarded his noble prize. The stately knight then wrought worse scathe. In self-defense he did thirty unto death; only one he left alive,
+who rode full fast to tell the tale of what here had chanced. By his
+reddened helmet one might see the truth. It sorely grieved the men of
+Denmark, when the tale was told them that their king was taken captive. Men told it to his brother, who at the news began to rage with monstrous
+wrath, for great woe it brought him. Liudegast, the warrior, then was led away by Siegfried's might to
+Gunther's men and given to Hagen in charge. When that they heard it was
+the king, full moderate was their dole. The Burgundians now were bidden
+raise their banner. "Up, men," cried Siegfried, "here shall more be
+done, ere the day end, and I lose not my life. Full many a stately dame
+in Saxon land shall rue this fight. Ye heroes from the Rhine, give heed
+to me, for I can guide you well to Liudeger's band. So shall ye see
+helmets carved by the hands of goodly knights; ere we turn again, they
+shall become acquaint with fear." To their horses Gernot and all his men now hasted, and soon the stalwart
+minstrel, Sir Folker, grasped the battle-flag and rode before the band. Then were all the comrades arrayed in lordly wise for strife; nor
+had they more than a thousand men, and thereto Siegfried's twelve
+men-at-arms. Now from the road gan rise the dust, as across the land
+they rode; many a lordly shield was seen to gleam from out their midst. There, too, were come the Saxons with their troops and well-sharpened
+swords, as I since have heard. Sore cut these weapons in the heroes'
+hands, for they would fain guard both their castles and their land
+against the strangers. The lordings' marshals led on the troop. Siegfried, too, was come with his men-at-arms, whom he had brought from
+Netherland. In the storm of battle many a hand this day grew red with
+blood. Sindolt and Hunolt and Gernot, too, slew many a knight in the
+strife, ere these rightly knew the boldness of their foes. This many a
+stately dame must needs bewail. Folker and Hagen and Ortwin, too,
+dimmed in the battle the gleam of many a helm with flowing blood, these
+storm-bold men. By Dankwart, too, great deeds were done. The men of Denmark proved well their hands; one heard many a shield
+resounding from the hurtling and from the sharp swords as well, many of
+which were wielded there. The battle-bold Saxons did scathe enow, but
+when the men of Burgundy pressed to the fight, by them was really a wide
+wound carved. Then down across the saddles the blood was seen to flow. Thus they fought for honors, these knights both bold and good. Loud rang
+the sharp weapons in the heroes' hands, as those of Netherland followed
+their lording through the sturdy host. Valiantly they forced their way
+in Siegfried's wake, but not a knight from the Rhine was seen to follow. 

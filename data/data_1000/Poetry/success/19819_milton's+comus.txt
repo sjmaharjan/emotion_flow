@@ -1,0 +1,1773 @@
+
+
+
+
+Produced by Curtis Weyant, Louise Pryor and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by Case Western Reserve University Preservation Department
+Digital Library)
+
+
+
+
+
+
+
+
+
+{Transcriber's notes:
+    ~Bold~ text is surrounded by tildes ~, _italic_ text by underscores _. +Greek+ text is transliterated and surrounded by plus signs +. oe ligatures have been unpacked. Letters with overscores are represented as {=a}, {=e}, {=o}. The use of  e and e to indicate stresses is inconsistent, as is
+    the use of ae ligatures. No changes have been made to the original.
+} MILTON'S COMUS
+
+  WITH
+  INTRODUCTION AND NOTES
+
+  BY
+  WILLIAM BELL, M.A. PROFESSOR OF PHILOSOPHY AND LOGIC, GOVERNMENT COLLEGE, LAHORE
+
+
+
+
+  London
+  MACMILLAN AND CO
+  AND NEW YORK
+  1891
+
+  [_All rights reserved_]
+
+
+
+
+  First Edition, 1890. Reprinted, 1891. CONTENTS. PAGE
+  INTRODUCTION,                               vii
+  COMUS,                                        7
+  NOTES,                                       38
+  INDEX TO THE NOTES,                         113
+
+
+
+
+INTRODUCTION. Few poems have been more variously designated than _Comus_. Milton
+himself describes it simply as "A Mask"; by others it has been
+criticised and estimated as a lyrical drama, a drama in the epic style,
+a lyric poem in the _form_ of a play, a phantasy, an allegory, a
+philosophical poem, a suite of speeches or majestic soliloquies, and
+even a didactic poem. Such variety in the description of the poem is
+explained partly by its complex charm and many-sided interest, and
+partly by the desire to describe it from that point of view which should
+best reconcile its literary form with what we know of the genius and
+powers of its author. Those who, like Dr. Johnson, have blamed it as a
+drama, have admired it "as a series of lines," or as a lyric; one
+writer, who has found that its characters are nothing, its sentiments
+tedious, its story uninteresting, has nevertheless "doubted whether
+there will ever be any similar poem which gives so true a conception of
+the capacity and the dignity of the mind by which it was produced"
+(Bagehot's _Literary Studies_). Some who have praised it as an allegory
+see in it a satire on the evils both of the Church and of the State,
+while others regard it as alluding to the vices of the Court alone. Some
+have found its lyrical parts the best, while others, charmed with its
+"divine philosophy," have commended those deep conceits which place it
+alongside of the _Faerie Queen_, as shadowing forth an episode in the
+education of a noble soul and as a poet's lesson against intemperance
+and impurity. But no one can refuse to admit that, more than any other
+of Milton's shorter poems, it gives us an insight into the peculiar
+genius and character of its author: it was, in the opinion of Hallam,
+"sufficient to convince any one of taste and feeling that a great poet
+had arisen in England, and one partly formed in a different school from
+his contemporaries." It is true that in the early poems we do not find
+the whole of Milton, for he had yet to pass through many years of
+trouble and controversy; but _Comus_, in a special degree, reveals or
+foreshadows much of the Milton of _Paradise Lost_. Whether we regard its
+place in Milton's life, in the series of his works, or in English
+literature as a whole, the poem is full of significance: it is worth
+while, therefore, to consider how its form was determined by the
+external circumstances and previous training of the poet; by his
+favourite studies in poetry, philosophy, history, and music; and by his
+noble theory of life in general, and of a poet's life in particular. The mask was represented at Ludlow Castle on September 29th, 1634; it
+was probably composed early in that year. It belongs, therefore, to that
+group of poems (_L'Allegro_, _Il Penseroso_, _Arcades_, _Comus_, and
+_Lycidas_) written by Milton while living in his father's house at
+Horton, near Windsor, after having left the University of Cambridge in
+July, 1632. As he was born in 1608, he would be twenty-five years of age
+when this poem was composed. During his stay at Horton (1632-39), which
+was broken only by a journey to Italy in 1638-9, he was chiefly occupied
+with the study of the Greek, Roman, Italian, and English literatures,
+each of which has left its impress on _Comus_. He read widely and
+carefully, and it has been said that his great and original imagination
+was almost entirely nourished, or at least stimulated, by books: his
+residence at Horton was, accordingly, pre-eminently what he intended it
+to be, and what his father wisely and gladly permitted it to be--a time
+of preparation and ripening for the work to which he had dedicated
+himself. We are reminded of his own words in _Comus_:
+
+                    And Wisdom's self
+    Oft seeks to sweet retired solitude,
+    Where, with her best nurse, Contemplation,
+    She plumes her feathers, and lets grow her wings,
+    That, in the various bustle of resort,
+    Were all to-ruffled, and sometimes impaired. We find in _Comus_ abundant reminiscences of Milton's study of the
+literature of antiquity. "It would not be too much to say that the
+literature of antiquity was to Milton's genius what soil and light are
+to a plant. It nourished, it coloured, it developed it. It determined
+not merely his character as an artist, but it exercised an influence on
+his intellect and temper scarcely less powerful than hereditary
+instincts and contemporary history. It at once animated and chastened
+his imagination; it modified his fancy; it furnished him with his
+models. On it his taste was formed; on it his style was moulded. From it
+his diction and his method derived their peculiarities. It transformed
+what would in all probability have been the mere counterpart of
+Caedmon's Paraphrase or Langland's Vision into Paradise Lost; and what
+would have been the mere counterpart of Corydon's Doleful Knell and the
+satire of the Three Estates, into Lycidas and Comus." (_Quarterly
+Review_, No. 326.) But Milton has also told us that Spenser was his master, and the full
+charm of _Comus_ cannot be realised without reference to the artistic
+and philosophical spirit of the author of the _Faerie Queene_. Both
+poems deal with the war between the body and the soul--between the lower
+and the higher nature. In an essay on 'Spenser as a philosophic poet,'
+De Vere says: "The perils and degradations of an animalised life are
+shown under the allegory of Sir Guyon's sea voyage with its successive
+storms and whirlpools, its 'rock of Reproach' strewn with wrecks and
+dead men's bones, its 'wandering islands,' its 'quicksands of
+Unthriftihead,' its 'whirlepoole of Decay,' its 'sea-monsters,' and
+lastly, its 'bower of Bliss,' and the doom which overtakes it, together
+with the deliverance of Acrasia's victims, transformed by that witch's
+spells into beasts. Still more powerful is the allegory of worldly
+ambition, illustrated under the name of 'the cave of Mammon.' The Legend
+of Holiness delineates with not less insight those enemies which wage
+war upon the spiritual life." All this Milton had studied in the _Faerie
+Queene_, and had understood it; and, like Sir Guyon, he felt himself to
+be a knight enrolled under the banner of Parity and Self-Control. So
+that, in _Comus_, we find the sovereign value of Temperance or
+Self-Regulation--what the Greeks called +sophrosyne+--set forth
+no less clearly than in Spenser's poem: in Milton's mask it becomes
+almost identical with Virtue itself. The enchantments of Acrasia in her
+Bower of Bliss become the spells of Comus; the armour of Belphoebe
+becomes the "complete steel" of Chastity; while the supremacy of
+Conscience, the bounty of Nature and man's ingratitude, the unloveliness
+of Mammon and of Excess, the blossom of Courtesy oft found on lowly
+stalk, and the final triumph of Virtue through striving and temptation,
+all are dwelt upon. It is the mind that maketh good or ill,
+    That maketh wretch or happie, rich or poore:
+
+so speaks Spenser; and Milton similarly--
+
+    He that has light within his own clear breast
+    May sit i' the centre, and enjoy bright day:
+    But he that hides a dark soul and foul thoughts
+    Benighted walks under the mid-day sun;
+    Himself is his own dungeon. In endeavouring still further to trace, by means of verbal or structural
+resemblances, the sources from which Milton drew his materials for
+_Comus_, critics have referred to Peele's _Old Wives' Tale_ (1595); to
+Fletcher's pastoral, _The Faithful Shepherdess_, of which Charles Lamb
+has said that if all its parts 'had been in unison with its many
+innocent scenes and sweet lyric intermixtures, it had been a poem fit to
+vie with _Comus_ or the _Arcadia_, to have been put into the hands of
+boys and virgins, to have made matter for young dreams, like the loves
+of Hermia and Lysander'; to Ben Jonson's mask of _Pleasure reconciled to
+Virtue_ (1619), in which Comus is "the god of cheer, or the Belly"; and
+to the _Comus_ of Erycius Puteanus (Henri du Puy), Professor of
+Eloquence at Louvain. It is true that Fletcher's pastoral was being
+acted in London about the time Milton was writing his _Comus_, that the
+poem by the Dutch Professor was republished at Oxford in 1634, and that
+resemblances are evident between Milton's poem and those named. But
+Professor Masson does well in warning us that "infinitely too much has
+been made of such coincidences. After all of them, even the most ideal
+and poetical, the feeling in reading _Comus_ is that all here is
+different, all peculiar." Whatever Milton borrowed, he borrowed, as he
+says himself, in order to better it. It is interesting to consider the mutual relations of the poems written
+by Milton at Horton. Everything that Milton wrote is Miltonic; he had
+what has been called the power of transforming everything into himself,
+and these poems are, accordingly, evidences of the development of
+Milton's opinions and of his secret purpose. It has been said that
+_L'Allegro_ and _Il Penseroso_ are to be regarded as "the pleadings, the
+decision on which is in Comus"--_L'Allegro_ representing the Cavalier,
+and _Il Penseroso_ the Puritan element. This is true only in a limited
+sense. It is true that the Puritan element in the Horton series of poems
+becomes more patent as we pass from the two lyrics to the mask of
+_Comus_, and from _Comus_ to the elegy of _Lycidas_, just as, in the
+corresponding periods of time, the evils connected with the reign of
+Charles I. and with Laud's crusade against Puritanism were becoming more
+pronounced. But we can hardly regard Milton as having expressed any new
+decision in _Comus_: the decision is already made when "vain deluding
+Joys" are banished in _Il Penseroso_, and "loathed Melancholy" in
+_L'Allegro_. The mask is an expansion and exaltation of the delights of
+the contemplative man, but there is still a place for the "unreproved
+pleasures" of the cheerful man. Unless it were so, _Comus_ could not
+have been written; there would have been no "sunshine holiday" for the
+rustics and no "victorious dance" for the gentle lady and her brothers. But in _Comus_ we realise the mutual relation of _L'Allegro_ and _Il
+Penseroso_; we see their application to the joys and sorrows of the
+actual life of individuals; we observe human nature in contact with the
+"hard assays" of life. And, subsequently, in _Lycidas_ we are made to
+realise that this human nature is Milton's own, and to understand how it
+was that his Puritanism which, three years before, had permitted him to
+write a cavalier mask, should, three years after, lead him from the
+fresh fields of poetry into the barren plains of controversial prose. The Mask was a favourite form of entertainment in England in Milton's
+youth, and had been so from the time of Henry VIII., in whose reign
+elaborate masked shows, introduced from Italy, first became popular. But
+they seem to have found their way into England, in a crude form, even
+earlier; and we read of court disguisings in the reign of Edward III. It
+is usually said that the Mask derives its name from the fact that the
+actors wore masks, and in Hall's Chronicle we read that, in 1512, "on
+the day of Epiphany at night, the king, with eleven others, was
+disguised after the manner of Italy, called a Mask, a thing not seen
+before in England; they were appareled in garments long and broad,
+wrought all with gold, with _visors_ and caps of gold." The truth,
+however, seems to be that the use of a visor was not essential in such
+entertainments, which, from the first, were called 'masks,' the word
+'masker' being used sometimes of the players, and sometimes of their
+disguises. The word has come to us, through the French form _masque_,
+cognate with Spanish _mascarada_, a masquerade or assembly of maskers,
+otherwise called a mummery. Up to the time of Henry VIII. these
+entertainments were of the nature of dumb-show or _tableaux vivants_,
+and delighted the spectators chiefly by the splendour of the costumes
+and machinery employed in their representation; but, afterwards, the
+chief actors spoke their parts, singing and dancing were introduced, and
+the composition of masks for royal and other courtly patrons became an
+occupation worthy of a poet. They were frequently combined with other
+forms of amusement, all of which were, in the case of the Court, placed
+under the management of a Master of Revels, whose official title was
+Magister Jocorum, Revellorum et _Mascorum_; in the first printed English
+tragedy, _Gorboduc_ (1565), each act opens with what is called a
+dumb-show or mask. But the more elaborate form of the Mask soon grew to
+be an entertainment complete in itself, and the demand for such became
+so great in the time of James I. and Charles I. that the history of
+these reigns might almost be traced in the succession of masks then
+written. Ben Jonson, who thoroughly established the Mask in English
+literature, wrote many Court Masks, and made them a vehicle less for the
+display of 'painting and carpentry' than for the expression of the
+intellectual and social life of his time. His masks are excelled only
+by _Comus_, and possess in a high degree that 'Doric delicacy' in their
+songs and odes which Sir Henry Wotton found so ravishing in Milton's
+mask. Jonson, in his lifetime, declared that, next himself, only
+Fletcher and Chapman could write a mask; and apart from the compositions
+of these writers and of William Browne (_Inner Temple Masque_), there
+are few specimens worthy to be named along with Jonson's until we come
+to Milton's _Arcades_. Other mask-writers were Middleton, Dekker,
+Shirley, Carew, and Davenant; and it is interesting to note that in
+Carew's _Coelum Brittanicum_ (1633-4), for which Lawes composed the
+music, the two boys who afterwards acted in _Comus_ had juvenile parts. It has been pointed out that the popularity of the Mask in Milton's
+youth received a stimulus from the Puritan hatred of the theatre which
+found expression at that time, and drove non-Puritans to welcome the
+Mask as a protest against that spirit which saw nothing but evil in
+every form of dramatic entertainment. Milton, who enjoyed the
+theatre--both "Jonson's learned sock" and what "ennobled hath the
+buskined stage"--was led, through his friendship with the musician
+Lawes, to compose a mask to celebrate the entry of the Earl of
+Bridgewater upon his office of "Lord President of the Council in the
+Principality of Wales and the Marches of the same." He had already
+written, also at the request of Lawes, a mask, or portion of a mask,
+called _Arcades_, and the success of this may have stimulated him to
+higher effort. The result was _Comus_, in which the Mask reached its
+highest level, and after which it practically faded out of our
+literature. Milton's two masks, _Arcades_ and _Comus_, were written for members of
+the same noble family, the former in honour of the Countess Dowager of
+Derby, and the latter in honour of John, first Earl of Bridgewater, who
+was both her stepson and son-in-law. This two-fold relation arose from
+the fact that the Earl was the son of Viscount Brackley, the Countess's
+second husband, and had himself married Lady Frances Stanley, a daughter
+of the Countess by her first husband, the fifth Earl of Derby. Amongst
+the children of the Earl of Bridgewater were three who took important
+parts in the representation of _Comus_--Alice, the youngest daughter,
+then about fourteen years of age, who appeared as _The Lady_; John,
+Viscount Brackley, who took the part of the _Elder Brother_, and Thomas
+Egerton, who appeared as the _Second Brother_. We do not know who acted
+the parts of _Comus_ and _Sabrina_, but the part of the _Attendant
+Spirit_ was taken by Henry Lawes, "gentleman of the Chapel Royal, and
+one of His Majesty's private musicians." The Earl's children were his
+pupils, and the mask was naturally produced under his direction. Milton's friendship with Lawes is shown by the sonnet which the poet
+addressed to the musician:
+
+    Harry, whose tuneful and well measur'd song
+      First taught our English music how to span
+      Words with just note and accent, not to scan
+      With Midas' ears, committing short and long;
+    Thy worth and skill exempts thee from the throng,
+      With praise enough for Envy to look wan;
+      To after age thou shalt be writ the man,
+    That with smooth air could'st humour best our tongue. Thou honour'st Verse, and Verse must lend her wing
+      To honour thee, the priest of Phoebus' quire,
+      That tun'st their happiest lines in hymn, or story. Dante shall give Fame leave to set thee higher
+      Than his Casella, who he woo'd to sing,
+      Met in the milder shades of Purgatory. We must remember also that it was to Lawes that Milton's _Comus_ owed
+its first publication, and, as we see from the dedication prefixed to
+the text, that he was justly proud of his share in its first
+representation. Such were the persons who appeared in Milton's mask; they are few in
+number, and the plan of the piece is correspondingly simple. There are
+three scenes which may be briefly characterised thus:
+
+    I. The Tempter and the Tempted: lines 1-658. _Scene_: A wild wood. II. The Temptation and the Rescue: lines 659-958. _Scene_: The Palace of Comus. III. The Triumph: lines 959-1023. _Scene_: The President's Castle. In the first scene, after a kind of prologue (lines 1-92), the interest
+rises as we are introduced first to Comus and his rout, then to the Lady
+alone and "night-foundered," and finally to Comus and the Lady in
+company. At the same time the nature of the Lady's trial and her
+subsequent victory are foreshadowed in a conversation between the
+brothers and the attendant Spirit. This is one of the more Miltonic
+parts of the mask: in the philosophical reasoning of the elder brother,
+as opposed to the matter-of-fact arguments of the younger, we trace the
+young poet fresh from the study of the divine volume of Plato, and
+filled with a noble trust in God. In the second scene we breathe the
+unhallowed air of the abode of the wily tempter, who endeavours, "under
+fair pretence of friendly ends," to wind himself into the pure heart of
+the Lady. But his "gay rhetoric" is futile against the "sun-clad power
+of chastity"; and he is driven off the scene by the two brothers, who
+are led and instructed by the Spirit disguised as the shepherd Thyrsis. But the Lady, having been lured into the haunt of impurity, is left
+spell-bound, and appeal is made to the pure nymph Sabrina, who is "swift
+to aid a virgin, such as was herself, in hard-besetting need." It is in
+the contention between Comus and the Lady in this scene that the
+interest of the mask may be said to culminate, for here its purpose
+stands revealed: "it is a song to Temperance as the ground of Freedom,
+to temperance as the guard of all the virtues, to beauty as secured by
+temperance, and its central point and climax is in the pleading of these
+motives by the Lady against their opposites in the mouth of the Lord of
+sensual Revel." _Milton: Classical Writers_. In the third scene the Lady
+Alice and her brothers are presented by the Spirit to their noble father
+and mother as triumphing "in victorious dance o'er sensual folly and
+intemperance." The Spirit then speaks the epilogue, calling upon mortals
+who love true freedom to strive after virtue:
+
+    Love Virtue; she alone is free. She can teach ye how to climb
+    Higher than the sphery chime;
+    Or, if Virtue feeble were,
+    Heaven itself would stoop to her. The last couplet Milton afterwards, on his Italian journey, entered in
+an album belonging to an Italian named Cerdogni, and underneath it the
+words, _Coelum non animum muto dum trans mare curro_, and his
+signature, Joannes Miltonius, Anglus. The juxtaposition of these verses
+is significant: though he had left his own land Milton had not become
+what, fifty or sixty years before, Roger Ascham had condemned as an
+"Italianated Englishman." He was one of those "worthy Gentlemen of
+England, whom all the Siren tongues of Italy could never untwine from
+the mast of God's word; nor no enchantment of vanity overturn them from
+the fear of God and love of honesty" (Ascham's _Scholemaster_). And one
+might almost infer that Milton, in his account of the sovereign plant
+Haemony which was to foil the wiles of _Comus_, had remembered not only
+Homer's description of the root Moly "that Hermes once to wise Ulysses
+gave,"{16:A} but also Ascham's remarks thereupon: "The true medicine
+against the enchantments of Circe, the vanity of licentious pleasure,
+the enticements of all sin, is, in Homer, the herb Moly, with the black
+root and white flower, sour at first, but sweet in the end; which Hesiod
+termeth the study of Virtue, hard and irksome in the beginning, but in
+the end easy and pleasant. And that which is most to be marvelled at,
+the divine poet Homer saith plainly that this medicine against sin and
+vanity is not found out by man, but given and taught by God." Milton's
+_Comus_, like his last great poems, is a poetical expression of the same
+belief. "His poetical works, the outcome of his inner life, his life of
+artistic contemplation, are," in the words of Prof. Dowden, "various
+renderings of one dominant idea--that the struggle for mastery between
+good and evil is the prime fact of life; and that a final victory of the
+righteous cause is assured by the existence of a divine order of the
+universe, which Milton knew by the name of 'Providence.'" FOOTNOTES:
+
+{16:A} It is noteworthy that Lamb, whose allusiveness is remarkable,
+employs in his account of the plant Moly almost the exact words of
+Milton's description of Haemony; compare the following extract from _The
+Adventures of Ulysses_ with lines 629-640 of _Comus_: "The flower of the
+herb Moly, which is sovereign against enchantments: the moly is a small
+unsightly root, its virtues but little known, and in low estimation; the
+dull shepherd treads on it every day with his clouted shoes, but it bears
+a small white flower, which is medicinal against charms, blights,
+mildews, and damps." COMUS. A MASK
+
+  PRESENTED AT LUDLOW CASTLE, 1634. BEFORE
+
+  JOHN, EARL OF BRIDGEWATER,
+
+  THEN PRESIDENT OF WALES. _The Copy of a Letter written by Sir Henry Wotton to the Author upon the
+following Poem._
+
+
+From the College, this 13 of April, 1638. SIR,
+
+It was a special favour, when you lately bestowed upon me here the first
+taste of your acquaintance, though no longer than to make me know that I
+wanted more time to value it, and to enjoy it rightly; and, in truth, if
+I could then have imagined your farther stay in these parts, which I
+understood afterwards by Mr. H., I would have been bold, in our vulgar
+phrase, to mend my draught (for you left me with an extreme thirst), and
+to have begged your conversation again, jointly with your said learned
+friend, at a poor meal or two, that we might have banded together some
+good authors of the antient time; among which I observed you to have
+been familiar. Since your going, you have charged me with new obligations, both for a
+very kind letter from you dated the sixth of this month, and for a
+dainty piece of entertainment which came therewith. Wherein I should
+much commend the tragical part, if the lyrical did not ravish me with a
+certain Doric delicacy in your songs and odes, whereunto I must plainly
+confess to have seen yet nothing parallel in our language: _Ipsa
+mollities_. {19:A} But I must not omit to tell you, that I now only owe
+you thanks for intimating unto me (how modestly soever) the true
+artificer. For the work itself I had viewed some good while before, with
+singular delight, having received it from our common friend Mr. R. in
+the very close of the late R.'s poems, printed at Oxford; whereunto it
+is added (as I now suppose) that the accessory might help out the
+principal, according to the art of stationers, and to leave the reader
+_con la bocca dolce_. {20:A}
+
+Now, Sir, concerning your travels, wherein I may challenge a little more
+privilege of discourse with you; I suppose you will not blanch{20:B}
+Paris in your way; therefore I have been bold to trouble you with a few
+lines to Mr. M. B., whom you shall easily find attending the young Lord
+S. as his governor, and you may surely receive from him good directions
+for shaping of your farther journey into Italy, where he did reside by
+my choice some time for the king, after mine own recess from Venice. I should think that your best line will be through the whole length of
+France to Marseilles, and thence by sea to Genoa, whence the passage
+into Tuscany is as diurnal as a Gravesend barge. I hasten, as you do, to
+Florence, or Siena, the rather to tell you a short story, from the
+interest you have given me in your safety. At Siena I was tabled in the house of one Alberto Scipione, an old Roman
+courtier in dangerous times, having been steward to the Duca di
+Pagliano, who with all his family were strangled, save this only man,
+that escaped by foresight of the tempest. With him I had often much chat
+of those affairs; into which he took pleasure to look back from his
+native harbour; and at my departure toward Rome (which had been the
+centre of his experience) I had won confidence enough to beg his advice,
+how I might carry myself securely there, without offence of others, or
+of mine own conscience. _Signor Arrigo mio_ (says he), _I pensieri
+stretti, ed il viso sciolto_,{21:A} will go safely over the whole world. Of which Delphian oracle (for so I have found it) your judgment doth
+need no commentary; and therefore, Sir, I will commit you with it to the
+best of all securities, God's dear love, remaining
+
+                                         Your friend as much to command
+                                         as any of longer date,
+
+                                         HENRY WOTTON. _Postscript._
+
+Sir,--I have expressly sent this my footboy to prevent your departure
+without some acknowledgment from me of the receipt of your obliging
+letter, having myself through some business, I know not how, neglected
+the ordinary conveyance. In any part where I shall understand you fixed,
+I shall be glad and diligent to entertain you with home-novelties, even
+for some fomentation of our friendship, too soon interrupted in the
+cradle. {21:B}
+
+
+FOOTNOTES:
+
+{19:A} It is delicacy itself. {20:A} With a sweet taste in his mouth (so that he may desire more). {20:B} Avoid. {21:A} "Thoughts close, countenance open." {21:B} This letter was printed in the edition of 1645, but omitted in
+that of 1673. It was written by Sir Henry Wotton, Provost of Eton
+College, just in time to overtake Milton before he set out on his journey
+to Italy. As a parting act of courtesy Milton had sent Sir Henry a letter
+with a copy of Lawes's edition of his _Comus_, and the above letter is an
+acknowledgment of the favour. TO THE RIGHT HONOURABLE{22:A}
+
+JOHN, LORD VISCOUNT BRACKLEY,
+
+_Son and Heir-Apparent to the Earl of Bridgewater, etc._
+
+
+MY LORD,
+
+This Poem, which received its first occasion of birth from yourself and
+others of your noble family, and much honour from your own person in the
+performance, now returns again to make a final Dedication of itself to
+you. Although not openly acknowledged by the Author, yet it is a
+legitimate offspring, so lovely and so much desired that the often
+copying of it hath tired my pen to give my several friends satisfaction,
+and brought me to a necessity of producing it to the public view; and
+now to offer it up, in all rightful devotion, to those fair hopes and
+rare endowments of your much-promising youth, which give a full
+assurance to all that know you, of a future excellence. Live, sweet
+Lord, to be the honour of your name, and receive this as your own, from
+the hands of him who hath by many favours been long obliged to your most
+honoured Parents, and as in this representation your attendant
+_Thyrsis_,{22:B} so now in all real expression,
+
+                                Your faithful and most humble Servant,
+
+                                H. LAWES. FOOTNOTES:
+
+{22:A} Dedication of the anonymous edition of 1637: reprinted in the
+edition of 1645, but omitted in that of 1673. {22:B} See Notes, line 494. THE PERSONS. The ATTENDANT SPIRIT, afterwards in the habit of THYRSIS. COMUS, with his Crew. The LADY. FIRST BROTHER. SECOND BROTHER. SABRINA, the Nymph. The Chief Persons which presented were:--
+      The Lord Brackley;
+      Mr. Thomas Egerton, his Brother;
+      The Lady Alice Egerton. COMUS. _The first Scene discovers a wild wood._
+
+_The ATTENDANT SPIRIT descends or enters._
+
+    Before the starry threshold of Jove's court
+    My mansion is, where those immortal shapes
+    Of bright aerial spirits live insphered
+    In regions mild of calm and serene air,
+    Above the smoke and stir of this dim spot
+    Which men call Earth, and, with low-thoughted care,
+    Confined and pestered in this pinfold here,
+    Strive to keep up a frail and feverish being,
+    Unmindful of the crown that Virtue gives,
+    After this mortal change, to her true servants                    10
+    Amongst the enthroned gods on sainted seats. Yet some there be that by due steps aspire
+    To lay their just hands on that golden key
+    That opes the palace of eternity. To such my errand is; and, but for such,
+    I would not soil these pure ambrosial weeds
+    With the rank vapours of this sin-worn mould. But to my task. Neptune, besides the sway
+    Of every salt flood and each ebbing stream,
+    Took in by lot, 'twixt high and nether Jove,                      20
+    Imperial rule of all the sea-girt isles
+    That, like to rich and various gems, inlay
+    The unadorned bosom of the deep;
+    Which he, to grace his tributary gods,
+    By course commits to several government,
+    And gives them leave to wear their sapphire crowns
+    And wield their little tridents. But this Isle,
+    The greatest and the best of all the main,
+    He quarters to his blue-haired deities;
+    And all this tract that fronts the falling sun                    30
+    A noble Peer of mickle trust and power
+    Has in his charge, with tempered awe to guide
+    An old and haughty nation, proud in arms:
+    Where his fair offspring, nursed in princely lore,
+    Are coming to attend their father's state,
+    And new-intrusted sceptre. But their way
+    Lies through the perplexed paths of this drear wood,
+    The nodding horror of whose shady brows
+    Threats the forlorn and wandering passenger;
+    And here their tender age might suffer peril,                     40
+    But that, by quick command from sovran Jove,
+    I was despatched for their defence and guard:
+    And listen why; for I will tell you now
+    What never yet was heard in tale or song,
+    From old or modern bard, in hall or bower. Bacchus, that first from out the purple grape
+    Crushed the sweet poison of misused wine,
+    After the Tuscan mariners transformed,
+    Coasting the Tyrrhene shore, as the winds listed,
+    On Circe's island fell: (who knows not Circe,                     50
+    The daughter of the Sun, whose charmed cup
+    Whoever tasted lost his upright shape,
+    And downward fell into a grovelling swine?) This Nymph, that gazed upon his clustering locks,
+    With ivy berries wreathed, and his blithe youth,
+    Had by him, ere he parted thence, a son
+    Much like his father, but his mother more,
+    Whom therefore she brought up, and Comus named:
+    Who, ripe and frolic of his full-grown age,
+    Roving the Celtic and Iberian fields,                             60
+    At last betakes him to this ominous wood,
+    And, in thick shelter of black shades imbowered,
+    Excels his mother at her mighty art;
+    Offering to every weary traveller
+    His orient liquor in a crystal glass,
+    To quench the drouth of Phoebus; which as they taste
+    (For most do taste through fond intemperate thirst),
+    Soon as the potion works, their human count'nance,
+    The express resemblance of the gods, is changed
+    Into some brutish form of wolf or bear,                           70
+    Or ounce or tiger, hog, or bearded goat,
+    All other parts remaining as they were. And they, so perfect is their misery,
+    Not once perceive their foul disfigurement,
+    But boast themselves more comely than before,
+    And all their friends and native home forget,
+    To roll with pleasure in a sensual sty. Therefore, when any favoured of high Jove
+    Chances to pass through this adventurous glade,
+    Swift as the sparkle of a glancing star                           80
+    I shoot from heaven, to give him safe convoy,
+    As now I do. But first I must put off
+    These my sky-robes, spun out of Iris' woof,
+    And take the weeds and likeness of a swain
+    That to the service of this house belongs,
+    Who, with his soft pipe and smooth-dittied song,
+    Well knows to still the wild winds when they roar,
+    And hush the waving woods; nor of less faith,
+    And in this office of his mountain watch
+    Likeliest, and nearest to the present aid                         90
+    Of this occasion. But I hear the tread
+    Of hateful steps; I must be viewless now. _COMUS enters, with a charming-rod in one hand, his glass in the other;
+with him a rout of monsters, headed like sundry sorts of wild beasts,
+but otherwise like men and women, their apparel glistering. They come in
+making a riotous and unruly noise, with torches in their hands._
+
+    _Comus._ The star that bids the shepherd fold
+    Now the top of heaven doth hold;
+    And the gilded car of day
+    His glowing axle doth allay
+    In the steep Atlantic stream;
+    And the slope sun his upward beam
+    Shoots against the dusky pole,
+    Pacing toward the other goal                                     100
+    Of his chamber in the east. Meanwhile, welcome joy and feast,
+    Midnight shout and revelry,
+    Tipsy dance and jollity. Braid your locks with rosy twine,
+    Dropping odours, dropping wine. Rigour now is gone to bed;
+    And Advice with scrupulous head,
+    Strict Age, and sour Severity,
+    With their grave saws, in slumber lie. 110
+    We, that are of purer fire,
+    Imitate the starry quire,
+    Who, in their nightly watchful spheres,
+    Lead in swift round the months and years. The sounds and seas, with all their finny drove,
+    Now to the moon in wavering morrice move;
+    And on the tawny sands and shelves
+    Trip the pert fairies and the dapper elves. By dimpled brook and fountain-brim,
+    The wood-nymphs, decked with daisies trim,                       120
+    Their merry wakes and pastimes keep:
+    What hath night to do with sleep? Night hath better sweets to prove;
+    Venus now wakes, and wakens Love. Come, let us our rights begin;
+    'Tis only daylight that makes sin,
+    Which these dun shades will ne'er report. Hail, goddess of nocturnal sport,
+    Dark-veiled Cotytto, to whom the secret flame
+    Of midnight torches burns! mysterious dame,                      130
+    That ne'er art called but when the dragon womb
+    Of Stygian darkness spets her thickest gloom,
+    And makes one blot of all the air! Stay thy cloudy ebon chair,
+    Wherein thou ridest with Hecat', and befriend
+    Us thy vowed priests, till utmost end
+    Of all thy dues be done, and none left out,
+    Ere the blabbing eastern scout,
+    The nice Morn on the Indian steep,
+    From her cabined loop-hole peep,                                 140
+    And to the tell-tale Sun descry
+    Our concealed solemnity. Come, knit hands, and beat the ground
+    In a light fantastic round. [_The Measure._
+      Break off, break off! I feel the different pace
+    Of some chaste footing near about this ground. Run to your shrouds within these brakes and trees;
+    Our number may affright. Some virgin sure
+    (For so I can distinguish by mine art)
+    Benighted in these woods! Now to my charms,                      150
+    And to my wily trains: I shall ere long
+    Be well stocked with as fair a herd as grazed
+    About my mother Circe. Thus I hurl
+    My dazzling spells into the spongy air,
+    Of power to cheat the eye with blear illusion,
+    And give it false presentments, lest the place
+    And my quaint habits breed astonishment,
+    And put the damsel to suspicious flight;
+    Which must not be, for that's against my course. I, under fair pretence of friendly ends,                         160
+    And well-placed words of glozing courtesy,
+    Baited with reasons not unplausible,
+    Wind me into the easy-hearted man,
+    And hug him into snares. When once her eye
+    Hath met the virtue of this magic dust,
+    I shall appear some harmless villager
+    Whom thrift keeps up about his country gear. But here she comes; I fairly step aside,
+    And hearken, if I may, her business here. _The LADY enters._
+
+    _Lady._ This way the noise was, if mine ear be true,
+    My best guide now. Methought it was the sound
+    Of riot and ill-managed merriment,                               172
+    Such as the jocund flute or gamesome pipe
+    Stirs up among the loose unlettered hinds,
+    When, for their teeming flocks and granges full,
+    In wanton dance they praise the bounteous Pan,
+    And thank the gods amiss. I should be loth
+    To meet the rudeness and swilled insolence
+    Of such late wassailers; yet, oh! where else
+    Shall I inform my unacquainted feet                              180
+    In the blind mazes of this tangled wood? My brothers, when they saw me wearied out
+    With this long way, resolving here to lodge
+    Under the spreading favour of these pines,
+    Stepped, as they said, to the next thicket-side
+    To bring me berries, or such cooling fruit
+    As the kind hospitable woods provide. They left me then when the grey-hooded Even,
+    Like a sad votarist in palmer's weed,
+    Rose from the hindmost wheels of Phoebus' wain. 190
+    But where they are, and why they came not back,
+    Is now the labour of my thoughts. 'Tis likeliest
+    They had engaged their wandering steps too far;
+    And envious darkness, ere they could return,
+    Had stole them from me. Else, O thievish Night,
+    Why shouldst thou, but for some felonious end,
+    In thy dark lantern thus close up the stars
+    That Nature hung in heaven, and filled their lamps
+    With everlasting oil to give due light
+    To the misled and lonely traveller? 200
+    This is the place, as well as I may guess,
+    Whence even now the tumult of loud mirth
+    Was rife, and perfect in my listening ear;
+    Yet nought but single darkness do I find. What might this be? A thousand fantasies
+    Begin to throng into my memory,
+    Of calling shapes, and beckoning shadows dire,
+    And airy tongues that syllable men's names
+    On sands and shores and desert wildernesses. These thoughts may startle well, but not astound                 210
+    The virtuous mind, that ever walks attended
+    By a strong siding champion, Conscience. O, welcome, pure-eyed Faith, white-handed Hope,
+    Thou hovering angel girt with golden wings,
+    And thou unblemished form of Chastity! I see ye visibly, and now believe
+    That He, the Supreme Good, to whom all things ill
+    Are but as slavish officers of vengeance,
+    Would send a glistering guardian, if need were,
+    To keep my life and honour unassailed....                        220
+    Was I deceived, or did a sable cloud
+    Turn forth her silver lining on the night? I did not err: there does a sable cloud
+    Turn forth her silver lining on the night,
+    And casts a gleam over this tufted grove. I cannot hallo to my brothers, but
+    Such noise as I can make to be heard farthest
+    I'll venture; for my new-enlivened spirits
+    Prompt me, and they perhaps are not far off. _Song._
+
+    Sweet Echo, sweetest nymph, that liv'st unseen                   230
+          Within thy airy shell
+        By slow Meander's margent green,
+    And in the violet-embroidered vale
+        Where the love-lorn nightingale
+    Nightly to thee her sad song mourneth well:
+    Canst thou not tell me of a gentle pair
+        That likest thy Narcissus are? O, if thou have
+        Hid them in some flowery cave,
+          Tell me but where,                                         240
+      Sweet Queen of Parley, Daughter of the Sphere! So may'st thou be translated to the skies,
+    And give resounding grace to all Heaven's harmonies! _Comus._ Can any mortal mixture of earth's mould
+    Breathe such divine enchanting ravishment? Sure something holy lodges in that breast,
+    And with these raptures moves the vocal air
+    To testify his hidden residence. How sweetly did they float upon the wings
+    Of silence, through the empty-vaulted night,                     250
+    At every fall smoothing the raven down
+    Of darkness till it smiled! I have oft heard
+    My mother Circe with the Sirens three,
+    Amidst the flowery-kirtled Naiades,
+    Culling their potent herbs and baleful drugs,
+    Who, as they sung, would take the prisoned soul,
+    And lap it in Elysium: Scylla wept,
+    And chid her barking waves into attention,
+    And fell Charybdis murmured soft applause. Yet they in pleasing slumber lulled the sense,                   260
+    And in sweet madness robbed it of itself;
+    But such a sacred and home-felt delight,
+    Such sober certainty of waking bliss,
+    I never heard till now. I'll speak to her,
+    And she shall be my queen.--Hail, foreign wonder! Whom certain these rough shades did never breed,
+    Unless the goddess that in rural shrine
+    Dwell'st here with Pan or Sylvan by blest song
+    Forbidding every bleak unkindly fog
+    To touch the prosperous growth of this tall wood. 270
+
+    _Lady._ Nay, gentle shepherd, ill is lost that praise
+    That is addressed to unattending ears. Not any boast of skill, but extreme shift
+    How to regain my severed company,
+    Compelled me to awake the courteous Echo
+    To give me answer from her mossy couch. _Comus._ What chance, good Lady, hath bereft you thus? _Lady._ Dim darkness and this leafy labyrinth. _Comus._ Could that divide you from near-ushering guides? _Lady._ They left me weary on a grassy turf. 280
+
+    _Comus._ By falsehood, or discourtesy, or why? _Lady._ To seek i' the valley some cool friendly spring. _Comus._ And left your fair side all unguarded, lady? _Lady._ They were but twain, and purposed quick return. _Comus._ Perhaps forestalling night prevented them. _Lady._ How easy my misfortune is to hit! _Comus._ Imports their loss, beside the present need? _Lady._ No less than if I should my brothers lose. _Comus._ Were they of manly prime, or youthful bloom? _Lady._ As smooth as Hebe's their unrazored lips. 290
+
+    _Comus._ Two such I saw, what time the laboured ox
+    In his loose traces from the furrow came,
+    And the swinked hedger at his supper sat. I saw them under a green mantling vine,
+    That crawls along the side of yon small hill,
+    Plucking ripe clusters from the tender shoots;
+    Their port was more than human, as they stood
+    I took it for a faery vision
+    Of some gay creatures of the element,
+    That in the colours of the rainbow live,                         300
+    And play i' the plighted clouds. I was awe-strook,
+    And, as I passed, I worshiped. If those you seek,
+    It were a journey like the path to Heaven
+    To help you find them. _Lady._                Gentle villager,
+    What readiest way would bring me to that place? _Comus._ Due west it rises from this shrubby point. _Lady._ To find out that, good shepherd, I suppose,
+    In such a scant allowance of star-light,
+    Would overtask the best land-pilot's art,
+    Without the sure guess of well-practised feet. 310
+
+    _Comus._ I know each lane, and every alley green,
+    Dingle, or bushy dell, of this wild wood,
+    And every bosky bourn from side to side,
+    My daily walks and ancient neighbourhood;
+    And, if your stray attendance be yet lodged,
+    Or shroud within these limits, I shall know
+    Ere morrow wake, or the low-roosted lark
+    From her thatched pallet rouse. If otherwise,
+    I can conduct you, lady, to a low
+    But loyal cottage, where you may be safe                         320
+    Till further quest. _Lady._              Shepherd, I take thy word,
+    And trust thy honest-offered courtesy,
+    Which oft is sooner found in lowly sheds,
+    With smoky rafters, than in tapestry halls
+    And courts of princes, where it first was named,
+    And yet is most pretended. In a place
+    Less warranted than this, or less secure,
+    I cannot be, that I should fear to change it. Eye me, blest Providence, and square my trial
+    To my proportioned strength! Shepherd, lead on. [_Exeunt._
+
+_Enter the TWO BROTHERS._
+
+    _Elder Brother._ Unmuffle, ye faint stars; and thou, fair moon,  331
+    That wont'st to love the traveller's benison,
+    Stoop thy pale visage through an amber cloud,
+    And disinherit Chaos, that reigns here
+    In double night of darkness and of shades;
+    Or, if your influence be quite dammed up
+    With black usurping mists, some gentle taper,
+    Though a rush-candle from the wicker hole
+    Of some clay habitation, visit us
+    With thy long levelled rule of streaming light,                  340
+    And thou shalt be our star of Arcady,
+    Or Tyrian Cynosure. _Second Brother._       Or, if our eyes
+    Be barred that happiness, might we but hear
+    The folded flocks, penned in their wattled cotes,
+    Or sound of pastoral reed with oaten stops,
+    Or whistle from the lodge, or village cock
+    Count the night-watches to his feathery dames,
+    'Twould be some solace yet, some little cheering,
+    In this close dungeon of innumerous boughs. But, Oh, that hapless virgin, our lost sister! 350
+    Where may she wander now, whither betake her
+    From the chill dew, amongst rude burs and thistles? Perhaps some cold bank is her bolster now,
+    Or 'gainst the rugged bark of some broad elm
+    Leans her unpillowed head, fraught with sad fears. What if in wild amazement and affright,
+    Or, while we speak, within the direful grasp
+    Of savage hunger, or of savage heat! _Elder Brother._ Peace, brother: be not over-exquisite
+    To cast the fashion of uncertain evils;                          360
+    For, grant they be so, while they rest unknown,
+    What need a man forestall his date of grief,
+    And run to meet what he would most avoid? Or, if they be but false alarms of fear,
+    How bitter is such self-delusion! I do not think my sister so to seek,
+    Or so unprincipled in virtue's book,
+    And the sweet peace that goodness bosoms ever,
+    As that the single want of light and noise
+    (Not being in danger, as I trust she is not)                     370
+    Could stir the constant mood of her calm thoughts,
+    And put them into misbecoming plight. Virtue could see to do what Virtue would
+    By her own radiant light, though sun and moon
+    Were in the flat sea sunk. And Wisdom's self
+    Oft seeks to sweet retired solitude,
+    Where, with her best nurse, Contemplation,
+    She plumes her feathers, and lets grow her wings,
+    That, in the various bustle of resort,
+    Were all to-ruffled, and sometimes impaired. 380
+    He that has light within his own clear breast
+    May sit i' the centre, and enjoy bright day:
+    But he that hides a dark soul and foul thoughts
+    Benighted walks under the mid-day sun;
+    Himself is his own dungeon. _Second Brother._            'Tis most true
+    That musing meditation most affects
+    The pensive secrecy of desert cell,
+    Far from the cheerful haunt of men and herds,
+    And sits as safe as in a senate-house;
+    For who would rob a hermit of his weeds,                         390
+    His few books, or his beads, or maple dish,
+    Or do his grey hairs any violence? But Beauty, like the fair Hesperian tree
+    Laden with blooming gold, had need the guard
+    Of dragon-watch with unenchanted eye
+    To save her blossoms, and defend her fruit,
+    From the rash hand of bold Incontinence. You may as well spread out the unsunned heaps
+    Of miser's treasure by an outlaw's den,
+    And tell me it is safe, as bid me hope                           400
+    Danger will wink on Opportunity,
+    And let a single helpless maiden pass
+    Uninjured in this wild surrounding waste. Of night or loneliness it recks me not;
+    I fear the dread events that dog them both,
+    Lest some ill-greeting touch attempt the person
+    Of our unowned sister. _Elder Brother._           I do not, brother,
+    Infer as if I thought my sister's state
+    Secure without all doubt or controversy;
+    Yet, where an equal poise of hope and fear                       410
+    Does arbitrate the event, my nature is
+    That I incline to hope rather than fear,
+    And gladly banish squint suspicion. My sister is not so defenceless left
+    As you imagine; she has a hidden strength,
+    Which you remember not. _Second Brother._        What hidden strength,
+    Unless the strength of Heaven, if you mean that? _Elder Brother._ I mean that too, but yet a hidden strength,
+    Which, if Heaven gave it, may be termed her own. 'Tis chastity, my brother, chastity:                             420
+    She that has that is clad in complete steel,
+    And, like a quivered nymph with arrows keen,
+    May trace huge forests, and unharboured heaths,
+    Infamous hills, and sandy perilous wilds;
+    Where, through the sacred rays of chastity,
+    No savage fierce, bandite, or mountaineer,
+    Will dare to soil her virgin purity. Yea, there where very desolation dwells,
+    By grots and caverns shagged with horrid shades,
+    She may pass on with unblenched majesty,                         430
+    Be it not done in pride, or in presumption. Some say no evil thing that walks by night,
+    In fog or fire, by lake or moorish fen,
+    Blue meagre hag, or stubborn unlaid ghost,
+    That breaks his magic chains at curfew time,
+    No goblin or swart faery of the mine,
+    Hath hurtful power o'er true virginity. Do ye believe me yet, or shall I call
+    Antiquity from the old schools of Greece
+    To testify the arms of chastity? 440
+    Hence had the huntress Dian her dread bow
+    Fair silver-shafted queen for ever chaste,
+    Wherewith she tamed the brinded lioness
+    And spotted mountain-pard, but set at nought
+    The frivolous bolt of Cupid; gods and men
+    Feared her stern frown, and she was queen o' the woods. What was that snaky-headed Gorgon shield
+    That wise Minerva wore, unconquered virgin,
+    Wherewith she freezed her foes to congealed stone,
+    But rigid looks of chaste austerity,                             450
+    And noble grace that dashed brute violence
+    With sudden adoration and blank awe? So dear to Heaven is saintly chastity
+    That, when a soul is found sincerely so,
+    A thousand liveried angels lackey her,
+    Driving far off each thing of sin and guilt,
+    And in clear dream and solemn vision
+    Tell her of things that no gross ear can hear;
+    Till oft converse with heavenly habitants
+    Begin to cast a beam on the outward shape,                       460
+    The unpolluted temple of the mind,
+    And turns it by degrees to the soul's essence,
+    Till all be made immortal. But, when lust,
+    By unchaste looks, loose gestures, and foul talk,
+    But most by lewd and lavish act of sin,
+    Lets in defilement to the inward parts,
+    The soul grows clotted by contagion,
+    Imbodies, and imbrutes, till she quite loose
+    The divine property of her first being. Such are those thick and gloomy shadows damp                     470
+    Oft seen in charnel-vaults and sepulchres,
+    Lingering and sitting by a new-made grave,
+    As loth to leave the body that it loved,
+    And linked itself by carnal sensualty
+    To a degenerate and degraded state. _Second Brother._ How charming is divine Philosophy! Not harsh and crabbed, as dull fools suppose,
+    But musical as is Apollo's lute,
+    And a perpetual feast of nectared sweets,
+    Where no crude surfeit reigns. _Elder Brother._               List! list! I hear                480
+    Some far-off hallo break the silent air. _Second Brother._ Methought so too; what should it be? _Elder Brother._                                       For certain,
+    Either some one, like us, night-foundered here,
+    Or else some neighbour woodman, or, at worst,
+    Some roving robber calling to his fellows. _Second Brother._ Heaven keep my sister! Again, again, and near! Best draw, and stand upon our guard. _Elder Brother._                     I'll hallo. If he be friendly, he comes well: if not,
+    Defence is a good cause, and Heaven be for us! _Enter the ATTENDANT SPIRIT, habited like a shepherd._
+
+    That hallo I should know. What are you? speak. 490
+    Come not too near; you fall on iron stakes else. _Spirit._ What voice is that? my young Lord? speak again. _Second Brother._ O brother, 'tis my father's shepherd, sure. _Elder Brother._ Thyrsis! whose artful strains have oft delayed
+    The huddling brook to hear his madrigal,
+    And sweetened every musk-rose of the dale. How camest thou here, good swain? Hath any ram
+    Slipped from the fold, or young kid lost his dam,
+    Or straggling wether the pent flock forsook? How couldst thou find this dark sequestered nook? 500
+
+    _Spirit._ O my loved master's heir, and his next joy,
+    I came not here on such a trivial toy
+    As a strayed ewe, or to pursue the stealth
+    Of pilfering wolf; not all the fleecy wealth
+    That doth enrich these downs is worth a thought
+    To this my errand, and the care it brought,
+    But, oh! my virgin Lady, where is she? How chance she is not in your company? _Elder Brother._ To tell thee sadly, Shepherd, without blame
+    Or our neglect, we lost her as we came. 510
+
+    _Spirit._ Ay me unhappy! then my fears are true. _Elder Brother._ What fears, good Thyrsis? Prithee briefly shew. _Spirit._ I'll tell ye. 'Tis not vain or fabulous
+    (Though so esteemed by shallow ignorance)
+    What the sage poets, taught by the heavenly Muse,
+    Storied of old in high immortal verse
+    Of dire Chimeras and enchanted isles,
+    And rifted rocks whose entrance leads to Hell;
+    For such there be, but unbelief is blind. Within the navel of this hideous wood,                         520
+    Immured in cypress shades, a sorcerer dwells,
+    Of Bacchus and of Circe born, great Comus,
+    Deep skilled in all his mother's witcheries,
+    And here to every thirsty wanderer
+    By sly enticement gives his baneful cup,
+    With many murmurs mixed, whose pleasing poison
+    The visage quite transforms of him that drinks,
+    And the inglorious likeness of a beast
+    Fixes instead, unmoulding reason's mintage
+    Charactered in the face. This have I learnt                      530
+    Tending my flocks hard by i' the hilly crofts
+    That brow this bottom glade; whence night by night
+    He and his monstrous rout are heard to howl
+    Like stabled wolves, or tigers at their prey,
+    Doing abhorred rites to Hecate
+    In their obscured haunts of inmost bowers. Yet have they many baits and guileful spells
+    To inveigle and invite the unwary sense
+    Of them that pass unweeting by the way. This evening late, by then the chewing flocks                    540
+    Had ta'en their supper on the savoury herb
+    Of knot-grass dew-besprent, and were in fold,
+    I sat me down to watch upon a bank
+    With ivy canopied, and interwove
+    With flaunting honeysuckle, and began,
+    Wrapt in a pleasing fit of melancholy,
+    To meditate my rural minstrelsy,
+    Till fancy had her fill. But ere a close
+    The wonted roar was up amidst the woods,
+    And filled the air with barbarous dissonance;                    550
+    At which I ceased, and listened them awhile,
+    Till an unusual stop of sudden silence
+    Gave respite to the drowsy frighted steeds
+    That draw the litter of close-curtained Sleep. At last a soft and solemn-breathing sound
+    Rose like a steam of rich distilled perfumes,
+    And stole upon the air, that even Silence
+    Was took ere she was ware, and wished she might
+    Deny her nature, and be never more,
+    Still to be so displaced. I was all ear,                         560
+    And took in strains that might create a soul
+    Under the ribs of Death. But, oh! ere long
+    Too well I did perceive it was the voice
+    Of my most honoured Lady, your dear sister. Amazed I stood, harrowed with grief and fear;
+    And "O poor hapless nightingale," thought I,
+    "How sweet thou sing'st, how near the deadly snare!" Then down the lawns I ran with headlong haste,
+    Through paths and turnings often trod by day,
+    Till, guided by mine ear, I found the place                      570
+    Where that damned wizard, hid in sly disguise
+    (For so by certain signs I knew), had met
+    Already, ere my best speed could prevent,
+    The aidless innocent lady, his wished prey;
+    Who gently asked if he had seen such two,
+    Supposing him some neighbour villager. Longer I durst not stay, but soon I guessed
+    Ye were the two she meant; with that I sprung
+    Into swift flight, till I had found you here;
+    But further know I not. _Second Brother._       O night and shades,                      580
+    How are ye joined with hell in triple knot
+    Against the unarmed weakness of one virgin,
+    Alone and helpless! Is this the confidence
+    You gave me, brother? _Elder Brother._          Yes, and keep it still;
+    Lean on it safely; not a period
+    Shall be unsaid for me. Against the threats
+    Of malice or of sorcery, or that power
+    Which erring men call Chance, this I hold firm:
+    Virtue may be assailed, but never hurt,
+    Surprised by unjust force, but not enthralled;                   590
+    Yea, even that which Mischief meant most harm
+    Shall in the happy trial prove most glory. But evil on itself shall back recoil,
+    And mix no more with goodness, when at last,
+    Gathered like scum, and settled to itself,
+    It shall be in eternal restless change
+    Self-fed and self-consumed. If this fail,
+    The pillared firmament is rottenness,
+    And earth's base built on stubble. But come, let's on! Against the opposing will and arm of Heaven                      600
+    May never this just sword be lifted up;
+    But, for that damned magician, let him be girt
+    With all the grisly legions that troop
+    Under the sooty flag of Acheron,
+    Harpies and Hydras, or all the monstrous forms
+    'Twixt Africa and Ind, I'll find him out,
+    And force him to return his purchase back,
+    Or drag him by the curls to a foul death,
+    Cursed as his life. _Spirit._           Alas! good venturous youth,
+    I love thy courage yet, and bold emprise;                        610
+    But here thy sword can do thee little stead. Far other arms and other weapons must
+    Be those that quell the might of hellish charms. He with his bare wand can unthread thy joints,
+    And crumble all thy sinews. _Elder Brother._            Why, prithee, Shepherd,
+    How durst thou then thyself approach so near
+    As to make this relation? _Spirit._                  Care and utmost shifts
+    How to secure the Lady from surprisal
+    Brought to my mind a certain shepherd lad,
+    Of small regard to see to, yet well skilled                      620
+    In every virtuous plant and healing herb
+    That spreads her verdant leaf to the morning ray. He loved me well, and oft would beg me sing;
+    Which when I did, he on the tender grass
+    Would sit, and hearken even to ecstasy,
+    And in requital ope his leathern scrip,
+    And show me simples of a thousand names,
+    Telling their strange and vigorous faculties. Amongst the rest a small unsightly root,
+    But of divine effect, he culled me out. 630
+    The leaf was darkish, and had prickles on it,
+    But in another country, as he said,
+    Bore a bright golden flower, but not in this soil:
+    Unknown, and like esteemed, and the dull swain
+    Treads on it daily with his clouted shoon;
+    And yet more med'cinal is it than that Moly
+    That Hermes once to wise Ulysses gave. He called it Haemony, and gave it me,
+    And bade me keep it as of sovran use
+    'Gainst all enchantments, mildew blast, or damp,                 640
+    Or ghastly Furies' apparition. I pursed it up, but little reckoning made,
+    Till now that this extremity compelled. But now I find it true; for by this means
+    I knew the foul enchanter, though disguised,
+    Entered the very lime-twigs of his spells,
+    And yet came off. If you have this about you
+    (As I will give you when we go) you may
+    Boldly assault the necromancer's hall;
+    Where if he be, with dauntless hardihood                         650
+    And brandished blade rush on him: break his glass,
+    And shed the luscious liquor on the ground;
+    But seize his wand. Though he and his curst crew
+    Fierce sign of battle make, and menace high,
+    Or, like the sons of Vulcan, vomit smoke,
+    Yet will they soon retire, if he but shrink. _Elder Brother._ Thyrsis, lead on apace; I'll follow thee;
+    And some good angel bear a shield before us! _The Scene changes to a stately palace, set out with all manner of
+deliciousness: soft music, tables spread with all dainties. COMUS
+appears with his rabble, and the LADY set in an enchanted chair: to whom
+he offers his glass; which she puts by, and goes about to rise._
+
+    _Comus._ Nay, lady, sit. If I but wave this wand,
+    Your nerves are all chained up in alabaster,                     660
+    And you a statue, or as Daphne was,
+    Root-bound, that fled Apollo. _Lady._                        Fool, do not boast. Thou canst not touch the freedom of my mind
+    With all thy charms, although this corporal rind
+    Thou hast immanacled while Heaven sees good. _Comus._ Why are you vexed, lady? why do you frown? Here dwell no frowns, nor anger; from these gates
+    Sorrow flies far. See, here be all the pleasures
+    That fancy can beget on youthful thoughts,
+    When the fresh blood grows lively, and returns                   670
+    Brisk as the April buds in primrose season. And first behold this cordial julep here,
+    That flames and dances in his crystal bounds,
+    With spirits of balm and fragrant syrups mixed. Not that Nepenthes which the wife of Thone
+    In Egypt gave to Jove-born Helena
+    Is of such power to stir up joy as this,
+    To life so friendly, or so cool to thirst. Why should you be so cruel to yourself,
+    And to those dainty limbs, which Nature lent                     680
+    For gentle usage and soft delicacy? But you invert the covenants of her trust,
+    And harshly deal, like an ill borrower,
+    With that which you received on other terms,
+    Scorning the unexempt condition
+    By which all mortal frailty must subsist,
+    Refreshment after toil, ease after pain,
+    That have been tired all day without repast,
+    And timely rest have wanted. But, fair virgin,
+    This will restore all soon. _Lady._                     'Twill not, false traitor! 690
+    'Twill not restore the truth and honesty
+    That thou hast banished from thy tongue with lies. Was this the cottage and the safe abode
+    Thou told'st me of? What grim aspects are these,
+    These oughly-headed monsters? Mercy guard me! Hence with thy brewed enchantments, foul deceiver! Hast thou betrayed my credulous innocence
+    With vizored falsehood and base forgery? And would'st thou seek again to trap me here
+    With liquorish baits, fit to ensnare a brute? 700
+    Were it a draught for Juno when she banquets,
+    I would not taste thy treasonous offer. None
+    But such as are good men can give good things;
+    And that which is not good is not delicious
+    To a well-governed and wise appetite. _Comus._ O foolishness of men! that lend their ears
+    To those budge doctors of the Stoic fur,
+    And fetch their precepts from the Cynic tub,
+    Praising the lean and sallow Abstinence! Wherefore did Nature pour her bounties forth                     710
+    With such a full and unwithdrawing hand,
+    Covering the earth with odours, fruits, and flocks,
+    Thronging the seas with spawn innumerable,
+    But all to please and sate the curious taste? And set to work millions of spinning worms,
+    That in their green shops weave the smooth-haired silk,
+    To deck her sons; and, that no corner might
+    Be vacant of her plenty, in her own loins
+    She hutched the all-worshipped ore and precious gems,
+    To store her children with. If all the world                     720
+    Should, in a pet of temperance, feed on pulse,
+    Drink the clear stream, and nothing wear but frieze,
+    The All-giver would be unthanked, would be unpraised,
+    Not half his riches known, and yet despised;
+    And we should serve him as a grudging master,
+    As a penurious niggard of his wealth,
+    And live like Nature's bastards, not her sons,
+    Who would be quite surcharged with her own weight,
+    And strangled with her waste fertility:
+    The earth cumbered, and the winged air darked with plumes,       730
+    The herds would over-multitude their lords;
+    The sea o'erfraught would swell, and the unsought diamonds
+    Would so emblaze the forehead of the deep,
+    And so bestud with stars, that they below
+    Would grow inured to light, and come at last
+    To gaze upon the sun with shameless brows. List, lady; be not coy, and be not cozened
+    With that same vaunted name, Virginity. Beauty is Nature's coin; must not be hoarded,
+    But must be current; and the good thereof                        740
+    Consists in mutual and partaken bliss,
+    Unsavoury in the enjoyment of itself. If you let slip time, like a neglected rose
+    It withers on the stalk with languished head. Beauty is Nature's brag, and must be shown
+    In courts, at feasts, and high solemnities,
+    Where most may wonder at the workmanship. It is for homely features to keep home;
+    They had their name thence: coarse complexions
+    And cheeks of sorry grain will serve to ply                      750
+    The sampler, and to tease the huswife's wool. What need of vermeil-tinctured lip for that,
+    Love-darting eyes, or tresses like the morn? There was another meaning in these gifts;
+    Think what, and be advised; you are but young yet. _Lady._ I had not thought to have unlocked my lips
+    In this unhallowed air, but that this juggler
+    Would think to charm my judgment, as mine eyes,
+    Obtruding false rules pranked in reason's garb. I hate when vice can bolt her arguments                          760
+    And virtue has no tongue to check her pride. Impostor! do not charge most innocent Nature,
+    As if she would her children should be riotous
+    With her abundance. She, good cateress,
+    Means her provision only to the good,
+    That live according to her sober laws,
+    And holy dictate of spare Temperance. If every just man that now pines with want
+    Had but a moderate and beseeming share
+    Of that which lewdly-pampered Luxury                             770
+    Now heaps upon some few with vast excess,
+    Nature's full blessings would be well dispensed
+    In unsuperfluous even proportions,
+    And she no whit encumbered with her store;
+    And then the Giver would be better thanked,
+    His praise due paid: for swinish gluttony
+    Ne'er looks to Heaven amidst his gorgeous feast,
+    But with besotted base ingratitude
+    Crams, and blasphemes his Feeder. Shall I go on? Or have I said enow? To him that dares                           780
+    Arm his profane tongue with contemptuous words
+    Against the sun-clad power of chastity
+    Fain would I something say;--yet to what end? Thou hast nor ear, nor soul, to apprehend
+    The sublime notion and high mystery
+    That must be uttered to unfold the sage
+    And serious doctrine of Virginity;
+    And thou art worthy that thou shouldst not know
+    More happiness than this thy present lot. Enjoy your dear wit, and gay rhetoric,                           790
+    That hath so well been taught her dazzling fence;
+    Thou art not fit to hear thyself convinced. Yet, should I try, the uncontrolled worth
+    Of this pure cause would kindle my rapt spirits
+    To such a flame of sacred vehemence
+    That dumb things would be moved to sympathise,
+    And the brute Earth would lend her nerves, and shake,
+    Till all thy magic structures, reared so high,
+    Were shattered into heaps o'er thy false head. _Comus._ She fables not. I feel that I do fear                   800
+    Her words set off by some superior power;
+    And, though not mortal, yet a cold shuddering dew
+    Dips me all o'er, as when the wrath of Jove
+    Speaks thunder and the chains of Erebus
+    To some of Saturn's crew. I must dissemble,
+    And try her yet more strongly.--Come, no more! This is mere moral babble, and direct
+    Against the canon laws of our foundation. I must not suffer this; yet 'tis but the lees
+    And settlings of a melancholy blood. 810
+
+    But this will cure all straight; one sip of this
+    Will bathe the drooping spirits in delight
+    Beyond the bliss of dreams. Be wise, and taste. _The BROTHERS rush in with swords drawn, wrest his glass out of his
+hand, and break it against the ground: his rout make sign of resistance,
+but are all driven in. The ATTENDANT SPIRIT comes in._
+
+    _Spirit._ What! have you let the false enchanter scape? O ye mistook; ye should have snatched his wand,
+    And bound him fast. Without his rod reversed,
+    And backward mutters of dissevering power,
+    We cannot free the Lady that sits here
+    In stony fetters fixed and motionless. Yet stay: be not disturbed; now I bethink me,                    820
+    Some other means I have which may be used,
+    Which once of Meliboeus old I learnt,
+    The soothest shepherd that e'er piped on plains. There is a gentle nymph not far from hence,
+    That with moist curb sways the smooth Severn stream:
+    Sabrina is her name: a virgin pure;
+    Whilom she was the daughter of Locrine,
+    That had the sceptre from his father Brute. She, guiltless damsel, flying the mad pursuit
+    Of her enraged stepdame, Guendolen,                              830
+    Commended her fair innocence to the flood
+    That stayed her flight with his cross-flowing course. The water-nymphs, that in the bottom played,
+    Held up their pearled wrists, and took her in,
+    Bearing her straight to aged Nereus' hall;
+    Who, piteous of her woes, reared her lank head,
+    And gave her to his daughters to imbathe
+    In nectared lavers strewed with asphodel,
+    And through the porch and inlet of each sense
+    Dropt in ambrosial oils, till she revived,                       840
+    And underwent a quick immortal change,
+    Made Goddess of the river. Still she retains
+    Her maiden gentleness, and oft at eve
+    Visits the herds along the twilight meadows,
+    Helping all urchin blasts, and ill-luck signs
+    That the shrewd meddling elf delights to make,
+    Which she with precious vialed liquors heals:
+    For which the shepherds, at their festivals,
+    Carol her goodness loud in rustic lays,
+    And throw sweet garland wreaths into her stream                  850
+    Of pansies, pinks, and gaudy daffodils. And, as the old swain said, she can unlock
+    The clasping charm, and thaw the numbing spell,
+    If she be right invoked in warbled song;
+    For maidenhood she loves, and will be swift
+    To aid a virgin, such as was herself,
+    In hard-besetting need. This will I try,
+    And add the power of some adjuring verse. _Song._
+
+      Sabrina fair,
+        Listen where thou art sitting                                860
+      Under the glassy, cool, translucent wave,
+        In twisted braids of lilies knitting
+      The loose train of thy amber-dropping hair;
+        Listen for dear honour's sake,
+        Goddess of the silver lake,
+            Listen and save! Listen, and appear to us,
+      In name of great Oceanus. By the earth-shaking Neptune's mace,
+      And Tethys' grave majestic pace;                               870
+      By hoary Nereus' wrinkled look,
+      And the Carpathian wizard's hook;
+      By scaly Triton's winding shell,
+      And old soothsaying Glaucus' spell;
+      By Leucothea's lovely hands,
+      And her son that rules the strands;
+      By Thetis' tinsel-slippered feet,
+      And the songs of Sirens sweet;
+      By dead Parthenope's dear tomb,
+      And fair Ligea's golden comb,                                  880
+      Wherewith she sits on diamond rocks
+      Sleeking her soft alluring locks;
+      By all the Nymphs that nightly dance
+      Upon thy streams with wily glance;
+      Rise, rise, and heave thy rosy head
+      From thy coral-paven bed,
+      And bridle in thy headlong wave,
+      Till thou our summons answered have. Listen and save! _SABRINA rises, attended by Water-nymphs, and sings._
+
+      By the rushy-fringed bank,                                     890
+      Where grows the willow and the osier dank,
+        My sliding chariot stays,
+      Thick set with agate, and the azurn sheen
+      Of turkis blue, and emerald green,
+        That in the channel strays;
+      Whilst from off the waters fleet
+      Thus I set my printless feet
+      O'er the cowslip's velvet head,
+        That bends not as I tread. Gentle swain, at thy request                                   900
+          I am here! _Spirit._ Goddess dear,
+      We implore thy powerful hand
+      To undo the charmed band
+      Of true virgin here distressed
+      Through the force and through the wile
+      Of unblessed enchanter vile. _Sabrina._ Shepherd, 'tis my office best
+      To help ensnared chastity. Brightest Lady, look on me. 910
+      Thus I sprinkle on thy breast
+      Drops that from my fountain pure
+      I have kept of precious cure;
+      Thrice upon thy finger's tip,
+      Thrice upon thy rubied lip:
+      Next this marble venomed seat,
+      Smeared with gums of glutinous heat,
+      I touch with chaste palms moist and cold. Now the spell hath lost his hold;
+      And I must haste ere morning hour                              920
+      To wait in Amphitrite's bower. _SABRINA descends, and the LADY rises out of her seat._
+
+      _Spirit._ Virgin, daughter of Locrine,
+      Sprung of old Anchises' line,
+      May thy brimmed waves for this
+      Their full tribute never miss
+      From a thousand petty rills,
+      That tumble down the snowy hills:
+      Summer drouth or singed air
+      Never scorch thy tresses fair,
+      Nor wet October's torrent flood                                930
+      Thy molten crystal fill with mud;
+      May thy billows roll ashore
+      The beryl and the golden ore;
+      May thy lofty head be crowned
+      With many a tower and terrace round,
+      And here and there thy banks upon
+      With groves of myrrh and cinnamon. Come, Lady; while Heaven lends us grace,
+      Let us fly this cursed place,
+      Lest the sorcerer us entice                                    940
+      With some other new device. Not a waste or needless sound
+      Till we come to holier ground. I shall be your faithful guide
+      Through this gloomy covert wide;
+      And not many furlongs thence
+      Is your Father's residence,
+      Where this night are met in state
+      Many a friend to gratulate
+      His wished presence, and beside                                950
+      All the swains that there abide
+      With jigs and rural dance resort. We shall catch them at their sport,
+      And our sudden coming there
+      Will double all their mirth and cheer. Come, let us haste; the stars grow high,
+      But Night sits monarch yet in the mid sky. _The Scene changes, presenting Ludlow Town, and the President's Castle;
+then come in Country Dancers; after them the ATTENDANT SPIRIT, with the
+Two BROTHERS and the LADY._
+
+_Song._
+
+      _Spirit._ Back, shepherds, back! Enough your play
+      Till next sunshine holiday. Here be, without duck or nod,                                  960
+      Other trippings to be trod
+      Of lighter toes, and such court guise
+      As Mercury did first devise
+      With the mincing Dryades
+      On the lawns and on the leas. _This second Song presents them to their Father and Mother._
+
+      Noble Lord and Lady bright,
+      I have brought ye new delight. Here behold so goodly grown
+      Three fair branches of your own. Heaven hath timely tried their youth,                          970
+      Their faith, their patience, and their truth,
+      And sent them here through hard assays
+      With a crown of deathless praise,
+      To triumph in victorious dance
+      O'er sensual folly and intemperance. _The dances ended, the SPIRIT epiloguizes._
+
+      _Spirit._ To the ocean now I fly,
+      And those happy climes that lie
+      Where day never shuts his eye,
+      Up in the broad fields of the sky. There I suck the liquid air,                                   980
+      All amidst the gardens fair
+      Of Hesperus, and his daughters three
+      That sing about the golden tree. Along the crisped shades and bowers
+      Revels the spruce and jocund Spring;
+      The Graces and the rosy-bosomed Hours
+      Thither all their bounties bring. There eternal Summer dwells,
+      And west winds with musky wing
+      About the cedarn alleys fling                                  990
+      Nard and cassia's balmy smells. Iris there with humid bow
+      Waters the odorous banks, that blow
+      Flowers of more mingled hue
+      Than her purfled scarf can shew,
+      And drenches with Elysian dew
+      (List, mortals, if your ears be true)
+      Beds of hyacinth and roses,
+      Where young Adonis oft reposes,
+      Waxing well of his deep wound,                                1000
+      In slumber soft, and on the ground
+      Sadly sits the Assyrian queen. But far above, in spangled sheen,
+      Celestial Cupid, her famed son, advanced
+      Holds his dear Psyche, sweet entranced
+      After her wandering labours long,
+      Till free consent the gods among
+      Make her his eternal bride,
+      And from her fair unspotted side
+      Two blissful twins are to be born,                            1010
+      Youth and Joy; so Jove hath sworn. But now my task is smoothly done,
+      I can fly, or I can run
+      Quickly to the green earth's end,
+      Where the bowed welkin slow doth bend,
+      And from thence can soar as soon
+      To the corners of the moon. Mortals, that would follow me,
+      Love Virtue; she alone is free. She can teach ye how to climb                                 1020
+      Higher than the sphery chime;
+      Or, if Virtue feeble were,
+      Heaven itself would stoop to her. NOTES. ~discovers~, exhibits, displays. The usual sense of 'discover' is to find
+out or make known, but in Milton and Shakespeare the prefix _dis-_ has
+often the more purely negative force of _un-_: hence discover = uncover,
+reveal. Comp.--
+
+                        "Some high-climbing hill
+    Which to his eye _discovers_ unaware
+    The goodly prospect of some foreign land." _Par. Lost_, iii. 546. ~Attendant Spirit descends~. The part of the attendant spirit was taken by
+Lawes (see Introduction), who, in his prologue or opening speech,
+explains who he is and on what errand he has been sent, hints at the
+plot of the whole masque, and at the same time compliments the Earl in
+whose honour the masque is being given (lines 30-36). In the ancient
+classical drama the prologue was sometimes an outline of the plot,
+sometimes an address to the audience, and sometimes introductory to the
+plot. The opening of _Comus_ prepares the audience and also directly
+addresses it (line 43). For the form of the epilogue in the actual
+performance of the masque see note, l. 975-6. 1. ~starry threshold~, etc. Comp. Virgil: "The sire of gods and monarch of
+men summons a council to the starry chamber" (_sideream in sedem_),
+_Aen._ x. 2. 2. ~mansion~, abode. Trench points out that this word denotes strictly "a
+place of tarrying," which might be for a longer or a shorter time: hence
+'a resting-place.' Comp. _John_, xiv. 2, "In my Father's house are many
+_mansions_"; and _Il Pens._ 93, "Her _mansion_ in this fleshly nook." The word has now lost the notion of tarrying, and is applied to a large
+and important dwelling-house. ~where~, in which: the antecedent is
+separated from the relative, a frequent construction in Milton (comp. lines 66, 821, etc.). So in Latin, where the grammatical connection
+would generally be sufficiently indicated by the inflection. ~shapes ...
+spirits~. An instance of the manner in which Milton endows spiritual
+beings with personality without making them too distinct. "Of all the
+poets who have introduced into their works the agency of supernatural
+beings Milton has succeeded best" (Macaulay). We see this in _Par. Lost_
+(_e.g._ ii. 666). Compare the use of the word 'shape' (Lat. _umbra_) in
+l. 207: also _L'Alleg._ 4, "horrid _shapes_ and shrieks"; and _Il Pens._
+6, "fancies fond with gaudy _shapes_ possess." Milton's use of the
+demonstrative ~those~ in this line is noteworthy; comp. "_that_ last
+infirmity of noble mind," _Lyc._ 71: it implies that the reference is to
+something well known, and that further particularisation is needless. 3. ~insphered~. 'Sphere,' with its derivatives 'sphery,' 'insphere,' and
+'unsphere' (_Il Pens._ 88), is used by Milton with a literal reference
+to the cosmical framework as a whole (see _Hymn Nat._ 48) or to some
+portion of it. In Shakespeare 'sphere' occurs in the wider sense of 'the
+path in which anything moves,' and it is to this metaphorical use of the
+word that we owe such phrases as 'a person's sphere of life,' 'sphere of
+action,' etc. See also _Comus_, 112-4, 241-3, 1021; _Arc._ 62-7; _Par. Lost_, v. 618; where there are references to the music of the spheres. 4. ~mild~: an attributive of the whole clause, 'regions of calm and serene
+air.' ~calm and serene~. These are not mere synonyms: the Lat. _serenus_ =
+bright or unclouded, so that the two epithets are to be respectively
+contrasted with 'smoke' and 'stir' (line 5); 'calm' being opposed to
+'stir' and 'serene' to 'smoke.' Compare Homer's description of the seat
+of the gods: "Not by wind is it shaken, nor ever wet with rain, nor doth
+the snow come nigh thereto, but _most clear_ air is spread about it
+_cloudless_, and the white light floats over it," _Odyssey_, vi. : comp. note, l. 977. 5. ~this dim spot~. The Spirit describes the Earth as it appears to those
+immortal shapes whose presence he has just quitted. 6. There are here two attributive clauses: "which men call Earth" and
+"(in which) men strive," etc. ~low-thoughted care~; narrow-minded anxiety,
+care about earthly things. Comp. the form of the adjective 'low-browed,'
+_L'Alleg._ 8: both epithets are borrowed by Pope in his _Eloisa_. 7. This line is attributive to 'men.' ~pestered ... pinfold~, crowded
+together in this cramped space, the Earth. _Pester_, which has no
+connection with _pest_, is a shortened form of _impester_, Fr. _empetrer_, to shackle a horse by the foot when it is at pasture. The
+radical sense is that of clogging (comp. _Son._ xii. 1); hence of
+crowding; and finally of annoyance or encumbrance of any kind. 'Pinfold'
+is strictly an enclosure in which stray cattle are _pounded_ or shut up:
+etymologically, the word = _pind-fold_, a corruption of _pound-fold_. Comp. _impound_, sheep-_fold_, etc. 8. ~frail and feverish~. Comp. "life's fitful fever" (_Macbeth_, iii. 2. 23). This line, like several of the adjacent ones, is alliterative. 9. ~crown that Virtue gives~. This is Scriptural language: comp. _Rev._
+iv. 4; 2 _Tim._ iv. 8, "Henceforth there is laid up for me the crown of
+righteousness." 10. ~this mortal change~. In Milton's MS. line 7 was followed by the
+words, 'beyond the written date of mortal change,' _i.e._ beyond, or
+after, man's appointed time to die. These words were struck out, but we
+may suppose that the words 'mortal change' in line 10 have a similar
+meaning. Milton frequently uses 'mortal' in the sense of 'liable to
+death,' and hence 'human' as opposed to 'divine': the mortal change is
+therefore 'the change which occurs to all human beings.' Comp. _Job_,
+xiv. 14: "all the days of my appointed time will I wait, till my
+_change_ come": see also line 841. Prof. Masson takes it to mean 'this
+mortal state of life,' as distinguished from a future state of
+immortality. The Spirit uses 'this' as in line 8, in contrast with
+'those,' line 2. 11. ~enthroned gods~, etc. In allusion to _Rev._ iv. 4, "And upon the
+thrones I saw four and twenty elders sitting, arrayed in white garments;
+and on their heads crowns of gold." Milton frequently speaks of the
+inhabitants of heaven as _enthroned_. The accent here falls on the first
+syllable of the word. 12. ~Yet some there be~, etc. : 'Although men are generally so exclusively
+occupied with the cares of this life, there are nevertheless a few who
+aspire,' etc. _Be_ is here purely indicative. This usage is frequent in
+Elizabethan English, and still survives in parts of England. Comp. _Lines on Univ. Carrier_, ii. 25, where it occurs in a similar phrase,
+"there be that say 't": also lines 519, 668. It is employed to refer to
+a number of persons or things, regarded as a class. ~by due steps~,
+_i.e._ by the steps that are due or appointed: comp. '_due_ feet,' _Il
+Pens._ 155. _Due_, _duty_, and _debt_ are all from Lat. _debitus_, owed. 13. ~their just hands~. 'Just' belongs to the predicate: 'to lay their
+just hands' = to lay their hands with justice. ~golden key~. Comp. _Matt._
+xvi. 19, "I will give unto thee the _keys_ of the kingdom of heaven";
+also _Lyc._ 111:
+
+    "Two massy keys he bore of metals twain
+    (The _golden_ opes, the iron shuts amain)." 15. ~errand~: comp. _Par. Lost_, iii. 652, "One of the seven Who in God's
+presence, nearest to his throne, Stand ready at command, and are his
+eyes That run through all the Heavens, or down to the Earth Bear his
+swift _errands_": also vii. 579. ~but for such~, _i.e._ unless it were for
+such. 16. 'I would not sully the purity of my heavenly garments with the
+noisome vapour of this sin-corrupted earth.' ~ambrosial~, heavenly; also
+used by Milton in the sense of 'conferring immortality': comp. l. 840;
+_Par. Lost_, ii. 245; iv. 219, "blooming _ambrosial_ fruit." 'Ambrosial,' like 'amaranthus' (_Lyc._ 149), is cognate with the
+Sanskrit _amrita_, undying; and is applied by Homer to the hair of the
+gods: similarly in Tennyson's _Oenone_, 174: see also _In Memoriam_,
+lxxxvi. Ben Jonson (_Neptune's Triumph_) has 'ambrosian hands,' _i.e._
+hands fit for a deity. Ambrosia was the food of the gods. ~weeds~: now
+used chiefly in the phrase "widow's weeds," _i.e._ mourning garment. Milton and Shakespeare use it in the general sense of garment or
+covering: in the lines _On the Death of a Fair Infant_, it is applied to
+the human body itself; comp. also _M. N. D._ ii. 1. 255, "_Weed_ wide
+enough to wrap a fairy in." See also _Comus_, 189, 390. 18. ~But to my task~, _i.e._ but I must proceed to my task: see l. 1012. 19. ~every ... each~. It is usual to write _every ... every_, or _each ...
+each_, but Milton occasionally uses 'every' and 'each' together: comp. l. 311 and _Lyc._ 93, "_every_ gust ... off _each_ beaked promontory." _Every_ denotes each without exception, and can now only be used with
+reference to more than two objects; _each_ may refer to two or more. 20. ~by lot~, etc. When Saturn (Kronos) was dethroned, his empire of the
+universe was distributed amongst his three sons, Jupiter ('high' Jove),
+Neptune (the god of the Sea), and Pluto ('nether' or Stygian Jove). In
+_Iliad_ xv. Neptune (Poseidon) says: "For three brethren are we, and
+sons of Kronos, whom Rhea bare ... And in three lots are all things
+divided, and each drew a domain of his own, and to me fell the hoary
+sea, to be my habitation for ever, when we shook the lots." ~nether~,
+lower: comp. the phrase 'the upper and the nether lip,' and the name
+Netherlands. Hell, the abode of Pluto, is called by Milton 'the nether
+empire' (_Par. Lost_, ii. 295). The form _nethermost_ (_Par. Lost_, ii. 955) is, like _aftermost_ and _foremost_, a double superlative. 21. ~sea-girt isles~. Ben Jonson calls Britain a 'sea-girt isle': comp. l.
+27. _Isle_ is the M.E. _ile_, in which form the _s_ has been dropped: it
+is from O.F. _isle_, Lat. _insula_. It is therefore distinct from
+_island_, where an _s_ has, by confusion, been inserted. Island = M.E. _iland_, A.S. _igland_ (_ig_ = island: _land_ = land). In line 50 Milton
+wrote 'iland.' 22. ~like to rich and various gems~, etc. Shakespeare describes England as
+a 'precious stone set in the silver sea,' _Richard II._ ii. 1. 46: he
+also speaks of Heaven as being _inlayed_ with stars, _Cym._ v. 5. 352;
+_M. of V._ v. 1. 59, "Look how the floor of heaven Is thick _inlaid_
+with patines of bright gold." Compare also _Par. Lost_, iv. 700, where
+Milton refers to the ground as having a rich _inlay_ of flowers. But for
+its inlay of islands the sea would be bare or unadorned. ~like~: here
+followed by the preposition _to_, and having its proper force as an
+adjective: comp. _Il Pens._ 9. Whether _like_ is used as an adjective
+or an adverb, the preposition is now usually omitted: comp. l. 57. 24. ~to grace~, _i.e._ to show favour to: a clause of purpose. 25. ~By course commits~, etc., _i.e._ "In regular distribution he commits
+to each his distinct government." ~several~: separate or distinct. Radically _several_ is from the verb _sever_: it is now used only with
+plural nouns. 26. ~sapphire~. This colour is again associated with the sea in line 29:
+see note there. 27. ~little tridents~, in contrast with that of Neptune, who, "with his
+trident touched the stars" (_Neptune's Triumph, Proteus' Song_, Ben
+Jonson). 28. ~greatest and the best~. Comp. Shakespeare's eulogy in _Rich. II._ ii. 1: also Ben Jonson's "Albion, Prince of all his Isles," _Neptune's
+Triumph, Apollo's Song_. 29. ~quarters~, divides into distinct regions. Comp. Dryden, _Georg. I._
+208:
+
+    "Sailors _quarter'd_ Heaven, and found a name
+    For every fixt and ev'ry wandering star." Some would take the word as strictly denoting division into _four_
+parts: "at that time the island was actually divided into four separate
+governments: for besides those at London and Edinburgh, there were Lords
+President of the North and of Wales." (Keightley). ~blue-haired deities~. These must be distinct from the tributary gods who wield their little
+tridents (line 27), otherwise the thought would ill accord with the
+complimentary nature of lines 30-36. Regarding the epithet 'blue-haired'
+Masson asks: "Can there be a recollection of blue as the British colour,
+inherited from the old times of blue-stained Britons who fought with
+Caesar? Green-haired is the usual epithet for Neptune and his
+subordinates": in Spenser, for example, the sea-nymphs have long green
+hair. But Ovid expressly calls the sea-deities _caerulei dii_, and
+Neptune _caeruleus deus_, thus associating blue with the sea. 30. 'And all this region that looks towards the West (_i.e._ Wales) is
+entrusted to a noble peer of great integrity and power.' The peer
+referred to is the Earl of Bridgewater. As Lord President he was
+entrusted with the civil and military administration of Wales and the
+four English counties of Gloucester, Worcester, Hereford, and
+Shropshire. That he was a nobleman of high character is shown by the
+fact that from 1617, when he was nominated one of "his Majestie's
+Counsellors," he had continued to serve in various important public and
+private offices. On his monument there is the following: "He was a
+profound Scholar, an able Statesman, and a good Christian: he was a
+dutiful Son to his Mother the Church of England in her persecution, as
+well as in her great splendour; a loyal Subject to his Sovereign in
+those worst of times, when it was accounted treason not to be a traitor. As he lived 70 years a pattern of virtue, so he died an example of
+patience and piety." ~falling sun~: Lat. _sol occidens_. Orient and
+occident (lit. 'rising' and 'falling') are frequently used to denote the
+East and the West. 31. ~mickle~ (A.S. _micel_) great. From this word comes _much_. 'Mickle'
+and 'muckle' are current in Scotland in the sense of great. Comp. _Rom. and Jul._ ii. 3. 15, "O, _mickle_ is the powerful grace that lies In
+herbs," etc. 33. ~An old and haughty nation~. The Welsh are Kelts, an Aryan people who
+probably first entered Britain about B.C. 500: they are therefore
+rightly spoken of as an old nation. Compare Ben Jonson's piece _For the
+Honour of Wales_:
+
+    "I is not come here to taulk of Brut,
+    From whence the Welse does take his root," etc. That they were haughty and 'proud in arms' the Romans found, and after
+them the Saxons: the latter never really held more than the counties of
+Monmouth and Hereford. In the reign of Edward I. attempts were made by
+that king to induce the Welsh to come to terms, but the answer of the
+Barons was: "We dare not submit to Edward, nor will we suffer our prince
+to do so, nor do homage to strangers, whose tongue, ways and laws we
+know not of: we have only raised war in defence of our lands, laws and
+rights." By a statute of Henry VIII. this 'haughty' people were put in
+possession of the same rights and liberties as the English. ~proud in
+arms~: this is Virgil's _belloque superbum_, _Aen._ i. 21 (Warton). 34. ~nursed in princely lore~, brought up in a manner worthy of their high
+position. It is to be noted that the Bridgewater family was by birth
+distantly connected with the royal family. Milton may allude merely to
+their connection with the court. _Lore_ is cognate with _learn_. 35. ~their father's state~. This probably refers to the actual ceremonies
+connected with the installation of the Earl as Lord President. The old
+sense of 'state' is 'chair of state': comp. _Arc._ 81, and Jonson's
+_Hymenaei_, "And see where Juno ... Displays her glittering _state and
+chair_." 36. ~new-intrusted~, an adjective compounded of a participle and a simple
+adverb, _new_ being = newly; comp. 'smooth-dittied,' l. 86. Contrast the
+form of the epithet "blue-haired," where the compound adjective is
+formed as if from a noun, "blue-hair": comp. "rushy-fringed," l. 890. Strictly speaking, the Earl's power was not 'new-intrusted,' though it
+was newly assumed. See Introduction. 37. ~perplexed~, interwoven, entangled (Lat. _plecto_, to plait or
+twist). The word is here used literally and is therefore applicable to
+inanimate objects. The accent is on the first syllable. 38. ~horror~. This word is meant not merely to indicate terror, but also
+to describe the appearance of the paths. Horror is from Lat. _horrere_,
+to bristle, and may be rendered 'shagginess' or 'ruggedness,' just as
+_horrid_, l. 429, means bristling or rugged. Comp. _Par. Lost_, i. 563,
+"a _horrid_ front Of dreadful length, and dazzling arms." ~shady brows~:
+this may refer to the trees and bushes overhanging the paths, as the
+brow overhangs the eyes. 39. ~Threats~: not current as a verb. ~forlorn~, now used only as an
+adjective, is the past participle of the old verb _forleosen_, to lose
+utterly: the prefix _for_ has an intensive force, as in _forswear_; but
+in the latter word the sense of _from_ is more fully preserved in the
+prefix. See note, l. 234. 40. ~tender age~. Lady Alice Egerton was about fourteen years of age; the
+two brothers were younger than she. 41. ~But that~, etc. Grammatically, _but_ may be regarded as a
+subordinative conjunction = 'unless (it had happened) that I was
+despatched': or, taking it in its original prepositional sense, we may
+regard it as governing the substantive clause, 'that ... guard.' ~quick
+command~: the adjective has the force of an adverb, quick commands being
+commands that are to be carried quickly. ~sovran~, supreme. This is
+Milton's spelling of the modern word _sovereign_, in which the _g_ is
+due to the mistaken notion that the last syllable of the word is cognate
+with _reign_. The word is from Lat. _superanum_ = chief: comp. l. 639. 43. ~And listen why~; _sc._ 'I was despatched.' The language of lines 43,
+44 is suggested by Horace's _Odes_, iii. 1, 2: "Favete linguis; carmina
+non prius Audita ... canto." The poet implies that the plot of his mask
+is original: it is not (he says) to be found in any ancient or modern
+song or tale that was ever recited either in the 'hall' (=
+banqueting-hall) or in the 'bower' (= private chamber). Or 'hall' and
+'bower' may denote respectively the room of the lord and that of his
+lady. 46. Milton in his usual significant manner (comp. _L'Allegro_ and _Il
+Penseroso_), proceeds to invent a genealogy for Comus. The mask is
+designed to celebrate the victory of Purity and Reason over Desire and
+Enchantment. Comus, who represents the latter, must therefore spring
+from parents representing the pleasure of man's lower nature and the
+misuse of man's higher powers on behalf of falsehood and impurity. These
+parents are the wine-god Bacchus and the sorceress Circe. The former,
+mated with Love, is the father of Mirth (see _L'Allegro_); but, mated
+with the cunning Circe, his offspring is a voluptuary whose gay
+exterior and flattering speech hide his dangerously seductive and
+magical powers. He bears no resemblance, therefore, to Comus as
+represented in Ben Jonson's _Pleasure reconciled to Virtue_, in which
+mask "Comus" and "The Belly" are throughout synonymous. In the
+_Agamemnon_ of Aeschylus, Comus is a "drinker of human blood"; in
+Philostratus, he is a rose-crowned wine-bibber; in Dekker he is "the
+clerk of gluttony's kitchen"; in Massinger he is "the god of pleasure";
+and in the work of Erycius Puteanus he is a graceful reveller, the
+genius of love and cheerfulness. Prof. Masson says, "Milton's _Comus_ is
+a creation of his own, for which he was as little indebted intrinsically
+to Puteanus as to Ben Jonson. For the purpose of his masque at Ludlow
+Castle he was bold enough to add a brand-new god, no less, to the
+classic Pantheon, and to import him into Britain." ~Bacchus~, the god who
+taught men the preparation of wine. He is the Greek Dionysus, who, on
+one of his voyages, hired a vessel belonging to some Tyrrhenian pirates:
+these men resolved to sell him as a slave. Thereupon, he changed the
+mast and oars of the ship into serpents and the sailors into dolphins. The meeting of Bacchus with Circe is Milton's own invention; in the
+_Odyssey_ it is Ulysses who lights upon her island: "And we came to the
+isle AEaean, where dwelt Circe of the braided tresses, an awful goddess of
+mortal speech, own sister to the wizard AEetes," _Odys._ x. ~from out~,
+etc. Comp. _Par. Lost_, v. 345. 'From out' has the same force as the
+more common 'out from.' 47. ~misused~, abused. The prefix _mis-_ was very generally used by
+Milton; _e.g._ _mislike_, _misdeem_, _miscreated_, _misthought_ (all
+obsolete). 48. ~After the Tuscan mariners transformed~, _i.e._ after the
+transformation of the Tuscan mariners (see Ovid, _Met._ iii.). They are
+called Tuscan, because Tyrrhenia in Central Italy was named Etruria or
+Tuscia by the Romans: Etruria includes modern Tuscany. This grammatical
+construction is common in Latin; a passive participle combined with a
+substantive answering to an English verbal or abstract noun connected
+with another noun by the preposition _of_, and used to denote a fact in
+the past; _e.g._ "since created man" (_P. L._ i. 573) = since the
+creation of man: "this loss recovered" (_P. L._ ii. 21) = the recovery
+of this loss. 49. ~as the winds listed~; at the pleasure of the winds: comp. _John_,
+iii. 8, "the wind bloweth where it _listeth_"; _Lyc._ 123. The verb
+_list_ is, in older English, generally used impersonally, and in Chaucer
+we find 'if thee lust' or 'if thee list' = if it please thee. The word
+survives in the adjective _listless_ of which the older form was
+_lustless_: the noun _lust_ has lost its original and wider sense (which
+it still has in German), and now signifies 'longing desire.' 50. ~On Circe's island fell~. Circe's island = Aeaea, off the coast of
+Latium. Circe was the daughter of Helios (the Sun) by the ocean-nymph
+Perse. On 'island,' see note, l. 21; and with this use of the verb
+_fall_ comp. the Latin _incidere in_. The sudden introduction of the
+interrogative clause in this line is an example of the figure of speech
+called anadiplosis. 51. ~charmed cup~, _i.e._ liquor that has been _charmed_ or rendered
+magical. _Charms_ are incantations or magic verses (Lat. _carmina_):
+comp. lines 526 and 817. Grammatically, 'cup' is the object of 'tasted.' 52. ~Whoever tasted lost~, _i.e._ who tasted (he) lost. In this
+construction _whoever_ must precede both verbs; Shakespeare frequently
+uses _who_ in this sense, and Milton occasionally: comp. _Son._ xii. 12,
+"_who_ loves that must first be wise and good." See Abbott, Sec. 251. ~lost
+his upright shape~. In _Odyssey_ x. we read: "So Circe led them
+(followers of Ulysses) in and set them upon chairs and high seats, and
+made them a mess of cheese and barley-meal and yellow honey with
+Pramnian wine, and mixed harmful drugs with the food to make them
+utterly forget their own country. Now when she had given them the cup
+and they had drunk it off, presently she smote them with a wand, and in
+the styes of the swine she penned them. So they had the head and voice,
+the bristles and the shape of swine, but their mind abode even as of
+old. Thus were they penned there weeping, and Circe flung them acorns
+and mast and fruit of the cornel tree to eat, whereon wallowing swine do
+always batten." (_Butcher and Lang's translation._)
+
+54. ~clustering locks~: comp. l. 608. Milton here pictures the Theban
+Bacchus, a type of manly beauty, having his head crowned with a wreath
+of vine and ivy: both of these plants were sacred to the god. Comp. _L'Alleg._ 16, "ivy-crowned Bacchus"; _Par. Lost_, iv. 303; _Sams. Agon._ 569. 55. ~his blithe youth~, _i.e._ his fresh young figure. 57. 'A son much like his father, but more like his mother.' This may
+indicate that it is upon Comus's character as a sorcerer rather than as
+a reveller that the story of the mask depends. Comp. _Masque of Hymen_:
+
+    "Much of the father's face,
+    More of the mother's grace." 58. ~Comus~: see note, l. 46. The Greek word +komos+ denoted a revel or
+merry-making; afterwards it came to mean the personification of riotous
+mirth, the god of Revel. Hence also the word _comedy_. In classical
+mythology the individuality of Comus is not well defined: this enabled
+Milton more readily to endow him with entirely new characteristics. 59. ~frolic~: an instance of the original use of the word as an adjective;
+comp. _L'Alleg._ 18, "frolic wind"; Tennyson's _Ulysses_, "a frolic
+welcome." It is now chiefly used as a noun or a verb, and a new
+adjective, _frolicsome_, has taken its place; from this, again, comes
+the noun _frolicsomeness_. _Frolic_ is from the Dutch, and cognate with
+German _froehlich_, so that _lic_ in 'frolic' corresponds to _ly_ in such
+words as cleanly, godly, etc. ~of~: this use of the preposition may be
+compared with the Latin genitive in such phrases as _aeger animi_ = sick
+of soul; of = 'because of' or 'in respect of.' 60. ~Roving the Celtic and Iberian fields~, _i.e._ roving through Gaul and
+Spain. 'Rove' here governs an accusative: comp. _Lyc._ 173, "walked the
+waves"; _Par. Lost_, i. 521, "roamed the utmost Isles." 61. ~betakes him~. The pronoun has here a reflective force: in Elizabethan
+English, and still more often in Early English, this use of the simple
+pronouns is common (see Abbott, Sec. 223). Compare l. 163. ~ominous~;
+literally = full of omens or portents: comp. 'monstrous' = full of
+monsters (_Lyc._ 158); also l. 79. 'Ominous' has now acquired the sense
+of 'ill-omened'; compare the acquired sense of 'hapless,' 'unfortunate,'
+etc. 65. ~orient~, bright. The Lat. _oriens_ = rising; hence (from being
+applied to the sun) = eastern (l. 30); and hence generally 'bright' or
+'shining': comp. _Par. Lost_, i. 546, "With _orient_ colours waving." 66. ~drouth of Phoebus~, _i.e._ thirst caused by the heat of the sun. Phoebus is Apollo, the Sun-god. Compare l. 928, where 'drouth' = want of
+rain; the more usual spelling is _drought_. ~which~: see note, l. 2. 'Which' is here object of 'taste,' and refers to 'liquor.' 67. ~fond~, foolish (its primary sense). _Fonned_ was the participle of an
+old verb _fonnen_, to be foolish. The word is now used to express great
+liking or affection: the idea of folly being almost entirely lost. Chaucer has _fonne_, a fool: comp. _Il Pens._ 6, "fancies _fond_";
+_Lyc._ 56, "I _fondly_ dream"; _Sams. Agon._ 1682, "So _fond_ are mortal
+men." 68. ~Soon as~, etc., _i.e._ as soon as the magical draught produces its
+effect. In line 66 _as_ is temporal. ~potion~. Radically, potion = a
+drink, but it is generally used in the sense of a medicated or poisonous
+draught. _Poison_ is the same word through the French. 69. ~Express resemblance of the gods~. Comp. Shakespeare: "What a piece of
+work is man! ... in action how like an angel, in apprehension, how like a
+god!" See also _Par. Lost_, iii. 44, "human face divine." 71. ~ounce~. This is the _Felis uncia_, allied to the panther and the
+cheetah. Some connect it with the Persian _yuz_, panther. 72. ~All other parts~, etc. In the _Odyssey_ (see note on l. 52) the
+bodies of those transformed by Circe were entirely changed; here only
+the head. As one editor observes, this suited the convenience of the
+performers who were to appear on the stage in masks (see _Stage
+direction_, l. 92-3). Grammatically, line 72 is an example of the
+absolute construction, common in Latin. The noun ('parts') is neither
+the subject nor the object of a verb, but is used along with some
+attributive adjunct--generally a participle ('remaining')--to serve the
+purpose of an adverb or adverbial clause. The noun (or pronoun) is
+usually said to be the nominative absolute; but, in the case of
+pronouns, Milton uses the nominative and the objective indifferently. In
+Old English the dative was used. 73. ~perfect~, complete (Lat. _perfectus_, done thoroughly). 74. ~Not once perceive~, etc. This was not the case with the followers of
+Ulysses: see note, l. 52. 76. ~friends and native home forgot~. Circe's cup has here the effect
+ascribed to the lotus in _Odyssey_ ix. "Now whosoever of them did eat
+the honey-sweet fruit of the lotus had no more wish to bring tidings nor
+to come back, but there he chose to abide with the lotus-eating men,
+ever feeding on the lotus and forgetful of his homeward way." In
+Tennyson's _Lotos-Eaters_ there is no forgetfulness of friends and home:
+"Sweet it was to dream of Fatherland, Of child, and wife and slave." Masson also refers to Plato's ethical application of the story (_Rep._
+viii. ); "Plato speaks of the moral lotophagus, or youth steeped in
+sensuality, as accounting his very viciousness a developed manhood, and
+the so-called virtues but signs of rusticity." Compare also Spenser, _F. Q._ ii. 12. 86, "One above the rest in speciall, That had an hog been
+late, ... did him miscall, That had from hoggish form him brought to
+natural." 77. ~sensual sty~: see note on l. 52. To those who, "with low-thoughted
+care," are "unmindful of the crown that Virtue gives," the world becomes
+little better than a sensual sty. This line is adverbial to _forget_. 78. ~favoured~: compare Lat. _gratus_ = favoured (adj.). 79. ~adventurous~, full of risks. The current sense of 'adventurous,'
+applied only to persons, is "enterprising." See l. 61, 609. ~glade~:
+strictly, an open space in a wood, and hence applied (as here) to the
+wood itself. It is cognate with _glow_ and _glitter_, and its
+fundamental sense is 'a passage for light' (Skeat). 80. ~glancing star~, a shooting star. Comp. _Par. Lost_, iv. 556:
+
+          "Swift as a shooting star
+    In autumn thwarts the night." The rhythm of the line and the prevalence of sibilants suit the sense. 81. ~convoy~: comp. _Par. Lost_, vi. 752, "_convoyed_ By four cherubic
+shapes." It is another form of _convey_ (Lat. _con_ = together, _via_ =
+a way). 83. ~sky-robes~: the "ambrosial weeds" of line 16. ~Iris' woof~, material
+dyed in rainbow colours. The goddess Iris was a personification of the
+rainbow: comp. l. 992 and _Par. Lost_, xi. 244, "Iris had dipped the
+woof." Etymologically, _woof_ is connected with _web_ and _weave_: it is
+short for _on-wef_ = on-web, _i.e._ the cross threads laid on the warp
+of a loom. 84. ~weeds~: see note, l. 16. 86. ~That to the service~, etc. The part of the Spirit was acted by Lawes,
+first in "sky-robes," then in shepherd dress. In the dedication of
+_Comus_ by Lawes to Lord Brackley (anonymous edition of 1637), he
+alludes to the favours that had been shown him by the Bridgewater
+family. In the above lines Milton compliments Lawes and enables Lawes to
+compliment the Earl (see Introduction). 86. ~smooth-dittied~: sweetly-worded. 'Ditty' (Lat. _dictatum_) strictly
+denotes the words of a song as distinct from the musical accompaniment;
+it is now applied to any little piece intended to be sung: comp. _Lyc._
+32. For a similar panegyric on Lawes' musical genius compare _Son._
+xiii. The musical alliteration in lines 86-88 should be noted. 87. ~knows to still~, etc. : comp. _Lyc._ 10, "he knew Himself to sing." 88. ~nor of less faith~, etc. ; _i.e._ he is not less faithful than he is
+skilful in music; and from the nature of his occupation he is most
+likely to be at hand should any emergency arise. 92. ~viewless~, invisible: comp. _The Passion_, 50, "_viewless_ wing";
+_Par. Lost_, iii. 518. Masson calls this a peculiarly Shakespearian
+word: see _M. for M._ iii. 1. 124, "To be imprisoned in the viewless
+winds." The word is obsolete, but poets use great liberty in the
+formation of adjectives in _-less_: comp. Shelley's _Sensitive Plant_,
+'windless clouds.' See note, l. 574. ~charming-rod~: see note, l. 52: also
+l. 653. ~rout~, a disorderly crowd. The word is also used in the sense of
+'defeat,' and is cognate with _route_, _rote_, and _rut_. All come from
+Lat. _ruptus_, broken: a 'rout' is the breaking up of a crowd, or a
+crowd broken up; a 'route' is a way broken through a forest; 'rote' is a
+beaten track; and a 'rut' is a track left by a wheel. See _Lyc._ 61, "by
+the _rout_ that made the hideous roar." 93. ~star ... fold~, the evening star, Hesperus, an appellation of the
+planet Venus: comp. _Lyc._ 30. As the morning star (called by
+Shakespeare the 'unfolding star'), it is called Phosphorus or Lucifer,
+the light-bringer. Hence Tennyson's allusion:
+
+    "Bright Phosphor, fresher for the night,...
+    Sweet _Hesper-Phosphor_, double name." --
+
+    _In Memoriam_, cxxi. Lines 93-144 are in rhymed couplets, and consist for the most part of
+eight syllables each. 

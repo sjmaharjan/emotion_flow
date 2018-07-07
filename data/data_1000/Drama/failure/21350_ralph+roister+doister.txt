@@ -1,0 +1,541 @@
+
+
+
+
+Produced by Louise Hope, Barbara Tozier and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+  [Transcriberâs Note:
+
+  Words shown between +marks+ were printed in black-letter (âgothicâ)
+  type; _lines_ represent italics. Letters printed as superscripts
+  are shown in {braces}. Except for footnote and illustration markers, all brackets [ ] are
+  in the original. The symbol shown as â(,â,)â-- low 9, high 6, low 6,
+  the whole in parentheses-- has not been identified. Punctuation and capitalization in the play itself are unchanged. Note that the character descriptor âHarpaxâ-- a word, not a name--
+  is generally given in italics, not in blackletter, as is the word
+  âOmnesâ.] +English Reprints.+
+
+  NICHOLAS UDALL, M.A. Master, in succession, of Eton College and Westminster School. +ROISTER DOISTER.+
+  Written, probably also represented, before 1553. Carefully Edited from the Unique Copy,
+  Now at Eton College,
+
+  by
+  EDWARD ARBER,
+  _Associate, Kingâs College, London, F.R.G.S., &c._
+
+
+  London:
+  5 Queen Square, Bloomsbury, W.C.
+  Ent. Stat. Hall.] 24 July, 1869. [All Rights reserved. +Dramatis PersonÃ¦.+
+
+  +Ralph Roister Doister.+
+  +Mathew Merygreeke.+
+  +Gawyn Goodluck+, _affianced to Dame Custance_. +Tristram Trustie+, _his friend_. +Dobinet Doughtie+, _âboyâ to Roister Doister_. +Tom Trupenie+, _seruant to Dame Custance_. +Sym Suresby+, _seruant to Goodluck_. +Scriuener.+
+  _Harpax._
+
+  _Dame_ +Christian Custance+, _a widow_. +Margerie Mumblecrust+, _her nurse_. +Tibet Talk apace+, } _her maidens._
+  +Annot Alyface+,    }
+
+
+  Time. _About Two days._
+  Scene. _Not indicated: ? London._
+
+
+
+
+A brief Note of the LIFE, WORKS, and TIMES
+
+of
+
+NICHOLAS UDALL, M.A. Teacher, Dramatist, Translator, Preacher. In succession Master of Eton College, Rector of Braintree, Prebend of
+Windsor, Rector of Calborne, and Master of Westminster School. * Probable or approximate dates. There are materials extant for a good _Life_ of Udall. Meanwhile there
+is Mr. Cooperâs excellent _Memoir_ in the _Shakespeare Societyâs_
+reprint of _Ralph Roister Doister_ [_see_ No. 5 _on p. 8_]; and Anthony
+Ã -Woodâs account of him, _Ath. Oxon. i. 211. Ed. 1813_. +1485. Aug. 22. Henry VII. becomes king.+
+
+  *1504. Nicholas Udall ... was born in Hampshire, and descended from those
+  of his name, living sometimes at Wykeham in the same county.--_Wood_. +1509. April 22. Henry VIII. begins to reign.+
+
+  1520. June 18. Ã¦t. 14. Admitted scholar of Corpus Christi College, Oxford. 1524. May 30. Ã¦t. 18. Takes his B.A. [_Wood, Fasti Oxon., i. 65, Ed. 1815._]
+
+  ----. Sept. 3. Elected Probationer Fellow of his College. 1533. May. Whitsun Eve. Ã¦t. 27. _Royal MS. 18 A. lxiv. p. 275_, has two titles. (1.) Versis and
+  dities made at the coronation of queen Anne. (2.) Hereafter ensuethe
+  a copie of diuers and sundry verses aswell in latin as in Englishe
+  deuised and made partely by Iohn leland and partely by Nicholas
+  Vuedale whereof sum were sette vp and sum were spoken and pronounced
+  vnto the most high and excellente Quene the ladie Anne, wif vnto our
+  sourain lorde King Henry the eight in many goodly and costely
+  pageauntes exhibited and shewed by the mayre and citizens of the
+  famous citie of london at first tyme as hir grace rode from the
+  Towre of London through the said citie to hir most glorious
+  coronation at the monasterie of Westminster on Whitson yeue in th
+  xxv{th} yere of the raigne of our said soueraigne lorde. The Rev. Dr. Goodford, the present Provost of Eton, has most kindly
+  afforded me interesting information obtained by him from the MS.
+  records of the College; viz., the Audit Rolls and the Bursarâs
+  Books, respecting Udallâs connection with Eton. The salary of the Master at Eton was then Â£10 a year, or fifty
+  shillings for each of the four terms. In addition, he received 20s. for his âlivery,â and other small sums, as for obits (_i.e._
+  attending masses for the dead) [_e.g._ Udall received for obits,
+  14s. 8d. in 1535, and the same in 1536]; and for candles and ink for
+  the boys [_e.g._ Udall received for these purposes, 23s. 4d. in
+  1537, and the same in 1538.] If the assumed multiple of 13 truly
+  express the relatively greater purchasing power of gold and silver
+  more then than now: the salary and emoluments cannot be considered
+  excessive. 1534. June 19. Udall takes his M.A. [_Wood, Fasti., i. 98._]
+
+  1534-1543. Ã¦t. Udallâs name occurs in the Records spelt indifferently Woddall,
+  Woodall or Udall. His name first appears in 26 Henry VIII., 1534,
+  when his predecessor Dr. Richard Coxe was paid salary for three
+  terms, and Udall received 50s. for the fourth, his first term. The
+  payments continue on regularly so far as the books are extant, up to
+  1541. The Records for 1542 are missing. It was in March 1543 that
+  occurred the robbery of silver images and other plate by two Eton
+  scholars, J. Hoorde and T. Cheney, connived at by Udallâs servant
+  Gregory, which resulted in Udallâs losing his place. âThomas Tusser, gentleman,â in _The Authorâs Life_ added to his
+  _Fiue hundreth points of good husbandrie_, 1573, 4to, thus writes,
+  but without giving any date, of Udallâs use of the rod:
+
+    [Sidenote: Nicholas Vdal schole master at Eton.] From Powles I went, to Aeton sent,
+  To learne straight wayes, the Latin phraise,
+  Where fiftie three stripes giuen to mee,
+    at once I had:
+  For faut but small or none at all,
+  It came to passe, thus beat I was,
+  See Udall see, the mercy of thee,
+    to mee poore lad. 1537. Sept. 27. Is made Vicar of Braintree. _Newcourt, Rep. ii. 89._
+
+  1542. Udall publishes a translation of the 3rd and 4th books of Erasmusâ
+  _Apophthegms_. *1543. _Cott. MS. Titus, B. viii. p. 371_, is a long letter, undated and
+  unaddressed, to some one, as to âmy restitution to the roume of
+  Scholemaister in Eton.â
+
+  1544. Dec. 14. Resigns the Vicarship of Braintree. _Newcourt, idem._
+
+  1542-1545. He is engaged with the Princess, afterwards Queen Mary and others in
+  translating Erasmusâ _Paraphrase of the New Testament_ into English. â1545, Sept. 30, at London,â date of his _Preface to Lake_. In his _Pref._ to _John_, partly translated by Princess Mary, partly
+  by Rev. F. Malet, D.D. ; Udall gives us the following account of
+  female education in his day: which can only, however, apply to a few
+  women, like Elizabeth, Mary, and Lady Jane Grey. âBut nowe in this
+  gracious and blisseful tyme of knowledge, in whiche it hath pleased
+  almightye God to reuele and shewe abrode the lyght of his moste
+  holye ghospell: what a noumbre is there of noble women (especially
+  here in this realme of Englande,) yea and howe many in the yeares of
+  tender vyrginitiee, not only aswel seen and as familiarly trade in
+  the Latine and Greke tounges, as in theyr owne mother language: but
+  also both in all kindes of prophane litterature, and liberall artes,
+  exactely studied and exercised, and in the holy Scriptures and
+  Theologie so ripe, that they are able aptely cunnyngly, and with
+  much grace eyther to indicte or translate into the vulgare tongue,
+  for the publique instruccion and edifying of the vnlearned
+  multitude.... It is nowe no newes in Englande to see young damisels
+  in nobles houses and in the Courtes of Princes, in stede of cardes
+  and other instrumentes of idle trifleyng, to haue continually in her
+  handes, eyther Psalmes, Omelies, and other deuoute meditacions, or
+  elles Paules Epistles, or some booke of holye Scripture matiers: and
+  as familiarlye both to reade or reason thereof in Greke, Latine,
+  Frenche, or Italian, as in Englishe.â
+
+
++1547. Jan. 28. Edward VI. ascends the throne.+
+
+  â1552. July 20. At Windsor.â The date of Udallâs preface to the
+  translation by himself and others, of T. Geminiâs _Anatomy_. +1553. July 6. Mary succeeds to the crown.+
+
+  1554. Dec. 3. Date of a warrant dormer from the Queen to the Master of her Revels. [Reprinted in _The Loseley MSS._ Ed. by A. J. Kempe, F.S.A. London. 1836.] The warrant runs thus-- âWhereas our wellbeloued Nicholas
+  Udall hath at soondrie seasons convenient heretofore shewed and
+  myndeth hereafter to shewe his diligence in setting foorth of
+  Dialogues and Enterludes before us foâ ouâ regell disporte and
+  recreacion.â ... And then goes on to authorize the loan of apparel
+  for those purposes. Did the popularity of the Dramatist, and her
+  personal acquaintance with him, since they had worked together on
+  Erasmusâ _Paraphrase_, lead the Queen to condone the intense
+  Protestantism of the Preacher, even to the continuing of him in
+  favour? Udall and Ascham, two noted Protestants, are both favoured
+  by Mary. *1555. 1556. Nov.
+
+  Udall is appointed Master of Westminster School, and so continues
+  until Mary re-establishes the Monastery at Westminster. 1556. Dec.
+
+  Udall dies. ----. ---- 23. He is buried in St. Margaretâs, Westminster. _Cooper, as above._
+
+
+
+
+ROISTER DOISTER. INTRODUCTION. The author and early date of the present Comedy are ascertained by a
+quotation in Sir Thomas Wilsonâs _Rule of Reason_ of Roister Doisterâs
+letter to Dame Custance. The first edition of the _Rule of Reason_, 1550-1, is a very scarce
+work; of which I have been unable to see a copy. The second edition,
+1552, 8vo, ânewely corrected by _Thomas Wilson_,â has _not_ the
+quotation: which apparently first appears in the third edition of 1553,
+4to, the title of which runs, âThe Rule of Reason, conteinyng the Arte
+of _Logique_. Sette furthe in Englishe, and newly corrected by Thomas
+Wilson. _Anno Domini. M.D.LIII._ Mense Ianuarij.â
+
+At folio 66 of this edition, Wilson, in treating of _The Ambiguitie_,
+adds to his previous examples, Roister Doisterâs letter, with the
+following heading:
+
+  Â¶ An example of soche doubtful writing, whiche by reason of
+        poincting maie haue double sense, and contrarie
+               meaning, taken out of an entrelude
+                     made by Nicolas Vdal. The present comedy was therefore undoubtedly written before the close of
+the reign of Edward VI., who died 6 July 1553. If it was then printed, that entire edition has perished. The prayer
+for the Queen at _p._ 86, can be for no other than Queen Elizabeth: and
+therefore, although the title-page is wanting and there is no conclusive
+allusion in the play, it may confidently be believed that the extant
+text was printed in Elizabethâs reign: and that it had possibly in some
+respects been modified. There now comes the evidence of the Stationers Co.âs Register, as quoted
+by Mr. Collier, _Extracts_, _i. 154_, _Ed. 1848_:
+
+  Rd of Thomas Hackett, for hys lycense for pryntinge of a play
+  intituled auf Ruyster Duster, &c.       iiijd
+
+The missing title-page and the absence of any colophon in the Eton copy,
+here reprinted, preclude demonstrative proof that it is one of Hackettâs
+edition. It is however morally certain that it does represent that text. On the whole, therefore, though that text was posthumous--Udall having
+died in Dec. 1556--: and though its authorship rests entirely on the
+above heading of Wilsonâs quotation: it may be safely accepted that
+Udall is the author of this comedy, and that he wrote it before 1553. Conclusions both of them consonant with the known facts of Udallâs life. The comedy was probably first written for the Eton boys to act. Mr.
+W. D. Cooper thus writes:--
+
+  Certain, however, it is that it was the custom of Eton, about the
+  feast of St. Andrew, for the Master to choose some Latin stage-play
+  for the boys to act in the following Christmas holidays, and that he
+  might sometimes order smart and witty English plays. âAmong the
+  writings of Udall about the year 1540,â says Warton, âare recited
+  _Plures ComediÃ¦_, and a tragedy _De Papatu_, on the Papacy, written
+  probably to be acted by his scholars;â and it is equally probable
+  that the English comedy was written with a like object; for it is
+  admirably adapted to be a good acting play, and the author avows in
+  the prologue that his models were Plautus and Terence, with whose
+  writings his scholars were familiar. Of the few dramatic pieces of that early period that have survived,
+_Roister Doister_ is regarded as the transition-play from the Mysteries
+and Enterludes of the Middle Ages to the Comedies of modern times. A critical examination of its position in our Literature has been made
+by Mr. Collier. _Hist. of Dram. Poetry. ii. 445-460 Ed. 1830_. A full
+consideration of the play would exceed our present limits: we may
+however call attention to the peculiar rhyme in which Udall wrote it. In the present reprint, the text appears according to modern usage: but
+in the original it stands in lines of unvarying length. Where the speech
+is continuous, these lines rhyme like our ordinary poetry: but when the
+dialogue is short; one, two, three or more speeches are thrown into one
+line, and the last syllables of that line--whether they occur in words
+in the middle or at the end of a sentence, as dictated simply by the
+length of line of type--are made to rough rhyme in couplets. Thus an
+irregular assonance jingles through the play. On the opposite page are a few lines set up as in the original, to
+illustrate this peculiarity; and also to show the mode used of marking
+the actorâs names. May this peculiar rhyme be accepted as any evidence
+that Udall composed this play as much for the press as the stage? There being no description of the representation and the stage
+directions being scanty: _Roister Doister_ should be read a first time
+to learn the plot; a second time to imagine the action: and a third to
+combine and enjoy the two. [Transcriberâs Note:
+
+  The word âNayâ is the catchword at the bottom of its page. The line
+  beginning âHe was with meâ and ending âT. Trustieâ was printed on a
+  single line.] ACTUS. iiij. SCÃNA. v.
+
+  Bottom of the second, even-numbered page of folio 24, in the
+  original edition. +C. Custance.+ Trupenie get thee in, thou shalt among them knowe,
+      How to vse thy selfe, like a propre man I trowe. +Trupeny.+ I go. _Ex._ +C. C.+ Now Tristram Trusty I thank you right
+                  much. For at my first sending to come ye neuer grutch. +T. Trusty.+ Dame Custance God ye saue, and while my life shall last,
+      For my friende Goodlucks sake ye shall not sende in wast. +C. Custance.+ He shal giue you thanks. +T. Trusty.+ I wil do much
+                  for his sake
+
+  +C. Custance.+ But alack, I feare, great displeasure shall be take. +T. Trusty.+ Wherfore? +C. C.+ For a foolish matter. +T. T.+ What is
+                  your cause
+
+  +C. Custance.+ I am yll accombred with a couple of dawes. Nay
+
+
+  Top of the first, odd-numbered page of folio 25. _Roister Doister._
+
+    Nay weepe not woman; but tell me what your cause is   +T. Trusty.+
+  As concerning my friende is any thing amisse? No not on my part: but here was Sym Suresby. +C. Custance.+
+
+    He was with me and tolde me so. +C. C.+ And he stoode by                +T. Trustie.+
+  While Ralph Roister Doister with helpe of Merygreeke,
+  For promise of mariage dyd vnto me seeke. _BIBLIOGRAPHY._
+
+
++Roister Doister.+
+
+The whole of Udallâs plays were supposed to have perished [see _Wood. Ath. Oxon. i. 213_, Ed. 1813]. The Rev. T. Briggs, an old Etonian, in
+1818, became the possessor of the now famous unique copy: which he
+presented to the Library of Eton College, in December of that year. 1. [?1566.] Lond. 1 vol. 4to. ? First edition of a revised text. The copy, now at Eton College,
+  consists of 33 folios. The title-page is wanting. 2. 1818. Lond. 1 vol. 8vo. â_Ralph Royster Doyster_, A Comedy. London. Reprinted in the year
+  1818.â [Ed. and privately printed by Rev. T. Briggs. 30 copies only
+  struck off. The printer was James Compton, Middle St., Cloth Fair,
+  London.] At the beginning is the following _Advertisement_:--
+
+  âIt appears from the Biographia Dramatica, that a Play called _Rauf
+  Ruster Duster_ was entered on the books of the Stationersâ Company
+  in the year 1566, but that it was supposed never to have been
+  printed: this, however, is now proved to be a mistake, a copy having
+  been found contained in a collection of plays which was lately upon
+  sale in London. It is true that the name is spelt somewhat
+  differently, but it is presumed there can be no doubt of its being
+  the piece in question. The book unfortunately wants the title-page,
+  and the authorâs name is not known. It is now in the Library of Eton
+  College, and is here reprinted for the amusement of the reader.â
+
+3. 1821. Lond. 1 vol. 8vo. â_Ralph Royster Doyster_, a Comedy, entered on the books of the
+  Stationersâ Company, 1566. London: Printed by F. Marshall, Kenton
+  St., Brunswick Sq., 1821.â [Editor not known.] R. Southeyâs copy, with his autograph, and dated 1 Feb. 1837, is in
+  the British Museum. Press-mark, 1344-k. Neither of the above knew that Udall was the author. The editor of
+  1821 reprint writes, âThe author, whoever he was,â _p._ iv. It was
+  Mr. Collier who connected Wilsonâs quotation with _Roister Doister_,
+  and so proved Udall to be its author. Writing on 14th April 1865; he
+  thus begins the _Preface_ of his _Bibl. Account of Ear. Eng. Lit._
+  Ed. 1865.
+
+  âDuring my whole life, now rapidly approaching fourscore, I have
+  been a diligent reader, and, as far as my means would allow,
+  a greedy purchaser of all works connected with early English
+  literature. It is nearly sixty years since I became possessed of my
+  first really valuable old book of this kind--Wilsonâs âArt of
+  Logic,â printed by Richard Grafton 1551--from which I ascertained
+  the not unimportant facts that âRalph Roister Doisterâ was an older
+  play than âGammer Gurtonâs Needle,â and that it had been written by
+  Nicholas Udall, Master of Eton School: I thus learned who was the
+  author of the earliest comedy, properly so called, in our language. This was my first literary discovery, made several years anterior,
+  although I had not occasion to render it public, until I printed my
+  Notes upon âDodsleyâs Old Plays,â soon after 1820.â*
+
+    [Footnote *: _See vol. ii. p. 3. Ed. 1825._]
+
+4. 1830. Lond. 3 vols. 18mo. _The Old English Drama_, A series of Plays, at 6d each, printed and
+  published by Thomas White. _Ralph Royster Doyster_ is the first. 5. 1847. Lond. 1 vol. 8vo. _Shakespeare Society_. _Ralph Roister Doister_, &c., and _The
+  Tragedie of Gorboduc_. Edited, with Introductory Memoirs, by W. D.
+  Cooper, F.S.A. The text collated with the original by J. P. Collier,
+  F.S.A. 6. 24 July 1869. Lond. 1 vol. 8vo. _English Reprints_: see title at
+  _p._ 1.
+
+  â´ All the previous reprints have been and now are unobtainable to
+  most persons. It is to the most courteous and generous kindness of
+  the present Provost and Fellows of Eton College that I am enabled to
+  place what I hope may prove an exact text into the hands of every
+  one. I trust also to keep it perpetually on sale: that the student
+  of the History of our Literature may no longer lack one of the most
+  important illustrations of the growth of English Dramatic Poesy. The Prologue. What Creature is in health, eyther yong or olde,
+  But som mirth with modestie wil be glad to vse
+  As we in thys Enterlude shall now vnfolde,
+  Wherin all scurilitie we vtterly refuse,
+  Auoiding such mirth wherin is abuse:
+  Knowing nothing more comendable for a mans recreation
+  Than Mirth which is vsed in an honest fashion:
+  For Myrth prolongeth lyfe, and causeth health. Mirth recreates our spirites and voydeth pensiuenesse,
+  Mirth increaseth amitie, not hindring our wealth,
+  Mirth is to be vsed both of more and lesse,
+  Being mixed with vertue in decent comlynesse. As we trust no good nature can gainsay the same:
+  Which mirth we intende to vse, auoidyng all blame. The wyse Poets long time heretofore,
+  Vnder merrie Comedies secretes did declare,
+  Wherein was contained very vertuous lore,
+  With mysteries and forewarnings very rare. Suche to write neither _Plautus_ nor _Terence_ dyd spare,
+  Whiche among the learned at this day beares the bell:
+  These with such other therein dyd excell. Our Comedie or Enterlude which we intende to play. Is named Royster Doyster in deede. Which against the vayne glorious doth inuey,
+  Whose humour the roysting sort continually doth feede. Thus by your pacience we intende to proceede
+  In this our Enterlude by Gods leaue and grace,
+  And here I take my leaue for a certaine space. FINIS. _Roister Doister._
+
+
+
+
+Actus. j. ScÃ¦na. j. +Mathewe Merygreeke.+ _He entreth singing._
+
+  As long lyueth the mery man (they say)
+  As doth the sory man, and longer by a day. Yet the Grassehopper for all his Sommer pipyng,
+  Sterueth in Winter wyth hungrie gripyng,
+  Therefore an other sayd sawe doth men aduise,
+  That they be together both mery and wise. Thys Lesson must I practise, or else ere long,
+  Wyth mee Mathew Merygreeke it will be wrong. In deede men so call me, for by him that vs bought,
+  What euer chaunce betide, I can take no thought,
+  Yet wisedome woulde that I did my selfe bethinke
+  Where to be prouided this day of meate and drinke:
+  For know ye, that for all this merie note of mine,
+  He might appose me now that should aske where I dine. My lyuing lieth heere and there, of Gods grace,
+  Sometime wyth this good man, sometyme in that place,
+  Sometime Lewis Loytrer biddeth me come neere,
+  Somewhyles Watkin Waster maketh vs good cheere,
+  Sometime Dauy Diceplayer when he hath well cast
+  Keepeth reuell route as long as it will last. Sometime Tom Titiuile maketh vs a feast,
+  Sometime with sir Hugh Pye I am a bidden gueast,
+  Sometime at Nichol Neuerthriues I get a soppe,
+  Sometime I am feasted with Bryan Blinkinsoppe,
+  Sometime I hang on Hankin Hoddydodies sleeue,
+  But thys day on Ralph Royster Doysters by hys leeue. For truely of all men he is my chiefe banker
+  Both for meate and money, and my chiefe shootanker. For, sooth Roister Doister in that he doth say,
+  And require what ye will ye shall haue no nay. But now of Roister Doister somewhat to expresse,
+  That ye may esteeme him after hys worthinesse,
+  In these twentie townes and seke them throughout,
+  Is not the like stocke, whereon to graffe a loute. All the day long is he facing and craking
+  Of his great actes in fighting and fraymaking:
+  But when Roister Doister is put to his proofe,
+  To keepe the Queenes peace is more for his behoofe. If any woman smyle or cast on hym an eye,
+  Vp is he to the harde eares in loue by and by,
+  And in all the hotte haste must she be hys wife. Else farewell hys good days, and farewell his life,
+  Maister Raufe Royster Doister is but dead and gon
+  Excepte she on hym take some compassion,
+  Then chiefe of counsell, must be Mathew Merygreeke,
+  What if I for mariage to suche an one seeke? Then must I sooth it, what euer it is:
+  For what he sayth or doth can not be amisse,
+  Holde vp his yea and nay, be his nowne white sonne,
+  Prayse and rouse him well, and ye haue his heart wonne,
+  For so well liketh he his owne fonde fashions
+  That he taketh pride of false commendations. But such sporte haue I with him as I would not leese,
+  Though I should be bounde to lyue with bread and cheese. For exalt hym, and haue hym as ye lust in deede:
+  Yea to hold his finger in a hole for a neede. I can with a worde make him fayne or loth,
+  I can with as much make him pleased or wroth,
+  I can when I will make him mery and glad,
+  I can when me lust make him sory and sad,
+  I can set him in hope and eke in dispaire,
+  I can make him speake rough, and make him speake faire. But I maruell I see hym not all thys same day,
+  I wyll seeke him out: But loe he commeth thys way,
+  I haue yond espied hym sadly comming,
+  And in loue for twentie pounde, by hys glommyng. Actus. j. ScÃ¦na. ij. +Rafe Roister Doister. Mathew Merygreeke.+
+
++R. Royster.+ Come death when thou wilt, I am weary of my life. +M. Mery.+ I tolde you I, we should wowe another wife. +R. Royster.+ Why did God make me suche a goodly person? +M. Mery.+ He is in by the weke, we shall haue sport anon. +R. Royster.+ And where is my trustie friende Mathew Merygreeke? +M. Mery.+ I wyll make as I sawe him not, he doth me seeke. +R. Royster.+ I haue hym espyed me thinketh, yond is hee,
+Hough Mathew Merygreeke my friend, a worde with thee. +M. Mery.+ I wyll not heare him, but make as I had haste,
+Farewell all my good friendes, the tyme away dothe waste,
+And the tide they say, tarieth for no man. +R. Royster.+ Thou must with thy good counsell helpe me if thou can. +M. Mery.+ God keepe thee worshypfull Maister Roister Doister,
+And fare well the lustie Maister Roister Doister. +R. Royster.+ I muste needes speake with thee a worde or twaine. +M. Mery.+ Within a month or two I will be here againe,
+Negligence in greate affaires ye knowe may marre all. +R. Royster.+ Attende vpon me now, and well rewarde thee I shall. +M. Mery.+ I haue take my leaue, and the tide is well spent. +R. Royster.+ I die except thou helpe, I pray thee be content,
+Doe thy parte wel nowe, and aske what thou wilt,
+For without thy aide my matter is all spilt. +M. Mery.+ Then to serue your turne I will some paines take,
+And let all myne owne affaires alone for your sake. +R. Royster.+ My whole hope and trust resteth onely in thee. +M. Mery.+ Then can ye not doe amisse what euer it bee. +R. Royster.+ Gramercies Merygreeke, most bounde to thee I am. +M. Mery.+ But vp with that heart, and speake out like a ramme,
+Ye speake like a Capon that had the cough now:
+Bee of good cheere, anon ye shall doe well ynow. +R. Royster.+ Vpon thy comforte, I will all things well handle. +M. Mery.+ So loe, that is a breast to blowe out a candle. But what is this great matter I woulde faine knowe,
+We shall fynde remedie therefore I trowe. Doe ye lacke money? ye knowe myne olde offers,
+Ye haue always a key to my purse and coffers. +R. Royster.+ I thanke thee: had euer man suche a frende? +M. Mery.+ Ye gyue vnto me: I must needes to you lende. +R. Royster.+ Nay I haue money plentie all things to discharge. +M. Mery.+ That knewe I ryght well when I made offer so large. [Handwritten note in margin of following line:
+  R. Royster]
+
+But it is no suche matter. +M. Mery.+ What is it than? Are ye in daunger of debte to any man? If ye be, take no thought nor be not afraide,
+Let them hardly take thought how they shall be paide. +R. Royster.+ Tut I owe nought. +M. Mery.+ What then? fear ye imprisonment? +R. Royster.+ No. +M. Mery.+ No I wist ye offende, not so to be shent. But if he had, the Toure coulde not you so holde,
+But to breake out at all times ye would be bolde. What is it? hath any man threatned you to beate? +R. Royster.+ What is he that durst haue put me in that heate? He that beateth me by his armes shall well fynde,
+That I will not be farre from him nor runne behinde. +M. Mery.+ That thing knowe all men euer since ye ouerthrewe,
+The fellow of the Lion which _Hercules_ slewe. But what is it than? +R. Royster.+ Of loue I make my mone. +M. Mery.+ Ah this foolishe a loue, wilt neare let vs alone? But bicause ye were refused the last day,
+Ye sayd ye woulde nere more be intangled that way. I woulde medle no more, since I fynde all so vnkinde. +R. Royster.+ Yea, but I can not so put loue out of my minde. +Math. Mer.+ But is your loue tell me first, in any wise,
+In the way of Mariage, or of Merchandise? If it may otherwise than lawfull be founde,
+Ye get none of my helpe for an hundred pounde. +R. Royster.+ No by my trouth I woulde haue hir to my Wife. +M. Mery.+ Then are ye a good man, and God saue your life,
+And what or who is she, with whome ye are in loue? +R. Royster.+ A woman whome I knowe not by what meanes to moue. +M. Mery.+ Who is it? +R. Royster.+ A woman yond. +M. Mery.+ What is hir name? +R. Royster.+ Hir yonder. +M. Mery.+ Whom. +R. Royster.+ Mistresse ah. +M. Mery.+ Fy fy for shame
+Loue ye, and know not whome? but hir yonde, a Woman,
+We shall then get you a Wyfe, I can not tell whan. +R. Royster.+ The faire Woman, that supped wyth vs yesternyght,
+And I hearde hir name twice or thrice, and had it ryght. +M. Mery.+ Yea, ye may see ye nere take me to good cheere with you,
+If ye had, I coulde haue tolde you hir name now. +R. Royster.+ I was to blame in deede, but the nexte tyme perchaunce:
+And she dwelleth in this house. +M. Mery.+ What Christian Custance. +R. Royster.+ Except I haue hir to my Wife, I shall runne madde. +M. Mery.+ Nay vnwise perhaps, but I warrant you for madde. +R. Royster.+ I am vtterly dead vnlesse I haue my desire. +M. Mery.+ Where be the bellowes that blewe this sodeine fire? +R. Royster.+ I heare she is worthe a thousande pounde and more. +M. Mery.+ Yea, but learne this one lesson of me afore,
+An hundred pounde of Marriage money doubtlesse,
+Is euer thirtie pounde sterlyng, or somewhat lesse,
+So that hir Thousande pounde yf she be thriftie,
+Is muche neere about two hundred and fiftie,
+Howebeit wowers and Widowes are neuer poore. +R. Royster.+ Is she a Widowe? I loue hir better therefore. +M. Mery.+ But I heare she hath made promise to another. +R. Royster.+ He shall goe without hir, and he were my brother. +M. Mery.+ I haue hearde say, I am right well aduised,
+That she hath to Gawyn Goodlucke promised. +R. Royster.+ What is that Gawyn Goodlucke? +M. Mery.+ a Merchant man. +R. Royster.+ Shall he speede afore me? nay sir by sweete Sainct Anne. Ah sir, Backare quod Mortimer to his sowe,
+I wyll haue hir myne owne selfe I make God a vow. For I tell thee, she is worthe a thousande pounde. +M. Mery.+ Yet a fitter wife for your maship might be founde:
+Suche a goodly man as you, might get one wyth lande,
+Besides poundes of golde a thousande and a thousande,
+And a thousande, and a thousande, and a thousande,
+And so to the summe of twentie hundred thousande,
+Your most goodly personage is worthie of no lesse. +R. Royster.+ I am sorie God made me so comely doubtlesse. For that maketh me eche where so highly fauoured,
+And all women on me so enamoured. +M. Mery.+ Enamoured quod you? haue ye spied out that? Ah sir, mary nowe I see you know what is what. Enamoured ka? mary sir say that againe,
+But I thought not ye had marked it so plaine. +R. Royster.+ Yes, eche where they gaze all vpon me and stare. +M. Mery.+ Yea malkyn, I warrant you as muche as they dare. And ye will not beleue what they say in the streete,
+When your mashyp passeth by all such as I meete,
+That sometimes I can scarce finde what aunswere to make. Who is this (sayth one) sir _Launcelot du lake_? Who is this, greate _Guy_ of Warwike, sayth an other? No (say I) it is the thirtenth _Hercules_ brother. Who is this? noble _Hector_ of _Troy_, sayth the thirde? No, but of the same nest (say I) it is a birde. Who is this? greate _Goliah_, _Sampson_, or _Colbrande_? No (say I) but it is a brute of the Alie lande. Who is this? greate _Alexander_? or _Charle le Maigne_? No, it is the tenth Worthie, say I to them agayne:
+I knowe not if I sayd well. +R. Royster.+ Yes for so I am. +M. Mery.+ Yea, for there were but nine worthies before ye came. To some others, the thirde _Cato_ I doe you call. And so as well as I can I aunswere them all. Sir I pray you, what lorde or great gentleman is this? Maister Ralph Roister Doister dame say I, ywis. O Lorde (sayth she than) what a goodly man it is,
+Woulde Christ I had such a husbande as he is. O Lorde (say some) that the sight of his face we lacke:
+It is inough for you (say I) to see his backe. His face is for ladies of high and noble parages. With whome he hardly scapeth great mariages. With muche more than this, and much otherwise. +R. Royster.+ I can thee thanke that thou canst suche answeres deuise:
+But I perceyue thou doste me throughly knowe. +M. Mery.+ I marke your maners for myne owne learnyng I trowe,
+But suche is your beautie, and suche are your actes,
+Suche is your personage, and suche are your factes,
+That all women faire and fowle, more and lesse,
+That eye you, they lubbe you, they talke of you doubtlesse,
+Your p[l]easant looke maketh them all merie,
+Ye passe not by, but they laugh till they be werie,
+Yea and money coulde I haue the truthe to tell,
+Of many, to bryng you that way where they dwell. +R. Royster.+ Merygreeke for this thy reporting well of mee:
+
++M. Mery.+ What shoulde I else sir, it is my duetie pardee:
+
++R. Royster.+ I promise thou shalt not lacke, while I haue a grote. +M. Mery.+ Faith sir, and I nere had more nede of a newe cote. +R. Royster.+ Thou shalte haue one to morowe, and golde for to spende. +M. Mery.+ Then I trust to bring the day to a good ende. For as for mine owne parte hauing money inowe,
+I could lyue onely with the remembrance of you. But nowe to your Widowe whome you loue so hotte. +R. Royster.+ By cocke thou sayest truthe, I had almost forgotte. +M. Mery.+ What if Christian Custance will not haue you what? +R. Royster.+ Haue me? yes I warrant you, neuer doubt of that,
+I knowe she loueth me, but she dare not speake. +M. Mery.+ In deede meete it were some body should it breake. +R. Royster.+ She looked on me twentie tymes yesternight,
+And laughed so. +M. Mery.+ That she coulde not sitte vpright,
+
++R. Royster.+ No faith coulde she not. +M. Mery.+ No euen such a thing I cast. +R. Royster.+ But for wowyng thou knowest women are shamefast. But and she knewe my minde, I knowe she would be glad,
+And thinke it the best chaunce that euer she had. +M. Mery.+ Too hir then like a man, and be bolde forth to starte,
+Wowers neuer speede well, that haue a false harte. +R. Royster.+ What may I best doe? +M. Mery.+ Sir remaine ye a while,
+Ere long one or other of hir house will appere. Ye knowe my minde. +R. Royster.+ Yea now hardly lette me alone. +M. Mery.+ In the meane time sir, if you please, I wyll home,
+And call your Musitians, for in this your case
+It would sette you forth, and all your wowyng grace,
+Ye may not lacke your instrumentes to play and sing. +R. Royster.+ Thou knowest I can doe that. +M. Mery.+ As well as any thing. Shall I go call your folkes, that ye may shewe a cast? +R. Royster.+ Yea runne I beseeche thee in all possible haste. +M. Mery.+ I goe. _Exeat._
+
++R. Royster.+ Yea for I loue singyng out of measure,
+It comforteth my spirites and doth me great pleasure. But who commeth forth yond from my swete hearte Custance? My matter frameth well, thys is a luckie chaunce. Actus. j. ScÃ¦na. iij. +Mage Mumble crust+, _spinning on the distaffe_. +Tibet Talk apace+, _sowyng_. +Annot Alyface+ _knittyng_. +R. Roister.+
+
++M. Mumbl.+ If thys distaffe were spoonne Margerie Mumblecrust. +Tib Talk.+ Where good stale ale is will drinke no water I trust. +M. Mumbl.+ Dame Custance hath promised vs good ale and white bread. +Tib Talk.+ If she kepe not promise, I will beshrewe her head:
+But it will be starke nyght before I shall haue done. +R. Royster.+ I will stande here a while, and talke with them anon,
+I heare them speake of Custance, which doth my heart good,
+To heare hir name spoken doth euen comfort my blood. +M. Mumbl.+ Sit downe to your worke Tibet like a good girle. +Tib. Talk.+ Nourse medle you with your spyndle and your whirle,
+No haste but good, Madge Mumblecrust, for whip and whurre
+The olde prouerbe doth say, neuer made good furre. +M. Mumbl.+ Well, ye wyll sitte downe to your worke anon, I trust. +Tib. Talk.+ Soft fire maketh sweete malte, good Madge Mumblecrust. +M. Mumbl.+ And sweete malte maketh ioly good ale for the nones. +Tib. Talk.+ Whiche will slide downe the lane without any bones. _Cantet._
+Olde browne bread crustes must haue much good mumblyng,
+But good ale downe your throte hath good easie tumbling. +R. Royster.+ The iolyest wenche that ere I hearde, little mouse,
+May I not reioyce that she shall dwell in my house? +Tib. Talk.+ So sirrha, nowe this geare beginneth for to frame. +M. Mumbl.+ Thanks to God, though your work stand stil, your tong is
+    not lame
+
++Tib. Talk.+ And though your teeth be gone, both so sharpe and so fine
+Yet your tongue can renne on patins as well as mine. +M. Mumbl.+ Ye were not for nought named Tyb Talke apace. +Tib. Talk.+ Doth my talke grieue you? Alack, God saue your grace. +M. Mumbl.+ I holde a grote ye will drinke anon for this geare. +Tib. Talk.+ And I wyll pray you the stripes for me to beare. +M. Mumbl.+ I holde a penny, ye will drink without a cup. +Tib. Talk.+ Wherein so ere ye drinke, I wote ye drinke all vp. +An. Alyface.+ By Cock and well sowed, my good Tibet Talke apace. +Tib. Talk.+ And een as well knitte my nowne Annot Alyface. +R. Royster.+ See what a sort she kepeth that must be my wife. Shall not I when I haue hir, leade a merrie life? +Tib. Talk.+ Welcome my good wenche, and sitte here by me iust. +An. Alyface.+ And howe doth our old beldame here, Mage Mumblecrust? +Tib. Talk.+ Chyde, and finde faultes, and threaten to complaine. +An. Alyface.+ To make vs poore girles shent to hir is small gaine. +M. Mumbl.+ I dyd neyther chyde, nor complaine, nor threaten. +R. Royster.+ It woulde grieue my heart to see one of them beaten. +M. Mumbl.+ I dyd nothyng but byd hir worke and holde hir peace. +Tib. Talk.+ So would I, if you coulde your clattering ceasse:
+But the deuill can not make olde trotte holde hir tong. +An. Alyface.+ Let all these matters passe, and we three sing a song,
+So shall we pleasantly bothe the tyme beguile now,
+And eke dispatche all our workes ere we can tell how. +Tib. Talk.+ I shrew them that say nay, and that shall not be I. +M. Mumbl.+ And I am well content. +Tib. Talk.+ Sing on then by and by. +R. Royster.+ And I will not away, but listen to their song,
+Yet Merygreeke and my folkes tary very long. +Tib+, +An+, _and_ +Margerie+, _doe singe here_. Pipe mery Annot. etc. Trilla, Trilla. Trillarie. Worke Tibet, worke Annot, worke Margerie. Sewe Tibet, knitte Annot, spinne Margerie. Let vs see who shall winne the victorie. +Tib. Talk.+ This sleue is not willyng to be sewed I trowe,
+A small thing might make me all in the grounde to throwe. _Then they sing agayne._
+
+Pipe merrie Annot. etc. Trilla. Trilla. Trillarie. What Tibet, what Annot, what Margerie. Ye sleepe, but we doe not, that shall we trie. Your fingers be nombde, our worke will not lie. +Tib. Talk.+ If ye doe so againe, well I would aduise you nay. In good sooth one stoppe more, and I make holy day. _They singe the thirde tyme._
+
+            Pipe Mery Annot. etc. Trilla. Trilla. Trillarie. Nowe Tibbet, now Annot, nowe Margerie. Nowe whippet apace for the maystrie,
+But it will not be, our mouth is so drie. +Tib. Talk.+ Ah, eche finger is a thombe to day me thinke,
+I care not to let all alone, choose it swimme or sinke. _They sing the fourth tyme._
+
+          Pipe Mery Annot. etc. Trilla. Trilla. Trillarie. When Tibet, when Annot, when Margerie. I will not, I can not, no more can I. _Lette hir caste downe hir vvorke._
+Then giue we all ouer, and there let it lye. +Tib. Talk.+ There it lieth, the worste is but a curried cote,
+Tut I am vsed therto, I care not a grote. +An. Alyface.+ Haue we done singyng since? then will I in againe,
+Here I founde you, and here I leaue both twaine. _Exeat._
+
++M. Mumbl.+ And I will not be long after: Tib Talke apace. +Tib. Talk.+ What is ye matter? +M. Mumb.+ Yond stode a man al this space
+And hath hearde all that euer we spake togyther. +Tib. Talk.+ Mary the more loute he for his comming hither. And the lesse good he can to listen maidens talke. I care not and I go byd him hence for to walke:
+It were well done to knowe what he maketh here away. +R. Royster.+ Nowe myght I speake to them, if I wist what to say. +M. Mumbl.+ Nay we will go both off, and see what he is. +R. Royster.+ One that hath hearde all your talke and singyng ywis. +Tib. Talk.+ The more to blame you, a good thriftie husbande
+Woulde elsewhere haue had some better matters in hande. +R. Royster.+ I dyd it for no harme, but for good loue I beare,
+To your dame mistresse Custance, I did your talke heare. And Mistresse nource I will kisse you for acquaintance. +M. Mumbl.+ I come anon sir. +Tib. Talk.+ Faith I would our dame Custance
+Sawe this geare. +M. Mumbl.+ I must first wipe al cleane, yea I must. +Tib. Talk.+ Ill chieue it dotyng foole, but it must be cust. +M. Mumbl.+ God yelde you sir, chad not so much ichotte not whan,
+Nere since chwas bore chwine, of such a gay gentleman. +R. Royster.+ I will kisse you too mayden for the good will I beare you. +Tib. Talk.+ No forsoth, by your leaue ye shall not kisse me. +R. Royster.+ Yes be not afearde, I doe not disdayne you a whit. +Tib. Talk.+ Why shoulde I feare you? I haue not so little wit,
+Ye are but a man I knowe very well. +R. Royster.+ Why then? +Tib. Talk.+ Forsooth for I wyll not, I vse not to kisse men. +R. Royster.+ I would faine kisse you too good maiden, if I myght. +Tib. Talk.+ What shold that neede? +R. Royster.+ But to honor you by this light. I vse to kisse all them that I loue to God I vowe. +Tib. Talk.+ Yea sir? I pray you when dyd ye last kisse your cowe. +R. Royster.+ Ye might be proude to kisse me, if ye were wise. +Tib. Talk.+ What promotion were therein? +R. Royster.+ Nourse is not so nice. +Tib. Talk.+ Well I haue not bene taught to kissing and licking. +R. Royster.+ Yet I thanke you mistresse Nourse, ye made no sticking. +M. Mumbl.+ I will not sticke for a kosse with such a man as you. +Tib. Talk.+ They that lust: I will againe to my sewyng now. +An. Alyfac[e].+ Tidings hough, tidings, dame Custance greeteth you
+    well. +R. Royster.+ Whome me? +An. Alyface.+ You sir? no sir? I do no suche tale tell. +R. Royster.+ But and she knewe me here. +An. Alyface.+ Tybet Talke apace,
+Your mistresse Custance and mine, must speake with your grace. +Tib. Talk.+ With me? +An. Alyface.+ Ye muste come in to hir out of all doutes. +Tib. Talk.+ And my work not half done? A mischief on all loutes. _Ex. am._
+
++R. Royster.+ Ah good sweet nourse. +M. Mumb.+ A good sweete gentleman. +R. Royster.+ What? +M. Mumbl.+ Nay I can not tel sir, but what thing would you? +R. Royster.+ Howe dothe sweete Custance, my heart of gold, tell me how? +M. Mumbl.+ She dothe very well sir, and commaunde me to you. +R. Royster.+ To me? +M. Mumbl.+ Yea to you sir. +R. Royster.+ To me? nurse tel me plain
+To me? +M. Mumb.+ Ye. +R. Royster.+ That word maketh me aliue again. +M. Mumbl.+ She commaunde me to one last day who ere it was. +R. Royster.+ That was een to me and none other by the Masse. +M. Mumb.+ I can not tell you surely, but one it was. +R. Royster.+ It was I and none other: this commeth to good passe. I promise thee nourse I fauour hir. +M. Mumb.+ Een so sir. +R. Royster.+ Bid hir sue to me for mariage. +M. Mumbl.+ Een so sir. +R. Royster.+ And surely for thy sake she shall speede. +M. Mumb.+ Een so sir. +R. Royster.+ I shall be contented to take hir. +M. Mumb.+ Een so sir. +R. Royster.+ But at thy request and for thy sake. +M. Mumb.+ Een so sir. +R. Royster.+ And come hearke in thine eare what to say. +M. Mumb.+ Een so sir. _Here lette him tell hir a great long tale in hir eare._
+
+
+Actus. j. ScÃ¦na. iiij. +Mathew Merygreeke. Dobinet Doughtie. Harpax. Ralph Royster. Margerie Mumblecrust.+
+
++M. Mery.+ Come on sirs apace, and quite your selues like men,
+Your pains shalbe rewarded. +D. Dou.+ But I wot not when. +M. Mery.+ Do your maister worship as ye haue done in time past. +D. Dough.+ Speake to them: of mine office he shall haue a cast. +M. Mery.+ _Harpax_, looke that thou doe well too, and thy fellow. _Harpax._ I warrant, if he will myne example folowe. +M. Mery.+ Curtsie whooresons, douke you and crouche at euery worde,
+
++D. Dough.+ Yes whether our maister speake earnest or borde. +M. Mery.+ For this lieth vpon his preferment in deede. +D. Dough.+ Oft is hee a wower, but neuer doth he speede. +M. Mery.+ But with whome is he nowe so sadly roundyng yond? +D. Dough.+ With _Nobs nicebecetur miserere_ sonde. +[M.] Mery.+ God be at your wedding, be ye spedde alredie? I did not suppose that your loue was so greedie,
+I perceiue nowe ye haue chose of deuotion,
+And ioy haue ye ladie of your promotion. +R. Royster.+ Tushe foole, thou art deceiued, this is not she. +M. Mery.+ Well mocke muche of hir, and keepe hir well I vise ye. I will take no charge of such a faire piece keeping. +M. Mumbl.+ What ayleth thys fellowe? he driueth me to weeping. +M. Mery.+ What weepe on the weddyng day? be merrie woman,
+Though I say it, ye haue chose a good gentleman. +R. Royster.+ Kocks nownes what meanest thou man, tut a whistle. +[M. Mery. ]+ Ah sir, be good to hir, she is but a gristle,
+Ah sweete lambe and coney. +R. Royster.+ Tut thou art deceiued. +M. Mery.+ Weepe no more lady, ye shall be well receiued. Vp wyth some mery noyse sirs, to bring home the bride. +R. Royster.+ Gogs armes knaue, art thou madde? I tel thee thou art wide. +M. Mery.+ Then ye entende by nyght to haue hir home brought. +R. Royster.+ I tel thee no. +M. Mery.+ How then? +R. Royster.+ Tis neither ment ne thought. +M. Mery.+ What shall we then doe with hir? +R. Royster.+ Ah foolish harebraine,
+This is not she. +M. Mery.+ No is? why then vnsayde againe,
+And what yong girle is this with your mashyp so bolde? +R. Royster.+ A girle? +M. Mery.+ Yea. I dare say, scarse yet three score yere old. +R. Royster.+ This same is the faire widowes nourse of whome ye wotte. +M. Mery.+ Is she but a nourse of a house? hence home olde trotte,
+Hence at once. +R. Royster.+ No, no. +M. Mery.+ What an please your maship
+A nourse talke so homely with one of your worship? +R. Royster.+ I will haue it so: it is my pleasure and will. +M. Mery.+ Then I am content. Nourse come againe, tarry still. +R. Royster.+ What, she will helpe forward this my sute for hir part. +M. Mery.+ Then ist mine owne pygs nie, and blessing on my hart. +R. Royster.+ This is our best friend man. +M. Mery.+ Then teach hir what to say
+
++M. Mumbl.+ I am taught alreadie. +M. Mery.+ Then go, make no delay. +R. Royster.+ Yet hark one word in thine eare. +M. Mery.+ Back sirs from his taile. +R. Royster.+ Backe vilaynes, will ye be priuie of my counsaile? +M. Mery.+ Backe sirs, so: I tolde you afore ye woulde be shent. +R. Royster.+ She shall haue the first day a whole pecke of argent. +M. Mumbl.+ A pecke? _Nomine patris_, haue ye so much spare? +R. Royster.+ Yea and a carte lode therto, or else were it bare,
+Besides other mouables, housholde stuffe and lande. +M. Mumbl.+ Haue ye lands too. +R. Royster.+ An hundred marks. +M. Mery.+ Yea a thousand
+
++M. Mumbl.+ And haue ye cattell too? and sheepe too? +R. Royster.+ Yea a fewe. +M. Mery.+ He is ashamed the numbre of them to shewe. Een rounde about him, as many thousande sheepe goes,
+As he and thou and I too, haue fingers and toes. +M. Mumbl.+ And how many yeares olde be you? +R. Royster.+ Fortie at lest. +M. Mery.+ Yea and thrice fortie to them. +R. Royster.+ Nay now thou dost iest. I am not so olde, thou misreckonest my yeares. +M. Mery.+ I know that: but my minde was on bullockes and steeres. +M. Mumbl.+ And what shall I shewe hir your masterships name is? +R. Royster.+ Nay she shall make sute ere she know that ywis. +M. Mumbl.+ Yet let me somewhat knowe. +M. Mery.+ This is hee vnderstand,
+That killed the blewe Spider in Blanchepouder lande. +M. Mumbl.+ Yea _Iesus_, William zee law, dyd he zo law? +M. Mery.+ Yea and the last Elephant that euer he sawe,
+As the beast passed by, he start out of a buske,
+And een with pure strength of armes pluckt out his great tuske. +M. Mumbl.+ _Iesus, nomine patris_, what a thing was that? +R. Royster.+ Yea but Merygreke one thing thou hast forgot. +M. Mery.+ What? +R. Royster.+ Of thother Elephant. +M. Mery.+ Oh hym that fledde away. +R. 

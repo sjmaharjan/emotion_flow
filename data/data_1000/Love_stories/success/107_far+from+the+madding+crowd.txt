@@ -1,0 +1,1501 @@
+
+
+E-text prepared by anonymous Project Gutenberg volunteers and revised by
+Joseph E. Loewenstein, M.D. FAR FROM THE MADDING CROWD
+
+by
+
+THOMAS HARDY
+
+
+
+
+
+
+
+CONTENTS
+
+            Preface
+         I. Description of Farmer Oak--An Incident
+        II. Night--The Flock--An Interior--Another Interior
+       III. A Girl on Horseback--Conversation
+        IV. Gabriel's Resolve--The Visit--The Mistake
+         V. Departure of Bathsheba--A Pastoral Tragedy
+        VI. The Fair--The Journey--The Fire
+       VII. Recognition--A Timid Girl
+      VIII. The Malthouse--The Chat--News
+        IX. The Homestead--A Visitor--Half-Confidences
+         X. Mistress and Men
+        XI. Outside the Barracks--Snow--A Meeting
+       XII. Farmers--A Rule--An Exception
+      XIII. Sortes Sanctorum--The Valentine
+       XIV. Effect of the Letter--Sunrise
+        XV. A Morning Meeting--The Letter Again
+       XVI. All Saints' and All Souls'
+      XVII. In the Market-Place
+     XVIII. Boldwood in Meditation--Regret
+       XIX. The Sheep-Washing--The Offer
+        XX. Perplexity--Grinding the Shears--A Quarrel
+       XXI. Troubles in the Fold--A Message
+      XXII. The Great Barn and the Sheep-Shearers
+     XXIII. Eventide--A Second Declaration
+      XXIV. The Same Night--The Fir Plantation
+       XXV. The New Acquaintance Described
+      XXVI. Scene on the Verge of the Hay-Mead
+     XXVII. Hiving the Bees
+    XXVIII. The Hollow Amid the Ferns
+      XXIX. Particulars of a Twilight Walk
+       XXX. Hot Cheeks and Tearful Eyes
+      XXXI. Blame--Fury
+     XXXII. Night--Horses Tramping
+    XXXIII. In the Sun--A Harbinger
+     XXXIV. Home Again--A Trickster
+      XXXV. At an Upper Window
+     XXXVI. Wealth in Jeopardy--The Revel
+    XXXVII. The Storm--The Two Together
+   XXXVIII. Rain--One Solitary Meets Another
+     XXXIX. Coming Home--A Cry
+        XL. On Casterbridge Highway
+       XLI. Suspicion--Fanny Is Sent For
+      XLII. Joseph and His Burden--Buck's Head
+     XLIII. Fanny's Revenge
+      XLIV. Under a Tree--Reaction
+       XLV. Troy's Romanticism
+      XLVI. The Gurgoyle: Its Doings
+     XLVII. Adventures by the Shore
+    XLVIII. Doubts Arise--Doubts Linger
+      XLIX. Oak's Advancement--A Great Hope
+         L. The Sheep Fair--Troy Touches His Wife's Hand
+        LI. Bathsheba Talks with Her Outrider
+       LII. Converging Courses
+      LIII. Concurritur--Horae Momento
+       LIV. After the Shock
+        LV. The March Following--"Bathsheba Boldwood"
+       LVI. Beauty in Loneliness--After All
+      LVII. A Foggy Night and Morning--Conclusion
+
+
+
+
+
+PREFACE
+
+In reprinting this story for a new edition I am reminded that it was
+in the chapters of "Far from the Madding Crowd," as they appeared
+month by month in a popular magazine, that I first ventured to adopt
+the word "Wessex" from the pages of early English history, and give
+it a fictitious significance as the existing name of the district
+once included in that extinct kingdom. The series of novels I
+projected being mainly of the kind called local, they seemed to
+require a territorial definition of some sort to lend unity to their
+scene. Finding that the area of a single county did not afford a
+canvas large enough for this purpose, and that there were objections
+to an invented name, I disinterred the old one. The press and the
+public were kind enough to welcome the fanciful plan, and willingly
+joined me in the anachronism of imagining a Wessex population living
+under Queen Victoria;--a modern Wessex of railways, the penny post,
+mowing and reaping machines, union workhouses, lucifer matches,
+labourers who could read and write, and National school children. But I believe I am correct in stating that, until the existence of
+this contemporaneous Wessex was announced in the present story, in
+1874, it had never been heard of, and that the expression, "a Wessex
+peasant," or "a Wessex custom," would theretofore have been taken to
+refer to nothing later in date than the Norman Conquest. I did not anticipate that this application of the word to a modern
+use would extend outside the chapters of my own chronicles. But the
+name was soon taken up elsewhere as a local designation. The first
+to do so was the now defunct _Examiner_, which, in the impression
+bearing date July 15, 1876, entitled one of its articles "The Wessex
+Labourer," the article turning out to be no dissertation on farming
+during the Heptarchy, but on the modern peasant of the south-west
+counties, and his presentation in these stories. Since then the appellation which I had thought to reserve to the
+horizons and landscapes of a merely realistic dream-country, has
+become more and more popular as a practical definition; and the
+dream-country has, by degrees, solidified into a utilitarian region
+which people can go to, take a house in, and write to the papers
+from. But I ask all good and gentle readers to be so kind as to
+forget this, and to refuse steadfastly to believe that there are any
+inhabitants of a Victorian Wessex outside the pages of this and the
+companion volumes in which they were first discovered. Moreover, the village called Weatherbury, wherein the scenes of the
+present story of the series are for the most part laid, would perhaps
+be hardly discernible by the explorer, without help, in any existing
+place nowadays; though at the time, comparatively recent, at which
+the tale was written, a sufficient reality to meet the descriptions,
+both of backgrounds and personages, might have been traced easily
+enough. The church remains, by great good fortune, unrestored and
+intact, and a few of the old houses; but the ancient malt-house,
+which was formerly so characteristic of the parish, has been pulled
+down these twenty years; also most of the thatched and dormered
+cottages that were once lifeholds. The game of prisoner's base,
+which not so long ago seemed to enjoy a perennial vitality in front
+of the worn-out stocks, may, so far as I can say, be entirely unknown
+to the rising generation of schoolboys there. The practice of
+divination by Bible and key, the regarding of valentines as things of
+serious import, the shearing-supper, and the harvest-home, have, too,
+nearly disappeared in the wake of the old houses; and with them have
+gone, it is said, much of that love of fuddling to which the village
+at one time was notoriously prone. The change at the root of this
+has been the recent supplanting of the class of stationary cottagers,
+who carried on the local traditions and humours, by a population
+of more or less migratory labourers, which has led to a break of
+continuity in local history, more fatal than any other thing to the
+preservation of legend, folk-lore, close inter-social relations, and
+eccentric individualities. For these the indispensable conditions
+of existence are attachment to the soil of one particular spot by
+generation after generation. T.H. February 1895
+
+
+
+
+CHAPTER I
+
+
+DESCRIPTION OF FARMER OAK--AN INCIDENT
+
+
+When Farmer Oak smiled, the corners of his mouth spread till they
+were within an unimportant distance of his ears, his eyes were
+reduced to chinks, and diverging wrinkles appeared round them,
+extending upon his countenance like the rays in a rudimentary sketch
+of the rising sun. His Christian name was Gabriel, and on working days he was a young
+man of sound judgment, easy motions, proper dress, and general good
+character. On Sundays he was a man of misty views, rather given to
+postponing, and hampered by his best clothes and umbrella: upon the
+whole, one who felt himself to occupy morally that vast middle space
+of Laodicean neutrality which lay between the Communion people of
+the parish and the drunken section,--that is, he went to church, but
+yawned privately by the time the congregation reached the Nicene
+creed, and thought of what there would be for dinner when he meant to
+be listening to the sermon. Or, to state his character as it stood
+in the scale of public opinion, when his friends and critics were in
+tantrums, he was considered rather a bad man; when they were pleased,
+he was rather a good man; when they were neither, he was a man whose
+moral colour was a kind of pepper-and-salt mixture. Since he lived six times as many working-days as Sundays, Oak's
+appearance in his old clothes was most peculiarly his own--the mental
+picture formed by his neighbours in imagining him being always
+dressed in that way. He wore a low-crowned felt hat, spread out at
+the base by tight jamming upon the head for security in high winds,
+and a coat like Dr. Johnson's; his lower extremities being encased
+in ordinary leather leggings and boots emphatically large, affording
+to each foot a roomy apartment so constructed that any wearer might
+stand in a river all day long and know nothing of damp--their maker
+being a conscientious man who endeavoured to compensate for any
+weakness in his cut by unstinted dimension and solidity. Mr. Oak carried about him, by way of watch, what may be called a
+small silver clock; in other words, it was a watch as to shape and
+intention, and a small clock as to size. This instrument being
+several years older than Oak's grandfather, had the peculiarity of
+going either too fast or not at all. The smaller of its hands, too,
+occasionally slipped round on the pivot, and thus, though the minutes
+were told with precision, nobody could be quite certain of the hour
+they belonged to. The stopping peculiarity of his watch Oak remedied
+by thumps and shakes, and he escaped any evil consequences from the
+other two defects by constant comparisons with and observations of
+the sun and stars, and by pressing his face close to the glass of his
+neighbours' windows, till he could discern the hour marked by the
+green-faced timekeepers within. It may be mentioned that Oak's fob
+being difficult of access, by reason of its somewhat high situation
+in the waistband of his trousers (which also lay at a remote height
+under his waistcoat), the watch was as a necessity pulled out by
+throwing the body to one side, compressing the mouth and face to a
+mere mass of ruddy flesh on account of the exertion required, and
+drawing up the watch by its chain, like a bucket from a well. But some thoughtful persons, who had seen him walking across one
+of his fields on a certain December morning--sunny and exceedingly
+mild--might have regarded Gabriel Oak in other aspects than these. In his face one might notice that many of the hues and curves of
+youth had tarried on to manhood: there even remained in his remoter
+crannies some relics of the boy. His height and breadth would
+have been sufficient to make his presence imposing, had they been
+exhibited with due consideration. But there is a way some men have,
+rural and urban alike, for which the mind is more responsible than
+flesh and sinew: it is a way of curtailing their dimensions by their
+manner of showing them. And from a quiet modesty that would have
+become a vestal, which seemed continually to impress upon him that he
+had no great claim on the world's room, Oak walked unassumingly and
+with a faintly perceptible bend, yet distinct from a bowing of the
+shoulders. This may be said to be a defect in an individual if he
+depends for his valuation more upon his appearance than upon his
+capacity to wear well, which Oak did not. He had just reached the time of life at which "young" is ceasing to
+be the prefix of "man" in speaking of one. He was at the brightest
+period of masculine growth, for his intellect and his emotions were
+clearly separated: he had passed the time during which the influence
+of youth indiscriminately mingles them in the character of impulse,
+and he had not yet arrived at the stage wherein they become united
+again, in the character of prejudice, by the influence of a wife and
+family. In short, he was twenty-eight, and a bachelor. The field he was in this morning sloped to a ridge called Norcombe
+Hill. Through a spur of this hill ran the highway between Emminster
+and Chalk-Newton. Casually glancing over the hedge, Oak saw coming
+down the incline before him an ornamental spring waggon, painted
+yellow and gaily marked, drawn by two horses, a waggoner walking
+alongside bearing a whip perpendicularly. The waggon was laden with
+household goods and window plants, and on the apex of the whole sat
+a woman, young and attractive. Gabriel had not beheld the sight for
+more than half a minute, when the vehicle was brought to a standstill
+just beneath his eyes. "The tailboard of the waggon is gone, Miss," said the waggoner. "Then I heard it fall," said the girl, in a soft, though not
+particularly low voice. "I heard a noise I could not account for
+when we were coming up the hill." "I'll run back." "Do," she answered. The sensible horses stood--perfectly still, and the waggoner's steps
+sank fainter and fainter in the distance. The girl on the summit of the load sat motionless, surrounded by
+tables and chairs with their legs upwards, backed by an oak settle,
+and ornamented in front by pots of geraniums, myrtles, and cactuses,
+together with a caged canary--all probably from the windows of the
+house just vacated. There was also a cat in a willow basket, from
+the partly-opened lid of which she gazed with half-closed eyes, and
+affectionately surveyed the small birds around. The handsome girl waited for some time idly in her place, and the
+only sound heard in the stillness was the hopping of the canary up
+and down the perches of its prison. Then she looked attentively
+downwards. It was not at the bird, nor at the cat; it was at an
+oblong package tied in paper, and lying between them. She turned her
+head to learn if the waggoner were coming. He was not yet in sight;
+and her eyes crept back to the package, her thoughts seeming to run
+upon what was inside it. At length she drew the article into her
+lap, and untied the paper covering; a small swing looking-glass was
+disclosed, in which she proceeded to survey herself attentively. She
+parted her lips and smiled. It was a fine morning, and the sun lighted up to a scarlet glow the
+crimson jacket she wore, and painted a soft lustre upon her bright
+face and dark hair. The myrtles, geraniums, and cactuses packed
+around her were fresh and green, and at such a leafless season they
+invested the whole concern of horses, waggon, furniture, and girl
+with a peculiar vernal charm. What possessed her to indulge in
+such a performance in the sight of the sparrows, blackbirds, and
+unperceived farmer who were alone its spectators,--whether the smile
+began as a factitious one, to test her capacity in that art,--nobody
+knows; it ended certainly in a real smile. She blushed at herself,
+and seeing her reflection blush, blushed the more. The change from the customary spot and necessary occasion of such an
+act--from the dressing hour in a bedroom to a time of travelling out
+of doors--lent to the idle deed a novelty it did not intrinsically
+possess. The picture was a delicate one. Woman's prescriptive
+infirmity had stalked into the sunlight, which had clothed it in the
+freshness of an originality. A cynical inference was irresistible by
+Gabriel Oak as he regarded the scene, generous though he fain would
+have been. There was no necessity whatever for her looking in the
+glass. She did not adjust her hat, or pat her hair, or press a
+dimple into shape, or do one thing to signify that any such intention
+had been her motive in taking up the glass. She simply observed
+herself as a fair product of Nature in the feminine kind, her
+thoughts seeming to glide into far-off though likely dramas in which
+men would play a part--vistas of probable triumphs--the smiles being
+of a phase suggesting that hearts were imagined as lost and won. Still, this was but conjecture, and the whole series of actions was
+so idly put forth as to make it rash to assert that intention had any
+part in them at all. The waggoner's steps were heard returning. She put the glass in the
+paper, and the whole again into its place. When the waggon had passed on, Gabriel withdrew from his point of
+espial, and descending into the road, followed the vehicle to the
+turnpike-gate some way beyond the bottom of the hill, where the
+object of his contemplation now halted for the payment of toll. About twenty steps still remained between him and the gate, when he
+heard a dispute. It was a difference concerning twopence between the
+persons with the waggon and the man at the toll-bar. "Mis'ess's niece is upon the top of the things, and she says that's
+enough that I've offered ye, you great miser, and she won't pay any
+more." These were the waggoner's words. "Very well; then mis'ess's niece can't pass," said the turnpike-keeper,
+closing the gate. Oak looked from one to the other of the disputants, and fell into
+a reverie. There was something in the tone of twopence remarkably
+insignificant. Threepence had a definite value as money--it was an
+appreciable infringement on a day's wages, and, as such, a higgling
+matter; but twopence--"Here," he said, stepping forward and handing
+twopence to the gatekeeper; "let the young woman pass." He looked up
+at her then; she heard his words, and looked down. Gabriel's features adhered throughout their form so exactly to the
+middle line between the beauty of St. John and the ugliness of Judas
+Iscariot, as represented in a window of the church he attended, that
+not a single lineament could be selected and called worthy either of
+distinction or notoriety. The red-jacketed and dark-haired maiden
+seemed to think so too, for she carelessly glanced over him, and told
+her man to drive on. She might have looked her thanks to Gabriel on
+a minute scale, but she did not speak them; more probably she felt
+none, for in gaining her a passage he had lost her her point, and we
+know how women take a favour of that kind. The gatekeeper surveyed the retreating vehicle. "That's a
+handsome maid," he said to Oak. "But she has her faults," said Gabriel. "True, farmer." "And the greatest of them is--well, what it is always." "Beating people down? ay, 'tis so." "O no." "What, then?" Gabriel, perhaps a little piqued by the comely traveller's
+indifference, glanced back to where he had witnessed her performance
+over the hedge, and said, "Vanity." CHAPTER II
+
+
+NIGHT--THE FLOCK--AN INTERIOR--ANOTHER INTERIOR
+
+
+It was nearly midnight on the eve of St. Thomas's, the shortest day
+in the year. A desolating wind wandered from the north over the hill
+whereon Oak had watched the yellow waggon and its occupant in the
+sunshine of a few days earlier. Norcombe Hill--not far from lonely Toller-Down--was one of the spots
+which suggest to a passer-by that he is in the presence of a shape
+approaching the indestructible as nearly as any to be found on
+earth. It was a featureless convexity of chalk and soil--an ordinary
+specimen of those smoothly-outlined protuberances of the globe which
+may remain undisturbed on some great day of confusion, when far
+grander heights and dizzy granite precipices topple down. The hill was covered on its northern side by an ancient and decaying
+plantation of beeches, whose upper verge formed a line over the
+crest, fringing its arched curve against the sky, like a mane. To-night these trees sheltered the southern slope from the keenest
+blasts, which smote the wood and floundered through it with a sound
+as of grumbling, or gushed over its crowning boughs in a weakened
+moan. The dry leaves in the ditch simmered and boiled in the same
+breezes, a tongue of air occasionally ferreting out a few, and
+sending them spinning across the grass. A group or two of the latest
+in date amongst the dead multitude had remained till this very
+mid-winter time on the twigs which bore them and in falling rattled
+against the trunks with smart taps. Between this half-wooded half-naked hill, and the vague still horizon
+that its summit indistinctly commanded, was a mysterious sheet of
+fathomless shade--the sounds from which suggested that what it
+concealed bore some reduced resemblance to features here. The thin
+grasses, more or less coating the hill, were touched by the wind in
+breezes of differing powers, and almost of differing natures--one
+rubbing the blades heavily, another raking them piercingly, another
+brushing them like a soft broom. The instinctive act of humankind
+was to stand and listen, and learn how the trees on the right and the
+trees on the left wailed or chaunted to each other in the regular
+antiphonies of a cathedral choir; how hedges and other shapes to
+leeward then caught the note, lowering it to the tenderest sob; and
+how the hurrying gust then plunged into the south, to be heard no
+more. The sky was clear--remarkably clear--and the twinkling of all the
+stars seemed to be but throbs of one body, timed by a common pulse. The North Star was directly in the wind's eye, and since evening the
+Bear had swung round it outwardly to the east, till he was now at
+a right angle with the meridian. A difference of colour in the
+stars--oftener read of than seen in England--was really perceptible
+here. The sovereign brilliancy of Sirius pierced the eye with a
+steely glitter, the star called Capella was yellow, Aldebaran and
+Betelgueux shone with a fiery red. To persons standing alone on a hill during a clear midnight such as
+this, the roll of the world eastward is almost a palpable movement. The sensation may be caused by the panoramic glide of the stars past
+earthly objects, which is perceptible in a few minutes of stillness,
+or by the better outlook upon space that a hill affords, or by the
+wind, or by the solitude; but whatever be its origin, the impression
+of riding along is vivid and abiding. The poetry of motion is a
+phrase much in use, and to enjoy the epic form of that gratification
+it is necessary to stand on a hill at a small hour of the night,
+and, having first expanded with a sense of difference from the mass
+of civilised mankind, who are dreamwrapt and disregardful of all
+such proceedings at this time, long and quietly watch your stately
+progress through the stars. After such a nocturnal reconnoitre it is
+hard to get back to earth, and to believe that the consciousness of
+such majestic speeding is derived from a tiny human frame. Suddenly an unexpected series of sounds began to be heard in this
+place up against the sky. They had a clearness which was to be found
+nowhere in the wind, and a sequence which was to be found nowhere in
+nature. They were the notes of Farmer Oak's flute. The tune was not floating unhindered into the open air: it seemed
+muffled in some way, and was altogether too curtailed in power to
+spread high or wide. It came from the direction of a small dark
+object under the plantation hedge--a shepherd's hut--now presenting
+an outline to which an uninitiated person might have been puzzled
+to attach either meaning or use. The image as a whole was that of a small Noah's Ark on a small
+Ararat, allowing the traditionary outlines and general form of
+the Ark which are followed by toy-makers--and by these means are
+established in men's imaginations among their firmest, because
+earliest impressions--to pass as an approximate pattern. The hut
+stood on little wheels, which raised its floor about a foot from the
+ground. Such shepherds' huts are dragged into the fields when the
+lambing season comes on, to shelter the shepherd in his enforced
+nightly attendance. It was only latterly that people had begun to call Gabriel "Farmer"
+Oak. During the twelvemonth preceding this time he had been enabled
+by sustained efforts of industry and chronic good spirits to lease
+the small sheep-farm of which Norcombe Hill was a portion, and stock
+it with two hundred sheep. Previously he had been a bailiff for a
+short time, and earlier still a shepherd only, having from his
+childhood assisted his father in tending the flocks of large
+proprietors, till old Gabriel sank to rest. This venture, unaided and alone, into the paths of farming as master
+and not as man, with an advance of sheep not yet paid for, was a
+critical juncture with Gabriel Oak, and he recognised his position
+clearly. The first movement in his new progress was the lambing of
+his ewes, and sheep having been his speciality from his youth, he
+wisely refrained from deputing the task of tending them at this
+season to a hireling or a novice. The wind continued to beat about the corners of the hut, but the
+flute-playing ceased. A rectangular space of light appeared in the
+side of the hut, and in the opening the outline of Farmer Oak's
+figure. He carried a lantern in his hand, and closing the door
+behind him, came forward and busied himself about this nook of the
+field for nearly twenty minutes, the lantern light appearing and
+disappearing here and there, and brightening him or darkening him
+as he stood before or behind it. Oak's motions, though they had a quiet-energy, were slow, and their
+deliberateness accorded well with his occupation. Fitness being the
+basis of beauty, nobody could have denied that his steady swings and
+turns in and about the flock had elements of grace. Yet, although if
+occasion demanded he could do or think a thing with as mercurial a
+dash as can the men of towns who are more to the manner born, his
+special power, morally, physically, and mentally, was static, owing
+little or nothing to momentum as a rule. A close examination of the ground hereabout, even by the wan
+starlight only, revealed how a portion of what would have been
+casually called a wild slope had been appropriated by Farmer Oak for
+his great purpose this winter. Detached hurdles thatched with straw
+were stuck into the ground at various scattered points, amid and
+under which the whitish forms of his meek ewes moved and rustled. The ring of the sheep-bell, which had been silent during his absence,
+recommenced, in tones that had more mellowness than clearness, owing
+to an increasing growth of surrounding wool. This continued till Oak
+withdrew again from the flock. He returned to the hut, bringing in
+his arms a new-born lamb, consisting of four legs large enough for
+a full-grown sheep, united by a seemingly inconsiderable membrane
+about half the substance of the legs collectively, which constituted
+the animal's entire body just at present. The little speck of life he placed on a wisp of hay before the small
+stove, where a can of milk was simmering. Oak extinguished the
+lantern by blowing into it and then pinching the snuff, the cot being
+lighted by a candle suspended by a twisted wire. A rather hard
+couch, formed of a few corn sacks thrown carelessly down, covered
+half the floor of this little habitation, and here the young man
+stretched himself along, loosened his woollen cravat, and closed his
+eyes. In about the time a person unaccustomed to bodily labour would
+have decided upon which side to lie, Farmer Oak was asleep. The inside of the hut, as it now presented itself, was cosy and
+alluring, and the scarlet handful of fire in addition to the candle,
+reflecting its own genial colour upon whatever it could reach, flung
+associations of enjoyment even over utensils and tools. In the
+corner stood the sheep-crook, and along a shelf at one side were
+ranged bottles and canisters of the simple preparations pertaining to
+ovine surgery and physic; spirits of wine, turpentine, tar, magnesia,
+ginger, and castor-oil being the chief. On a triangular shelf across
+the corner stood bread, bacon, cheese, and a cup for ale or cider,
+which was supplied from a flagon beneath. Beside the provisions lay
+the flute, whose notes had lately been called forth by the lonely
+watcher to beguile a tedious hour. The house was ventilated by two
+round holes, like the lights of a ship's cabin, with wood slides. The lamb, revived by the warmth began to bleat, and the sound entered
+Gabriel's ears and brain with an instant meaning, as expected
+sounds will. Passing from the profoundest sleep to the most alert
+wakefulness with the same ease that had accompanied the reverse
+operation, he looked at his watch, found that the hour-hand had
+shifted again, put on his hat, took the lamb in his arms, and carried
+it into the darkness. After placing the little creature with its
+mother, he stood and carefully examined the sky, to ascertain the
+time of night from the altitudes of the stars. The Dog-star and Aldebaran, pointing to the restless Pleiades, were
+half-way up the Southern sky, and between them hung Orion, which
+gorgeous constellation never burnt more vividly than now, as it
+soared forth above the rim of the landscape. Castor and Pollux with
+their quiet shine were almost on the meridian: the barren and gloomy
+Square of Pegasus was creeping round to the north-west; far away
+through the plantation Vega sparkled like a lamp suspended amid the
+leafless trees, and Cassiopeia's chair stood daintily poised on the
+uppermost boughs. "One o'clock," said Gabriel. Being a man not without a frequent consciousness that there was some
+charm in this life he led, he stood still after looking at the sky
+as a useful instrument, and regarded it in an appreciative spirit,
+as a work of art superlatively beautiful. For a moment he seemed
+impressed with the speaking loneliness of the scene, or rather with
+the complete abstraction from all its compass of the sights and
+sounds of man. Human shapes, interferences, troubles, and joys
+were all as if they were not, and there seemed to be on the shaded
+hemisphere of the globe no sentient being save himself; he could
+fancy them all gone round to the sunny side. Occupied thus, with eyes stretched afar, Oak gradually perceived
+that what he had previously taken to be a star low down behind the
+outskirts of the plantation was in reality no such thing. It was an
+artificial light, almost close at hand. To find themselves utterly alone at night where company is desirable
+and expected makes some people fearful; but a case more trying by
+far to the nerves is to discover some mysterious companionship when
+intuition, sensation, memory, analogy, testimony, probability,
+induction--every kind of evidence in the logician's list--have united
+to persuade consciousness that it is quite in isolation. Farmer Oak went towards the plantation and pushed through its lower
+boughs to the windy side. A dim mass under the slope reminded him
+that a shed occupied a place here, the site being a cutting into the
+slope of the hill, so that at its back part the roof was almost level
+with the ground. In front it was formed of board nailed to posts and
+covered with tar as a preservative. Through crevices in the roof and
+side spread streaks and dots of light, a combination of which made
+the radiance that had attracted him. Oak stepped up behind, where,
+leaning down upon the roof and putting his eye close to a hole, he
+could see into the interior clearly. The place contained two women and two cows. By the side of the
+latter a steaming bran-mash stood in a bucket. One of the women was
+past middle age. Her companion was apparently young and graceful;
+he could form no decided opinion upon her looks, her position being
+almost beneath his eye, so that he saw her in a bird's-eye view, as
+Milton's Satan first saw Paradise. She wore no bonnet or hat, but
+had enveloped herself in a large cloak, which was carelessly flung
+over her head as a covering. "There, now we'll go home," said the elder of the two, resting her
+knuckles upon her hips, and looking at their goings-on as a whole. "I do hope Daisy will fetch round again now. I have never been more
+frightened in my life, but I don't mind breaking my rest if she
+recovers." The young woman, whose eyelids were apparently inclined to fall
+together on the smallest provocation of silence, yawned without
+parting her lips to any inconvenient extent, whereupon Gabriel caught
+the infection and slightly yawned in sympathy. "I wish we were rich enough to pay a man to do these things," she
+said. "As we are not, we must do them ourselves," said the other; "for you
+must help me if you stay." "Well, my hat is gone, however," continued the younger. "It went over
+the hedge, I think. The idea of such a slight wind catching it." The cow standing erect was of the Devon breed, and was encased in a
+tight warm hide of rich Indian red, as absolutely uniform from eyes
+to tail as if the animal had been dipped in a dye of that colour, her
+long back being mathematically level. The other was spotted, grey
+and white. Beside her Oak now noticed a little calf about a day old,
+looking idiotically at the two women, which showed that it had not
+long been accustomed to the phenomenon of eyesight, and often turning
+to the lantern, which it apparently mistook for the moon, inherited
+instinct having as yet had little time for correction by experience. Between the sheep and the cows Lucina had been busy on Norcombe Hill
+lately. "I think we had better send for some oatmeal," said the elder woman;
+"there's no more bran." "Yes, aunt; and I'll ride over for it as soon as it is light." "But there's no side-saddle." "I can ride on the other: trust me." Oak, upon hearing these remarks, became more curious to observe her
+features, but this prospect being denied him by the hooding effect of
+the cloak, and by his aerial position, he felt himself drawing upon
+his fancy for their details. In making even horizontal and clear
+inspections we colour and mould according to the wants within us
+whatever our eyes bring in. Had Gabriel been able from the first to
+get a distinct view of her countenance, his estimate of it as very
+handsome or slightly so would have been as his soul required a
+divinity at the moment or was ready supplied with one. Having for
+some time known the want of a satisfactory form to fill an increasing
+void within him, his position moreover affording the widest scope for
+his fancy, he painted her a beauty. By one of those whimsical coincidences in which Nature, like a busy
+mother, seems to spare a moment from her unremitting labours to turn
+and make her children smile, the girl now dropped the cloak, and
+forth tumbled ropes of black hair over a red jacket. Oak knew
+her instantly as the heroine of the yellow waggon, myrtles, and
+looking-glass: prosily, as the woman who owed him twopence. They placed the calf beside its mother again, took up the lantern,
+and went out, the light sinking down the hill till it was no more
+than a nebula. Gabriel Oak returned to his flock. CHAPTER III
+
+
+A GIRL ON HORSEBACK--CONVERSATION
+
+
+The sluggish day began to break. Even its position terrestrially is
+one of the elements of a new interest, and for no particular reason
+save that the incident of the night had occurred there Oak went again
+into the plantation. Lingering and musing here, he heard the steps of
+a horse at the foot of the hill, and soon there appeared in view an
+auburn pony with a girl on its back, ascending by the path leading
+past the cattle-shed. She was the young woman of the night before. Gabriel instantly thought of the hat she had mentioned as having
+lost in the wind; possibly she had come to look for it. He hastily
+scanned the ditch and after walking about ten yards along it found
+the hat among the leaves. Gabriel took it in his hand and returned
+to his hut. Here he ensconced himself, and peeped through the
+loophole in the direction of the rider's approach. She came up and looked around--then on the other side of the hedge. Gabriel was about to advance and restore the missing article when
+an unexpected performance induced him to suspend the action for
+the present. The path, after passing the cowshed, bisected the
+plantation. It was not a bridle-path--merely a pedestrian's track,
+and the boughs spread horizontally at a height not greater than seven
+feet above the ground, which made it impossible to ride erect beneath
+them. The girl, who wore no riding-habit, looked around for a
+moment, as if to assure herself that all humanity was out of view,
+then dexterously dropped backwards flat upon the pony's back, her
+head over its tail, her feet against its shoulders, and her eyes to
+the sky. The rapidity of her glide into this position was that of
+a kingfisher--its noiselessness that of a hawk. Gabriel's eyes had
+scarcely been able to follow her. The tall lank pony seemed used to
+such doings, and ambled along unconcerned. Thus she passed under the
+level boughs. The performer seemed quite at home anywhere between a horse's head
+and its tail, and the necessity for this abnormal attitude having
+ceased with the passage of the plantation, she began to adopt
+another, even more obviously convenient than the first. She had
+no side-saddle, and it was very apparent that a firm seat upon the
+smooth leather beneath her was unattainable sideways. Springing to
+her accustomed perpendicular like a bowed sapling, and satisfying
+herself that nobody was in sight, she seated herself in the manner
+demanded by the saddle, though hardly expected of the woman, and
+trotted off in the direction of Tewnell Mill. Oak was amused, perhaps a little astonished, and hanging up the hat
+in his hut, went again among his ewes. An hour passed, the girl
+returned, properly seated now, with a bag of bran in front of
+her. On nearing the cattle-shed she was met by a boy bringing a
+milking-pail, who held the reins of the pony whilst she slid off. The boy led away the horse, leaving the pail with the young woman. Soon soft spirts alternating with loud spirts came in regular
+succession from within the shed, the obvious sounds of a person
+milking a cow. Gabriel took the lost hat in his hand, and waited
+beside the path she would follow in leaving the hill. She came, the pail in one hand, hanging against her knee. The left
+arm was extended as a balance, enough of it being shown bare to make
+Oak wish that the event had happened in the summer, when the whole
+would have been revealed. There was a bright air and manner about
+her now, by which she seemed to imply that the desirability of her
+existence could not be questioned; and this rather saucy assumption
+failed in being offensive because a beholder felt it to be, upon the
+whole, true. Like exceptional emphasis in the tone of a genius,
+that which would have made mediocrity ridiculous was an addition to
+recognised power. It was with some surprise that she saw Gabriel's
+face rising like the moon behind the hedge. The adjustment of the farmer's hazy conceptions of her charms to the
+portrait of herself she now presented him with was less a diminution
+than a difference. The starting-point selected by the judgment was
+her height. She seemed tall, but the pail was a small one, and the
+hedge diminutive; hence, making allowance for error by comparison
+with these, she could have been not above the height to be chosen by
+women as best. All features of consequence were severe and regular. It may have been observed by persons who go about the shires with
+eyes for beauty, that in Englishwoman a classically-formed face is
+seldom found to be united with a figure of the same pattern, the
+highly-finished features being generally too large for the remainder
+of the frame; that a graceful and proportionate figure of eight heads
+usually goes off into random facial curves. Without throwing a
+Nymphean tissue over a milkmaid, let it be said that here criticism
+checked itself as out of place, and looked at her proportions with a
+long consciousness of pleasure. From the contours of her figure in
+its upper part, she must have had a beautiful neck and shoulders; but
+since her infancy nobody had ever seen them. Had she been put into
+a low dress she would have run and thrust her head into a bush. Yet
+she was not a shy girl by any means; it was merely her instinct to
+draw the line dividing the seen from the unseen higher than they do
+it in towns. That the girl's thoughts hovered about her face and form as soon as
+she caught Oak's eyes conning the same page was natural, and almost
+certain. The self-consciousness shown would have been vanity if
+a little more pronounced, dignity if a little less. Rays of male
+vision seem to have a tickling effect upon virgin faces in rural
+districts; she brushed hers with her hand, as if Gabriel had been
+irritating its pink surface by actual touch, and the free air of her
+previous movements was reduced at the same time to a chastened phase
+of itself. Yet it was the man who blushed, the maid not at all. "I found a hat," said Oak. "It is mine," said she, and, from a sense of proportion, kept down to
+a small smile an inclination to laugh distinctly: "it flew away last
+night." "One o'clock this morning?" "Well--it was." She was surprised. "How did you know?" she said. "I was here." "You are Farmer Oak, are you not?" "That or thereabouts. I'm lately come to this place." "A large farm?" she inquired, casting her eyes round, and swinging
+back her hair, which was black in the shaded hollows of its mass; but
+it being now an hour past sunrise the rays touched its prominent
+curves with a colour of their own. "No; not large. About a hundred." (In speaking of farms the word
+"acres" is omitted by the natives, by analogy to such old expressions
+as "a stag of ten.") "I wanted my hat this morning," she went on. "I had to ride to
+Tewnell Mill." "Yes you had." "How do you know?" "I saw you." "Where?" she inquired, a misgiving bringing every muscle of her
+lineaments and frame to a standstill. "Here--going through the plantation, and all down the hill," said
+Farmer Oak, with an aspect excessively knowing with regard to some
+matter in his mind, as he gazed at a remote point in the direction
+named, and then turned back to meet his colloquist's eyes. A perception caused him to withdraw his own eyes from hers as
+suddenly as if he had been caught in a theft. Recollection of the
+strange antics she had indulged in when passing through the trees was
+succeeded in the girl by a nettled palpitation, and that by a hot
+face. It was a time to see a woman redden who was not given to
+reddening as a rule; not a point in the milkmaid but was of the
+deepest rose-colour. From the Maiden's Blush, through all varieties
+of the Provence down to the Crimson Tuscany, the countenance of Oak's
+acquaintance quickly graduated; whereupon he, in considerateness,
+turned away his head. The sympathetic man still looked the other way, and wondered when she
+would recover coolness sufficient to justify him in facing her again. He heard what seemed to be the flitting of a dead leaf upon the
+breeze, and looked. She had gone away. With an air between that of Tragedy and Comedy Gabriel returned to
+his work. Five mornings and evenings passed. The young woman came regularly to
+milk the healthy cow or to attend to the sick one, but never allowed
+her vision to stray in the direction of Oak's person. His want of
+tact had deeply offended her--not by seeing what he could not help,
+but by letting her know that he had seen it. For, as without law
+there is no sin, without eyes there is no indecorum; and she appeared
+to feel that Gabriel's espial had made her an indecorous woman
+without her own connivance. It was food for great regret with him;
+it was also a _contretemps_ which touched into life a latent heat he
+had experienced in that direction. The acquaintanceship might, however, have ended in a slow forgetting,
+but for an incident which occurred at the end of the same week. One
+afternoon it began to freeze, and the frost increased with evening,
+which drew on like a stealthy tightening of bonds. It was a time
+when in cottages the breath of the sleepers freezes to the sheets;
+when round the drawing-room fire of a thick-walled mansion the
+sitters' backs are cold, even whilst their faces are all aglow. Many
+a small bird went to bed supperless that night among the bare boughs. As the milking-hour drew near, Oak kept his usual watch upon the
+cowshed. At last he felt cold, and shaking an extra quantity of
+bedding round the yearling ewes he entered the hut and heaped more
+fuel upon the stove. The wind came in at the bottom of the door,
+and to prevent it Oak laid a sack there and wheeled the cot round a
+little more to the south. Then the wind spouted in at a ventilating
+hole--of which there was one on each side of the hut. Gabriel had always known that when the fire was lighted and the door
+closed one of these must be kept open--that chosen being always on
+the side away from the wind. Closing the slide to windward, he
+turned to open the other; on second thoughts the farmer considered
+that he would first sit down leaving both closed for a minute or two,
+till the temperature of the hut was a little raised. He sat down. His head began to ache in an unwonted manner, and, fancying himself
+weary by reason of the broken rests of the preceding nights, Oak
+decided to get up, open the slide, and then allow himself to fall
+asleep. He fell asleep, however, without having performed the
+necessary preliminary. How long he remained unconscious Gabriel never knew. During the
+first stages of his return to perception peculiar deeds seemed to be
+in course of enactment. His dog was howling, his head was aching
+fearfully--somebody was pulling him about, hands were loosening his
+neckerchief. On opening his eyes he found that evening had sunk to dusk in
+a strange manner of unexpectedness. The young girl with the
+remarkably pleasant lips and white teeth was beside him. More than
+this--astonishingly more--his head was upon her lap, his face and
+neck were disagreeably wet, and her fingers were unbuttoning his
+collar. "Whatever is the matter?" said Oak, vacantly. She seemed to experience mirth, but of too insignificant a kind to
+start enjoyment. "Nothing now," she answered, "since you are not dead. It is a wonder
+you were not suffocated in this hut of yours." "Ah, the hut!" murmured Gabriel. "I gave ten pounds for that hut. But I'll sell it, and sit under thatched hurdles as they did in old
+times, and curl up to sleep in a lock of straw! It played me nearly
+the same trick the other day!" Gabriel, by way of emphasis, brought
+down his fist upon the floor. "It was not exactly the fault of the hut," she observed in a tone
+which showed her to be that novelty among women--one who finished a
+thought before beginning the sentence which was to convey it. "You
+should, I think, have considered, and not have been so foolish as to
+leave the slides closed." "Yes I suppose I should," said Oak, absently. He was endeavouring to
+catch and appreciate the sensation of being thus with her, his head
+upon her dress, before the event passed on into the heap of bygone
+things. He wished she knew his impressions; but he would as soon
+have thought of carrying an odour in a net as of attempting to convey
+the intangibilities of his feeling in the coarse meshes of language. So he remained silent. She made him sit up, and then Oak began wiping his face and shaking
+himself like a Samson. "How can I thank 'ee?" he said at last,
+gratefully, some of the natural rusty red having returned to his
+face. "Oh, never mind that," said the girl, smiling, and allowing her smile
+to hold good for Gabriel's next remark, whatever that might prove to
+be. "How did you find me?" "I heard your dog howling and scratching at the door of the hut when
+I came to the milking (it was so lucky, Daisy's milking is almost
+over for the season, and I shall not come here after this week or the
+next). The dog saw me, and jumped over to me, and laid hold of my
+skirt. I came across and looked round the hut the very first thing
+to see if the slides were closed. My uncle has a hut like this one,
+and I have heard him tell his shepherd not to go to sleep without
+leaving a slide open. I opened the door, and there you were like
+dead. I threw the milk over you, as there was no water, forgetting
+it was warm, and no use." "I wonder if I should have died?" Gabriel said, in a low voice, which
+was rather meant to travel back to himself than to her. "Oh no!" the girl replied. She seemed to prefer a less tragic
+probability; to have saved a man from death involved talk that should
+harmonise with the dignity of such a deed--and she shunned it. "I believe you saved my life, Miss--I don't know your name. I know
+your aunt's, but not yours." "I would just as soon not tell it--rather not. There is no reason
+either why I should, as you probably will never have much to do with
+me." "Still, I should like to know." "You can inquire at my aunt's--she will tell you." "My name is Gabriel Oak." "And mine isn't. You seem fond of yours in speaking it so
+decisively, Gabriel Oak." "You see, it is the only one I shall ever have, and I must make the
+most of it." "I always think mine sounds odd and disagreeable." "I should think you might soon get a new one." "Mercy!--how many opinions you keep about you concerning other
+people, Gabriel Oak." "Well, Miss--excuse the words--I thought you would like them. But I
+can't match you, I know, in mapping out my mind upon my tongue. I
+never was very clever in my inside. But I thank you. Come, give me
+your hand." She hesitated, somewhat disconcerted at Oak's old-fashioned earnest
+conclusion to a dialogue lightly carried on. "Very well," she
+said, and gave him her hand, compressing her lips to a demure
+impassivity. He held it but an instant, and in his fear of being too
+demonstrative, swerved to the opposite extreme, touching her fingers
+with the lightness of a small-hearted person. "I am sorry," he said the instant after. "What for?" "Letting your hand go so quick." "You may have it again if you like; there it is." She gave him her
+hand again. Oak held it longer this time--indeed, curiously long. "How soft it
+is--being winter time, too--not chapped or rough or anything!" he
+said. "There--that's long enough," said she, though without pulling it
+away. "But I suppose you are thinking you would like to kiss it? You
+may if you want to." "I wasn't thinking of any such thing," said Gabriel, simply; "but I
+will--"
+
+"That you won't!" She snatched back her hand. Gabriel felt himself guilty of another want of tact. "Now find out my name," she said, teasingly; and withdrew. CHAPTER IV
+
+
+GABRIEL'S RESOLVE--THE VISIT--THE MISTAKE
+
+
+The only superiority in women that is tolerable to the rival sex is,
+as a rule, that of the unconscious kind; but a superiority which
+recognizes itself may sometimes please by suggesting possibilities
+of capture to the subordinated man. This well-favoured and comely girl soon made appreciable inroads upon
+the emotional constitution of young Farmer Oak. Love, being an extremely exacting usurer (a sense of exorbitant
+profit, spiritually, by an exchange of hearts, being at the bottom of
+pure passions, as that of exorbitant profit, bodily or materially,
+is at the bottom of those of lower atmosphere), every morning Oak's
+feelings were as sensitive as the money-market in calculations upon
+his chances. His dog waited for his meals in a way so like that in
+which Oak waited for the girl's presence, that the farmer was quite
+struck with the resemblance, felt it lowering, and would not look at
+the dog. However, he continued to watch through the hedge for her
+regular coming, and thus his sentiments towards her were deepened
+without any corresponding effect being produced upon herself. Oak
+had nothing finished and ready to say as yet, and not being able to
+frame love phrases which end where they begin; passionate tales--
+
+
+         --Full of sound and fury
+      --Signifying nothing--
+
+
+he said no word at all. By making inquiries he found that the girl's name was Bathsheba
+Everdene, and that the cow would go dry in about seven days. He
+dreaded the eighth day. At last the eighth day came. The cow had ceased to give milk for
+that year, and Bathsheba Everdene came up the hill no more. Gabriel
+had reached a pitch of existence he never could have anticipated
+a short time before. He liked saying "Bathsheba" as a private
+enjoyment instead of whistling; turned over his taste to black hair,
+though he had sworn by brown ever since he was a boy, isolated
+himself till the space he filled in the public eye was contemptibly
+small. Love is a possible strength in an actual weakness. Marriage
+transforms a distraction into a support, the power of which should
+be, and happily often is, in direct proportion to the degree of
+imbecility it supplants. Oak began now to see light in this
+direction, and said to himself, "I'll make her my wife, or upon my
+soul I shall be good for nothing!" All this while he was perplexing himself about an errand on which he
+might consistently visit the cottage of Bathsheba's aunt. He found his opportunity in the death of a ewe, mother of a living
+lamb. On a day which had a summer face and a winter constitution--a
+fine January morning, when there was just enough blue sky visible
+to make cheerfully-disposed people wish for more, and an occasional
+gleam of silvery sunshine, Oak put the lamb into a respectable Sunday
+basket, and stalked across the fields to the house of Mrs. Hurst, the
+aunt--George, the dog walking behind, with a countenance of great
+concern at the serious turn pastoral affairs seemed to be taking. Gabriel had watched the blue wood-smoke curling from the chimney with
+strange meditation. At evening he had fancifully traced it down the
+chimney to the spot of its origin--seen the hearth and Bathsheba
+beside it--beside it in her out-door dress; for the clothes she had
+worn on the hill were by association equally with her person included
+in the compass of his affection; they seemed at this early time of
+his love a necessary ingredient of the sweet mixture called Bathsheba
+Everdene. He had made a toilet of a nicely-adjusted kind--of a nature between
+the carefully neat and the carelessly ornate--of a degree between
+fine-market-day and wet-Sunday selection. He thoroughly cleaned his
+silver watch-chain with whiting, put new lacing straps to his boots,
+looked to the brass eyelet-holes, went to the inmost heart of the
+plantation for a new walking-stick, and trimmed it vigorously on his
+way back; took a new handkerchief from the bottom of his clothes-box,
+put on the light waistcoat patterned all over with sprigs of an
+elegant flower uniting the beauties of both rose and lily without the
+defects of either, and used all the hair-oil he possessed upon his
+usually dry, sandy, and inextricably curly hair, till he had deepened
+it to a splendidly novel colour, between that of guano and Roman
+cement, making it stick to his head like mace round a nutmeg, or wet
+seaweed round a boulder after the ebb. Nothing disturbed the stillness of the cottage save the chatter of a
+knot of sparrows on the eaves; one might fancy scandal and rumour to
+be no less the staple topic of these little coteries on roofs than of
+those under them. It seemed that the omen was an unpropitious one,
+for, as the rather untoward commencement of Oak's overtures, just
+as he arrived by the garden gate, he saw a cat inside, going into
+various arched shapes and fiendish convulsions at the sight of his
+dog George. The dog took no notice, for he had arrived at an age at
+which all superfluous barking was cynically avoided as a waste of
+breath--in fact, he never barked even at the sheep except to order,
+when it was done with an absolutely neutral countenance, as a sort of
+Commination-service, which, though offensive, had to be gone through
+once now and then to frighten the flock for their own good. A voice came from behind some laurel-bushes into which the cat had
+run:
+
+"Poor dear! Did a nasty brute of a dog want to kill it;--did he,
+poor dear!" "I beg your pardon," said Oak to the voice, "but George was walking
+on behind me with a temper as mild as milk." Almost before he had ceased speaking, Oak was seized with a misgiving
+as to whose ear was the recipient of his answer. Nobody appeared, and
+he heard the person retreat among the bushes. Gabriel meditated, and so deeply that he brought small furrows into
+his forehead by sheer force of reverie. Where the issue of an
+interview is as likely to be a vast change for the worse as for
+the better, any initial difference from expectation causes nipping
+sensations of failure. Oak went up to the door a little abashed:
+his mental rehearsal and the reality had had no common grounds of
+opening. Bathsheba's aunt was indoors. "Will you tell Miss Everdene that
+somebody would be glad to speak to her?" said Mr. Oak. (Calling
+one's self merely Somebody, without giving a name, is not to be taken
+as an example of the ill-breeding of the rural world: it springs
+from a refined modesty, of which townspeople, with their cards and
+announcements, have no notion whatever.) Bathsheba was out. The voice had evidently been hers. "Will you come in, Mr. Oak?" "Oh, thank 'ee," said Gabriel, following her to the fireplace. "I've
+brought a lamb for Miss Everdene. I thought she might like one to
+rear; girls do." "She might," said Mrs. Hurst, musingly; "though she's only a visitor
+here. If you will wait a minute, Bathsheba will be in." "Yes, I will wait," said Gabriel, sitting down. "The lamb isn't
+really the business I came about, Mrs. Hurst. In short, I was going
+to ask her if she'd like to be married." "And were you indeed?" "Yes. Because if she would, I should be very glad to marry her. D'ye know if she's got any other young man hanging about her at all?" "Let me think," said Mrs. Hurst, poking the fire superfluously....
+"Yes--bless you, ever so many young men. You see, Farmer Oak, she's
+so good-looking, and an excellent scholar besides--she was going to
+be a governess once, you know, only she was too wild. Not that her
+young men ever come here--but, Lord, in the nature of women, she must
+have a dozen!" "That's unfortunate," said Farmer Oak, contemplating a crack in the
+stone floor with sorrow. "I'm only an every-day sort of man, and my
+only chance was in being the first comer ... Well, there's no use in
+my waiting, for that was all I came about: so I'll take myself off
+home-along, Mrs. Hurst." When Gabriel had gone about two hundred yards along the down, he
+heard a "hoi-hoi!" uttered behind him, in a piping note of more
+treble quality than that in which the exclamation usually embodies
+itself when shouted across a field. He looked round, and saw a girl
+racing after him, waving a white handkerchief. Oak stood still--and the runner drew nearer. It was Bathsheba
+Everdene. Gabriel's colour deepened: hers was already deep, not, as
+it appeared, from emotion, but from running. "Farmer Oak--I--" she said, pausing for want of breath pulling up in
+front of him with a slanted face and putting her hand to her side. "I have just called to see you," said Gabriel, pending her further
+speech. "Yes--I know that," she said panting like a robin, her face red and
+moist from her exertions, like a peony petal before the sun dries off
+the dew. "I didn't know you had come to ask to have me, or I should
+have come in from the garden instantly. I ran after you to say--that
+my aunt made a mistake in sending you away from courting me--"
+
+Gabriel expanded. "I'm sorry to have made you run so fast, my dear,"
+he said, with a grateful sense of favours to come. "Wait a bit till
+you've found your breath." "--It was quite a mistake--aunt's telling you I had a young man
+already," Bathsheba went on. "I haven't a sweetheart at all--and I
+never had one, and I thought that, as times go with women, it was
+SUCH a pity to send you away thinking that I had several." "Really and truly I am glad to hear that!" said Farmer Oak, smiling
+one of his long special smiles, and blushing with gladness. He held
+out his hand to take hers, which, when she had eased her side by
+pressing it there, was prettily extended upon her bosom to still her
+loud-beating heart. Directly he seized it she put it behind her, so
+that it slipped through his fingers like an eel." "I have a nice snug little farm," said Gabriel, with half a degree
+less assurance than when he had seized her hand. "Yes; you have." "A man has advanced me money to begin with, but still, it will soon
+be paid off, and though I am only an every-day sort of man, I have
+got on a little since I was a boy." Gabriel uttered "a little" in a
+tone to show her that it was the complacent form of "a great deal." He continued: "When we be married, I am quite sure I can work twice
+as hard as I do now." He went forward and stretched out his arm again. Bathsheba had
+overtaken him at a point beside which stood a low stunted holly bush,
+now laden with red berries. Seeing his advance take the form of an
+attitude threatening a possible enclosure, if not compression, of her
+person, she edged off round the bush. "Why, Farmer Oak," she said, over the top, looking at him with
+rounded eyes, "I never said I was going to marry you." "Well--that IS a tale!" said Oak, with dismay. "To run after anybody
+like this, and then say you don't want him!" "What I meant to tell you was only this," she said eagerly, and yet
+half conscious of the absurdity of the position she had made for
+herself--"that nobody has got me yet as a sweetheart, instead of my
+having a dozen, as my aunt said; I HATE to be thought men's property
+in that way, though possibly I shall be had some day. Why, if I'd
+wanted you I shouldn't have run after you like this; 'twould have
+been the FORWARDEST thing! But there was no harm in hurrying to
+correct a piece of false news that had been told you." "Oh, no--no harm at all." But there is such a thing as being too
+generous in expressing a judgment impulsively, and Oak added with a
+more appreciative sense of all the circumstances--"Well, I am not
+quite certain it was no harm." "Indeed, I hadn't time to think before starting whether I wanted to
+marry or not, for you'd have been gone over the hill." "Come," said Gabriel, freshening again; "think a minute or two. I'll
+wait a while, Miss Everdene. Will you marry me? Do, Bathsheba. I
+love you far more than common!" "I'll try to think," she observed, rather more timorously; "if I can
+think out of doors; my mind spreads away so." "But you can give a guess." "Then give me time." Bathsheba looked thoughtfully into the
+distance, away from the direction in which Gabriel stood. "I can make you happy," said he to the back of her head, across the
+bush. "You shall have a piano in a year or two--farmers' wives are
+getting to have pianos now--and I'll practise up the flute right well
+to play with you in the evenings." "Yes; I should like that." "And have one of those little ten-pound gigs for market--and nice
+flowers, and birds--cocks and hens I mean, because they be useful,"
+continued Gabriel, feeling balanced between poetry and practicality. "I should like it very much." "And a frame for cucumbers--like a gentleman and lady." "Yes." "And when the wedding was over, we'd have it put in the newspaper
+list of marriages." "Dearly I should like that!" "And the babies in the births--every man jack of 'em! And at home by
+the fire, whenever you look up, there I shall be--and whenever I look
+up there will be you." "Wait, wait, and don't be improper!" Her countenance fell, and she was silent awhile. He regarded the red
+berries between them over and over again, to such an extent, that
+holly seemed in his after life to be a cypher signifying a proposal
+of marriage. Bathsheba decisively turned to him. "No; 'tis no use," she said. "I don't want to marry you." "Try." "I have tried hard all the time I've been thinking; for a marriage
+would be very nice in one sense. People would talk about me, and
+think I had won my battle, and I should feel triumphant, and all
+that, But a husband--"
+
+"Well!" "Why, he'd always be there, as you say; whenever I looked up, there
+he'd be." "Of course he would--I, that is." "Well, what I mean is that I shouldn't mind being a bride at a
+wedding, if I could be one without having a husband. But since a
+woman can't show off in that way by herself, I shan't marry--at least
+yet." "That's a terrible wooden story!" At this criticism of her statement Bathsheba made an addition to her
+dignity by a slight sweep away from him. "Upon my heart and soul, I don't know what a maid can say stupider
+than that," said Oak. "But dearest," he continued in a palliative
+voice, "don't be like it!" Oak sighed a deep honest sigh--none the
+less so in that, being like the sigh of a pine plantation, it was
+rather noticeable as a disturbance of the atmosphere. "Why won't you
+have me?" he appealed, creeping round the holly to reach her side. "I cannot," she said, retreating. "But why?" he persisted, standing still at last in despair of ever
+reaching her, and facing over the bush. "Because I don't love you." "Yes, but--"
+
+She contracted a yawn to an inoffensive smallness, so that it was
+hardly ill-mannered at all. "I don't love you," she said. "But I love you--and, as for myself, I am content to be liked." "Oh Mr. Oak--that's very fine! You'd get to despise me." "Never," said Mr Oak, so earnestly that he seemed to be coming, by
+the force of his words, straight through the bush and into her arms. "I shall do one thing in this life--one thing certain--that is, love
+you, and long for you, and KEEP WANTING YOU till I die." His voice
+had a genuine pathos now, and his large brown hands perceptibly
+trembled. "It seems dreadfully wrong not to have you when you feel so much!" she said with a little distress, and looking hopelessly around
+for some means of escape from her moral dilemma. "How I wish I
+hadn't run after you!" However she seemed to have a short cut for
+getting back to cheerfulness, and set her face to signify archness. "It wouldn't do, Mr Oak. I want somebody to tame me; I am too
+independent; and you would never be able to, I know." Oak cast his eyes down the field in a way implying that it was
+useless to attempt argument. "Mr. Oak," she said, with luminous distinctness and common sense,
+"you are better off than I.  I have hardly a penny in the world--I am
+staying with my aunt for my bare sustenance. I am better educated
+than you--and I don't love you a bit: that's my side of the case. Now yours: you are a farmer just beginning; and you ought in common
+prudence, if you marry at all (which you should certainly not think
+of doing at present), to marry a woman with money, who would stock a
+larger farm for you than you have now." Gabriel looked at her with a little surprise and much admiration. "That's the very thing I had been thinking myself!" he naively said. Farmer Oak had one-and-a-half Christian characteristics too many to
+succeed with Bathsheba: his humility, and a superfluous moiety of
+honesty. Bathsheba was decidedly disconcerted. "Well, then, why did you come and disturb me?" she said, almost
+angrily, if not quite, an enlarging red spot rising in each cheek. "I can't do what I think would be--would be--"
+
+"Right?" "No: wise." "You have made an admission NOW, Mr. Oak," she exclaimed, with even
+more hauteur, and rocking her head disdainfully. "After that, do you
+think I could marry you? Not if I know it." He broke in passionately. "But don't mistake me like that! Because
+I am open enough to own what every man in my shoes would have thought
+of, you make your colours come up your face, and get crabbed with me. That about your not being good enough for me is nonsense. You speak
+like a lady--all the parish notice it, and your uncle at Weatherbury
+is, I have heerd, a large farmer--much larger than ever I shall be. May I call in the evening, or will you walk along with me o' Sundays? I don't want you to make-up your mind at once, if you'd rather not." "No--no--I cannot. Don't press me any more--don't. I don't love
+you--so 'twould be ridiculous," she said, with a laugh. No man likes to see his emotions the sport of a merry-go-round of
+skittishness. "Very well," said Oak, firmly, with the bearing of one
+who was going to give his days and nights to Ecclesiastes for ever. "Then I'll ask you no more." CHAPTER V
+
+
+DEPARTURE OF BATHSHEBA--A PASTORAL TRAGEDY
+
+
+The news which one day reached Gabriel, that Bathsheba Everdene
+had left the neighbourhood, had an influence upon him which might
+have surprised any who never suspected that the more emphatic the
+renunciation the less absolute its character. It may have been observed that there is no regular path for getting
+out of love as there is for getting in. Some people look upon
+marriage as a short cut that way, but it has been known to fail. Separation, which was the means that chance offered to Gabriel Oak by
+Bathsheba's disappearance, though effectual with people of certain
+humours, is apt to idealize the removed object with others--notably
+those whose affection, placid and regular as it may be, flows deep
+and long. Oak belonged to the even-tempered order of humanity, and
+felt the secret fusion of himself in Bathsheba to be burning with a
+finer flame now that she was gone--that was all. His incipient friendship with her aunt had been nipped by the
+failure of his suit, and all that Oak learnt of Bathsheba's
+movements was done indirectly. It appeared that she had gone to
+a place called Weatherbury, more than twenty miles off, but in
+what capacity--whether as a visitor, or permanently, he could not
+discover. Gabriel had two dogs. George, the elder, exhibited an ebony-tipped
+nose, surrounded by a narrow margin of pink flesh, and a coat marked
+in random splotches approximating in colour to white and slaty
+grey; but the grey, after years of sun and rain, had been scorched
+and washed out of the more prominent locks, leaving them of a
+reddish-brown, as if the blue component of the grey had faded, like
+the indigo from the same kind of colour in Turner's pictures. In
+substance it had originally been hair, but long contact with sheep
+seemed to be turning it by degrees into wool of a poor quality and
+staple. This dog had originally belonged to a shepherd of inferior morals
+and dreadful temper, and the result was that George knew the exact
+degrees of condemnation signified by cursing and swearing of all
+descriptions better than the wickedest old man in the neighbourhood. Long experience had so precisely taught the animal the difference
+between such exclamations as "Come in!" and "D---- ye, come in!" that
+he knew to a hair's breadth the rate of trotting back from the ewes'
+tails that each call involved, if a staggerer with the sheep crook
+was to be escaped. Though old, he was clever and trustworthy still. The young dog, George's son, might possibly have been the image
+of his mother, for there was not much resemblance between him and
+George. He was learning the sheep-keeping business, so as to follow
+on at the flock when the other should die, but had got no further
+than the rudiments as yet--still finding an insuperable difficulty
+in distinguishing between doing a thing well enough and doing it too
+well. So earnest and yet so wrong-headed was this young dog (he had
+no name in particular, and answered with perfect readiness to any
+pleasant interjection), that if sent behind the flock to help them
+on, he did it so thoroughly that he would have chased them across the
+whole county with the greatest pleasure if not called off or reminded
+when to stop by the example of old George. Thus much for the dogs. On the further side of Norcombe Hill was
+a chalk-pit, from which chalk had been drawn for generations, and
+spread over adjacent farms. Two hedges converged upon it in the form
+of a V, but without quite meeting. The narrow opening left, which
+was immediately over the brow of the pit, was protected by a rough
+railing. One night, when Farmer Oak had returned to his house, believing there
+would be no further necessity for his attendance on the down, he
+called as usual to the dogs, previously to shutting them up in the
+outhouse till next morning. Only one responded--old George; the
+other could not be found, either in the house, lane, or garden. Gabriel then remembered that he had left the two dogs on the hill
+eating a dead lamb (a kind of meat he usually kept from them, except
+when other food ran short), and concluding that the young one had
+not finished his meal, he went indoors to the luxury of a bed, which
+latterly he had only enjoyed on Sundays. It was a still, moist night. Just before dawn he was assisted in
+waking by the abnormal reverberation of familiar music. To the
+shepherd, the note of the sheep-bell, like the ticking of the clock
+to other people, is a chronic sound that only makes itself noticed by
+ceasing or altering in some unusual manner from the well-known idle
+twinkle which signifies to the accustomed ear, however distant, that
+all is well in the fold. In the solemn calm of the awakening morn
+that note was heard by Gabriel, beating with unusual violence and
+rapidity. This exceptional ringing may be caused in two ways--by
+the rapid feeding of the sheep bearing the bell, as when the flock
+breaks into new pasture, which gives it an intermittent rapidity,
+or by the sheep starting off in a run, when the sound has a regular
+palpitation. The experienced ear of Oak knew the sound he now heard
+to be caused by the running of the flock with great velocity. He jumped out of bed, dressed, tore down the lane through a foggy
+dawn, and ascended the hill. The forward ewes were kept apart from
+those among which the fall of lambs would be later, there being two
+hundred of the latter class in Gabriel's flock. These two hundred
+seemed to have absolutely vanished from the hill. There were the
+fifty with their lambs, enclosed at the other end as he had left
+them, but the rest, forming the bulk of the flock, were nowhere. Gabriel called at the top of his voice the shepherd's call:
+
+"Ovey, ovey, ovey!" Not a single bleat. He went to the hedge; a gap had been broken
+through it, and in the gap were the footprints of the sheep. Rather
+surprised to find them break fence at this season, yet putting it
+down instantly to their great fondness for ivy in winter-time, of
+which a great deal grew in the plantation, he followed through the
+hedge. They were not in the plantation. He called again: the
+valleys and farthest hills resounded as when the sailors invoked the
+lost Hylas on the Mysian shore; but no sheep. He passed through the
+trees and along the ridge of the hill. On the extreme summit, where
+the ends of the two converging hedges of which we have spoken were
+stopped short by meeting the brow of the chalk-pit, he saw the
+younger dog standing against the sky--dark and motionless as Napoleon
+at St. Helena. A horrible conviction darted through Oak. With a sensation of bodily
+faintness he advanced: at one point the rails were broken through,
+and there he saw the footprints of his ewes. The dog came up, licked
+his hand, and made signs implying that he expected some great reward
+for signal services rendered. Oak looked over the precipice. The
+ewes lay dead and dying at its foot--a heap of two hundred mangled
+carcasses, representing in their condition just now at least two
+hundred more. Oak was an intensely humane man: indeed, his humanity often tore in
+pieces any politic intentions of his which bordered on strategy, and
+carried him on as by gravitation. A shadow in his life had always
+been that his flock ended in mutton--that a day came and found every
+shepherd an arrant traitor to his defenseless sheep. His first
+feeling now was one of pity for the untimely fate of these gentle
+ewes and their unborn lambs. It was a second to remember another phase of the matter. The
+sheep were not insured. All the savings of a frugal life had been
+dispersed at a blow; his hopes of being an independent farmer were
+laid low--possibly for ever. Gabriel's energies, patience, and
+industry had been so severely taxed during the years of his life
+between eighteen and eight-and-twenty, to reach his present stage of
+progress that no more seemed to be left in him. He leant down upon a
+rail, and covered his face with his hands. Stupors, however, do not last for ever, and Farmer Oak recovered from
+his. It was as remarkable as it was characteristic that the one
+sentence he uttered was in thankfulness:--
+
+"Thank God I am not married: what would SHE have done in the poverty
+now coming upon me!" Oak raised his head, and wondering what he could do, listlessly
+surveyed the scene. By the outer margin of the Pit was an oval pond,
+and over it hung the attenuated skeleton of a chrome-yellow moon
+which had only a few days to last--the morning star dogging her on
+the left hand. The pool glittered like a dead man's eye, and as the
+world awoke a breeze blew, shaking and elongating the reflection of
+the moon without breaking it, and turning the image of the star to a
+phosphoric streak upon the water. All this Oak saw and remembered. As far as could be learnt it appeared that the poor young dog, still
+under the impression that since he was kept for running after sheep,
+the more he ran after them the better, had at the end of his meal
+off the dead lamb, which may have given him additional energy and
+spirits, collected all the ewes into a corner, driven the timid
+creatures through the hedge, across the upper field, and by main
+force of worrying had given them momentum enough to break down a
+portion of the rotten railing, and so hurled them over the edge. George's son had done his work so thoroughly that he was considered
+too good a workman to live, and was, in fact, taken and tragically
+shot at twelve o'clock that same day--another instance of the
+untoward fate which so often attends dogs and other philosophers
+who follow out a train of reasoning to its logical conclusion, and
+attempt perfectly consistent conduct in a world made up so largely
+of compromise. Gabriel's farm had been stocked by a dealer--on the strength of Oak's
+promising look and character--who was receiving a percentage from the
+farmer till such time as the advance should be cleared off. Oak found
+that the value of stock, plant, and implements which were really his
+own would be about sufficient to pay his debts, leaving himself a
+free man with the clothes he stood up in, and nothing more. CHAPTER VI
+
+
+THE FAIR--THE JOURNEY--THE FIRE
+
+
+Two months passed away. We are brought on to a day in February, on
+which was held the yearly statute or hiring fair in the county-town
+of Casterbridge. At one end of the street stood from two to three hundred blithe and
+hearty labourers waiting upon Chance--all men of the stamp to whom
+labour suggests nothing worse than a wrestle with gravitation, and
+pleasure nothing better than a renunciation of the same. Among
+these, carters and waggoners were distinguished by having a piece
+of whip-cord twisted round their hats; thatchers wore a fragment of
+woven straw; shepherds held their sheep-crooks in their hands; and
+thus the situation required was known to the hirers at a glance. In the crowd was an athletic young fellow of somewhat superior
+appearance to the rest--in fact, his superiority was marked enough to
+lead several ruddy peasants standing by to speak to him inquiringly,
+as to a farmer, and to use "Sir" as a finishing word. His answer
+always was,--
+
+"I am looking for a place myself--a bailiff's. Do ye know of anybody
+who wants one?" Gabriel was paler now. His eyes were more meditative, and his
+expression was more sad. He had passed through an ordeal of
+wretchedness which had given him more than it had taken away. He
+had sunk from his modest elevation as pastoral king into the very
+slime-pits of Siddim; but there was left to him a dignified calm he
+had never before known, and that indifference to fate which, though
+it often makes a villain of a man, is the basis of his sublimity when
+it does not. And thus the abasement had been exaltation, and the
+loss gain. In the morning a regiment of cavalry had left the town, and a
+sergeant and his party had been beating up for recruits through the
+four streets. As the end of the day drew on, and he found himself
+not hired, Gabriel almost wished that he had joined them, and gone
+off to serve his country. Weary of standing in the market-place, and
+not much minding the kind of work he turned his hand to, he decided
+to offer himself in some other capacity than that of bailiff. All the farmers seemed to be wanting shepherds. Sheep-tending was
+Gabriel's speciality. Turning down an obscure street and entering
+an obscurer lane, he went up to a smith's shop. "How long would it take you to make a shepherd's crook?" "Twenty minutes." "How much?" "Two shillings." He sat on a bench and the crook was made, a stem being given him into
+the bargain. He then went to a ready-made clothes' shop, the owner of which had a
+large rural connection. As the crook had absorbed most of Gabriel's
+money, he attempted, and carried out, an exchange of his overcoat for
+a shepherd's regulation smock-frock. This transaction having been completed, he again hurried off to the
+centre of the town, and stood on the kerb of the pavement, as a
+shepherd, crook in hand. Now that Oak had turned himself into a shepherd, it seemed that
+bailiffs were most in demand. However, two or three farmers noticed
+him and drew near. Dialogues followed, more or less in the subjoined
+form:--
+
+"Where do you come from?" "Norcombe." "That's a long way. "Fifteen miles." "Who's farm were you upon last?" "My own." This reply invariably operated like a rumour of cholera. The
+inquiring farmer would edge away and shake his head dubiously. Gabriel, like his dog, was too good to be trustworthy, and he never
+made advance beyond this point. It is safer to accept any chance that offers itself, and extemporize
+a procedure to fit it, than to get a good plan matured, and wait for
+a chance of using it. Gabriel wished he had not nailed up his
+colours as a shepherd, but had laid himself out for anything in the
+whole cycle of labour that was required in the fair. It grew dusk. Some merry men were whistling and singing by the corn-exchange. Gabriel's hand, which had lain for some time idle in his smock-frock
+pocket, touched his flute which he carried there. Here was an
+opportunity for putting his dearly bought wisdom into practice. He drew out his flute and began to play "Jockey to the Fair" in the
+style of a man who had never known moment's sorrow. Oak could pipe
+with Arcadian sweetness, and the sound of the well-known notes
+cheered his own heart as well as those of the loungers. He played on
+with spirit, and in half an hour had earned in pence what was a small
+fortune to a destitute man. By making inquiries he learnt that there was another fair at
+Shottsford the next day. "How far is Shottsford?" "Ten miles t'other side of Weatherbury." Weatherbury! It was where Bathsheba had gone two months before. This information was like coming from night into noon. "How far is it to Weatherbury?" "Five or six miles." Bathsheba had probably left Weatherbury long before this time, but
+the place had enough interest attaching to it to lead Oak to choose
+Shottsford fair as his next field of inquiry, because it lay in the
+Weatherbury quarter. Moreover, the Weatherbury folk were by no means
+uninteresting intrinsically. If report spoke truly they were as
+hardy, merry, thriving, wicked a set as any in the whole county. Oak
+resolved to sleep at Weatherbury that night on his way to Shottsford,
+and struck out at once into the high road which had been recommended
+as the direct route to the village in question. The road stretched through water-meadows traversed by little brooks,
+whose quivering surfaces were braided along their centres, and
+folded into creases at the sides; or, where the flow was more
+rapid, the stream was pied with spots of white froth, which rode
+on in undisturbed serenity. On the higher levels the dead and
+dry carcasses of leaves tapped the ground as they bowled along
+helter-skelter upon the shoulders of the wind, and little birds in
+the hedges were rustling their feathers and tucking themselves in
+comfortably for the night, retaining their places if Oak kept moving,
+but flying away if he stopped to look at them. He passed by Yalbury
+Wood where the game-birds were rising to their roosts, and heard the
+crack-voiced cock-pheasants "cu-uck, cuck," and the wheezy whistle of
+the hens. By the time he had walked three or four miles every shape in the
+landscape had assumed a uniform hue of blackness. He descended
+Yalbury Hill and could just discern ahead of him a waggon, drawn up
+under a great over-hanging tree by the roadside. On coming close, he found there were no horses attached to it, the
+spot being apparently quite deserted. The waggon, from its position,
+seemed to have been left there for the night, for beyond about half
+a truss of hay which was heaped in the bottom, it was quite empty. Gabriel sat down on the shafts of the vehicle and considered his
+position. He calculated that he had walked a very fair proportion of
+the journey; and having been on foot since daybreak, he felt tempted
+to lie down upon the hay in the waggon instead of pushing on to the
+village of Weatherbury, and having to pay for a lodging. Eating his last slices of bread and ham, and drinking from the bottle
+of cider he had taken the precaution to bring with him, he got into
+the lonely waggon. Here he spread half of the hay as a bed, and,
+as well as he could in the darkness, pulled the other half over
+him by way of bed-clothes, covering himself entirely, and feeling,
+physically, as comfortable as ever he had been in his life. Inward
+melancholy it was impossible for a man like Oak, introspective far
+beyond his neighbours, to banish quite, whilst conning the present
+untoward page of his history. So, thinking of his misfortunes,
+amorous and pastoral, he fell asleep, shepherds enjoying, in common
+with sailors, the privilege of being able to summon the god instead
+of having to wait for him. On somewhat suddenly awaking, after a sleep of whose length he had no
+idea, Oak found that the waggon was in motion. He was being carried
+along the road at a rate rather considerable for a vehicle without
+springs, and under circumstances of physical uneasiness, his
+head being dandled up and down on the bed of the waggon like a
+kettledrum-stick. He then distinguished voices in conversation,
+coming from the forpart of the waggon. His concern at this dilemma
+(which would have been alarm, had he been a thriving man; but
+misfortune is a fine opiate to personal terror) led him to peer
+cautiously from the hay, and the first sight he beheld was the stars
+above him. Charles's Wain was getting towards a right angle with
+the Pole star, and Gabriel concluded that it must be about nine
+o'clock--in other words, that he had slept two hours. This small
+astronomical calculation was made without any positive effort, and
+whilst he was stealthily turning to discover, if possible, into whose
+hands he had fallen. Two figures were dimly visible in front, sitting with their legs
+outside the waggon, one of whom was driving. Gabriel soon found that
+this was the waggoner, and it appeared they had come from
+Casterbridge fair, like himself. A conversation was in progress, which continued thus:--
+
+"Be as 'twill, she's a fine handsome body as far's looks be
+concerned. But that's only the skin of the woman, and these dandy
+cattle be as proud as a lucifer in their insides." "Ay--so 'a do seem, Billy Smallbury--so 'a do seem." This utterance
+was very shaky by nature, and more so by circumstance, the jolting of
+the waggon not being without its effect upon the speaker's larynx. It came from the man who held the reins. "She's a very vain feymell--so 'tis said here and there." "Ah, now. If so be 'tis like that, I can't look her in the face. Lord, no: not I--heh-heh-heh! Such a shy man as I be!" "Yes--she's very vain. 'Tis said that every night at going to bed
+she looks in the glass to put on her night-cap properly." "And not a married woman. Oh, the world!" "And 'a can play the peanner, so 'tis said. Can play so clever that
+'a can make a psalm tune sound as well as the merriest loose song a
+man can wish for." "D'ye tell o't! A happy time for us, and I feel quite a new man! And how do she pay?" "That I don't know, Master Poorgrass." On hearing these and other similar remarks, a wild thought flashed
+into Gabriel's mind that they might be speaking of Bathsheba. There
+were, however, no grounds for retaining such a supposition, for the
+waggon, though going in the direction of Weatherbury, might be going
+beyond it, and the woman alluded to seemed to be the mistress of some
+estate. They were now apparently close upon Weatherbury and not to
+alarm the speakers unnecessarily, Gabriel slipped out of the waggon
+unseen. He turned to an opening in the hedge, which he found to be a gate,
+and mounting thereon, he sat meditating whether to seek a cheap
+lodging in the village, or to ensure a cheaper one by lying under
+some hay or corn-stack. The crunching jangle of the waggon died upon
+his ear. He was about to walk on, when he noticed on his left hand
+an unusual light--appearing about half a mile distant. Oak watched
+it, and the glow increased. Something was on fire. Gabriel again mounted the gate, and, leaping down on the other side
+upon what he found to be ploughed soil, made across the field in the
+exact direction of the fire. The blaze, enlarging in a double ratio
+by his approach and its own increase, showed him as he drew nearer
+the outlines of ricks beside it, lighted up to great distinctness. A
+rick-yard was the source of the fire. His weary face now began to
+be painted over with a rich orange glow, and the whole front of his
+smock-frock and gaiters was covered with a dancing shadow pattern of
+thorn-twigs--the light reaching him through a leafless intervening
+hedge--and the metallic curve of his sheep-crook shone silver-bright
+in the same abounding rays. He came up to the boundary fence, and
+stood to regain breath. It seemed as if the spot was unoccupied by
+a living soul. The fire was issuing from a long straw-stack, which was so far gone
+as to preclude a possibility of saving it. A rick burns differently
+from a house. As the wind blows the fire inwards, the portion in
+flames completely disappears like melting sugar, and the outline is
+lost to the eye. However, a hay or a wheat-rick, well put together,
+will resist combustion for a length of time, if it begins on the
+outside. This before Gabriel's eyes was a rick of straw, loosely put together,
+and the flames darted into it with lightning swiftness. It glowed on
+the windward side, rising and falling in intensity, like the coal of
+a cigar. Then a superincumbent bundle rolled down, with a whisking
+noise; flames elongated, and bent themselves about with a quiet
+roar, but no crackle. Banks of smoke went off horizontally at the
+back like passing clouds, and behind these burned hidden pyres,
+illuminating the semi-transparent sheet of smoke to a lustrous yellow
+uniformity. Individual straws in the foreground were consumed in a
+creeping movement of ruddy heat, as if they were knots of red worms,
+and above shone imaginary fiery faces, tongues hanging from lips,
+glaring eyes, and other impish forms, from which at intervals sparks
+flew in clusters like birds from a nest. Oak suddenly ceased from being a mere spectator by discovering the
+case to be more serious than he had at first imagined. A scroll
+of smoke blew aside and revealed to him a wheat-rick in startling
+juxtaposition with the decaying one, and behind this a series of
+others, composing the main corn produce of the farm; so that instead
+of the straw-stack standing, as he had imagined comparatively
+isolated, there was a regular connection between it and the remaining
+stacks of the group. Gabriel leapt over the hedge, and saw that he was not alone. The
+first man he came to was running about in a great hurry, as if his
+thoughts were several yards in advance of his body, which they could
+never drag on fast enough. "O, man--fire, fire! A good master and a bad servant is fire,
+fire!--I mane a bad servant and a good master. Oh, Mark Clark--come! And you, Billy Smallbury--and you, Maryann Money--and you, Jan
+Coggan, and Matthew there!" Other figures now appeared behind this
+shouting man and among the smoke, and Gabriel found that, far from
+being alone he was in a great company--whose shadows danced merrily
+up and down, timed by the jigging of the flames, and not at all by
+their owners' movements. The assemblage--belonging to that class of
+society which casts its thoughts into the form of feeling, and its
+feelings into the form of commotion--set to work with a remarkable
+confusion of purpose. "Stop the draught under the wheat-rick!" cried Gabriel to those
+nearest to him. The corn stood on stone staddles, and between these,
+tongues of yellow hue from the burning straw licked and darted
+playfully. If the fire once got UNDER this stack, all would be lost. "Get a tarpaulin--quick!" said Gabriel. A rick-cloth was brought, and they hung it like a curtain across the
+channel. The flames immediately ceased to go under the bottom of the
+corn-stack, and stood up vertical. "Stand here with a bucket of water and keep the cloth wet." said
+Gabriel again. The flames, now driven upwards, began to attack the angles of the
+huge roof covering the wheat-stack. "A ladder," cried Gabriel. "The ladder was against the straw-rick and is burnt to a cinder,"
+said a spectre-like form in the smoke. Oak seized the cut ends of the sheaves, as if he were going to engage
+in the operation of "reed-drawing," and digging in his feet, and
+occasionally sticking in the stem of his sheep-crook, he clambered up
+the beetling face. He at once sat astride the very apex, and began
+with his crook to beat off the fiery fragments which had lodged
+thereon, shouting to the others to get him a bough and a ladder, and
+some water. Billy Smallbury--one of the men who had been on the waggon--by this
+time had found a ladder, which Mark Clark ascended, holding on beside
+Oak upon the thatch. The smoke at this corner was stifling, and
+Clark, a nimble fellow, having been handed a bucket of water, bathed
+Oak's face and sprinkled him generally, whilst Gabriel, now with a
+long beech-bough in one hand, in addition to his crook in the other,
+kept sweeping the stack and dislodging all fiery particles. On the ground the groups of villagers were still occupied in doing
+all they could to keep down the conflagration, which was not much. They were all tinged orange, and backed up by shadows of varying
+pattern. Round the corner of the largest stack, out of the direct
+rays of the fire, stood a pony, bearing a young woman on its back. By her side was another woman, on foot. These two seemed to keep at
+a distance from the fire, that the horse might not become restive. "He's a shepherd," said the woman on foot. "Yes--he is. See how his
+crook shines as he beats the rick with it. And his smock-frock is
+burnt in two holes, I declare! A fine young shepherd he is too,
+ma'am." "Whose shepherd is he?" said the equestrian in a clear voice. "Don't know, ma'am." "Don't any of the others know?" "Nobody at all--I've asked 'em. Quite a stranger, they say." The young woman on the pony rode out from the shade and looked
+anxiously around. "Do you think the barn is safe?" she said. "D'ye think the barn is safe, Jan Coggan?" said the second woman,
+passing on the question to the nearest man in that direction. "Safe-now--leastwise I think so. If this rick had gone the barn
+would have followed. 'Tis that bold shepherd up there that have done
+the most good--he sitting on the top o' rick, whizzing his great
+long-arms about like a windmill." "He does work hard," said the young woman on horseback, looking up at
+Gabriel through her thick woollen veil. "I wish he was shepherd
+here. Don't any of you know his name." "Never heard the man's name in my life, or seed his form afore." The fire began to get worsted, and Gabriel's elevated position being
+no longer required of him, he made as if to descend. "Maryann," said the girl on horseback, "go to him as he comes down,
+and say that the farmer wishes to thank him for the great service he
+has done." Maryann stalked off towards the rick and met Oak at the foot of the
+ladder. She delivered her message. "Where is your master the farmer?" asked Gabriel, kindling with the
+idea of getting employment that seemed to strike him now. "'Tisn't a master; 'tis a mistress, shepherd." "A woman farmer?" "Ay, 'a b'lieve, and a rich one too!" said a bystander. "Lately
+'a came here from a distance. Took on her uncle's farm, who died
+suddenly. Used to measure his money in half-pint cups. They say
+now that she've business in every bank in Casterbridge, and thinks
+no more of playing pitch-and-toss sovereign than you and I, do
+pitch-halfpenny--not a bit in the world, shepherd." "That's she, back there upon the pony," said Maryann; "wi' her face
+a-covered up in that black cloth with holes in it." Oak, his features smudged, grimy, and undiscoverable from the smoke
+and heat, his smock-frock burnt into holes and dripping with water,
+the ash stem of his sheep-crook charred six inches shorter, advanced
+with the humility stern adversity had thrust upon him up to the
+slight female form in the saddle. He lifted his hat with respect,
+and not without gallantry: stepping close to her hanging feet he said
+in a hesitating voice,--
+
+"Do you happen to want a shepherd, ma'am?" She lifted the wool veil tied round her face, and looked all
+astonishment. Gabriel and his cold-hearted darling, Bathsheba
+Everdene, were face to face. Bathsheba did not speak, and he mechanically repeated in an abashed
+and sad voice,--
+
+"Do you want a shepherd, ma'am?" CHAPTER VII
+
+
+RECOGNITION--A TIMID GIRL
+
+
+Bathsheba withdrew into the shade. She scarcely knew whether most to
+be amused at the singularity of the meeting, or to be concerned at
+its awkwardness. There was room for a little pity, also for a very
+little exultation: the former at his position, the latter at her own. Embarrassed she was not, and she remembered Gabriel's declaration of
+love to her at Norcombe only to think she had nearly forgotten it. "Yes," she murmured, putting on an air of dignity, and turning again
+to him with a little warmth of cheek; "I do want a shepherd. But--"
+
+"He's the very man, ma'am," said one of the villagers, quietly. Conviction breeds conviction. "Ay, that 'a is," said a second,
+decisively. "The man, truly!" said a third, with heartiness. "He's all there!" said number four, fervidly. "Then will you tell him to speak to the bailiff," said Bathsheba. All was practical again now. A summer eve and loneliness would have
+been necessary to give the meeting its proper fulness of romance. The bailiff was pointed out to Gabriel, who, checking the palpitation
+within his breast at discovering that this Ashtoreth of strange
+report was only a modification of Venus the well-known and admired,
+retired with him to talk over the necessary preliminaries of hiring. The fire before them wasted away. "Men," said Bathsheba, "you shall
+take a little refreshment after this extra work. Will you come to
+the house?" "We could knock in a bit and a drop a good deal freer, Miss, if so be
+ye'd send it to Warren's Malthouse," replied the spokesman. Bathsheba then rode off into the darkness, and the men straggled on
+to the village in twos and threes--Oak and the bailiff being left by
+the rick alone. "And now," said the bailiff, finally, "all is settled, I think, about
+your coming, and I am going home-along. Good-night to ye, shepherd." "Can you get me a lodging?" inquired Gabriel. "That I can't, indeed," he said, moving past Oak as a Christian edges
+past an offertory-plate when he does not mean to contribute. "If you
+follow on the road till you come to Warren's Malthouse, where they
+are all gone to have their snap of victuals, I daresay some of 'em
+will tell you of a place. Good-night to ye, shepherd." The bailiff who showed this nervous dread of loving his neighbour as
+himself, went up the hill, and Oak walked on to the village, still
+astonished at the reencounter with Bathsheba, glad of his nearness to
+her, and perplexed at the rapidity with which the unpractised girl of
+Norcombe had developed into the supervising and cool woman here. But
+some women only require an emergency to make them fit for one. Obliged, to some extent, to forgo dreaming in order to find the way,
+he reached the churchyard, and passed round it under the wall where
+several ancient trees grew. There was a wide margin of grass along
+here, and Gabriel's footsteps were deadened by its softness, even at
+this indurating period of the year. When abreast of a trunk which
+appeared to be the oldest of the old, he became aware that a figure
+was standing behind it. Gabriel did not pause in his walk, and in
+another moment he accidentally kicked a loose stone. The noise was
+enough to disturb the motionless stranger, who started and assumed
+a careless position. It was a slim girl, rather thinly clad. "Good-night to you," said Gabriel, heartily. "Good-night," said the girl to Gabriel. The voice was unexpectedly attractive; it was the low and dulcet note
+suggestive of romance; common in descriptions, rare in experience. "I'll thank you to tell me if I'm in the way for Warren's Malthouse?" Gabriel resumed, primarily to gain the information, indirectly to get
+more of the music. "Quite right. It's at the bottom of the hill. And do you know--"
+The girl hesitated and then went on again. "Do you know how late
+they keep open the Buck's Head Inn?" She seemed to be won by
+Gabriel's heartiness, as Gabriel had been won by her modulations. "I don't know where the Buck's Head is, or anything about it. Do you
+think of going there to-night?" "Yes--"  The woman again paused. There was no necessity for any
+continuance of speech, and the fact that she did add more seemed to
+proceed from an unconscious desire to show unconcern by making a
+remark, which is noticeable in the ingenuous when they are acting by
+stealth. "You are not a Weatherbury man?" she said, timorously. "I am not. I am the new shepherd--just arrived." "Only a shepherd--and you seem almost a farmer by your ways." "Only a shepherd," Gabriel repeated, in a dull cadence of finality. His thoughts were directed to the past, his eyes to the feet of the
+girl; and for the first time he saw lying there a bundle of some
+sort. She may have perceived the direction of his face, for she said
+coaxingly,--
+
+"You won't say anything in the parish about having seen me here, will
+you--at least, not for a day or two?" "I won't if you wish me not to," said Oak. "Thank you, indeed," the other replied. "I am rather poor, and I
+don't want people to know anything about me." Then she was silent
+and shivered. "You ought to have a cloak on such a cold night," Gabriel observed. "I would advise 'ee to get indoors." "O no! Would you mind going on and leaving me? I thank you much for
+what you have told me." "I will go on," he said; adding hesitatingly,--"Since you are not
+very well off, perhaps you would accept this trifle from me. It is
+only a shilling, but it is all I have to spare." "Yes, I will take it," said the stranger gratefully. She extended her hand; Gabriel his. In feeling for each other's palm
+in the gloom before the money could be passed, a minute incident
+occurred which told much. Gabriel's fingers alighted on the young
+woman's wrist. It was beating with a throb of tragic intensity. He
+had frequently felt the same quick, hard beat in the femoral artery
+of his lambs when overdriven. It suggested a consumption too great
+of a vitality which, to judge from her figure and stature, was
+already too little. "What is the matter?" "Nothing." "But there is?" "No, no, no! Let your having seen me be a secret!" "Very well; I will. Good-night, again." "Good-night." The young girl remained motionless by the tree, and Gabriel descended
+into the village of Weatherbury, or Lower Longpuddle as it was
+sometimes called. He fancied that he had felt himself in the
+penumbra of a very deep sadness when touching that slight and fragile
+creature. But wisdom lies in moderating mere impressions, and
+Gabriel endeavoured to think little of this. CHAPTER VIII
+
+
+THE MALTHOUSE--THE CHAT--NEWS
+
+
+Warren's Malthouse was enclosed by an old wall inwrapped with ivy,
+and though not much of the exterior was visible at this hour, the
+character and purposes of the building were clearly enough shown by
+its outline upon the sky. From the walls an overhanging thatched
+roof sloped up to a point in the centre, upon which rose a small
+wooden lantern, fitted with louvre-boards on all the four sides,
+and from these openings a mist was dimly perceived to be escaping
+into the night air. There was no window in front; but a square
+hole in the door was glazed with a single pane, through which red,
+comfortable rays now stretched out upon the ivied wall in front. Voices were to be heard inside. Oak's hand skimmed the surface of the door with fingers extended to
+an Elymas-the-Sorcerer pattern, till he found a leathern strap, which
+he pulled. This lifted a wooden latch, and the door swung open. The room inside was lighted only by the ruddy glow from the kiln
+mouth, which shone over the floor with the streaming horizontality
+of the setting sun, and threw upwards the shadows of all facial
+irregularities in those assembled around. The stone-flag floor was
+worn into a path from the doorway to the kiln, and into undulations
+everywhere. A curved settle of unplaned oak stretched along one
+side, and in a remote corner was a small bed and bedstead, the owner
+and frequent occupier of which was the maltster. This aged man was now sitting opposite the fire, his frosty white
+hair and beard overgrowing his gnarled figure like the grey moss and
+lichen upon a leafless apple-tree. He wore breeches and the laced-up
+shoes called ankle-jacks; he kept his eyes fixed upon the fire. Gabriel's nose was greeted by an atmosphere laden with the sweet
+smell of new malt. The conversation (which seemed to have been
+concerning the origin of the fire) immediately ceased, and every one
+ocularly criticised him to the degree expressed by contracting the
+flesh of their foreheads and looking at him with narrowed eyelids, as
+if he had been a light too strong for their sight. Several exclaimed
+meditatively, after this operation had been completed:--
+
+"Oh, 'tis the new shepherd, 'a b'lieve." "We thought we heard a hand pawing about the door for the bobbin, but
+weren't sure 'twere not a dead leaf blowed across," said another. "Come in, shepherd; sure ye be welcome, though we don't know yer
+name." "Gabriel Oak, that's my name, neighbours." The ancient maltster sitting in the midst turned at this--his turning
+being as the turning of a rusty crane. "That's never Gable Oak's grandson over at Norcombe--never!" he said,
+as a formula expressive of surprise, which nobody was supposed for a
+moment to take literally. "My father and my grandfather were old men of the name of Gabriel,"
+said the shepherd, placidly. "Thought I knowed the man's face as I seed him on the rick!--thought
+I did! And where be ye trading o't to now, shepherd?" "I'm thinking of biding here," said Mr. Oak. "Knowed yer grandfather for years and years!" continued the maltster,
+the words coming forth of their own accord as if the momentum
+previously imparted had been sufficient. "Ah--and did you!" "Knowed yer grandmother." "And her too!" "Likewise knowed yer father when he was a child. Why, my boy
+Jacob there and your father were sworn brothers--that they were
+sure--weren't ye, Jacob?" "Ay, sure," said his son, a young man about sixty-five, with a
+semi-bald head and one tooth in the left centre of his upper jaw,
+which made much of itself by standing prominent, like a milestone in
+a bank. "But 'twas Joe had most to do with him. However, my son
+William must have knowed the very man afore us--didn't ye, Billy,
+afore ye left Norcombe?" "No, 'twas Andrew," said Jacob's son Billy, a child of forty, or
+thereabouts, who manifested the peculiarity of possessing a cheerful
+soul in a gloomy body, and whose whiskers were assuming a chinchilla
+shade here and there. "I can mind Andrew," said Oak, "as being a man in the place when I
+was quite a child." "Ay--the other day I and my youngest daughter, Liddy, were over at
+my grandson's christening," continued Billy. "We were talking about
+this very family, and 'twas only last Purification Day in this very
+world, when the use-money is gied away to the second-best poor folk,
+you know, shepherd, and I can mind the day because they all had to
+traypse up to the vestry--yes, this very man's family." "Come, shepherd, and drink. 'Tis gape and swaller with us--a drap of
+sommit, but not of much account," said the maltster, removing from
+the fire his eyes, which were vermilion-red and bleared by gazing
+into it for so many years. "Take up the God-forgive-me, Jacob. See
+if 'tis warm, Jacob." Jacob stooped to the God-forgive-me, which was a two-handled tall mug
+standing in the ashes, cracked and charred with heat: it was rather
+furred with extraneous matter about the outside, especially in the
+crevices of the handles, the innermost curves of which may not have
+seen daylight for several years by reason of this encrustation
+thereon--formed of ashes accidentally wetted with cider and baked
+hard; but to the mind of any sensible drinker the cup was no
+worse for that, being incontestably clean on the inside and about
+the rim. It may be observed that such a class of mug is called a
+God-forgive-me in Weatherbury and its vicinity for uncertain reasons;
+probably because its size makes any given toper feel ashamed of
+himself when he sees its bottom in drinking it empty. Jacob, on receiving the order to see if the liquor was warm enough,
+placidly dipped his forefinger into it by way of thermometer, and
+having pronounced it nearly of the proper degree, raised the cup and
+very civilly attempted to dust some of the ashes from the bottom with
+the skirt of his smock-frock, because Shepherd Oak was a stranger. "A clane cup for the shepherd," said the maltster commandingly. "No--not at all," said Gabriel, in a reproving tone of
+considerateness. "I never fuss about dirt in its pure state, and
+when I know what sort it is." Taking the mug he drank an inch or
+more from the depth of its contents, and duly passed it to the
+next man. 

@@ -1,0 +1,3556 @@
+
+
+E-text prepared by Al Haines
+
+
+
+ATALANTA IN CALYDON
+
+A Tragedy
+
+by
+
+ALGERNON CHARLES SWINBURNE
+
+A New Edition
+
+
+
+
+
+
+
+Tous zontas eu dran. katthanon de pas aner Ge kai skia. to meden eis
+ouden repei
+
+EUR. _Fr. Mel._ 20 (537).
+
+
+
+
+London:
+Chatto & Windus, Piccadilly
+Printed by Spottiswoode and Co., New-Street Square and Parliament Street
+
+1885
+
+
+
+
+TO THE MEMORY
+
+OF
+
+WALTER SAVAGE LANDOR
+
+
+I NOW DEDICATE, WITH EQUAL AFFECTION, REVERENCE, AND REGRET, A POEM
+INSCRIBED TO HIM WHILE YET ALIVE IN WORDS WHICH ARE NOW RETAINED
+BECAUSE THEY WERE LAID BEFORE HIM; AND TO WHICH, RATHER THAN CANCEL
+THEM, I HAVE ADDED SUCH OTHERS AS WERE EVOKED BY THE NEWS OF HIS DEATH:
+THAT THOUGH LOSING THE PLEASURE I MAY NOT LOSE THE HONOUR OF INSCRIBING
+IN FRONT OF MY WORK THE HIGHEST OF CONTEMPORARY NAMES.
+
+
+
+
+  oixeo de Boreethen apotropos' alla se Numphai
+    egagon aspasian edupnooi kath' ala,
+  plerousai melitos theothen stoma, me ti Poseidon
+    blapsei, en osin exon sen meligerun opa.
+  toios aoidos ephus: emeis d' eti klaiomen, oi sou
+    deuometh' oixomenou, kai se pothoumen aei.
+  eipe de Pieridon tis anastrephtheisa pros allen:
+    elthen, idou, panton philtatos elthe broton,
+  stemmata drepsamenos neothelea xersi geraiais,
+    kai polion daphnais amphekalupse kara,                 10
+  edu ti Sikelikais epi pektisin, edu ti xordais,
+    aisomenos: pollen gar meteballe luran,
+  pollaki d' en bessaisi kathemenon euren Apollon,
+    anthesi d' estepsen, terpna d' edoke legein,
+  Pana t' aeimneston te Pitun Koruthon te dusedron,
+    en t' ephilese thean thnetos Amadruada:
+  pontou d' en megaroisin ekoimise Kumodameian,
+    ten t' Agamemnonian paid' apedoke patri,
+  pros d' ierous Delphous theoplekton epempsen Oresten,
+    teiromenon stugerais entha kai entha theais.           20
+
+
+
+
+  oixeo de kai aneuthe philon kai aneuthen aoides,
+    drepsomenos malakes anthea Persephones.
+  oixeo: kouk et' esei, kouk au pote soi paredoumai
+    azomenos, xeiron xersi thigon osiais:
+  nun d' au mnesamenon glukupikros upeluthen aidos,
+    oia tuxon oiou pros sethen oios exo:
+  oupote sois, geron, omma philois philon ommasi terpso,
+    ses, geron, apsamenos, philtate, dechiteras.
+  e psaphara konis, e psapharos bios esti: ti touton
+    meion ephemerion; ou konis alla bios.                  10
+  alla moi eduteros ge peleis polu ton et' eonton,
+    epleo gar: soi men tauta thanonti phero,
+  paura men, all' apo keros etetuma: med' apotrephtheis,
+    pros de balon eti nun esuxon omma dexou.
+  ou gar exo, mega de ti thelon, sethen achia dounai,
+    thaptomenou per apon: ou gar enestin emoi:
+  oude melikretou parexein ganos : ei gar eneie
+    kai se xeroin psausai kai se pot' authis idein,
+  dakrusi te spondais te kara philon amphipoleuein
+    ophthalmous th' ierous sous ieron te demas.            20
+  eith' ophelon: mala gar tad' an ampauseie merimnes:
+    nun de prosothen aneu sematos oikton ago:
+  oud' epitumbidion threno melos, all' apamuntheis,
+    all' apaneuthen exon amphidakruta pathe.
+  alla su xaire thanon, kai exon geras isthi pros andron
+    pros te theon, enerois ei tis epesti theos.
+  xaire geron, phile xaire pater, polu phertat' aoidon
+    on idomen, polu de phertat' aeisomenon:
+  xaire, kai olbon exois, oion ge thanontes exousin,
+    esuxian exthras kai philotetos ater.                   30
+  sematos oixomenou soi mnemat' es usteron estai,
+    soi te phile mneme mnematos oixomenou:
+  on Xarites klaiousi theai, klaiei d' Aphrodite
+    kallixorois Mouson terpsamene stephanois.
+  ou gar apach ierous pote geras etripsen aoidous:
+    tende to son phainei mnema tod' aglaian.
+  e philos es makaressi brotos, soi d' ei tini Numphai
+    dora potheina nemein, ustata dor', edosan.
+  tas nun xalkeos upnos ebe kai anenemos aion,
+    kai sunthaptomenai moiran exousi mian.                 40
+  eudeis kai su, kalon kai agakluton en xthoni koilei
+    upnon ephikomenos, ses aponosphi patras,
+  tele para chanthou Tursenikon oidma katheudeis
+    namatos, e d' eti se maia se gaia pothei,
+  all' apexeis, kai prosthe philoptolis on per apeipas:
+    eude: makar d' emin oud' amegartos esei.
+  baios epixthonion ge xronos kai moira kratesei,
+    tous de pot' euphrosune tous de pot' algos exei:
+  pollaki d' e blaptei phaos e skotos amphikaluptei
+    muromenous, daknei d' upnos egregorotas:               50
+  oud' eth' ot' en tumboisi katedrathen omma thanonton
+    e skotos e ti phaos dechetai eeliou:
+  oud' onar ennuxion kai enupnion oud' upar estai
+    e pote terpomenois e pot' oduromenois:
+  all' ena pantes aei thakon sunexousi kai edran
+    anti brotes abroton, kallimon anti kakes.
+
+
+
+
+ATALANTA IN CALYDON.
+
+
+
+
+THE PERSONS.
+
+
+  CHIEF HUNTSMAN.
+  CHORUS.
+  ALTHAEA.
+  MELEAGER
+  OENEUS.
+  ATALANTA.
+  TOXEUS.
+  PLEXIPPUS.
+  HERALD.
+  MESSENGER.
+  SECOND MESSENGER.
+
+
+
+
+  isto d' ostis oux upopteros
+  phrontisin daeis,
+  tan a paidolumas talaina THestias mesato
+  purdae tina pronoian,
+  kataithousa paidos daphoinon
+  dalon elik', epei molon
+  matrothen keladese;
+  summetron te diai biou
+  moirokranton es amar.
+
+    Aesch. Cho. 602-612
+
+
+
+
+THE ARGUMENT.
+
+Althaea, daughter of Thestius and Eurythemis, queen of Calydon, being
+with child of Meleager her first-born son, dreamed that she brought
+forth a brand burning; and upon his birth came the three Fates and
+prophesied of him three things, namely these; that he should have great
+strength of his hands, and good fortune in this life, and that he
+should live no longer when the brand then in the fire were consumed:
+wherefore his mother plucked it forth and kept it by her.  And the
+child being a man grown sailed with Jason after the fleece of gold, and
+won himself great praise of all men living; and when the tribes of the
+north and west made war upon Aetolia, he fought against their army and
+scattered it.  But Artemis, having at the first stirred up these tribes
+to war against Oeneus king of Calydon, because he had offered sacrifice
+to all the gods saving her alone, but her he had forgotten to honour,
+was yet more wroth because of the destruction of this army, and sent
+upon the land of Calydon a wild boar which slew many and wasted all
+their increase, but him could none slay, and many went against him and
+perished.  Then were all the chief men of Greece gathered together, and
+among them Atalanta daughter of Iasius the Arcadian, a virgin, for
+whose sake Artemis let slay the boar, seeing she favoured the maiden
+greatly; and Meleager having despatched it gave the spoil thereof to
+Atalanta, as one beyond measure enamoured of her; but the brethren of
+Althaea his mother, Toxeus and Plexippus, with such others as misliked
+that she only should bear off the praise whereas many had borne the
+labour, laid wait for her to take away her spoil; but Meleager fought
+against them and slew them: whom when Althaea their sister beheld and
+knew to be slain of her son, she waxed for wrath and sorrow like as one
+mad, and taking the brand whereby the measure of her son's life was
+meted to him, she cast it upon a fire; and with the wasting thereof his
+life likewise wasted away, that being brought back to his father's
+house he died in a brief space, and his mother also endured not long
+after for very sorrow; and this was his end, and the end of that
+hunting.
+
+
+
+
+  ATALANTA IN CALYDON.
+
+
+  CHIEF HUNTSMAN.
+
+  Maiden, and mistress of the months and stars
+  Now folded in the flowerless fields of heaven,
+  Goddess whom all gods love with threefold heart,
+  Being treble in thy divided deity,
+  A light for dead men and dark hours, a foot
+  Swift on the hills as morning, and a hand
+  To all things fierce and fleet that roar and range
+  Mortal, with gentler shafts than snow or sleep;
+  Hear now and help and lift no violent hand,
+  But favourable and fair as thine eye's beam
+  Hidden and shown in heaven, for I all night
+  Amid the king's hounds and the hunting men
+  Have wrought and worshipped toward thee; nor shall man
+  See goodlier hounds or deadlier edge of spears,
+  But for the end, that lies unreached at yet
+  Between the hands and on the knees of gods,
+  O fair-faced sun killing the stars and dews
+  And dreams and desolation of the night!
+  Rise up, shine, stretch thine hand out, with thy bow
+  Touch the most dimmest height of trembling heaven,
+  And burn and break the dark about thy ways,
+  Shot through and through with arrows; let thine hair
+  Lighten as flame above that nameless shell
+  Which was the moon, and thine eyes fill the world
+  And thy lips kindle with swift beams; let earth
+  Laugh, and the long sea fiery from thy feet
+  Through all the roar and ripple of streaming springs
+  And foam in reddening flakes and flying flowers
+  Shaken from hands and blown from lips of nymphs
+  Whose hair or breast divides the wandering wave
+  With salt close tresses cleaving lock to lock,
+  All gold, or shuddering and unfurrowed snow;
+  And all the winds about thee with their wings,
+  And fountain-heads of all the watered world;
+  Each horn of Acheloues, and the green
+  Euenus, wedded with the straitening sea.
+  For in fair time thou comest; come also thou,
+  Twin-born with him, and virgin, Artemis,
+  And give our spears their spoil, the wild boar's hide.
+  Sent in thine anger against us for sin done
+  And bloodless altars without wine or fire.
+  Him now consume thou; for thy sacrifice
+  With sanguine-shining steam divides the dawn,
+  And one, the maiden rose of all thy maids,
+  Arcadian Atalanta, snowy-souled,
+  Fair as the snow and footed as the wind,
+  From Ladon and well-wooded Maenalus
+  Over the firm hills and the fleeting sea
+  Hast thou drawn hither, and many an armed king,
+  Heroes, the crown of men, like gods in fight.
+  Moreover out of all the Aetolian land,
+  From the full-flowered Lelantian pasturage
+  To what of fruitful field the son of Zeus
+  Won from the roaring river and labouring sea
+  When the wild god shrank in his horn and fled
+  And foamed and lessened through his wrathful fords,
+  Leaving clear lands that steamed with sudden sun,
+  These virgins with the lightening of the day
+  Bring thee fresh wreaths and their own sweeter hair,
+  Luxurious locks and flower-like mixed with flowers,
+  Clean offering, and chaste hymns; but me the time
+  Divides from these things; whom do thou not less
+  Help and give honour, and to mine hounds good speed,
+  And edge to spears, and luck to each man's hand.
+
+
+  CHORUS.
+
+  When the hounds of spring are on winter's traces,
+    The mother of months in meadow or plain
+  Fills the shadows and windy places
+    With lisp of leaves and ripple of rain;
+  And the brown bright nightingale amorous
+  Is half assuaged for Itylus,
+  For the Thracian ships and the foreign faces,
+    The tongueless vigil, and all the pain.
+
+  Come with bows bent and with emptying of quivers.
+    Maiden most perfect, lady of light,
+  With a noise of winds and many rivers,
+    With a clamour of waters, and with might;
+  Bind on thy sandals, O thou most fleet,
+  Over the splendour and speed of thy feet;
+  For the faint east quickens, the wan west shivers,
+    Round the feet of the day and the feet of the night.
+
+  Where shall we find her, how shall we sing to her,
+    Fold our hands round her knees, and cling?
+  O that man's heart were as fire and could spring to her,
+    Fire, or the strength of the streams that spring!
+  For the stars and the winds are unto her
+  As raiment, as songs of the harp-player;
+  For the risen stars and the fallen cling to her,
+    And the southwest-wind and the west-wind sing.
+
+  For winter's rains and ruins are over,
+    And all the season of snows, and sins;
+  The days dividing lover and lover,
+    The light that loses, the night that wins;
+  And time remembered is grief forgotten,
+  And frosts are slain and flowers begotten,
+  And in green underwood and cover
+    Blossom by blossom the spring begins.
+
+  The full streams feed on flower of rushes,
+    Ripe grasses trammel a travelling foot,
+  The faint fresh flame of the young year flushes
+    From leaf to flower and flower to fruit,
+  And fruit and leaf are as gold and fire,
+  And the oat is heard above the lyre,
+  And the hoofed heel of a satyr crushes
+    The chestnut-husk at the chestnut-root.
+
+  And Pan by noon and Bacchus by night,
+    Fleeter of foot than the fleet-foot kid,
+  Follows with dancing and fills with delight
+    The Maenad and the Bassarid;
+  And soft as lips that laugh and hide
+  The laughing leaves of the trees divide,
+  And screen from seeing and leave in sight
+    The god pursuing, the maiden hid.
+
+  The ivy falls with the Bacchanal's hair
+    Over her eyebrows hiding her eyes;
+  The wild vine slipping down leaves bare
+    Her bright breast shortening into sighs;
+  The wild vine slips with the weight of its leaves.
+  But the berried ivy catches and cleaves
+  To the limbs that glitter, the feet that scare
+    The wolf that follows, the fawn that flies.
+
+
+  ALTHAEA.
+
+  What do ye singing? what is this ye sing?
+
+
+  CHORUS.
+
+  Flowers bring we, and pure lips that please the gods,
+  And raiment meet for service: lest the day
+  Turn sharp with all its honey in our lips.
+
+
+  ALTHAEA.
+
+  Night, a black hound, follows the white fawn day,
+  Swifter than dreams the white flown feet of sleep;
+  Will ye pray back the night with any prayers?
+  And though the spring put back a little while
+  Winter, and snows that plague all men for sin,
+  And the iron time of cursing, yet I know
+  Spring shall be ruined with the rain, and storm
+  Eat up like fire the ashen autumn days.
+  I marvel what men do with prayers awake
+  Who dream and die with dreaming; any god,
+  Yea the least god of all things called divine,
+  Is more than sleep and waking; yet we say,
+  Perchance by praying a man shall match his god.
+  For if sleep have no mercy, and man's dreams
+  Bite to the blood and burn into the bone,
+  What shall this man do waking?  By the gods,
+  He shall not pray to dream sweet things to-night,
+  Having dreamt once more bitter things than death.
+
+
+  CHORUS.
+
+  Queen, but what is it that hath burnt thine heart?
+  For thy speech flickers like a brown-out flame.
+
+
+  ALTHAEA.
+
+  Look, ye say well, and know not what ye say,
+  For all my sleep is turned into a fire,
+  And all my dreams to stuff that kindles it.
+
+
+  CHORUS.
+
+  Yet one doth well being patient of the gods.
+
+
+  ALTHAEA.
+
+  Yea, lest they smite us with some four-foot plague.
+
+
+  CHORUS.
+
+  But when time spreads find out some herb for it.
+
+
+  ALTHAEA.
+
+  And with their healing herbs infect our blood.
+
+
+  CHORUS.
+
+  What ails thee to be jealous of their ways?
+
+
+  ALTHAEA.
+
+  What if they give us poisonous drinks for wine?
+
+
+  CHORUS.
+
+  They have their will; much talking mends it not.
+
+
+  ALTHAEA.
+
+  And gall for milk, and cursing for a prayer?
+
+
+  CHORUS.
+
+  Have they not given life, and the end of life?
+
+
+  ALTHAEA.
+
+  Lo, where they heal, they help not; thus they do,
+  They mock us with a little piteousness,
+  And we say prayers, and weep; but at the last,
+  Sparing awhile, they smite and spare no whit.
+
+
+  CHORUS.
+
+  Small praise man gets dispraising the high gods:
+  What have they done that thou dishonourest them?
+
+
+  ALTHAEA.
+
+  First Artemis for all this harried land
+  I praise not; and for wasting of the boar
+  That mars with tooth and tusk and fiery feet
+  Green pasturage and the grace of standing corn
+  And meadow and marsh with springs and unblown leaves,
+  Flocks and swift herds and all that bite sweet grass,
+  I praise her not, what things are these to praise?
+
+
+  CHORUS.
+
+  But when the king did sacrifice, and gave
+  Each god fair dues of wheat and blood and wine,
+  Her not with bloodshed nor burnt-offering
+  Revered he, nor with salt or cloven cake;
+  Wherefore being wroth she plagued the land, but now
+  Takes off from us fate and her heavy things.
+  Which deed of these twain were not good to praise?
+  For a just deed looks always either way
+  With blameless eyes, and mercy is no fault.
+
+
+  ALTHAEA.
+
+  Yea, but a curse she hath sent above all these
+  To hurt us where she healed us; and hath lit
+  Fire where the old fire went out, and where the wind
+  Slackened, hath blown on us with deadlier air.
+
+
+  CHORUS.
+
+  What storm is this that tightens all our sail?
+
+
+  ALTHAEA.
+
+  Love, a thwart sea-wind full of rain and foam.
+
+
+  CHORUS.
+
+  Whence blown, and born under what stormier star?
+
+
+  ALTHAEA.
+
+  Southward across Euenus from the sea.
+
+
+  CHORUS.
+
+  Thy speech turns toward Arcadia like blown wind.
+
+
+  ALTHAEA.
+
+  Sharp as the north sets when the snows are out.
+
+
+  CHORUS.
+
+  Nay, for this maiden hath no touch of love.
+
+  ALTHAEA.
+
+  I would she had sought in some cold gulf of sea
+  Love, or in dens where strange beasts lurk, or fire,
+  Or snows on the extreme hills, or iron land
+  Where no spring is; I would she had sought therein
+  And found, or ever love had found her here.
+
+
+  CHORUS.
+
+  She is holier than all holy days or things,
+  The sprinkled water or fume of perfect fire;
+  Chaste, dedicated to pure prayers, and filled
+  With higher thoughts than heaven; a maiden clean,
+  Pure iron, fashioned for a sword, and man
+  She loves not; what should one such do with love?
+
+
+  ALTHAEA.
+
+  Look you, I speak not as one light of wit,
+  But as a queen speaks, being heart-vexed; for oft
+  I hear my brothers wrangling in mid hall,
+  And am not moved; and my son chiding them,
+  And these things nowise move me, but I know
+  Foolish and wise men must be to the end,
+  And feed myself with patience; but this most,
+  This moves me, that for wise men as for fools
+  Love is one thing, an evil thing, and turns
+  Choice words and wisdom into fire and air.
+  And in the end shall no joy come, but grief,
+  Sharp words and soul's division and fresh tears
+  Flower-wise upon the old root of tears brought forth,
+  Fruit-wise upon the old flower of tears sprung up,
+  Pitiful sighs, and much regrafted pain.
+  These things are in my presage, and myself
+  Am part of them and know not; but in dreams
+  The gods are heavy on me, and all the fates
+  Shed fire across my eyelids mixed with night,
+  And burn me blind, and disilluminate
+  My sense of seeing, and my perspicuous soul
+  Darken with vision; seeing I see not, hear
+  And hearing am not holpen, but mine eyes
+  Stain many tender broideries in the bed
+  Drawn up about my face that I may weep
+  And the king wake not; and my brows and lips
+  Tremble and sob in sleeping, like swift flames
+  That tremble, or water when it sobs with heat
+  Kindled from under; and my tears fill my breast
+  And speck the fair dyed pillows round the king
+  With barren showers and salter than the sea,
+  Such dreams divide me dreaming; for long since
+  I dreamed that out of this my womb had sprung
+  Fire and a firebrand; this was ere my son,
+  Meleager, a goodly flower in fields of fight,
+  Felt the light touch him coming forth, and waited
+  Childlike; but yet he was not; and in time
+  I bare him, and my heart was great; for yet
+  So royally was never strong man born,
+  Nor queen so nobly bore as noble a thing
+  As this my son was: such a birth God sent
+  And such a grace to bear it.  Then came in
+  Three weaving women, and span each a thread,
+  Saying This for strength and That for luck, and one
+  Saying Till the brand upon the hearth burn down,
+  So long shall this man see good days and live.
+  And I with gathered raiment from the bed
+  Sprang, and drew forth the brand, and cast on it
+  Water, and trod the flame bare-foot, and crushed
+  With naked hand spark beaten out of spark
+  And blew against and quenched it; for I said,
+  These are the most high Fates that dwell with us,
+  And we find favour a little in their sight,
+  A little, and more we miss of, and much time
+  Foils us; howbeit they have pitied me, O son,
+  And thee most piteous, thee a tenderer thing
+  Than any flower of fleshly seed alive.
+  Wherefore I kissed and hid him with my hands,
+  And covered under arms and hair, and wept,
+  And feared to touch him with my tears, and laughed;
+  So light a thing was this man, grown so great
+  Men cast their heads back, seeing against the sun
+  Blaze the armed man carven on his shield, and hear
+  The laughter of little bells along the brace
+  Ring, as birds singing or flutes blown, and watch,
+  High up, the cloven shadow of either plume
+  Divide the bright light of the brass, and make
+  His helmet as a windy and wintering moon
+  Seen through blown cloud and plume-like drift, when ships
+  Drive, and men strive with all the sea, and oars
+  Break, and the beaks dip under, drinking death;
+  Yet was he then but a span long, and moaned
+  With inarticulate mouth inseparate words,
+  And with blind lips and fingers wrung my breast
+  Hard, and thrust out with foolish hands and feet,
+  Murmuring; but those grey women with bound hair
+  Who fright the gods frighted not him; he laughed
+  Seeing them, and pushed out hands to feel and haul
+  Distaff and thread, intangible; but they
+  Passed, and I hid the brand, and in my heart
+  Laughed likewise, having all my will of heaven.
+  But now I know not if to left or right
+  The gods have drawn us hither; for again
+  I dreamt, and saw the black brand burst on fire
+  As a branch bursts in flower, and saw the flame
+  Fade flower-wise, and Death came and with dry lips
+  Blew the charred ash into my breast; and Love
+  Trampled the ember and crushed it with swift feet
+  This I have also at heart; that not for me,
+  Not for me only or son of mine, O girls,
+  The gods have wrought life, and desire of life,
+  Heart's love and heart's division; but for all
+  There shines one sun and one wind blows till night.
+  And when night comes the wind sinks and the sun,
+  And there is no light after, and no storm,
+  But sleep and much forgetfulness of things.
+  In such wise I gat knowledge of the gods
+  Years hence, and heard high sayings of one most wise,
+  Eurythemis my mother, who beheld
+  With eyes alive and spake with lips of these
+  As one on earth disfleshed and disallied
+  From breath or blood corruptible; such gifts
+  Time gave her, and an equal soul to these
+  And equal face to all things, thus she said.
+  But whatsoever intolerable or glad
+  The swift hours weave and unweave, I go hence
+  Full of mine own soul, perfect of myself,
+  Toward mine and me sufficient; and what chance
+  The gods cast lots for and shake out on us,
+  That shall we take, and that much bear withal.
+  And now, before these gather to the hunt,
+  I will go arm my son and bring him forth,
+  Lest love or some man's anger work him harm.
+
+
+    CHORUS.
+
+    Before the beginning of years
+      There came to the making of man
+    Time, with a gift of tears,
+      Grief, with a glass that ran;
+    Pleasure, with pain for leaven;
+      Summer, with flowers that fell;
+    Remembrance fallen from heaven,
+      And madness risen from hell;
+    Strength without hands to smite,
+      Love that endures for a breath,
+    Night, the shadow of light,
+      And life, the shadow of death.
+
+    And the high gods took in hand
+      Fire, and the falling of tears,
+    And a measure of sliding sand
+      From under the feet of the years,
+    And froth and drift of the sea;
+      And dust of the labouring earth;
+    And bodies of things to be
+      In the houses of death and of birth;
+    And wrought with weeping and laughter,
+      And fashioned with loathing and love,
+    With life before and after
+      And death beneath and above,
+    For a day and a night and a morrow,
+      That his strength might endure for a span
+    With travail and heavy sorrow,
+      The holy spirit of man.
+
+    From the winds of the north and the south
+      They gathered as unto strife;
+    They breathed upon his mouth,
+      They filled his body with life;
+    Eyesight and speech they wrought
+      For the veils of the soul therein,
+    A time for labour and thought,
+      A time to serve and to sin;
+    They gave him light in his ways,
+      And love, and a space for delight,
+    And beauty and length of days,
+      And night, and sleep in the night.
+    His speech is a burning fire;
+      With his lips he travaileth,
+    In his heart is a blind desire,
+      In his eyes foreknowledge of death;
+    He weaves, and is clothed with derision;
+      Sows, and he shall not reap,
+    His life is a watch or a vision
+      Between a sleep and a sleep.
+
+
+  MELEAGER.
+
+  O sweet new heaven and air without a star,
+  Fair day, be fair and welcome, as to men
+  With deeds to do and praise to pluck from thee,
+  Come forth a child, born with clear sound and light,
+  With laughter and swift limbs and prosperous looks;
+  That this great hunt with heroes for the hounds
+  May leave thee memorable and us well sped.
+
+
+  ALTHAEA.
+
+  Son, first I praise thy prayer, then bid thee speed;
+  But the gods hear men's hands before their lips,
+  And heed beyond all crying and sacrifice
+  Light of things done and noise of labouring men.
+  But thou, being armed and perfect for the deed,
+  Abide; for like rain-flakes in a wind they grow,
+  The men thy fellows, and the choice of the world,
+  Bound to root out the tusked plague, and leave
+  Thanks and safe days and peace in Calydon.
+
+
+  MELEAGER.
+
+  For the whole city and all the low-lying land
+  Flames, and the soft air sounds with them that come;
+  The gods give all these fruit of all their works.
+
+
+  ALTHAEA.
+
+  Set thine eye thither and fix thy spirit and say
+  Whom there thou knowest; for sharp mixed shadow and wind
+  Blown up between the morning and the mist,
+  With steam of steeds and flash of bridle or wheel,
+  And fire, and parcels of the broken dawn,
+  And dust divided by hard light, and spears
+  That shine and shift as the edge of wild beasts' eyes,
+  Smite upon mine; so fiery their blind edge
+  Burns, and bright points break up and baffle day.
+
+
+  MELEAGER.
+
+  The first, for many I know not, being far off,
+  Peleus the Larissaean, couched with whom
+  Sleeps the white sea-bred wife and silver-shod,
+  Fair as fled foam, a goddess; and their son
+  Most swift and splendid of men's children born,
+  Most like a god, full of the future fame.
+
+
+  ALTHAEA.
+
+  Who are these shining like one sundered star?
+
+
+  MELEAGER.
+
+  Thy sister's sons, a double flower of men.
+
+
+  ALTHAEA.
+
+  O sweetest kin to me in all the world,
+  O twin-born blood of Leda, gracious heads
+  Like kindled lights in untempestuous heaven,
+  Fair flower-like stars on the iron foam of fight,
+  With what glad heart and kindliness of soul,
+  Even to the staining of both eyes with tears
+  And kindling of warm eyelids with desire,
+  A great way off I greet you, and rejoice
+  Seeing you so fair, and moulded like as gods.
+  Far off ye come, and least in years of these,
+  But lordliest, but worth love to look upon.
+
+
+  MELEAGER.
+
+  Even such (for sailing hither I saw far hence,
+  And where Eurotas hollows his moist rock
+  Nigh Sparta with a strenuous-hearted stream)
+  Even such I saw their sisters; one swan-white,
+  The little Helen, and less fair than she
+  Fair Clytaemnestra, grave as pasturing fawns
+  Who feed and fear some arrow; but at whiles,
+  As one smitten with love or wrung with joy,
+  She laughs and lightens with her eyes, and then
+  Weeps; whereat Helen, having laughed, weeps too,
+  And the other chides her, and she being chid speaks nought,
+  But cheeks and lips and eyelids kisses her,
+  Laughing; so fare they, as in their bloomless bud
+  And full of unblown life, the blood of gods.
+
+
+  ALTHAEA.
+
+  Sweet days befall them and good loves and lords,
+  And tender and temperate honours of the hearth,
+  Peace, and a perfect life and blameless bed.
+  But who shows next an eagle wrought in gold?
+  That flames and beats broad wings against the sun
+  And with void mouth gapes after emptier prey?
+
+
+  MELEAGER.
+
+  Know by that sign the reign of Telamon
+  Between the fierce mouths of the encountering brine
+  On the strait reefs of twice-washed Salamis.
+
+
+  ALTHAEA.
+
+  For like one great of hand he bears himself,
+  Vine-chapleted, with savours of the sea,
+  Glittering as wine and moving as a wave.
+  But who girt round there roughly follows him?
+
+
+  MELEAGER.
+
+  Ancaeus, great of hand, an iron bulk,
+  Two-edged for fight as the axe against his arm,
+  Who drives against the surge of stormy spears
+  Full-sailed; him Cepheus follows, his twin-born,
+  Chief name next his of all Arcadian men.
+
+
+  ALTHAEA.
+
+  Praise be with men abroad; chaste lives with us,
+  Home-keeping days and household reverences.
+
+
+  MELEAGER.
+
+  Next by the left unsandalled foot know thou
+  The sail and oar of this Aetolian land,
+  Thy brethren, Toxeus and the violent-souled
+  Plexippus, over-swift with hand and tongue;
+  For hands are fruitful, but the ignorant mouth
+  Blows and corrupts their work with barren breath.
+
+
+  ALTHAEA.
+
+  Speech too bears fruit, being worthy; and air blows down
+  Things poisonous, and high-seated violences,
+  And with charmed words and songs have men put out
+  Wild evil, and the fire of tyrannies.
+
+
+  MELEAGER.
+
+  Yea, all things have they, save the gods and love.
+
+
+  ALTHAEA.
+
+  Love thou the law and cleave to things ordained.
+
+
+  MELEAGER.
+
+  Law lives upon their lips whom these applaud.
+
+
+  ALTHAEA.
+
+  How sayest thou these? what god applauds new things?
+
+
+  MELEAGER.
+
+  Zeus, who hath fear and custom under foot.
+
+
+  ALTHAEA.
+
+  But loves not laws thrown down and lives awry.
+
+
+  MELEAGER.
+
+  Yet is not less himself than his own law.
+
+
+  ALTHAEA.
+
+  Nor shifts and shuffles old things up and down.
+
+
+  MELEAGER.
+
+  But what he will remoulds and discreates.
+
+
+  ALTHAEA.
+
+  Much, but not this, that each thing live its life.
+
+
+  MELEAGER.
+
+  Nor only live, but lighten and lift up higher.
+
+
+  ALTHAEA.
+
+  Pride breaks itself, and too much gained is gone.
+
+
+  MELEAGER.
+
+  Things gained are gone, but great things done endure.
+
+
+  ALTHAEA.
+
+  Child, if a man serve law through all his life
+  And with his whole heart worship, him all gods
+  Praise; but who loves it only with his lips,
+  And not in heart and deed desiring it
+  Hides a perverse will with obsequious words,
+  Him heaven infatuates and his twin-born fate
+  Tracks, and gains on him, scenting sins far off,
+  And the swift hounds of violent death devour.
+  Be man at one with equal-minded gods,
+  So shall he prosper; not through laws torn up,
+  Violated rule and a new face of things.
+  A woman armed makes war upon herself,
+  Unwomanlike, and treads down use and wont
+  And the sweet common honour that she hath,
+  Love, and the cry of children, and the hand
+  Trothplight and mutual mouth of marriages.
+  This doth she, being unloved, whom if one love,
+  Not fire nor iron and the wide-mouthed wars
+  Are deadlier than her lips or braided hair.
+  For of the one comes poison, and a curse
+  Falls from the other and burns the lives of men.
+  But thou, son, be not filled with evil dreams,
+  Nor with desire of these things; for with time
+  Blind love burns out; but if one feed it full
+  Till some discolouring stain dyes all his life,
+  He shall keep nothing praiseworthy, nor die
+  The sweet wise death of old men honourable,
+  Who have lived out all the length of all their years
+  Blameless, and seen well-pleased the face of gods,
+  And without shame and without fear have wrought
+  Things memorable, and while their days held out
+  In sight of all men and the sun's great light
+  Have gat them glory and given of their own praise
+  To the earth that bare them and the day that bred,
+  Home friends and far-off hospitalities,
+  And filled with gracious and memorial fame
+  Lands loved of summer or washed by violent seas,
+  Towns populous and many unfooted ways,
+  And alien lips and native with their own.
+  But when white age and venerable death
+  Mow down the strength and life within their limbs,
+  Drain out the blood and darken their clear eyes,
+  Immortal honour is on them, having past
+  Through splendid life and death desirable
+  To the clear seat and remote throne of souls,
+  Lands indiscoverable in the unheard-of west,
+  Round which the strong stream of a sacred sea
+  Rolls without wind for ever, and the snow
+  There shows not her white wings and windy feet,
+  Nor thunder nor swift rain saith anything,
+  Nor the sun burns, but all things rest and thrive;
+  And these, filled full of days, divine and dead,
+  Sages and singers fiery from the god,
+  And such as loved their land and all things good
+  And, best beloved of best men, liberty,
+  Free lives and lips, free hands of men free-born,
+  And whatsoever on earth was honourable
+  And whosoever of all the ephemeral seed,
+  Live there a life no liker to the gods
+  But nearer than their life of terrene days.
+  Love thou such life and look for such a death.
+  But from the light and fiery dreams of love
+  Spring heavy sorrows and a sleepless life,
+  Visions not dreams, whose lids no charm shall close
+  Nor song assuage them waking; and swift death
+  Crushes with sterile feet the unripening ear,
+  Treads out the timeless vintage; whom do thou
+  Eschewing embrace the luck of this thy life,
+  Not without honour; and it shall bear to thee
+  Such fruit as men reap from spent hours and wear,
+  Few men, but happy; of whom be thou, O son,
+  Happiest, if thou submit thy soul to fate,
+  And set thine eyes and heart on hopes high-born
+  And divine deeds and abstinence divine.
+  So shalt thou be toward all men all thy days
+  As light and might communicable, and burn
+  From heaven among the stars above the hours,
+  And break not as a man breaks nor burn down:
+  For to whom other of all heroic names
+  Have the gods given his life in hand as thine?
+  And gloriously hast thou lived, and made thy life
+  To me that bare thee and to all men born
+  Thankworthy, a praise for ever; and hast won fame
+  When wild wars broke all round thy father's house,
+  And the mad people of windy mountain ways
+  Laid spears against us like a sea, and all
+  Aetolia thundered with Thessalian hoofs;
+  Yet these, as wind baffles the foam, and beats
+  Straight back the relaxed ripple, didst thou break
+  And loosen all their lances, till undone
+  And man from man they fell; for ye twain stood
+  God against god, Ares and Artemis,
+  And thou the mightier; wherefore she unleashed
+  A sharp-toothed curse thou too shalt overcome;
+  For in the greener blossom of thy life
+  Ere the full blade caught flower, and when time gave
+  Respite, thou didst not slacken soul nor sleep,
+  But with great hand and heart seek praise of men
+  Out of sharp straits and many a grievous thing,
+  Seeing the strange foam of undivided seas
+  On channels never sailed in, and by shores
+  Where the old winds cease not blowing, and all the night
+  Thunders, and day is no delight to men.
+
+
+  CHORUS.
+
+  Meleager, a noble wisdom and fair words
+  The gods have given this woman, hear thou these.
+
+
+  MELEAGER.
+
+  O mother, I am not fain to strive in speech
+  Nor set my mouth against thee, who art wise
+  Even as they say and full of sacred words.
+  But one thing I know surely, and cleave to this;
+  That though I be not subtle of wit as thou
+  Nor womanlike to weave sweet words, and melt
+  Mutable minds of wise men as with fire,
+  I too, doing justly and reverencing the gods,
+  Shall not want wit to see what things be right.
+  For whom they love and whom reject, being gods,
+  There is no man but seeth, and in good time
+  Submits himself, refraining all his heart.
+  And I too as thou sayest have seen great things;
+  Seen otherwhere, but chiefly when the sail
+  First caught between stretched ropes the roaring west,
+  And all our oars smote eastward, and the wind
+  First flung round faces of seafaring men
+  White splendid snow-flakes of the sundering foam,
+  And the first furrow in virginal green sea
+  Followed the plunging ploughshare of hewn pine,
+  And closed, as when deep sleep subdues man's breath
+  Lips close and heart subsides; and closing, shone
+  Sunlike with many a Nereid's hair, and moved
+  Round many a trembling mouth of doubtful gods,
+  Risen out of sunless and sonorous gulfs
+  Through waning water and into shallow light,
+  That watched us; and when flying the dove was snared
+  As with men's hands, but we shot after and sped
+  Clear through the irremeable Symplegades;
+  And chiefliest when hoar beach and herbless cliff
+  Stood out ahead from Colchis, and we heard
+  Clefts hoarse with wind, and saw through narrowing reefs
+  The lightning of the intolerable wave
+  Flash, and the white wet flame of breakers burn
+  Far under a kindling south-wind, as a lamp
+  Burns and bends all its blowing flame one way;
+  Wild heights untravelled of the wind, and vales
+  Cloven seaward by their violent streams, and white
+  With bitter flowers and bright salt scurf of brine;
+  Heard sweep their sharp swift gales, and bowing bird-wise
+  Shriek with birds' voices, and with furious feet
+  Tread loose the long skirts of a storm; and saw
+  The whole white Euxine clash together and fall
+  Full-mouthed, and thunderous from a thousand throats;
+  Yet we drew thither and won the fleece and won
+  Medea, deadlier than the sea; but there
+  Seeing many a wonder and fearful things to men
+  I saw not one thing like this one seen here,
+  Most fair and fearful, feminine, a god,
+  Faultless; whom I that love not, being unlike,
+  Fear, and give honour, and choose from all the gods.
+
+
+  OENEUS.
+
+  Lady, the daughter of Thestius, and thou, son,
+  Not ignorant of your strife nor light of wit,
+  Scared with vain dreams and fluttering like spent fire,
+  I come to judge between you, but a king
+  Full of past days and wise from years endured.
+  Nor thee I praise, who art fain to undo things done;
+  Nor thee, who art swift to esteem them overmuch.
+  For what the hours have given is given, and this
+  Changeless; howbeit these change, and in good time
+  Devise new things and good, not one thing still.
+  Us have they sent now at our need for help
+  Among men armed a woman, foreign born,
+  Virgin, not like the natural flower of things
+  That grows and bears and brings forth fruit and dies,
+  Unlovable, no light for a husband's house,
+  Espoused; a glory among unwedded girls,
+  And chosen of gods who reverence maidenhood.
+  These too we honour in honouring her; but thou,
+  Abstain thy feet from following, and thine eyes
+  From amorous touch; nor set toward hers thine heart,
+  Son, lest hate bear no deadlier fruit than love.
+
+
+  ALTHAEA.
+
+  O king, thou art wise, but wisdom halts, and just,
+  But the gods love not justice more than fate,
+  And smite the righteous and the violent mouth,
+  And mix with insolent blood the reverent man's,
+  And bruise the holier as the lying lips.
+  Enough; for wise words fail me, and my heart
+  Takes fire and trembles flamewise, O my son,
+  O child, for thine head's sake; mine eyes wax thick,
+  Turning toward thee, so goodly a weaponed man,
+  So glorious; and for love of thine own eyes
+  They are darkened, and tears burn them, fierce as fire,
+  And my lips pause and my soul sinks with love.
+  But by thine hand, by thy sweet life and eyes,
+  By thy great heart and these clasped knees, O son,
+  I pray thee that thou slay me not with thee.
+  For there was never a mother woman-born
+  Loved her sons better; and never a queen of men
+  More perfect in her heart toward whom she loved.
+  For what lies light on many and they forget,
+  Small things and transitory as a wind o' the sea,
+  I forget never; I have seen thee all thine years
+  A man in arms, strong and a joy to men
+  Seeing thine head glitter and thine hand burn its way
+  Through a heavy and iron furrow of sundering spears;
+  But always also a flower of three suns old,
+  The small one thing that lying drew down my life
+  To lie with thee and feed thee; a child and weak,
+  Mine, a delight to no man, sweet to me.
+  Who then sought to thee? who gat help? who knew
+  If thou wert goodly? nay, no man at all.
+  Or what sea saw thee, or sounded with thine oar,
+  Child? or what strange land shone with war through thee?
+  But fair for me thou wert, O little life,
+  Fruitless, the fruit of mine own flesh, and blind,
+  More than much gold, ungrown, a foolish flower.
+  For silver nor bright snow nor feather of foam
+  Was whiter, and no gold yellower than thine hair,
+  O child, my child; and now thou art lordlier grown,
+  Not lovelier, nor a new thing in mine eyes,
+  I charge thee by thy soul and this my breast,
+  Fear thou the gods and me and thine own heart,
+  Lest all these turn against thee; for who knows
+  What wind upon what wave of altering time
+  Shall speak a storm and blow calamity?
+  And there is nothing stabile in the world
+  But the gods break it; yet not less, fair son,
+  If but one thing be stronger, if one endure,
+  Surely the bitter and the rooted love
+  That burns between us, going from me to thee,
+  Shall more endure than all things.  What dost thou,
+  Following strange loves? why wilt thou kill mine heart?
+  Lo, I talk wild and windy words, and fall
+  From my clear wits, and seem of mine own self
+  Dethroned, dispraised, disseated; and my mind,
+  That was my crown, breaks, and mine heart is gone,
+  And I am naked of my soul, and stand
+  Ashamed, as a mean woman; take thou thought:
+  Live if thou wilt, and if thou wilt not, look,
+  The gods have given thee life to lose or keep,
+  Thou shalt not die as men die, but thine end
+  Fallen upon thee shall break me unaware.
+
+
+  MELEAGER.
+
+  Queen, my whole heart is molten with thy tears,
+  And my limbs yearn with pity of thee, and love
+  Compels with grief mine eyes and labouring breath:
+  For what thou art I know thee, and this thy breast
+  And thy fair eyes I worship, and am bound
+  Toward thee in spirit and love thee in all my soul.
+  For there is nothing terribler to men
+  Than the sweet face of mothers, and the might
+  But what shall be let be; for us the day
+  Once only lives a little, and is not found.
+  Time and the fruitful hour are more than we,
+  And these lay hold upon us; but thou, God,
+  Zeus, the sole steersman of the helm of things,
+  Father, be swift to see us, and as thou wilt
+  Help: or if adverse, as thou wilt, refrain.
+
+
+  CHORUS.
+
+  We have seen thee, O Love, thou art fair, thou art goodly, O Love,
+  Thy wings make light in the air as the wings of a dove.
+  Thy feet are as winds that divide the stream of the sea;
+  Earth is thy covering to hide thee, the garment of thee.
+  Thou art swift and subtle and blind as a flame of fire;
+  Before thee the laughter, behind thee the tears of desire;
+  And twain go forth beside thee, a man with a maid;
+  Her eyes are the eyes of a bride whom delight makes afraid;
+  As the breath in the buds that stir is her bridal breath:
+  But Fate is the name of her; and his name is Death.
+
+    For an evil blossom was born
+      Of sea-foam and the frothing of blood,
+        Blood-red and bitter of fruit,
+          And the seed of it laughter and tears,
+    And the leaves of it madness and scorn;
+      A bitter flower from the bud,
+        Sprung of the sea without root,
+          Sprung without graft from the years.
+
+    The weft of the world was untorn
+      That is woven of the day on the night,
+      The hair of the hours was not white
+    Nor the raiment of time overworn,
+      When a wonder, a world's delight,
+    A perilous goddess was born,
+      And the waves of the sea as she came
+    Clove, and the foam at her feet,
+        Fawning, rejoiced to bring forth
+      A fleshly blossom, a flame
+    Filling the heavens with heat
+        To the cold white ends of the north.
+
+    And in air the clamorous birds,
+      And men upon earth that hear
+    Sweet articulate words
+        Sweetly divided apart,
+      And in shallow and channel and mere
+    The rapid and footless herds,
+        Rejoiced, being foolish of heart.
+
+    For all they said upon earth,
+      She is fair, she is white like a dove,
+        And the life of the world in her breath
+    Breathes, and is born at her birth;
+      For they knew thee for mother of love,
+        And knew thee not mother of death.
+
+    What hadst thou to do being born,
+      Mother, when winds were at ease,
+    As a flower of the springtime of corn,
+      A flower of the foam of the seas?
+    For bitter thou wast from thy birth,
+      Aphrodite, a mother of strife;
+    For before thee some rest was on earth,
+        A little respite from tears,
+      A little pleasure of life;
+    For life was not then as thou art,
+        But as one that waxeth in years
+      Sweet-spoken, a fruitful wife;
+        Earth had no thorn, and desire
+    No sting, neither death any dart;
+      What hadst thou to do amongst these,
+        Thou, clothed with a burning fire,
+    Thou, girt with sorrow of heart,
+      Thou, sprung of the seed of the seas
+    As an ear from a seed of corn,
+        As a brand plucked forth of a pyre,
+    As a ray shed forth of the morn,
+      For division of soul and disease,
+    For a dart and a sting and a thorn?
+    What ailed thee then to be born?
+
+    Was there not evil enough,
+      Mother, and anguish on earth
+      Born with a man at his birth,
+    Wastes underfoot, and above
+      Storm out of heaven, and dearth
+    Shaken down from the shining thereof,
+        Wrecks from afar overseas
+      And peril of shallow and firth,
+        And tears that spring and increase
+      In the barren places of mirth,
+    That thou, having wings as a dove,
+      Being girt with desire for a girth,
+        That thou must come after these,
+    That thou must lay on him love?
+
+    Thou shouldst not so have been born:
+      But death should have risen with thee,
+        Mother, and visible fear,
+          Grief, and the wringing of hands,
+    And noise of many that mourn;
+      The smitten bosom, the knee
+        Bowed, and in each man's ear
+        A cry as of perishing lands,
+    A moan as of people in prison,
+      A tumult of infinite griefs;
+          And thunder of storm on the sands,
+        And wailing of wives on the shore;
+    And under thee newly arisen
+      Loud shoals and shipwrecking reefs,
+          Fierce air and violent light,
+        Sail rent and sundering oar,
+          Darkness; and noises of night;
+    Clashing of streams in the sea,
+      Wave against wave as a sword,
+        Clamour of currents, and foam,
+          Rains making ruin on earth,
+        Winds that wax ravenous and roam
+      As wolves in a wolfish horde;
+    Fruits growing faint in the tree,
+          And blind things dead in their birth
+        Famine, and blighting of corn,
+        When thy time was come to be born.
+
+    All these we know of; but thee
+      Who shall discern or declare?
+    In the uttermost ends of the sea
+        The light of thine eyelids and hair.
+          The light of thy bosom as fire
+          Between the wheel of the sun
+      And the flying flames of the air?
+        Wilt thou turn thee not yet nor have pity,
+    But abide with despair and desire
+      And the crying of armies undone,
+          Lamentation of one with another
+        And breaking of city by city;
+      The dividing of friend against friend,
+          The severing of brother and brother;
+      Wilt thou utterly bring to an end?
+          Have mercy, mother!
+
+    For against all men from of old
+      Thou hast set thine hand as a curse,
+        And cast out gods from their places.
+          These things are spoken of thee.
+    Strong kings and goodly with gold
+      Thou hast found out arrows to pierce,
+        And made their kingdoms and races
+          As dust and surf of the sea.
+    All these, overburdened with woes
+      And with length of their days waxen weak,
+        Thou slewest; and sentest moreover
+          Upon Tyro an evil thing,
+    Rent hair and a fetter and blows
+      Making bloody the flower of the cheek,
+        Though she lay by a god as a lover,
+          Though fair, and the seed of a king.
+    For of old, being full of thy fire,
+      She endured not longer to wear
+        On her bosom a saffron vest,
+          On her shoulder an ashwood quiver;
+    Being mixed and made one through desire
+      With Enipeus, and all her hair
+        Made moist with his mouth, and her breast
+          Filled full of the foam of the river.
+
+
+  ATALANTA
+
+  Sun, and clear light among green hills, and day
+  Late risen and long sought after, and you just gods
+  Whose hands divide anguish and recompense,
+  But first the sun's white sister, a maid in heaven,
+  On earth of all maids worshipped--hail, and hear,
+  And witness with me if not without sign sent,
+  Not without rule and reverence, I a maid
+  Hallowed, and huntress holy as whom I serve,
+  Here in your sight and eyeshot of these men
+  Stand, girt as they toward hunting, and my shafts
+  Drawn; wherefore all ye stand up on my side,
+  If I be pure and all ye righteous gods,
+  Lest one revile me, a woman, yet no wife,
+  That bear a spear for spindle, and this bow strung
+  For a web woven; and with pure lips salute
+  Heaven, and the face of all the gods, and dawn
+  Filling with maiden flames and maiden flowers
+  The starless fold o' the stars, and making sweet
+  The warm wan heights of the air, moon-trodden ways
+  And breathless gates and extreme hills of heaven.
+  Whom, having offered water and bloodless gifts,
+  Flowers, and a golden circlet of pure hair,
+  Next Artemis I bid be favourable
+  And make this day all golden, hers and ours,
+  Gracious and good and white to the unblamed end.
+  But thou, O well-beloved, of all my days
+  Bid it be fruitful, and a crown for all,
+  To bring forth leaves and bind round all my hair
+  With perfect chaplets woven for thine of thee.
+  For not without the word of thy chaste mouth,
+  For not without law given and clean command,
+  Across the white straits of the running sea
+  From Elis even to the Acheloian horn,
+  I with clear winds came hither and gentle gods,
+  Far off my father's house, and left uncheered
+  Iasius, and uncheered the Arcadian hills
+  And all their green-haired waters, and all woods
+  Disconsolate, to hear no horn of mine
+  Blown, and behold no flash of swift white feet.
+
+
+  MELEAGER.
+
+  For thy name's sake and awe toward thy chaste head,
+  O holiest Atalanta, no man dares
+  Praise thee, though fairer than whom all men praise,
+  And godlike for thy grace of hallowed hair
+  And holy habit of thine eyes, and feet
+  That make the blown foam neither swift nor white
+  Though the wind winnow and whirl it; yet we praise
+  Gods, found because of thee adorable
+  And for thy sake praiseworthiest from all men:
+  Thee therefore we praise also, thee as these,
+  Pure, and a light lit at the hands of gods.
+
+
+  TOXEUS.
+
+  How long will ye whet spears with eloquence,
+  Fight, and kill beasts dry-handed with sweet words?
+  Cease, or talk still and slay thy boars at home.
+
+
+  PLEXIPPUS.
+
+  Why, if she ride among us for a man,
+  Sit thou for her and spin; a man grown girl
+  Is worth a woman weaponed; sit thou here.
+
+
+  MELEAGER.
+
+  Peace, and be wise; no gods love idle speech.
+
+
+  PLEXIPPUS.
+
+  Nor any man a man's mouth woman-tongued.
+
+
+  MELEAGER.
+
+  For my lips bite not sharper than mine hands.
+
+
+  PLEXIPPUS.
+
+  Nay, both bite soft, but no whit softly mine.
+
+
+  MELEAGER.
+
+  Keep thine hands clean; they have time enough to stain.
+
+
+  PLEXIPPUS.
+
+  For thine shall rest and wax not red to-day.
+
+
+  MELEAGER.
+
+  Have all thy will of words; talk out thine heart.
+
+
+  ALTHAEA.
+
+  Refrain your lips, O brethren, and my son,
+  Lest words turn snakes and bite you uttering them.
+
+
+  TOXEUS.
+
+  Except she give her blood before the gods,
+  What profit shall a maid be among men?
+
+
+  PLEXIPPUS.
+
+  Let her come crowned and stretch her throat for a knife,
+  Bleat out her spirit and die, and so shall men
+  Through her too prosper and through prosperous gods;
+  But nowise through her living; shall she live
+  A flower-bud of the flower-bed, or sweet fruit
+  For kisses and the honey-making mouth,
+  And play the shield for strong men and the spear?
+  Then shall the heifer and her mate lock horns,
+  And the bride overbear the groom, and men
+  Gods, for no less division sunders these;
+  Since all things made are seasonable in time,
+  But if one alter unseasonable are all.
+  But thou, O Zeus, hear me that I may slay
+  This beast before thee and no man halve with me
+  Nor woman, lest these mock thee, though a god,
+  Who hast made men strong, and thou being wise be held
+  Foolish; for wise is that thing which endures.
+
+
+  ATALANTA.
+
+  Men, and the chosen of all this people, and thou,
+  King, I beseech you a little bear with me.
+  For if my life be shameful that I live,
+  Let the gods witness and their wrath; but these
+  Cast no such word against me.  Thou, O mine,
+  O holy, O happy goddess, if I sin
+  Changing the words of women and the works
+  For spears and strange men's faces, hast not thou
+  One shaft of all thy sudden seven that pierced
+  Seven through the bosom or shining throat or side,
+  All couched about one mother's loosening knees,
+  All holy born, engrafted of Tantalus?
+  But if toward any of you I am overbold
+  That take thus much upon me, let him think
+  How I, for all my forest holiness,
+  Fame, and this armed and iron maidenhood,
+  Pay thus much also; I shall have no man's love
+  For ever, and no face of children born
+  Or feeding lips upon me or fastening eyes
+  For ever, nor being dead shall kings my sons
+  Mourn me and bury, and tears on daughters' cheeks
+  Burn, but a cold and sacred life, but strange,
+  But far from dances and the back-blowing torch,
+  Far off from flowers or any bed of man,
+  Shall my life be for ever: me the snows
+  That face the first o' the morning, and cold hills
+  Full of the land-wind and sea-travelling storms
+  And many a wandering wing of noisy nights
+  That know the thunder and hear the thickening wolves--
+  Me the utmost pine and footless frost of woods
+  That talk with many winds and gods, the hours
+  Re-risen, and white divisions of the dawn,
+  Springs thousand-tongued with the intermitting reed
+  And streams that murmur of the mother snow--
+  Me these allure, and know me; but no man
+  Knows, and my goddess only.  Lo now, see
+  If one of all you these things vex at all.
+  Would God that any of you had all the praise
+  And I no manner of memory when I die,
+  So might I show before her perfect eyes
+  Pure, whom I follow, a maiden to my death.
+  But for the rest let all have all they will;
+  For is it a grief to you that I have part,
+  Being woman merely, in your male might and deeds
+  Done by main strength? yet in my body is throned
+  As great a heart, and in my spirit, O men,
+  I have not less of godlike.  Evil it were
+  That one a coward should mix with you, one hand
+  Fearful, one eye abase itself; and these
+  Well might ye hate and well revile, not me.
+  For not the difference of the several flesh
+  Being vile or noble or beautiful or base
+  Makes praiseworthy, but purer spirit and heart
+  Higher than these meaner mouths and limbs, that feed,
+  Rise, rest, and are and are not; and for me,
+  What should I say? but by the gods of the world
+  And this my maiden body, by all oaths
+  That bind the tongue of men and the evil will,
+  I am not mighty-minded, nor desire
+  Crowns, nor the spoil of slain things nor the fame;
+  Feed ye on these, eat and wax fat, cry out,
+  Laugh, having eaten, and leap without a lyre,
+  Sing, mix the wind with clamour, smite and shake
+  Sonorous timbrels and tumultuous hair,
+  And fill the dance up with tempestuous feet,
+  For I will none; but having prayed my prayers
+  And made thank-offering for prosperities,
+  I shall go hence and no man see me more.
+  What thing is this for you to shout me down,
+  What, for a man to grudge me this my life
+  As it were envious of all yours, and I
+  A thief of reputations? nay, for now,
+  If there be any highest in heaven, a god
+  Above all thrones and thunders of the gods
+  Throned, and the wheel of the world roll under him,
+  Judge he between me and all of you, and see
+  It I transgress at all: but ye, refrain
+  Transgressing hands and reinless mouths, and keep
+  Silence, lest by much foam of violent words
+  And proper poison of your lips ye die.
+
+
+  OENEUS.
+
+  O flower of Tegea, maiden, fleetest foot
+  And holiest head of women, have good cheer
+  Of thy good words: but ye, depart with her
+  In peace and reverence, each with blameless eye
+  Following his fate; exalt your hands and hearts,
+  Strike, cease not, arrow on arrow and wound on wound,
+  And go with gods and with the gods return.
+
+
+  CHORUS.
+
+  Who hath given man speech? or who hath set therein
+  A thorn for peril and a snare for sin?
+  For in the word his life is and his breath,
+    And in the word his death,
+  That madness and the infatuate heart may breed
+    From the word's womb the deed
+  And life bring one thing forth ere all pass by,
+  Even one thing which is ours yet cannot die--
+  Death.  Hast thou seen him ever anywhere,
+  Time's twin-born brother, imperishable as he
+  Is perishable and plaintive, clothed with care
+    And mutable as sand,
+  But death is strong and full of blood and fair
+  And perdurable and like a lord of land?
+  Nay, time thou seest not, death thou wilt not see
+  Till life's right hand be loosened from thine hand
+    And thy life-days from thee.
+  For the gods very subtly fashion
+    Madness with sadness upon earth:
+  Not knowing in any wise compassion,
+    Nor holding pity of any worth;
+  And many things they have given and taken,
+    And wrought and ruined many things;
+  The firm land have they loosed and shaken,
+    And sealed the sea with all her springs;
+  They have wearied time with heavy burdens
+    And vexed the lips of life with breath:
+  Set men to labour and given them guerdons,
+    Death, and great darkness after death:
+  Put moans into the bridal measure
+    And on the bridal wools a stain,
+  And circled pain about with pleasure,
+    And girdled pleasure about with pain;
+  And strewed one marriage-bed with tears and fire
+  For extreme loathing and supreme desire.
+
+  What shall be done with all these tears of ours?
+    Shall they make watersprings in the fair heaven
+  To bathe the brows of morning? or like flowers
+  Be shed and shine before the starriest hours,
+    Or made the raiment of the weeping Seven?
+  Or rather, O our masters, shall they be
+  Food for the famine of the grievous sea,
+    A great well-head of lamentation
+  Satiating the sad gods? or fall and flow
+  Among the years and seasons to and fro,
+    And wash their feet with tribulation
+  And fill them full with grieving ere they go?
+    Alas, our lords, and yet alas again,
+  Seeing all your iron heaven is gilt as gold
+    But all we smite thereat in vain,
+  Smite the gates barred with groanings manifold,
+    But all the floors are paven with our pain.
+  Yea, and with weariness of lips and eyes,
+  With breaking of the bosom, and with sighs,
+    We labour, and are clad and fed with grief
+  And filled with days we would not fain behold
+  And nights we would not hear of, we wax old,
+    All we wax old and wither like a leaf.
+  We are outcast, strayed between bright sun and moon;
+    Our light and darkness are as leaves of flowers,
+  Black flowers and white, that perish; and the noon--
+    As midnight, and the night as daylight hours.
+    A little fruit a little while is ours,
+      And the worm finds it soon.
+
+  But up in heaven the high gods one by one
+    Lay hands upon the draught that quickeneth,
+  Fulfilled with all tears shed and all things done,
+    And stir with soft imperishable breath
+    The bubbling bitterness of life and death,
+  And hold it to our lips and laugh; but they
+  Preserve their lips from tasting night or day,
+    Lest they too change and sleep, the fates that spun,
+  The lips that made us and the hands that slay;
+    Lest all these change, and heaven bow down to none,
+  Change and be subject to the secular sway
+    And terrene revolution of the sun.
+  Therefore they thrust it from them, putting time away.
+
+  I would the wine of time, made sharp and sweet
+    With multitudinous days and nights and tears
+    And many mixing savours of strange years,
+  Were no more trodden of them under feet,
+    Cast out and spilt about their holy places:
+  That life were given them as a fruit to eat
+  And death to drink as water; that the light
+  Might ebb, drawn backward from their eyes, and night
+    Hide for one hour the imperishable faces.
+  That they might rise up sad in heaven, and know
+  Sorrow and sleep, one paler than young snow,
+    One cold as blight of dew and ruinous rain,
+  Rise up and rest and suffer a little, and be
+  Awhile as all things born with us and we,
+    And grieve as men, and like slain men be slain.
+
+  For now we know not of them; but one saith
+    The gods are gracious, praising God; and one,
+  When hast thou seen? or hast thou felt his breath
+    Touch, nor consume thine eyelids as the sun,
+  Nor fill thee to the lips with fiery death?
+    None hath beheld him, none
+  Seen above other gods and shapes of things,
+  Swift without feet and flying without wings,
+  Intolerable, not clad with death or life,
+    Insatiable, not known of night or day,
+  The lord of love and loathing and of strife
+    Who gives a star and takes a sun away;
+  Who shapes the soul, and makes her a barren wife
+    To the earthly body and grievous growth of clay;
+  Who turns the large limbs to a little flame
+    And binds the great sea with a little sand;
+  Who makes desire, and slays desire with shame;
+    Who shakes the heaven as ashes in his hand;
+  Who, seeing the light and shadow for the same,
+    Bids day waste night as fire devours a brand,
+  Smites without sword, and scourges without rod;
+    The supreme evil, God.
+
+  Yea, with thine hate, O God, thou hast covered us,
+    One saith, and hidden our eyes away from sight,
+  And made us transitory and hazardous,
+    Light things and slight;
+  Yet have men praised thee, saying, He hath made man thus,
+    And he doeth right.
+  Thou hast kissed us, and hast smitten; thou hast laid
+  Upon us with thy left hand life, and said,
+  Live: and again thou hast said, Yield up your breath,
+  And with thy right hand laid upon us death.
+  Thou hast sent us sleep, and stricken sleep with dreams,
+    Saying, Joy is not, but love of joy shall be,
+  Thou hast made sweet springs for all the pleasant streams,
+    In the end thou hast made them bitter with the sea.
+  Thou hast fed one rose with dust of many men;
+    Thou hast marred one face with fire of many tears;
+  Thou hast taken love, and given us sorrow again;
+    With pain thou hast filled us full to the eyes and ears.
+  Therefore because thou art strong, our father, and we
+    Feeble; and thou art against us, and thine hand
+  Constrains us in the shallows of the sea
+    And breaks us at the limits of the land;
+  Because thou hast bent thy lightnings as a bow,
+    And loosed the hours like arrows; and let fall
+  Sins and wild words and many a winged woe
+    And wars among us, and one end of all;
+  Because thou hast made the thunder, and thy feet
+    Are as a rushing water when the skies
+  Break, but thy face as an exceeding heat
+    And flames of fire the eyelids of thine eyes;
+  Because thou art over all who are over us;
+    Because thy name is life and our name death;
+  Because thou art cruel and men are piteous,
+    And our hands labour and thine hand scattereth;
+  Lo, with hearts rent and knees made tremulous,
+    Lo, with ephemeral lips and casual breath,
+      At least we witness of thee ere we die
+  That these things are not otherwise, but thus;
+    That each man in his heart sigheth, and saith,
+      That all men even as I,
+  All we are against thee, against thee, O God most high,
+    But ye, keep ye on earth
+    Your lips from over-speech,
+  Loud words and longing are so little worth;
+    And the end is hard to reach.
+  For silence after grievous things is good,
+    And reverence, and the fear that makes men whole,
+  And shame, and righteous governance of blood,
+    And lordship of the soul.
+  But from sharp words and wits men pluck no fruit,
+  And gathering thorns they shake the tree at root;
+  For words divide and rend;
+  But silence is most noble till the end.
+
+
+  ALTHAEA.
+
+  I heard within the house a cry of news
+  And came forth eastward hither, where the dawn,
+  Cheers first these warder gods that face the sun
+  And next our eyes unrisen; for unaware
+  Came clashes of swift hoofs and trampling feet
+  And through the windy pillared corridor
+  Light sharper than the frequent flames of day
+  That daily fill it from the fiery dawn;
+  Gleams, and a thunder of people that cried out,
+  And dust and hurrying horsemen; lo their chief,
+  That rode with Oeneus rein by rein, returned.
+  What cheer, O herald of my lord the king?
+
+
+  HERALD.
+
+  Lady, good cheer and great; the boar is slain.
+  CHORUS.
+
+  Praised be all gods that look toward Calydon.
+
+
+  ALTHAEA.
+
+  Good news and brief; but by whose happier hand?
+
+
+  HERALD.
+
+  A maiden's and a prophet's and thy son's.
+
+
+  ALTHAEA.
+
+  Well fare the spear that severed him and life.
+
+
+  HERALD.
+
+
+  Thine own, and not an alien, hast thou blest
+
+
+  ALTHAEA.
+
+  Twice be thou too for my sake blest and his.
+
+
+  HERALD.
+
+  At the king's word I rode afoam for thine.
+
+
+  ALTHAEA.
+
+  Thou sayest he tarrieth till they bring the spoil?
+
+
+  HERALD.
+
+  Hard by the quarry, where they breathe, O queen.
+
+
+  ALTHAEA.
+
+  Speak thou their chance; but some bring flowers and crown
+  These gods and all the lintel, and shed wine,
+  Fetch sacrifice and slay, for heaven is good.
+
+
+  HERALD.
+
+  Some furlongs northward where the brakes begin
+  West of that narrowing range of warrior hills
+  Whose brooks have bled with battle when thy son
+  Smote Acarnania, there all they made halt,
+  And with keen eye took note of spear and hound,
+  Royally ranked; Laertes island-born,
+  The young Gerenian Nestor, Panopeus,
+  And Cepheus and Ancaeus, mightiest thewed,
+  Arcadians; next, and evil-eyed of these,
+  Arcadian Atalanta, with twain hounds
+  Lengthening the leash, and under nose and brow
+  Glittering with lipless tooth and fire-swift eye;
+  But from her white braced shoulder the plumed shafts
+  Rang, and the bow shone from her side; next her
+  Meleager, like a sun in spring that strikes
+  Branch into leaf and bloom into the world,
+  A glory among men meaner; Iphicles,
+  And following him that slew the biform bull
+  Pirithous, and divine Eurytion,
+  And, bride-bound to the gods, Aeacides.
+  Then Telamon his brother, and Argive-born
+  The seer and sayer of visions and of truth,
+  Amphiaraus; and a four-fold strength,
+  Thine, even thy mother's and thy sister's sons.
+  And recent from the roar of foreign foam
+  Jason, and Dryas twin-begot with war,
+  A blossom of bright battle, sword and man
+  Shining; and Idas, and the keenest eye
+  Of Lynceus, and Admetus twice-espoused,
+  And Hippasus and Hyleus, great in heart.
+  These having halted bade blow horns, and rode
+  Through woods and waste lands cleft by stormy streams,
+  Past yew-trees and the heavy hair of pines,
+  And where the dew is thickest under oaks,
+  This way and that; but questing up and down
+  They saw no trail nor scented; and one said,
+  Plexippus, Help, or help not, Artemis,
+  And we will flay thy boarskin with male hands;
+  But saying, he ceased and said not that he would,
+  Seeing where the green ooze of a sun-struck marsh
+  Shook with a thousand reeds untunable,
+  And in their moist and multitudinous flower
+  Slept no soft sleep, with violent visions fed,
+  The blind bulk of the immeasurable beast.
+  And seeing, he shuddered with sharp lust of praise
+  Through all his limbs, and launched a double dart,
+  And missed; for much desire divided him,
+  Too hot of spirit and feebler than his will,
+  That his hand failed, though fervent; and the shaft,
+  Sundering the rushes, in a tamarisk stem
+  Shook, and stuck fast; then all abode save one,
+  The Arcadian Atalanta; from her side
+  Sprang her hounds, labouring at the leash, and slipped,
+  And plashed ear-deep with plunging feet; but she
+  Saying, Speed it as I send it for thy sake,
+  Goddess, drew bow and loosed, the sudden string
+  Rang, and sprang inward, and the waterish air
+  Hissed, and the moist plumes of the songless reeds
+  Moved as a wave which the wind moves no more.
+  But the boar heaved half out of ooze and slime
+  His tense flank trembling round the barbed wound,
+  Hateful, and fiery with invasive eyes
+  And bristling with intolerable hair
+  Plunged, and the hounds clung, and green flowers and white
+  Reddened and broke all round them where they came.
+  And charging with sheer tusk he drove, and smote
+  Hyleus; and sharp death caught his sudden soul,
+  And violent sleep shed night upon his eyes.
+  Then Peleus, with strong strain of hand and heart,
+  Shot; but the sidelong arrow slid, and slew
+  His comrade born and loving countryman,
+  Under the left arm smitten, as he no less
+  Poised a like arrow; and bright blood brake afoam,
+  And falling, and weighed back by clamorous arms,
+  Sharp rang the dead limbs of Eurytion.
+  Then one shot happier; the Cadmean seer,
+  Amphiaraus; for his sacred shaft
+  Pierced the red circlet of one ravening eye
+  Beneath the brute brows of the sanguine boar,
+  Now bloodier from one slain; but he so galled
+  Sprang straight, and rearing cried no lesser cry
+  Than thunder and the roar of wintering streams
+  That mix their own foam with the yellower sea;
+  And as a tower that falls by fire in fight
+  With ruin of walls and all its archery,
+  And breaks the iron flower of war beneath,
+  Crushing charred limbs and molten arms of men;
+  So through crushed branches and the reddening brake
+  Clamoured and crashed the fervour of his feet,
+  And trampled, springing sideways from the tusk,
+  Too tardy a moving mould of heavy strength,
+  Ancaeus; and as flakes of weak-winged snow
+  Break, all the hard thews of his heaving limbs
+  Broke, and rent flesh fell every way, and blood
+  Flew, and fierce fragments of no more a man.
+  Then all the heroes drew sharp breath, and gazed,
+  And smote not; but Meleager, but thy son,
+  Right in the wild way of the coming curse
+  Rock-rooted, fair with fierce and fastened lips,
+  Clear eyes, and springing muscle and shortening limb--
+  With chin aslant indrawn to a tightening throat,
+  Grave, and with gathered sinews, like a god,--
+  Aimed on the left side his well-handled spear
+  Grasped where the ash was knottiest hewn, and smote,
+  And with no missile wound, the monstrous boar
+  Right in the hairiest hollow of his hide
+  Under the last rib, sheer through bulk and bone,
+  Peep in; and deeply smitten, and to death,
+  The heavy horror with his hanging shafts
+  Leapt, and fell furiously, and from raging lips
+  Foamed out the latest wrath of all his life.
+  And all they praised the gods with mightier heart,
+  Zeus and all gods, but chiefliest Artemis,
+  Seeing; but Meleager bade whet knives and flay,
+  Strip and stretch out the splendour of the spoil;
+  And hot and horrid from the work all these
+  Sat, and drew breath and drank and made great cheer
+  And washed the hard sweat off their calmer brows.
+  For much sweet grass grew higher than grew the reed,
+  And good for slumber, and every holier herb,
+  Narcissus, and the low-lying melilote,
+  And all of goodliest blade and bloom that springs
+  Where, hid by heavier hyacinth, violet buds
+  Blossom and burn; and fire of yellower flowers
+  And light of crescent lilies, and such leaves
+  As fear the Faun's and know the Dryad's foot;
+  Olive and ivy and poplar dedicate,
+  And many a well-spring overwatched of these.
+  There now they rest; but me the king bade bear
+  Good tidings to rejoice this town and thee.
+  Wherefore be glad, and all ye give much thanks,
+  For fallen is all the trouble of Calydon.
+
+
+  ALTHAEA.
+
+  Laud ye the gods; for this they have given is good,
+  And what shall be they hide until their time.
+  Much good and somewhat grievous hast thou said,
+  And either well; but let all sad things be,
+  Till all have made before the prosperous gods
+  Burnt-offering, and poured out the floral wine.
+  Look fair, O gods, and favourable; for we
+  Praise you with no false heart or flattering mouth,
+  Being merciful, but with pure souls and prayer.
+
+
+  HERALD.
+
+  Thou hast prayed well; for whoso fears not these,
+  But once being prosperous waxes huge of heart,
+  Him shall some new thing unaware destroy.
+
+
+  CHORUS.
+
+  O that I now, I too were
+  By deep wells and water-floods,
+  Streams of ancient hills; and where
+  All the wan green places bear
+  Blossoms cleaving to the sod,
+  Fruitless fruit, and grasses fair,
+  Or such darkest ivy-buds
+  As divide thy yellow hair,
+  Bacchus, and their leaves that nod
+  Round thy fawnskin brush the bare
+  Snow-soft shoulders of a god;
+  There the year is sweet, and there
+  Earth is full of secret springs,
+  And the fervent rose-cheeked hours,
+  Those that marry dawn and noon,
+  There are sunless, there look pale
+  In dim leaves and hidden air,
+  Pale as grass or latter flowers
+  Or the wild vine's wan wet rings
+  Full of dew beneath the moon,
+  And all day the nightingale
+  Sleeps, and all night sings;
+  There in cold remote recesses
+  That nor alien eyes assail,
+  Feet, nor imminence of wings,
+  Nor a wind nor any tune,
+  Thou, O queen and holiest,
+  Flower the whitest of all things,
+  With reluctant lengthening tresses
+  And with sudden splendid breast
+  Save of maidens unbeholden,
+  There art wont to enter, there
+  Thy divine swift limbs and golden.
+  Maiden growth of unbound hair,
+  Bathed in waters white,
+  Shine, and many a maid's by thee
+  In moist woodland or the hilly
+  Flowerless brakes where wells abound
+  Out of all men's sight;
+  Or in lower pools that see
+  All their marges clothed all round
+  With the innumerable lily,
+  Whence the golden-girdled bee
+  Flits through flowering rush to fret
+  White or duskier violet,
+  Fair as those that in far years
+  With their buds left luminous
+  And their little leaves made wet
+  From the warmer dew of tears,
+  Mother's tears in extreme need,
+  Hid the limbs of Iamus,
+  Of thy brother's seed;
+  For his heart was piteous
+  Toward him, even as thine heart now
+  Pitiful toward us;
+  Thine, O goddess, turning hither
+  A benignant blameless brow;
+  Seeing enough of evil done
+  And lives withered as leaves wither
+  In the blasting of the sun;
+  Seeing enough of hunters dead,
+  Ruin enough of all our year,
+  Herds and harvests slain and shed,
+  Herdsmen stricken many an one,
+  Fruits and flocks consumed together,
+  And great length of deadly days.
+  Yet with reverent lips and fear
+  Turn we toward thee, turn and praise
+  For this lightening of clear weather
+  And prosperities begun.
+  For not seldom, when all air
+  As bright water without breath
+  Shines, and when men fear not, fate
+  Without thunder unaware
+  Breaks, and brings down death.
+  Joy with grief ye great gods give,
+  Good with bad, and overbear
+  All the pride of us that live,
+  All the high estate,
+  As ye long since overbore,
+  As in old time long before,
+  Many a strong man and a great,
+  All that were.
+  But do thou, sweet, otherwise,
+  Having heed of all our prayer,
+  Taking note of all our sighs;
+  We beseech thee by thy light,
+  By thy bow, and thy sweet eyes,
+  And the kingdom of the night,
+  Be thou favourable and fair;
+  By thine arrows and thy might
+  And Orion overthrown;
+  By the maiden thy delight,
+  By the indissoluble zone
+  And the sacred hair.
+
+
+  MESSENGER.
+
+  Maidens, if ye will sing now, shift your song,
+  Bow down, cry, wail for pity; is this a time
+  For singing? nay, for strewing of dust and ash,
+  Rent raiment, and for bruising of the breast.
+
+
+  CHORUS.
+
+  What new thing wolf-like lurks behind thy words?
+  What snake's tongue in thy lips? what fire in the eyes?
+
+
+  MESSENGER.
+
+  Bring me before the queen and I will speak.
+
+
+  CHORUS.
+
+  Lo, she comes forth as from thank-offering made.
+
+
+  MESSENGER.
+
+  A barren offering for a bitter gift.
+
+
+  ALTHAEA.
+
+  What are these borne on branches, and the face
+  Covered? no mean men living, but now slain
+  Such honour have they, if any dwell with death.
+
+
+  MESSENGER.
+
+  Queen, thy twain brethren and thy mother's sons.
+
+
+  ALTHAEA.
+
+  Lay down your dead till I behold their blood
+  If it be mine indeed, and I will weep.
+
+
+  MESSENGER,
+
+  Weep if thou wilt, for these men shall no more.
+
+
+  ALTHAEA.
+
+  O brethren, O my father's sons, of me
+  Well loved and well reputed, I should weep
+  Tears dearer than the dear blood drawn from you
+  But that I know you not uncomforted,
+  Sleeping no shameful sleep, however slain,
+  For my son surely hath avenged you dead.
+
+
+  MESSENGER.
+
+  Nay, should thine own seed slay himself, O queen?
+
+
+  ALTHAEA.
+
+  Thy double word brings forth a double death.
+
+
+  MESSENGER.
+
+  Know this then singly, by one hand they fell.
+
+
+  ALTHAEA.
+
+  What mutterest thou with thine ambiguous mouth?
+
+
+  MESSENGER.
+
+  Slain by thy son's hand; is that saying so hard?
+
+
+  ALTHAEA.
+
+  Our time is come upon us: it is here.
+
+
+  CHORUS.
+
+  O miserable, and spoiled at thine own hand.
+
+
+  ALTHAEA.
+
+  Wert thou not called Meleager from this womb?
+
+
+  CHORUS.
+
+  A grievous huntsman hath it bred to thee.
+
+
+  ALTHAEA.
+
+  Wert thou born fire, and shalt thou not devour?
+
+
+  CHORUS.
+
+  The fire thou madest, will it consume even thee?
+
+
+  ALTHAEA.
+
+  My dreams are fallen upon me; burn thou too.
+
+
+  CHORUS.
+
+  Not without God are visions born and die.
+
+
+  ALTHAEA.
+
+  The gods are many about me; I am one.
+
+
+  CHORUS
+
+  She groans as men wrestling with heavier gods.
+
+
+  ALTHAEA.
+
+  They rend me, they divide me, they destroy.
+
+
+  CHORUS.
+
+  Or one labouring in travail of strange births.
+
+
+  ALTHAEA.
+
+  They are strong, they are strong; I am broken, and these prevail.
+
+
+  CHORUS.
+
+  The god is great against her; she will die.
+
+
+  ALTHAEA.
+
+  Yea, but not now; for my heart too is great.
+  I would I were not here in sight of the sun.
+  But thou, speak all thou sawest, and I will die.
+  I would I were not here in sight of the sun.
+
+
+  MESSENGER.
+
+  O queen, for queenlike hast thou borne thyself,
+  A little word may hold so great mischance.
+  For in division of the sanguine spoil
+  These men thy brethren wrangling bade yield up
+  The boar's head and the horror of the hide
+  That this might stand a wonder in Calydon,
+  Hallowed; and some drew toward them; but thy son
+  With great hands grasping all that weight of hair
+  Cast down the dead heap clanging and collapsed
+  At female feet, saying This thy spoil not mine,
+  Maiden, thine own hand for thyself hath reaped,
+  And all this praise God gives thee: she thereat
+  Laughed, as when dawn touches the sacred night
+  The sky sees laugh and redden and divide
+  Dim lips and eyelids virgin of the sun,
+  Hers, and the warm slow breasts of morning heave,
+  Fruitful, and flushed with flame from lamp-lit hours,
+  And maiden undulation of clear hair
+  Colour the clouds; so laughed she from pure heart
+  Lit with a low blush to the braided hair,
+  And rose-coloured and cold like very dawn,
+  Golden and godlike, chastely with chaste lips,
+  A faint grave laugh; and all they held their peace,
+  And she passed by them.  Then one cried Lo now,
+  Shall not the Arcadian shoot out lips at us,
+  Saying all we were despoiled by this one girl?
+  And all they rode against her violently
+  And cast the fresh crown from her hair, and now
+  They had rent her spoil away, dishonouring her,
+  Save that Meleager, as a tame lion chafed,
+  Bore on them, broke them, and as fire cleaves wood
+  So clove and drove them, smitten in twain; but she
+  Smote not nor heaved up hand; and this man first,
+  Plexippus, crying out This for love's sake, sweet,
+  Drove at Meleager, who with spear straightening
+  Pierced his cheek through; then Toxeus made for him,
+  Dumb, but his spear spake; vain and violent words,
+  Fruitless; for him too stricken through both sides
+  The earth felt falling, and his horse's foam
+  Blanched thy son's face, his slayer; and these being slain,
+  None moved nor spake; but Oeneus bade bear hence
+  These made of heaven infatuate in their deaths,
+  Foolish; for these would baffle fate, and fell.
+  And they passed on, and all men honoured her,
+  Being honourable, as one revered of heaven.
+
+
+  ALTHAEA.
+
+  What say you, women? is all this not well done?
+
+
+  CHORUS.
+
+  No man doth well but God hath part in him.
+
+
+  ALTHAEA.
+
+  But no part here; for these my brethren born
+  Ye have no part in, these ye know not of
+  As I that was their sister, a sacrifice
+  Slain in their slaying.  I would I had died for these,
+  For this man dead walked with me, child by child,
+  And made a weak staff for my feebler feet
+  With his own tender wrist and hand, and held
+  And led me softly and shewed me gold and steel
+  And shining shapes of mirror and bright crown
+  And all things fair; and threw light spears, and brought
+  Young hounds to huddle at my feet and thrust
+  Tame heads against my little maiden breasts
+  And please me with great eyes; and those days went
+  And these are bitter and I a barren queen
+  And sister miserable, a grievous thing
+  And mother of many curses; and she too,
+  My sister Leda, sitting overseas
+  With fair fruits round her, and her faultless lord,
+  Shall curse me, saying A sorrow and not a son,
+  Sister, thou barest, even a burning fire,
+  A brand consuming thine own soul and me.
+  But ye now, sons of Thestius, make good cheer,
+  For ye shall have such wood to funeral fire
+  As no king hath; and flame that once burnt down
+  Oil shall not quicken or breath relume or wine
+  Refresh again; much costlier than fine gold,
+  And more than many lives of wandering men.
+
+
+  CHORUS.
+
+  O queen, thou hast yet with thee love-worthy things,
+  Thine husband, and the great strength of thy son.
+
+
+  ALTHAEA.
+
+  Who shall get brothers for me while I live?
+  Who bear them? who bring forth in lieu of these?
+  Are not our fathers and our brethren one,
+  And no man like them? are not mine here slain?
+  Have we not hung together, he and I,
+  Flowerwise feeding as the feeding bees,
+  With mother-milk for honey? and this man too,
+  Dead, with my son's spear thrust between his sides,
+  Hath he not seen us, later born than he,
+  Laugh with lips filled, and laughed again for love?
+  There were no sons then in the world, nor spears,
+  Nor deadly births of women; but the gods
+  Allowed us, and our days were clear of these.
+  I would I had died unwedded, and brought forth
+  No swords to vex the world; for these that spake
+  Sweet words long since and loved me will not speak
+  Nor love nor look upon me; and all my life
+  I shall not hear nor see them living men.
+  But I too living, how shall I now live?
+  What life shall this be with my son, to know
+  What hath been and desire what will not be,
+  Look for dead eyes and listen for dead lips,
+  And kill mine own heart with remembering them,
+  And with those eyes that see their slayer alive
+  Weep, and wring hands that clasp him by the hand?
+  How shall I bear my dreams of them, to hear
+  False voices, feel the kisses of false mouths
+  And footless sound of perished feet, and then
+  Wake and hear only it may be their own hounds
+  Whine masterless in miserable sleep,
+  And see their boar-spears and their beds and seats
+  And all the gear and housings of their lives
+  And not the men? shall hounds and horses mourn,
+  Pine with strange eyes, and prick up hungry ears,
+  Famish and fail at heart for their dear lords,
+  And I not heed at all? and those blind things
+  Fall off from life for love's sake, and I live?
+  Surely some death is better than some life,
+  Better one death for him and these and me
+  For if the gods had slain them it may be
+  I had endured it; if they had fallen by war
+  Or by the nets and knives of privy death
+  And by hired hands while sleeping, this thing too
+  I had set my soul to suffer; or this hunt,
+  Had this dispatched them, under tusk or tooth
+  Torn, sanguine, trodden, broken; for all deaths
+  Or honourable or with facile feet avenged
+  And hands of swift gods following, all save this,
+  Are bearable; but not for their sweet land
+  Fighting, but not a sacrifice, lo these
+  Dead, for I had not then shed all mine heart
+  Out at mine eyes: then either with good speed,
+  Being just, I had slain their slayer atoningly,
+  Or strewn with flowers their fire and on their tombs
+  Hung crowns, and over them a song, and seen
+  Their praise outflame their ashes: for all men,
+  All maidens, had come thither, and from pure lips
+  Shed songs upon them, from heroic eyes
+  Tears; and their death had been a deathless life;
+  But now, by no man hired nor alien sword,
+  By their own kindred are they fallen, in peace,
+  After much peril, friendless among friends,
+  By hateful hands they loved; and how shall mine
+  Touch these returning red and not from war,
+  These fatal from the vintage of men's veins,
+  Dead men my brethren? how shall these wash off
+  No festal stains of undelightful wine,
+  How mix the blood, my blood on them, with me,
+  Holding mine hand? or how shall I say, son,
+  That am no sister? but by night and day
+  Shall we not sit and hate each other, and think
+  Things hate-worthy? not live with shamefast eyes,
+  Brow-beaten, treading soft with fearful feet,
+  Each unupbraided, each without rebuke
+  Convicted, and without a word reviled
+  Each of another? and I shall let thee live
+  And see thee strong and hear men for thy sake
+  Praise me, but these thou wouldest not let live
+  No man shall praise for ever? these shall lie
+  Dead, unbeloved, unholpen, all through thee?
+  Sweet were they toward me living, and mine heart
+  Desired them, but was then well satisfied,
+  That now is as men hungered; and these dead
+  I shall want always to the day I die.
+  For all things else and all men may renew;
+  Yea, son for son the gods may give and take,
+  But never a brother or sister any more.
+
+
+  CHORUS.
+
+  Nay, for the son lies close about thine heart,
+  Full of thy milk, warm from thy womb, and drains
+  Life and the blood of life and all thy fruit,
+  Eats thee and drinks thee as who breaks bread and eats,
+  Treads wine and drinks, thyself, a sect of thee;
+  And if he feed not, shall not thy flesh faint?
+  Or drink not, are not thy lips dead for thirst?
+  This thing moves more than all things, even thy son,
+  That thou cleave to him; and he shall honour thee,
+  Thy womb that bare him and the breasts he knew,
+  Reverencing most for thy sake all his gods.
+
+
+  ALTHAEA.
+
+  But these the gods too gave me, and these my son,
+  Not reverencing his gods nor mine own heart
+  Nor the old sweet years nor all venerable things,
+  But cruel, and in his ravin like a beast,
+  Hath taken away to slay them: yea, and she,
+  She the strange woman, she the flower, the sword,
+  Red from spilt blood, a mortal flower to men,
+  Adorable, detestable--even she
+  Saw with strange eyes and with strange lips rejoiced,
+  Seeing these mine own slain of mine own, and me
+  Made miserable above all miseries made,
+  A grief among all women in the world,
+  A name to be washed out with all men's tears.
+
+
+  CHORUS.
+
+  Strengthen thy spirit; is this not also a god,
+  Chance, and the wheel of all necessities?
+  Hard things have fallen upon us from harsh gods,
+  Whom lest worse hap rebuke we not for these.
+
+
+  ALTHAEA.
+
+  My spirit is strong against itself, and I
+  For these things' sake cry out on mine own soul
+  That it endures outrage, and dolorous days,
+  And life, and this inexpiable impotence.
+  Weak am I, weak and shameful; my breath drawn
+  Shames me, and monstrous things and violent gods.
+  What shall atone? what heal me? what bring back
+  Strength to the foot, light to the face? what herb
+  Assuage me? what restore me? what release?
+  What strange thing eaten or drunken, O great gods.
+  Make me as you or as the beasts that feed,
+  Slay and divide and cherish their own hearts?
+  For these ye show us; and we less than these
+  Have not wherewith to live as all these things
+  Which all their lives fare after their own kind
+  As who doth well rejoicing; but we ill,
+  Weeping or laughing, we whom eyesight fails,
+  Knowledge and light efface and perfect heart,
+  And hands we lack, and wit; and all our days
+  Sin, and have hunger, and die infatuated.
+  For madness have ye given us and not health,
+  And sins whereof we know not; and for these
+  Death, and sudden destruction unaware.
+  What shall we say now? what thing comes of us?
+
+
+  CHORUS.
+
+  Alas, for all this all men undergo.
+
+
+  ALTHAEA.
+
+  Wherefore I will not that these twain, O gods,
+  Die as a dog dies, eaten of creeping things,
+  Abominable, a loathing; but though dead
+  Shall they have honour and such funereal flame
+  As strews men's ashes in their enemies' face
+  And blinds their eyes who hate them: lest men say,
+  'Lo how they lie, and living had great kin,
+  And none of these hath pity of them, and none
+  Regards them lying, and none is wrung at heart,
+  None moved in spirit for them, naked and slain,
+  Abhorred, abased, and no tears comfort them:'
+  And in the dark this grieve Eurythemis,
+  Hearing how these her sons come down to her
+  Unburied, unavenged, as kinless men,
+  And had a queen their sister.  That were shame
+  Worse than this grief.  Yet how to atone at all
+  I know not, seeing the love of my born son,
+  A new-made mother's new-born love, that grows
+  From the soft child to the strong man, now soft
+  Now strong as either, and still one sole same love,
+  Strives with me, no light thing to strive withal;
+  This love is deep, and natural to man's blood,
+  And ineffaceable with many tears.
+  Yet shall not these rebuke me though I die,
+  Nor she in that waste world with all her dead,
+  My mother, among the pale flocks fallen as leaves,
+  Folds of dead people, and alien from the sun;
+  Nor lack some bitter comfort, some poor praise,
+  Being queen, to have borne her daughter like a queen,
+  Righteous; and though mine own fire burn me too,
+  She shall have honour and these her sons, though dead.
+  But all the gods will, all they do, and we
+  Not all we would, yet somewhat, and one choice
+  We have, to live and do just deeds and die.
+
+
+  CHORUS.
+
+  Terrible words she communes with, and turns
+  Swift fiery eyes in doubt against herself,
+  And murmurs as who talks in dreams with death.
+
+
+  ALTHAEA.
+
+  For the unjust also dieth, and him all men
+  Hate, and himself abhors the unrighteousness,
+  And seeth his own dishonour intolerable.
+  But I being just, doing right upon myself,
+  Slay mine own soul, and no man born shames me.
+  For none constrains nor shall rebuke, being done,
+  What none compelled me doing, thus these things fare.
+  Ah, ah, that such things should so fare, ah me,
+  That I am found to do them and endure,
+  Chosen and constrained to choose, and bear myself
+  Mine own wound through mine own flesh to the heart
+  Violently stricken, a spoiler and a spoil,
+  A ruin ruinous, fallen on mine own son.
+  Ah, ah, for me too as for these; alas,
+  For that is done that shall be, and mine hand
+  Full of the deed, and full of blood mine eyes,
+  That shall see never nor touch anything
+  Save blood unstanched and fire unquenchable.
+
+
+  CHORUS.
+
+  What wilt thou do? what ails thee? for the house
+  Shakes ruinously; wilt thou bring fire for it?
+
+
+  ALTHAEA.
+
+  Fire in the roofs, and on the lintels fire.
+  Lo ye, who stand and weave, between the doors,
+  There; and blood drips from hand and thread, and stains
+  Threshold and raiment and me passing in
+  Flecked with the sudden sanguine drops of death.
+
+
+  CHORUS.
+
+  Alas that time is stronger than strong men,
+  Fate than all gods: and these are fallen on us.
+
+
+  ALTHAEA.
+
+  A little since and I was glad; and now
+  I never shall be glad or sad again.
+
+
+  CHORUS.
+
+  Between two joys a grief grows unaware.
+
+
+  ALTHAEA.
+
+  A little while and I shall laugh; and then
+  I shall weep never and laugh not any more.
+
+
+  CHORUS.
+
+  What shall be said? for words are thorns to grief.
+  Withhold thyself a little and fear the gods.
+
+
+  ALTHAEA.
+
+  Fear died when these were slain; and I am as dead,
+  And fear is of the living; these fear none.
+
+
+  CHORUS.
+
+  Have pity upon all people for their sake.
+
+
+  ALTHAEA.
+
+  It is done now, shall I put back my day?
+
+
+  CHORUS.
+
+  An end is come, an end; this is of God.
+
+
+  ALTHAEA.
+
+  I am fire, and burn myself, keep clear of fire.
+
+
+  CHORUS.
+
+  The house is broken, is broken; it shall not stand.
+
+
+  ALTHAEA.
+
+  Woe, woe for him that breaketh; and a rod
+  Smote it of old, and now the axe is here.
+
+
+  CHORUS.
+
+    Not as with sundering of the earth
+      Nor as with cleaving of the sea
+    Nor fierce foreshadowings of a birth
+      Nor flying dreams of death to be
+    Nor loosening of the large world's girth
+    And quickening of the body of night,
+      And sound of thunder in men's ears
+    And fire of lightning in men's sight,
+      Fate, mother of desires and fears,
+      Bore unto men the law of tears;
+    But sudden, an unfathered flame,
+      And broken out of night, she shone,
+    She, without body, without name,
+      In days forgotten and foregone;
+    And heaven rang round her as she came
+    Like smitten cymbals, and lay bare,
+      Clouds and great stars, thunders and snows,
+    The blue sad fields and folds of air,
+      The life that breathes, the life that grows,
+      All wind, all fire, that burns or blows,
+    Even all these knew her: for she is great;
+      The daughter of doom, the mother of death,
+    The sister of sorrow; a lifelong weight
+      That no man's finger lighteneth,
+    Nor any god can lighten fate,
+    A landmark seen across the way
+      Where one race treads as the other trod;
+    An evil sceptre, an evil stay,
+      Wrought for a staff, wrought for a rod,
+      The bitter jealousy of God.
+
+    For death is deep as the sea,
+      And fate as the waves thereof.
+    Shall the waves take pity on thee
+      Or the southwind offer thee love?
+    Wilt thou take the night for thy day
+      Or the darkness for light on thy way,
+    Till thou say in thine heart Enough?
+  Behold, thou art over fair, thou art over wise;
+  The sweetness of spring in thine hair, and the light in thine eyes.
+  The light of the spring in thine eyes, and the sound in thine ears;
+  Yet thine heart shall wax heavy with sighs and thine eyelids with tears.
+  Wilt thou cover thine hair with gold, and with silver thy feet?
+  Hast thou taken the purple to fold thee, and made thy mouth sweet?
+  Behold, when thy face is made bare, he that loved thee shall hate;
+  Thy face shall be no more fair at the fall of thy fate.
+  For thy life shall fall as a leaf and be shed as the rain;
+  And the veil of thine head shall be grief: and the crown shall be pain.
+
+
+  ALTHAEA.
+
+  Ho, ye that wail, and ye that sing, make way
+  Till I be come among you.  Hide your tears,
+  Ye little weepers, and your laughing lips,
+  Ye laughers for a little; lo mine eyes
+  That outweep heaven at rainiest, and my mouth
+  That laughs as gods laugh at us.  Fate's are we,
+  Yet fate is ours a breathing-space; yea, mine,
+  Fate is made mine for ever; he is my son,
+  My bedfellow, my brother.  You strong gods,
+  Give place unto me; I am as any of you,
+  To give life and to take life.  Thou, old earth,
+  That hast made man and unmade; thou whose mouth
+  Looks red from the eaten fruits of thine own womb;
+  Behold me with what lips upon what food
+  I feed and fill my body; even with flesh
+  Made of my body.  Lo, the fire I lit
+  I burn with fire to quench it; yea, with flame
+  I burn up even the dust and ash thereof.
+
+
+  CHORUS.
+
+  Woman, what fire is this thou burnest with?
+
+
+  ALTHAEA.
+
+  Yea to the bone, yea to the blood and all.
+
+
+  CHORUS.
+
+  For this thy face and hair are as one fire.
+
+
+  ALTHAEA.
+
+  A tongue that licks and beats upon the dust.
+
+  CHORUS.
+
+  And in thine eyes are hollow light and heat.
+
+
+  ALTHAEA.
+
+  Of flame not fed with hand or frankincense.
+
+
+  CHORUS.
+
+  I fear thee for the trembling of thine eyes.
+
+
+  ALTHAEA.
+
+  Neither with love they tremble nor for fear.
+
+
+  CHORUS.
+
+  And thy mouth shuddering like a shot bird.
+
+
+  ALTHAEA.
+
+  Not as the bride's mouth when man kisses it.
+
+
+  CHORUS.
+
+  Nay, but what thing is this thing thou hast done?
+
+
+  ALTHAEA.
+
+  Look, I am silent, speak your eyes for me.
+
+
+  CHORUS.
+
+  I see a faint fire lightening from the hall.
+
+
+  ALTHAEA.
+
+  Gaze, stretch your eyes, strain till the lids drop off.
+
+
+  CHORUS.
+
+  Flushed pillars down the flickering vestibule.
+
+
+  ALTHAEA.
+
+  Stretch with your necks like birds: cry, chirp as they.
+
+
+  CHORUS.
+
+  And a long brand that blackens: and white dust
+
+
+  ALTHAEA.
+
+  O children, what is this ye see? your eyes
+  Are blinder than night's face at fall of moon.
+  That is my son, my flesh, my fruit of life,
+  My travail, and the year's weight of my womb,
+  Meleager, a fire enkindled of mine hands
+  And of mine hands extinguished, this is he.
+
+
+  CHORUS.
+
+  O gods, what word has flown out at thy mouth?
+
+
+  ALTHAEA.
+
+  I did this and I say this and I die.
+
+
+  CHORUS.
+
+  Death stands upon the doorway of thy lips,
+  And in thy mouth has death set up his house.
+  ALTHAEA.
+
+  O death, a little, a little while, sweet death,
+  Until I see the brand burnt down and die.
+
+
+  CHORUS.
+
+  She reels as any reed under the wind,
+  And cleaves unto the ground with staggering feet.
+
+
+  ALTHAEA.
+
+  Girls, one thing will I say and hold my peace.
+  I that did this will weep not nor cry out,
+  Cry ye and weep: I will not call on gods,
+  Call ye on them; I will not pity man,
+  Shew ye your pity.  I know not if I live;
+  Save that I feel the fire upon my face
+  And on my cheek the burning of a brand.
+  Yea the smoke bites me, yea I drink the steam
+  With nostril and with eyelid and with lip
+  Insatiate and intolerant; and mine hands
+  Burn, and fire feeds upon mine eyes; I reel
+  As one made drunk with living, whence he draws
+  Drunken delight; yet I, though mad for joy,
+  Loathe my long living and am waxen red
+  As with the shadow of shed blood; behold,
+  I am kindled with the flames that fade in him,
+  I am swollen with subsiding of his veins,
+  I am flooded with his ebbing; my lit eyes
+  Flame with the falling fire that leaves his lids
+  Bloodless, my cheek is luminous with blood
+  Because his face is ashen. Yet, O child,
+  Son, first-born, fairest--O sweet mouth, sweet eyes,
+  That drew my life out through my suckling breast,
+  That shone and clove mine heart through--O soft knees
+  Clinging, O tender treadings of soft feet,
+  Cheeks warm with little kissings--O child, child,
+  What have we made each other?  Lo, I felt
+  Thy weight cleave to me, a burden of beauty, O son,
+  Thy cradled brows and loveliest loving lips,
+  The floral hair, the little lightening eyes,
+  And all thy goodly glory; with mine hands
+  Delicately I fed thee, with my tongue
+  Tenderly spake, saying, Verily in God's time,
+  For all the little likeness of thy limbs,
+  Son, I shall make thee a kingly man to fight,
+  A lordly leader; and hear before I die,
+  'She bore the goodliest sword of all the world.'
+  Oh! oh!  For all my life turns round on me;
+  I am severed from myself, my name is gone,
+  My name that was a healing, it is changed,
+  My name is a consuming.  From this time,
+  Though mine eyes reach to the end of all these things,
+  My lips shall not unfasten till I die.
+
+
+    SEMICHORUS.
+
+    She has filled with sighing the city,
+      And the ways thereof with tears;
+    She arose, she girdled her sides,
+    She set her face as a bride's;
+    She wept, and she had no pity,
+      Trembled, and felt no fears.
+
+
+  SEMICHORUS.
+
+    Her eyes were clear as the sun,
+      Her brows were fresh as the day;
+    She girdled herself with gold,
+    Her robes were manifold;
+    But the days of her worship are done,
+      Her praise is taken away.
+
+
+  SEMICHORUS.
+
+    For she set her hand to the fire,
+      With her mouth she kindled the same,
+    As the mouth of a flute-player,
+    So was the mouth of her;
+    With the might of her strong desire
+      She blew the breath of the flame.
+
+
+  SEMICHORUS.
+
+    She set her hand to the wood,
+      She took the fire in her hand;
+    As one who is nigh to death,
+    She panted with strange breath;
+    She opened her lips unto blood,
+      She breathed and kindled the brand.
+
+
+  SEMICHORUS.
+
+    As a wood-dove newly shot,
+      She sobbed and lifted her breast;
+    She sighed and covered her eyes,
+    Filling her lips with sighs;
+    She sighed, she withdrew herself not,
+      She refrained not, taking not rest;
+
+
+  SEMICHORUS.
+
+    But as the wind which is drouth,
+      And as the air which is death,
+    As storm that severeth ships,
+    Her breath severing her lips,
+    The breath came forth of her mouth
+      And the fire came forth of her breath.
+
+
+  SECOND MESSENGER.
+
+  Queen, and you maidens, there is come on us
+  A thing more deadly than the face of death;
+  Meleager the good lord is as one slain.
+
+
+  SEMICHORUS.
+
+    Without sword, without sword is he stricken;
+      Slain, and slain without hand.
+
+
+  SECOND MESSENGER.
+
+  For as keen ice divided of the sun
+  His limbs divide, and as thawed snow the flesh
+  Thaws from off all his body to the hair.
+
+
+  SEMICHORUS.
+
+    He wastes as the embers quicken;
+      With the brand he fades as a brand
+  SECOND MESSENGER.
+
+  Even while they sang and all drew hither and he
+  Lifted both hands to crown the Arcadian's hair
+  And fix the looser leaves, both hands fell down.
+
+
+  SEMICHORUS.
+
+    With rending of cheek and of hair
+      Lament ye, mourn for him, weep.
+
+
+  SECOND MESSENGER.
+
+  Straightway the crown slid off and smote on earth,
+  First fallen; and he, grasping his own hair, groaned
+  And cast his raiment round his face and fell.
+
+
+  SEMICHORUS.
+
+    Alas for visions that were,
+      And soothsayings spoken in sleep.
+
+
+  SECOND MESSENGER.
+
+  But the king twitched his reins in and leapt down
+  And caught him, crying out twice 'O child' and thrice,
+  So that men's eyelids thickened with their tears.
+
+
+  SEMICHORUS.
+
+    Lament with a long lamentation,
+      Cry, for an end is at hand.
+
+
+  SECOND MESSENGER.
+
+  O son, he said, son, lift thine eyes, draw breath,
+  Pity me; but Meleager with sharp lips
+  Gasped, and his face waxed like as sunburnt grass.
+
+
+  SEMICHORUS.
+
+    Cry aloud, O thou kingdom, O nation,
+      O stricken, a ruinous land.
+
+
+  SECOND MESSENGER.
+
+  Whereat king Oeneus, straightening feeble knees,
+  With feeble hands heaved up a lessening weight,
+  And laid him sadly in strange hands, and wept.
+
+
+  SEMICHORUS.
+
+    Thou art smitten, her lord, her desire,
+      Thy dear blood wasted as rain.
+
+
+  SECOND MESSENGER.
+
+  And they with tears and rendings of the beard
+  Bear hither a breathing body, wept upon
+  And lightening at each footfall, sick to death.
+
+
+  SEMICHORUS.
+
+    Thou madest thy sword as a fire,
+      With fire for a sword thou art slain.
+
+
+  SECOND MESSENGER.
+
+  And lo, the feast turned funeral, and the crowns
+  Fallen; and the huntress and the hunter trapped;
+  And weeping and changed faces and veiled hair.
+  MELEAGER.
+
+    Let your hands meet
+      Round the weight of my head,
+    Lift ye my feet
+      As the feet of the dead;
+  For the flesh of my body is molten,
+            the limbs of it molten as lead.
+
+
+  CHORUS.
+
+    O thy luminous face,
+      Thine imperious eyes!
+    O the grief, O the grace,
+      As of day when it dies!
+  Who is this bending over thee, lord,
+            with tears and suppression of sighs?
+
+
+  MELEAGER.
+
+    Is a bride so fair?
+      Is a maid so meek?
+    With unchapleted hair,
+      With unfilleted cheek,
+  Atalanta, the pure among women,
+            whose name is as blessing to speak.
+
+
+  ATALANTA.
+
+    I would that with feet
+      Unsandaled, unshod,
+    Overbold, overfleet,
+      I had swum not nor trod
+  From Arcadia to Calydon northward,
+            a blast of the envy of God.
+
+
+  MELEAGER.
+
+    Unto each man his fate;
+      Unto each as he saith
+    In whose fingers the weight
+      Of the world is as breath;
+  Yet I would that in clamour of battle mine hands
+            had laid hold upon death.
+
+
+  CHORUS.
+
+    Not with cleaving of shields
+      And their clash in thine ear,
+    When the lord of fought fields
+      Breaketh spearshaft from spear,
+  Thou art broken, our lord, thou art broken;
+            with travail and labour and fear,
+
+
+  MELEAGER.
+
+    Would God he had found me
+      Beneath fresh boughs
+    Would God he had bound me
+      Unawares in mine house,
+  With light in mine eyes, and songs in my lips,
+            and a crown on my brows!
+
+
+  CHORUS.
+
+    Whence art thou sent from us?
+      Whither thy goal?
+    How art thou rent from us,
+      Thou that wert whole,
+  As with severing of eyelids and eyes,
+            as with sundering of body and soul!
+
+  MELEAGER.
+
+    My heart is within me
+      As an ash in the fire;
+    Whosoever hath seen me,
+      Without lute, without lyre,
+  Shall sing of me grievous things,
+            even things that were ill to desire.
+
+
+  CHORUS.
+
+    Who shall raise thee
+      From the house of the dead?
+    Or what man praise thee
+      That thy praise may be said?
+  Alas thy beauty! alas thy body! alas thine head!
+
+
+  MELEAGER.
+
+    But thou, O mother,
+      The dreamer of dreams,
+    Wilt thou bring forth another
+      To feel the sun's beams
+  When I move among shadows a shadow,
+            and wail by impassable streams?
+
+
+  OENEUS.
+
+    What thing wilt thou leave me
+      Now this thing is done?
+    A man wilt thou give me,
+      A son for my son,
+  For the light of mine eyes, the desire of my life,
+            the desirable one?
+
+
+  CHORUS.
+
+    Thou wert glad above others,
+      Yea, fair beyond word,
+    Thou wert glad among mothers;
+      For each man that heard
+  Of thee, praise there was added unto thee, as wings
+            to the feet of a bird.
+
+
+  OENEUS.
+
+    Who shall give back
+      Thy face of old years,
+    With travail made black,
+      Grown grey among fears,
+  Mother of sorrow, mother of cursing, mother of tears?
+
+
+  MELEAGER.
+
+    Though thou art as fire
+      Fed with fuel in vain,
+    My delight, my desire,
+      Is more chaste than the rain,
+  More pure than the dewfall, more holy than stars
+            are that live without stain.
+
+
+  ATALANTA.
+
+    I would that as water
+      My life's blood had thawn,
+    Or as winter's wan daughter
+      Leaves lowland and lawn
+  Spring-stricken, or ever mine eyes had beheld thee
+            made dark in thy dawn.
+
+
+  CHORUS.
+
+    When thou dravest the men
+      Of the chosen of Thrace,
+    None turned him again
+      Nor endured he thy face
+  Clothed round with the blush of the battle,
+            with light from a terrible place.
+
+
+  OENEUS.
+
+    Thou shouldst die as he dies
+      For whom none sheddeth tears;
+    Filling thine eyes
+      And fulfilling thine ears
+  With the brilliance of battle, the bloom and the beauty,
+            the splendour of spears.
+
+
+  CHORUS.
+
+    In the ears of the world
+      It is sung, it is told,
+    And the light thereof hurled
+      And the noise thereof rolled
+  From the Acroceraunian snow to the ford
+            of the fleece of gold.
+
+
+  MELEAGER.
+
+    Would God ye could carry me
+      Forth of all these;
+    Heap sand and bury me
+      By the Chersonese
+  Where the thundering Bosphorus answers
+            the thunder of Pontic seas.
+
+
+  OENEUS.
+
+    Dost thou mock at our praise
+      And the singing begun
+    And the men of strange days
+      Praising my son
+  In the folds of the hills of home,
+            high places of Calydon?
+
+
+  MELEAGER.
+
+    For the dead man no home is;
+      Ah, better to be
+    What the flower of the foam is
+      In fields of the sea,
+  That the sea-waves might be as my raiment,
+            the gulf-stream a garment for me.
+
+
+  CHORUS.
+
+    Who shall seek thee and bring
+      And restore thee thy day,
+    When the dove dipt her wing
+      And the oars won their way
+  Where the narrowing Symplegades whitened the straits
+            of Propontis with spray?
+
+
+  MELEAGER.
+
+    Will ye crown me my tomb
+      Or exalt me my name,
+    Now my spirits consume,
+      Now my flesh is a flame?
+  Let the sea slake it once, and men speak of me sleeping
+            to praise me or shame,
+
+
+  CHORUS.
+
+    Turn back now, turn thee,
+      As who turns him to wake;
+    Though the life in thee burn thee,
+      Couldst thou bathe it and slake
+  Where the sea-ridge of Helle hangs heavier,
+            and east upon west waters break?
+
+
+  MELEAGER.
+
+    Would the winds blow me back
+      Or the waves hurl me home?
+    Ah, to touch in the track
+      Where the pine learnt to roam
+  Cold girdles and crowns of the sea-gods,
+            cool blossoms of water and foam!
+
+
+  CHORUS.
+
+    The gods may release
+      That they made fast;
+    Thy soul shall have ease
+      In thy limbs at the last;
+  But what shall they give thee for life,
+            sweet life that is overpast?
+
+
+  MELEAGER.
+
+    Not the life of men's veins,
+      Not of flesh that conceives;
+    But the grace that remains,
+      The fair beauty that cleaves
+  To the life of the rains in the grasses,
+            the life of the dews on the leaves.
+
+
+  CHORUS.
+
+    Thou wert helmsman and chief,
+      Wilt thou turn in an hour,
+    Thy limbs to the leaf,
+      Thy face to the flower,
+  Thy blood to the water, thy soul to the gods
+            who divide and devour?
+
+
+  MELEAGER.
+
+    The years are hungry,
+      They wail all their days;
+    The gods wax angry
+      And weary of praise;
+  And who shall bridle their lips?
+            and who shall straiten their ways?
+
+
+  CHORUS.
+
+    The gods guard over us
+      With sword and with rod;
+    Weaving shadow to cover us,
+      Heaping the sod,
+  That law may fulfil herself wholly,
+            to darken man's face before God.
+
+
+  MELEAGER.
+
+  O holy head of Oeneus, lo thy son
+  Guiltless, yet red from alien guilt, yet foul
+  With kinship of contaminated lives,
+  Lo, for their blood I die; and mine own blood
+  For bloodshedding of mine is mixed therewith,
+  That death may not discern me from my kin.
+  Yet with clean heart I die and faultless hand,
+  Not shamefully; thou therefore of thy love
+  Salute me, and bid fare among the dead
+  Well, as the dead fare; for the best man dead
+  Fares sadly; nathless I now faring well
+  Pass without fear where nothing is to fear
+  Having thy love about me and thy goodwill,
+  O father, among dark places and men dead.
+
+
+  OENEUS.
+
+  Child, I salute thee with sad heart and tears,
+  And bid thee comfort, being a perfect man
+  In fight, and honourable in the house of peace.
+  The gods give thee fair wage and dues of death,
+  And me brief days and ways to come at thee.
+
+
+  MELEAGER.
+
+  Pray thou thy days be long before thy death,
+  And full of ease and kingdom; seeing in death
+  There is no comfort and none aftergrowth,
+  Nor shall one thence look up and see day's dawn
+  Nor light upon the land whither I go.
+  Live thou and take thy fill of days and die
+  When thy day comes; and make not much of death
+  Lest ere thy day thou reap an evil thing.
+  Thou too, the bitter mother and mother-plague
+  Of this my weary body--thou too, queen,
+  The source and end, the sower and the scythe,
+  The rain that ripens and the drought that slays,
+  The sand that swallows and the spring that feeds,
+  To make me and unmake me--thou, I say,
+  Althaea, since my father's ploughshare, drawn
+  Through fatal seedland of a female field,
+  Furrowed thy body, whence a wheaten ear
+  Strong from the sun and fragrant from the rains
+  I sprang and cleft the closure of thy womb,
+  Mother, I dying with unforgetful tongue
+  Hail thee as holy and worship thee as just
+  Who art unjust and unholy; and with my knees
+  Would worship, but thy fire and subtlety,
+  Dissundering them, devour me; for these limbs
+  Are as light dust and crumblings from mine urn
+  Before the fire has touched them; and my face
+  As a dead leaf or dead foot's mark on snow,
+  And all this body a broken barren tree
+  That was so strong, and all this flower of life
+  Disbranched and desecrated miserably,
+  And minished all that god-like muscle and might
+  And lesser than a man's: for all my veins
+  Fail me, and all mine ashen life burns down.
+  I would thou hadst let me live; but gods averse,
+  But fortune, and the fiery feet of change,
+  And time, these would not, these tread out my life,
+  These and not thou; me too thou hast loved, and I
+  Thee; but this death was mixed with all my life,
+  Mine end with my beginning: and this law,
+  This only, slays me, and not my mother at all.
+  And let no brother or sister grieve too sore,
+  Nor melt their hearts out on me with their tears,
+  Since extreme love and sorrowing overmuch
+  Vex the great gods, and overloving men
+  Slay and are slain for love's sake; and this house
+  Shall bear much better children; why should these
+  Weep? but in patience let them live their lives
+  And mine pass by forgotten: thou alone,
+  Mother, thou sole and only, thou not these,
+  Keep me in mind a little when I die
+  Because I was thy first-born; let thy soul
+  Pity me, pity even me gone hence and dead,
+  Though thou wert wroth, and though thou bear again
+  Much happier sons, and all men later born
+  Exceedingly excel me; yet do thou
+  Forget not, nor think shame; I was thy son.
+  Time was I did not shame thee, and time was
+  I thought to live and make thee honourable
+  With deeds as great as these men's; but they live,
+  These, and I die; and what thing should have been
+  Surely I know not; yet I charge thee, seeing
+  I am dead already, love me not the less,
+  Me, O my mother; I charge thee by these gods,
+  My father's, and that holier breast of thine,
+  By these that see me dying, and that which nursed,
+  Love me not less, thy first-born: though grief come,
+  Grief only, of me, and of all these great joy,
+  And shall come always to thee; for thou knowest,
+  O mother, O breasts that bare me, for ye know,
+  O sweet head of my mother, sacred eyes,
+  Ye know my soul albeit I sinned, ye know
+  Albeit I kneel not neither touch thy knees,
+  But with my lips I kneel, and with my heart
+  I fall about thy feet and worship thee.
+  And ye farewell now, all my friends; and ye,
+  Kinsmen, much younger and glorious more than I,
+  Sons of my mother's sister; and all farewell
+  That were in Colchis with me, and bare down
+  The waves and wars that met us: and though times
+  Change, and though now I be not anything,
+  Forget not me among you, what I did
+  In my good time; for even by all those days,
+  Those days and this, and your own living souls,
+  And by the light and luck of you that live,
+  And by this miserable spoil, and me
+  Dying, I beseech you, let my name not die.
+  But thou, dear, touch me with thy rose-like hands,
+  And fasten up mine eyelids with thy mouth,
+  A bitter kiss; and grasp me with thine arms,
+  Printing with heavy lips my light waste flesh,
+  Made light and thin by heavy-handed fate,
+  And with thine holy maiden eyes drop dew,
+  Drop tears for dew upon me who am dead,
+  Me who have loved thee; seeing without sin done
+  I am gone down to the empty weary house
+  Where no flesh is nor beauty nor swift eyes
+  Nor sound of mouth nor might of hands and feet,
+  But thou, dear, hide my body with thy veil,
+  And with thy raiment cover foot and head,
+  And stretch thyself upon me and touch hands
+  With hands and lips with lips: be pitiful
+  As thou art maiden perfect; let no man
+  Defile me to despise me, saying, This man
+  Died woman-wise, a woman's offering, slain
+  Through female fingers in his woof of life,
+  Dishonourable; for thou hast honoured me.
+  And now for God's sake kiss me once and twice
+  And let me go; for the night gathers me,
+  And in the night shall no man gather fruit.
+
+
+  ATALANTA.
+
+  Hail thou: but I with heavy face and feet
+  Turn homeward and am gone out of thine eyes.
+
+
+  CHORUS.
+
+  Who shall contend with his lords
+  Or cross them or do them wrong?
+  Who shall bind them as with cords?
+  Who shall tame them as with song?
+  Who shall smite them as with swords?
+  For the hands of their kingdom are strong.
+
+
+

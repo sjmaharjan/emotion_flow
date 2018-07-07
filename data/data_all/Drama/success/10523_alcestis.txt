@@ -1,0 +1,2814 @@
+
+
+
+
+Produced by Ted Garvin, Charles M. Bidwell and the Online Distributed
+Proofreading Team.
+
+
+
+
+
+THE ALCESTIS
+
+OF
+
+EURIPIDES
+
+
+
+TRANSLATED INTO ENGLISH RHYMING VERSE
+
+WITH EXPLANATORY NOTES BY
+
+GILBERT MURRAY, LL D, D LITT, FBA
+
+REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD
+
+
+
+
+1915
+
+
+
+INTRODUCTION
+
+The _Alcestis_ would hardly confirm its author's right to be
+acclaimed "the most tragic of the poets." It is doubtful whether one can
+call it a tragedy at all. Yet it remains one of the most characteristic
+and delightful of Euripidean dramas, as well as, by modern standards, the
+most easily actable. And I notice that many judges who display nothing but
+a fierce satisfaction in sending other plays of that author to the block
+or the treadmill, show a certain human weakness in sentencing the gentle
+daughter of Pelias.
+
+The play has been interpreted in many different ways. There is the old
+unsophisticated view, well set forth in Paley's preface of 1872. He
+regards the _Alcestis_ simply as a triumph of pathos, especially of
+"that peculiar sort of pathos which comes most home to us, with our views
+and partialities for domestic life.... As for the characters, that of
+Alcestis must be acknowledged to be pre-eminently beautiful. One could
+almost imagine that Euripides had not yet conceived that bad opinion of
+the sex which so many of the subsequent dramas exhibit.... But the rest
+are hardly well-drawn, or, at least, pleasingly portrayed." "The poet
+might perhaps, had he pleased, have exhibited Admetus in a more amiable
+point of view."
+
+This criticism is not very trenchant, but its weakness is due, I think,
+more to timidity of statement than to lack of perception. Paley does see
+that a character may be "well-drawn" without necessarily being "pleasing";
+and even that he may be eminently pleasing as a part of the play while
+very displeasing in himself. He sees that Euripides may have had his own
+reasons for not making Admetus an ideal husband. It seems odd that such
+points should need mentioning; but Greek drama has always suffered from a
+school of critics who approach a play with a greater equipment of
+aesthetic theory than of dramatic perception. This is the characteristic
+defect of classicism. One mark of the school is to demand from dramatists
+heroes and heroines which shall satisfy its own ideals; and, though there
+was in the New Comedy a mask known to Pollux as "The Entirely-good Young
+Man" ([Greek: panchraestos neaniskos]), such a character is fortunately
+unknown to classical Greek drama.
+
+The influence of this "classicist" tradition has led to a timid and
+unsatisfying treatment of the _Alcestis_, in which many of the most
+striking and unconventional features of the whole composition were either
+ignored or smoothed away. As a natural result, various lively-minded
+readers proceeded to overemphasize these particular features, and were
+carried into eccentricity or paradox. Alfred Schoene, for instance, fixing
+his attention on just those points which the conventional critic passed
+over, decides simply that the _Alcestis_ is a parody, and finds it
+very funny. (_Die Alkestis von Euripides_, Kiel, 1895.)
+
+I will not dwell on other criticisms of this type. There are those who
+have taken the play for a criticism of contemporary politics or the
+current law of inheritance. Above all there is the late Dr. Verrall's
+famous essay in _Euripides the Rationalist_, explaining it as a
+psychological criticism of a supposed Delphic miracle, and arguing that
+Alcestis in the play does not rise from the dead at all. She had never
+really died; she only had a sort of nervous catalepsy induced by all the
+"suggestion" of death by which she was surrounded. Now Dr. Verrall's work,
+as always, stands apart. Even if wrong, it has its own excellence, its
+special insight and its extraordinary awakening power. But in general the
+effect of reading many criticisms on the _Alcestis_ is to make a
+scholar realize that, for all the seeming simplicity of the play,
+competent Grecians have been strangely bewildered by it, and that after
+all there is no great reason to suppose that he himself is more sensible
+than his neighbours.
+
+This is depressing. None the less I cannot really believe that, if we make
+patient use of our available knowledge, the _Alcestis_ presents any
+startling enigma. In the first place, it has long been known from the
+remnants of the ancient Didascalia, or official notice of production, that
+the _Alcestis_ was produced as the fourth play of a series; that is,
+it took the place of a Satyr-play. It is what we may call Pro-satyric.
+(See the present writer's introduction to the _Rhesus_.) And we
+should note for what it is worth the observation in the ancient Greek
+argument: "The play is somewhat satyr-like ([Greek: saturiphkoteron]). It
+ends in rejoicing and gladness against the tragic convention."
+
+Now we are of late years beginning to understand much better what a
+Satyr-play was. Satyrs have, of course, nothing to do with satire, either
+etymologically or otherwise. Satyrs are the attendant daemons who form the
+Komos, or revel rout, of Dionysus. They are represented in divers
+fantastic forms, the human or divine being mixed with that of some animal,
+especially the horse or wild goat. Like Dionysus himself, they are
+connected in ancient religion with the Renewal of the Earth in spring and
+the resurrection of the dead, a point which students of the
+_Alcestis_ may well remember. But in general they represent mere
+joyous creatures of nature, unthwarted by law and unchecked by
+self-control. Two notes are especially struck by them: the passions and
+the absurdity of half-drunken revellers, and the joy and mystery of the
+wild things in the forest.
+
+The rule was that after three tragedies proper there came a play, still in
+tragic diction, with a traditional saga plot and heroic characters, in
+which the Chorus was formed by these Satyrs. There was a deliberate clash,
+an effect of burlesque; but of course the clash must not be too brutal.
+Certain characters of the heroic saga are, so to speak, at home with
+Satyrs and others are not. To take our extant specimens of Satyr-plays,
+for instance: in the _Cyclops_ we have Odysseus, the heroic
+trickster; in the fragmentary _Ichneutae_ of Sophocles we have the
+Nymph Cyllene, hiding the baby Hermes from the chorus by the most
+barefaced and pleasant lying; later no doubt there was an entrance of the
+infant thief himself. Autolycus, Sisyphus, Thersites are all Satyr-play
+heroes and congenial to the Satyr atmosphere; but the most congenial of
+all, the one hero who existed always in an atmosphere of Satyrs and the
+Komos until Euripides made him the central figure of a tragedy, was
+Heracles.
+[Footnote: The character of Heracles in connexion with the Komos, already
+indicated by Wilamowitz and Dieterich (_Herakles_, pp. 98, ff.;
+_Pulcinella_, pp. 63, ff.), has been illuminatingly developed in an
+unpublished monograph by Mr. J.A.K. Thomson, of Aberdeen.]
+
+The complete Satyr-play had a hero of this type and a Chorus of Satyrs.
+But the complete type was refined away during the fifth century; and one
+stage in the process produced a play with a normal chorus but with one
+figure of the Satyric or "revelling" type. One might almost say the
+"comic" type if, for the moment, we may remember that that word is
+directly derived from 'Komos.'
+
+The _Alcestis_ is a very clear instance of this Pro-satyric class of
+play. It has the regular tragic diction, marked here and there (393,
+756, 780, etc.) by slight extravagances and forms of words which are
+sometimes epic and sometimes over-colloquial; it has a regular saga plot,
+which had already been treated by the old poet Phrynichus in his
+_Alcestis_, a play which is now lost but seems to have been Satyric;
+and it has one character straight from the Satyr world, the heroic
+reveller, Heracles. It is all in keeping that he should arrive tired,
+should feast and drink and sing; should be suddenly sobered and should go
+forth to battle with Death. It is also in keeping that the contest should
+have a half-grotesque and half-ghastly touch, the grapple amid the graves
+and the cracking ribs.
+
+       *       *       *       *       *
+
+So much for the traditional form. As for the subject, Euripides received
+it from Phrynichus, and doubtless from other sources. We cannot be sure of
+the exact form of the story in Phrynichus. But apparently it told how
+Admetus, King of Pherae in Thessaly, received from Apollo a special
+privilege which the God had obtained, in true Satyric style, by making the
+Three Fates drunk and cajoling them. This was that, when his appointed
+time for death came, he might escape if he could find some volunteer to
+die for him. His father and mother, from whom the service might have been
+expected, refused to perform it. His wife, Alcestis, though no blood
+relation, handsomely undertook it and died. But it so happened that
+Admetus had entertained in his house the demi-god, Heracles; and when
+Heracles heard what had happened, he went out and wrestled with Death,
+conquered him, and brought Alcestis home.
+
+Given this form and this story, the next question is: What did Euripides
+make of them? The general answer is clear: he has applied his usual
+method. He accepts the story as given in the tradition, and then
+represents it in his own way. When the tradition in question is really
+heroic, we know what his way is. He preserves, and even emphasizes, the
+stateliness and formality of the Attic stage conventions; but, in the
+meantime, he has subjected the story and its characters to a keener study
+and a more sensitive psychological judgment than the simple things were
+originally meant to bear. So that many characters which passed as heroic,
+or at least presentable, in the kindly remoteness of legend, reveal some
+strange weakness when brought suddenly into the light. When the tradition
+is Satyric, as here, the same process produces almost an opposite effect.
+It is somewhat as though the main plot of a gross and jolly farce were
+pondered over and made more true to human character till it emerged as a
+refined and rather pathetic comedy. The making drunk of the Three Grey
+Sisters disappears; one can only just see the trace of its having once
+been present. The revelling of Heracles is touched in with the lightest of
+hands; it is little more than symbolic. And all the figures in the story,
+instead of being left broadly comic or having their psychology neglected,
+are treated delicately, sympathetically, with just that faint touch of
+satire, or at least of amusement, which is almost inseparable from a close
+interest in character.
+
+What was Admetus really like, this gallant prince who had won the
+affection of such great guests as Apollo and Heracles, and yet went round
+asking other people to die for him; who, in particular, accepted his
+wife's monstrous sacrifice with satisfaction and gratitude? The play
+portrays him well. Generous, innocent, artistic, affectionate, eloquent,
+impulsive, a good deal spoilt, unconsciously insincere, and no doubt
+fundamentally selfish, he hates the thought of dying and he hates losing
+his wife almost as much. Why need she die? Why could it not have been some
+one less important to him? He feels with emotion what a beautiful act it
+would have been for his old father. "My boy, you have a long and happy
+life before you, and for me the sands are well-nigh run out. Do not seek
+to dissuade me. I will die for you." Admetus could compose the speech for
+him. A touching scene, a noble farewell, and all the dreadful trouble
+solved--so conveniently solved! And the miserable self-blinded old man
+could not see it!
+
+Euripides seems to have taken positive pleasure in Admetus, much as
+Meredith did in his famous Egoist; but Euripides all through is kinder to
+his victim than Meredith is. True, Admetus is put to obvious shame,
+publicly and helplessly. The Chorus make discreet comments upon him.
+The Handmaid is outspoken about him. One feels that Alcestis herself, for
+all her tender kindness, has seen through him. Finally, to make things
+quite clear, his old father fights him openly, tells him home-truth upon
+home-truth, tears away all his protective screens, and leaves him with his
+self-respect in tatters. It is a fearful ordeal for Admetus, and, after
+his first fury, he takes it well. He comes back from his wife's burial a
+changed man. He says not much, but enough. "I have done wrong. I have only
+now learnt my lesson. I imagined I could save my happy life by forfeiting
+my honour; and the result is that I have lost both." I think that a
+careful reading of the play will show an almost continuous process of
+self-discovery and self-judgment in the mind of Admetus. He was a man who
+blinded himself with words and beautiful sentiments; but he was not
+thick-skinned or thick-witted. He was not a brute or a cynic. And I think
+he did learn his lesson ... not completely and for ever, but as well as
+most of us learn such lessons.
+
+The beauty of Alcestis is quite untouched by the dramatist's keener
+analysis. The strong light only increases its effect. Yet she is not by
+any means a mere blameless ideal heroine; and the character which
+Euripides gives her makes an admirable foil to that of Admetus. Where he
+is passionate and romantic, she is simple and homely. While he is still
+refusing to admit the facts and beseeching her not to "desert" him, she in
+a gentle but businesslike way makes him promise to take care of the
+children and, above all things, not to marry again. She could not possibly
+trust Admetus's choice. She is sure that the step-mother would be unkind
+to the children. She might be a horror and beat them (l. 307). And when
+Admetus has made a thrilling answer about eternal sorrow, and the
+silencing of lyre and lute, and the statue who shall be his only bride,
+Alcestis earnestly calls the attention of witnesses to the fact that he
+has sworn not to marry again. She is not an artist like Admetus. There is
+poetry in her, because poetry comes unconsciously out of deep feeling, but
+there is no artistic eloquence. Her love, too, is quite different from
+his. To him, his love for his wife and children is a beautiful thing, a
+subject to speak and sing about as well as an emotion to feel. But her
+love is hardly conscious. She does not talk about it at all. She is merely
+wrapped up in the welfare of certain people, first her husband and then he
+children. To a modern romantic reader her insistence that her husband
+shall not marry again seems hardly delicate. But she does not think about
+romance or delicacy. To her any neglect to ensure due protection for the
+children would be as unnatural as to refuse to die for her husband.
+Indeed, Professor J.L. Myres has suggested that care for the children's
+future is the guiding motive of her whole conduct. There was first the
+danger of their being left fatherless, a dire calamity in the heroic age.
+She could meet that danger by dying herself. Then followed the danger of a
+stepmother. She meets that by making Admetus swear never to marry. In the
+long run, I fancy, the effect of gracious loveliness which Alcestis
+certainly makes is not so much due to any words of her own as to what the
+Handmaid and the Serving Man say about her. In the final scene she is
+silent; necessarily and rightly silent, for all tradition knows that those
+new-risen from the dead must not speak. It will need a long _rite de
+passage_ before she can freely commune with this world again. It is a
+strange and daring scene between the three of them; the humbled and
+broken-hearted husband; the triumphant Heracles, kindly and wise, yet
+still touched by the mocking and blustrous atmosphere from which he
+sprang; and the silent woman who has seen the other side of the grave.
+It was always her way to know things but not to speak of them.
+
+The other characters fall easily into their niches. We have only to
+remember the old Satyric tradition and to look at them in the light of
+their historical development. Heracles indeed, half-way on his road from
+the roaring reveller of the Satyr-play to the suffering and erring
+deliverer of tragedy, is a little foreign to our notions, but quite
+intelligible and strangely attractive. The same historical method seems to
+me to solve most of the difficulties which have been felt about Admetus's
+hospitality. Heracles arrives at the castle just at the moment when
+Alcestis is lying dead in her room; Admetus conceals the death from him
+and insists on his coming in and enjoying himself. What are we to think of
+this behaviour? Is it magnificent hospitality, or is it gross want of
+tact? The answer, I think, is indicated above.
+
+In the uncritical and boisterous atmosphere of the Satyr-play it was
+natural hospitality, not especially laudable or surprising. From the
+analogy of similar stories I suspect that Admetus originally did not know
+his guest, and received not so much the reward of exceptional virtue as
+the blessing naturally due to those who entertain angels unawares. If we
+insist on asking whether Euripides himself, in real life or in a play of
+his own free invention, would have considered Admetus's conduct to
+Heracles entirely praiseworthy, the answer will certainly be No, but it
+will have little bearing on the play. In the _Alcestis_, as it stands, the
+famous act of hospitality is a datum of the story. Its claims are admitted
+on the strength of the tradition. It was the act for which Admetus was
+specially and marvellously rewarded; therefore, obviously, it was an act
+of exceptional merit and piety. Yet the admission is made with a smile,
+and more than one suggestion is allowed to float across the scene that in
+real life such conduct would be hardly wise.
+
+Heracles, who rose to tragic rank from a very homely cycle of myth, was
+apt to bring other homely characters with him. He was a great killer not
+only of malefactors but of "keres" or bogeys, such as "Old Age" and "Ague"
+and the sort of "Death" that we find in this play. Thanatos is not a god,
+not at all a King of Terrors. One may compare him with the dancing
+skeleton who is called Death in mediaeval writings. When such a figure
+appears on the tragic stage one asks at once what relation he bears to
+Hades, the great Olympian king of the unseen. The answer is obvious.
+Thanatos is the servant of Hades, a "priest" or sacrificer, who is sent to
+fetch the appointed victims.
+
+The other characters speak for themselves. Certainly Pheres can be trusted
+to do so, though we must remember that we see him at an unfortunate
+moment. The aged monarch is not at his best, except perhaps in mere
+fighting power. I doubt if he was really as cynical as he here professes
+to be.
+
+       *       *       *       *       *
+
+In the above criticisms I feel that I may have done what critics are so
+apt to do. I have dwelt on questions of intellectual interest and perhaps
+thereby diverted attention from that quality in the play which is the most
+important as well as by far the hardest to convey; I mean the sheer beauty
+and delightfulness of the writing. It is the earliest dated play of
+Euripides which has come down to us. True, he was over forty when he
+produced it, but it is noticeably different from the works of his old age.
+The numbers are smoother, the thought less deeply scarred, the language
+more charming and less passionate. If it be true that poetry is bred out
+of joy and sorrow, one feels as if more enjoyment and less suffering had
+gone to the making of the _Alcestis_ than to that of the later plays.
+
+
+
+
+ALCESTIS
+
+
+
+CHARACTERS OF THE PLAY
+
+
+ADMETUS, _King of Pherae in Thessaly_.
+ALCESTIS, _daughter of Pelias, his wife_.
+PHERES, _his father, formerly King but now in retirement_.
+TWO CHILDREN, _his son and daughter_.
+A MANSERVANT _in his house_.
+A HANDMAID.
+
+The Hero HERACLES.
+The God APOLLO.
+THANATOS _or_ DEATH.
+CHORUS, _consisting of Elders of Pherae_.
+
+
+"_The play was first performed when Glaukinos was Archon, in the 2nd
+year of the 85th Olympiad_ (438 B.C.). _Sophocles was first,
+Euripides second with the Cretan Women, Alcmaeon in Psophis, Telephus and
+Alcestis.... The play is somewhat Satyric in character._"
+
+
+
+ALCESTIS
+
+
+_The scene represents the ancient Castle of_ ADMETUS _near Pherae
+in Thessaly. It is the dusk before dawn_; APOLLO, _radiant in the
+darkness, looks at the Castle._
+
+
+APOLLO.
+Admetus' House! 'Twas here I bowed my head
+Of old, and chafed not at the bondman's bread,
+Though born in heaven. Aye, Zeus to death had hurled
+My son, Asclepios, Healer of the World,
+Piercing with fire his heart; and in mine ire
+I slew his Cyclop churls, who forged the fire.
+Whereat Zeus cast me forth to bear the yoke
+Of service to a mortal. To this folk
+I came, and watched a stranger's herd for pay,
+And all his house I have prospered to this day.
+For innocent was the Lord I chanced upon
+And clean as mine own heart, King Pheres' son,
+Admetus. Him I rescued from the grave,
+Beguiling the Grey Sisters till they gave
+A great oath that Admetus should go free,
+Would he but pay to Them Below in fee
+Another living soul. Long did he prove
+All that were his, and all that owed him love,
+But never a soul he found would yield up life
+And leave the sunlight for him, save his wife:
+Who, even now, down the long galleries
+Is borne, death-wounded; for this day it is
+She needs must pass out of the light and die.
+And, seeing the stain of death must not come nigh
+My radiance, I must leave this house I love.
+  But ha! The Headsman of the Pit, above
+Earth's floor, to ravish her! Aye, long and late
+He hath watched, and cometh at the fall of fate.
+
+_Enter from the other side_ THANATOS; _a crouching black-haired and
+winged figure, carrying a drawn sword. He starts in revulsion on
+seeing_ APOLLO.
+
+
+THANATOS.
+Aha!
+Why here? What mak'st thou at the gate,
+  Thou Thing of Light? Wilt overtread
+The eternal judgment, and abate
+  And spoil the portions of the dead?
+'Tis not enough for thee to have blocked
+  In other days Admetus' doom
+With craft of magic wine, which mocked
+  The three grey Sisters of the Tomb;
+    But now once more
+  I see thee stand at watch, and shake
+  That arrow-armed hand to make
+This woman thine, who swore, who swore,
+  To die now for her husband's sake.
+
+
+APOLLO.
+Fear not.
+I bring fair words and seek but what is just.
+
+THANATOS (_sneering_)
+And if words help thee not, an arrow must?
+
+APOLLO.
+'Tis ever my delight to bear this bow.
+
+THANATOS.
+And aid this house unjustly? Aye, 'tis so.
+
+APOLLO.
+I love this man, and grieve for his dismay.
+
+THANATOS.
+And now wilt rob me of my second prey!
+
+APOLLO.
+I never robbed thee, neither then nor now.
+
+THANATOS.
+Why is Admetus here then, not below?
+
+APOLLO.
+He gave for ransom his own wife, for whom ...
+
+THANATOS (_interrupting_).
+I am come; and straight will bear her to the tomb.
+
+APOLLO.
+Go, take her.--I can never move thine heart.
+
+THANATOS (_mocking_).
+To slay the doomed?--Nay; I will do my part.
+
+APOLLO.
+No. To keep death for them that linger late.
+
+THANATOS (_still mocking_).
+'Twould please thee, so?... I owe thee homage great.
+
+APOLLO.
+Ah, then she may yet ... she may yet grow old?
+
+THANATOS (_with a laugh_).
+No!... I too have my rights, and them I hold.
+
+APOLLO.
+'Tis but one life thou gainest either-wise.
+
+THANATOS.
+When young souls die, the richer is my prize.
+
+APOLLO.
+Old, with great riches they will bury her.
+
+THANATOS.
+Fie on thee, fie! Thou rich-man's lawgiver!
+
+APOLLO.
+How? Is there wit in Death, who seemed so blind?
+
+THANATOS.
+The rich would buy long life for all their kind.
+
+APOLLO.
+Thou will not grant me, then, this boon? 'Tis so?
+
+THANATOS.
+Thou knowest me, what I am: I tell thee, no!
+
+APOLLO.
+I know gods sicken at thee and men pine.
+
+THANATOS.
+Begone! Too many things not meant for thine
+Thy greed hath conquered; but not all, not all!
+
+APOLLO.
+I swear, for all thy bitter pride, a fall
+Awaits thee. One even now comes conquering
+Towards this house, sent by a southland king
+To fetch him four wild coursers, of the race
+Which rend men's bodies in the winds of Thrace.
+This house shall give him welcome good, and he
+Shall wrest this woman from thy worms and thee.
+So thou shalt give me all, and thereby win
+But hatred, not the grace that might have been.
+                                       [_Exit_ APOLLO.]
+
+THANATOS.
+Talk on, talk on! Thy threats shall win no bride
+From me.--This woman, whatsoe'er betide,
+Shall lie in Hades' house. Even at the word
+I go to lay upon her hair my sword.
+For all whose head this grey sword visiteth
+To death are hallowed and the Lords of death.
+
+ [THANATOS _goes into the house. Presently, as the day grows lighter,
+the_ CHORUS _enters: it consists of Citizens of Pherae, who speak
+severally._]
+
+
+CHORUS.
+
+LEADER.
+Quiet, quiet, above, beneath!
+
+SECOND ELDER.
+The house of Admetus holds its breath.
+
+THIRD ELDER.
+And never a King's friend near,
+To tell us either of tears to shed
+For Pelias' daughter, crowned and dead;
+  Or joy, that her eyes are clear.
+Bravest, truest of wives is she
+That I have seen or the world shall see.
+
+DIVERS CITIZENS, _conversing_.
+(The dash -- indicates a new speaker.)
+
+--Hear ye no sob, or noise of hands
+    Beating the breast? No mourners' cries
+      For one they cannot save?
+--Nothing: and at the door there stands
+    No handmaid.--Help, O Paian; rise,
+      O star beyond the wave!
+
+--Dead, and this quiet? No, it cannot be.
+--Dead, dead!--Not gone to burial secretly!
+
+--Why? I still fear: what makes your speech so brave?
+--Admetus cast that dear wife to the grave
+      Alone, with none to see?
+
+--I see no bowl of clear spring water.
+    It ever stands before the dread
+      Door where a dead man rests.
+--No lock of shorn hair! Every daughter
+    Of woman shears it for the dead.
+      No sound of bruised breasts!
+
+--Yet 'tis this very day ...--This very day?
+--The Queen should pass and lie beneath the clay.
+--It hurts my life, my heart!--All honest hearts
+  Must sorrow for a brightness that departs,
+      A good life worn away.
+
+LEADER.
+To wander o'er leagues of land,
+  To search over wastes of sea,
+Where the Prophets of Lycia stand,
+  Or where Ammon's daughters three
+Make runes in the rainless sand,
+  For magic to make her free--
+    Ah, vain! for the end is here;
+    Sudden it comes and sheer.
+What lamb on the altar-strand
+  Stricken shall comfort me?
+
+SECOND ELDER.
+Only, only one, I know:
+  Apollo's son was he,
+Who healed men long ago.
+  Were he but on earth to see,
+She would rise from the dark below
+  And the gates of eternity.
+    For men whom the Gods had slain
+    He pitied and raised again;
+Till God's fire laid him low,
+And now, what help have we?
+
+OTHERS.
+All's done that can be. Every vow
+Full paid; and every altar's brow
+  Full crowned with spice of sacrifice.
+No help remains nor respite now.
+
+_Enter from the Castle a_ HANDMAID, _almost in tears._
+
+LEADER.
+But see, a handmaid cometh, and the tear
+Wet on her cheek! What tiding shall we hear?...
+  Thy grief is natural, daughter, if some ill
+Hath fallen to-day. Say, is she living still
+Or dead, your mistress? Speak, if speak you may.
+
+MAID.
+Alive. No, dead.... Oh, read it either way.
+
+LEADER.
+Nay, daughter, can the same soul live and die?
+
+MAID.
+Her life is broken; death is in her eye.
+
+LEADER.
+Poor King, to think what she was, and what thou!
+
+MAID.
+He never knew her worth.... He will know it now.
+
+LEADER.
+There is no hope, methinks, to save her still?
+
+MAID.
+The hour is come, and breaks all human will.
+
+LEADER.
+She hath such tendance as the dying crave?
+
+MAID.
+For sure: and rich robes ready for her grave.
+
+LEADER.
+'Fore God, she dies high-hearted, aye, and far
+In honour raised above all wives that are!
+
+MAID.
+Far above all! How other? What must she,
+Who seeketh to surpass this woman, be?
+Or how could any wife more shining make
+Her lord's love, than by dying for his sake?
+But thus much all the city knows. 'Tis here,
+In her own rooms, the tale will touch thine ear
+With strangeness. When she knew the day was come,
+She rose and washed her body, white as foam,
+With running water; then the cedarn press
+She opened, and took forth her funeral dress
+And rich adornment. So she stood arrayed
+Before the Hearth-Fire of her home, and prayed:
+"Mother, since I must vanish from the day,
+This last, last time I kneel to thee and pray;
+Be mother to my two children! Find some dear
+Helpmate for him, some gentle lord for her.
+And let not them, like me, before their hour
+Die; let them live in happiness, in our
+Old home, till life be full and age content."
+  To every household altar then she went
+And made for each his garland of the green
+Boughs of the wind-blown myrtle, and was seen
+Praying, without a sob, without a tear.
+She knew the dread thing coming, but her clear
+Cheek never changed: till suddenly she fled
+Back to her own chamber and bridal bed:
+Then came the tears and she spoke all her thought.
+  "O bed, whereon my laughing girlhood's knot
+Was severed by this man, for whom I die,
+Farewell! 'Tis thou ... I speak not bitterly....
+'Tis thou hast slain me. All alone I go
+Lest I be false to him or thee. And lo,
+Some woman shall lie here instead of me--
+Happier perhaps; more true she cannot be."
+  She kissed the pillow as she knelt, and wet
+With flooding tears was that fair coverlet.
+  At last she had had her fill of weeping; then
+She tore herself away, and rose again,
+Walking with downcast eyes; yet turned before
+She had left the room, and cast her down once more
+Kneeling beside the bed. Then to her side
+The children came, and clung to her and cried,
+And her arms hugged them, and a long good-bye
+She gave to each, like one who goes to die.
+The whole house then was weeping, every slave
+In sorrow for his mistress. And she gave
+Her hand to all; aye, none so base was there
+She gave him not good words and he to her.
+  So on Admetus falls from either side
+Sorrow. 'Twere bitter grief to him to have died
+Himself; and being escaped, how sore a woe
+He hath earned instead--Ah, some day he shall know!
+
+LEADER.
+Surely Admetus suffers, even to-day,
+For this true-hearted love he hath cast away?
+
+MAID.
+He weeps; begs her not leave him desolate,
+And holds her to his heart--too late, too late!
+She is sinking now, and there, beneath his eye
+Fading, the poor cold hand falls languidly,
+And faint is all her breath. Yet still she fain
+Would look once on the sunlight--once again
+And never more. I will go in and tell
+Thy presence. Few there be, will serve so well
+My master and stand by him to the end.
+But thou hast been from olden days our friend.
+                            [_The_ MAID _goes in_.]
+
+CHORUS.
+
+THIRD ELDER.
+    O Zeus,
+What escape and where
+  From the evil thing?
+How break the snare
+  That is round our King?
+
+SECOND ELDER.
+    Ah list!
+One cometh?... No.
+  Let us no more wait;
+    Make dark our raiment
+      And shear this hair.
+
+LEADER.
+    Aye, friends!
+'Tis so, even so.
+  Yet the gods are great
+    And may send allayment.
+      To prayer, to prayer!
+
+ALL (_praying_).
+      O Paian wise!
+Some healing of this home devise, devise!
+Find, find.... Oh, long ago when we were blind
+  Thine eyes saw mercy ... find some healing breath!
+Again, O Paian, break the chains that bind;
+  Stay the red hand of Death!
+
+LEADER.
+    Alas!
+What shame, what dread,
+  Thou Pheres' son,
+Shalt be harvested
+  When thy wife is gone!
+
+SECOND ELDER.
+    Ah me;
+For a deed less drear
+  Than this thou ruest
+    Men have died for sorrow;
+      Aye, hearts have bled.
+
+THIRD ELDER.
+    'Tis she;
+Not as men say dear,
+  But the dearest, truest,
+    Shall lie ere morrow
+      Before thee dead!
+
+ALL.
+    But lo! Once more!
+She and her husband moving to the door!
+Cry, cry! And thou, O land of Pherae, hearken!
+  The bravest of women sinketh, perisheth,
+Under the green earth, down where the shadows darken,
+  Down to the House of Death!
+
+[_During the last words_ ADMETUS _and_ ALCESTIS _have entered_.
+ALCESTIS _is supported by her Handmaids and followed by her
+two children._]
+
+LEADER.
+And who hath said that Love shall bring
+  More joy to man than fear and strife?
+I knew his perils from of old,
+I know them now, when I behold
+  The bitter faring of my King,
+Whose love is taken, and his life
+  Left evermore an empty thing.
+
+ALCESTIS.
+  O Sun, O light of the day that falls!
+O running cloud that races along the sky!
+
+ADMETUS.
+They look on thee and me, a stricken twain,
+Who have wrought no sin that God should have thee slain.
+
+ALCESTIS.
+  Dear Earth, and House of sheltering walls,
+And wedded homes of the land where my fathers lie!
+
+ADMETUS.
+Fail not, my hapless one. Be strong, and pray
+The o'er-mastering Gods to hate us not alway.
+
+ALCESTIS (_faintly, her mind wandering_).
+A boat two-oared, upon water; I see, I see.
+  And the Ferryman of the Dead,
+His hand that hangs on the pole, his voice that cries;
+"Thou lingerest; come. Come quickly, we wait for thee."
+  He is angry that I am slow; he shakes his head.
+
+ADMETUS.
+Alas, a bitter boat-faring for me,
+My bride ill-starred.--Oh, this is misery!
+
+ALCESTIS (_as before_).
+Drawing, drawing! 'Tis some one that draweth me ...
+  To the Palaces of the Dead.
+So dark. The wings, the eyebrows and ah, the eyes!...
+  Go back! God's mercy! What seekest thou? Let me be!...
+(_Recovering_) Where am I? Ah, and what paths are these I tread?
+
+ADMETUS.
+Grievous for all who love thee, but for me
+And my two babes most hard, most solitary.
+
+ALCESTIS.
+  Hold me not; let me lie.--
+I am too weak to stand; and Death is near,
+And a slow darkness stealing on my sight.
+  My little ones, good-bye.
+Soon, soon, and mother will be no more here....
+Good-bye, two happy children in the light.
+
+ADMETUS.
+Oh, word of pain, oh, sharper ache
+  Than any death of mine had brought!
+  For the Gods' sake, desert me not,
+For thine own desolate children's sake.
+Nay, up! Be brave. For if they rend
+  Thee from me, I can draw no breath;
+  In thy hand are my life and death,
+Thine, my beloved and my friend!
+
+ALCESTIS.
+Admetus, seeing what way my fortunes lie,
+I fain would speak with thee before I die.
+I have set thee before all things; yea, mine own
+Life beside thine was naught. For this alone
+I die.... Dear Lord, I never need have died.
+I might have lived to wed some prince of pride,
+Dwell in a king's house.... Nay, how could I, torn
+From thee, live on, I and my babes forlorn?
+I have given to thee my youth--not more nor less,
+But all--though I was full of happiness.
+Thy father and mother both--'tis strange to tell--
+Had failed thee, though for them the deed was well,
+The years were ripe, to die and save their son,
+The one child of the house: for hope was none,
+If thou shouldst pass away, of other heirs.
+So thou and I had lived through the long years,
+Both. Thou hadst not lain sobbing here alone
+For a dead wife and orphan babes.... 'Tis done
+Now, and some God hath wrought out all his will.
+  Howbeit I now will ask thee to fulfill
+One great return-gift--not so great withal
+As I have given, for life is more than all;
+But just and due, as thine own heart will tell.
+For thou hast loved our little ones as well
+As I have.... Keep them to be masters here
+In my old house; and bring no stepmother
+Upon them. She might hate them. She might be
+Some baser woman, not a queen like me,
+And strike them with her hand. For mercy, spare
+Our little ones that wrong. It is my prayer....
+They come into a house: they are all strife
+And hate to any child of the dead wife....
+  Better a serpent than a stepmother!
+A boy is safe. He has his father there
+To guard him. But a little girl! (_Taking the_ LITTLE GIRL
+  _to her_) What good
+And gentle care will guide thy maidenhood?
+What woman wilt thou find at father's side?
+One evil word from her, just when the tide
+Of youth is full, would wreck thy hope of love.
+And no more mother near, to stand above
+Thy marriage-bed, nor comfort thee pain-tossed
+In travail, when one needs a mother most!
+Seeing I must die.... 'Tis here, across my way,
+Not for the morrow, not for the third day,
+But now--Death, and to lie with things that were.
+  Farewell. God keep you happy.--Husband dear,
+Remember that I failed thee not; and you,
+My children, that your mother loved you true.
+
+LEADER.
+Take comfort. Ere thy lord can speak, I swear,
+If truth is in him, he will grant thy prayer.
+
+ADMETUS.
+He will, he will! Oh, never fear for me.
+Mine hast thou been, and mine shalt ever be,
+Living and dead, thou only. None in wide
+Hellas but thou shalt be Admetus' bride.
+No race so high, no face so magic-sweet
+Shall ever from this purpose turn my feet.
+And children ... if God grant me joy of these,
+'Tis all I ask; of thee no joy nor ease
+He gave me. And thy mourning I will bear
+Not one year of my life but every year,
+While life shall last.... My mother I will know
+No more. My father shall be held my foe.
+They brought the words of love but not the deed,
+While thou hast given thine all, and in my need
+Saved me. What can I do but weep alone,
+Alone alway, when such a wife is gone?...
+  An end shall be of revel, and an end
+Of crowns and song and mirth of friend with friend,
+Wherewith my house was glad. I ne'er again
+Will touch the lute nor ease my heart from pain
+With pipes of Afric. All the joys I knew,
+And joys were many, thou hast broken in two.
+Oh, I will find some artist wondrous wise
+Shall mould for me thy shape, thine hair, thine eyes,
+And lay it in thy bed; and I will lie
+Close, and reach out mine arms to thee, and cry
+Thy name into the night, and wait and hear
+My own heart breathe: "Thy love, thy love is near."
+A cold delight; yet it might ease the sum
+Of sorrow.... And good dreams of thee will come
+Like balm. 'Tis sweet, even in a dream, to gaze
+On a dear face, the moment that it stays.
+  O God, if Orpheus' voice were mine, to sing
+To Death's high Virgin and the Virgin's King,
+Till their hearts failed them, down would I my path
+Cleave, and naught stay me, not the Hound of Wrath,
+Not the grey oarsman of the ghostly tide,
+Till back to sunlight I had borne my bride.
+  But now, wife, wait for me till I shall come
+Where thou art, and prepare our second home.
+These ministers in that same cedar sweet
+Where thou art laid will lay me, feet to feet,
+And head to head, oh, not in death from thee
+Divided, who alone art true to me!
+
+LEADER.
+This life-long sorrow thou hast sworn, I too,
+Thy friend, will bear with thee. It is her due.
+
+ALCESTIS.
+Children, ye heard his promise? He will wed
+No other woman nor forget the dead.
+
+ADMETUS.
+Again I promise. So it shall be done.
+
+ALCESTIS (_giving the children into his arms one after the other_).
+On that oath take my daughter: and my son.
+
+ADMETUS.
+Dear hand that gives, I accept both gift and vow.
+
+ALCESTIS.
+Thou, in my place, must be their mother now.
+
+ADMETUS.
+Else were they motherless--I needs must try.
+
+ALCESTIS.
+My babes, I ought to live, and lo, I die.
+
+ADMETUS.
+And how can I, forlorn of thee, live on?
+
+ALCESTIS.
+Time healeth; and the dead are dead and gone.
+
+ADMETUS.
+Oh, take me with thee to the dark below,
+Me also!
+
+ALCESTIS.
+         'Tis enough that one should go.
+
+ADMETUS.
+O Fate, to have cheated me of one so true!
+
+ALCESTIS (_her strength failing_).
+There comes a darkness: a great burden, too.
+
+ADMETUS.
+I am lost if thou wilt leave me.... Wife! Mine own!
+
+ALCESTIS.
+I am not thy wife; I am nothing. All is gone.
+
+ADMETUS.
+Thy babes! Thou wilt not leave them.--Raise thine eye.
+
+ALCESTIS.
+I am sorry.... But good-bye, children; good-bye.
+
+ADMETUS.
+Look at them! Wake and look at them!
+
+
+ALCESTIS.
+                                      I must go.
+
+ADMETUS.
+What? Dying!
+
+ALCESTIS.
+             Farewell, husband!     [_She dies._]
+
+ADMETUS (_with a cry_).
+                                 Ah!... Woe, woe!
+
+LEADER.
+Admetus' Queen is dead!
+
+[_While_ ADMETUS _is weeping silently, and the_ CHORUS _veil
+their faces, the_ LITTLE BOY _runs up to his dead Mother_.]
+
+LITTLE BOY.
+Oh, what has happened? Mummy has gone away,
+  And left me and will not come back any more!
+Father, I shall be lonely all the day....
+  Look! Look! Her eyes ... and her arms not like before,
+    How they lie ...
+  Mother! Oh, speak a word!
+Answer me, answer me, Mother! It is I.
+  I am touching your face. It is I, your little bird.
+
+ADMETUS (_recovering himself and going to the Child_).
+She hears us not, she sees us not. We lie
+Under a heavy grief, child, thou and I.
+
+LITTLE BOY.
+I am so little, Father, and lonely and cold
+  Here without Mother. It is too hard.... And you,
+    Poor little sister, too.
+        Oh, Father!
+Such a little time we had her. She might have stayed
+  On till we all were old....
+Everything is spoiled when Mother is dead.
+
+[_The_ LITTLE BOY _is taken away, with his Sister, sobbing_.]
+
+LEADER.
+My King, thou needs must gird thee to the worst.
+Thou shalt not be the last, nor yet the first,
+To lose a noble wife. Be brave, and know
+To die is but a debt that all men owe.
+
+ADMETUS.
+I know. It came not without doubts and fears,
+This thing. The thought hath poisoned all my years.
+  Howbeit, I now will make the burial due
+To this dead Queen. Be assembled, all of you;
+And, after, raise your triumph-song to greet
+This pitiless Power that yawns beneath our feet.
+  Meantime let all in Thessaly who dread
+My sceptre join in mourning for the dead
+With temples sorrow-shorn and sable weed.
+Ye chariot-lords, ye spurrers of the steed,
+Shear close your horses' manes! Let there be found
+Through all my realm no lute, nor lyre, nor sound
+Of piping, till twelve moons are at an end.
+For never shall I lose a closer friend,
+Nor braver in my need. And worthy is she
+Of honour, who alone hath died for me.
+
+[_The body of_ ALCESTIS _is carried into the house by mourners;_
+ADMETUS _follows it._]
+
+CHORUS.
+Daughter of Pelias, fare thee well,
+  May joy be thine in the Sunless Houses!
+For thine is a deed which the Dead shall tell
+  Where a King black-browed in the gloom carouses;
+    And the cold grey hand at the helm and oar
+    Which guideth shadows from shore to shore,
+Shall bear this day o'er the Tears that Well,
+  A Queen of women, a spouse of spouses.
+
+Minstrels many shall praise thy name
+  With lyre full-strung and with voices lyreless,
+When Mid-Moon riseth, an orbed flame,
+  And from dusk to dawning the dance is tireless;
+    And Carnos cometh to Sparta's call,
+    And Athens shineth in festival;
+For thy death is a song, and a fullness of fame,
+  Till the heart of the singer is left desireless.
+
+LEADER.
+Would I could reach thee, oh,
+  Reach thee and save, my daughter,
+Starward from gulfs of Hell,
+Past gates, past tears that swell,
+Where the weak oar climbs thro'
+  The night and the water!
+
+SECOND ELDER.
+Beloved and lonely one,
+  Who feared not dying:
+Gone in another's stead
+Alone to the hungry dead:
+Light be the carven stone
+  Above thee lying!
+
+THIRD ELDER.
+Oh, he who should seek again
+  A new bride after thee,
+Were loathed of thy children twain,
+  And loathed of me.
+
+LEADER.
+Word to his mother sped,
+  Praying to her who bore him;
+Word to his father, old,
+Heavy with years and cold;
+"Quick, ere your son be dead!
+  What dare ye for him?"
+
+SECOND ELDER.
+Old, and they dared not; grey,
+  And they helped him never!
+'Twas she, in her youth and pride,
+Rose up for her lord and died.
+Oh, love of two hearts that stay
+  One-knit for ever....
+
+THIRD ELDER.
+'Tis rare in the world! God send
+  Such bride in my house to be;
+She should live life to the end,
+  Not fail through me.
+
+[_As the song ceases there enters a stranger, walking strongly, but
+travel-stained, dusty, and tired. His lion-skin and club show him to
+be_ HERACLES.]
+
+HERACLES.
+Ho, countrymen! To Pherae am I come
+By now? And is Admetus in his home?
+
+LEADER.
+Our King is in his house, Lord Heracles.--
+But say, what need brings thee in days like these
+To Thessaly and Pherae's walled ring?
+
+HERACLES.
+A quest I follow for the Argive King.
+
+LEADER.
+What prize doth call thee, and to what far place?
+
+HERACLES.
+The horses of one Diomede, in Thrace.
+
+LEADER.
+But how...? Thou know'st not? Is he strange to thee?
+
+HERACLES.
+Quite strange. I ne'er set foot in Bistony.
+
+LEADER.
+Not without battle shalt thou win those steeds.
+
+HERACLES.
+So be it! I cannot fail my master's needs.
+
+LEADER.
+'Tis slay or die, win or return no more.
+
+HERACLES.
+Well, I have looked on peril's face before.
+
+LEADER.
+What profit hast thou in such manslaying?
+
+HERACLES.
+I shall bring back the horses to my King.
+
+LEADER.
+'Twere none such easy work to bridle them.
+
+HERACLES.
+Not easy? Have they nostrils breathing flame?
+
+LEADER.
+They tear men's flesh; their jaws are swift with blood.
+
+HERACLES.
+Men's flesh! 'Tis mountain wolves', not horses' food!
+
+LEADER.
+Thou wilt see their mangers clogged with blood, like mire.
+
+HERACLES.
+And he who feeds such beasts, who was his sire?
+
+LEADER.
+Ares, the war-lord of the Golden Targe.
+
+HERACLES.
+Enough!--This labour fitteth well my large
+Fortune, still upward, still against the wind.
+How often with these kings of Ares' kind
+Must I do battle? First the dark wolf-man,
+Lycaon; then 'twas he men called The Swan;
+And now this man of steeds!... Well, none shall see
+Alcmena's son turn from his enemy.
+
+LEADER.
+Lo, as we speak, this land's high governor,
+Admetus, cometh from his castle door.
+
+_Enter_ ADMETUS _from the Castle_.
+
+ADMETUS.
+Zeus-born of Perseid line, all joy to thee!
+
+HERACLES.
+Joy to Admetus, Lord of Thessaly!
+
+ADMETUS.
+Right welcome were she!--But thy love I know.
+
+HERACLES.
+But why this mourning hair, this garb of woe?
+
+ADMETUS (_in a comparatively light tone_).
+There is a burial I must make to-day.
+
+HERACLES.
+God keep all evil from thy children!
+
+ADMETUS.
+                                      Nay,
+My children live.
+
+HERACLES.
+                   Thy father, if 'tis he,
+Is ripe in years.
+
+ADMETUS.
+                   He liveth, friend, and she
+Who bore me.
+
+HERACLES.
+              Surely not thy wife? 'Tis not
+Alcestis?
+
+ADMETUS (_his composure a little shaken_).
+           Ah; two answers share my thought,
+Questioned of her.
+
+HERACLES.
+                   Is she alive or dead?
+
+ADMETUS.
+She is, and is not; and my heart hath bled
+Long years for her.
+
+HERACLES.
+                     I understand no more.
+Thy words are riddles.
+
+ADMETUS.
+                        Heard'st thou not of yore
+The doom that she must meet?
+
+HERACLES.
+                              I know thy wife
+Has sworn to die for thee.
+
+ADMETUS.
+                            And is it life,
+To live with such an oath hung o'er her head?
+
+HERACLES (_relieved_).
+Ah,
+Weep not too soon, friend. Wait till she be dead.
+
+ADMETUS.
+He dies who is doomed to die; he is dead who dies.
+
+HERACLES.
+The two are different things in most men's eyes.
+
+ADMETUS.
+Decide thy way, lord, and let me decide
+The other way.
+
+HERACLES.
+                Who is it that has died?
+Thou weepest.
+
+ADMETUS.
+               'Tis a woman. It doth take
+My memory back to her of whom we spake.
+
+HERACLES.
+A stranger, or of kin to thee?
+
+ADMETUS.
+                                Not kin,
+But much beloved.
+
+HERACLES.
+                   How came she to be in
+Thy house to die?
+
+ADMETUS.
+                   Her father died, and so
+She came to us, an orphan, long ago.
+
+HERACLES (_as though about to depart_).
+'Tis sad.
+I would I had found thee on a happier day.
+
+ADMETUS.
+Thy words have some intent: what wouldst thou say?
+
+HERACLES.
+I must find harbour with some other friend.
+
+ADMETUS.
+My prince, it may not be! God never send
+Such evil!
+
+HERACLES.
+            'Tis great turmoil, when a guest
+Comes to a mourning house.
+
+ADMETUS.
+                            Come in and rest.
+Let the dead die!
+
+HERACLES.
+                   I cannot, for mere shame,
+Feast beside men whose eyes have tears in them.
+
+ADMETUS.
+The guest-rooms are apart where thou shalt be.
+
+HERACLES.
+Friend, let me go. I shall go gratefully.
+
+ADMETUS.
+Thou shalt not enter any door but mine.
+(_To an Attendant_)
+Lead in our guest. Unlock the furthest line
+Of guest-chambers; and bid the stewards there
+Make ready a full feast; then close with care
+The midway doors. 'Tis unmeet, if he hears
+Our turmoil or is burdened with our tears.
+
+[_The Attendant leads_ HERACLES _into the house_.]
+
+LEADER.
+How, master? When within a thing so sad
+Lies, thou wilt house a stranger? Art thou mad?
+
+ADMETUS.
+And had I turned the stranger from my door,
+Who sought my shelter, hadst thou praised me more?
+I trow not, if my sorrow were thereby
+No whit less, only the more friendless I.
+And more, when bards tell tales, were it not worse
+My house should lie beneath the stranger's curse?
+Now he is my sure friend, if e'er I stand
+Lonely in Argos, in a thirsty land.
+
+LEADER.
+Thou callest him thy friend; how didst thou dare
+Keep hid from him the burden of thy care?
+
+ADMETUS.
+He never would have entered, had he known
+My grief.--Aye, men may mock what I have done,
+And call me fool. My house hath never learned
+To fail its friend, nor seen the stranger spurned.
+
+[ADMETUS _goes into the house_]
+
+CHORUS.
+Oh, a House that loves the stranger,
+  And a House for ever free!
+And Apollo, the Song-changer,
+  Was a herdsman in thy fee;
+    Yea, a-piping he was found,
+    Where the upward valleys wound,
+To the kine from out the manger
+  And the sheep from off the lea,
+    And love was upon Othrys at the sound.
+
+And from deep glens unbeholden
+  Of the forest to his song
+There came lynxes streaky-golden,
+  There came lions in a throng,
+    Tawny-coated, ruddy-eyed,
+    To that piper in his pride;
+And shy fawns he would embolden,
+  Dappled dancers, out along
+    The shadow by the pine-tree's side.
+
+And those magic pipes a-blowing
+  Have fulfilled thee in thy reign
+By thy Lake with honey flowing,
+  By thy sheepfolds and thy grain;
+    Where the Sun turns his steeds
+    To the twilight, all the meads
+Of Molossus know thy sowing
+  And thy ploughs upon the plain.
+    Yea, and eastward thou art free
+    To the portals of the sea,
+And Pelion, the unharboured, is but minister to thee.
+
+  He hath opened wide his dwelling
+    To the stranger, though his ruth
+  For the dead was fresh and welling,
+    For the loved one of his youth.
+      'Tis the brave heart's cry:
+      "I will fail not, though I die!"
+  Doth it win, with no man's telling,
+    Some high vision of the truth?
+      We may marvel. Yet I trust,
+      When man seeketh to be just
+And to pity them that wander, God will raise him from the dust.
+
+[_As the song ceases the doors are thrown open and_ ADMETUS _comes
+before them: a great funeral procession is seen moving out._]
+
+ADMETUS.
+Most gentle citizens, our dead is here
+Made ready; and these youths to bear the bier
+Uplifted to the grave-mound and the urn.
+Now, seeing she goes forth never to return,
+Bid her your last farewell, as mourners may.
+
+[_The procession moves forward, past him_.]
+
+LEADER.
+Nay, lord; thy father, walking old and grey;
+And followers bearing burial gifts and brave
+Gauds, which men call the comfort of the grave.
+
+_Enter_ PHERES _with followers bearing robes and gifts_.
+
+PHERES.
+I come in sorrow for thy sorrow, son.
+A faithful wife indeed thou hast lost, and one
+Who ruled her heart. But, howso hard they be,
+We needs must bear these griefs.--Some gifts for thee
+Are here.... Yes; take them. Let them go beneath
+The sod. We both must honour her in death,
+Seeing she hath died, my son, that thou mayst live
+Nor I be childless. Aye, she would not give
+My soul to a sad old age, mourning for thee.
+Methinks she hath made all women's life to be
+A nobler thing, by one great woman's deed.
+  Thou saviour of my son, thou staff in need
+To our wrecked age, farewell! May some good life
+Be thine still in the grave.--Oh, 'tis a wife
+Like this man needs; else let him stay unwed!
+
+[_The old man has not noticed_ ADMETUS'S _gathering
+indignation_.]
+
+ADMETUS.
+I called not thee to burial of my dead,
+Nor count thy presence here a welcome thing.
+My wife shall wear no robe that thou canst bring,
+Nor needs thy help in aught. There was a day
+We craved thy love, when I was on my way
+Deathward--thy love, which bade thee stand aside
+And watch, grey-bearded, while a young man died!
+And now wilt mourn for her? Thy fatherhood!
+Thou wast no true begetter of my blood,
+Nor she my mother who dares call me child.
+Oh, she was barren ever; she beguiled
+Thy folly with some bastard of a thrall.
+Here is thy proof! This hour hath shown me all
+Thou art; and now I am no more thy son.
+  'Fore God, among all cowards can scarce be one
+Like thee. So grey, so near the boundary
+Of mortal life, thou wouldst not, durst not, die
+To save thy son! Thou hast suffered her to do
+Thine office, her, no kin to me nor you,
+Yet more than kin! Henceforth she hath all the part
+Of mother, yea, and father in my heart.
+  And what a glory had been thine that day,
+Dying to save thy son--when, either way,
+Thy time must needs be brief. Thy life has had
+Abundance of the things that make men glad;
+A crown that came to thee in youth; a son
+To do thee worship and maintain thy throne--
+Not like a childless king, whose folk and lands
+Lie helpless, to be torn by strangers' hands.
+  Wilt say I failed in duty to thine age;
+For that thou hast let me die? Not so; most sage,
+Most pious I was, to mother and to thee;
+And thus ye have paid me! Well, I counsel ye.
+Lose no more time. Get quick another son
+To foster thy last years, to lay thee on
+Thy bier, when dead, and wrap thee in thy pall.
+_I_ will not bury thee. I am, for all
+The care thou hast shown me, dead. If I have found
+Another, true to save me at the bound
+Of life and death, that other's child am I,
+That other's fostering friend, until I die.
+  How falsely do these old men pray for death,
+Cursing their weight of years, their weary breath!
+When Death comes close, there is not one that dares
+To die; age is forgot and all its cares.
+
+LEADER.
+Oh, peace! Enough of sorrow in our path
+Is strewn. Thou son, stir not thy father's wrath.
+
+PHERES.
+My son, whom seekest thou ... some Lydian thrall,
+Or Phrygian, bought with cash?... to affright withal
+By cursing? I am a Thessalian, free,
+My father a born chief of Thessaly;
+And thou most insolent. Yet think not so
+To fling thy loud lewd words at me and go.
+  I got thee to succeed me in my hall,
+I have fed thee, clad thee. But I have no call
+To die for thee. Not in our family,
+Not in all Greece, doth law bid fathers die
+To save their sons. Thy road of life is thine
+None other's, to rejoice at or repine.
+All that was owed to thee by us is paid.
+My throne is thine. My broad lands shall be made
+Thine, as I had them from my father.... Say,
+How have I wronged thee? What have I kept away?
+"Not died for thee?"... I ask not thee to die.
+  Thou lovest this light: shall I not love it, I?...
+'Tis age on age there, in the dark; and here
+My sunlit time is short, but dear; but dear.
+  Thou hast fought hard enough. Thou drawest breath
+Even now, long past thy portioned hour of death,
+By murdering her ... and blamest my faint heart,
+Coward, who hast let a woman play thy part
+And die to save her pretty soldier! Aye,
+A good plan, surely! Thou needst never die;
+Thou canst find alway somewhere some fond wife
+To die for thee. But, prithee, make not strife
+With other friends, who will not save thee so.
+Be silent, loving thine own life, and know
+All men love theirs!... Taunt others, and thou too
+Shalt hear much that is bitter, and is true.
+
+LEADER.
+Too much of wrath before, too much hath run
+After. Old man, cease to revile thy son.
+
+ADMETUS.
+Speak on. I have spoken.... If my truth of tongue
+Gives pain to thee, why didst thou do me wrong?
+
+PHERES.
+Wrong? To have died for thee were far more wrong.
+
+ADMETUS.
+How can an old life weigh against a young?
+
+PHERES.
+Man hath but one, not two lives, to his use.
+
+ADMETUS.
+Oh, live on; live, and grow more old than Zeus!
+
+PHERES.
+Because none wrongs thee, thou must curse thy sire?
+
+ADMETUS.
+I blest him. Is not life his one desire?
+
+PHERES.
+This dead, methinks, is lying in _thy_ place.
+
+ADMETUS.
+A proof, old traitor, of thy cowardliness!
+
+PHERES.
+Died she through me?... That thou wilt hardly say.
+
+ADMETUS (_almost breaking down_).
+O God!
+Mayst thou but feel the need of me some day!
+
+PHERES.
+Go forward; woo more wives that more may die.
+
+ADMETUS.
+As thou wouldst not! Thine is the infamy.
+
+PHERES.
+This light of heaven is sweet, and sweet again.
+
+ADMETUS.
+Thy heart is foul. A thing unmeet for men.
+
+PHERES.
+Thou laugh'st not yet across the old man's tomb.
+
+ADMETUS.
+Dishonoured thou shalt die when death shall come.
+
+PHERES.
+Once dead, I shall not care what tales are told.
+
+ADMETUS.
+Great Gods, so lost to honour and so old!
+
+PHERES.
+She was not lost to honour: she was blind.
+
+ADMETUS.
+Go! Leave me with my dead.... Out from my mind!
+
+PHERES.
+I go. Bury the woman thou hast slain....
+Her kinsmen yet may come to thee with plain
+Question. Acastus hath small place in good
+Men, if he care not for his sister's blood.
+
+[PHERES _goes off, with his Attendants_. ADMETUS _calls after him
+as he goes._]
+
+ADMETUS.
+Begone, begone, thou and thy bitter mate!
+Be old and childless--ye have earned your fate--
+While your son lives! For never shall ye be
+From henceforth under the same roof with me....
+Must I send heralds and a trumpet's call
+To abjure thy blood? Fear not, I will send them all....
+
+[PHERES _is now out of sight;_ ADMETUS _drops his defiance and
+seems like a broken man._]
+
+But we--our sorrow is upon us; come
+With me, and let us bear her to the tomb.
+
+CHORUS.
+        Ah me!
+Farewell, unfalteringly brave!
+  Farewell, thou generous heart and true!
+  May Pluto give thee welcome due,
+And Hermes love thee in the grave.
+Whate'er of blessed life there be
+  For high souls to the darkness flown,
+  Be thine for ever, and a throne
+Beside the crowned Persephone.
+
+[_The funeral procession has formed and moves slowly out, followed
+by_ ADMETUS _and the_ CHORUS. _The stage is left empty, till a
+side door of the Castle opens and there comes out a_ SERVANT, _angry
+and almost in tears._]
+
+SERVANT.
+Full many a stranger and from many a land
+Hath lodged in this old castle, and my hand
+Served them; but never has there passed this way
+A scurvier ruffian than our guest to-day.
+He saw my master's grief, but all the more
+In he must come, and shoulders through the door.
+And after, think you he would mannerly
+Take what was set before him? No, not he!
+If, on this day of trouble, we left out
+Some small thing, he must have it with a shout.
+Up, in both hands, our vat of ivy-wood
+He raised, and drank the dark grape's burning blood,
+Strong and untempered, till the fire was red
+Within him; then put myrtle round his head
+And roared some noisy song. So had we there
+Discordant music. He, without a care
+For all the affliction of Admetus' halls,
+Sang on; and, listening, one could hear the thralls
+In the long gallery weeping for the dead.
+  We let him see no tears. Our master made
+That order, that the stranger must not know.
+  So here I wait in her own house, and do
+Service to some black thief, some man of prey;
+And she has gone, has gone for ever away.
+I never followed her, nor lifted high
+My hand to bless her; never said good-bye....
+I loved her like my mother. So did all
+The slaves. She never let his anger fall
+Too hard. She saved us alway....  And this wild beast
+Comes in our sorrow when we need him least!
+
+[_During the last few lines_ HERACLES _has entered, unperceived by
+the_ SERVANT. _He has evidently bathed and changed his garments and
+drunk his fill, and is now revelling, a garland of flowers on his head. He
+frightens the_ SERVANT _a little from time to time during the
+following speech._]
+
+HERACLES.
+Friend, why so solemn and so cranky-eyed?
+'Tis not a henchman's office, to show pride
+To his betters. He should smile and make good cheer.
+  There comes a guest, thy lord's old comrade, here;
+And thou art all knitted eyebrows, scowls and head
+Bent, because somebody, forsooth, is dead!
+  Come close! I mean to make thee wiser.
+
+[_The_ SERVANT _reluctantly comes close._]
+
+                                          So.
+Dost comprehend things mortal, how they grow?...
+(_To himself_) I suppose not. How could he?...
+                                Look this way!
+Death is a debt all mortal men must pay;
+Aye, there is no man living who can say
+If life will last him yet a single day.
+On, to the dark, drives Fortune; and no force
+Can wrest her secret nor put back her course....
+  I have told thee now. I have taught thee. After this
+Eat, drink, make thyself merry. Count the bliss
+Of the one passing hour thine own; the rest
+Is Fortune's. And give honour chiefliest
+To our lady Cypris, giver of all joys
+To man. 'Tis a sweet goddess. Otherwise,
+Let all these questions sleep and just obey
+My counsel.... Thou believest all I say?
+I hope so.... Let this stupid grieving be;
+Rise up above thy troubles, and with me
+Drink in a cloud of blossoms. By my soul,
+I vow the sweet plash-music of the bowl
+Will break thy glumness, loose thee from the frown
+Within. Let mortal man keep to his own
+Mortality, and not expect too much.
+  To all your solemn dogs and other such
+Scowlers--I tell thee truth, no more nor less--
+Life is not life, but just unhappiness.
+
+[_He offers the wine-bowl to the_ SERVANT, _who avoids it_.]
+
+SERVANT.
+We know all this. But now our fortunes be
+Not such as ask for mirth or revelry.
+
+HERACLES.
+A woman dead, of no one's kin; why grieve
+So much? Thy master and thy mistress live.
+
+SERVANT.
+Live? Man, hast thou heard nothing of our woe?
+
+HERACLES.
+Yes, thy lord told me all I need to know.
+
+SERVANT.
+He is too kind to his guests, more kind than wise.
+
+HERACLES.
+Must I go starved because some stranger dies?
+
+SERVANT.
+Some stranger?--Yes, a stranger verily!
+
+HERACLES (_his manner beginning to change_).
+Is this some real grief he hath hid from me?
+
+SERVANT.
+Go, drink, man! Leave to us our master's woes.
+
+HERACLES.
+It sounds not like a stranger. Yet, God knows...
+
+SERVANT.
+How should thy revelling hurt, if that were all?
+
+HERACLES.
+Hath mine own friend so wronged me in his hall?
+
+SERVANT.
+Thou camest at an hour when none was free
+To accept thee. We were mourning. Thou canst see
+Our hair, black robes...
+
+HERACLES (_suddenly, in a voice of thunder_).
+                         Who is it that is dead?
+
+SERVANT.
+Alcestis, the King's wife.
+
+HERACLES (_overcome_).
+                            What hast thou said?
+Alcestis?... And ye feasted me withal!
+
+SERVANT.
+He held it shame to turn thee from his hall.
+
+HERACLES.
+Shame! And when such a wondrous wife was gone!
+
+SERVANT (_breaking into tears_).
+Oh, all is gone, all lost, not she alone!
+
+HERACLES.
+I knew, I felt it, when I saw his tears,
+And face, and shorn hair. But he won mine ears
+With talk of the strange woman and her rite
+Of burial. So in mine own heart's despite
+I crossed his threshold and sat drinking--he
+And I old friends!--in his calamity.
+Drank, and sang songs, and revelled, my head hot
+With wine and flowers!... And thou to tell me not,
+When all the house lay filled with sorrow, thou!
+(_A pause; then suddenly_)
+Where lies the tomb?--Where shall I find her now?
+
+SERVANT (_frightened_).
+Close by the straight Larissa road. The tall
+White marble showeth from the castle wall.
+
+HERACLES.
+O heart, O hand, great doings have ye done
+Of old: up now, and show them what a son
+Took life that hour, when she of Tiryns' sod,
+Electryon's daughter, mingled with her God!
+  I needs must save this woman from the shore
+Of death and set her in her house once more,
+Repaying Admetus' love.... This Death, this black
+And winged Lord of corpses, I will track
+Home. I shall surely find him by the grave
+A-hungered, lapping the hot blood they gave
+In sacrifice. An ambush: then, one spring,
+One grip! These arms shall be a brazen ring,
+With no escape, no rest, howe'er he whine
+And curse his mauled ribs, till the Queen is mine!
+  Or if he escape me, if he come not there
+To seek the blood of offering, I will fare
+Down to the Houses without Light, and bring
+To Her we name not and her nameless King
+Strong prayers, until they yield to me and send
+Alcestis home, to life and to my friend:
+Who gave me shelter, drove me not away
+In his great grief, but hid his evil day
+Like a brave man, because he loved me well.
+Is one in all this land more hospitable,
+One in all Greece? I swear no man shall say
+He hath cast his love upon a churl away!
+
+[_He goes forth, just as he is, in the direction of the grave.
+The_ SERVANT _watches a moment and goes back into the hall._]
+
+[_The stage is empty; then_ ADMETUS _and the_ CHORUS
+_return._]
+
+ADMETUS.
+    Alas!
+Bitter the homeward way,
+  Bitter to seek
+    A widowed house; ah me,
+  Where should I fly or stay,
+    Be dumb or speak?
+      Would I could cease to be!
+
+            Despair, despair!
+My mother bore me under an evil star.
+  I envy them that are perished; my heart is there.
+It dwells in the Sunless Houses, afar, afar.
+
+I take no joy in looking upon the light;
+  No joy in the feel of the earth beneath my tread.
+The Slayer hath taken his hostage; the Lord of the Dead
+  Holdeth me sworn to taste no more delight.
+
+[_He throws himself on the ground in despair._]
+
+CHORUS.
+[_Each member of the_ CHORUS _speaks his line severally, as he
+passes_ ADMETUS, _who is heard sobbing at the end of each line._]
+
+  --Advance, advance;
+      Till the house shall give thee cover.
+  --Thou hast borne heavy things
+      And meet for lamentation.
+  --Thou hast passed, hast passed,
+      Thro' the deepest of the River.
+  --Yet no help comes
+      To the sad and silent nation.
+  --And the face of thy beloved, it shall meet thee never, never!
+
+ADMETUS.
+Ye wrench my wounds asunder. Where
+  Is grief like mine, whose wife is dead?
+  My wife, whom would I ne'er had wed,
+Nor loved, nor held my house with her....
+
+Blessed are they who dare to dwell
+  Unloved of woman! 'Tis but one
+  Heart that they bleed with, and alone
+Can bear their one life's burden well.
+
+No young shall wither at their side,
+  No bridal room be swept by death....
+  Aye, better man should draw his breath
+For ever without child or bride.
+
+CHORUS (_as before_).
+  --'Tis Fate, 'tis Fate:
+      She is strong and none shall break her.
+  --No end, no end,
+      Wilt thou lay to lamentations?
+  --Endure and be still:
+      Thy lamenting will not wake her.
+  --There be many before thee,
+      Who have suffered and had patience.
+  --Though the face of Sorrow changeth, yet her hand is on all nations.
+
+ADMETUS.
+The garb of tears, the mourner's cry:
+  Then the long ache when tears are past!...
+  Oh, why didst hinder me to cast
+This body to the dust and die
+With her, the faithful and the brave?
+  Then not one lonely soul had fled,
+  But two great lovers, proudly dead,
+Through the deep waters of the grave.
+
+LEADER.
+A friend I knew,
+  In whose house died a son,
+Worthy of bitter rue,
+  His only one.
+His head sank, yet he bare
+Stilly his weight of care,
+Though grey was in his hair
+  And life nigh done.
+
+ADMETUS.
+Ye shapes that front me, wall and gate,
+  How shall I enter in and dwell
+  Among ye, with all Fortune's spell
+Dischanted? Aye, the change is great.
+
+That day I strode with bridal song
+  Through lifted brands of Pelian pine;
+  A hand beloved lay in mine;
+And loud behind a revelling throng
+
+Exalted me and her, the dead.
+  They called us young, high-hearted; told
+  How princes were our sires of old,
+And how we loved and we must wed....
+
+For those high songs, lo, men that moan,
+  And raiment black where once was white;
+  Who guide me homeward in the night,
+On that waste bed to lie alone.
+
+SECOND ELDER.
+It breaks, like strife,
+  Thy long peace, where no pain
+Had entered; yet is life,
+  Sweet life, not slain.
+A wife dead; a dear chair
+Empty: is that so rare?
+Men live without despair
+  Whose loves are ta'en.
+
+ADMETUS (_erect and facing them_).
+Behold, I count my wife's fate happier,
+Though all gainsay me, than mine own. To her
+Comes no more pain for ever; she hath rest
+And peace from all toil, and her name is blest.
+But I am one who hath no right to stay
+Alive on earth; one that hath lost his way
+In fate, and strays in dreams of life long past....
+Friends, I have learned my lesson at the last.
+  I have my life. Here stands my house. But now
+How dare I enter in? Or, entered, how
+Go forth again? Go forth, when none is there
+To give me a parting word, and I to her?...
+  Where shall I turn for refuge? There within,
+The desert that remains where she hath been
+Will drive me forth, the bed, the empty seat
+She sat in; nay, the floor beneath my feet
+Unswept, the children crying at my knee
+For mother; and the very thralls will be
+In sobs for the dear mistress that is lost.
+  That is my home! If I go forth, a host
+Of feasts and bridal dances, gatherings gay
+Of women, will be there to fright me away
+To loneliness. Mine eyes will never bear
+The sight. They were her friends; they played with her.
+  And always, always, men who hate my name
+Will murmur: "This is he who lives in shame
+Because he dared not die! He gave instead
+The woman whom he loved, and so is fled
+From death. He counts himself a man withal!
+And seeing his parents died not at his call
+He hates them, when himself he dared not die!"
+  Such mocking beside all my pain shall I
+Endure.... What profit was it to live on,
+Friend, with my grief kept and mine honour gone?
+
+CHORUS.
+I have sojourned in the Muse's land,
+  Have wandered with the wandering star,
+Seeking for strength, and in my hand
+  Held all philosophies that are;
+Yet nothing could I hear nor see
+Stronger than That Which Needs Must Be.
+No Orphic rune, no Thracian scroll,
+  Hath magic to avert the morrow;
+No healing all those medicines brave
+Apollo to the Asclepiad gave;
+Pale herbs of comfort in the bowl
+    Of man's wide sorrow.
+She hath no temple, she alone,
+  Nor image where a man may kneel;
+No blood upon her altar-stone
+  Crying shall make her hear nor feel.
+I know thy greatness; come not great
+Beyond my dreams, O Power of Fate!
+Aye, Zeus himself shall not unclose
+  His purpose save by thy decerning.
+The chain of iron, the Scythian sword,
+It yields and shivers at thy word;
+Thy heart is as the rock, and knows
+  No ruth, nor turning.
+
+[_They turn to_ ADMETUS.]
+
+Her hand hath caught thee; yea, the keeping
+  Of iron fingers grips thee round.
+Be still. Be still. Thy noise of weeping
+  Shall raise no lost one from the ground.
+Nay, even the Sons of God are parted
+At last from joy, and pine in death....
+Oh, dear on earth when all did love her,
+Oh, dearer lost beyond recover:
+Of women all the bravest-hearted
+  Hath pressed thy lips and breathed thy breath.
+
+Let not the earth that lies upon her
+  Be deemed a grave-mound of the dead.
+Let honour, as the Gods have honour,
+  Be hers, till men shall bow the head,
+And strangers, climbing from the city
+  Her slanting path, shall muse and say:
+"This woman died to save her lover,
+And liveth blest, the stars above her:
+Hail, Holy One, and grant thy pity!"
+  So pass the wondering words away.
+
+LEADER.
+But see, it is Alcmena's son once more,
+My lord King, cometh striding to thy door.
+
+[_Enter_ HERACLES; _his dress is as in the last scene, but shows
+signs of a struggle. Behind come two Attendants, guiding between them a
+veiled Woman, who seems like one asleep or unconscious. The Woman remains
+in the background while_ HERACLES _comes forward._]
+
+HERACLES.
+Thou art my friend, Admetus; therefore bold
+And plain I tell my story, and withhold
+No secret hurt.--Was I not worthy, friend,
+To stand beside thee; yea, and to the end
+Be proven in sorrow if I was true to thee?
+And thou didst tell me not a word, while she
+Lay dead within; but bid me feast, as though
+Naught but the draping of some stranger's woe
+Was on thee. So I garlanded my brow
+And poured the gods drink-offering, and but now
+Filled thy death-stricken house with wine and song.
+Thou hast done me wrong, my brother; a great wrong
+Thou hast done me. But I will not add more pain
+In thine affliction.
+                      Why I am here again,
+Returning, thou must hear. I pray thee, take
+And keep yon woman for me till I make
+My homeward way from Thrace, when I have ta'en
+Those four steeds and their bloody master slain.
+And if--which heaven avert!--I ne'er should see
+Hellas again, I leave her here, to be
+An handmaid in thy house. No labour small
+Was it that brought her to my hand at all.
+I fell upon a contest certain Kings
+Had set for all mankind, sore buffetings
+And meet for strong men, where I staked my life
+And won this woman. For the easier strife
+Black steeds were prizes; herds of kine were cast
+For heavier issues, fists and wrestling; last,
+This woman.... Lest my work should all seem done
+For naught, I needs must keep what I have won;
+So prithee take her in. No theft, but true
+Toil, won her.... Some day thou mayst thank me, too.
+
+ADMETUS.
+'Twas in no scorn, no bitterness to thee,
+I hid my wife's death and my misery.
+Methought it was but added pain on pain
+If thou shouldst leave me, and roam forth again
+Seeking another's roof. And, for mine own
+Sorrow, I was content to weep alone.
+  But, for this damsel, if it may be so,
+I pray thee, Lord, let some man, not in woe
+Like mine, take her. Thou hast in Thessaly
+Abundant friends.... 'Twould wake sad thoughts in me.
+  How could I have this damsel in my sight
+And keep mine eyes dry? Prince, why wilt thou smite
+The smitten? Griefs enough are on my head.
+  Where in my castle could so young a maid
+Be lodged--her veil and raiment show her young:
+Here, in the men's hall? I should fear some wrong.
+'Tis not so easy, Prince, to keep controlled
+My young men. And thy charge I fain would hold
+Sacred.--If not, wouldst have me keep her in
+The women's chambers ... where my dead hath been?
+How could I lay this woman where my bride
+Once lay? It were dishonour double-dyed.
+These streets would curse the man who so betrayed
+The wife who saved him for some younger maid;
+The dead herself ... I needs must worship her
+And keep her will.
+
+[_During the last few lines_ ADMETUS _has been looking at the
+veiled Woman and, though he does not consciously recognize her,
+feels a strange emotion overmastering him. He draws back._]
+
+
+                    Aye. I must walk with care....
+O woman, whosoe'er thou art, thou hast
+The shape of my Alcestis; thou art cast
+In mould like hers.... Oh, take her from mine eyes!
+In God's name!
+
+[HERACLES _signs to the Attendants to take_ ALCESTIS _away again.
+She stays veiled and unnoticing in the background._]
+
+I was fallen, and in this wise
+Thou wilt make me deeper fall.... Meseems, meseems,
+There in her face the loved one of my dreams
+Looked forth.--My heart is made a turbid thing,
+Craving I know not what, and my tears spring
+Unbidden.--Grief I knew 'twould be; but how
+Fiery a grief I never knew till now.
+
+LEADER.
+Thy fate I praise not. Yet, what gift soe'er
+God giveth, man must steel himself and bear.
+
+HERACLES (_drawing_ ADMETUS _on_).
+Would God, I had the power, 'mid all this might
+Of arm, to break the dungeons of the night,
+And free thy wife, and make thee glad again!
+
+ADMETUS.
+Where is such power? I know thy heart were fain;
+But so 'tis writ. The dead shall never rise.
+
+HERACLES.
+Chafe not the curb, then: suffer and be wise.
+
+ADMETUS.
+Easier to give such counsel than to keep.
+
+HERACLES.
+Who will be happier, shouldst thou always weep?
+
+ADMETUS.
+Why, none. Yet some blind longing draws me on...
+
+HERACLES.
+'Tis natural. Thou didst love her that is gone.
+
+ADMETUS.
+'Tis that hath wrecked, oh more than wrecked, my life.
+
+HERACLES.
+'Tis certain: thou hast lost a faithful wife.
+
+ADMETUS.
+Till life itself is dead and wearies me.
+
+HERACLES.
+Thy pain is yet young. Time will soften thee,
+
+[_The veiled Woman begins dimly, as though in a dream, to hear the words
+spoken._]
+
+ADMETUS.
+Time? Yes, if time be death.
+
+HERACLES.
+                              Nay, wait; and some
+Woman, some new desire of love, will come.
+
+ADMETUS (_indignantly_).
+Peace!
+How canst thou? Shame upon thee!
+
+HERACLES.
+                                  Thou wilt stay
+Unwed for ever, lonely night and day?
+
+ADMETUS.
+No other bride in these void arms shall lie.
+
+HERACLES.
+What profit will thy dead wife gain thereby?
+
+ADMETUS.
+Honour; which finds her wheresoe'er she lies.
+
+HERACLES.
+Most honourable in thee: but scarcely wise!
+
+ADMETUS.
+God curse me, if I betray her in her tomb!
+
+HERACLES.
+So be it!...
+And this good damsel, thou wilt take her home?
+
+ADMETUS.
+No, in the name of Zeus, thy father! No!
+
+HERACLES.
+I swear, 'tis not well to reject her so.
+
+ADMETUS.
+'Twould tear my heart to accept her.
+
+HERACLES.
+                                      Grant me, friend,
+This one boon! It may help thee in the end.
+
+ADMETUS.
+Woe's me!
+Would God thou hadst never won those victories!
+
+HERACLES.
+Thou sharest both the victory and the prize.
+
+ADMETUS.
+Thou art generous.... But now let her go.
+
+HERACLES.
+                                           She shall,
+If go she must. Look first, and judge withal.
+
+[_He takes the veil off_ ALCESTIS.]
+
+ADMETUS (_steadily refusing to look_).
+She must.--And thou, forgive me!
+
+HERACLES.
+                                  Friend, there is
+A secret reason why I pray for this.
+
+ADMETUS (_surprised, then reluctantly yielding_).
+I grant thy boon then--though it likes me ill.
+
+HERACLES.
+'Twill like thee later. Now ... but do my will.
+
+ADMETUS (_beckoning to an Attendant_).
+Take her; find her some lodging in my hall.
+
+HERACLES.
+I will not yield this maid to any thrall.
+
+ADMETUS.
+Take her thyself and lead her in.
+
+HERACLES.
+                                   I stand
+Beside her; take her; lead her to thy hand.
+
+[_He brings the Woman close to_ ADMETUS, _who looks determinedly
+away. She reaches out her arms._]
+
+ADMETUS.
+I touch her not.--Let her go in!
+
+HERACLES.
+                                  I am loth
+To trust her save to thy pledged hand and oath.
+
+[_He lays his hand on_ ADMETUS'S _shoulder_.]
+
+ADMETUS (_desperately_).
+Lord, this is violence ... wrong ...
+
+HERACLES.
+                                     Reach forth thine hand
+And touch this comer from a distant land.
+
+ADMETUS (_holding out his hand without looking_).
+Like Perseus when he touched the Gorgon, there!
+
+HERACLES.
+Thou hast touched her?
+
+ADMETUS (_at last taking her hand_).
+                        Touched her?... Yes.
+
+HERACLES (_a hand on the shoulder of each_).
+                        Then cling to her;
+And say if thou hast found a guest of grace
+In God's son, Heracles! Look in her face;
+Look; is she like...?
+
+[ADMETUS _looks and stands amazed_.]
+                       Go, and forget in bliss
+Thy sorrow!
+
+ADMETUS.
+             O ye Gods! What meaneth this?
+A marvel beyond dreams! The face ... 'tis she;
+Mine, verily mine! Or doth God mock at me
+And blast my vision with some mad surmise?
+
+HERACLES.
+Not so. This is thy wife before thine eyes.
+
+ADMETUS (_who has recoiled in his amazement_).
+Beware! The dead have phantoms that they send...
+
+HERACLES.
+Nay; no ghost-raiser hast thou made thy friend.
+
+ADMETUS.
+My wife ... she whom I buried?
+
+HERACLES.
+                                      I deceive
+Thee not; nor wonder thou canst scarce believe.
+
+ADMETUS.
+And dare I touch her, greet her, as mine own
+Wife living?
+
+HERACLES.
+              Greet her. Thy desire is won.
+
+ADMETUS (_approaching with awe_),
+Beloved eyes; beloved form; O thou
+Gone beyond hope, I have thee, I hold thee now?
+
+HERACLES.
+Thou hast her: may no god begrudge your joy.
+
+ADMETUS (_turning to_ HERACLES).
+O lordly conqueror, Child of Zeus on high,
+Be blessed! And may He, thy sire above,
+Save thee, as thou alone hast saved my love!
+
+[_He kneels to_ HERACLES, _who raises him_.]
+
+But how ... how didst thou win her to the light?
+
+HERACLES.
+I fought for life with Him I needs must fight.
+
+ADMETUS.
+With Death thou hast fought! But where?
+
+HERACLES.
+                                      Among his dead
+I lay, and sprang and gripped him as he fled.
+
+ADMETUS (_in an awed whisper, looking towards_ ALCESTIS).
+Why standeth she so still? No sound, no word!
+
+HERACLES.
+She hath dwelt with Death. Her voice may not be heard
+Ere to the Lords of Them Below she pay
+Due cleansing, and awake on the third day.
+(_To the Attendants_) So; guide her home.
+
+[_They lead_ ALCESTIS _to the doorway_.]
+
+                              And thou, King, for the rest
+Of time, be true; be righteous to thy guest,
+As he would have thee be. But now farewell!
+My task yet lies before me, and the spell
+That binds me to my master; forth I fare.
+
+ADMETUS.
+Stay with us this one day! Stay but to share
+The feast upon our hearth!
+
+HERACLES.
+                            The feasting day
+Shall surely come; now I must needs away.
+
+[HERACLES _departs_.]
+
+ADMETUS.
+Farewell! All victory attend thy name
+And safe home-coming!
+                          Lo, I make proclaim
+To the Four Nations and all Thessaly;
+A wondrous happiness hath come to be:
+Therefore pray, dance, give offerings and make full
+Your altars with the life-blood of the Bull!
+For me ... my heart is changed; my life shall mend
+Henceforth. For surely Fortune is a friend.
+
+[_He goes with_ ALCESTIS _into the house_.]
+
+CHORUS.
+There be many shapes of mystery;
+And many things God brings to be,
+  Past hope or fear.
+And the end men looked for cometh not,
+And a path is there where no man thought.
+  So hath it fallen here.
+
+
+
+
+NOTES
+
+
+P. 3, Prologue. Asclepios (Latin Aesculapius), son of Apollo, the
+hero-physician, by his miraculous skill healed the dead. This transgressed
+the divine law, so Zeus slew him. (The particular dead man raised by him
+was Hippolytus, who came to life in Italy under the name of Virbius, and
+was worshipped with Artemis at Aricia.) Apollo in revenge, not presuming
+to attack Zeus himself, killed the Cyclopes, and was punished by being
+exiled from heaven and made servant to a mortal. There are several such
+stories of gods made servants to human beings.
+
+P. 3, l. 12, Beguiling.]--See Preface. In the original story he made them
+drunk with wine. (Aesch. _Eumenides_, 728.) As the allusion would
+doubtless be clear to the Greek audience, I have added a mention of wine
+which is not in the Greek. Libations to the Elder Gods, such as the Fates
+and Eumenides, had to be "wineless." Historically this probably means that
+the worship dates from a time before wine was used in Greece.
+
+P. 4, l. 22, The stain of death must not come nigh My radiance.]--Compare
+Artemis in the last scene of the _Hippolytus_. The presence of a dead
+body would be a pollution to Apollo, though that of Thanatos (Death)
+himself seems not to be so. It is rather Thanatos who is dazzled and
+blinded by Apollo, like an owl or bat in the sunlight.
+
+P. 5, l. 43, Rob me of my second prey.]--"You first cheated me of Admetus,
+and now you cheat me of his substitute."
+
+P. 6, l. 59, The rich would buy, etc.]--Here and throughout this difficult
+little dialogue I follow the readings of my own text in the _Bibliotheca
+Oxoniensis_.
+
+P. 7, l. 74, To lay upon her hair my sword.]--As the sacrificing priest
+cut off a lock of hair from the victim's head before the actual sacrifice.
+
+P. 8, l. 77, Chorus.]--The Chorus consists of citizens, probably Elders,
+of the city of Pherae. Dr. Verrall has rightly pointed out that there is
+some general dissatisfaction in the town at Admetus's behaviour (l. 210
+ff.). These citizens come to mourn with Admetus out of old friendship,
+though they do not altogether defend him.
+
+The Chorus is very drastically broken up into so many separate persons
+conversing with one another; the treatment in the _Rhesus_ is similar
+but even bolder. See _Rhesus_, pp. 28-31, 37-42. Cf. also the
+entrance-choruses of the _Trojan Women_ (pp. 19-23) and the
+_Medea_ (pp. 10-13); and ll. 872 ff., 889 ff., pp. 50, 51, below.
+
+Instead of assigning the various lines definitely to First, Second, Third
+Citizen, and so on, I have put a "paragraphus" (--), the ancient Greek
+sign for indicating a new speaker.
+
+P. 8, l. 82, Pelias' daughter.]--_i.e._ Alcestis.
+
+P. 8, l. 92, Paian.]--The Healer. The word survives chiefly as a cry for
+help and as an epithet or title of Apollo or Asclepios. "Paian," Latin
+Paean, is also a cry of victory; but the relation of the two meanings is
+not quite made out. (Pronounce rather like "Pah-yan.") Cf. l. 220.
+
+P. 9, l. 112, To wander o'er leagues of land.]--You could sometimes save a
+sick person by appealing to an oracle, such as that of Apollo in Lycia or
+of Zeus Ammon in the Libyan desert; but now no sacrifice will help. Only
+Asclepios, were he still on earth, might have helped us. (See on the
+Prologue.)
+
+P. 12, l. 150, 'Fore God she dies high-hearted.]--What impresses the Elder
+is the calm and deliberate way in which Alcestis faces these preparations.
+
+P. 12, l. 162, Before the Hearth-Fire.]--Hestia, the hearth-fire, was a
+goddess, the Latin Vesta, and is addressed as "Mother." It is
+characteristic in Alcestis to think chiefly about happy marriages for the
+children.
+
+P. 12, l. 182, Happier perhaps, more true she cannot be.]--A famous line
+and open to parody. Cf. Aristophanes, _Knights_, 1251 ("Another wear
+this crown instead of me, Happier perhaps; worse thief he cannot be"). And
+see on l. 367 below.
+
+P. 15, l. 228, Hearts have bled.]--People have committed suicide for less
+than this.
+
+P. 16, l. 244, O Sun.]--Alcestis has come out to see the Sun and Sky for
+the last time and say good-bye to them. It is a rite or practice often
+mentioned in Greek poetry. Her beautiful wandering lines about Charon and
+his boat are the more natural because she is not dying from any disease
+but is being mysteriously drawn away by the Powers of Death.
+
+P. 16, l. 252, A boat, two-oared.]--She sees Charon, the boatman who
+ferried the souls of the dead across the river Styx.
+
+P. 17, l. 259, Drawing, drawing.]--The creature whom she sees drawing her
+to "the palaces of the dead" is certainly not Charon, who had no wings,
+but was like an old boatman in a peasant's cap and sleeveless tunic; nor
+can he be Hades, the throned King to whose presence she must eventually
+go. Apparently, therefore, he must be Thanatos, whom we have just seen on
+the stage. He was evidently supposed to be invisible to ordinary human
+eyes.
+
+P. 18, l. 280, Alcestis's speech.]--Great simplicity and sincerity are the
+keynotes of this fine speech. Alcestis does not make light of her
+sacrifice: she enjoyed her life and values it; she wishes one of the old
+people had died instead; she is very earnest that Admetus shall not marry
+again, chiefly for the children's sake, but possibly also from some little
+shadow of jealousy. A modern dramatist would express all this, if at all,
+by a scene or a series of scenes of conversation; Euripides always uses
+the long self-revealing speech. Observe how little romantic love there is
+in Alcestis, though Admetus is full of it. See Preface, pp. xiii, xiv.
+
+Pp. 19, 20, l. 328 ff., Admetus's speech.]--If the last speech made us
+know Alcestis, this makes us know Admetus fully as well. At one time the
+beauty and passion of it almost make us forget its ultimate hollowness; at
+another this hollowness almost makes us lose patience with its beautiful
+language. In this state of balance the touch of satire in l. 338 f. ("My
+mother I will know no more," etc.), and the fact that he speaks
+immediately after the complete sincerity of Alcestis, conspire to weigh
+down the scale against Admetus. There can be no doubt that he means, and
+means passionately, all that he says. Only he could not quite manage to
+die when it was not strictly necessary.
+
+P. 20, l. 355, If Orpheus' voice were mine.]--The bard and prophet,
+Orpheus, went down to the dead to win back his wife, Eurydice. Hades and
+Persephone, spell-bound by his music, granted his prayer that Eurydice
+should return to the light, on condition that he should go before her,
+harping, and should never look back to see if she was following. Just at
+the end of the journey he looked back, and she vanished. The story is told
+with overpowering beauty in Vergil's fourth Georgic.
+
+P. 21, l. 367, Oh, not in death from thee Divided.]--Parodied in
+Aristophanes' _Archarnians_ 894, where it is addressed to an eel, and
+the second line ends "in a beet-root fricassee." See on l. 182.
+
+P. 23, l. 393 ff., The Little Boy's speech.]--Classical Greek sculpture
+and vase-painting tended to represent children not like children but like
+diminutive men; and something of the sort is true of Greek tragedy.
+The stately tragic convention has in the main to be maintained; the child
+must speak a language suited for heroes, or at least for high poetry.
+The quality of childishness has to be indicated by a word or so of
+child-language delicately admitted amid the stateliness. Here we have
+[Greek: maia], something like "mummy," at the beginning, and [Greek:
+neossos], "chicken" or "little bird," at the end. Otherwise most of the
+language is in the regular tragic diction, and some of it doubtless seems
+to us unsuitable for a child. If Milton had had to make a child speak in
+_Paradise Lost_, what sort of diction would he have given it?
+
+The success or ill-success of such an attempt as this to combine the two
+styles, the heroic and the childlike, depends on questions of linguistic
+tact, and can hardly be judged with any confidence by foreigners. But I
+think we can see Euripides here, as in other places, reaching out at an
+effect which was really beyond the resources of his art, and attaining a
+result which, though clearly imperfect, is strangely moving. He gets great
+effects from the use of children in several tragedies, though he seldom
+lets them speak. They speak in the _Medea_, the _Andromache_,
+and _Suppliants_, and are mute figures in the _Trojan Women,
+Hecuba, Heracles_, and _Iphigenia in Aulis_. We may notice that
+where his children do speak, they speak only in lyrics, never in ordinary
+dialogue. This is very significant, and clearly right.
+
+The breaking-down of the child seems to string Admetus to self-control
+again.
+
+P. 25, l. 428, Ye chariot-lords.]--The plain of Thessaly was famous for
+its cavalry.
+
+P. 25, l. 436 ff., Chorus.]--The "King black-browed" is, of course, Hades;
+the "grey hand at the helm and oar," Charon; the "Tears that Well," the
+more that spreads out from Acheron, the River of _Ache_ or Sorrows.
+
+P. 25, l. 445 ff. Alcestis shall be celebrated--and no doubt worshipped--
+at certain full-moon feasts in Athens and Sparta, especially at the
+Carneia, a great Spartan festival held at the full moon in the month
+Carneios (August-September). Who the ancient hero Carnos or Carneios was
+is not very clearly stated by the tradition; but at any rate he was
+killed, and the feast was meant to placate and perhaps to revive him.
+Resurrection is apt to be a feature of both moon-goddesses and vegetation
+spirits.
+
+P. 27, l. 476, Entrance of Heracles.]--Generally, in the tragic
+convention, each character that enters either announces himself or is
+announced by some one on the stage; but the figure of Heracles with his
+club and lion-skin was so well known that his identity could be taken for
+granted. The Leader at once addresses him by name.
+
+P. 27, l. 481, The Argive King.]--It was the doom of Heracles, from before
+his birth, to be the servant of a worser man. His master proved to be
+Eurystheus, King of Tiryns or Argos, who was his kinsman, and older by a
+day. See _Iliad_ T 95 ff. Note the heroic quality of Heracles's
+answer in l. 491. It does not occur to him to think of reward for himself.
+
+P. 27, l. 483, Diomede of Thrace.]--This man, distinguished in legend from
+the Diomede of the _Iliad_, was a savage king who threw wayfarers to
+his man-eating horses. Such horses are not mere myths; horses have often
+been trained to fight with their teeth, like carnivora, for war purposes.
+Diomedes was a son of Ares, the War-god or Slayer, as were the other wild
+tyrants mentioned just below, Lycaon, the Wolf-hero, and Cycnus, the Swan.
+
+P. 30, l. 511, Right welcome were she: _i.e._ Joy.]--"Joy would be a
+strange visitor to me, but I know you mean kindly."
+
+P. 30, l. 518 ff., Not thy wife? 'Tis not Alcestis?]--The rather elaborate
+misleading of Heracles, without any direct lie, depends partly on the fact
+that the Greek word [Greek: gynae]; means both "woman" and "wife."--The
+woman, not of kin with Admetus but much loved in the house, who has lived
+there since her father's death left her an orphan, is of course Alcestis,
+but Heracles, misled by Admetus's first answers, supposes it is some
+dependant to whom the King happens to be attached. He naturally proposes
+to go away, but, with much reluctance, allows himself to be over-persuaded
+by Admetus. He had other friends in Thessaly, but the next castle would
+probably be several miles off. The guest-chambers of the castle are
+apparently in a separate building with a connecting passage.
+
+As to Admetus's motive, we must remember that the entertaining of Heracles
+is a datum of the story in its simplest form. See Preface, pp. xiv, xv. In
+Euripides, Admetus is perhaps actuated by a mixture of motives, real
+kindness, pride in his ancestral hospitality, and a little vanity. He
+likes having the great Son of Zeus for a friend, and he has never yet
+turned any one from his doors.
+
+Euripides passes no distinct judgment on this act of Admetus. The Leader
+in the dialogue blames him ("Art thou mad?") and so does Heracles
+hereafter, p. 56. But the Chorus glorifies his deed in a very delightful
+lyric. Perhaps this indicates the judgment we are meant to pass upon it.
+On the plane of common sense it was doubtless all wrong, but on that of
+imaginative poetry it was magnificent.
+
+P. 35, 11. 569-605, Chorus.]--Apollo, worshipped as a shepherd god and a
+singer, harper, piper, etc. ("song-changer"), had been himself a stranger
+in this "House that loved the stranger": hence its great reward. Othrys is
+the end of the mountain range to the south of Pherae; Lake Boibeis was
+just across the narrow end of the plain to the north-east, beyond it came
+Mt. Pelion and the steep harbourless coast. Up to the north-west the plain
+of Thessaly stretched far away towards the Molossian mountains. The wild
+beasts gathered round Apollo as they did round Orpheus ("There where
+Orpheus harped of old, And the trees awoke and knew him, And the wild
+things gathered to him, As he piped amid the broken Glens his music
+manifold."--_Bacchae_, p. 35).
+
+P. 37, l. 614, Scene with Pheres.]--Pheres is in tradition the "eponymous
+hero" of Pherae, _i.e._ the mythical person who is supposed to have
+given his name to the town. It is only in this play that he has any
+particular character. The scene gives the reader a shock, but is a
+brilliant piece of satirical comedy, with a good deal of pathos in it,
+too. The line (691) [Greek: chaireis horon phos, patera d' ou chairein
+dokeis]; ("Thou lovest the light, thinkest thou thy father loves it not?")
+seems to me one of the most characteristic in Euripides. It has a peculiar
+mordant beauty in its absolutely simple language, and one cannot measure
+the intensity of feeling that may be behind it. Pheres shows great power
+of fight, yet one feels his age and physical weakness. See Preface, p.
+xvi.
+
+P. 40, l. 713 ff. The quick thrust and parry are sometimes hard to follow
+in reading, though in acting the sense would be plain enough. Admetus
+cries angrily, "Oh, live a longer life than Zeus!" "Is that a curse?" says
+Pheres; "are you cursing because nobody does you any harm?" (_i.e_.
+since you clearly have nothing else to curse for). Admetus: "On the
+contrary I blessed you; I knew you were greedy of life." Pheres: "_I_
+greedy? It is _you_, I believe, that Alcestis is dying for."
+
+P. 42, l. 732. Acastus was Alcestis's brother, son of Pelias.
+
+P. 43, l. 747. It is rare in Greek tragedy for the Chorus to leave the
+stage altogether in the middle of a play. But they do so, for example, in
+the _Ajax_ of Sophocles. Ajax is lost, and the Sailors who form the
+Chorus go out to look for him; when they are gone the scene is supposed to
+shift and Ajax enters alone, arranging his own death. This very effective
+scene of the revelling Heracles is to be explained, I think, by the
+Satyr-play tradition. See Preface.
+
+P. 45, ll. 782-785. There are four lines rhyming in the Greek here; an odd
+and slightly drunken effect.
+
+P. 46, l. 805 ff., A woman dead, of no one's kin: why grieve so much?]--
+Heracles is somewhat "shameless," as a Greek would say; he had much more
+delicacy when he was sober.
+
+P. 48, l. 837 ff. A fine speech, leaving one in doubt whether it is the
+outburst of a real hero or the vapouring of a half-drunken man. Just the
+effect intended. Electryon was a chieftain of Tiryns. His daughter,
+Alcmene, the Tirynthian _Kore_ or Earth-maiden, was beloved of Zeus,
+or, as others put it, was chosen by Zeus to be the mother of the Deliverer
+of mankind whom he was resolved to beget. She was married to Amphitryon of
+Thebes.
+
+P. 49, l. 860 ff. If Heracles set out straight to the grave and Admetus
+with the procession was returning from the grave, how was it they did not
+meet? The answer is that Attic drama seldom asked such questions.
+
+Pp. 49-54, ll. 861-961. This Threnos, or lamentation scene, seems to our
+minds a little long. We must remember (1) that a Tragedy _is_ a
+Threnos--a _Trauerspiel_--and, however much it develops in the
+direction of a mere entertainment, the Threnos-element is of primary
+importance. (2) This scene has two purposes to serve; first to illustrate
+the helpless loneliness of Admetus when he returns to his empty house, and
+secondly the way in which remorse works in his mind, till in ll. 935-961
+he makes public confession that he has done wrong. For both purposes one
+needs the illusion of a long lapse of time.
+
+P. 53, l. 945 ff., The floor unswept.]--Probably the floor really would be
+unswept in the house of a primitive Thessalian chieftain whose wife was
+dead and her place unfilled; but I doubt if the point would have been
+mentioned so straightforwardly in a real tragedy.
+
+Pp. 54-55, l. 966 ff., That which Needs Must Be.]--Ananke or Necessity.--
+Orphic rune.]--The charms inscribed by Orpheus on certain tablets in
+Thrace. Orphic literature and worship had a strong magical element in
+them.
+
+P. 55, l. 995 ff., A grave-mound of the dead.]--Every existing Greek
+tragedy has somewhere in it a taboo grave--a grave which is either
+worshipped, or specially avoided or somehow magical. We may conjecture
+from this passage that there was in the time of Euripides a sacred tomb
+near Pherae, which received worship and had the story told about it that
+she who lay there had died for her husband.
+
+Pp. 56-67, ll. 1008-end. This last scene must have been exceedingly
+difficult to compose, and some critics have thought it ineffective or
+worse. To me it seems brilliantly conceived and written, though of course
+it needs to be read with the imagination strongly at work. One must never
+forget the silent and veiled Woman on whom the whole scene centres. I have
+tried conjecturally to indicate the main lines of her acting, but, of
+course, others may read it differently.
+
+To understand Heracles in this scene, one must first remember the
+traditional connexion of Satyrs (and therefore of satyric heroes) with the
+re-awakening of the dead Earth in spring and the return of human souls to
+their tribe. Dionysus was, of all the various Kouroi, the one most widely
+connected with resurrection ideas, and the Satyrs are his attendant
+daemons, who dance magic dances at the Return to Life of Semele or
+Persephone. And Heracles himself, in certain of his ritual aspects, has
+similar functions. See J.E. Harrison, _Themis_, pp. 422 f. and 365
+ff., or my _Four Stages of Greek Religion_, pp. 46 f. This tradition
+explains, to start with, what Heracles--and this particular sort of
+revelling Heracles--has to do in a resurrection scene. Heracles bringing
+back the dead is a datum of the saga. There remain then the more purely
+dramatic questions about our poet's treatment of the datum.
+
+Why, for instance, does Heracles mystify Admetus with the Veiled Woman? To
+break the news gently, or to retort his own mystification upon him? I
+think, the latter. Admetus had said that "a woman" was dead; Heracles
+says: "All right: here is 'a woman' whom I want you to look after."
+
+Again, what are the feelings of Admetus himself? First, mere indignation
+and disgust at the utterly tactless proposal: then, I think, in 1061 ff.
+("I must walk with care" ... end of speech), a strange discovery about
+himself which amazes and humiliates him. As he looks at the woman he finds
+himself feeling how exactly like Alcestis she is, and then yearning
+towards her, almost falling in love with her. A most beautiful and
+poignant touch. In modern language one would say that his subconscious
+nature feels Alcestis there and responds emotionally to her presence; his
+conscious nature, believing the woman to be a stranger, is horrified at
+his own apparent baseness and inconstancy.
+
+P. 57, l. 1051, Where in my castle, etc.]--The castle is divided into two
+main parts: a public _megaron_ or great hall where the men live
+during; the day and sleep at night, and a private region, ruled by the
+queen and centring in the _thalamos_ or royal bed-chamber. If the new
+woman were taken into this "harem," even if Admetus never spoke to her,
+the world outside would surmise the worst and consider him dishonoured.
+
+P. 66, l. 1148, Be righteous to thy guest, As he would have thee be.]--
+Does this mean "Go on being hospitable, as you have been," or "Learn after
+this not to take liberties with other guests"? It is hard to say.
+
+P. 66, l. 1152, The feasting day shall surely come; now I must needs
+away.]--A fine last word for Heracles. We have seen him feasting, but that
+makes a small part in his life. His main life is to perform labour upon
+labour in service to his king. Euripides occasionally liked this method of
+ending a play, not with a complete finish (Greek _catastrophe_), but
+with the opening of a door into some further vista of endurance or
+adventure. The _Trojan Women_ ends by the women going out to the
+Greek ships to begin a life of slavery; the _Rhesus_ with the doomed
+army of Trojans gathering bravely for an attack which we know will be
+disastrous. Here we have the story finished for Admetus and Alcestis, but
+no rest for Heracles. See the note at the end of my _Trojan Women_.
+
+
+THE END
+
+
+
+
+
+End of the Project Gutenberg EBook of Alcestis, by Euripides
+

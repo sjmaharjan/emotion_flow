@@ -1,0 +1,2087 @@
+
+
+
+
+Produced by Juliet Sutherland, Chuck Greif and the PG Online Distributed
+Proofreading Team
+
+
+
+
+
+
+[Illustration: Faust]
+[Illustration]
+[Illustration]
+[Illustration: _Have you not led this life quite long enough?_]
+
+
+
+
+FAUST
+
+_by_
+
+_Johann Wolfgang von Goethe_
+
+WITH ILLUSTRATIONS BY
+
+_Harry Clarke_
+
+TRANSLATED INTO ENGLISH, IN
+THE ORIGINAL METRES, BY
+
+_Bayard Taylor_
+
+
+_An Illustrated Edition_
+
+THE WORLD PUBLISHING COMPANY
+
+CLEVELAND, OHIO NEW YORK, N.Y. PRINTED IN THE UNITED STATES OF AMERICA
+
+[Illustration]
+
+[Illustration]
+
+CONTENTS
+
+
+PREFACE
+AN GOETHE
+DEDICATION
+PRELUDE AT THE THEATRE
+PROLOGUE IN HEAVEN
+
+SCENE I. NIGHT (_Faust's Monologue_)
+     II. BEFORE THE CITY-GATE
+    III. THE STUDY (_The Exorcism_)
+     IV. THE STUDY (_The Compact_)
+      V. AUERBACH'S CELLAR
+     VI. WITCHES' KITCHEN
+    VII. A STREET
+   VIII. EVENING
+     IX. PROMENADE
+      X. THE NEIGHBOR'S HOUSE
+      XI. STREET
+     XII. GARDEN
+    XIII. A GARDEN-ARBOR
+     XIV. FOREST AND CAVERN
+      XV. MARGARET'S ROOM
+     XVI. MARTHA'S GARDEN
+    XVII. AT THE FOUNTAIN
+   XVIII. DONJON (_Margaret's Prayer_)
+     XIX. NIGHT (_Valentine's Death_)
+      XX. CATHEDRAL
+     XXI. WALPURGIS-NIGHT
+    XXII. OBERON AND TITANIA'S GOLDEN WEDDING
+   XXIII. DREARY DAY
+    XXIV. NIGHT
+     XXV. DUNGEON
+[Illustration]
+
+
+
+
+FAUST
+
+[Illustration]
+
+[Illustration: Preface]
+
+It is twenty years since I first determined to attempt the translation
+of _Faust_, in the original metres. At that time, although more than a
+score of English translations of the First Part, and three or four of
+the Second Part, were in existence, the experiment had not yet been
+made. The prose version of Hayward seemed to have been accepted as the
+standard, in default of anything more satisfactory: the English critics,
+generally sustaining the translator in his views concerning the
+secondary importance of form in Poetry, practically discouraged any
+further attempt; and no one, familiar with rhythmical expression through
+the needs of his own nature, had devoted the necessary love and patience
+to an adequate reproduction of the great work of Goethe's life. Mr. Brooks was the first to undertake the task, and the publication of
+his translation of the First Part (in 1856) induced me, for a time, to
+give up my own design. No previous English version exhibited such
+abnegation of the translator's own tastes and habits of thought, such
+reverent desire to present the original in its purest form. The care and
+conscience with which the work had been performed were so apparent, that
+I now state with reluctance what then seemed to me to be its only
+deficiencies,--a lack of the lyrical fire and fluency of the original in
+some passages, and an occasional lowering of the tone through the use of
+words which are literal, but not equivalent. The plan of translation
+adopted by Mr. Brooks was so entirely my own, that when further
+residence in Germany and a more careful study of both parts of _Faust_
+had satisfied me that the field was still open,--that the means
+furnished by the poetical affinity of the two languages had not yet been
+exhausted,--nothing remained for me but to follow him in all essential
+particulars. His example confirmed me in the belief that there were few
+difficulties in the way of a nearly literal yet thoroughly rhythmical
+version of _Faust_, which might not be overcome by loving labor. A
+comparison of seventeen English translations, in the arbitrary metres
+adopted by the translators, sufficiently showed the danger of allowing
+license in this respect: the white light of Goethe's thought was thereby
+passed through the tinted glass of other minds, and assumed the coloring
+of each. Moreover, the plea of selecting different metres in the hope of
+producing a similar effect is unreasonable, where the identical metres
+are possible. The value of form, in a poetical work, is the first question to be
+considered. No poet ever understood this question more thoroughly than
+Goethe himself, or expressed a more positive opinion in regard to it. The alternative modes of translation which he presents (reported by
+Riemer, quoted by Mrs. Austin, in her "Characteristics of Goethe," and
+accepted by Mr. Hayward),[A] are quite independent of his views
+concerning the value of form, which we find given elsewhere, in the
+clearest and most emphatic manner. [B] Poetry is not simply a fashion of
+expression: it is the form of expression absolutely required by a
+certain class of ideas. Poetry, indeed, may be distinguished from Prose
+by the single circumstance, that it is the utterance of whatever in man
+cannot be perfectly uttered in any other than a rhythmical form: it is
+useless to say that the naked meaning is independent of the form: on the
+contrary, the form contributes essentially to the fullness of the
+meaning. In Poetry which endures through its own inherent vitality,
+there is no forced union of these two elements. They are as intimately
+blended, and with the same mysterious beauty, as the sexes in the
+ancient Hermaphroditus. To attempt to represent Poetry in Prose, is very
+much like attempting to translate music into speech. [C]
+
+[A] "'There are two maxims of translation,' says he: 'the one requires
+that the author, of a foreign nation, be brought to us in such a manner
+that we may regard him as our own; the other, on the contrary, demands
+of us that we transport ourselves over to him, and adopt his situation,
+his mode of speaking, and his peculiarities. The advantages of both are
+sufficiently known to all instructed persons, from masterly examples.'" Is it necessary, however, that there should always be this alternative? Where the languages are kindred, and equally capable of all varieties of
+metrical expression, may not both these "maxims" be observed in the same
+translation? Goethe, it is true, was of the opinion that _Faust_ ought
+to be given, in French, in the manner of Clement Marot; but this was
+undoubtedly because he felt the inadequacy of modern French to express
+the naive, simple realism of many passages. The same objection does not
+apply to English. There are a few archaic expressions in _Faust_, but no
+more than are still allowed--nay, frequently encouraged--in the English
+of our day. [B] "You are right," said Goethe; "there are great and mysterious
+agencies included in the various forms of Poetry. If the substance of my
+'Roman Elegies' were to be expressed in the tone and measure of Byron's
+'Don Juan,' it would really have an atrocious effect."--_Eckermann_. "The rhythm," said Goethe, "is an unconscious result of the poetic mood. If one should stop to consider it mechanically, when about to write a
+poem, one would become bewildered and accomplish nothing of real
+poetical value."--_Ibid_. "_All that is poetic in character should be rythmically treated_! Such
+is my conviction; and if even a sort of poetic prose should be gradually
+introduced, it would only show that the distinction between prose and
+poetry had been completely lost sight of." --_Goethe to Schiller_, 1797. Tycho Mommsen, in his excellent essay, _Die Kunst des Deutschen
+Uebersetzers aus neueren Sprachen_, goes so far as to say: "The metrical
+or rhymed modelling of a poetical work is so essentially the germ of its
+being, that, rather than by giving it up, we might hope to construct a
+similar work of art before the eyes of our countrymen, by giving up or
+changing the substance. The immeasurable result which has followed works
+wherein the form has been retained--such as the Homer of Voss, and the
+Shakespeare of Tieck and Schlegel--is an incontrovertible evidence of
+the vitality of the endeavor." [C] "Goethe's poems exercise a great sway over me, not only by their
+meaning, but also by their rhythm. It is a language which stimulates me
+to composition."--_Beethoven_. The various theories of translation from the Greek and Latin poets have
+been admirably stated by Dryden in his Preface to the "Translations from
+Ovid's Epistles," and I do not wish to continue the endless
+discussion,--especially as our literature needs examples, not opinions. A recent expression, however, carries with it so much authority, that I
+feel bound to present some considerations which the accomplished scholar
+seems to have overlooked. Mr. Lewes[D] justly says: "The effect of
+poetry is a compound of music and suggestion; this music and this
+suggestion are intermingled in words, which to alter is to alter the
+effect. For words in poetry are not, as in prose, simple representatives
+of objects and ideas: they are parts of an organic whole,--they are
+tones in the harmony." He thereupon illustrates the effect of
+translation by changing certain well-known English stanzas into others,
+equivalent in meaning, but lacking their felicity of words, their grace
+and melody. I cannot accept this illustration as valid, because Mr.
+Lewes purposely omits the very quality which an honest translator should
+exhaust his skill in endeavoring to reproduce. He turns away from the
+_one best_ word or phrase in the English lines he quotes, whereas the
+translator seeks precisely that one best word or phrase (having _all_
+the resources of his language at command), to represent what is said in
+_another_ language. More than this, his task is not simply mechanical:
+he must feel, and be guided by, a secondary inspiration. Surrendering
+himself to the full possession of the spirit which shall speak through
+him, he receives, also, a portion of the same creative power. Mr. Lewes
+reaches this conclusion: "If, therefore, we reflect what a poem _Faust_
+is, and that it contains almost every variety of style and metre, it
+will be tolerably evident that no one unacquainted with the original can
+form an adequate idea of it from translation,"[E] which is certainly
+correct of any translation wherein something of the rhythmical variety
+and beauty of the original is not retained. That very much of the
+rhythmical character may be retained in English, was long ago shown by
+Mr. Carlyle,[F] in the passages which he translated, both literally and
+rhythmically, from the _Helena_ (Part Second). In fact, we have so many
+instances of the possibility of reciprocally transferring the finest
+qualities of English and German poetry, that there is no sufficient
+excuse for an unmetrical translation of _Faust_. I refer especially to
+such subtile and melodious lyrics as "The Castle by the Sea," of Uhland,
+and the "Silent Land" of Salis, translated by Mr. Longfellow; Goethe's
+"Minstrel" and "Coptic Song," by Dr. Hedge; Heine's "Two Grenadiers," by
+Dr. Furness and many of Heine's songs by Mr Leland; and also to the
+German translations of English lyrics, by Freiligrath and Strodtmann. [G]
+
+
+[D] Life of Goethe (Book VI.). [E] Mr. Lewes gives the following advice: "The English reader would
+perhaps best succeed who should first read Dr. Anster's brilliant
+paraphrase, and then carefully go through Hayward's prose translation." This is singularly at variance with the view he has just expressed. Dr.
+Anster's version is an almost incredible dilution of the original,
+written in _other_ metres; while Hayward's entirely omits the element of
+poetry. [F] Foreign Review, 1828. [G] When Freiligrath can thus give us Walter Scott:--
+
+"Kommt, wie der Wind kommt, Wenn Waelder erzittern Kommt, wie die
+Brandung Wenn Flotten zersplittern! Schnell heran, schnell herab,
+Schneller kommt Al'e!--Haeuptling und Bub' und Knapp, Herr und Vasalle!" or Strodtmann thus reproduce Tennyson:--
+
+"Es faellt der Strahl auf Burg und Thal, Und schneeige Gipfel, reich an
+Sagen; Viel' Lichter wehn auf blauen Seen, Bergab die Wasserstuerze
+jagen! Blas, Huefthorn, blas, in Wiederhall erschallend: Blas,
+Horn--antwortet, Echos, hallend, hallend, hallend!" --it must be a dull ear which would be satisfied with the omission of
+rhythm and rhyme. I have a more serious objection, however, to urge against Mr. Hayward's
+prose translation. Where all the restraints of verse are flung aside, we
+should expect, at least, as accurate a reproduction of the sense,
+spirit, and tone of the original, as the genius of our language will
+permit. So far from having given us such a reproduction, Mr. Hayward not
+only occasionally mistakes the exact meaning of the German text,[H] but,
+wherever two phrases may be used to express the meaning with equal
+fidelity, he very frequently selects that which has the less grace,
+strength, or beauty. [I]
+
+[H] On his second page, the line _Mein Lied ertoent der unbekannten
+Menge_, "My song sounds to the unknown multitude," is translated: "My
+_sorrow_ voices itself to the strange throng." Other English
+translators, I notice, have followed Mr. Hayward in mistaking _Lied_ for
+_Leid_. I:
+ I take but one out of numerous instances, for the sake of
+illustration. The close of the Soldier's Song (Part I. Scene II.) is:--
+
+          "Kuehn is das Muehen,
+          Herrlich der Lohn! Und die Soldaten
+          Ziehen davon." Literally:
+
+          Bold is the endeavor,
+          Splendid the pay! And the soldiers
+          March away. This Mr. Hayward translates:--
+
+          Bold the adventure,
+          Noble the reward--
+          And the soldiers
+          Are off. For there are few things which may not be said, in English, in a twofold
+manner,--one poetic, and the other prosaic. In German, equally, a word
+which in ordinary use has a bare prosaic character may receive a fairer
+and finer quality from its place in verse. The prose translator should
+certainly be able to feel the manifestation of this law in both
+languages, and should so choose his words as to meet their reciprocal
+requirements. A man, however, who is not keenly sensible to the power
+and beauty and value of rhythm, is likely to overlook these delicate yet
+most necessary distinctions. The author's thought is stripped of a last
+grace in passing through his mind, and frequently presents very much the
+same resemblance to the original as an unhewn shaft to the fluted
+column. Mr. Hayward unconsciously illustrates his lack of a refined
+appreciation of verse, "in giving," as he says, "_a sort of rhythmical
+arrangement_ to the lyrical parts," his object being "to convey some
+notion of the variety of versification which forms one great charm of
+the poem." A literal translation is always possible in the unrhymed
+passages; but even here Mr. Hayward's ear did not dictate to him the
+necessity of preserving the original rhythm. While, therefore, I heartily recognize his lofty appreciation of
+_Faust_,--while I honor him for the patient and conscientious labor he
+has bestowed upon his translation,--I cannot but feel that he has
+himself illustrated the unsoundness of his argument. Nevertheless, the
+circumstance that his prose translation of _Faust_ has received so much
+acceptance proves those qualities of the original work which cannot be
+destroyed by a test so violent. From the cold bare outline thus
+produced, the reader unacquainted with the German language would
+scarcely guess what glow of color, what richness of changeful life, what
+fluent grace and energy of movement have been lost in the process. We
+must, of course, gratefully receive such an outline, where a nearer
+approach to the form of the original is impossible, but, until the
+latter has been demonstrated, we are wrong to remain content with the
+cheaper substitute. It seems to me that in all discussions upon this subject the capacities
+of the English language have received but scanty justice. The
+intellectual tendencies of our race have always been somewhat
+conservative, and its standards of literary taste or belief, once set
+up, are not varied without a struggle. The English ear is suspicious of
+new metres and unaccustomed forms of expression: there are critical
+detectives on the track of every author, and a violation of the accepted
+canons is followed by a summons to judgment. Thus the tendency is to
+contract rather than to expand the acknowledged excellences of the
+language. [J]
+
+[J] I cannot resist the temptation of quoting the following passage from
+Jacob Grimm: "No one of all the modern languages has acquired a greater
+force and strength than the English, through the derangement and
+relinquishment of its ancient laws of sound. The unteachable
+(nevertheless _learnable_) profusion of its middle-tones has conferred
+upon it an intrinsic power of expression, such as no other human tongue
+ever possessed. Its entire, thoroughly intellectual and wonderfully
+successful foundation and perfected development issued from a marvelous
+union of the two noblest tongues of Europe, the Germanic and the
+Romanic. Their mutual relation in the English language is well known,
+since the former furnished chiefly the material basis, while the latter
+added the intellectual conceptions. The English language, by and through
+which the greatest and most eminent poet of modern times--as contrasted
+with ancient classical poetry--(of course I can refer only to
+Shakespeare) was begotten and nourished, has a just claim to be called a
+language of the world; and it appears to be destined, like the English
+race, to a higher and broader sway in all quarters of the earth. For in
+richness, in compact adjustment of parts, and in pure intelligence, none
+of the living languages can be compared with it,--not even our German,
+which is divided even as we are divided, and which must cast off many
+imperfections before it can boldly enter on its career." --_Ueber den
+Ursprung der Sprache_. The difficulties in the way of a nearly literal translation of _Faust_
+in the original metres have been exaggerated, because certain affinities
+between the two languages have not been properly considered. With all
+the splendor of versification in the work, it contains but few metres of
+which the English tongue is not equally capable. Hood has familiarized
+us with dactylic (triple) rhymes, and they are remarkably abundant and
+skillful in Mr. Lowell's "Fable for the Critics": even the unrhymed
+iambic hexameter of the _Helena_ occurs now and then in Milton's _Samson
+Agonistes_. It is true that the metrical foot into which the German
+language most naturally falls is the _trochaic_, while in English it is
+the _iambic_: it is true that German is rich, involved, and tolerant of
+new combinations, while English is simple, direct, and rather shy of
+compounds; but precisely these differences are so modified in the German
+of _Faust_ that there is a mutual approach of the two languages. In
+_Faust_, the iambic measure predominates; the style is compact; the many
+licenses which the author allows himself are all directed towards a
+shorter mode of construction. On the other hand, English metre compels
+the use of inversions, admits many verbal liberties prohibited to prose,
+and so inclines towards various flexible features of its sister-tongue
+that many lines of _Faust_ may be repeated in English without the
+slightest change of meaning, measure, or rhyme. There are words, it is
+true, with so delicate a bloom upon them that it can in no wise be
+preserved; but even such words will always lose less when they carry
+with them their rhythmical atmosphere. The flow of Goethe's verse is
+sometimes so similar to that of the corresponding English metre, that
+not only its harmonies and caesural pauses, but even its punctuation,
+may be easily retained. I am satisfied that the difference between a translation of _Faust_ in
+prose or metre is chiefly one of labor,--and of that labor which is
+successful in proportion as it is joyously performed. My own task has
+been cheered by the discovery, that the more closely I reproduced the
+language of the original, the more of its rhythmical character was
+transferred at the same time. If, now and then, there was an inevitable
+alternative of meaning or music, I gave the preference to the former. By
+the term "original metres" I do not mean a rigid, unyielding adherence
+to every foot, line, and rhyme of the German original, although this has
+very nearly been accomplished. Since the greater part of the work is
+written in an irregular measure, the lines varying from three to six
+feet, and the rhymes arranged according to the author's will, I do not
+consider that an occasional change in the number of feet, or order of
+rhyme, is any violation of the metrical plan. The single slight liberty
+I have taken with the lyrical passages is in Margaret's song,--"The King
+of Thule,"--in which, by omitting the alternate feminine rhymes, yet
+retaining the metre, I was enabled to make the translation strictly
+literal. If, in two or three instances, I have left a line unrhymed, I
+have balanced the omission by giving rhymes to other lines which stand
+unrhymed in the original text. For the same reason, I make no apology
+for the imperfect rhymes, which are frequently a translation as well as
+a necessity. With all its supreme qualities, _Faust_ is far from being a
+technically perfect work. [K]
+
+[K] "At present, everything runs in technical grooves, and the critical
+gentlemen begin to wrangle whether in a rhyme an _s_ should correspond
+with an _s_ and not with _sz_. If I were young and reckless enough, I
+would purposely offend all such technical caprices: I would use
+alliteration, assonance, false rhyme, just according to my own will or
+convenience--but, at the same time, I would attend to the main thing,
+and endeavor to say so many good things that every one would be
+attracted to read and remember them." --_Goethe_, in 1831. The feminine and dactylic rhymes, which have been for the most part
+omitted by all metrical translators except Mr. Brooks, are
+indispensable. The characteristic tone of many passages would be nearly
+lost, without them. They give spirit and grace to the dialogue, point to
+the aphoristic portions (especially in the Second Part), and an
+ever-changing music to the lyrical passages. The English language,
+though not so rich as the German in such rhymes, is less deficient than
+is generally supposed. The difficulty to be overcome is one of
+construction rather than of the vocabulary. The present participle can
+only be used to a limited extent, on account of its weak termination,
+and the want of an accusative form to the noun also restricts the
+arrangement of words in English verse. I cannot hope to have been always
+successful; but I have at least labored long and patiently, bearing
+constantly in mind not only the meaning of the original and the
+mechanical structure of the lines, but also that subtile and haunting
+music which seems to govern rhythm instead of being governed by it. B.T. [Illustration]
+
+
+
+
+AN GOETHE
+
+_Erhabener Geist, im Geisterreich verloren! Wo immer Deine lichte Wohnung sey,
+Zum hoeh'ren Schaffen bist Du neugeboren,
+Und singest dort die voll're Litanei. Von jenem Streben das Du auserkoren,
+Vom reinsten Aether, drin Du athmest frei,
+O neige Dich zu gnaedigem Erwiedern
+Des letzten Wiederhalls von Deinen Liedern! II
+
+Den alten Musen die bestaeubten Kronen
+Nahmst Du, zu neuem Glanz, mit kuehner Hand:
+Du loest die Raethsel aeltester Aeonen
+Durch juengeren Glauben, helleren Verstand,
+Und machst, wo rege Menschengeister wohnen,
+Die ganze Erde Dir zum Vaterland;
+Und Deine Juenger sehn in Dir, verwundert,
+Verkoerpert schon das werdende Jahrhundert. III
+
+Was Du gesungen, Aller Lust und Klagen,
+Des Lebens Wiedersprueche, neu vermaehlt,--
+Die Harfe tausendstimmig frisch geschlagen,
+Die Shakspeare einst, die einst Homer gewaehlt,--
+Darf ich in fremde Klaenge uebertragen
+Das Alles, wo so Mancher schon gefehlt? Lass Deinen Geist in meiner Stimme klingen,
+Und was Du sangst, lass mich es Dir nachsingen!_
+
+B.T. [Illustration]
+
+[Illustration: =Dedication=]
+
+Again ye come, ye hovering Forms! I find ye,
+As early to my clouded sight ye shone! Shall I attempt, this once, to seize and bind ye? Still o'er my heart is that illusion thrown? Ye crowd more near! Then, be the reign assigned ye,
+And sway me from your misty, shadowy zone! My bosom thrills, with youthful passion shaken,
+From magic airs that round your march awaken. Of joyous days ye bring the blissful vision;
+The dear, familiar phantoms rise again,
+And, like an old and half-extinct tradition,
+First Love returns, with Friendship in his train. Renewed is Pain: with mournful repetition
+Life tracks his devious, labyrinthine chain,
+And names the Good, whose cheating fortune tore them
+From happy hours, and left me to deplore them. They hear no longer these succeeding measures,
+The souls, to whom my earliest songs I sang:
+
+Dispersed the friendly troop, with all its pleasures,
+And still, alas! the echoes first that rang! I bring the unknown multitude my treasures;
+Their very plaudits give my heart a pang,
+And those beside, whose joy my Song so flattered,
+If still they live, wide through the world are scattered. And grasps me now a long-unwonted yearning
+For that serene and solemn Spirit-Land:
+My song, to faint Aeolian murmurs turning,
+Sways like a harp-string by the breezes fanned. I thrill and tremble; tear on tear is burning,
+And the stern heart is tenderly unmanned. What I possess, I see far distant lying,
+And what I lost, grows real and undying. [Illustration]
+
+[Illustration: =Prelude at the Theatre=]
+
+
+
+MANAGER    DRAMATIC POET    MERRY-ANDREW
+
+MANAGER
+
+You two, who oft a helping hand
+Have lent, in need and tribulation. Come, let me know your expectation
+Of this, our enterprise, in German land! I wish the crowd to feel itself well treated,
+Especially since it lives and lets me live;
+The posts are set, the booth of boards completed. And each awaits the banquet I shall give. Already there, with curious eyebrows raised,
+They sit sedate, and hope to be amazed. I know how one the People's taste may flatter,
+Yet here a huge embarrassment I feel:
+What they're accustomed to, is no great matter,
+But then, alas! they've read an awful deal. How shall we plan, that all be fresh and new,--
+Important matter, yet attractive too? For 'tis my pleasure-to behold them surging,
+When to our booth the current sets apace,
+And with tremendous, oft-repeated urging,
+Squeeze onward through the narrow gate of grace:
+By daylight even, they push and cram in
+To reach the seller's box, a fighting host,
+And as for bread, around a baker's door, in famine,
+To get a ticket break their necks almost. This miracle alone can work the Poet
+On men so various: now, my friend, pray show it. POET
+
+
+Speak not to me of yonder motley masses,
+Whom but to see, puts out the fire of Song! Hide from my view the surging crowd that passes,
+And in its whirlpool forces us along! No, lead me where some heavenly silence glasses
+The purer joys that round the Poet throng,--
+Where Love and Friendship still divinely fashion
+The bonds that bless, the wreaths that crown his passion! Ah, every utterance from the depths of feeling
+The timid lips have stammeringly expressed,--
+Now failing, now, perchance, success revealing,--
+Gulps the wild Moment in its greedy breast;
+Or oft, reluctant years its warrant sealing,
+Its perfect stature stands at last confessed! What dazzles, for the Moment spends its spirit:
+What's genuine, shall Posterity inherit. MERRY-ANDREW
+
+
+Posterity! Don't name the word to me! If _I_ should choose to preach Posterity,
+Where would you get contemporary fun? That men _will_ have it, there's no blinking:
+A fine young fellow's presence, to my thinking,
+Is something worth, to every one. Who genially his nature can outpour,
+Takes from the People's moods no irritation;
+The wider circle he acquires, the more
+Securely works his inspiration. Then pluck up heart, and give us sterling coin! Let Fancy be with her attendants fitted,--
+Sense, Reason, Sentiment, and Passion join,--
+But have a care, lest Folly be omitted! MANAGER
+
+Chiefly, enough of incident prepare! They come to look, and they prefer to stare. Reel off a host of threads before their faces,
+So that they gape in stupid wonder: then
+By sheer diffuseness you have won their graces,
+And are, at once, most popular of men. Only by mass you touch the mass; for any
+Will finally, himself, his bit select:
+Who offers much, brings something unto many,
+And each goes home content with the effect,
+If you've a piece, why, just in pieces give it:
+A hash, a stew, will bring success, believe it! 'Tis easily displayed, and easy to invent. What use, a Whole compactly to present? Your hearers pick and pluck, as soon as they receive it! POET
+
+You do not feel, how such a trade debases;
+How ill it suits the Artist, proud and true! The botching work each fine pretender traces
+Is, I perceive, a principle with you. MANAGER
+
+Such a reproach not in the least offends;
+A man who some result intends
+Must use the tools that best are fitting. Reflect, soft wood is given to you for splitting,
+And then, observe for whom you write! If one comes bored, exhausted quite,
+Another, satiate, leaves the banquet's tapers,
+And, worst of all, full many a wight
+Is fresh from reading of the daily papers. Idly to us they come, as to a masquerade,
+Mere curiosity their spirits warming:
+The ladies with themselves, and with their finery, aid,
+Without a salary their parts performing. What dreams are yours in high poetic places? You're pleased, forsooth, full houses to behold? Draw near, and view your patrons' faces! The half are coarse, the half are cold. One, when the play is out, goes home to cards;
+A wild night on a wench's breast another chooses:
+Why should you rack, poor, foolish bards,
+For ends like these, the gracious Muses? I tell you, give but more--more, ever more, they ask:
+Thus shall you hit the mark of gain and glory. Seek to confound your auditory! To satisfy them is a task.--
+What ails you now? Is't suffering, or pleasure? POET
+
+Go, find yourself a more obedient slave! What! shall the Poet that which Nature gave,
+The highest right, supreme Humanity,
+Forfeit so wantonly, to swell your treasure? Whence o'er the heart his empire free? The elements of Life how conquers he? Is't not his heart's accord, urged outward far and dim,
+To wind the world in unison with him? When on the spindle, spun to endless distance,
+By Nature's listless hand the thread is twirled,
+And the discordant tones of all existence
+In sullen jangle are together hurled,
+Who, then, the changeless orders of creation
+Divides, and kindles into rhythmic dance? Who brings the One to join the general ordination,
+Where it may throb in grandest consonance? Who bids the storm to passion stir the bosom? In brooding souls the sunset burn above? Who scatters every fairest April blossom
+Along the shining path of Love? Who braids the noteless leaves to crowns, requiting
+Desert with fame, in Action's every field? Who makes Olympus sure, the Gods uniting? The might of Man, as in the Bard revealed. MERRY-ANDREW
+
+So, these fine forces, in conjunction,
+Propel the high poetic function,
+As in a love-adventure they might play! You meet by accident; you feel, you stay,
+And by degrees your heart is tangled;
+Bliss grows apace, and then its course is jangled;
+You're ravished quite, then comes a touch of woe,
+And there's a neat romance, completed ere you know! Let us, then, such a drama give! Grasp the exhaustless life that all men live! Each shares therein, though few may comprehend:
+Where'er you touch, there's interest without end. In motley pictures little light,
+Much error, and of truth a glimmering mite,
+Thus the best beverage is supplied,
+Whence all the world is cheered and edified. Then, at your play, behold the fairest flower
+Of youth collect, to hear the revelation! Each tender soul, with sentimental power,
+Sucks melancholy food from your creation;
+And now in this, now that, the leaven works. For each beholds what in his bosom lurks. They still are moved at once to weeping or to laughter,
+Still wonder at your flights, enjoy the show they see:
+A mind, once formed, is never suited after;
+One yet in growth will ever grateful be. POET
+
+Then give me back that time of pleasures,
+While yet in joyous growth I sang,--
+When, like a fount, the crowding measures
+Uninterrupted gushed and sprang! Then bright mist veiled the world before me,
+In opening buds a marvel woke,
+As I the thousand blossoms broke,
+Which every valley richly bore me! I nothing had, and yet enough for youth--
+Joy in Illusion, ardent thirst for Truth. Give, unrestrained, the old emotion,
+The bliss that touched the verge of pain,
+The strength of Hate, Love's deep devotion,--
+O, give me back my youth again! MERRY ANDREW
+
+Youth, good my friend, you certainly require
+When foes in combat sorely press you;
+When lovely maids, in fond desire,
+Hang on your bosom and caress you;
+When from the hard-won goal the wreath
+Beckons afar, the race awaiting;
+When, after dancing out your breath,
+You pass the night in dissipating:--
+But that familiar harp with soul
+To play,--with grace and bold expression,
+And towards a self-erected goal
+To walk with many a sweet digression,--
+This, aged Sirs, belongs to you,
+And we no less revere you for that reason:
+Age childish makes, they say, but 'tis not true;
+We're only genuine children still, in Age's season! MANAGER
+
+The words you've bandied are sufficient;
+'Tis deeds that I prefer to see:
+In compliments you're both proficient,
+But might, the while, more useful be. What need to talk of Inspiration? 'Tis no companion of Delay. If Poetry be your vocation,
+Let Poetry your will obey! Full well you know what here is wanting;
+The crowd for strongest drink is panting,
+And such, forthwith, I'd have you brew. What's left undone to-day, To-morrow will not do. Waste not a day in vain digression:
+With resolute, courageous trust
+Seize every possible impression,
+And make it firmly your possession;
+You'll then work on, because you must. Upon our German stage, you know it,
+Each tries his hand at what he will;
+So, take of traps and scenes your fill,
+And all you find, be sure to show it! Use both the great and lesser heavenly light,--
+Squander the stars in any number,
+Beasts, birds, trees, rocks, and all such lumber,
+Fire, water, darkness, Day and Night! Thus, in our booth's contracted sphere,
+The circle of Creation will appear,
+And move, as we deliberately impel,
+From Heaven, across the World, to Hell! [Illustration]
+[Illustration]
+
+PROLOGUE IN HEAVEN
+
+THE LORD THE HEAVENLY HOST _Afterwards_
+MEPHISTOPHELES
+
+(_The_ THREE ARCHANGELS _come forward_.) RAPHAEL
+
+The sun-orb sings, in emulation,
+'Mid brother-spheres, his ancient round:
+His path predestined through Creation
+He ends with step of thunder-sound. The angels from his visage splendid
+Draw power, whose measure none can say;
+The lofty works, uncomprehended,
+Are bright as on the earliest day. GABRIEL
+
+And swift, and swift beyond conceiving,
+The splendor of the world goes round,
+Day's Eden-brightness still relieving
+The awful Night's intense profound:
+The ocean-tides in foam are breaking,
+Against the rocks' deep bases hurled,
+And both, the spheric race partaking,
+Eternal, swift, are onward whirled! MICHAEL
+
+And rival storms abroad are surging
+From sea to land, from land to sea. A chain of deepest action forging
+Round all, in wrathful energy. There flames a desolation, blazing
+Before the Thunder's crashing way:
+Yet, Lord, Thy messengers are praising
+The gentle movement of Thy Day. THE THREE
+
+Though still by them uncomprehended,
+From these the angels draw their power,
+And all Thy works, sublime and splendid,
+Are bright as in Creation's hour. MEPHISTOPHELES
+
+Since Thou, O Lord, deign'st to approach again
+And ask us how we do, in manner kindest,
+And heretofore to meet myself wert fain,
+Among Thy menials, now, my face Thou findest. Pardon, this troop I cannot follow after
+With lofty speech, though by them scorned and spurned:
+My pathos certainly would move Thy laughter,
+If Thou hadst not all merriment unlearned. Of suns and worlds I've nothing to be quoted;
+How men torment themselves, is all I've noted. The little god o' the world sticks to the same old way,
+And is as whimsical as on Creation's day. Life somewhat better might content him,
+But for the gleam of heavenly light which Thou hast lent
+  him:
+He calls it Reason--thence his power's increased,
+To be far beastlier than any beast. Saving Thy Gracious Presence, he to me
+A long-legged grasshopper appears to be,
+That springing flies, and flying springs,
+And in the grass the same old ditty sings. Would he still lay among the grass he grows in! Each bit of dung he seeks, to stick his nose in. THE LORD
+
+Hast thou, then, nothing more to mention? Com'st ever, thus, with ill intention? Find'st nothing right on earth, eternally? MEPHISTOPHELES
+
+No, Lord! I find things, there, still bad as they can be. Man's misery even to pity moves my nature;
+I've scarce the heart to plague the wretched creature. THE LORD
+
+Know'st Faust? MEPHISTOPHELES
+
+The Doctor Faust? THE LORD
+
+My servant, he! MEPHISTOPHELES
+
+Forsooth! He serves you after strange devices:
+No earthly meat or drink the fool suffices:
+His spirit's ferment far aspireth;
+Half conscious of his frenzied, crazed unrest,
+The fairest stars from Heaven he requireth,
+From Earth the highest raptures and the best,
+And all the Near and Far that he desireth
+Fails to subdue the tumult of his breast. THE LORD
+
+Though still confused his service unto Me,
+I soon shall lead him to a clearer morning. Sees not the gardener, even while buds his tree,
+Both flower and fruit the future years adorning? MEPHISTOPHELES
+
+What will you bet? There's still a chance to gain him,
+If unto me full leave you give,
+Gently upon _my_ road to train him! THE LORD
+
+As long as he on earth shall live,
+So long I make no prohibition. While Man's desires and aspirations stir,
+He cannot choose but err. MEPHISTOPHELES
+
+My thanks! I find the dead no acquisition,
+And never cared to have them in my keeping. I much prefer the cheeks where ruddy blood is leaping,
+And when a corpse approaches, close my house:
+It goes with me, as with the cat the mouse. THE LORD
+
+Enough! What thou hast asked is granted. Turn off this spirit from his fountain-head;
+To trap him, let thy snares be planted,
+And him, with thee, be downward led;
+Then stand abashed, when thou art forced to say:
+A good man, through obscurest aspiration,
+Has still an instinct of the one true way. MEPHISTOPHELES
+
+Agreed! But 'tis a short probation. About my bet I feel no trepidation. If I fulfill my expectation,
+You'll let me triumph with a swelling breast:
+Dust shall he eat, and with a zest,
+As did a certain snake, my near relation. THE LORD
+
+Therein thou'rt free, according to thy merits;
+The like of thee have never moved My hate. Of all the bold, denying Spirits,
+The waggish knave least trouble doth create. Man's active nature, flagging, seeks too soon the level;
+Unqualified repose he learns to crave;
+Whence, willingly, the comrade him I gave,
+Who works, excites, and must create, as Devil. But ye, God's sons in love and duty,
+Enjoy the rich, the ever-living Beauty! Creative Power, that works eternal schemes,
+Clasp you in bonds of love, relaxing never,
+And what in wavering apparition gleams
+Fix in its place with thoughts that stand forever! (_Heaven closes: the_ ARCHANGELS _separate_.) MEPHISTOPHELES (_solus_)
+
+I like, at times, to hear The Ancient's word,
+And have a care to be most civil:
+It's really kind of such a noble Lord
+So humanly to gossip with the Devil! [Illustration]
+[Illustration]
+
+
+
+
+FIRST PART OF THE TRAGEDY
+
+I
+
+NIGHT
+
+(_A lofty-arched, narrow, Gothic chamber_. FAUST, _in a chair at his
+desk, restless_.) FAUST
+
+I've studied now Philosophy
+And Jurisprudence, Medicine,--
+And even, alas! Theology,--
+From end to end, with labor keen;
+And here, poor fool! with all my lore
+I stand, no wiser than before:
+I'm Magister--yea, Doctor--hight,
+And straight or cross-wise, wrong or right,
+These ten years long, with many woes,
+I've led my scholars by the nose,--
+And see, that nothing can be known! _That_ knowledge cuts me to the bone. I'm cleverer, true, than those fops of teachers,
+Doctors and Magisters, Scribes and Preachers;
+Neither scruples nor doubts come now to smite me,
+Nor Hell nor Devil can longer affright me. For this, all pleasure am I foregoing;
+I do not pretend to aught worth knowing,
+I do not pretend I could be a teacher
+To help or convert a fellow-creature. Then, too, I've neither lands nor gold,
+Nor the world's least pomp or honor hold--
+No dog would endure such a curst existence! Wherefore, from Magic I seek assistance,
+That many a secret perchance I reach
+Through spirit-power and spirit-speech,
+And thus the bitter task forego
+Of saying the things I do not know,--
+That I may detect the inmost force
+Which binds the world, and guides its course;
+Its germs, productive powers explore,
+And rummage in empty words no more! O full and splendid Moon, whom I
+Have, from this desk, seen climb the sky
+So many a midnight,--would thy glow
+For the last time beheld my woe! Ever thine eye, most mournful friend,
+O'er books and papers saw me bend;
+But would that I, on mountains grand,
+Amid thy blessed light could stand,
+With spirits through mountain-caverns hover,
+Float in thy twilight the meadows over,
+And, freed from the fumes of lore that swathe me,
+To health in thy dewy fountains bathe me! Ah, me! this dungeon still I see. This drear, accursed masonry,
+Where even the welcome daylight strains
+But duskly through the painted panes. Hemmed in by many a toppling heap
+Of books worm-eaten, gray with dust,
+Which to the vaulted ceiling creep,
+Against the smoky paper thrust,--
+With glasses, boxes, round me stacked,
+And instruments together hurled,
+Ancestral lumber, stuffed and packed--
+Such is my world: and what a world! And do I ask, wherefore my heart
+Falters, oppressed with unknown needs? Why some inexplicable smart
+All movement of my life impedes? Alas! in living Nature's stead,
+Where God His human creature set,
+In smoke and mould the fleshless dead
+And bones of beasts surround me yet! Fly! Up, and seek the broad, free land! And this one Book of Mystery
+From Nostradamus' very hand,
+Is't not sufficient company? When I the starry courses know,
+And Nature's wise instruction seek,
+With light of power my soul shall glow,
+As when to spirits spirits speak. Tis vain, this empty brooding here,
+Though guessed the holy symbols be:
+Ye, Spirits, come--ye hover near--
+Oh, if you hear me, answer me! (_He opens the Book, and perceives the sign of the Macrocosm_.) Ha! what a sudden rapture leaps from this
+I view, through all my senses swiftly flowing! I feel a youthful, holy, vital bliss
+In every vein and fibre newly glowing. Was it a God, who traced this sign,
+With calm across my tumult stealing,
+My troubled heart to joy unsealing,
+With impulse, mystic and divine,
+The powers of Nature here, around my path, revealing? Am I a God?--so clear mine eyes! In these pure features I behold
+Creative Nature to my soul unfold. What says the sage, now first I recognize:
+"The spirit-world no closures fasten;
+Thy sense is shut, thy heart is dead:
+Disciple, up! untiring, hasten
+To bathe thy breast in morning-red!" (_He contemplates the sign_.) How each the Whole its substance gives,
+Each in the other works and lives! Like heavenly forces rising and descending,
+Their golden urns reciprocally lending,
+With wings that winnow blessing
+From Heaven through Earth I see them pressing,
+Filling the All with harmony unceasing! How grand a show! but, ah! a show alone. Thee, boundless Nature, how make thee my own? Where you, ye beasts? Founts of all Being, shining,
+Whereon hang Heaven's and Earth's desire,
+Whereto our withered hearts aspire,--
+Ye flow, ye feed: and am I vainly pining? (_He turns the leaves impatiently, and perceives the sign of the
+Earth-Spirit_.) How otherwise upon me works this sign! Thou, Spirit of the Earth, art nearer:
+Even now my powers are loftier, clearer;
+I glow, as drunk with new-made wine:
+New strength and heart to meet the world incite me,
+The woe of earth, the bliss of earth, invite me,
+And though the shock of storms may smite me,
+No crash of shipwreck shall have power to fright me! Clouds gather over me--
+The moon conceals her light--
+The lamp's extinguished!--
+Mists rise,--red, angry rays are darting
+Around my head!--There falls
+A horror from the vaulted roof,
+And seizes me! I feel thy presence, Spirit I invoke! Reveal thyself! Ha! in my heart what rending stroke! With new impulsion
+My senses heave in this convulsion! I feel thee draw my heart, absorb, exhaust me:
+Thou must! thou must! and though my life it cost me! (_He seizes the book, and mysteriously pronounces the sign of
+the Spirit. A ruddy flame flashes: the Spirit appears in
+the flame_.) SPIRIT
+
+Who calls me? FAUST (_with averted head_)
+
+Terrible to see! SPIRIT
+
+Me hast thou long with might attracted,
+Long from my sphere thy food exacted,
+And now--
+
+FAUST
+
+  Woe! I endure not thee! SPIRIT
+
+To view me is thine aspiration,
+My voice to hear, my countenance to see;
+Thy powerful yearning moveth me,
+Here am I!--what mean perturbation
+Thee, superhuman, shakes? Thy soul's high calling, where? Where is the breast, which from itself a world did bear,
+And shaped and cherished--which with joy expanded,
+To be our peer, with us, the Spirits, banded? Where art thou, Faust, whose voice has pierced to me,
+Who towards me pressed with all thine energy? _He_ art thou, who, my presence breathing, seeing,
+Trembles through all the depths of being,
+A writhing worm, a terror-stricken form? FAUST
+
+Thee, form of flame, shall I then fear? Yes, I am Faust: I am thy peer! SPIRIT
+
+  In the tides of Life, in Action's storm,
+  A fluctuant wave,
+  A shuttle free,
+  Birth and the Grave,
+  An eternal sea,
+  A weaving, flowing
+  Life, all-glowing,
+Thus at Time's humming loom 'tis my hand prepares
+The garment of Life which the Deity wears! FAUST
+
+Thou, who around the wide world wendest,
+Thou busy Spirit, how near I feel to thee! SPIRIT
+
+Thou'rt like the Spirit which thou comprehendest,
+Not me! (_Disappears_.) FAUST (_overwhelmed_)
+
+Not thee! Whom then? I, image of the Godhead! Not even like thee! (_A knock_). O Death!--I know it--'tis my Famulus! My fairest luck finds no fruition:
+In all the fullness of my vision
+The soulless sneak disturbs me thus! (_Enter_ WAGNER_, in dressing-gown and night-cap, a lamp in
+his hand. _FAUST_ turns impatiently_.) WAGNER
+
+Pardon, I heard your declamation;
+'Twas sure an old Greek tragedy you read? In such an art I crave some preparation,
+Since now it stands one in good stead. I've often heard it said, a preacher
+Might learn, with a comedian for a teacher. FAUST
+
+Yes, when the priest comedian is by nature,
+As haply now and then the case may be. WAGNER
+
+Ah, when one studies thus, a prisoned creature,
+That scarce the world on holidays can see,--
+Scarce through a glass, by rare occasion,
+How shall one lead it by persuasion? FAUST
+
+You'll ne'er attain it, save you know the feeling,
+Save from the soul it rises clear,
+Serene in primal strength, compelling
+The hearts and minds of all who hear. You sit forever gluing, patching;
+You cook the scraps from others' fare;
+And from your heap of ashes hatching
+A starveling flame, ye blow it bare! Take children's, monkeys' gaze admiring,
+If such your taste, and be content;
+But ne'er from heart to heart you'll speak inspiring,
+Save your own heart is eloquent! WAGNER
+
+Yet through delivery orators succeed;
+I feel that I am far behind, indeed. FAUST
+
+Seek thou the honest recompense! Beware, a tinkling fool to be! With little art, clear wit and sense
+Suggest their own delivery;
+And if thou'rt moved to speak in earnest,
+What need, that after words thou yearnest? Yes, your discourses, with their glittering show,
+Where ye for men twist shredded thought like paper,
+Are unrefreshing as the winds that blow
+The rustling leaves through chill autumnal vapor! WAGNER
+
+Ah, God! but Art is long,
+And Life, alas! is fleeting. And oft, with zeal my critic-duties meeting,
+In head and breast there's something wrong. How hard it is to compass the assistance
+Whereby one rises to the source! And, haply, ere one travels half the course
+Must the poor devil quit existence. FAUST
+
+Is parchment, then, the holy fount before thee,
+A draught wherefrom thy thirst forever slakes? No true refreshment can restore thee,
+Save what from thine own soul spontaneous breaks. WAGNER
+
+Pardon! a great delight is granted
+When, in the spirit of the ages planted,
+We mark how, ere our times, a sage has thought,
+And then, how far his work, and grandly, we have brought. FAUST
+
+O yes, up to the stars at last! Listen, my friend: the ages that are past
+Are now a book with seven seals protected:
+What you the Spirit of the Ages call
+Is nothing but the spirit of you all,
+Wherein the Ages are reflected. So, oftentimes, you miserably mar it! At the first glance who sees it runs away. An offal-barrel and a lumber-garret,
+Or, at the best, a Punch-and-Judy play,
+With maxims most pragmatical and hitting,
+As in the mouths of puppets are befitting! WAGNER
+
+But then, the world--the human heart and brain! Of these one covets some slight apprehension. FAUST
+
+Yes, of the kind which men attain! Who dares the child's true name in public mention? The few, who thereof something really learned,
+Unwisely frank, with hearts that spurned concealing,
+And to the mob laid bare each thought and feeling,
+Have evermore been crucified and burned. I pray you, Friend, 'tis now the dead of night;
+Our converse here must be suspended. WAGNER
+
+I would have shared your watches with delight,
+That so our learned talk might be extended. To-morrow, though, I'll ask, in Easter leisure,
+This and the other question, at your pleasure. Most zealously I seek for erudition:
+Much do I know--but to know all is my ambition. [_Exit_. FAUST (_solus_)
+
+That brain, alone, not loses hope, whose choice is
+To stick in shallow trash forevermore,--
+Which digs with eager hand for buried ore,
+And, when it finds an angle-worm, rejoices! Dare such a human voice disturb the flow,
+Around me here, of spirit-presence fullest? And yet, this once my thanks I owe
+To thee, of all earth's sons the poorest, dullest! For thou hast torn me from that desperate state
+Which threatened soon to overwhelm my senses:
+The apparition was so giant-great,
+It dwarfed and withered all my soul's pretences! I, image of the Godhead, who began--
+Deeming Eternal Truth secure in nearness--
+Ye choirs, have ye begun the sweet, consoling chant,
+Which, through the night of Death, the angels ministrant
+Sang, God's new Covenant repeating? CHORUS OF WOMEN
+
+          With spices and precious
+          Balm, we arrayed him;
+          Faithful and gracious,
+          We tenderly laid him:
+          Linen to bind him
+          Cleanlily wound we:
+          Ah! when we would find him,
+          Christ no more found we! CHORUS OF ANGELS
+
+          Christ is ascended! Bliss hath invested him,--
+          Woes that molested him,
+          Trials that tested him,
+          Gloriously ended! FAUST
+
+Why, here in dust, entice me with your spell,
+Ye gentle, powerful sounds of Heaven? Peal rather there, where tender natures dwell. Your messages I hear, but faith has not been given;
+The dearest child of Faith is Miracle. I venture not to soar to yonder regions
+Whence the glad tidings hither float;
+And yet, from childhood up familiar with the note,
+To Life it now renews the old allegiance. Once Heavenly Love sent down a burning kiss
+Upon my brow, in Sabbath silence holy;
+And, filled with mystic presage, chimed the church-bell slowly,
+And prayer dissolved me in a fervent bliss. A sweet, uncomprehended yearning
+Drove forth my feet through woods and meadows free,
+And while a thousand tears were burning,
+I felt a world arise for me. These chants, to youth and all its sports appealing,
+Proclaimed the Spring's rejoicing holiday;
+And Memory holds me now, with childish feeling,
+Back from the last, the solemn way. Sound on, ye hymns of Heaven, so sweet and mild! My tears gush forth: the Earth takes back her child! CHORUS OF DISCIPLES
+
+        Has He, victoriously,
+        Burst from the vaulted
+        Grave, and all-gloriously
+        Now sits exalted? Is He, in glow of birth,
+        Rapture creative near? Ah! to the woe of earth
+        Still are we native here. We, his aspiring
+        Followers, Him we miss;
+        Weeping, desiring,
+        Master, Thy bliss! CHORUS OF ANGELS
+
+        Christ is arisen,
+        Out of Corruption's womb:
+        Burst ye the prison,
+        Break from your gloom! Praising and pleading him,
+        Lovingly needing him,
+        Brotherly feeding him,
+        Preaching and speeding him,
+        Blessing, succeeding Him,
+        Thus is the Master near,--
+        Thus is He here! [Illustration]
+
+
+
+
+II
+
+BEFORE THE CITY-GATE
+
+(_Pedestrians of all kinds come forth_.) SEVERAL APPRENTICES
+
+Why do you go that way? OTHERS
+
+We're for the Hunters' lodge, to-day. THE FIRST
+
+We'll saunter to the Mill, in yonder hollow. AN APPRENTICE
+
+Go to the River Tavern, I should say. SECOND APPRENTICE
+
+But then, it's not a pleasant way. THE OTHERS
+
+And what will _you_? A THIRD
+
+            As goes the crowd, I follow. A FOURTH
+
+Come up to Burgdorf? There you'll find good cheer,
+The finest lasses and the best of beer,
+And jolly rows and squabbles, trust me! A FIFTH
+
+You swaggering fellow, is your hide
+A third time itching to be tried? I won't go there, your jolly rows disgust me! SERVANT-GIRL
+
+No,--no! I'll turn and go to town again. ANOTHER
+
+We'll surely find him by those poplars yonder. THE FIRST
+
+That's no great luck for me, 'tis plain. You'll have him, when and where you wander:
+His partner in the dance you'll be,--
+But what is all your fun to me? THE OTHER
+
+He's surely not alone to-day:
+He'll be with Curly-head, I heard him say. A STUDENT
+
+Deuce! how they step, the buxom wenches! Come, Brother! we must see them to the benches. A strong, old beer, a pipe that stings and bites,
+A girl in Sunday clothes,--these three are my delights. CITIZEN'S DAUGHTER
+
+Just see those handsome fellows, there! It's really shameful, I declare;--
+To follow servant-girls, when they
+Might have the most genteel society to-day! SECOND STUDENT (_to the First_)
+
+Not quite so fast! Two others come behind,--
+Those, dressed so prettily and neatly. My neighbor's one of them, I find,
+A girl that takes my heart, completely. They go their way with looks demure,
+But they'll accept us, after all, I'm sure. THE FIRST
+
+No, Brother! not for me their formal ways. Quick! lest our game escape us in the press:
+The hand that wields the broom on Saturdays
+Will best, on Sundays, fondle and caress. CITIZEN
+
+He suits me not at all, our new-made Burgomaster! Since he's installed, his arrogance grows faster. How has he helped the town, I say? Things worsen,--what improvement names he? Obedience, more than ever, claims he,
+And more than ever we must pay! BEGGAR (_sings_)
+
+  Good gentlemen and lovely ladies,
+  So red of cheek and fine of dress,
+  Behold, how needful here your aid is,
+  And see and lighten my distress! Let me not vainly sing my ditty;
+  He's only glad who gives away:
+  A holiday, that shows your pity,
+  Shall be for me a harvest-day! ANOTHER CITIZEN
+
+On Sundays, holidays, there's naught I take delight in,
+Like gossiping of war, and war's array,
+When down in Turkey, far away,
+The foreign people are a-fighting. One at the window sits, with glass and friends,
+And sees all sorts of ships go down the river gliding:
+And blesses then, as home he wends
+At night, our times of peace abiding. THIRD CITIZEN
+
+Yes, Neighbor! that's my notion, too:
+Why, let them break their heads, let loose their passions,
+And mix things madly through and through,
+So, here, we keep our good old fashions! OLD WOMAN (_to the Citizen's Daughter_)
+
+Dear me, how fine! So handsome, and so young! Who wouldn't lose his heart, that met you? Don't be so proud! I'll hold my tongue,
+And what you'd like I'll undertake to get you. CITIZEN'S DAUGHTER
+
+Come, Agatha! I shun the witch's sight
+Before folks, lest there be misgiving:
+'Tis true, she showed me, on Saint Andrew's Night,
+My future sweetheart, just as he were living. THE OTHER
+
+She showed me mine, in crystal clear,
+With several wild young blades, a soldier-lover:
+I seek him everywhere, I pry and peer,
+And yet, somehow, his face I can't discover. SOLDIERS
+
+        Castles, with lofty
+        Ramparts and towers,
+        Maidens disdainful
+        In Beauty's array,
+        Both shall be ours! Bold is the venture,
+        Splendid the pay! Lads, let the trumpets
+        For us be suing,--
+        Calling to pleasure,
+        Calling to ruin. Stormy our life is;
+        Such is its boon! Maidens and castles
+        Capitulate soon. Bold is the venture,
+        Splendid the pay! And the soldiers go marching,
+        Marching away! FAUST AND WAGNER
+
+
+FAUST
+
+Released from ice are brook and river
+By the quickening glance of the gracious Spring;
+The colors of hope to the valley cling,
+And weak old Winter himself must shiver,
+Withdrawn to the mountains, a crownless king:
+Whence, ever retreating, he sends again
+Impotent showers of sleet that darkle
+In belts across the green o' the plain. But the sun will permit no white to sparkle;
+Everywhere form in development moveth;
+He will brighten the world with the tints he loveth,
+And, lacking blossoms, blue, yellow, and red,
+He takes these gaudy people instead. Turn thee about, and from this height
+Back on the town direct thy sight. Out of the hollow, gloomy gate,
+The motley throngs come forth elate:
+Each will the joy of the sunshine hoard,
+To honor the Day of the Risen Lord! They feel, themselves, their resurrection:
+From the low, dark rooms, scarce habitable;
+From the bonds of Work, from Trade's restriction;
+From the pressing weight of roof and gable;
+From the narrow, crushing streets and alleys;
+From the churches' solemn and reverend night,
+All come forth to the cheerful light. How lively, see! the multitude sallies,
+Scattering through gardens and fields remote,
+While over the river, that broadly dallies,
+Dances so many a festive boat;
+And overladen, nigh to sinking,
+The last full wherry takes the stream. Yonder afar, from the hill-paths blinking,
+Their clothes are colors that softly gleam. I hear the noise of the village, even;
+Here is the People's proper Heaven;
+Here high and low contented see! Here I am Man,--dare man to be! WAGNER
+
+To stroll with you, Sir Doctor, flatters;
+'Tis honor, profit, unto me. But I, alone, would shun these shallow matters,
+Since all that's coarse provokes my enmity. This fiddling, shouting, ten-pin rolling
+I hate,--these noises of the throng:
+They rave, as Satan were their sports controlling. And call it mirth, and call it song! PEASANTS, UNDER THE LINDEN-TREE
+  (_Dance and Song_.) All for the dance the shepherd dressed,
+          In ribbons, wreath, and gayest vest
+            Himself with care arraying:
+          Around the linden lass and lad
+          Already footed it like mad:
+            Hurrah! hurrah! Hurrah--tarara-la! The fiddle-bow was playing. He broke the ranks, no whit afraid,
+          And with his elbow punched a maid,
+            Who stood, the dance surveying:
+          The buxom wench, she turned and said:
+          "Now, you I call a stupid-head!" Hurrah! hurrah! Hurrah--tarara-la! "Be decent while you're staying!" Then round the circle went their flight,
+          They danced to left, they danced to right:
+          Their kirtles all were playing. They first grew red, and then grew warm,
+          And rested, panting, arm in arm,--
+            Hurrah! hurrah! Hurrah--tarara-la! And hips and elbows straying. Now, don't be so familiar here! How many a one has fooled his dear,
+          Waylaying and betraying! And yet, he coaxed her soon aside,
+          And round the linden sounded wide. Hurrah! hurrah! Hurrah--tarara-la! And the fiddle-bow was playing. OLD PEASANT
+
+Sir Doctor, it is good of you,
+That thus you condescend, to-day,
+Among this crowd of merry folk,
+A highly-learned man, to stray. Then also take the finest can,
+We fill with fresh wine, for your sake:
+I offer it, and humbly wish
+That not alone your thirst is slake,--
+That, as the drops below its brink,
+So many days of life you drink! FAUST
+
+I take the cup you kindly reach,
+With thanks and health to all and each. (_The People gather in a circle about him_.) OLD PEASANT
+
+In truth, 'tis well and fitly timed,
+That now our day of joy you share,
+Who heretofore, in evil days,
+Gave us so much of helping care. Still many a man stands living here,
+Saved by your father's skillful hand,
+That snatched him from the fever's rage
+And stayed the plague in all the land. Then also you, though but a youth,
+Went into every house of pain:
+Many the corpses carried forth,
+But you in health came out again. FAUST
+
+No test or trial you evaded:
+A Helping God the helper aided. ALL
+
+Health to the man, so skilled and tried. That for our help he long may abide! FAUST
+
+To Him above bow down, my friends,
+Who teaches help, and succor sends! (_He goes on with_ WAGNER.) WAGNER
+
+With what a feeling, thou great man, must thou
+Receive the people's honest veneration! How lucky he, whose gifts his station
+With such advantages endow! Thou'rt shown to all the younger generation:
+Each asks, and presses near to gaze;
+The fiddle stops, the dance delays. Thou goest, they stand in rows to see,
+And all the caps are lifted high;
+A little more, and they would bend the knee
+As if the Holy Host came by. FAUST
+
+A few more steps ascend, as far as yonder stone!--
+Here from our wandering will we rest contented. Here, lost in thought, I've lingered oft alone,
+When foolish fasts and prayers my life tormented. Here, rich in hope and firm in faith,
+With tears, wrung hands and sighs, I've striven,
+The end of that far-spreading death
+Entreating from the Lord of Heaven! Now like contempt the crowd's applauses seem:
+Couldst thou but read, within mine inmost spirit,
+How little now I deem,
+That sire or son such praises merit! My father's was a sombre, brooding brain,
+Which through the holy spheres of Nature groped and wandered,
+And honestly, in his own fashion, pondered
+With labor whimsical, and pain:
+Who, in his dusky work-shop bending,
+With proved adepts in company,
+Made, from his recipes unending,
+Opposing substances agree. There was a Lion red, a wooer daring,
+Within the Lily's tepid bath espoused,
+And both, tormented then by flame unsparing,
+By turns in either bridal chamber housed. If then appeared, with colors splendid,
+The young Queen in her crystal shell,
+This was the medicine--the patients' woes soon ended,
+And none demanded: who got well? Thus we, our hellish boluses compounding,
+Among these vales and hills surrounding,
+Worse than the pestilence, have passed. Thousands were done to death from poison of my giving;
+And I must hear, by all the living,
+The shameless murderers praised at last! WAGNER
+
+Why, therefore, yield to such depression? A good man does his honest share
+In exercising, with the strictest care,
+The art bequeathed to his possession! Dost thou thy father honor, as a youth? Then may his teaching cheerfully impel thee:
+Dost thou, as man, increase the stores of truth? Then may thine own son afterwards excel thee. FAUST
+
+O happy he, who still renews
+The hope, from Error's deeps to rise forever! That which one does not know, one needs to use;
+And what one knows, one uses never. But let us not, by such despondence, so
+The fortune of this hour embitter! Mark how, beneath the evening sunlight's glow,
+The green-embosomed houses glitter! The glow retreats, done is the day of toil;
+It yonder hastes, new fields of life exploring;
+Ah, that no wing can lift me from the soil,
+Upon its track to follow, follow soaring! Then would I see eternal Evening gild
+The silent world beneath me glowing,
+On fire each mountain-peak, with peace each valley filled,
+The silver brook to golden rivers flowing. The mountain-chain, with all its gorges deep,
+Would then no more impede my godlike motion;
+And now before mine eyes expands the ocean
+With all its bays, in shining sleep! Yet, finally, the weary god is sinking;
+The new-born impulse fires my mind,--
+I hasten on, his beams eternal drinking,
+The Day before me and the Night behind,
+Above me heaven unfurled, the floor of waves beneath me,--
+A glorious dream! though now the glories fade. Alas! the wings that lift the mind no aid
+Of wings to lift the body can bequeath me. Yet in each soul is born the pleasure
+Of yearning onward, upward and away,
+When o'er our heads, lost in the vaulted azure,
+The lark sends down his flickering lay,--
+When over crags and piny highlands
+The poising eagle slowly soars,
+And over plains and lakes and islands
+The crane sails by to other shores. WAGNER
+
+I've had, myself, at times, some odd caprices,
+But never yet such impulse felt, as this is. One soon fatigues, on woods and fields to look,
+Nor would I beg the bird his wing to spare us:
+How otherwise the mental raptures bear us
+From page to page, from book to book! Then winter nights take loveliness untold,
+As warmer life in every limb had crowned you;
+And when your hands unroll some parchment rare and old,
+All Heaven descends, and opens bright around you! FAUST
+
+One impulse art thou conscious of, at best;
+O, never seek to know the other! Two souls, alas! reside within my breast,
+And each withdraws from, and repels, its brother. One with tenacious organs holds in love
+And clinging lust the world in its embraces;
+The other strongly sweeps, this dust above,
+Into the high ancestral spaces. If there be airy spirits near,
+'Twixt Heaven and Earth on potent errands fleeing,
+Let them drop down the golden atmosphere,
+And bear me forth to new and varied being! Yea, if a magic mantle once were mine,
+To waft me o'er the world at pleasure,
+I would not for the costliest stores of treasure--
+Not for a monarch's robe--the gift resign. WAGNER
+
+Invoke not thus the well-known throng,
+Which through the firmament diffused is faring,
+And danger thousand-fold, our race to wrong. In every quarter is preparing. Swift from the North the spirit-fangs so sharp
+Sweep down, and with their barbed points assail you;
+Then from the East they come, to dry and warp
+Your lungs, till breath and being fail you:
+If from the Desert sendeth them the South,
+With fire on fire your throbbing forehead crowning,
+The West leads on a host, to cure the drouth
+Only when meadow, field, and you are drowning. They gladly hearken, prompt for injury,--
+Gladly obey, because they gladly cheat us;
+From Heaven they represent themselves to be,
+And lisp like angels, when with lies they meet us. But, let us go! 'Tis gray and dusky all:
+The air is cold, the vapors fall. At night, one learns his house to prize:--
+Why stand you thus, with such astonished eyes? What, in the twilight, can your mind so trouble? FAUST
+
+Seest thou the black dog coursing there, through corn and
+stubble? WAGNER
+
+Long since: yet deemed him not important in the least. FAUST
+
+Inspect him close: for what tak'st thou the beast? WAGNER
+
+Why, for a poodle who has lost his master,
+And scents about, his track to find. FAUST
+
+Seest thou the spiral circles, narrowing faster,
+Which he, approaching, round us seems to wind? A streaming trail of fire, if I see rightly,
+Follows his path of mystery. WAGNER
+
+It may be that your eyes deceive you slightly;
+Naught but a plain black poodle do I see. FAUST
+
+It seems to me that with enchanted cunning
+He snares our feet, some future chain to bind. WAGNER
+
+I see him timidly, in doubt, around us running,
+Since, in his master's stead, two strangers doth he find. FAUST
+
+The circle narrows: he is near! WAGNER
+
+A dog thou seest, and not a phantom, here! Behold him stop--upon his belly crawl--His
+tail set wagging: canine habits, all! FAUST
+
+Come, follow us! Come here, at least! WAGNER
+
+'Tis the absurdest, drollest beast. Stand still, and you will see him wait;
+Address him, and he gambols straight;
+If something's lost, he'll quickly bring it,--
+Your cane, if in the stream you fling it. FAUST
+
+No doubt you're right: no trace of mind, I own,
+Is in the beast: I see but drill, alone. WAGNER
+
+The dog, when he's well educated,
+Is by the wisest tolerated. Yes, he deserves your favor thoroughly,--
+The clever scholar of the students, he! (_They pass in the city-gate_.) [Illustration]
+
+[Illustration]
+
+
+
+
+III
+
+
+THE STUDY
+
+FAUST
+
+(_Entering, with the poodle_.) Behind me, field and meadow sleeping,
+     I leave in deep, prophetic night,
+     Within whose dread and holy keeping
+     The better soul awakes to light. The wild desires no longer win us,
+     The deeds of passion cease to chain;
+     The love of Man revives within us,
+     The love of God revives again. Be still, thou poodle; make not such racket and riot! Why at the threshold wilt snuffing be? Behind the stove repose thee in quiet! My softest cushion I give to thee. As thou, up yonder, with running and leaping
+Amused us hast, on the mountain's crest,
+
+So now I take thee into my keeping,
+A welcome, but also a silent, guest. Ah, when, within our narrow chamber
+     The lamp with friendly lustre glows,
+     Flames in the breast each faded ember,
+     And in the heart, itself that knows. Then Hope again lends sweet assistance,
+     And Reason then resumes her speech:
+     One yearns, the rivers of existence,
+     The very founts of Life, to reach. Snarl not, poodle! To the sound that rises,
+The sacred tones that my soul embrace,
+This bestial noise is out of place. We are used to see, that Man despises
+What he never comprehends,
+And the Good and the Beautiful vilipends,
+Finding them often hard to measure:
+Will the dog, like man, snarl _his_ displeasure? But ah! I feel, though will thereto be stronger,
+Contentment flows from out my breast no longer. Why must the stream so soon run dry and fail us,
+And burning thirst again assail us? Therein I've borne so much probation! And yet, this want may be supplied us;
+We call the Supernatural to guide us;
+We pine and thirst for Revelation,
+Which nowhere worthier is, more nobly sent,
+Than here, in our New Testament. I feel impelled, its meaning to determine,--
+With honest purpose, once for all,
+The hallowed Original
+To change to my beloved German. (_He opens a volume, and commences_.) 'Tis written: "In the Beginning was the _Word_." Here am I balked: who, now can help afford? The _Word?_--impossible so high to rate it;
+And otherwise must I translate it. If by the Spirit I am truly taught. Then thus: "In the Beginning was the _Thought_"
+This first line let me weigh completely,
+Lest my impatient pen proceed too fleetly. Is it the _Thought_ which works, creates, indeed? "In the Beginning was the _Power,"_ I read. Yet, as I write, a warning is suggested,
+That I the sense may not have fairly tested. The Spirit aids me: now I see the light! "In the Beginning was the _Act_," I write. If I must share my chamber with thee,
+Poodle, stop that howling, prithee! Cease to bark and bellow! Such a noisy, disturbing fellow
+I'll no longer suffer near me. One of us, dost hear me! Must leave, I fear me. No longer guest-right I bestow;
+The door is open, art free to go. But what do I see in the creature? Is that in the course of nature? Is't actual fact? or Fancy's shows? How long and broad my poodle grows! He rises mightily:
+A canine form that cannot be! What a spectre I've harbored thus! He resembles a hippopotamus,
+With fiery eyes, teeth terrible to see:
+O, now am I sure of thee! For all of thy half-hellish brood
+The Key of Solomon is good. SPIRITS (_in the corridor_)
+
+     Some one, within, is caught! Stay without, follow him not! Like the fox in a snare,
+     Quakes the old hell-lynx there. Take heed--look about! Back and forth hover,
+     Under and over,
+     And he'll work himself out. If your aid avail him,
+     Let it not fail him;
+     For he, without measure,
+     Has wrought for our pleasure. FAUST
+
+First, to encounter the beast,
+The Words of the Four be addressed:
+    Salamander, shine glorious! Wave, Undine, as bidden! Sylph, be thou hidden! Gnome, be laborious! Who knows not their sense
+(These elements),--
+Their properties
+And power not sees,--
+No mastery he inherits
+Over the Spirits. Vanish in flaming ether,
+     Salamander! Flow foamingly together,
+     Undine! Shine in meteor-sheen,
+     Sylph! Bring help to hearth and shelf. Incubus! Incubus! Step forward, and finish thus! Of the Four, no feature
+Lurks in the creature. Quiet he lies, and grins disdain:
+Not yet, it seems, have I given him pain. Now, to undisguise thee,
+Hear me exorcise thee! Art thou, my gay one,
+Hell's fugitive stray-one? The sign witness now,
+Before which they bow,
+The cohorts of Hell! With hair all bristling, it begins to swell. Base Being, hearest thou? Knowest and fearest thou
+     The One, unoriginate,
+     Named inexpressibly,
+     Through all Heaven impermeate,
+     Pierced irredressibly! Behind the stove still banned,
+See it, an elephant, expand! It fills the space entire,
+Mist-like melting, ever faster. 'Tis enough: ascend no higher,--
+Lay thyself at the feet of the Master! Thou seest, not vain the threats I bring thee:
+With holy fire I'll scorch and sting thee! Wait not to know
+The threefold dazzling glow! Wait not to know
+The strongest art within my hands! MEPHISTOPHELES
+
+(_while the vapor is dissipating, steps forth from behind the
+stove, in the costume of a Travelling Scholar_.) Why such a noise? What are my lord's commands? FAUST
+
+This was the poodle's real core,
+A travelling scholar, then? The _casus_ is diverting. MEPHISTOPHELES
+
+The learned gentleman I bow before:
+You've made me roundly sweat, that's certain! FAUST
+
+What is thy name? MEPHISTOPHELES
+
+A question small, it seems,
+For one whose mind the Word so much despises;
+Who, scorning all external gleams,
+The depths of being only prizes. FAUST
+
+With all you gentlemen, the name's a test,
+Whereby the nature usually is expressed. Clearly the latter it implies
+In names like Beelzebub, Destroyer, Father of Lies. Who art thou, then? MEPHISTOPHELES
+
+Part of that Power, not understood,
+Which always wills the Bad, and always works the Good. FAUST
+
+What hidden sense in this enigma lies? MEPHISTOPHELES
+
+I am the Spirit that Denies! And justly so: for all things, from the Void
+Called forth, deserve to be destroyed:
+'Twere better, then, were naught created. Thus, all which you as Sin have rated,--
+Destruction,--aught with Evil blent,--
+That is my proper element. FAUST
+
+Thou nam'st thyself a part, yet show'st complete to me? MEPHISTOPHELES
+
+The modest truth I speak to thee. If Man, that microcosmic fool, can see
+Himself a whole so frequently,
+Part of the Part am I, once All, in primal Night,--
+Part of the Darkness which brought forth the Light,
+The haughty Light, which now disputes the space,
+And claims of Mother Night her ancient place. And yet, the struggle fails; since Light, howe'er it weaves,
+Still, fettered, unto bodies cleaves:
+It flows from bodies, bodies beautifies;
+By bodies is its course impeded;
+And so, but little time is needed,
+I hope, ere, as the bodies die, it dies! FAUST
+
+I see the plan thou art pursuing:
+Thou canst not compass general ruin,
+And hast on smaller scale begun. MEPHISTOPHELES
+
+And truly 'tis not much, when all is done. That which to Naught is in resistance set,--
+The Something of this clumsy world,--has yet,
+With all that I have undertaken,
+Not been by me disturbed or shaken:
+From earthquake, tempest, wave, volcano's brand,
+Back into quiet settle sea and land! And that damned stuff, the bestial, human brood,--
+What use, in having that to play with? How many have I made away with! And ever circulates a newer, fresher blood. It makes me furious, such things beholding:
+From Water, Earth, and Air unfolding,
+A thousand germs break forth and grow,
+In dry, and wet, and warm, and chilly;
+And had I not the Flame reserved, why, really,
+There's nothing special of my own to show! FAUST
+
+So, to the actively eternal
+Creative force, in cold disdain
+You now oppose the fist infernal,
+Whose wicked clench is all in vain! Some other labor seek thou rather,
+Queer Son of Chaos, to begin! MEPHISTOPHELES
+
+Well, we'll consider: thou canst gather
+My views, when next I venture in. Might I, perhaps, depart at present? FAUST
+
+Why thou shouldst ask, I don't perceive. Though our acquaintance is so recent,
+For further visits thou hast leave. The window's here, the door is yonder;
+A chimney, also, you behold. MEPHISTOPHELES
+
+I must confess that forth I may not wander,
+My steps by one slight obstacle controlled,--
+The wizard's-foot, that on your threshold made is. FAUST
+
+The pentagram prohibits thee? Why, tell me now, thou Son of Hades,
+If that prevents, how cam'st thou in to me? Could such a spirit be so cheated? MEPHISTOPHELES
+
+Inspect the thing: the drawing's not completed. The outer angle, you may see,
+Is open left--the lines don't fit it. FAUST
+
+Well,--Chance, this time, has fairly hit it! And thus, thou'rt prisoner to me? It seems the business has succeeded. MEPHISTOPHELES
+
+The poodle naught remarked, as after thee he speeded;
+But other aspects now obtain:
+The Devil can't get out again. FAUST
+
+Try, then, the open window-pane! MEPHISTOPHELES
+
+For Devils and for spectres this is law:
+Where they have entered in, there also they withdraw. The first is free to us; we're governed by the second. FAUST
+
+In Hell itself, then, laws are reckoned? That's well! So might a compact be
+Made with you gentlemen--and binding,--surely? MEPHISTOPHELES
+
+All that is promised shall delight thee purely;
+No skinflint bargain shalt thou see. But this is not of swift conclusion;
+We'll talk about the matter soon. And now, I do entreat this boon--
+Leave to withdraw from my intrusion. FAUST
+
+One moment more I ask thee to remain,
+Some pleasant news, at least, to tell me. MEPHISTOPHELES
+
+Release me, now! I soon shall come again;
+Then thou, at will, mayst question and compel me. FAUST
+
+I have not snares around thee cast;
+Thyself hast led thyself into the meshes. Who traps the Devil, hold him fast! Not soon a second time he'll catch a prey so precious. MEPHISTOPHELES
+
+An't please thee, also I'm content to stay,
+And serve thee in a social station;
+But stipulating, that I may
+With arts of mine afford thee recreation. FAUST
+
+Thereto I willingly agree,
+If the diversion pleasant be. MEPHISTOPHELES
+
+My friend, thou'lt win, past all pretences,
+More in this hour to soothe thy senses,
+Than in the year's monotony. That which the dainty spirits sing thee,
+The lovely pictures they shall bring thee,
+Are more than magic's empty show. Thy scent will be to bliss invited;
+Thy palate then with taste delighted,
+Thy nerves of touch ecstatic glow! All unprepared, the charm I spin:
+We're here together, so begin! SPIRITS
+
+     Vanish, ye darking
+     Arches above him! Loveliest weather,
+     Born of blue ether,
+     Break from the sky! O that the darkling
+     Clouds had departed! Starlight is sparkling,
+     Tranquiller-hearted
+     Suns are on high. Heaven's own children
+     In beauty bewildering,
+     Waveringly bending,
+     Pass as they hover;
+     Longing unending
+     Follows them over. They, with their glowing
+     Garments, out-flowing,
+     Cover, in going,
+     Landscape and bower,
+     Where, in seclusion,
+     Lovers are plighted,
+     Lost in illusion. Bower on bower! Tendrils unblighted! Lo! in a shower
+     Grapes that o'ercluster
+     Gush into must, or
+     Flow into rivers
+     Of foaming and flashing
+     Wine, that is dashing
+     Gems, as it boundeth
+     Down the high places,
+     And spreading, surroundeth
+     With crystalline spaces,
+     In happy embraces,
+     Blossoming forelands,
+     Emerald shore-lands! And the winged races
+     Drink, and fly onward--
+     Fly ever sunward
+     To the enticing
+     Islands, that flatter,
+     Dipping and rising
+     Light on the water! Hark, the inspiring
+     Sound of their quiring! See, the entrancing
+     Whirl of their dancing! All in the air are
+     Freer and fairer. Some of them scaling
+     Boldly the highlands,
+     Others are sailing,
+     Circling the islands;
+     Others are flying;
+     Life-ward all hieing,--
+     All for the distant
+     Star of existent
+     Rapture and Love! MEPHISTOPHELES
+
+He sleeps! Enough, ye fays! your airy number
+Have sung him truly into slumber:
+For this performance I your debtor prove.--
+Not yet art thou the man, to catch the Fiend and hold him!--
+With fairest images of dreams infold him,
+Plunge him in seas of sweet untruth! Yet, for the threshold's magic which controlled him,
+The Devil needs a rat's quick tooth. I use no lengthened invocation:
+Here rustles one that soon will work my liberation. The lord of rats and eke of mice,
+Of flies and bed-bugs, frogs and lice,
+Summons thee hither to the door-sill,
+To gnaw it where, with just a morsel
+Of oil, he paints the spot for thee:--
+There com'st thou, hopping on to me! To work, at once! The point which made me craven
+Is forward, on the ledge, engraven. Another bite makes free the door:
+So, dream thy dreams, O Faust, until we meet once more! FAUST _(awaking)_
+
+Am I again so foully cheated? Remains there naught of lofty spirit-sway,
+But that a dream the Devil counterfeited,
+And that a poodle ran away? [Illustration]
+
+
+
+
+IV
+
+
+THE STUDY
+
+FAUST MEPHISTOPHELES
+
+FAUST
+
+A knock? Come in! Again my quiet broken? MEPHISTOPHELES
+
+'Tis I! FAUST
+
+         Come in! MEPHISTOPHELES
+
+                  Thrice must the words be spoken. FAUST
+
+Come in, then! MEPHISTOPHELES
+
+                   Thus thou pleasest me. I hope we'll suit each other well;
+For now, thy vapors to dispel,
+I come, a squire of high degree,
+In scarlet coat, with golden trimming,
+A cloak in silken lustre swimming,
+A tall cock's-feather in my hat,
+A long, sharp sword for show or quarrel,--
+And I advise thee, brief and flat,
+To don the self-same gay apparel,
+That, from this den released, and free,
+Life be at last revealed to thee! FAUST
+
+This life of earth, whatever my attire,
+Would pain me in its wonted fashion. Too old am I to play with passion;
+Too young, to be without desire. What from the world have I to gain? Thou shalt abstain--renounce--refrain! Such is the everlasting song
+That in the ears of all men rings,--
+That unrelieved, our whole life long,
+Each hour, in passing, hoarsely sings. In very terror I at morn awake,
+Upon the verge of bitter weeping,
+To see the day of disappointment break,
+To no one hope of mine--not one--its promise keeping:--
+That even each joy's presentiment
+With wilful cavil would diminish,
+With grinning masks of life prevent
+My mind its fairest work to finish! Then, too, when night descends, how anxiously
+Upon my couch of sleep I lay me:
+There, also, comes no rest to me,
+But some wild dream is sent to fray me. The God that in my breast is owned
+Can deeply stir the inner sources;
+The God, above my powers enthroned,
+He cannot change external forces. So, by the burden of my days oppressed,
+Death is desired, and Life a thing unblest! MEPHISTOPHELES
+
+And yet is never Death a wholly welcome guest. FAUST
+
+O fortunate, for whom, when victory glances,
+The bloody laurels on the brow he bindeth! Whom, after rapid, maddening dances,
+In clasping maiden-arms he findeth! O would that I, before that spirit-power,
+Ravished and rapt from life, had sunken! MEPHISTOPHELES
+
+And yet, by some one, in that nightly hour,
+A certain liquid was not drunken. FAUST
+
+Eavesdropping, ha! thy pleasure seems to be. MEPHISTOPHELES
+
+Omniscient am I not; yet much is known to me. FAUST
+
+Though some familiar tone, retrieving
+My thoughts from torment, led me on,
+And sweet, clear echoes came, deceiving
+A faith bequeathed from Childhood's dawn,
+Yet now I curse whate'er entices
+And snares the soul with visions vain;
+With dazzling cheats and dear devices
+Confines it in this cave of pain! Cursed be, at once, the high ambition
+Wherewith the mind itself deludes! Cursed be the glare of apparition
+That on the finer sense intrudes! Cursed be the lying dream's impression
+Of name, and fame, and laurelled brow! Cursed, all that flatters as possession,
+As wife and child, as knave and plow! Cursed Mammon be, when he with treasures
+To restless action spurs our fate! Cursed when, for soft, indulgent leisures,
+He lays for us the pillows straight! Cursed be the vine's transcendent nectar,--
+The highest favor Love lets fall! Cursed, also, Hope!--cursed Faith, the spectre! And cursed be Patience most of all! CHORUS OF SPIRITS (_invisible_)
+
+     Woe! woe! Thou hast it destroyed,
+     The beautiful world,
+     With powerful fist:
+     In ruin 'tis hurled,
+     By the blow of a demigod shattered! The scattered
+     Fragments into the Void we carry,
+     Deploring
+     The beauty perished beyond restoring. Mightier
+     For the children of men,
+     Brightlier
+     Build it again,
+     In thine own bosom build it anew! Bid the new career
+     Commence,
+     With clearer sense,
+     And the new songs of cheer
+     Be sung thereto! MEPHISTOPHELES
+
+These are the small dependants
+Who give me attendance. Hear them, to deeds and passion
+Counsel in shrewd old-fashion! Into the world of strife,
+Out of this lonely life
+That of senses and sap has betrayed thee,
+They would persuade thee. This nursing of the pain forego thee,
+That, like a vulture, feeds upon thy breast! The worst society thou find'st will show thee
+Thou art a man among the rest. But 'tis not meant to thrust
+Thee into the mob thou hatest! I am not one of the greatest,
+Yet, wilt thou to me entrust
+Thy steps through life, I'll guide thee,--
+Will willingly walk beside thee,--
+Will serve thee at once and forever
+With best endeavor,
+And, if thou art satisfied,
+Will as servant, slave, with thee abide. FAUST
+
+And what shall be my counter-service therefor? MEPHISTOPHELES
+
+The time is long: thou need'st not now insist. FAUST
+
+No--no! The Devil is an egotist,
+And is not apt, without a why or wherefore,
+"For God's sake," others to assist. Speak thy conditions plain and clear! With such a servant danger comes, I fear. MEPHISTOPHELES
+
+_Here_, an unwearied slave, I'll wear thy tether,
+And to thine every nod obedient be:
+When _There_ again we come together,
+Then shalt thou do the same for me. FAUST
+
+The _There_ my scruples naught increases. When thou hast dashed this world to pieces,
+The other, then, its place may fill. Here, on this earth, my pleasures have their sources;
+Yon sun beholds my sorrows in his courses;
+And when from these my life itself divorces,
+Let happen all that can or will! I'll hear no more: 'tis vain to ponder
+If there we cherish love or hate,
+Or, in the spheres we dream of yonder,
+A High and Low our souls await. MEPHISTOPHELES
+
+In this sense, even, canst thou venture. Come, bind thyself by prompt indenture,
+And thou mine arts with joy shalt see:
+What no man ever saw, I'll give to thee. FAUST
+
+Canst thou, poor Devil, give me whatsoever? When was a human soul, in its supreme endeavor,
+E'er understood by such as thou? Yet, hast thou food which never satiates, now,--
+The restless, ruddy gold hast thou,
+That runs, quicksilver-like, one's fingers through,--
+A game whose winnings no man ever knew,--
+A maid that, even from my breast,
+Beckons my neighbor with her wanton glances,
+And Honor's godlike zest,
+The meteor that a moment dances,--
+Show me the fruits that, ere they're gathered, rot,
+And trees that daily with new leafage clothe them! MEPHISTOPHELES
+
+Such a demand alarms me not:
+Such treasures have I, and can show them. But still the time may reach us, good my friend. When peace we crave and more luxurious diet. FAUST
+
+When on an idler's bed I stretch myself in quiet. There let, at once, my record end! Canst thou with lying flattery rule me,
+Until, self-pleased, myself I see,--
+Canst thou with rich enjoyment fool me,
+Let that day be the last for me! The bet I offer. MEPHISTOPHELES
+                   Done! FAUST
+                         And heartily! When thus I hail the Moment flying:
+"Ah, still delay--thou art so fair!" Then bind me in thy bonds undying,
+My final ruin then declare! Then let the death-bell chime the token. Then art thou from thy service free! The clock may stop, the hand be broken,
+Then Time be finished unto me! MEPHISTOPHELES
+
+Consider well: my memory good is rated. FAUST
+
+Thou hast a perfect right thereto. My powers I have not rashly estimated:
+A slave am I, whate'er I do--
+If thine, or whose? 'tis needless to debate it. MEPHISTOPHELES
+
+Then at the Doctors'-banquet I, to-day,
+Will as a servant wait behind thee. But one thing more! Beyond all risk to bind thee,
+Give me a line or two, I pray. FAUST
+
+Demand'st thou, Pedant, too, a document? Hast never known a man, nor proved his word's intent? Is't not enough, that what I speak to-day
+Shall stand, with all my future days agreeing? In all its tides sweeps not the world away,
+And shall a promise bind my being? Yet this delusion in our hearts we bear:
+Who would himself therefrom deliver? Blest he, whose bosom Truth makes pure and fair! No sacrifice shall he repent of ever. Nathless a parchment, writ and stamped with care,
+A spectre is, which all to shun endeavor. The word, alas! dies even in the pen,
+And wax and leather keep the lordship then. What wilt from me, Base Spirit, say?--
+Brass, marble, parchment, paper, clay? The terms with graver, quill, or chisel, stated? I freely leave the choice to thee. MEPHISTOPHELES
+
+Why heat thyself, thus instantly,
+With eloquence exaggerated? Each leaf for such a pact is good;
+And to subscribe thy name thou'lt take a drop of blood. FAUST
+
+If thou therewith art fully satisfied,
+So let us by the farce abide. MEPHISTOPHELES
+
+Blood is a juice of rarest quality. FAUST
+
+Fear not that I this pact shall seek to sever? The promise that I make to thee
+Is just the sum of my endeavor. I have myself inflated all too high;
+My proper place is thy estate:
+The Mighty Spirit deigns me no reply,
+And Nature shuts on me her gate. The thread of Thought at last is broken,
+And knowledge brings disgust unspoken. Let us the sensual deeps explore,
+To quench the fervors of glowing passion! Let every marvel take form and fashion
+Through the impervious veil it wore! Plunge we in Time's tumultuous dance,
+In the rush and roll of Circumstance! Then may delight and distress,
+And worry and success,
+Alternately follow, as best they can:
+Restless activity proves the man! MEPHISTOPHELES
+
+For you no bound, no term is set. Whether you everywhere be trying,
+Or snatch a rapid bliss in flying,
+May it agree with you, what you get! Only fall to, and show no timid balking. FAUST
+
+But thou hast heard, 'tis not of joy we're talking. I take the wildering whirl, enjoyment's keenest pain,
+Enamored hate, exhilarant disdain. My bosom, of its thirst for knowledge sated,
+Shall not, henceforth, from any pang be wrested,
+And all of life for all mankind created
+Shall be within mine inmost being tested:
+The highest, lowest forms my soul shall borrow,
+Shall heap upon itself their bliss and sorrow,
+And thus, my own sole self to all their selves expanded,
+I too, at last, shall with them all be stranded! MEPHISTOPHELES
+
+Believe me, who for many a thousand year
+The same tough meat have chewed and tested,
+That from the cradle to the bier
+No man the ancient leaven has digested! Trust one of us, this Whole supernal
+Is made but for a God's delight! _He_ dwells in splendor single and eternal,
+But _us_ he thrusts in darkness, out of sight,
+And _you_ he dowers with Day and Night. FAUST
+
+Nay, but I will! MEPHISTOPHELES
+
+A good reply! One only fear still needs repeating:
+The art is long, the time is fleeting. Then let thyself be taught, say I! Go, league thyself with a poet,
+Give the rein to his imagination,
+Then wear the crown, and show it,
+Of the qualities of his creation,--
+The courage of the lion's breed,
+The wild stag's speed,
+The Italian's fiery blood,
+The North's firm fortitude! Let him find for thee the secret tether
+That binds the Noble and Mean together. And teach thy pulses of youth and pleasure
+To love by rule, and hate by measure! I'd like, myself, such a one to see:
+Sir Microcosm his name should be. FAUST
+
+What am I, then, if 'tis denied my part
+The crown of all humanity to win me,
+Whereto yearns every sense within me? MEPHISTOPHELES
+
+Why, on the whole, thou'rt--what thou art. Set wigs of million curls upon thy head, to raise thee,
+Wear shoes an ell in height,--the truth betrays thee,
+And thou remainest--what thou art. FAUST
+
+I feel, indeed, that I have made the treasure
+Of human thought and knowledge mine, in vain;
+And if I now sit down in restful leisure,
+No fount of newer strength is in my brain:
+I am no hair's-breadth more in height,
+Nor nearer, to the Infinite,
+
+MEPHISTOPHELES
+
+Good Sir, you see the facts precisely
+As they are seen by each and all. We must arrange them now, more wisely,
+Before the joys of life shall pall. Why, Zounds! Both hands and feet are, truly--
+And head and virile forces--thine:
+Yet all that I indulge in newly,
+Is't thence less wholly mine? If I've six stallions in my stall,
+Are not their forces also lent me? I speed along, completest man of all,
+As though my legs were four-and-twenty. Take hold, then! let reflection rest,
+And plunge into the world with zest! I say to thee, a speculative wight
+Is like a beast on moorlands lean,
+That round and round some fiend misleads to evil plight,
+While all about lie pastures fresh and green. FAUST
+
+Then how shall we begin? MEPHISTOPHELES
+
+We'll try a wider sphere. What place of martyrdom is here! Is't life, I ask, is't even prudence,
+To bore thyself and bore the students? Let Neighbor Paunch to that attend! Why plague thyself with threshing straw forever? The best thou learnest, in the end
+Thou dar'st not tell the youngsters--never! I hear one's footsteps, hither steering. FAUST
+To see him now I have no heart. MEPHISTOPHELES
+
+So long the poor boy waits a hearing,
+He must not unconsoled depart. Thy cap and mantle straightway lend me! I'll play the comedy with art. (_He disguises himself_.) My wits, be certain, will befriend me. But fifteen minutes' time is all I need;
+For our fine trip, meanwhile, prepare thyself with speed! [_Exit_ FAUST. MEPHISTOPHELES
+
+(_In_ FAUST'S _long mantle_.) Reason and Knowledge only thou despise,
+The highest strength in man that lies! Let but the Lying Spirit bind thee
+With magic works and shows that blind thee,
+And I shall have thee fast and sure!--
+Fate such a bold, untrammelled spirit gave him,
+As forwards, onwards, ever must endure;
+Whose over-hasty impulse drave him
+Past earthly joys he might secure. Dragged through the wildest life, will I enslave him,
+Through flat and stale indifference;
+With struggling, chilling, checking, so deprave him
+That, to his hot, insatiate sense,
+The dream of drink shall mock, but never lave him:
+Refreshment shall his lips in vain implore--
+Had he not made himself the Devil's, naught could save
+him,
+Still were he lost forevermore! (_A_ STUDENT _enters_.) STUDENT
+
+A short time, only, am I here,
+And come, devoted and sincere,
+To greet and know the man of fame,
+Whom men to me with reverence name. MEPHISTOPHELES
+
+Your courtesy doth flatter me:
+You see a man, as others be. Have you, perchance, elsewhere begun? STUDENT
+
+Receive me now, I pray, as one
+Who comes to you with courage good,
+Somewhat of cash, and healthy blood:
+My mother was hardly willing to let me;
+But knowledge worth having I fain would get me. MEPHISTOPHELES
+
+Then you have reached the right place now. STUDENT
+
+I'd like to leave it, I must avow;
+I find these walls, these vaulted spaces
+Are anything but pleasant places. Tis all so cramped and close and mean;
+One sees no tree, no glimpse of green,
+And when the lecture-halls receive me,
+Seeing, hearing, and thinking leave me. MEPHISTOPHELES
+
+All that depends on habitude. So from its mother's breasts a child
+At first, reluctant, takes its food,
+But soon to seek them is beguiled. Thus, at the breasts of Wisdom clinging,
+Thou'lt find each day a greater rapture bringing. STUDENT
+
+I'll hang thereon with joy, and freely drain them;
+But tell me, pray, the proper means to gain them. MEPHISTOPHELES
+
+Explain, before you further speak,
+The special faculty you seek. STUDENT
+
+I crave the highest erudition;
+And fain would make my acquisition
+All that there is in Earth and Heaven,
+In Nature and in Science too. MEPHISTOPHELES
+
+Here is the genuine path for you;
+Yet strict attention must be given. STUDENT
+
+Body and soul thereon I'll wreak;
+Yet, truly, I've some inclination
+On summer holidays to seek
+A little freedom and recreation. MEPHISTOPHELES
+
+Use well your time! It flies so swiftly from us;
+But time through order may be won, I promise. So, Friend (my views to briefly sum),
+First, the _collegium logicum_. There will your mind be drilled and braced,
+As if in Spanish boots 'twere laced,
+And thus, to graver paces brought,
+'Twill plod along the path of thought,
+Instead of shooting here and there,
+A will-o'-the-wisp in murky air. Days will be spent to bid you know,
+What once you did at a single blow,
+Like eating and drinking, free and strong,--
+That one, two, three! thereto belong. Truly the fabric of mental fleece
+Resembles a weaver's masterpiece,
+Where a thousand threads one treadle throws,
+Where fly the shuttles hither and thither. Unseen the threads are knit together. And an infinite combination grows. Then, the philosopher steps in
+And shows, no otherwise it could have been:
+The first was so, the second so,
+Therefore the third and fourth are so;
+Were not the first and second, then
+The third and fourth had never been. The scholars are everywhere believers,
+But never succeed in being weavers. He who would study organic existence,
+First drives out the soul with rigid persistence;
+Then the parts in his hand he may hold and class,
+But the spiritual link is lost, alas! _Encheiresin natures_, this Chemistry names,
+Nor knows how herself she banters and blames! STUDENT
+
+I cannot understand you quite. MEPHISTOPHELES
+
+Your mind will shortly be set aright,
+When you have learned, all things reducing,
+To classify them for your using. STUDENT
+
+I feel as stupid, from all you've said,
+As if a mill-wheel whirled in my head! MEPHISTOPHELES
+
+And after--first and foremost duty--Of
+Metaphysics learn the use and beauty! See that you most profoundly gain
+What does not suit the human brain! A splendid word to serve, you'll find
+For what goes in--or won't go in--your mind. But first, at least this half a year,
+To order rigidly adhere;
+Five hours a day, you understand,
+And when the clock strikes, be on hand! Prepare beforehand for your part
+With paragraphs all got by heart,
+So you can better watch, and look
+That naught is said but what is in the book:
+Yet in thy writing as unwearied be,
+As did the Holy Ghost dictate to thee! STUDENT
+
+No need to tell me twice to do it! I think, how useful 'tis to write;
+For what one has, in black and white,
+One carries home and then goes through it. MEPHISTOPHELES
+
+Yet choose thyself a faculty! STUDENT
+
+I cannot reconcile myself to Jurisprudence. MEPHISTOPHELES
+
+Nor can I therefore greatly blame you students:
+I know what science this has come to be. All rights and laws are still transmitted
+Like an eternal sickness of the race,--
+From generation unto generation fitted,
+And shifted round from place to place. Reason becomes a sham, Beneficence a worry:
+Thou art a grandchild, therefore woe to thee! The right born with us, ours in verity,
+This to consider, there's, alas! no hurry. STUDENT
+
+My own disgust is strengthened by your speech:
+O lucky he, whom you shall teach! I've almost for Theology decided. MEPHISTOPHELES
+
+I should not wish to see you here misguided:
+For, as regards this science, let me hint
+'Tis very hard to shun the false direction;
+There's so much secret poison lurking in 't,
+So like the medicine, it baffles your detection. Hear, therefore, one alone, for that is best, in sooth,
+And simply take your master's words for truth. On _words_ let your attention centre! Then through the safest gate you'll enter
+The temple-halls of Certainty. 

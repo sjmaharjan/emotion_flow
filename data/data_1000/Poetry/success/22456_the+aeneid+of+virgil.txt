@@ -1,0 +1,1895 @@
+
+
+E-text prepared by David Clarke, Lisa Reigel, and the Project Gutenberg
+Online Distributed Proofreading Team (http://www.pgdp.net)
+
+
+
+Transcriber's note:
+
+   Numbers in brackets [ ] refer to line numbers in Virgil's
+   Aeneid. These numbers appeared at the top of each page of text
+   and have been retained for reference. Obvious typographical errors have been corrected. A complete
+   list follows the text. THE AENEID OF VIRGIL
+
+Translated into English
+
+by
+
+J. W. MACKAIL, M.A. Fellow Of Balliol College, Oxford
+
+
+
+
+
+
+
+London
+MacMillan and Co.
+1885
+
+Printed by R. & R. CLARK, Edinburgh. PREFACE
+
+
+There is something grotesque in the idea of a prose translation of a
+poet, though the practice is become so common that it has ceased to
+provoke a smile or demand an apology. The language of poetry is language
+in fusion; that of prose is language fixed and crystallised; and an
+attempt to copy the one material in the other must always count on
+failure to convey what is, after all, one of the most essential things
+in poetry,--its poetical quality. And this is so with Virgil more,
+perhaps, than with any other poet; for more, perhaps, than any other
+poet Virgil depends on his poetical quality from first to last. Such a
+translation can only have the value of a copy of some great painting
+executed in mosaic, if indeed a copy in Berlin wool is not a closer
+analogy; and even at the best all it can have to say for itself will be
+in Virgil's own words, _Experiar sensus; nihil hic nisi carmina desunt._
+
+In this translation I have in the main followed the text of Conington
+and Nettleship. The more important deviations from this text are
+mentioned in the notes; but I have not thought it necessary to give a
+complete list of various readings, or to mention any change except where
+it might lead to misapprehension. Their notes have also been used by me
+throughout. Beyond this I have made constant use of the mass of ancient commentary
+going under the name of Servius; the most valuable, perhaps, of all, as
+it is in many ways the nearest to the poet himself. The explanation
+given in it has sometimes been followed against those of the modern
+editors. To other commentaries only occasional reference has been made. The sense that Virgil is his own best interpreter becomes stronger as
+one studies him more. My thanks are due to Mr. EVELYN ABBOTT, Fellow and Tutor of Balliol, and
+to the Rev. H. C. BEECHING, for much valuable suggestion and criticism. THE AENEID
+
+
+
+
+BOOK FIRST
+
+THE COMING OF AENEAS TO CARTHAGE
+
+
+I sing of arms and the man who of old from the coasts of Troy came, an
+exile of fate, to Italy and the shore of Lavinium; hard driven on land
+and on the deep by the violence of heaven, for cruel Juno's unforgetful
+anger, and hard bestead in war also, ere he might found a city and carry
+his gods into Latium; from whom is the Latin race, the lords of Alba,
+and the stately city Rome. Muse, tell me why, for what attaint of her deity, or in what vexation,
+did the Queen of heaven drive one so excellent in goodness to circle
+through so many afflictions, to face so many toils? Is anger so fierce
+in celestial spirits? *       *       *       *       *
+
+There was a city of ancient days that Tyrian settlers dwelt in,
+Carthage, over against Italy and the Tiber mouths afar; rich of store,
+and mighty in war's fierce pursuits; wherein, they say, alone beyond all
+other lands had Juno her seat, and held Samos itself less dear. Here was
+her armour, here her chariot; even now, if fate permit, the goddess
+strives to nurture it for queen of the nations. Nevertheless she had
+heard a race was issuing of the blood of [20-53]Troy, which sometime
+should overthrow her Tyrian citadel; from it should come a people, lord
+of lands and tyrannous in war, the destroyer of Libya: so rolled the
+destinies. Fearful of that, the daughter of Saturn, the old war in her
+remembrance that she fought at Troy for her beloved Argos long ago,--nor
+had the springs of her anger nor the bitterness of her vexation yet gone
+out of mind: deep stored in her soul lies the judgment of Paris, the
+insult of her slighted beauty, the hated race and the dignities of
+ravished Ganymede; fired with this also, she tossed all over ocean the
+Trojan remnant left of the Greek host and merciless Achilles, and held
+them afar from Latium; and many a year were they wandering driven of
+fate around all the seas. Such work was it to found the Roman people. Hardly out of sight of the land of Sicily did they set their sails to
+sea, and merrily upturned the salt foam with brazen prow, when Juno, the
+undying wound still deep in her heart, thus broke out alone:
+
+'Am I then to abandon my baffled purpose, powerless to keep the Teucrian
+king from Italy? and because fate forbids me? Could Pallas lay the
+Argive fleet in ashes, and sink the Argives in the sea, for one man's
+guilt, mad Oilean Ajax? Her hand darted Jove's flying fire from the
+clouds, scattered their ships, upturned the seas in tempest; him, his
+pierced breast yet breathing forth the flame, she caught in a whirlwind
+and impaled on a spike of rock. But I, who move queen among immortals, I
+sister and wife of Jove, wage warfare all these years with a single
+people; and is there any who still adores Juno's divinity, or will kneel
+to lay sacrifice on her altars?' Such thoughts inly revolving in her kindled bosom, the goddess reaches
+Aeolia, the home of storm-clouds, the land laden with furious southern
+gales. Here in a desolate cavern Aeolus keeps under royal dominion and
+yokes in [54-85]dungeon fetters the struggling winds and loud storms. They with mighty moan rage indignant round their mountain barriers. In
+his lofty citadel Aeolus sits sceptred, assuages their temper and
+soothes their rage; else would they carry with them seas and lands, and
+the depth of heaven, and sweep them through space in their flying
+course. But, fearful of this, the lord omnipotent hath hidden them in
+caverned gloom, and laid a mountain mass high over them, and appointed
+them a ruler, who should know by certain law to strain and slacken the
+reins at command. To him now Juno spoke thus in suppliant accents:
+
+'Aeolus--for to thee hath the father of gods and king of men given the
+wind that lulls and that lifts the waves--a people mine enemy sails the
+Tyrrhene sea, carrying into Italy the conquered gods of their Ilian
+home. Rouse thy winds to fury, and overwhelm their sinking vessels, or
+drive them asunder and strew ocean with their bodies. Mine are twice
+seven nymphs of passing loveliness; her who of them all is most
+excellent in beauty, Deiopea, I will unite to thee in wedlock to be
+thine for ever; that for this thy service she may fulfil all her years
+at thy side, and make thee father of a beautiful race.' Aeolus thus returned: 'Thine, O queen, the task to search whereto thou
+hast desire; for me it is right to do thy bidding. From thee have I this
+poor kingdom, from thee my sceptre and Jove's grace; thou dost grant me
+to take my seat at the feasts of the gods, and makest me sovereign over
+clouds and storms.' Even with these words, turning his spear, he struck the side of the
+hollow hill, and the winds, as in banded array, pour where passage is
+given them, and cover earth with eddying blasts. East wind and west wind
+together, and the gusty south-wester, falling prone on the sea, stir it
+up [86-120]from its lowest chambers, and roll vast billows to the
+shore. Behind rises shouting of men and whistling of cordage. In a
+moment clouds blot sky and daylight from the Teucrians' eyes; black
+night broods over the deep. Pole thunders to pole, and the air quivers
+with incessant flashes; all menaces them with instant death. Straightway
+Aeneas' frame grows unnerved and chill, and stretching either hand to
+heaven, he cries thus aloud: 'Ah, thrice and four times happy they who
+found their doom under high Troy town before their fathers' faces! Ah,
+son of Tydeus, bravest of the Grecian race, that I could not have fallen
+on the Ilian plains, and gasped out this my life beneath thine hand! where under the spear of Aeacides lies fierce Hector, lies mighty
+Sarpedon; where Simois so often bore beneath his whirling wave shields
+and helmets and brave bodies of men.' As the cry leaves his lips, a gust of the shrill north strikes full on
+the sail and raises the waves up to heaven. The oars are snapped; the
+prow swings away and gives her side to the waves; down in a heap comes a
+broken mountain of water. These hang on the wave's ridge; to these the
+yawning billow shows ground amid the surge, where the sea churns with
+sand. Three ships the south wind catches and hurls on hidden rocks,
+rocks amid the waves which Italians call the Altars, a vast reef banking
+the sea. Three the east forces from the deep into shallows and
+quicksands, piteous to see, dashes on shoals and girdles with a
+sandbank. One, wherein loyal Orontes and his Lycians rode, before their
+lord's eyes a vast sea descending strikes astern. The helmsman is dashed
+away and rolled forward headlong; her as she lies the billow sends
+spinning thrice round with it, and engulfs in the swift whirl. Scattered
+swimmers appear in the vast eddy, armour of men, timbers and Trojan
+treasure amid the water. Ere now the stout ship of Ilioneus, ere now of
+brave Achates, and she wherein [121-152]Abas rode, and she wherein aged
+Aletes, have yielded to the storm; through the shaken fastenings of
+their sides they all draw in the deadly water, and their opening seams
+give way. Meanwhile Neptune discerned with astonishment the loud roaring of the
+vexed sea, the tempest let loose from prison, and the still water
+boiling up from its depths, and lifting his head calm above the waves,
+looked forth across the deep. He sees all ocean strewn with Aeneas'
+fleet, the Trojans overwhelmed by the waves and the ruining heaven. Juno's guile and wrath lay clear to her brother's eye; east wind and
+west he calls before him, and thereon speaks thus:
+
+'Stand you then so sure in your confidence of birth? Careless, O winds,
+of my deity, dare you confound sky and earth, and raise so huge a coil? you whom I--But better to still the aroused waves; for a second sin you
+shall pay me another penalty. Speed your flight, and say this to your
+king: not to him but to me was allotted the stern trident of ocean
+empire. His fastness is on the monstrous rocks where thou and thine,
+east wind, dwell: there let Aeolus glory in his palace and reign over
+the barred prison of his winds.' Thus he speaks, and ere the words are done he soothes the swollen seas,
+chases away the gathered clouds, and restores the sunlight. Cymothoe and
+Triton together push the ships strongly off the sharp reef; himself he
+eases them with his trident, channels the vast quicksands, and assuages
+the sea, gliding on light wheels along the water. Even as when oft in a
+throng of people strife hath risen, and the base multitude rage in their
+minds, and now brands and stones are flying; madness lends arms; then if
+perchance they catch sight of one reverend for goodness and service,
+they are silent and stand by with attentive ear; he with
+[153-190]speech sways their temper and soothes their breasts; even so
+hath fallen all the thunder of ocean, when riding forward beneath a
+cloudless sky the lord of the sea wheels his coursers and lets his
+gliding chariot fly with loosened rein. The outworn Aeneadae hasten to run for the nearest shore, and turn to
+the coast of Libya. There lies a spot deep withdrawn; an island forms a
+harbour with outstretched sides, whereon all the waves break from the
+open sea and part into the hollows of the bay. On this side and that
+enormous cliffs rise threatening heaven, and twin crags beneath whose
+crest the sheltered water lies wide and calm; above hangs a background
+of flickering forest, and the dark shade of rustling groves. Beneath the
+seaward brow is a rock-hung cavern, within it fresh springs and seats in
+the living stone, a haunt of nymphs; where tired ships need no fetters
+to hold nor anchor to fasten them with crooked bite. Here with seven
+sail gathered of all his company Aeneas enters; and disembarking on the
+land of their desire the Trojans gain the chosen beach, and set their
+feet dripping with brine upon the shore. At once Achates struck a spark
+from the flint and caught the fire on leaves, and laying dry fuel round
+kindled it into flame. Then, weary of fortune, they fetch out corn
+spoiled by the sea and weapons of corn-dressing, and begin to parch over
+the fire and bruise in stones the grain they had rescued. Meanwhile Aeneas scales the crag, and seeks the whole view wide over
+ocean, if he may see aught of Antheus storm-tossed with his Phrygian
+galleys, aught of Capys or of Caicus' armour high astern. Ship in sight
+is none; three stags he espies straying on the shore; behind whole herds
+follow, and graze in long train across the valley. Stopping short, he
+snatched up a bow and swift arrows, the arms trusty Achates was
+carrying; and first the leaders, their stately heads high with branching
+antlers, then the common [191-222]herd fall to his hand, as he drives
+them with his shafts in a broken crowd through the leafy woods. Nor
+stays he till seven great victims are stretched on the sod, fulfilling
+the number of his ships. Thence he seeks the harbour and parts them
+among all his company. The casks of wine that good Acestes had filled on
+the Trinacrian beach, the hero's gift at their departure, he thereafter
+shares, and calms with speech their sorrowing hearts:
+
+'O comrades, for not now nor aforetime are we ignorant of ill, O tried
+by heavier fortunes, unto this last likewise will God appoint an end. The fury of Scylla and the roaring recesses of her crags you have been
+anigh; the rocks of the Cyclops you have trodden. Recall your courage,
+put dull fear away. This too sometime we shall haply remember with
+delight. Through chequered fortunes, through many perilous ways, we
+steer for Latium, where destiny points us a quiet home. There the realm
+of Troy may rise again unforbidden. Keep heart, and endure till
+prosperous fortune come.' Such words he utters, and sick with deep distress he feigns hope on his
+face, and keeps his anguish hidden deep in his breast. The others set to
+the spoil they are to feast upon, tear chine from ribs and lay bare the
+flesh; some cut it into pieces and pierce it still quivering with spits;
+others plant cauldrons on the beach and feed them with flame. Then they
+repair their strength with food, and lying along the grass take their
+fill of old wine and fat venison. After hunger is driven from the
+banquet, and the board cleared, they talk with lingering regret of their
+lost companions, swaying between hope and fear, whether they may believe
+them yet alive, or now in their last agony and deaf to mortal call. Most
+does good Aeneas inly wail the loss now of valiant Orontes, now of
+Amycus, the cruel doom of Lycus, of brave Gyas, and brave Cloanthus. [223-254]And now they ceased; when from the height of air Jupiter
+looked down on the sail-winged sea and outspread lands, the shores and
+broad countries, and looking stood on the cope of heaven, and cast down
+his eyes on the realm of Libya. To him thus troubled at heart Venus, her
+bright eyes brimming with tears, sorrowfully speaks:
+
+'O thou who dost sway mortal and immortal things with eternal command
+and the terror of thy thunderbolt, how can my Aeneas have transgressed
+so grievously against thee? how his Trojans? on whom, after so many
+deaths outgone, all the world is barred for Italy's sake. From them
+sometime in the rolling years the Romans were to arise indeed; from them
+were to be rulers who, renewing the blood of Teucer, should hold sea and
+land in universal lordship. This thou didst promise: why, O father, is
+thy decree reversed? This was my solace for the wretched ruin of sunken
+Troy, doom balanced against doom. Now so many woes are spent, and the
+same fortune still pursues them; Lord and King, what limit dost thou set
+to their agony? Antenor could elude the encircling Achaeans, could
+thread in safety the Illyrian bays and inmost realms of the Liburnians,
+could climb Timavus' source, whence through nine mouths pours the
+bursting tide amid dreary moans of the mountain, and covers the fields
+with hoarse waters. Yet here did he set Patavium town, a dwelling-place
+for his Teucrians, gave his name to a nation and hung up the armour of
+Troy; now settled in peace, he rests and is in quiet. We, thy children,
+we whom thou beckonest to the heights of heaven, our fleet miserably
+cast away for a single enemy's anger, are betrayed and severed far from
+the Italian coasts. Is this the reward of goodness? Is it thus thou dost
+restore our throne?' Smiling on her with that look which clears sky and [255-289]storms, the
+parent of men and gods lightly kissed his daughter's lips; then answered
+thus:
+
+'Spare thy fear, Cytherean; thy people's destiny abides unshaken. Thine
+eyes shall see the city Lavinium, their promised home; thou shalt exalt
+to the starry heaven thy noble Aeneas; nor is my decree reversed. He
+thou lovest (for I will speak, since this care keeps torturing thee, and
+will unroll further the secret records of fate) shall wage a great war
+in Italy, and crush warrior nations; he shall appoint his people a law
+and a city; till the third summer see him reigning in Latium, and three
+winters' camps pass over the conquered Rutulians. But the boy Ascanius,
+whose surname is now Iuelus--Ilus he was while the Ilian state stood
+sovereign--thirty great circles of rolling months shall he fulfil in
+government; he shall carry the kingdom from its fastness in Lavinium,
+and make a strong fortress of Alba the Long. Here the full space of
+thrice an hundred years shall the kingdom endure under the race of
+Hector's kin, till the royal priestess Ilia from Mars' embrace shall
+give birth to a twin progeny. Thence shall Romulus, gay in the tawny
+hide of the she-wolf that nursed him, take up their line, and name them
+Romans after his own name. I appoint to these neither period nor
+boundary of empire: I have given them dominion without end. Nay, harsh
+Juno, who in her fear now troubles earth and sea and sky, shall change
+to better counsels, and with me shall cherish the lords of the world,
+the gowned race of Rome. Thus is it willed. A day will come in the lapse
+of cycles, when the house of Assaracus shall lay Phthia and famed
+Mycenae in bondage, and reign over conquered Argos. From the fair line
+of Troy a Caesar shall arise, who shall limit his empire with ocean, his
+glory with the firmament, Julius, inheritor of great Iuelus' name. Him
+one day, thy care done, thou shalt welcome to heaven loaded
+[290-321]with Eastern spoils; to him too shall vows be addressed. Then
+shall war cease, and the iron ages soften. Hoar Faith and Vesta,
+Quirinus and Remus brothers again, shall deliver statutes. The dreadful
+steel-riveted gates of war shall be shut fast; on murderous weapons the
+inhuman Fury, his hands bound behind him with an hundred fetters of
+brass, shall sit within, shrieking with terrible blood-stained lips.' So speaking, he sends Maia's son down from above, that the land and
+towers of Carthage, the new town, may receive the Trojans with open
+welcome; lest Dido, ignorant of doom, might debar them her land. Flying
+through the depth of air on winged oarage, the fleet messenger alights
+on the Libyan coasts. At once he does his bidding; at once, for a god
+willed it, the Phoenicians allay their haughty temper; the queen above
+all takes to herself grace and compassion towards the Teucrians. But good Aeneas, nightlong revolving many and many a thing, issues
+forth, so soon as bountiful light is given, to explore the strange
+country; to what coasts the wind has borne him, who are their habitants,
+men or wild beasts, for all he sees is wilderness; this he resolves to
+search, and bring back the certainty to his comrades. The fleet he hides
+close in embosoming groves beneath a caverned rock, amid shivering
+shadow of the woodland; himself, Achates alone following, he strides
+forward, clenching in his hand two broad-headed spears. And amid the
+forest his mother crossed his way, wearing the face and raiment of a
+maiden, the arms of a maiden of Sparta, or like Harpalyce of Thrace when
+she tires her coursers and outstrips the winged speed of Hebrus in her
+flight. For huntress fashion had she slung the ready bow from her
+shoulder, and left her blown tresses free, bared her knee, and knotted
+together her garments' flowing folds. 'Ha! my men,' she begins, 'shew me
+if [322-355]haply you have seen a sister of mine straying here girt
+with quiver and a lynx's dappled fell, or pressing with shouts on the
+track of a foaming boar.' Thus Venus, and Venus' son answering thus began:
+
+'Sound nor sight have I had of sister of thine, O maiden unnamed; for
+thy face is not mortal, nor thy voice of human tone; O goddess
+assuredly! sister of Phoebus perchance, or one of the nymphs' blood? Be thou gracious, whoso thou art, and lighten this toil of ours; deign
+to instruct us beneath what skies, on what coast of the world, we are
+thrown. Driven hither by wind and desolate waves, we wander in a strange
+land among unknown men. Many a sacrifice shall fall by our hand before
+thine altars.' Then Venus: 'Nay, to no such offerings do I aspire. Tyrian maidens are
+wont ever to wear the quiver, to tie the purple buskin high above their
+ankle. Punic is the realm thou seest, Tyrian the people, and the city of
+Agenor's kin; but their borders are Libyan, a race unassailable in war. Dido sways the sceptre, who flying her brother set sail from the Tyrian
+town. Long is the tale of crime, long and intricate; but I will briefly
+follow its argument. Her husband was Sychaeus, wealthiest in lands of
+the Phoenicians, and loved of her with ill-fated passion; to whom with
+virgin rites her father had given her maidenhood in wedlock. But the
+kingdom of Tyre was in her brother Pygmalion's hands, a monster of guilt
+unparalleled. Between these madness came; the unnatural brother, blind
+with lust of gold, and reckless of his sister's love, lays Sychaeus low
+before the altars with stealthy unsuspected weapon; and for long he hid
+the deed, and by many a crafty pretence cheated her love-sickness with
+hollow hope. But in slumber came the very ghost of her unburied husband;
+lifting up a face pale in wonderful wise, he exposed the merciless
+altars and [356-387]his breast stabbed through with steel, and unwove
+all the blind web of household guilt. Then he counsels hasty flight out
+of the country, and to aid her passage discloses treasures long hidden
+underground, an untold mass of silver and gold. Stirred thereby, Dido
+gathered a company for flight. All assemble in whom hatred of the tyrant
+was relentless or fear keen; they seize on ships that chanced to lie
+ready, and load them with the gold. Pygmalion's hoarded wealth is borne
+overseas; a woman leads the work. They came at last to the land where
+thou wilt descry a city now great, New Carthage, and her rising citadel,
+and bought ground, called thence Byrsa, as much as a bull's hide would
+encircle. But who, I pray, are you, or from what coasts come, or whither
+hold you your way?' At her question he, sighing and drawing speech deep from his breast,
+thus replied:
+
+'Ah goddess, should I go on retracing from the fountain head, were time
+free to hear the history of our woes, sooner would the evening star lay
+day asleep in the closed gates of heaven. Us, as from ancient Troy (if
+the name of Troy hath haply passed through your ears) we sailed over
+alien seas, the tempest at his own wild will hath driven on the Libyan
+coast. I am Aeneas the good, who carry in my fleet the household gods I
+rescued from the enemy; my fame is known high in heaven. I seek Italy my
+country, my kin of Jove's supreme blood. With twenty sail did I climb
+the Phrygian sea; oracular tokens led me on; my goddess mother pointed
+the way; scarce seven survive the shattering of wave and wind. Myself
+unknown, destitute, driven from Europe and Asia, I wander over the
+Libyan wilderness.' But staying longer complaint, Venus thus broke in on his half-told
+sorrows:
+
+'Whoso thou art, not hated I think of the immortals [388-420]dost thou
+draw the breath of life, who hast reached the Tyrian city. Only go on,
+and betake thee hence to the courts of the queen. For I declare to thee
+thy comrades are restored, thy fleet driven back into safety by the
+shifted northern gales, except my parents were pretenders, and
+unavailing the augury they taught me. Behold these twelve swans in
+joyous line, whom, stooping from the tract of heaven, the bird of Jove
+fluttered over the open sky; now in long train they seem either to take
+the ground or already to look down on the ground they took. As they
+again disport with clapping wings, and utter their notes as they circle
+the sky in company, even so do these ships and crews of thine either lie
+fast in harbour or glide under full sail into the harbour mouth. Only go
+on, and turn thy steps where the pathway leads thee.' Speaking she turned away, and her neck shone roseate, her immortal
+tresses breathed the fragrance of deity; her raiment fell flowing down
+to her feet, and the godhead was manifest in her tread. He knew her for
+his mother, and with this cry pursued her flight: 'Thou also merciless! Why mockest thou thy son so often in feigned likeness? Why is it
+forbidden to clasp hand in hand, to hear and utter true speech?' Thus
+reproaching her he bends his steps towards the city. But Venus girt them
+in their going with dull mist, and shed round them a deep divine
+clothing of cloud, that none might see them, none touch them, or work
+delay, or ask wherefore they came. Herself she speeds through the sky to
+Paphos, and joyfully revisits her habitation, where the temple and its
+hundred altars steam with Sabaean incense, and are fresh with fragrance
+of chaplets in her worship. They meantime have hasted along where the pathway points, and now were
+climbing the hill which hangs enormous over the city, and looks down on
+its facing towers. [421-456]Aeneas marvels at the mass of building,
+pastoral huts once of old, marvels at the gateways and clatter of the
+pavements. The Tyrians are hot at work to trace the walls, to rear the
+citadel, and roll up great stones by hand, or to choose a spot for their
+dwelling and enclose it with a furrow. They ordain justice and
+magistrates, and the august senate. Here some are digging harbours, here
+others lay the deep foundations of their theatre, and hew out of the
+cliff vast columns, the lofty ornaments of the stage to be: even as bees
+when summer is fresh over the flowery country ply their task beneath the
+sun, when they lead forth their nation's grown brood, or when they press
+the liquid honey and strain their cells with nectarous sweets, or
+relieve the loaded incomers, or in banded array drive the idle herd of
+drones far from their folds; they swarm over their work, and the odorous
+honey smells sweet of thyme. 'Happy they whose city already rises!' cries Aeneas, looking on the town roofs below. Girt in the cloud he
+passes amid them, wonderful to tell, and mingling with the throng is
+descried of none. In the heart of the town was a grove deep with luxuriant shade, wherein
+first the Phoenicians, buffeted by wave and whirlwind, dug up the token
+Queen Juno had appointed, the head of a war horse: thereby was their
+race to be through all ages illustrious in war and opulent in living. Here to Juno was Sidonian Dido founding a vast temple, rich with
+offerings and the sanctity of her godhead: brazen steps rose on the
+threshold, brass clamped the pilasters, doors of brass swung on grating
+hinges. First in this grove did a strange chance meet his steps and
+allay his fears; first here did Aeneas dare to hope for safety and have
+fairer trust in his shattered fortunes. For while he closely scans the
+temple that towers above him, while, awaiting the queen, he admires the
+fortunate city, the emulous hands and elaborate work of her craftsmen,
+he sees ranged in order the [457-491]battles of Ilium, that war whose
+fame was already rumoured through all the world, the sons of Atreus and
+Priam, and Achilles whom both found pitiless. He stopped and cried
+weeping, 'What land is left, Achates, what tract on earth that is not
+full of our agony? Behold Priam! Here too is the meed of honour, here
+mortal estate touches the soul to tears. Dismiss thy fears; the fame of
+this will somehow bring thee salvation.' So speaks he, and fills his soul with the painted show, sighing often
+the while, and his face wet with a full river of tears. For he saw, how
+warring round the Trojan citadel here the Greeks fled, the men of Troy
+hard on their rear; here the Phrygians, plumed Achilles in his chariot
+pressing their flight. Not far away he knows the snowy canvas of Rhesus'
+tents, which, betrayed in their first sleep, the blood-stained son of
+Tydeus laid desolate in heaped slaughter, and turns the ruddy steeds
+away to the camp ere ever they tasted Trojan fodder or drunk of Xanthus. Elsewhere Troilus, his armour flung away in flight--luckless boy, no
+match for Achilles to meet!--is borne along by his horses, and thrown
+back entangled with his empty chariot, still clutching the reins; his
+neck and hair are dragged over the ground, and his reversed spear scores
+the dust. Meanwhile the Ilian women went with disordered tresses to
+unfriendly Pallas' temple, and bore the votive garment, sadly beating
+breast with palm: the goddess turning away held her eyes fast on the
+ground. Thrice had Achilles whirled Hector round the walls of Troy, and
+was selling the lifeless body for gold; then at last he heaves a loud
+and heart-deep groan, as the spoils, as the chariot, as the dear body
+met his gaze, and Priam outstretching unarmed hands. Himself too he knew
+joining battle with the foremost Achaeans, knew the Eastern ranks and
+swart Memnon's armour. Penthesilea leads her crescent-shielded Amazonian
+columns in furious heat with [492-524]thousands around her; clasping a
+golden belt under her naked breast, the warrior maiden clashes boldly
+with men. While these marvels meet Dardanian Aeneas' eyes, while he dizzily hangs
+rapt in one long gaze, Dido the queen entered the precinct, beautiful
+exceedingly, a youthful train thronging round her. Even as on Eurotas'
+banks or along the Cynthian ridges Diana wheels the dance, while behind
+her a thousand mountain nymphs crowd to left and right; she carries
+quiver on shoulder, and as she moves outshines them all in deity;
+Latona's heart is thrilled with silent joy; such was Dido, so she
+joyously advanced amid the throng, urging on the business of her rising
+empire. Then in the gates of the goddess, beneath the central vault of
+the temple roof, she took her seat girt with arms and high enthroned. And now she gave justice and laws to her people, and adjusted or
+allotted their taskwork in due portion; when suddenly Aeneas sees
+advancing with a great crowd about them Antheus and Sergestus and brave
+Cloanthus, and other of his Trojans, whom the black squall had sundered
+at sea and borne far away on the coast. Dizzy with the shock of joy and
+fear he and Achates together were on fire with eagerness to clasp their
+hands; but in confused uncertainty they keep hidden, and clothed in the
+sheltering cloud wait to espy what fortune befalls them, where they are
+leaving their fleet ashore, why they now come; for they advanced, chosen
+men from all the ships, praying for grace, and held on with loud cries
+towards the temple. After they entered in, and free speech was granted, aged Ilioneus with
+placid mien thus began:
+
+'Queen, to whom Jupiter hath given to found this new city, and lay the
+yoke of justice upon haughty tribes, we beseech thee, we wretched
+Trojans storm-driven over all [525-559]the seas, stay the dreadful
+flames from our ships; spare a guiltless race, and bend a gracious
+regard on our fortunes. We are not come to deal slaughter through Libyan
+homes, or to drive plundered spoils to the coast. Such violence sits not
+in our mind, nor is a conquered people so insolent. There is a place
+Greeks name Hesperia, an ancient land, mighty in arms and foison of the
+clod; Oenotrian men dwelt therein; now rumour is that a younger race
+from their captain's name have called it Italy. Thither lay our course
+. . . when Orion rising on us through the cloudrack with sudden surf
+bore us on blind shoals, and scattered us afar with his boisterous gales
+and whelming brine over waves and trackless reefs. To these your coasts
+we a scanty remnant floated up. What race of men, what land how
+barbarous soever, allows such a custom for its own? We are debarred the
+shelter of the beach; they rise in war, and forbid us to set foot on the
+brink of their land. If you slight human kinship and mortal arms, yet
+look for gods unforgetful of innocence and guilt. Aeneas was our king,
+foremost of men in righteousness, incomparable in goodness as in warlike
+arms; whom if fate still preserves, if he draws the breath of heaven and
+lies not yet low in dispiteous gloom, fear we have none; nor mayest thou
+repent of challenging the contest of service. In Sicilian territory too
+is tilth and town, and famed Acestes himself of Trojan blood. Grant us
+to draw ashore our storm-shattered fleet, to shape forest trees into
+beams and strip them for oars; so, if to Italy we may steer with our
+king and comrades found, Italy and Latium shall we gladly seek; but if
+salvation is clean gone, if the Libyan gulf holds thee, dear lord of thy
+Trojans, and Iuelus our hope survives no more, seek we then at least the
+straits of Sicily, the open homes whence we sailed hither, and Acestes
+for our king.' Thus Ilioneus, and all the Dardanian company
+[560-593]murmured assent. . . . Then Dido, with downcast face, briefly
+speaks:
+
+'Cheer your anxious hearts, O Teucrians; put by your care. Hard fortune
+in a strange realm forces me to this task, to keep watch and ward on my
+wide frontiers. Who can be ignorant of the race of Aeneas' people, who
+of Troy town and her men and deeds, or of the great war's consuming
+fire? Not so dull are the hearts of our Punic wearing, not so far doth
+the sun yoke his steeds from our Tyrian town. Whether your choice be
+broad Hesperia, the fields of Saturn's dominion, or Eryx for your
+country and Acestes for your king, my escort shall speed you in safety,
+my arsenals supply your need. Or will you even find rest here with me
+and share my kingdom? The city I establish is yours; draw your ships
+ashore; Trojan and Tyrian shall be held by me in even balance. And would
+that he your king, that Aeneas were here, storm-driven to this same
+haven! But I will send messengers along the coast, and bid them trace
+Libya to its limits, if haply he strays shipwrecked in forest or town.' Stirred by these words brave Achates and lord Aeneas both ere now burned
+to break through the cloud. Achates first accosts Aeneas: 'Goddess-born,
+what purpose now rises in thy spirit? Thou seest all is safe, our fleet
+and comrades are restored. One only is wanting, whom our eyes saw
+whelmed amid the waves; all else is answerable to thy mother's words.' Scarce had he spoken when the encircling cloud suddenly parts and melts
+into clear air. Aeneas stood discovered in sheen of brilliant light,
+like a god in face and shoulders; for his mother's self had shed on her
+son the grace of clustered locks, the radiant light of youth, and the
+lustre of joyous eyes; as when ivory takes beauty under the artist's
+hand, or when silver or Parian stone is inlaid in gold. [594-625]Then
+breaking in on all with unexpected speech he thus addresses the queen:
+
+'I whom you seek am here before you, Aeneas of Troy, snatched from the
+Libyan waves. O thou who alone hast pitied Troy's untold agonies, thou
+who with us the remnant of the Grecian foe, worn out ere now by every
+suffering land and sea can bring, with us in our utter want dost share
+thy city and home! to render meet recompense is not possible for us, O
+Dido, nor for all who scattered over the wide world are left of our
+Dardanian race. The gods grant thee worthy reward, if their deity turn
+any regard on goodness, if aught avails justice and conscious purity of
+soul. What happy ages bore thee? what mighty parents gave thy virtue
+birth? While rivers run into the sea, while the mountain shadows move
+across their slopes, while the stars have pasturage in heaven, ever
+shall thine honour, thy name and praises endure in the unknown lands
+that summon me.' With these words he advances his right hand to dear
+Ilioneus, his left to Serestus; then to the rest, brave Gyas and brave
+Cloanthus. Dido the Sidonian stood astonished, first at the sight of him, then at
+his strange fortunes; and these words left her lips:
+
+'What fate follows thee, goddess-born, through perilous ways? what
+violence lands thee on this monstrous coast? Art thou that Aeneas whom
+Venus the bountiful bore to Dardanian Anchises by the wave of Phrygian
+Simois? And well I remember how Teucer came to Sidon, when exiled from
+his native land he sought Belus' aid to gain new realms; Belus my father
+even then ravaged rich Cyprus and held it under his conquering sway. From that time forth have I known the fall of the Trojan city, known thy
+name and the Pelasgian princes. Their very foe would extol the Teucrians
+with highest praises, and boasted himself a branch [626-661]of the
+ancient Teucrian stem. Come therefore, O men, and enter our house. Me
+too hath a like fortune driven through many a woe, and willed at last to
+find my rest in this land. Not ignorant of ill do I learn to succour the
+afflicted.' With such speech she leads Aeneas into the royal house, and orders
+sacrifice in the gods' temples. Therewith she sends his company on
+the shore twenty bulls, an hundred great bristly-backed swine, an
+hundred fat lambs and their mothers with them, gifts of the day's
+gladness. . . . But the palace within is decked with splendour of royal
+state, and a banquet made ready amid the halls. The coverings are
+curiously wrought in splendid purple; on the tables is massy silver and
+deeds of ancestral valour graven in gold, all the long course of history
+drawn through many a heroic name from the nation's primal antiquity. Aeneas--for a father's affection denied his spirit rest--sends Achates
+speeding to his ships, to carry this news to Ascanius, and lead him to
+the town: in Ascanius is fixed all the parent's loving care. Presents
+likewise he bids him bring saved from the wreck of Ilium, a mantle stiff
+with gold embroidery, and a veil with woven border of yellow
+acanthus-flower, that once decked Helen of Argos, the marvel of her
+mother Leda's giving; Helen had borne them from Mycenae, when she sought
+Troy towers and a lawless bridal; the sceptre too that Ilione, Priam's
+eldest daughter, once had worn, a beaded necklace, and a double circlet
+of jewelled gold. Achates, hasting on his message, bent his way towards
+the ships. But in the Cytherean's breast new arts, new schemes revolve; if Cupid,
+changed in form and feature, may come in sweet Ascanius' room, and his
+gifts kindle the queen to madness and set her inmost sense aflame. Verily she fears the uncertain house, the double-tongued race of Tyre;
+[662-698]cruel Juno frets her, and at nightfall her care floods back. Therefore to winged Love she speaks these words:
+
+'Son, who art alone my strength and sovereignty, son, who scornest the
+mighty father's Typhoian shafts, to thee I fly for succour, and sue
+humbly to thy deity. How Aeneas thy brother is driven about all the
+sea-coasts by bitter Juno's malignity, this thou knowest, and hast often
+grieved in our grief. Now Dido the Phoenician holds him stayed with soft
+words, and I tremble to think how the welcome of Juno's house may issue;
+she will not be idle in this supreme turn of fortune. Wherefore I
+counsel to prevent her wiles and circle the queen with flame, that,
+unalterable by any deity, she may be held fast to me by passionate love
+for Aeneas. Take now my thought how to do this. The boy prince, my
+chiefest care, makes ready at his dear father's summons to go to the
+Sidonian city, carrying gifts that survive the sea and the flames of
+Troy. Him will I hide deep asleep in my holy habitation, high on
+Cythera's hills or in Idalium, that he may not know nor cross our wiles. Do thou but for one night feign his form, and, boy as thou art, put on
+the familiar face of a boy; so when in festal cheer, amid royal dainties
+and Bacchic juice, Dido shall take thee to her lap, shall fold thee in
+her clasp and kiss thee close and sweet, thou mayest imbreathe a hidden
+fire and unsuspected poison.' Love obeys his dear mother's words, lays by his wings, and walks
+rejoicingly with Iuelus' tread. But Venus pours gentle dew of slumber on
+Ascanius' limbs, and lifts him lulled in her lap to the tall Idalian
+groves of her deity, where soft amaracus folds him round with the
+shadowed sweetness of its odorous blossoms. And now, obedient to her
+words, Cupid went merrily in Achates' guiding, with the royal gifts for
+the Tyrians. Already at his coming the queen hath sate her down in the
+midmost on her golden [699-733]throne under the splendid tapestries;
+now lord Aeneas, now too the men of Troy gather, and all recline on the
+strewn purple. Servants pour water on their hands, serve corn from
+baskets, and bring napkins with close-cut pile. Fifty handmaids are
+within, whose task is in their course to keep unfailing store and kindle
+the household fire. An hundred others, and as many pages all of like
+age, load the board with food and array the wine cups. Therewithal the
+Tyrians are gathered full in the wide feasting chamber, and take their
+appointed places on the broidered cushions. They marvel at Aeneas'
+gifts, marvel at Iuelus, at the god's face aflame and forged speech, at
+the mantle and veil wrought with yellow acanthus-flower. Above all the
+hapless Phoenician, victim to coming doom, cannot satiate her soul, but,
+stirred alike by the boy and the gifts, she gazes and takes fire. He,
+when hanging clasped on Aeneas' neck he had satisfied all the deluded
+parent's love, makes his way to the queen; the queen clings to him with
+her eyes and all her soul, and ever and anon fondles him in her lap, ah,
+poor Dido! witless how mighty a deity sinks into her breast; but he,
+mindful of his mother the Acidalian, begins touch by touch to efface
+Sychaeus, and sows the surprise of a living love in the
+long-since-unstirred spirit and disaccustomed heart. Soon as the noise
+of banquet ceased and the board was cleared, they set down great bowls
+and enwreathe the wine. The house is filled with hum of voices eddying
+through the spacious chambers; lit lamps hang down by golden chainwork,
+and flaming tapers expel the night. Now the queen called for a heavy cup
+of jewelled gold, and filled it with pure wine; therewith was the use of
+Belus and all of Belus' race: then the hall was silenced. 'Jupiter,' she
+cries, 'for thou art reputed lawgiver of hospitality, grant that this be
+a joyful day to the Tyrians and the voyagers from Troy, a day to live in
+our children's memory. [734-756]Bacchus, the giver of gladness, be with
+us, and Juno the bountiful; and you, O Tyrians, be favourable to our
+assembly.' She spoke, and poured liquid libation on the board, which
+done, she first herself touched it lightly with her lips, then handed it
+to Bitias and bade him speed; he valiantly drained the foaming cup, and
+flooded him with the brimming gold. The other princes followed. Long-haired Iopas on his gilded lyre fills the chamber with songs
+ancient Atlas taught; he sings of the wandering moon and the sun's
+travails; whence is the human race and the brute, whence water and fire;
+of Arcturus, the rainy Hyades, and the twin Oxen; why wintry suns make
+such haste to dip in ocean, or what delay makes the nights drag
+lingeringly. Tyrians and Trojans after them redouble applause. Therewithal Dido wore the night in changing talk, alas! and drank long
+draughts of love, asking many a thing of Priam, many a thing of Hector;
+now in what armour the son of the Morning came; now of what fashion were
+Diomede's horses; now of mighty Achilles. 'Nay, come,' she cries, 'tell
+to us, O guest, from their first beginning the treachery of the
+Grecians, thy people's woes, and thine own wanderings; for this is now
+the seventh summer that bears thee a wanderer over all the earth and
+sea.' BOOK SECOND
+
+THE STORY OF THE SACK OF TROY
+
+
+All were hushed, and sate with steadfast countenance; thereon, high from
+his cushioned seat, lord Aeneas thus began:
+
+'Dreadful, O Queen, is the woe thou bidst me recall, how the Grecians
+pitiably overthrew the wealth and lordship of Troy; and I myself saw
+these things in all their horror, and I bore great part in them. What
+Myrmidon or Dolopian, or soldier of stern Ulysses, could in such a tale
+restrain his tears! and now night falls dewy from the steep of heaven,
+and the setting stars counsel to slumber. Yet if thy desire be such to
+know our calamities, and briefly to hear Troy's last agony, though my
+spirit shudders at the remembrance and recoils in pain, I will essay. 'Broken in war and beaten back by fate, and so many years now slid away,
+the Grecian captains build by Pallas' divine craft a horse of
+mountainous build, ribbed with sawn fir; they feign it vowed for their
+return, and this rumour goes about. Within the blind sides they
+stealthily imprison chosen men picked out one by one, and fill the vast
+cavern of its womb full with armed soldiery. 'There lies in sight an island well known in fame, Tenedos, rich of
+store while the realm of Priam endured, [23-55]now but a bay and
+roadstead treacherous to ships. Hither they launch forth, and hide on
+the solitary shore: we fancied they were gone, and had run down the wind
+for Mycenae. So all the Teucrian land put her long grief away. The gates
+are flung open; men go rejoicingly to see the Doric camp, the deserted
+stations and abandoned shore. Here the Dolopian troops were tented, here
+cruel Achilles; here their squadrons lay; here the lines were wont to
+meet in battle. Some gaze astonished at the deadly gift of Minerva the
+Virgin, and wonder at the horse's bulk; and Thymoetes begins to advise
+that it be drawn within our walls and set in the citadel, whether in
+guile, or that the doom of Troy was even now setting thus. But Capys and
+they whose mind was of better counsel, bid us either hurl sheer into the
+sea the guileful and sinister gift of Greece, or heap flames beneath to
+consume it, or pierce and explore the hollow hiding-place of its womb. The wavering crowd is torn apart in high dispute. 'At that, foremost of all and with a great throng about him, Laocoon
+runs hotly down from the high citadel, and cries from far: "Ah, wretched
+citizens, what height of madness is this? Believe you the foe is gone? or think you any Grecian gift is free of treachery? is it thus we know
+Ulysses? Either Achaeans are hid in this cage of wood, or the engine is
+fashioned against our walls to overlook the houses and descend upon the
+city; some delusion lurks there: trust not the horse, O Trojans. Be it
+what it may, I fear the Grecians even when they offer gifts." Thus
+speaking, he hurled his mighty spear with great strength at the
+creature's side and the curved framework of the belly: the spear stood
+quivering, and the jarred cavern of the womb sounded hollow and uttered
+a groan. And had divine ordinance, had a soul not infatuate been with
+us, he had moved us to lay violent steel on the Argolic hiding place;
+[56-90]and Troy would now stand, and you, tall towers of Priam, yet
+abide. 'Lo, Dardanian shepherds meanwhile dragged clamorously before the King a
+man with hands tied behind his back, who to compass this very thing, to
+lay Troy open to the Achaeans, had gone to meet their ignorant approach,
+confident in spirit and doubly prepared to spin his snares or to meet
+assured death. From all sides, in eagerness to see, the people of Troy
+run streaming in, and vie in jeers at their prisoner. Know now the
+treachery of the Grecians, and from a single crime learn all. . . . For
+as he stood amid our gaze confounded, disarmed, and cast his eyes around
+the Phrygian columns, "Alas!" he cried, "what land now, what seas may
+receive me? or what is the last doom that yet awaits my misery? who have
+neither any place among the Grecians, and likewise the Dardanians
+clamour in wrath for the forfeit of my blood." At that lament our spirit
+was changed, and all assault stayed: we encourage him to speak, and tell
+of what blood he is sprung, or what assurance he brings his captors. '"In all things assuredly," says he, "O King, befall what may, I will
+confess to thee the truth; nor will I deny myself of Argolic birth--this
+first--nor, if Fortune hath made Sinon unhappy, shall her malice mould
+him to a cheat and a liar. Hath a tale of the name of Palamedes, son of
+Belus, haply reached thine ears, and of his glorious rumour and renown;
+whom under false evidence the Pelasgians, because he forbade the war,
+sent innocent to death by wicked witness; now they bewail him when he
+hath left the light;--in his company, being near of blood, my father,
+poor as he was, sent me hither to arms from mine earliest years. While
+he stood unshaken in royalty and potent in the councils of the kings, we
+too wore a name and honour. When by subtle Ulysses' malice (no unknown
+tale do I tell) [91-124]he left the upper regions, my shattered life
+crept on in darkness and grief, inly indignant at the fate of my
+innocent friend. Nor in my madness was I silent: and, should any chance
+offer, did I ever return a conqueror to my native Argos, I vowed myself
+his avenger, and with my words I stirred his bitter hatred. From this
+came the first taint of ill; from this did Ulysses ever threaten me with
+fresh charges, from this flung dark sayings among the crowd and sought
+confederate arms. Nay, nor did he rest, till by Calchas' service--but
+yet why do I vainly unroll the unavailing tale, or why hold you in
+delay, if all Achaeans are ranked together in your mind, and it is
+enough that I bear the name? Take the vengeance deferred; this the
+Ithacan would desire, and the sons of Atreus buy at a great ransom." 'Then indeed we press on to ask and inquire the cause, witless of
+wickedness so great and Pelasgian craft. Tremblingly the false-hearted
+one pursues his speech:
+
+'"Often would the Grecians have taken to flight, leaving Troy behind,
+and disbanded in weariness of the long war: and would God they had! as
+often the fierce sea-tempest barred their way, and the gale frightened
+them from going. Most of all when this horse already stood framed with
+beams of maple, storm clouds roared over all the sky. In perplexity we
+send Eurypylus to inquire of Phoebus' oracle; and he brings back from
+the sanctuary these words of terror: _With blood of a slain maiden, O
+Grecians, you appeased the winds when first you came to the Ilian
+coasts; with blood must you seek your return, and an Argive life be the
+accepted sacrifice._ When that utterance reached the ears of the crowd,
+their hearts stood still, and a cold shudder ran through their inmost
+sense: for whom is doom purposed? who is claimed of Apollo? At this the
+Ithacan with loud clamour drags Calchas the soothsayer forth amidst
+them, and demands of him what is this the gods signify. And now many an
+one [125-158]foretold me the villain's craft and cruelty, and silently
+saw what was to come. Twice five days he is speechless in his tent, and
+will not have any one denounced by his lips, or given up to death. Scarcely at last, at the loud urgence of the Ithacan, he breaks into
+speech as was planned, and appoints me for the altar. All consented; and
+each one's particular fear was turned, ah me! to my single destruction. And now the dreadful day was at hand; the rites were being ordered for
+me, the salted corn, and the chaplets to wreathe my temples. I broke
+away, I confess it, from death; I burst my bonds, and lurked all night
+darkling in the sedge of the marshy pool, till they might set their
+sails, if haply they should set them. Nor have I any hope more of seeing
+my old home nor my sweet children and the father whom I desire. Of them
+will they even haply claim vengeance for my flight, and wash away this
+crime in their wretched death. By the heavenly powers I beseech thee,
+the deities to whom truth is known, by all the faith yet unsullied that
+is anywhere left among mortals; pity woes so great; pity an undeserving
+sufferer." 'At these his tears we grant him life, and accord our pity. Priam
+himself at once commands his shackles and strait bonds to be undone, and
+thus speaks with kindly words: "Whoso thou art, now and henceforth
+dismiss and forget the Greeks: thou shalt be ours. And unfold the truth
+to this my question: wherefore have they reared this vast size of horse? who is their counsellor? or what their aim? what propitiation, or what
+engine of war is this?" He ended; the other, stored with the treacherous
+craft of Pelasgia, lifts to heaven his freed hands. "You, everlasting
+fires," he cries, "and your inviolable sanctity be my witness; you, O
+altars and accursed swords I fled, and chaplets of the gods I wore as
+victim! unblamed may I break the oath of Greek allegiance, unblamed hate
+them and bring all to light that they [159-191]conceal; nor am I bound
+by any laws of country. Do thou only keep by thy promise, O Troy, and
+preserve faith with thy preserver, as my news shall be true, as my
+recompense great. '"All the hope of Greece, and the confidence in which the war began,
+ever centred in Pallas' aid. But since the wicked son of Tydeus, and
+Ulysses, forger of crime, made bold to tear the fated Palladium from her
+sanctuary, and cut down the sentries on the towered height; since they
+grasped the holy image, and dared with bloody hands to touch the maiden
+chaplets of the goddess; since then the hope of Greece ebbed and slid
+away backwards, their strength was broken, and the mind of the goddess
+estranged. Whereof the Tritonian gave token by no uncertain signs. Scarcely was the image set in the camp; flame shot sparkling from its
+lifted eyes, and salt sweat started over its body; thrice, wonderful to
+tell, it leapt from the ground with shield and spear quivering. Immediately Calchas prophesies that the seas must be explored in flight,
+nor may Troy towers be overthrown by Argive weapons, except they repeat
+their auspices at Argos, and bring back that divine presence they have
+borne away with them in the curved ships overseas. And now they have run
+down the wind for their native Mycenae, to gather arms and gods to
+attend them; they will remeasure ocean and be on you unawares. So
+Calchas expounds the omens. This image at his warning they reared in
+recompense for the Palladium and the injured deity, to expiate the
+horror of sacrilege. Yet Calchas bade them raise it to this vast size
+with oaken crossbeams, and build it up to heaven, that it may not find
+entry at the gates nor be drawn within the city, nor protect your people
+beneath the consecration of old. For if hand of yours should violate
+Minerva's offering, then utter destruction (the gods turn rather on
+himself his augury!) should be upon Priam's empire and [192-226]the
+Phrygian people. But if under your hands it climbed into your city, Asia
+should advance in mighty war to the walls of Pelops, and a like fate
+awaited our children's children." 'So by Sinon's wiles and craft and perjury the thing gained belief; and
+we were ensnared by treachery and forced tears, we whom neither the son
+of Tydeus nor Achilles of Larissa, whom not ten years nor a thousand
+ships brought down. 'Here another sight, greater, alas! and far more terrible meets us, and
+alarms our thoughtless senses. Laocoon, allotted priest of Neptune, was
+slaying a great bull at the accustomed altars. And lo! from Tenedos,
+over the placid depths (I shudder as I recall) two snakes in enormous
+coils press down the sea and advance together to the shore; their
+breasts rise through the surge, and their blood-red crests overtop the
+waves; the rest trails through the main behind and wreathes back in
+voluminous curves; the brine gurgles and foams. And now they gained the
+fields, while their bloodshot eyes blazed with fire, and their tongues
+lapped and flickered in their hissing mouths. We scatter, pallid at the
+sight. They in unfaltering train make towards Laocoon. And first the
+serpents twine in their double embrace his two little children, and bite
+deep in their wretched limbs; then him likewise, as he comes up to help
+with arms in his hand, they seize and fasten in their enormous coils;
+and now twice clasping his waist, twice encircling his neck with their
+scaly bodies, they tower head and neck above him. He at once strains his
+hands to tear their knots apart, his fillets spattered with foul black
+venom; at once raises to heaven awful cries; as when, bellowing, a bull
+shakes the wavering axe from his neck and runs wounded from the altar. But the two snakes glide away to the high sanctuary and seek the fierce
+Tritonian's citadel, [227-261]and take shelter under the goddess' feet
+beneath the circle of her shield. Then indeed a strange terror thrills
+in all our amazed breasts; and Laocoon, men say, hath fulfilled his
+crime's desert, in piercing the consecrated wood and hurling his guilty
+spear into its body. All cry out that the image must be drawn to its
+home and supplication made to her deity. . . . We sunder the walls, and
+lay open the inner city. All set to the work; they fix rolling wheels
+under its feet, and tie hempen bands on its neck. The fated engine
+climbs our walls, big with arms. Around it boys and unwedded girls chant
+hymns and joyfully lay their hand on the rope. It moves up, and glides
+menacing into the middle of the town. O native land! O Ilium, house of
+gods, and Dardanian city renowned in war! four times in the very gateway
+did it come to a stand, and four times armour rang in its womb. Yet we
+urge it on, mindless and infatuate, and plant the ill-ominous thing in
+our hallowed citadel. Even then Cassandra opens her lips to the coming
+doom, lips at a god's bidding never believed by the Trojans. We, the
+wretched people, to whom that day was our last, hang the shrines of the
+gods with festal boughs throughout the city. Meanwhile the heavens wheel
+on, and night rises from the sea, wrapping in her vast shadow earth and
+sky and the wiles of the Myrmidons; about the town the Teucrians are
+stretched in silence; slumber laps their tired limbs. 'And now the Argive squadron was sailing in order from Tenedos, and in
+the favouring stillness of the quiet moon sought the shores it knew;
+when the royal galley ran out a flame, and, protected by the gods'
+malign decrees, Sinon stealthily lets loose the imprisoned Grecians from
+their barriers of pine; the horse opens and restores them to the air;
+and joyfully issuing from the hollow wood, Thessander and Sthenelus the
+captains, and terrible Ulysses, [262-295]slide down the dangling rope,
+with Acamas and Thoas and Neoptolemus son of Peleus, and Machaon first
+of all, and Menelaus, and Epeues himself the artificer of the treachery. They sweep down the city buried in drunken sleep; the watchmen are cut
+down, and at the open gates they welcome all their comrades, and unite
+their confederate bands. 'It was the time when by the gift of God rest comes stealing first and
+sweetest on unhappy men. In slumber, lo! before mine eyes Hector seemed
+to stand by, deep in grief and shedding abundant tears; torn by the
+chariot, as once of old, and black with gory dust, his swoln feet
+pierced with the thongs. Ah me! in what guise was he! how changed from
+the Hector who returns from putting on Achilles' spoils, or launching
+the fires of Phrygia on the Grecian ships! with ragged beard and tresses
+clotted with blood, and all the many wounds upon him that he received
+around his ancestral walls. Myself too weeping I seemed to accost him
+ere he spoke, and utter forth mournful accents: "O light of Dardania, O
+surest hope of the Trojans, what long delay is this hath held thee? from
+what borders comest thou, Hector our desire? with what weary eyes we see
+thee, after many deaths of thy kin, after divers woes of people and
+city! What indignity hath marred thy serene visage? or why discern I
+these wounds?" He replies naught, nor regards my idle questioning; but
+heavily drawing a heart-deep groan, "Ah, fly, goddess-born," he says,
+"and rescue thyself from these flames. The foe holds our walls; from her
+high ridges Troy is toppling down. Thy country and Priam ask no more. If
+Troy towers might be defended by strength of hand, this hand too had
+been their defence. Troy commends to thee her holy things and household
+gods; take them to accompany thy fate; seek for them a city, which,
+after all the seas have known thy wanderings, thou shalt at last
+establish in [296-327]might." So speaks he, and carries forth in his
+hands from their inner shrine the chaplets and strength of Vesta, and
+the everlasting fire. 'Meanwhile the city is stirred with mingled agony; and more and more,
+though my father Anchises' house lay deep withdrawn and screened by
+trees, the noises grow clearer and the clash of armour swells. I shake
+myself from sleep and mount over the sloping roof, and stand there with
+ears attent: even as when flame catches a corn-field while south winds
+are furious, or the racing torrent of a mountain stream sweeps the
+fields, sweeps the smiling crops and labours of the oxen, and hurls the
+forest with it headlong; the shepherd in witless amaze hears the roar
+from the cliff-top. Then indeed proof is clear, and the treachery of the
+Grecians opens out. Already the house of Deiphobus hath crashed down in
+wide ruin amid the overpowering flames; already our neighbour Ucalegon
+is ablaze: the broad Sigean bay is lit with the fire. Cries of men and
+blare of trumpets rise up. Madly I seize my arms, nor is there so much
+purpose in arms; but my spirit is on fire to gather a band for fighting
+and charge for the citadel with my comrades. Fury and wrath drive me
+headlong, and I think how noble is death in arms. 'And lo! Panthus, eluding the Achaean weapons, Panthus son of Othrys,
+priest of Phoebus in the citadel, comes hurrying with the sacred vessels
+and conquered gods and his little grandchild in his hand, and runs
+distractedly towards my gates. "How stands the state, O Panthus? what
+stronghold are we to occupy?" Scarcely had I said so, when groaning he
+thus returns: "The crowning day is come, the irreversible time of the
+Dardanian land. No more are we a Trojan people; Ilium and the great
+glory of the Teucrians is no more. Angry Jupiter hath cast all into the
+scale of Argos. The Grecians are lords of the burning [328-362]town. The horse, standing high amid the city, pours forth armed men, and Sinon
+scatters fire, insolent in victory. Some are at the wide-flung gates,
+all the thousands that ever came from populous Mycenae. Others have
+beset the narrow streets with lowered weapons; edge and glittering point
+of steel stand drawn, ready for the slaughter; scarcely at the entry do
+the guards of the gates essay battle, and hold out in the blind fight." 'Heaven's will thus declared by the son of Othrys drives me amid flames
+and arms, where the baleful Fury calls, and tumult of shouting rises up. Rhipeus and Epytus, most mighty in arms, join company with me; Hypanis
+and Dymas meet us in the moonlight and attach themselves to our side,
+and young Coroebus son of Mygdon. In those days it was he had come to
+Troy, fired with mad passion for Cassandra, and bore a son's aid to
+Priam and the Phrygians: hapless, that he listened not to his raving
+bride's counsels. . . . Seeing them close-ranked and daring for battle,
+I therewith began thus: "Men, hearts of supreme and useless bravery, if
+your desire be fixed to follow one who dares the utmost; you see what is
+the fortune of our state: all the gods by whom this empire was upheld
+have gone forth, abandoning shrine and altar; your aid comes to a
+burning city. Let us die, and rush on their encircling weapons. The
+conquered have one safety, to hope for none." 'So their spirit is heightened to fury. Then, like wolves ravening in a
+black fog, whom mad malice of hunger hath driven blindly forth, and
+their cubs left behind await with throats unslaked; through the weapons
+of the enemy we march to certain death, and hold our way straight into
+the town. Night's sheltering shadow flutters dark around us. Who may
+unfold in speech that night's horror and death-agony, or measure its
+woes in weeping? The [363-397]ancient city falls with her long years of
+sovereignty; corpses lie stretched stiff all about the streets and
+houses and awful courts of the gods. Nor do Teucrians alone pay forfeit
+of their blood; once and again valour returns even in conquered hearts,
+and the victorious Grecians fall. Everywhere is cruel agony, everywhere
+terror, and the sight of death at every turn. 'First, with a great troop of Grecians attending him, Androgeus meets
+us, taking us in ignorance for an allied band, and opens on us with
+friendly words: "Hasten, my men; why idly linger so late? others plunder
+and harry the burning citadel; are you but now on your march from the
+tall ships?" He spoke, and immediately (for no answer of any assurance
+was offered) knew he was fallen among the foe. In amazement, he checked
+foot and voice; even as one who struggling through rough briers hath
+trodden a snake on the ground unwarned, and suddenly shrinks fluttering
+back as it rises in anger and puffs its green throat out; even thus
+Androgeus drew away, startled at the sight. We rush in and encircle them
+with serried arms, and cut them down dispersedly in their ignorance of
+the ground and seizure of panic. Fortune speeds our first labour. And
+here Coroebus, flushed with success and spirit, cries: "O comrades,
+follow me where fortune points before us the path of safety, and shews
+her favour. Let us exchange shields, and accoutre ourselves in Grecian
+suits; whether craft or courage, who will ask of an enemy? the foe shall
+arm our hands." Thus speaking, he next dons the plumed helmet and
+beautifully blazoned shield of Androgeus, and fits the Argive sword to
+his side. So does Rhipeus, so Dymas in like wise, and all our men in
+delight arm themselves one by one in the fresh spoils. We advance,
+mingling with the Grecians, under a protection not our own, and join
+many a battle [398-432]with those we meet amid the blind night; many a
+Greek we send down to hell. Some scatter to the ships and run for the
+safety of the shore; some in craven fear again climb the huge horse, and
+hide in the belly they knew. Alas that none may trust at all to
+estranged gods! 'Lo! Cassandra, maiden daughter of Priam, was being dragged with
+disordered tresses from the temple and sanctuary of Minerva, straining
+to heaven her blazing eyes in vain; her eyes, for fetters locked her
+delicate hands. At this sight Coroebus burst forth infuriate, and flung
+himself on death amid their columns. We all follow him up, and charge
+with massed arms. Here first from the high temple roof we are
+overwhelmed with our own people's weapons, and a most pitiful slaughter
+begins through the fashion of our armour and the mistaken Greek crests;
+then the Grecians, with angry cries at the maiden's rescue, gather from
+every side and fall on us; Ajax in all his valour, and the two sons of
+Atreus, and the whole Dolopian army: as oft when bursting in whirlwind
+West and South clash with adverse blasts, and the East wind exultant on
+the coursers of the Dawn; the forests cry, and fierce in foam Nereus
+with his trident stirs the seas from their lowest depth. Those too
+appear, whom our stratagem routed through the darkness of dim night and
+drove all about the town; at once they know the shields and lying
+weapons, and mark the alien tone on our lips. We go down, overwhelmed by
+numbers. First Coroebus is stretched by Peneleus' hand at the altar of
+the goddess armipotent; and Rhipeus falls, the one man who was most
+righteous and steadfast in justice among the Teucrians: the gods' ways
+are not as ours: Hypanis and Dymas perish, pierced by friendly hands;
+nor did all thy goodness, O Panthus, nor Apollo's fillet protect thy
+fall. O ashes of Ilium and death flames of my people! you I call to
+witness that in your ruin I [433-465]shunned no Grecian weapon or
+encounter, and my hand earned my fall, had destiny been thus. We tear
+ourselves away, I and Iphitus and Pelias, Iphitus now stricken in age,
+Pelias halting too under the wound of Ulysses, called forward by the
+clamour to Priam's house. 'Here indeed the battle is fiercest, as if all the rest of the fighting
+were nowhere, and no slaughter but here throughout the city, so do we
+descry the war in full fury, the Grecians rushing on the building, and
+their shielded column driving up against the beleaguered threshold. Ladders cling to the walls; and hard by the doors and planted on the
+rungs they hold up their shields in the left hand to ward off our
+weapons, and with their right clutch the battlements. The Dardanians
+tear down turrets and the covering of the house roof against them; with
+these for weapons, since they see the end is come, they prepare to
+defend themselves even in death's extremity: and hurl down gilded beams,
+the stately decorations of their fathers of old. Others with drawn
+swords have beset the doorway below and keep it in crowded column. We
+renew our courage, to aid the royal dwelling, to support them with our
+succour, and swell the force of the conquered. 'There was a blind doorway giving passage through the range of Priam's
+halls by a solitary postern, whereby, while our realm endured, hapless
+Andromache would often and often glide unattended to her father-in-law's
+house, and carry the boy Astyanax to his grandsire. I issue out on the
+sloping height of the ridge, whence wretched Teucrian hands were hurling
+their ineffectual weapons. A tower stood on the sheer brink, its roof
+ascending high into heaven, whence was wont to be seen all Troy and the
+Grecian ships and Achaean camp: attacking it with iron round about,
+where the joints of the lofty flooring yielded, we wrench it from its
+deep foundations and shake it free; it gives way, and [466-498]suddenly
+falls thundering in ruin, crashing wide over the Grecian ranks. But
+others swarm up; nor meanwhile do stones nor any sort of missile
+slacken. . . . Right before the vestibule and in the front doorway
+Pyrrhus moves rejoicingly in the sparkle of arms and gleaming brass:
+like as when a snake fed on poisonous herbs, whom chill winter kept hid
+and swollen underground, now fresh from his weeds outworn and shining in
+youth, wreathes his slippery body into the daylight, his upreared breast
+meets the sun, and his triple-cloven tongue flickers in his mouth. With
+him huge Periphas, and Automedon the armour-bearer, driver of Achilles'
+horses, with him all his Scyrian men climb the roof and hurl flames on
+the housetop. Himself among the foremost he grasps a poleaxe, bursts
+through the hard doorway, and wrenches the brazen-plated doors from the
+hinge; and now he hath cut out a plank from the solid oak and pierced a
+vast gaping hole. The house within is open to sight, and the long halls
+lie plain; open to sight are the secret chambers of Priam and the kings
+of old, and they see armed men standing in front of the doorway. 'But the inner house is stirred with shrieks and misery and confusion,
+and the court echoes deep with women's wailing; the golden stars are
+smitten with the din. Affrighted mothers stray about the vast house, and
+cling fast to the doors and print them with kisses. With his father's
+might Pyrrhus presses on; nor guards nor barriers can hold out. The gate
+totters under the hard driven ram, and the doors fall flat, rent from
+the hinge. Force makes way; the Greeks burst through the entrance and
+pour in, slaughtering the foremost, and filling the space with a wide
+stream of soldiers. Not so furiously when a foaming river bursts his
+banks and overflows, beating down the opposing dykes with whirling
+water, is he borne mounded over the fields, and sweeps herds and
+[499-529]pens all about the plains. Myself I saw in the gateway
+Neoptolemus mad in slaughter, and the two sons of Atreus, saw Hecuba and
+the hundred daughters of her house, and Priam polluting with his blood
+the altar fires of his own consecration. The fifty bridal chambers--so
+great was the hope of his children's children--their doors magnificent
+with spoils of barbaric gold, have sunk in ruin; where the fire fails
+the Greeks are in possession. 'Perchance too thou mayest inquire what was Priam's fate. When he saw
+the ruin of his captured city, the gates of his house burst open, and
+the enemy amid his innermost chambers, the old man idly fastens round
+his aged trembling shoulders his long disused armour, girds on the
+unavailing sword, and advances on his death among the thronging foe. 'Within the palace and under the bare cope of sky was a massive altar,
+and hard on the altar an ancient bay tree leaned clasping the household
+gods in its shadow. Here Hecuba and her daughters crowded vainly about
+the altar-stones, like doves driven headlong by a black tempest, and
+crouched clasping the gods' images. And when she saw Priam her lord with
+the armour of youth on him, "What spirit of madness, my poor husband,"
+she cries, "hath stirred thee to gird on these weapons? or whither dost
+thou run? Not such the succour nor these the defenders the time
+requires: no, were mine own Hector now beside us. Retire, I beseech
+thee, hither; this altar will protect us all, or thou wilt share our
+death." With these words on her lips she drew the aged man to her, and
+set him on the holy seat. 'And lo, escaped from slaughtering Pyrrhus through the weapons of the
+enemy, Polites, one of Priam's children, flies wounded down the long
+colonnades and circles the empty halls. Pyrrhus pursues him fiercely
+with aimed [530-563]wound, just catching at him, and follows hard on
+him with his spear. As at last he issued before his parents' eyes and
+faces, he fell, and shed his life in a pool of blood. At this Priam,
+although even now fast in the toils of death, yet withheld not nor
+spared a wrathful cry: "Ah, for thy crime, for this thy hardihood, may
+the gods, if there is goodness in heaven to care for aught such, pay
+thee in full thy worthy meed, and return thee the reward that is due! who hast made me look face to face on my child's murder, and polluted a
+father's countenance with death. Ah, not such to a foe was the Achilles
+whose parentage thou beliest; but he revered a suppliant's right and
+trust, restored to the tomb Hector's pallid corpse, and sent me back to
+my realm." Thus the old man spoke, and launched his weak and unwounding
+spear, which, recoiling straight from the jarring brass, hung idly from
+his shield above the boss. Thereat Pyrrhus: "Thou then shalt tell this,
+and go with the message to my sire the son of Peleus: remember to tell
+him of my baleful deeds, and the degeneracy of Neoptolemus. Now die." So
+saying, he drew him quivering to the very altar, slipping in the pool of
+his child's blood, and wound his left hand in his hair, while in his
+right the sword flashed out and plunged to the hilt in his side. This
+was the end of Priam's fortunes; thus did allotted fate find him, with
+burning Troy and her sunken towers before his eyes, once magnificent
+lord over so many peoples and lands of Asia. The great corpse lies along
+the shore, a head severed from the shoulders and a body without a name. 'But then an awful terror began to encircle me; I stood in amaze; there
+rose before me the likeness of my loved father, as I saw the king, old
+as he, sobbing out his life under the ghastly wound; there rose Creuesa
+forlorn, my plundered house, and little Iuelus' peril. I look back
+[564-596]and survey what force is around me. All, outwearied, have
+given up and leapt headlong to the ground, or flung themselves
+wretchedly into the fire:
+
+['Yes, and now I only was left; when I espy the daughter of Tyndarus
+close in the courts of Vesta, crouching silently in the fane's recesses;
+the bright glow of the fires lights my wandering, as my eyes stray all
+about. Fearing the Teucrians' anger for the overthrown towers of Troy,
+and the Grecians' vengeance and the wrath of the husband she had
+abandoned, she, the common Fury of Troy and her native country, had
+hidden herself and cowered unseen by the altars. My spirit kindles to
+fire, and rises in wrath to avenge my dying land and take repayment for
+her crimes. Shall she verily see Sparta and her native Mycenae
+unscathed, and depart a queen and triumphant? Shall she see her spousal
+and her home, her parents and children, attended by a crowd of Trojan
+women and Phrygians to serve her? and Priam have fallen under the sword? Troy blazed in fire? the shore of Dardania so often soaked with blood? Not so. For though there is no name or fame in a woman's punishment, nor
+honour in the victory, yet shall I have praise in quenching a guilty
+life and exacting a just recompense; and it will be good to fill my soul
+with the flame of vengeance, and satisfy the ashes of my people. Thus
+broke I forth, and advanced infuriate;]
+
+'----When my mother came visibly before me, clear to sight as never till
+then, and shone forth in pure radiance through the night, gracious,
+evident in godhead, in shape and stature such as she is wont to appear
+to the heavenly people; she caught me by the hand and stayed me, and
+pursued thus with roseate lips:
+
+'"Son, what overmastering pain thus wakes thy wrath? Why ravest thou? or
+whither is thy care for us fled? Wilt thou not first look to it, where
+thou hast left Anchises, [597-630]thine aged worn father; or if Creuesa
+thy wife and the child Ascanius survive? round about whom all the Greek
+battalions range; and without my preventing care, the flames ere this
+had made them their portion, and the hostile sword drunk their blood. Not the hated face of the Laconian woman, Tyndarus' daughter; not Paris
+is to blame; the gods, the gods in anger overturn this magnificence, and
+make Troy topple down. Look, for all the cloud that now veils thy gaze
+and dulls mortal vision with damp encircling mist, I will rend from
+before thee. Fear thou no commands of thy mother, nor refuse to obey her
+counsels. Here, where thou seest sundered piles of masonry and rocks
+violently torn from rocks, and smoke eddying mixed with dust, Neptune
+with his great trident shakes wall and foundation out of their places,
+and upturns all the city from her base. Here Juno in all her terror
+holds the Scaean gates at the entry, and, girt with steel, calls her
+allied army furiously from their ships. . . . Even now on the citadel's
+height, look back! Tritonian Pallas is planted in glittering halo and
+Gorgonian terror. Their lord himself pours courage and prosperous
+strength on the Grecians, himself stirs the gods against the arms of
+Dardania. Haste away, O son, and put an end to the struggle. I will
+never desert thee; I will set thee safe in the courts of thy father's
+house." 'She ended, and plunged in the dense blackness of the night. Awful faces
+shine forth, and, set against Troy, divine majesties . . . 'Then indeed I saw all Ilium sinking in flame, and Neptunian Troy
+uprooted from her base: even as an ancient ash on the mountain heights,
+hacked all about with steel and fast-falling axes, when husbandmen
+emulously strain to cut it down: it hangs threateningly, with shaken top
+and quivering tresses asway; till gradually, overmastered with
+[631-662]wounds, it utters one last groan, and rending itself away,
+falls in ruin along the ridge. I descend, and under a god's guidance
+clear my way between foe and flame; weapons give ground before me, and
+flames retire. 'And now, when I have reached the courts of my ancestral dwelling, our
+home of old, my father, whom it was my first desire to carry high into
+the hills, and whom first I sought, declines, now Troy is rooted out, to
+prolong his life through the pains of exile. '"Ah, you," he cries, "whose blood is at the prime, whose strength
+stands firm in native vigour, do you take your flight. . . . Had the
+lords of heaven willed to prolong life for me, they should have
+preserved this my home. Enough and more is the one desolation we have
+seen, survivors of a captured city. Thus, oh thus salute me and depart,
+as a body laid out for burial. Mine own hand shall find me death: the
+foe will be merciful and seek my spoils: light is the loss of a tomb. This long time hated of heaven, I uselessly delay the years, since the
+father of gods and king of men blasted me with wind of thunder and
+scathe of flame." 'Thus held he on in utterance, and remained obstinate. We press him,
+dissolved in tears, my wife Creuesa, Ascanius, all our household, that
+our father involve us not all in his ruin, and add his weight to the
+sinking scale of doom. He refuses, and keeps seated steadfast in his
+purpose. Again I rush to battle, and choose death in my misery. For what
+had counsel or chance yet to give? Thoughtest thou my feet, O father,
+could retire and abandon thee? and fell so unnatural words from a
+parent's lips? "If heaven wills that naught be left of our mighty city,
+if this be thy planted purpose, thy pleasure to cast in thyself and
+thine to the doom of Troy; for this death indeed the gate is wide, and
+even now Pyrrhus will be here newly bathed in Priam's [663-695]blood,
+Pyrrhus who slaughters the son before the father's face, the father upon
+his altars. For this was it, bountiful mother, thou dost rescue me amid
+fire and sword, to see the foe in my inmost chambers, and Ascanius and
+my father, Creuesa by their side, hewn down in one another's blood? My
+arms, men, bring my arms! the last day calls on the conquered. Return me
+to the Greeks; let me revisit and renew the fight. Never to-day shall we
+all perish unavenged." 'Thereat I again gird on my sword, and fitting my left arm into the
+clasps of the shield, strode forth of the palace. And lo! my wife clung
+round my feet on the threshold, and held little Iuelus up to his father's
+sight. "If thou goest to die, let us too hurry with thee to the end. But
+if thou knowest any hope to place in arms, be this household thy first
+defence. To what is little Iuelus and thy father, to what am I left who
+once was called thy wife?" 'So she shrieked, and filled all the house with her weeping; when a sign
+arises sudden and marvellous to tell. For, between the hands and before
+the faces of his sorrowing parents, lo! above Iuelus' head there seemed
+to stream a light luminous cone, and a flame whose touch hurt not to
+flicker in his soft hair and play round his brows. We in a flutter of
+affright shook out the blazing hair and quenched the holy fires with
+spring water. But lord Anchises joyfully upraised his eyes; and
+stretching his hands to heaven: "Jupiter omnipotent," he cries, "if thou
+dost relent at any prayers, look on us this once alone; and if our
+goodness deserve it, give thine aid hereafter, O lord, and confirm this
+thine omen." 'Scarcely had the aged man spoken thus, when with sudden crash it
+thundered on the left, and a star gliding through the dusk shot from
+heaven drawing a bright trail of light. We watch it slide over the
+palace roof, leaving [696-730]the mark of its pathway, and bury its
+brilliance in the wood of Ida; the long drawn track shines, and the
+region all about fumes with sulphur. Then conquered indeed my father
+rises to address the gods and worship the holy star. "Now, now delay is
+done with: I follow, and where you lead, I come. Gods of my fathers,
+save my house, save my grandchild. Yours is this omen, and in your deity
+Troy stands. I yield, O my son, and refuse not to go in thy company." 'He ended; and now more loudly the fire roars along the city, and the
+burning tides roll nearer. "Up then, beloved father, and lean on my
+neck; these shoulders of mine will sustain thee, nor will so dear a
+burden weigh me down. Howsoever fortune fall, one and undivided shall be
+our peril, one the escape of us twain. Little Iuelus shall go along with
+me, and my wife follow our steps afar. You of my household, give heed to
+what I say. As you leave the city there is a mound and ancient temple of
+Ceres lonely on it, and hard by an aged cypress, guarded many years in
+ancestral awe: to this resting-place let us gather from diverse
+quarters. Thou, O father, take the sacred things and the household gods
+of our ancestors in thine hand. For me, just parted from the desperate
+battle, with slaughter fresh upon me, to handle them were guilt, until I
+wash away in a living stream the soilure. . . ." So spoke I, and spread
+over my neck and broad shoulders a tawny lion-skin for covering, and
+stoop to my burden. Little Iuelus, with his hand fast in mine, keeps
+uneven pace after his father. Behind my wife follows. We pass on in the
+shadows. And I, lately moved by no weapons launched against me, nor by
+the thronging bands of my Grecian foes, am now terrified at every
+breath, startled by every noise, thrilling with fear alike for my
+companion and my burden. 'And now I was nearing the gates, and thought I had [731-764]outsped
+all the way; when suddenly the crowded trampling of feet came to our
+ears, and my father, looking forth into the darkness, cries: "My son, my
+son, fly; they draw near. I espy the gleaming shields and the flicker of
+brass." At this, in my flurry and confusion, some hostile god bereft me
+of my senses. For while I plunge down byways, and swerve from where the
+familiar streets ran, Creuesa, alas! whether, torn by fate from her
+unhappy husband, she stood still, or did she mistake the way, or sink
+down outwearied? I know not; and never again was she given back to our
+eyes; nor did I turn to look for my lost one, or cast back a thought,
+ere we were come to ancient Ceres' mound and hallowed seat; here at
+last, when all gathered, one was missing, vanished from her child's and
+her husband's company. What man or god did I spare in frantic
+reproaches? or what crueller sight met me in our city's overthrow? I
+charge my comrades with Ascanius and lord Anchises, and the gods of
+Teucria, hiding them in the winding vale. Myself I regain the city,
+girding on my shining armour; fixed to renew every danger, to retrace my
+way throughout Troy, and fling myself again on its perils. First of all
+I regain the walls and the dim gateway whence my steps had issued; I
+scan and follow back my footprints with searching gaze in the night. Everywhere my spirit shudders, dismayed at the very silence. Thence I
+pass on home, if haply her feet (if haply!) had led her thither. The
+Grecians had poured in, and filled the palace. The devouring fire goes
+rolling before the wind high as the roof; the flames tower over it, and
+the heat surges up into the air. I move on, and revisit the citadel and
+Priam's dwelling; where now in the spacious porticoes of Juno's
+sanctuary, Phoenix and accursed Ulysses, chosen sentries, were guarding
+the spoil. Hither from all quarters is flung in masses the treasure of
+Troy torn from burning shrines, [765-798]tables of the gods, bowls of
+solid gold, and raiment of the captives. Boys and cowering mothers in
+long file stand round. . . . Yes, and I dared to cry abroad through the
+darkness; I filled the streets with calling, and again and yet again
+with vain reiterance cried piteously on Creuesa. As I stormed and sought
+her endlessly among the houses of the town, there rose before mine eyes
+a melancholy phantom, the ghost of very Creuesa, in likeness larger than
+her wont. I was motionless; my hair stood up, and the accents faltered
+on my tongue. Then she thus addressed me, and with this speech allayed
+my distresses: "What help is there in this mad passion of grief, sweet
+my husband? not without divine influence does this come to pass: nor may
+it be, nor does the high lord of Olympus allow, that thou shouldest
+carry Creuesa hence in thy company. Long shall be thine exile, and weary
+spaces of sea must thou furrow through; and thou shalt come to the land
+Hesperia, where Lydian Tiber flows with soft current through rich and
+populous fields. There prosperity awaits thee, and a kingdom, and a
+king's daughter for thy wife. Dispel these tears for thy beloved Creuesa. Never will I look on the proud homes of the Myrmidons or Dolopians, or
+go to be the slave of Greek matrons, I a daughter of Dardania, a
+daughter-in-law of Venus the goddess. . . . But the mighty mother of the
+gods keeps me in these her borders. And now farewell, and still love thy
+child and mine." This speech uttered, while I wept and would have said
+many a thing, she left me and retreated into thin air. Thrice there was
+I fain to lay mine arms round her neck; thrice the vision I vainly
+clasped fled out of my hands, even as the light breezes, or most like to
+fluttering sleep. So at last, when night is spent, I revisit my
+comrades. 'And here I find a marvellous great company, newly flocked in, mothers
+and men, a people gathered for exile, [799-804]a pitiable crowd. From
+all quarters they are assembled, ready in heart and fortune, to
+whatsoever land I will conduct them overseas. And now the morning star
+rose over the high ridges of Ida, and led on the day; and the Grecians
+held the gateways in leaguer, nor was any hope of help given. I
+withdrew, and raising my father up, I sought the mountain.' BOOK THIRD
+
+THE STORY OF THE SEVEN YEARS' WANDERING
+
+
+'After heaven's lords pleased to overthrow the state of Asia and Priam's
+guiltless people, and proud Ilium fell, and Neptunian Troy smokes all
+along the ground, we are driven by divine omens to seek distant places
+of exile in waste lands. Right under Antandros and the mountains of
+Phrygian Ida we build a fleet, uncertain whither the fates carry us or
+where a resting-place is given, and gather the people together. Scarcely
+had the first summer set in, when lord Anchises bids us spread our sails
+to fortune, and weeping I leave the shores and havens of my country, and
+the plains where once was Troy. I sail to sea an exile, with my comrades
+and son and the gods of household and state. 'A land of vast plains lies apart, the home of Mavors, in Thracian
+tillage, and sometime under warrior Lycurgus' reign; friendly of old to
+Troy, and their gods in alliance while our fortune lasted. Hither I
+pass, and on the winding shore I lay under thwarting fates the first
+foundations of a city, and from my own name fashion its name, Aeneadae. 'I was paying sacrifice to my mother, daughter of Dione, and to all the
+gods, so to favour the work begun, and slew a shining bull on the shore
+to the high lord of [22-54]the heavenly people. Haply there lay a mound
+hard at hand, crowned with cornel thickets and bristling dense with
+shafts of myrtle. I drew near; and essaying to tear up the green wood
+from the soil, that I might cover the altar with leafy boughs, I see a
+portent ominous and wonderful to tell. For from the first tree whose
+roots are rent away and broken from the ground, drops of black blood
+trickle, and gore stains the earth. An icy shudder shakes my limbs, and
+my blood curdles chill with terror. Yet from another I go on again to
+tear away a tough shoot, fully to fathom its secret; yet from another
+black blood follows out of the bark. With many searchings of heart I
+prayed the woodland nymphs, and lord Gradivus, who rules in the Getic
+fields, to make the sight propitious as was meet and lighten the omen. But when I assail a third spearshaft with a stronger effort, pulling
+with knees pressed against the sand; shall I speak or be silent? from
+beneath the mound is heard a pitiable moan, and a voice is uttered to my
+ears: "Woe's me, why rendest thou me, Aeneas? spare me at last in the
+tomb, spare pollution to thine innocent hands. Troy bore me; not alien
+to thee am I, nor this blood that oozes from the stem. Ah, fly the cruel
+land, fly the greedy shore! For I am Polydorus; here the iron harvest of
+weapons hath covered my pierced body, and shot up in sharp javelins." Then indeed, borne down with dubious terror, I was motionless, my hair
+stood up, and the accents faltered on my tongue. 'This Polydorus once with great weight of gold had hapless Priam sent in
+secret to the nurture of the Thracian king, when now he was losing trust
+in the arms of Dardania, and saw his city leaguered round about. The
+king, when the Teucrian power was broken and fortune withdrew, following
+Agamemnon's estate and triumphant arms, [55-87]severs every bond of
+duty; murders Polydorus, and lays strong hands on the gold. O accursed
+hunger of gold, to what dost thou not compel human hearts! When the
+terror left my senses, I lay the divine tokens before the chosen princes
+of the people, with my father at their head, and demand their judgment. All are of one mind, to leave the guilty land, and abandoning a polluted
+home, to let the gales waft our fleets. So we bury Polydorus anew, and
+the earth is heaped high over his mound; altars are reared to his ghost,
+sad with dusky chaplets and black cypress; and around are the Ilian
+women with hair unbound in their fashion. We offer bubbling bowls of
+warm milk and cups of consecrated blood, and lay the spirit to rest in
+her tomb, and with loud voice utter the last call. 'Thereupon, so soon as ocean may be trusted, and the winds leave the
+seas in quiet, and the soft whispering south wind calls seaward, my
+comrades launch their ships and crowd the shores. We put out from
+harbour, and lands and towns sink away. There lies in mid sea a holy
+land, most dear to the mother of the Nereids and Neptune of Aegae, which
+strayed about coast and strand till the Archer god in his affection
+chained it fast from high Myconos and Gyaros, and made it lie immoveable
+and slight the winds. Hither I steer; and it welcomes my weary crew to
+the quiet shelter of a safe haven. We disembark and worship Apollo's
+town. Anius the king, king at once of the people and priest of Phoebus,
+his brows garlanded with fillets and consecrated laurel, comes to meet
+us; he knows Anchises, his friend of old; we clasp hands in welcome, and
+enter his palace. I worshipped the god's temple, an ancient pile of
+stone. "Lord of Thymbra, give us an enduring dwelling-place; grant a
+house and family to thy weary servants, and a city to abide: keep Troy's
+second fortress, the remnant left of the Grecians and merciless
+Achilles. Whom follow [88-121]we? or whither dost thou bid us go, where
+fix our seat? Grant an omen, O lord, and inspire our minds." 'Scarcely had I spoken thus; suddenly all seemed to shake, all the
+courts and laurels of the god, the whole hill to be stirred round about,
+and the cauldron to moan in the opening sanctuary. We sink low on the
+ground, and a voice is borne to our ears: "Stubborn race of Dardanus,
+the same land that bore you by parentage of old shall receive you again
+on her bountiful breast. Seek out your ancient mother; hence shall the
+house of Aeneas sway all regions, his children's children and they who
+shall be born of them." Thus Phoebus; and mingled outcries of great
+gladness uprose; all ask, what is that city? whither calls Phoebus our
+wandering, and bids us return? Then my father, unrolling the records of
+men of old, "Hear, O princes," says he, "and learn your hopes. In mid
+ocean lies Crete, the island of high Jove, wherein is mount Ida, the
+cradle of our race. An hundred great towns are inhabited in that opulent
+realm; from it our forefather Teucer of old, if I recall the tale
+aright, sailed to the Rhoetean coasts and chose a place for his kingdom. Not yet was Ilium nor the towers of Pergama reared; they dwelt in the
+valley bottoms. Hence came our Lady, haunter of Cybele, the Corybantic
+cymbals and the grove of Ida; hence the rites of inviolate secrecy, and
+the lions yoked under the chariot of their mistress. Up then, and let us
+follow where divine commandments lead; let us appease the winds, and
+seek the realm of Gnosus. Nor is it a far journey away. Only be Jupiter
+favourable, the third day shall bring our fleet to anchor on the Cretan
+coast." So spoke he, and slew fit sacrifice on the altars, a bull to
+Neptune, a bull to thee, fair Apollo, a black sheep to Tempest, a white
+to the prosperous West winds. 'Rumour flies that Idomeneus the captain is driven [122-154]forth of
+his father's realm, and the shores of Crete are abandoned, that the
+houses are void of foes and the dwellings lie empty to our hand. We
+leave the harbour of Ortygia, and fly along the main, by the revel-trod
+ridges of Naxos, by green Donusa, Olearos and snow-white Paros, and the
+sea-strewn Cyclades, threading the racing channels among the crowded
+lands. The seamen's clamour rises in emulous dissonance; each cheers his
+comrade: _Seek we Crete and our forefathers._ A wind rising astern
+follows us forth on our way, and we glide at last to the ancient
+Curetean coast. So I set eagerly to work on the walls of my chosen town,
+and call it Pergamea, and exhort my people, joyful at the name, to
+cherish their homes and rear the castle buildings. And even now the
+ships were drawn up on the dry beach; the people were busy in marriages
+and among their new fields; I was giving statutes and homesteads; when
+suddenly from a tainted space of sky came, noisome on men's bodies and
+pitiable on trees and crops, pestilence and a year of death. They left
+their sweet lives or dragged themselves on in misery; Sirius scorched
+the fields into barrenness; the herbage grew dry, and the sickly harvest
+denied sustenance. My father counsels to remeasure the sea and go again
+to Phoebus in his Ortygian oracle, to pray for grace and ask what issue
+he ordains to our exhausted state; whence he bids us search for aid to
+our woes, whither bend our course. 'Night fell, and sleep held all things living on the earth. The sacred
+images of the gods and the household deities of Phrygia, that I had
+borne with me from Troy out of the midst of the burning city, seemed to
+stand before mine eyes as I lay sleepless, clear in the broad light
+where the full moon poured through the latticed windows; then thus
+addressed me, and with this speech allayed my distresses: "What Apollo
+hath to tell thee when thou dost [155-188]reach Ortygia, he utters
+here, and sends us unsought to thy threshold. We who followed thee and
+thine arms when Dardania went down in fire; we who under thee have
+traversed on shipboard the swelling sea; we in like wise will exalt to
+heaven thy children to be, and give empire to their city. Do thou
+prepare a mighty town for a mighty people, nor draw back from the long
+wearisome chase. Thou must change thy dwelling. Not to these shores did
+the god at Delos counsel thee, or Apollo bid thee find rest in Crete. There is a region Greeks name Hesperia, an ancient land, mighty in arms
+and foison of the clod; Oenotrian men dwell therein; now rumour is that
+a younger race have called it Italy after their captain's name. This is
+our true dwelling place; hence is Dardanus sprung, and lord Iasius, the
+first source of our race. Up, arise, and tell with good cheer to thine
+aged parent this plain tale, to seek Corythus and the lands of Ausonia. Jupiter denies thee the Dictaean fields." 'Astonished at this vision and divine utterance (nor was that slumber;
+but openly I seemed to know their countenances, their veiled hair and
+gracious faces, and therewith a cold sweat broke out all over me) I
+spring from my bed and raise my voice and upturned hands skyward and pay
+pure offering on the hearth. The sacrifice done, I joyfully tell
+Anchises, and relate all in order. He recognises the double descent and
+twofold parentage, and the later wanderings that had deceived him among
+ancient lands. Then he speaks: "O son, hard wrought by the destinies of
+Ilium, Cassandra only foretold me this fortune. Now I recall how she
+prophesied this was fated to our race, and often cried of Hesperia,
+often of an Italian realm. But who was to believe that Teucrians should
+come to Hesperian shores? or whom might Cassandra then move by prophecy? Yield we to Phoebus, and follow the better [189-222]way he counsels." So says he, and we all rejoicingly obey his speech. This dwelling
+likewise we abandon; and leaving some few behind, spread our sails and
+run over the waste sea in our hollow wood. 'After our ships held the high seas, nor any land yet appears, the sky
+all round us and all round us the deep, a dusky shower drew up overhead
+carrying night and tempest, and the wave shuddered and gloomed. Straightway the winds upturn the main, and great seas rise; we are
+tossed asunder over the dreary gulf. Stormclouds enwrap the day, and
+rainy gloom blots out the sky; out of the clouds bursts fire fast upon
+fire. Driven from our course, we go wandering on the blind waves. Palinurus himself professes he cannot tell day from night on the sky,
+nor remember the way amid the waters. Three dubious days of blind
+darkness we wander on the deep, as many nights without a star. Not till
+the fourth day was land at last seen to rise, discovering distant hills
+and sending up wreaths of smoke. The sails drop; we swing back to the
+oars; without delay the sailors strongly toss up the foam, and sweep
+through the green water. The shores of the Strophades first receive me
+thus won from the waves, Strophades the Greek name they bear, islands
+lying in the great Ionian sea, which boding Celaeno and the other
+Harpies inhabit since Phineus' house was shut on them, and they fled in
+terror from the board of old. Than these no deadlier portent nor any
+fiercer plague of divine wrath hath issued from the Stygian waters;
+winged things with maidens' countenance, bellies dropping filth, and
+clawed hands and faces ever wan with hunger. . . . 'When borne hitherward we enter the haven, lo! we see goodly herds of
+oxen scattered on the plains, and goats flocking untended over the
+grass. We attack them with the sword, and call the gods and Jove himself
+to share our [223-258]spoil. Then we build seats on the winding shore
+and banquet on the dainty food. But suddenly the Harpies are upon us,
+swooping awfully from the mountains, and shaking their wings with loud
+clangour, plunder the feast, and defile everything with unclean touch,
+spreading a foul smell, and uttering dreadful cries. Again, in a deep
+recess under a caverned rock, shut in with waving shadows of woodland,
+we array the board and renew the altar fires; again, from their blind
+ambush in diverse quarters of the sky, the noisy crowd flutter with
+clawed feet around their prey, defiling the feast with their lips. Then
+I bid my comrades take up arms, and proclaim war on the accursed race. Even as I bade they do, range their swords in cover among the grass, and
+hide their shields out of sight. So when they swooped clamorously down
+along the winding shore, Misenus from his watch-tower on high signals on
+the hollow brass; my comrades rush in and essay the strange battle, to
+set the stain of steel on the winged horrors of the sea. But they take
+no violence on their plumage, nor wounds on their bodies; and soaring
+into the firmament with rapid flight, leave their foul traces on the
+spoil they had half consumed. Celaeno alone, prophetess of ill, alights
+on a towering cliff, and thus breaks forth in deep accents:
+
+'"War is it for your slaughtered oxen and steers cut down, O children of
+Laomedon, war is it you would declare, and drive the guiltless Harpies
+from their ancestral kingdom? Take then to heart and fix fast these
+words of mine; which the Lord omnipotent foretold to Phoebus, Phoebus
+Apollo to me, I eldest born of the Furies reveal to you. Italy is your
+goal; wooing the winds you shall go to Italy, and enter her harbours
+unhindered. Yet shall you not wall round your ordained city, ere this
+murderous outrage on us compel you, in portentous hunger, to eat your
+tables with gnawing teeth." 'She spoke, and winged her way back to the shelter of [259-293]the
+wood. But my comrades' blood froze chill with sudden affright; their
+spirits fell; and no longer with arms, nay with vows and prayers they
+bid me entreat favour, whether these be goddesses, or winged things
+ill-ominous and foul. And lord Anchises from the beach calls with
+outspread hands on the mighty gods, ordering fit sacrifices: "Gods,
+avert their menaces! Gods, turn this woe away, and graciously save the
+righteous!" Then he bids pluck the cable from the shore and shake loose
+the sheets. Southern winds stretch the sails; we scud over the
+foam-flecked waters, whither wind and pilot called our course. Now
+wooded Zacynthos appears amid the waves, and Dulichium and Same and
+Neritos' sheer rocks. We fly past the cliffs of Ithaca, Laertes' realm,
+and curse the land, fostress of cruel Ulysses. Soon too Mount Leucata's
+cloudy peaks are sighted, and Apollo dreaded of sailors. Hither we steer
+wearily, and stand in to the little town. The anchor is cast from the
+prow; the sterns are grounded on the beach. 'So at last having attained to land beyond our hopes, we purify
+ourselves in Jove's worship, and kindle altars of offering, and make the
+Actian shore gay with the games of Ilium. My comrades strip, and,
+slippery with oil, exercise their ancestral contests; glad to have got
+past so many Argive towns, and held on their flight through the
+encircling foe. Meanwhile the sun rounds the great circle of the year,
+and icy winter ruffles the waters with Northern gales. I fix against the
+doorway a hollow shield of brass, that tall Abas had borne, and mark the
+story with a verse: _These arms Aeneas from the conquering Greeks._ Then
+I bid leave the harbour and sit down at the thwarts; emulously my
+comrades strike the water, and sweep through the seas. Soon we see the
+cloud-capped Phaeacian towers sink away, skirt the shores of Epirus, and
+enter the Chaonian haven and approach high Buthrotum town. [294-328]'Here the rumour of a story beyond belief comes on our ears;
+Helenus son of Priam is reigning over Greek towns, master of the bride
+and sceptre of Pyrrhus the Aeacid; and Andromache hath again fallen to a
+husband of her people. I stood amazed; and my heart kindled with
+marvellous desire to accost him and learn of so strange a fortune. I
+advance from the harbour, leaving the fleet ashore; just when haply
+Andromache, in a grove before the town, by the waters of a feigned
+Simois, was pouring libation to the dust, and calling Hector's ghost to
+a tomb with his name, on an empty turfed green with two altars that she
+had consecrated, a wellspring of tears. When she caught sight of me
+coming, and saw distractedly the encircling arms of Troy,
+terror-stricken at the vision marvellously shewn, her gaze fixed, and
+the heat left her frame. She swoons away, and hardly at last speaks
+after long interval: "Comest thou then a real face, a real messenger to
+me, goddess-born? livest thou? or if sweet light is fled, ah, where is
+Hector?" She spoke, and bursting into tears filled all the place with
+her crying. Just a few words I force up, and deeply moved gasp out in
+broken accents: "I live indeed, I live on through all extremities; doubt
+not, for real are the forms thou seest . . . Alas! after such an
+husband, what fate receives thy fall? or what worthier fortune revisits
+thee? Dost thou, Hector's Andromache, keep bonds of marriage with
+Pyrrhus?" She cast down her countenance, and spoke with lowered voice:
+
+'"O single in happy eminence that maiden daughter of Priam, sentenced to
+die under high Troy town at an enemy's grave, who never bore the shame
+of the lot, nor came a captive to her victorious master's bed! We,
+sailing over alien seas from our burning land, have endured the
+haughty youthful pride of Achilles' seed, and borne children in
+slavery: he thereafter, wooing Leda's Hermione and a Lacedaemonian
+[329-363]marriage, passed me over to Helenus' keeping, a bondwoman to a
+bondman. But him Orestes, aflame with passionate desire for his stolen
+bride, and driven by the furies of crime, catches unguarded and murders
+at his ancestral altars. At Neoptolemus' death a share of his realm fell
+to Helenus' hands, who named the plains Chaonian, and called all the
+land Chaonia after Chaon of Troy, and built withal a Pergama and this
+Ilian citadel on the hills. But to thee how did winds, how fates give
+passage? or whose divinity landed thee all unwitting on our coasts? what
+of the boy Ascanius? lives he yet, and draws breath, thy darling, whom
+Troy's . . . Yet hath the child affection for his lost mother? is he
+roused to the valour of old and the spirit of manhood by his father
+Aeneas, by his uncle Hector?" 'Such words she poured forth weeping, and prolonged the vain wail; when
+the hero Helenus son of Priam approaches from the town with a great
+company, knows us for his kin, and leads us joyfully to his gates,
+shedding a many tears at every word. I advance and recognise a little
+Troy, and a copy of the great Pergama, and a dry brook with the name of
+Xanthus, and clasp a Scaean gateway. Therewithal my Teucrians make
+holiday in the friendly town. The king entertained them in his spacious
+colonnades; in the central hall they poured goblets of wine in libation,
+and held the cups while the feast was served on gold. 'And now a day and another day hath sped; the breezes woo our sails, and
+the canvas blows out to the swelling south. With these words I accost
+the prophet, and thus make request:
+
+'"Son of Troy, interpreter of the gods, whose sense is open to Phoebus'
+influences, his tripods and laurels, to stars and tongues of birds and
+auguries of prosperous flight, tell me now,--for the voice of revelation
+was all favourable to my course, and all divine influence counselled me
+to [364-396]seek Italy and explore remote lands; only Celaeno the Harpy
+prophesies of strange portents, a horror to tell, and cries out of wrath
+and bale and foul hunger,--what perils are the first to shun? or in what
+guidance may I overcome these sore labours?" 'Hereat Helenus, first suing for divine favour with fit sacrifice of
+steers, and unbinding from his head the chaplets of consecration, leads
+me in his hand to thy courts, O Phoebus, thrilled with the fulness of
+the deity, and then utters these prophetic words from his augural lips:
+
+'"Goddess-born: since there is clear assurance that under high omens
+thou dost voyage through the deep; so the king of the gods allots
+destiny and unfolds change; this is the circle of ordinance; a few
+things out of many I will unfold to thee in speech, that so thou mayest
+more safely traverse the seas of thy sojourn, and find rest in the
+Ausonian haven; for Helenus is forbidden by the destinies to know, and
+by Juno daughter of Saturn to utter more: first of all, the Italy thou
+deemest now nigh, and close at hand, unwitting! the harbours thou
+wouldst enter, far are they sundered by a long and trackless track
+through length of lands. First must the Trinacrian wave clog thine oar,
+and thy ships traverse the salt Ausonian plain, by the infernal pools
+and Aeaean Circe's isle, ere thou mayest build thy city in safety on a
+peaceful land. I will tell thee the token, and do thou keep it close in
+thine heart. When in thy perplexity, beside the wave of a sequestered
+river, a great sow shall be discovered lying under the oaks on the
+brink, with her newborn litter of thirty, couched white on the ground,
+her white brood about her teats; that shall be the place of the city,
+that the appointed rest from thy toils. Neither shrink thou at the gnawn
+tables that await thee; the fates will find a way, and Apollo aid thy
+call. These lands moreover, on this nearest border of the Italian shore
+[397-432]that our own sea's tide washes, flee thou: evil Greeks dwell
+in all their towns. Here the Locrians of Narycos have set their city,
+and here Lyctian Idomeneus beset the Sallentine plains with soldiery;
+here is the town of the Meliboean captain, Philoctetes' little Petelia
+fenced by her wall. Nay, when thy fleets have crossed overseas and lie
+at anchor, when now thou rearest altars and payest vows on the beach,
+veil thine hair with a purple garment for covering, that no hostile face
+at thy divine worship may meet thee amid the holy fires and make void
+the omens. This fashion of sacrifice keep thou, thyself and thy
+comrades, and let thy children abide in this pure observance. But when
+at thy departure the wind hath borne thee to the Sicilian coast, and the
+barred straits of Pelorus open out, steer for the left-hand country and
+the long circuit of the seas on the left hand; shun the shore and water
+on thy right. These lands, they say, of old broke asunder, torn and
+upheaved by vast force, when either country was one and undivided; the
+ocean burst in between, cutting off with its waves the Hesperian from
+the Sicilian coast, and with narrow tide washes tilth and town along the
+severance of shore. On the right Scylla keeps guard, on the left
+unassuaged Charybdis, who thrice swallows the vast flood sheer down her
+swirling gulf, and ever again hurls it upward, lashing the sky with
+water. But Scylla lies prisoned in her cavern's blind recesses,
+thrusting forth her mouth and drawing ships upon the rocks. In front her
+face is human, and her breast fair as a maiden's to the waist down;
+behind she is a sea-dragon of monstrous frame, with dolphins' tails
+joined on her wolf-girt belly. Better to track the goal of Trinacrian
+Pachynus, lingering and wheeling round through long spaces, than once
+catch sight of misshapen Scylla deep in her dreary cavern, and of the
+rocks that ring to her sea-coloured hounds. Moreover, if
+[433-466]Helenus hath aught of foresight or his prophecy of assurance,
+if Apollo fills his spirit with the truth, this one thing, goddess-born,
+one thing for all will I foretell thee, and again and again repeat my
+counsel: to great Juno's deity be thy first prayer and worship; to Juno
+utter thy willing vows, and overcome thy mighty mistress with gifts and
+supplications; so at last thou shalt leave Trinacria behind, and be sped
+in triumph to the Italian borders. When borne hither thou drawest nigh
+the Cymaean city, the haunted lakes and rustling woods of Avernus, thou
+shalt behold the raving prophetess who deep in the rock chants of fate,
+and marks down her words on leaves. What verses she writes down on them,
+the maiden sorts into order and shuts behind her in the cave; they stay
+in their places unstirred and quit not their rank. But when at the turn
+of the hinge the light wind from the doorway stirs them, and disarranges
+the delicate foliage, never after does she trouble to capture them as
+they flutter about the hollow rock, nor restore their places or join the
+verses; men depart without counsel, and hate the Sibyl's dwelling. Here
+let no waste in delay be of such account to thee (though thy company
+chide, and the passage call thy sails strongly to the deep, and thou
+mayest fill out their folds to thy desire) that thou do not approach the
+prophetess, and plead with prayers that she herself utter her oracles
+and deign to loose the accents from her lips. The nations of Italy and
+the wars to come, and the fashion whereby every toil may be avoided or
+endured, she shall unfold to thee, and grant her worshipper prosperous
+passage. Thus far is our voice allowed to counsel thee: go thy way, and
+exalt Troy to heaven by thy deeds." 'This the seer uttered with friendly lips; then orders gifts to be
+carried to my ships, of heavy gold and sawn ivory, and loads the hulls
+with massy silver and cauldrons [467-502]of Dodona, a mail coat
+triple-woven with hooks of gold, and a helmet splendid with spike and
+tressed plumes, the armour of Neoptolemus. My father too hath his gifts. Horses besides he brings, and grooms . . . fills up the tale of our
+oarsmen, and equips my crews with arms. 'Meanwhile Anchises bade the fleet set their sails, that the fair wind
+might meet no delay. Him Phoebus' interpreter accosts with high
+courtesy: "Anchises, honoured with the splendour of Venus' espousal, the
+gods' charge, twice rescued from the fallen towers of Troy, lo! the land
+of Ausonia is before thee: sail thou and seize it. And yet needs must
+thou float past it on the sea; far away lies the quarter of Ausonia that
+is revealed of Apollo. Go," he continues, "happy in thy son's affection:
+why do I run on further, and delay the rising winds in talk?" Andromache
+too, sad at this last parting, brings figured raiment with woof of gold,
+and a Phrygian scarf for Ascanius, and wearies not in courtesy, loading
+him with gifts from the loom. "Take these too," so says she, "my child,
+to be memorials to thee of my hands, and testify long hence the love of
+Andromache wife of Hector. Take these last gifts of thy kinsfolk, O sole
+surviving likeness to me of my own Astyanax! Such was he, in eyes and
+hands and features; and now his equal age were growing into manhood like
+thine." 'To them as I departed I spoke with starting tears: "Live happily, as
+they do whose fortunes are perfected! We are summoned ever from fate to
+fate. For you there is rest in store, and no ocean floor to furrow, no
+ever-retreating Ausonian fields to pursue. You see a pictured Xanthus,
+and a Troy your own hands have built; with better omens, I pray, and to
+be less open to the Greeks. If ever I enter Tiber and Tiber's bordering
+fields, and see a city granted to my nation, then of these kindred towns
+[503-537]and allied peoples in Epirus and Hesperia, which have the same
+Dardanus for founder, and whose story is one, of both will our hearts
+make a single Troy. Let that charge await our posterity." 'We put out to sea, keeping the Ceraunian mountains close at hand,
+whence is the shortest passage and seaway to Italy. The sun sets
+meanwhile, and the dusky hills grow dim. We choose a place, and fling
+ourselves on the lap of earth at the water's edge, and, allotting the
+oars, spread ourselves on the dry beach for refreshment: the dew of
+slumber falls on our weary limbs. Not yet had Night driven of the Hours
+climbed her mid arch; Palinurus rises lightly from his couch, explores
+all the winds, and listens to catch a breeze; he marks the
+constellations gliding together through the silent sky, Arcturus, the
+rainy Hyades and the twin Oxen, and scans Orion in his armour of gold. When he sees the clear sky quite unbroken, he gives from the stern his
+shrill signal; we disencamp and explore the way, and spread the wings of
+our sails. And now reddening Dawn had chased away the stars, when we
+descry afar dim hills and the low line of Italy. Achates first raises
+the cry of _Italy_; and with joyous shouts my comrades salute Italy. Then lord Anchises enwreathed a great bowl and filled it up with wine;
+and called on the gods, standing high astern . . . "Gods sovereign over
+sea and land and weather! bring wind to ease our way, and breathe
+favourably." The breezes freshen at his prayer, and now the harbour
+opens out nearer at hand, and a temple appears on the Fort of Minerva. My comrades furl the sails and swing the prows to shore. The harbour is
+scooped into an arch by the Eastern flood; reefs run out and foam with
+the salt spray; itself it lies concealed; turreted walls of rock let
+down their arms on either hand, and the temple retreats from the beach. Here, an inaugural sight, four horses of snowy [538-570]whiteness are
+grazing abroad on the grassy plain. And lord Anchises: "War dost thou
+carry, land of our sojourn; horses are armed in war, and menace of war
+is in this herd. But yet these same beasts are wont in time to enter
+harness, and carry yoke and bit in concord; there is hope of peace too,"
+says he. Then we pray to the holy deity, Pallas of the clangorous arms,
+the first to welcome our cheers. And before the altars we veil our heads
+in Phrygian garments, and duly, after the counsel Helenus had urged
+deepest on us, pay the bidden burnt-sacrifice to Juno of Argos. 'Without delay, once our vows are fully paid, we round to the arms of
+our sailyards and leave the dwellings and menacing fields of the Grecian
+people. Next is descried the bay of Tarentum, town, if rumour is true,
+of Hercules. Over against it the goddess of Lacinium rears her head,
+with the towers of Caulon, and Scylaceum wrecker of ships. Then
+Trinacrian Aetna is descried in the distance rising from the waves, and
+we hear from afar a great roaring of the sea on beaten rocks, and broken
+noises by the shore: the channels boil up, and the surge churns with
+sand. And lord Anchises: "Of a surety this is that Charybdis; of these
+cliffs, these awful rocks did Helenus prophesy. Out, O comrades, and
+rise together to the oars." Even as bidden they do; and first Palinurus
+swung the gurgling prow leftward through the water; to the left all our
+squadron bent with oar and wind. We are lifted skyward on the crescent
+wave, and again sunk deep into the nether world as the water is sucked
+away. Thrice amid their rocky caverns the cliffs uttered a cry; thrice
+we see the foam flung out, and the stars through a dripping veil. Meanwhile the wind falls with sundown; and weary and ignorant of the way
+we glide on to the Cyclopes' coast. 'There lies a harbour large and unstirred by the winds'
+[571-604]entrance; but nigh it Aetna thunders awfully in wrack, and
+ever and again hurls a black cloud into the sky, smoking with boiling
+pitch and embers white hot, and heaves balls of flame flickering up to
+the stars: ever and again vomits out on high crags from the torn
+entrails of the mountain, tosses up masses of molten rock with a groan,
+and boils forth from the bottom. Rumour is that this mass weighs down
+the body of Enceladus, half-consumed by the thunderbolt, and mighty
+Aetna laid over him suspires the flame that bursts from her furnaces;
+and so often as he changes his weary side, all Trinacria shudders and
+moans, veiling the sky in smoke. That night we spend in cover of the
+forest among portentous horrors, and see not from what source the noise
+comes. For neither did the stars show their fires, nor was the vault of
+constellated sky clear; but vapours blotted heaven, and the moon was
+held in a storm-cloud through dead of night. 'And now the morrow was rising in the early east, and the dewy darkness
+rolled away from the sky by Dawn, when sudden out of the forest advances
+a human shape strange and unknown, worn with uttermost hunger and
+pitiably attired, and stretches entreating hands towards the shore. We
+look back. Filthy and wretched, with shaggy beard and a coat pinned
+together with thorns, he was yet a Greek, and had been sent of old to
+Troy in his father's arms. And he, when he saw afar the Dardanian habits
+and armour of Troy, hung back a little in terror at the sight, and
+stayed his steps; then ran headlong to the shore with weeping and
+prayers: "By the heavens I beseech you, by the heavenly powers and this
+luminous sky that gives us breath, take me up, O Trojans, carry me away
+to any land soever, and it will be enough. I know I am one out of the
+Grecian fleets, I confess I warred against the household gods of Ilium;
+for that, if our wrong and guilt is so great, throw [605-639]me
+piecemeal on the flood or plunge me in the waste sea. If I do perish,
+gladly will I perish at human hands." He ended; and clung clasping our
+knees and grovelling at them. We encourage him to tell who he is and of
+what blood born, and reveal how Fortune pursues him since then. Lord
+Anchises after little delay gives him his hand, and strengthens his
+courage by visible pledge. At last, laying aside his terror, he speaks
+thus:
+
+'"I am from an Ithacan home, Achemenides by name, set out for Troy in
+luckless Ulysses' company; poor was my father Adamastus, and would God
+fortune had stayed thus! Here my comrades abandoned me in the Cyclops'
+vast cave, mindless of me while they hurry away from the barbarous
+gates. It is a house of gore and blood-stained feasts, dim and huge
+within. Himself he is great of stature and knocks at the lofty sky
+(gods, take away a curse like this from earth!) to none gracious in
+aspect or courteous of speech. He feeds on the flesh and dark blood of
+wretched men. I myself saw, when he caught the bodies of two of us with
+his great hand, and lying back in the middle of the cave crushed them on
+the rock, and the courts splashed and swam with gore; I saw when he
+champed the flesh adrip with dark clots of blood, and the warm limbs
+quivered under his teeth. Yet not unavenged. Ulysses brooked not this,
+nor even in such straits did the Ithacan forget himself. For so soon as
+he, gorged with his feast and buried in wine, lay with bent neck
+sprawling huge over the cave, in his sleep vomiting gore and gobbets
+mixed with wine and blood, we, praying to the great gods and with parts
+allotted, pour at once all round him, and pierce with a sharp weapon the
+huge eye that lay sunk single under his savage brow, in fashion of an
+Argolic shield or the lamp of the moon; and at last we exultingly avenge
+the ghosts of our comrades. But fly, O wretched men, fly [640-674]and
+pluck the cable from the beach. . . . For even in the shape and stature
+of Polyphemus, when he shuts his fleeced flocks and drains their udders
+in the cave's covert, an hundred other horrible Cyclopes dwell all about
+this shore and stray on the mountain heights. Thrice now does the horned
+moon fill out her light, while I linger in life among desolate lairs and
+haunts of wild beasts in the woodland, and from a rock survey the giant
+Cyclopes and shudder at their cries and echoing feet. The boughs yield a
+miserable sustenance, berries and stony sloes, and plants torn up by the
+root feed me. Sweeping all the view, I at last espied this fleet
+standing in to shore. On it, whatsoever it were, I cast myself; it is
+enough to have escaped the accursed tribe. Do you rather, by any death
+you will, destroy this life of mine." 'Scarcely had he spoken thus, when on the mountain top we see
+shepherding his flocks a vast moving mass, Polyphemus himself seeking
+the shores he knew, a horror ominous, shapeless, huge, bereft of sight. A pine lopped by his hand guides and steadies his footsteps. His fleeced
+sheep attend him, this his single delight and solace in ill. . . . After
+he hath touched the deep flood and come to the sea, he washes in it the
+blood that oozes from his eye-socket, grinding his teeth with groans;
+and now he strides through the sea up to his middle, nor yet does the
+wave wet his towering sides. We hurry far away in precipitate flight,
+with the suppliant who had so well merited rescue; and silently cut the
+cable, and bending forward sweep the sea with emulous oars. He heard,
+and turned his steps towards the echoing sound. But when he may in no
+wise lay hands on us, nor can fathom the Ionian waves in pursuit, he
+raises a vast cry, at which the sea and all his waves shuddered, and the
+deep land of Italy was startled, and Aetna's vaulted caverns moaned. But
+the tribe of the [675-709]Cyclopes, roused from the high wooded hills,
+run to the harbour and fill the shore. We descry the Aetnean brotherhood
+standing impotent with scowling eye, their stately heads up to heaven, a
+dreadful consistory; even as on a mountain summit stand oaks high in air
+or coned cypresses, a high forest of Jove or covert of Diana. Sharp fear
+urges us to shake out the sheets in reckless haste, and spread our sails
+to the favouring wind. Yet Helenus' commands counsel that our course
+keep not the way between Scylla and Charybdis, the very edge of death on
+either hand. We are resolved to turn our canvas back. And lo! from the
+narrow fastness of Pelorus the North wind comes down and reaches us. I
+sail past Pantagias' mouth with its living stone, the Megarian bay, and
+low-lying Thapsus. Such names did Achemenides, of luckless Ulysses'
+company, point out as he retraced his wanderings along the returning
+shores. 'Stretched in front of a bay of Sicily lies an islet over against
+wavebeat Plemyrium; they of old called it Ortygia. Hither Alpheus the
+river of Elis, so rumour runs, hath cloven a secret passage beneath the
+sea, and now through thy well-head, Arethusa, mingles with the Sicilian
+waves. We adore as bidden the great deities of the ground; and thence I
+cross the fertile soil of Helorus in the marsh. Next we graze the high
+reefs and jutting rocks of Pachynus; and far off appears Camarina,
+forbidden for ever by oracles to move, and the Geloan plains, and vast
+Gela named after its river. Then Acragas on the steep, once the breeder
+of noble horses, displays its massive walls in the distance; and with
+granted breeze I leave thee behind, palm-girt Selinus, and thread the
+difficult shoals and blind reefs of Lilybaeum. Thereon Drepanum receives
+me in its haven and joyless border. Here, so many tempestuous seas
+outgone, alas! my father, the solace of every care and chance, Anchises
+is [710-718]lost to me. Here thou, dear lord, abandonest me in
+weariness, alas! rescued in vain from peril and doom. Not Helenus the
+prophet, though he counselled of many a terror, not boding Celaeno
+foretold me of this grief. This was the last agony, this the goal of the
+long ways; thence it was I had departed when God landed me on your
+coasts.' Thus lord Aeneas with all attent retold alone the divine doom and the
+history of his goings. At last he was hushed, and here in silence made
+an end. BOOK FOURTH
+
+THE LOVE OF DIDO, AND HER END
+
+
+But the Queen, long ere now pierced with sore distress, feeds the wound
+with her life-blood, and catches the fire unseen. Again and again his
+own valiance and his line's renown flood back upon her spirit; look and
+accent cling fast in her bosom, and the pain allows not rest or calm to
+her limbs. The morrow's dawn bore the torch of Phoebus across the earth,
+and had rolled away the dewy darkness from the sky, when, scarce
+herself, she thus opens her confidence to her sister:
+
+'Anna, my sister, such dreams of terror thrill me through! What guest
+unknown is this who hath entered our dwelling? How high his mien! how
+brave in heart as in arms! I believe it well, with no vain assurance,
+his blood is divine. Fear proves the vulgar spirit. Alas, by what
+destinies is he driven! what wars outgone he chronicled! Were my mind
+not planted, fixed and immoveable, to ally myself to none in wedlock
+since my love of old was false to me in the treachery of death; were I
+not sick to the heart of bridal torch and chamber, to this temptation
+alone I might haply yield. Anna, I will confess it; since Sychaeus mine
+husband met his piteous doom, and our household was shattered by a
+brother's murder, he only hath [22-55]touched mine heart and stirred
+the balance of my soul. I know the prints of the ancient flame. But
+rather, I pray, may earth first yawn deep for me, or the Lord omnipotent
+hurl me with his thunderbolt into gloom, the pallid gloom and profound
+night of Erebus, ere I soil thee, mine honour, or unloose thy laws. He
+took my love away who made me one with him long ago; he shall keep it
+with him, and guard it in the tomb.' She spoke, and welling tears filled
+the bosom of her gown. Anna replies: 'O dearer than the daylight to thy sister, wilt thou
+waste, sad and alone, all thy length of youth, and know not the
+sweetness of motherhood, nor love's bounty? Deemest thou the ashes care
+for that, or the ghost within the tomb? Be it so: in days gone by no
+wooers bent thy sorrow, not in Libya, not ere then in Tyre; Iarbas was
+slighted, and other princes nurtured by the triumphal land of Africa;
+wilt thou contend so with a love to thy liking? nor does it cross thy
+mind whose are these fields about thy dwelling? On this side are the
+Gaetulian towns, a race unconquerable in war; the reinless Numidian
+riders and the grim Syrtis hem thee in; on this lies a thirsty tract of
+desert, swept by the raiders of Barca. Why speak of the war gathering
+from Tyre, and thy brother's menaces? . . . With gods' auspices to my
+thinking, and with Juno's favour, hath the Ilian fleet held on hither
+before the gale. What a city wilt thou discern here, O sister! what a
+realm will rise on such a union! the arms of Troy ranged with ours, what
+glory will exalt the Punic state! Do thou only, asking divine favour
+with peace-offerings, be bounteous in welcome and draw out reasons for
+delay, while the storm rages at sea and Orion is wet, and his ships are
+shattered and the sky unvoyageable.' With these words she made the fire
+of love flame up in her spirit, put hope in her wavering soul, and let
+honour slip away. [56-90]First they visit the shrines, and desire grace from altar to
+altar; they sacrifice sheep fitly chosen to Ceres the Lawgiver, to
+Phoebus and lord Lyaeus, to Juno before all, guardian of the marriage
+bond. Dido herself, excellent in beauty, holds the cup in her hand, and
+pours libation between the horns of a milk-white cow, or moves in state
+to the rich altars before the gods' presences, day by day renewing her
+gifts, and gazing athirst into the breasts of cattle laid open to take
+counsel from the throbbing entrails. Ah, witless souls of soothsayers! how may vows or shrines help her madness? all the while the subtle flame
+consumes her inly, and deep in her breast the wound is silent and alive. Stung to misery, Dido wanders in frenzy all down the city, even as an
+arrow-stricken deer, whom, far and heedless amid the Cretan woodland, a
+shepherd archer hath pierced and left the flying steel in her unaware;
+she ranges in flight the Dictaean forest lawns; fast in her side clings
+the deadly reed. Now she leads Aeneas with her through the town, and
+displays her Sidonian treasure and ordered city; she essays to speak,
+and breaks off half-way in utterance. Now, as day wanes, she seeks the
+repeated banquet, and again madly pleads to hear the agonies of Ilium,
+and again hangs on the teller's lips. Thereafter, when all are gone
+their ways, and the dim moon in turn quenches her light, and the setting
+stars counsel to sleep, alone in the empty house she mourns, and flings
+herself on the couch he left: distant she hears and sees him in the
+distance; or enthralled by the look he has of his father, she holds
+Ascanius on her lap, if so she may steal the love she may not utter. No
+more do the unfinished towers rise, no more do the people exercise in
+arms, nor work for safety in war on harbour or bastion; the works hang
+broken off, vast looming walls and engines towering into the sky. So soon as she perceives her thus fast in the toils, and [91-124]madly
+careless of her name, Jove's beloved wife, daughter of Saturn, accosts
+Venus thus:
+
+'Noble indeed is the fame and splendid the spoils you win, thou and that
+boy of thine, and mighty the renown of deity, if two gods have
+vanquished one woman by treachery. Nor am I so blind to thy terror of
+our town, thine old suspicion of the high house of Carthage. But what
+shall be the end? 

@@ -1,0 +1,1314 @@
+
+
+
+
+Produced by Gary R. Young
+
+
+
+
+
+
+
+
+
+Comments on the preparation of this e-text
+
+SQUARE BRACKETS:
+
+The square brackets, i.e. [ ] are copied from the printed book,
+without change, except that a closing bracket "]" has been added
+to the stage directions. CHANGES TO THE TEXT:
+
+Character names have been expanded. For Example, CLEOPATRA was
+CLEO. Three words in the preface were written in Greek Characters. These have been transliterated into Roman characters, and are
+set off by angle brackets, for example, <melichroos>. All for Love
+
+
+by
+
+John Dryden
+
+
+
+
+INTRODUCTORY NOTE
+
+The age of Elizabeth, memorable for so many reasons in the
+history of England, was especially brilliant in literature,
+and, within literature, in the drama. With some falling off
+in spontaneity, the impulse to great dramatic production lasted
+till the Long Parliament closed the theaters in 1642; and when
+they were reopened at the Restoration, in 1660, the stage only
+too faithfully reflected the debased moral tone of the court
+society of Charles II. John Dryden (1631-1700), the great representative figure in
+the literature of the latter part of the seventeenth century,
+exemplifies in his work most of the main tendencies of the time. He came into notice with a poem on the death of Cromwell in 1658,
+and two years later was composing couplets expressing his loyalty
+to the returned king. He married Lady Elizabeth Howard, the
+daughter of a royalist house, and for practically all the rest of
+his life remained an adherent of the Tory Party. In 1663 he
+began writing for the stage, and during the next thirty years
+he attempted nearly all the current forms of drama. His "Annus
+Mirabilis" (1666), celebrating the English naval victories over
+the Dutch, brought him in 1670 the Poet Laureateship. He had,
+meantime, begun the writing of those admirable critical essays,
+represented in the present series by his Preface to the "Fables"
+and his Dedication to the translation of Virgil. In these he
+shows himself not only a critic of sound and penetrating
+judgment, but the first master of modern English prose style. With "Absalom and Achitophel," a satire on the Whig leader,
+Shaftesbury, Dryden entered a new phase, and achieved what
+is regarded as "the finest of all political satires." This
+was followed by "The Medal," again directed against the Whigs,
+and this by "Mac Flecknoe," a fierce attack on his enemy and
+rival Shadwell. The Government rewarded his services by
+a lucrative appointment. After triumphing in the three fields of drama, criticism,
+and satire, Dryden appears next as a religious poet in his
+"Religio Laici," an exposition of the doctrines of the Church
+of England from a layman's point of view. In the same year
+that the Catholic James II. ascended the throne, Dryden joined
+the Roman Church, and two years later defended his new religion
+in "The Hind and the Panther," an allegorical debate between two
+animals standing respectively for Catholicism and Anglicanism. The Revolution of 1688 put an end to Dryden's prosperity; and
+after a short return to dramatic composition, he turned to
+translation as a means of supporting himself. He had already
+done something in this line; and after a series of translations
+from Juvenal, Persius, and Ovid, he undertook, at the age of
+sixty-three, the enormous task of turning the entire works of
+Virgil into English verse. How he succeeded in this, readers of
+the "Aeneid" in a companion volume of these classics can judge
+for themselves. Dryden's production closes with the collection
+of narrative poems called "Fables," published in 1700, in which
+year he died and was buried in the Poet's Corner in Westminster
+Abbey. Dryden lived in an age of reaction against excessive religious
+idealism, and both his character and his works are marked by
+the somewhat unheroic traits of such a period. But he was,
+on the whole, an honest man, open minded, genial, candid, and
+modest; the wielder of a style, both in verse and prose,
+unmatched for clearness, vigor, and sanity. Three types of comedy appeared in England in the time of Dryden--the
+comedy of humors, the comedy of intrigue, and the comedy of
+manners--and in all he did work that classed him with the
+ablest of his contemporaries. He developed the somewhat
+bombastic type of drama known as the heroic play, and brought
+it to its height in his "Conquest of Granada"; then, becoming
+dissatisfied with this form, he cultivated the French classic
+tragedy on the model of Racine. This he modified by combining
+with the regularity of the French treatment of dramatic action
+a richness of characterization in which he showed himself
+a disciple of Shakespeare, and of this mixed type his best
+example is "All for Love." Here he has the daring to challenge
+comparison with his master, and the greatest testimony to his
+achievement is the fact that, as Professor Noyes has said,
+"fresh from Shakespeare's 'Antony and Cleopatra,' we can still
+read with intense pleasure Dryden's version of the story." DEDICATION
+
+To the Right Honourable, Thomas, Earl of Danby, Viscount Latimer,
+and Baron Osborne of Kiveton, in Yorkshire; Lord High Treasurer
+of England, one of His Majesty's Most Honourable Privy Council,
+and Knight of the Most Noble Order of the Garter. My Lord,
+
+The gratitude of poets is so troublesome a virtue to great men,
+that you are often in danger of your own benefits:  for you are
+threatened with some epistle, and not suffered to do good in
+quiet, or to compound for their silence whom you have obliged. Yet, I confess, I neither am or ought to be surprised at this
+indulgence; for your lordship has the same right to favour
+poetry, which the great and noble have ever had--
+
+     Carmen amat, quisquis carmine digna gerit. There is somewhat of a tie in nature betwixt those who are born
+for worthy actions, and those who can transmit them to posterity;
+and though ours be much the inferior part, it comes at least
+within the verge of alliance; nor are we unprofitable members
+of the commonwealth, when we animate others to those virtues,
+which we copy and describe from you. It is indeed their interest, who endeavour the subversion of
+governments, to discourage poets and historians; for the best
+which can happen to them, is to be forgotten. But such who,
+under kings, are the fathers of their country, and by a just and
+prudent ordering of affairs preserve it, have the same reason
+to cherish the chroniclers of their actions, as they have to lay
+up in safety the deeds and evidences of their estates; for such
+records are their undoubted titles to the love and reverence of
+after ages. Your lordship's administration has already taken up
+a considerable part of the English annals; and many of its most
+happy years are owing to it. His Majesty, the most knowing judge
+of men, and the best master, has acknowledged the ease and
+benefit he receives in the incomes of his treasury, which you
+found not only disordered, but exhausted. All things were in the
+confusion of a chaos, without form or method, if not reduced
+beyond it, even to annihilation; so that you had not only
+to separate the jarring elements, but (if that boldness of
+expression might be allowed me) to create them. Your enemies
+had so embroiled the management of your office, that they looked
+on your advancement as the instrument of your ruin. And as if
+the clogging of the revenue, and the confusion of accounts, which
+you found in your entrance, were not sufficient, they added their
+own weight of malice to the public calamity, by forestalling the
+credit which should cure it. Your friends on the other side were
+only capable of pitying, but not of aiding you; no further help
+or counsel was remaining to you, but what was founded on
+yourself; and that indeed was your security; for your diligence,
+your constancy, and your prudence, wrought most surely within,
+when they were not disturbed by any outward motion. The highest
+virtue is best to be trusted with itself; for assistance only can
+be given by a genius superior to that which it assists; and it is
+the noblest kind of debt, when we are only obliged to God and
+nature. This then, my lord, is your just commendation, and that
+you have wrought out yourself a way to glory, by those very means
+that were designed for your destruction:  You have not only
+restored but advanced the revenues of your master, without
+grievance to the subject; and, as if that were little yet,
+the debts of the exchequer, which lay heaviest both on the crown,
+and on private persons, have by your conduct been established
+in a certainty of satisfaction. An action so much the more great
+and honourable, because the case was without the ordinary relief
+of laws; above the hopes of the afflicted and beyond the
+narrowness of the treasury to redress, had it been managed by a
+less able hand. It is certainly the happiest, and most unenvied
+part of all your fortune, to do good to many, while you do injury
+to none; to receive at once the prayers of the subject, and the
+praises of the prince; and, by the care of your conduct, to give
+him means of exerting the chiefest (if any be the chiefest)
+of his royal virtues, his distributive justice to the deserving,
+and his bounty and compassion to the wanting. The disposition
+of princes towards their people cannot be better discovered than
+in the choice of their ministers; who, like the animal spirits
+betwixt the soul and body, participate somewhat of both natures,
+and make the communication which is betwixt them. A king, who is
+just and moderate in his nature, who rules according to the laws,
+whom God has made happy by forming the temper of his soul to the
+constitution of his government, and who makes us happy, by
+assuming over us no other sovereignty than that wherein our
+welfare and liberty consists; a prince, I say, of so excellent
+a character, and so suitable to the wishes of all good men, could
+not better have conveyed himself into his people's apprehensions,
+than in your lordship's person; who so lively express the same
+virtues, that you seem not so much a copy, as an emanation of
+him. Moderation is doubtless an establishment of greatness; but
+there is a steadiness of temper which is likewise requisite in a
+minister of state; so equal a mixture of both virtues, that he
+may stand like an isthmus betwixt the two encroaching seas of
+arbitrary power, and lawless anarchy. The undertaking would be
+difficult to any but an extraordinary genius, to stand at the
+line, and to divide the limits; to pay what is due to the great
+representative of the nation, and neither to enhance, nor to
+yield up, the undoubted prerogatives of the crown. These, my
+lord, are the proper virtues of a noble Englishman, as indeed
+they are properly English virtues; no people in the world being
+capable of using them, but we who have the happiness to be born
+under so equal, and so well-poised a government;--a government
+which has all the advantages of liberty beyond a commonwealth,
+and all the marks of kingly sovereignty, without the danger of
+a tyranny. Both my nature, as I am an Englishman, and my reason,
+as I am a man, have bred in me a loathing to that specious name
+of a republic; that mock appearance of a liberty, where all who
+have not part in the government, are slaves; and slaves they are
+of a viler note, than such as are subjects to an absolute
+dominion. For no Christian monarchy is so absolute, but it is
+circumscribed with laws; but when the executive power is in the
+law-makers, there is no further check upon them; and the people
+must suffer without a remedy, because they are oppressed by their
+representatives. If I must serve, the number of my masters, who
+were born my equals, would but add to the ignominy of my bondage. The nature of our government, above all others, is exactly suited
+both to the situation of our country, and the temper of the
+natives; an island being more proper for commerce and for
+defence, than for extending its dominions on the Continent; for
+what the valour of its inhabitants might gain, by reason of its
+remoteness, and the casualties of the seas, it could not so
+easily preserve:  And, therefore, neither the arbitrary power of
+One, in a monarchy, nor of Many, in a commonwealth, could make us
+greater than we are. It is true, that vaster and more frequent
+taxes might be gathered, when the consent of the people was not
+asked or needed; but this were only by conquering abroad, to be
+poor at home; and the examples of our neighbours teach us, that
+they are not always the happiest subjects, whose kings extend
+their dominions farthest. Since therefore we cannot win by an
+offensive war, at least, a land war, the model of our government
+seems naturally contrived for the defensive part; and the consent
+of a people is easily obtained to contribute to that power which
+must protect it. Felices nimium, bona si sua norint, Angligenae! And yet there are not wanting malcontents among us, who,
+surfeiting themselves on too much happiness, would persuade the
+people that they might be happier by a change. It was indeed the
+policy of their old forefather, when himself was fallen from the
+station of glory, to seduce mankind into the same rebellion with
+him, by telling him he might yet be freer than he was; that is
+more free than his nature would allow, or, if I may so say, than
+God could make him. We have already all the liberty which
+freeborn subjects can enjoy, and all beyond it is but licence. But if it be liberty of conscience which they pretend, the
+moderation of our church is such, that its practice extends not
+to the severity of persecution; and its discipline is withal so
+easy, that it allows more freedom to dissenters than any of the
+sects would allow to it. In the meantime, what right can be
+pretended by these men to attempt innovation in church or state? Who made them the trustees, or to speak a little nearer their own
+language, the keepers of the liberty of England? If their call
+be extraordinary, let them convince us by working miracles; for
+ordinary vocation they can have none, to disturb the government
+under which they were born, and which protects them. He who has
+often changed his party, and always has made his interest the
+rule of it, gives little evidence of his sincerity for the public
+good; it is manifest he changes but for himself, and takes the
+people for tools to work his fortune. Yet the experience of all
+ages might let him know, that they who trouble the waters first,
+have seldom the benefit of the fishing; as they who began the
+late rebellion enjoyed not the fruit of their undertaking,
+but were crushed themselves by the usurpation of their own
+instrument. Neither is it enough for them to answer, that
+they only intend a reformation of the government, but not the
+subversion of it:  on such pretence all insurrections have been
+founded; it is striking at the root of power, which is obedience. Every remonstrance of private men has the seed of treason in it;
+and discourses, which are couched in ambiguous terms, are
+therefore the more dangerous, because they do all the mischief
+of open sedition, yet are safe from the punishment of the laws. These, my lord, are considerations, which I should not pass so
+lightly over, had I room to manage them as they deserve; for no
+man can be so inconsiderable in a nation, as not to have a share
+in the welfare of it; and if he be a true Englishman, he must at
+the same time be fired with indignation, and revenge himself as
+he can on the disturbers of his country. And to whom could I
+more fitly apply myself than to your lordship, who have not only
+an inborn, but an hereditary loyalty? The memorable constancy
+and sufferings of your father, almost to the ruin of his estate,
+for the royal cause, were an earnest of that which such a parent
+and such an institution would produce in the person of a son. But so unhappy an occasion of manifesting your own zeal, in
+suffering for his present majesty, the providence of God, and
+the prudence of your administration, will, I hope, prevent; that,
+as your father's fortune waited on the unhappiness of his
+sovereign, so your own may participate of the better fate which
+attends his son. The relation which you have by alliance to the
+noble family of your lady, serves to confirm to you both this
+happy augury. For what can deserve a greater place in the
+English chronicle, than the loyalty and courage, the actions and
+death, of the general of an army, fighting for his prince and
+country? The honour and gallantry of the Earl of Lindsey is so
+illustrious a subject, that it is fit to adorn an heroic poem;
+for he was the protomartyr of the cause, and the type of his
+unfortunate royal master. Yet after all, my lord, if I may speak my thoughts, you are happy
+rather to us than to yourself; for the multiplicity, the cares,
+and the vexations of your employment, have betrayed you from
+yourself, and given you up into the possession of the public. You are robbed of your privacy and friends, and scarce any hour
+of your life you can call your own. Those, who envy your
+fortune, if they wanted not good-nature, might more justly pity
+it; and when they see you watched by a crowd of suitors, whose
+importunity it is impossible to avoid, would conclude, with
+reason, that you have lost much more in true content, than you
+have gained by dignity; and that a private gentleman is better
+attended by a single servant, than your lordship with so
+clamorous a train. Pardon me, my lord, if I speak like a
+philosopher on this subject; the fortune which makes a man
+uneasy, cannot make him happy; and a wise man must think himself
+uneasy, when few of his actions are in his choice. This last consideration has brought me to another, and a very
+seasonable one for your relief; which is, that while I pity your
+want of leisure, I have impertinently detained you so long a
+time. I have put off my own business, which was my dedication,
+till it is so late, that I am now ashamed to begin it; and
+therefore I will say nothing of the poem, which I present to you,
+because I know not if you are like to have an hour, which, with a
+good conscience, you may throw away in perusing it; and for the
+author, I have only to beg the continuance of your protection to
+him, who is,
+
+     My Lord,
+          Your Lordship's most obliged,
+               Most humble, and
+                    Most obedient, servant,
+                                   John Dryden. PREFACE
+
+The death of Antony and Cleopatra is a subject which has been treated
+by the greatest wits of our nation, after Shakespeare; and by all so
+variously, that their example has given me the confidence to try
+myself in this bow of Ulysses amongst the crowd of suitors, and,
+withal, to take my own measures, in aiming at the mark. I doubt not
+but the same motive has prevailed with all of us in this attempt;
+I mean the excellency of the moral:  For the chief persons
+represented were famous patterns of unlawful love; and their end
+accordingly was unfortunate. All reasonable men have long since
+concluded, that the hero of the poem ought not to be a character of
+perfect virtue, for then he could not, without injustice, be made
+unhappy; nor yet altogether wicked, because he could not then be
+pitied. I have therefore steered the middle course; and have drawn
+the character of Antony as favourably as Plutarch, Appian, and Dion
+Cassius would give me leave; the like I have observed in Cleopatra. That which is wanting to work up the pity to a greater height, was
+not afforded me by the story; for the crimes of love, which they both
+committed, were not occasioned by any necessity, or fatal ignorance,
+but were wholly voluntary; since our passions are, or ought to be,
+within our power. The fabric of the play is regular enough, as to
+the inferior parts of it; and the unities of time, place, and action,
+more exactly observed, than perhaps the English theatre requires. Particularly, the action is so much one, that it is the only one of
+the kind without episode, or underplot; every scene in the tragedy
+conducing to the main design, and every act concluding with a turn
+of it. The greatest error in the contrivance seems to be in the
+person of Octavia; for, though I might use the privilege of a poet,
+to introduce her into Alexandria, yet I had not enough considered,
+that the compassion she moved to herself and children was destructive
+to that which I reserved for Antony and Cleopatra; whose mutual love
+being founded upon vice, must lessen the favour of the audience to
+them, when virtue and innocence were oppressed by it. And, though
+I justified Antony in some measure, by making Octavia's departure to
+proceed wholly from herself; yet the force of the first machine still
+remained; and the dividing of pity, like the cutting of a river into
+many channels, abated the strength of the natural stream. But this
+is an objection which none of my critics have urged against me; and
+therefore I might have let it pass, if I could have resolved to have
+been partial to myself. The faults my enemies have found are rather
+cavils concerning little and not essential decencies; which a master
+of the ceremonies may decide betwixt us. The French poets,
+I confess, are strict observers of these punctilios:  They would not,
+for example, have suffered Cleopatra and Octavia to have met; or,
+if they had met, there must have only passed betwixt them some cold
+civilities, but no eagerness of repartee, for fear of offending
+against the greatness of their characters, and the modesty of their
+sex. This objection I foresaw, and at the same time contemned; for
+I judged it both natural and probable, that Octavia, proud of her
+new-gained conquest, would search out Cleopatra to triumph over her;
+and that Cleopatra, thus attacked, was not of a spirit to shun the
+encounter:  And it is not unlikely, that two exasperated rivals
+should use such satire as I have put into their mouths; for, after
+all, though the one were a Roman, and the other a queen, they were
+both women. It is true, some actions, though natural, are not fit to
+be represented; and broad obscenities in words ought in good manners
+to be avoided:  expressions therefore are a modest clothing of our
+thoughts, as breeches and petticoats are of our bodies. If I have
+kept myself within the bounds of modesty, all beyond, it is but
+nicety and affectation; which is no more but modesty depraved into
+a vice. They betray themselves who are too quick of apprehension in
+such cases, and leave all reasonable men to imagine worse of them,
+than of the poet. Honest Montaigne goes yet further:  Nous ne sommes que ceremonie;
+la ceremonie nous emporte, et laissons la substance des choses. Nous
+nous tenons aux branches, et abandonnons le tronc et le corps. Nous
+avons appris aux dames de rougir, oyans seulement nommer ce qu'elles
+ne craignent aucunement a faire:  Nous n'osons appeller a droit nos
+membres, et ne craignons pas de les employer a toute sorte de
+debauche. La ceremonie nous defend d'exprimer par paroles les choses
+licites et naturelles, et nous l'en croyons; la raison nous defend de
+n'en faire point d'illicites et mauvaises, et personne ne l'en croit. My comfort is, that by this opinion my enemies are but sucking
+critics, who would fain be nibbling ere their teeth are come. Yet, in this nicety of manners does the excellency of French poetry
+consist. Their heroes are the most civil people breathing; but their
+good breeding seldom extends to a word of sense; all their wit is in
+their ceremony; they want the genius which animates our stage; and
+therefore it is but necessary, when they cannot please, that they
+should take care not to offend. But as the civilest man in the
+company is commonly the dullest, so these authors, while they are
+afraid to make you laugh or cry, out of pure good manners make you
+sleep. They are so careful not to exasperate a critic, that they
+never leave him any work; so busy with the broom, and make so clean
+a riddance that there is little left either for censure or for
+praise:  For no part of a poem is worth our discommending, where the
+whole is insipid; as when we have once tasted of palled wine, we stay
+not to examine it glass by glass. But while they affect to shine in
+trifles, they are often careless in essentials. Thus, their
+Hippolytus is so scrupulous in point of decency, that he will rather
+expose himself to death, than accuse his stepmother to his father;
+and my critics I am sure will commend him for it. But we of grosser
+apprehensions are apt to think that this excess of generosity is not
+practicable, but with fools and madmen. This was good manners with
+a vengeance; and the audience is like to be much concerned at the
+misfortunes of this admirable hero. But take Hippolytus out of his
+poetic fit, and I suppose he would think it a wiser part to set the
+saddle on the right horse, and choose rather to live with the
+reputation of a plain-spoken, honest man, than to die with the infamy
+of an incestuous villain. In the meantime we may take notice, that
+where the poet ought to have preserved the character as it was
+delivered to us by antiquity, when he should have given us the
+picture of a rough young man, of the Amazonian strain, a jolly
+huntsman, and both by his profession and his early rising a mortal
+enemy to love, he has chosen to give him the turn of gallantry, sent
+him to travel from Athens to Paris, taught him to make love, and
+transformed the Hippolytus of Euripides into Monsieur Hippolyte. I should not have troubled myself thus far with French poets, but
+that I find our Chedreux critics wholly form their judgments by them. But for my part, I desire to be tried by the laws of my own country;
+for it seems unjust to me, that the French should prescribe here,
+till they have conquered. Our little sonneteers, who follow them,
+have too narrow souls to judge of poetry. Poets themselves are the
+most proper, though I conclude not the only critics. But till some
+genius, as universal as Aristotle, shall arise, one who can penetrate
+into all arts and sciences, without the practice of them, I shall
+think it reasonable, that the judgment of an artificer in his own art
+should be preferable to the opinion of another man; at least where he
+is not bribed by interest, or prejudiced by malice. And this,
+I suppose, is manifest by plain inductions:  For, first, the crowd
+cannot be presumed to have more than a gross instinct of what pleases
+or displeases them:  Every man will grant me this; but then, by a
+particular kindness to himself, he draws his own stake first, and
+will be distinguished from the multitude, of which other men may
+think him one. But, if I come closer to those who are allowed for
+witty men, either by the advantage of their quality, or by common
+fame, and affirm that neither are they qualified to decide
+sovereignly concerning poetry, I shall yet have a strong party of my
+opinion; for most of them severally will exclude the rest, either
+from the number of witty men, or at least of able judges. But here
+again they are all indulgent to themselves; and every one who
+believes himself a wit, that is, every man, will pretend at the same
+time to a right of judging. But to press it yet further, there are
+many witty men, but few poets; neither have all poets a taste of
+tragedy. And this is the rock on which they are daily splitting. Poetry, which is a picture of nature, must generally please; but it
+is not to be understood that all parts of it must please every man;
+therefore is not tragedy to be judged by a witty man, whose taste is
+only confined to comedy. Nor is every man, who loves tragedy, a
+sufficient judge of it; he must understand the excellences of it too,
+or he will only prove a blind admirer, not a critic. From hence it
+comes that so many satires on poets, and censures of their writings,
+fly abroad. Men of pleasant conversation (at least esteemed so),
+and endued with a trifling kind of fancy, perhaps helped out with
+some smattering of Latin, are ambitious to distinguish themselves
+from the herd of gentlemen, by their poetry--
+
+     Rarus enim ferme sensus communis in illa Fortuna. And is not this a wretched affectation, not to be contented with what
+fortune has done for them, and sit down quietly with their estates,
+but they must call their wits in question, and needlessly expose
+their nakedness to public view? Not considering that they are not to
+expect the same approbation from sober men, which they have found
+from their flatterers after the third bottle. If a little glittering
+in discourse has passed them on us for witty men, where was the
+necessity of undeceiving the world? Would a man who has an ill title
+to an estate, but yet is in possession of it; would he bring it of
+his own accord, to be tried at Westminster? We who write, if we want
+the talent, yet have the excuse that we do it for a poor subsistence;
+but what can be urged in their defence, who, not having the vocation
+of poverty to scribble, out of mere wantonness take pains to make
+themselves ridiculous? Horace was certainly in the right, where he
+said, "That no man is satisfied with his own condition." A poet is
+not pleased, because he is not rich; and the rich are discontented,
+because the poets will not admit them of their number. Thus the case
+is hard with writers:  If they succeed not, they must starve; and if
+they do, some malicious satire is prepared to level them, for daring
+to please without their leave. But while they are so eager to
+destroy the fame of others, their ambition is manifest in their
+concernment; some poem of their own is to be produced, and the slaves
+are to be laid flat with their faces on the ground, that the monarch
+may appear in the greater majesty. Dionysius and Nero had the same longings, but with all their power
+they could never bring their business well about. 'Tis true, they
+proclaimed themselves poets by sound of trumpet; and poets they were,
+upon pain of death to any man who durst call them otherwise. The
+audience had a fine time on't, you may imagine; they sat in a bodily
+fear, and looked as demurely as they could:  for it was a hanging
+matter to laugh unseasonably; and the tyrants were suspicious, as
+they had reason, that their subjects had them in the wind; so, every
+man, in his own defence, set as good a face upon the business as he
+could. It was known beforehand that the monarchs were to be crowned
+laureates; but when the show was over, and an honest man was suffered
+to depart quietly, he took out his laughter which he had stifled,
+with a firm resolution never more to see an emperor's play, though he
+had been ten years a-making it. In the meantime the true poets were
+they who made the best markets:  for they had wit enough to yield the
+prize with a good grace, and not contend with him who had thirty
+legions. They were sure to be rewarded, if they confessed themselves
+bad writers, and that was somewhat better than to be martyrs for
+their reputation. Lucan's example was enough to teach them manners;
+and after he was put to death, for overcoming Nero, the emperor
+carried it without dispute for the best poet in his dominions. No man was ambitious of that grinning honour; for if he heard the
+malicious trumpeter proclaiming his name before his betters, he knew
+there was but one way with him. Maecenas took another course, and we
+know he was more than a great man, for he was witty too:  But finding
+himself far gone in poetry, which Seneca assures us was not his
+talent, he thought it his best way to be well with Virgil and with
+Horace; that at least he might be a poet at the second hand; and we
+see how happily it has succeeded with him; for his own bad poetry is
+forgotten, and their panegyrics of him still remain. But they who
+should be our patrons are for no such expensive ways to fame; they
+have much of the poetry of Maecenas, but little of his liberality. They are for prosecuting Horace and Virgil, in the persons of their
+successors; for such is every man who has any part of their soul and
+fire, though in a less degree. Some of their little zanies yet go
+further; for they are persecutors even of Horace himself, as far as
+they are able, by their ignorant and vile imitations of him; by
+making an unjust use of his authority, and turning his artillery
+against his friends. But how would he disdain to be copied by such
+hands! I dare answer for him, he would be more uneasy in their
+company, than he was with Crispinus, their forefather, in the Holy
+Way; and would no more have allowed them a place amongst the critics,
+than he would Demetrius the mimic, and Tigellius the buffoon;
+
+     ------- Demetri, teque, Tigelli,
+     Discipulorum inter jubeo plorare cathedras. With what scorn would he look down on such miserable translators,
+who make doggerel of his Latin, mistake his meaning, misapply his
+censures, and often contradict their own? He is fixed as a landmark
+to set out the bounds of poetry--
+
+     ------- Saxum antiquum, ingens,--
+     Limes agro positus, litem ut discerneret arvis. But other arms than theirs, and other sinews are required, to raise
+the weight of such an author; and when they would toss him against
+enemies--
+
+     Genua labant, gelidus concrevit frigore sanguis. Tum lapis ipse viri, vacuum per inane volatus,
+     Nec spatium evasit totum, nec pertulit ictum. For my part, I would wish no other revenge, either for myself,
+or the rest of the poets, from this rhyming judge of the twelve-penny
+gallery, this legitimate son of Sternhold, than that he would
+subscribe his name to his censure, or (not to tax him beyond his
+learning) set his mark:  For, should he own himself publicly, and
+come from behind the lion's skin, they whom he condemns would be
+thankful to him, they whom he praises would choose to be condemned;
+and the magistrates, whom he has elected, would modestly withdraw
+from their employment, to avoid the scandal of his nomination. The sharpness of his satire, next to himself, falls most heavily on
+his friends, and they ought never to forgive him for commending them
+perpetually the wrong way, and sometimes by contraries. If he have
+a friend, whose hastiness in writing is his greatest fault, Horace
+would have taught him to have minced the matter, and to have called
+it readiness of thought, and a flowing fancy; for friendship will
+allow a man to christen an imperfection by the name of some neighbour
+virtue--
+
+     Vellem in amicitia sic erraremus; et isti
+     Errori nomen virtus posuisset honestum. But he would never allowed him to have called a slow man hasty,
+or a hasty writer a slow drudge, as Juvenal explains it--
+
+     ------- Canibus pigris, scabieque vestusta
+     Laevibus, et siccae lambentibus ora lucernae,
+     Nomen erit, Pardus, Tigris, Leo; si quid adhuc est
+     Quod fremit in terris violentius. Yet Lucretius laughs at a foolish lover, even for excusing the
+imperfections of his mistress--
+
+     Nigra <melichroos> est, immunda et foetida <akosmos>
+     Balba loqui non quit, <traylizei>; muta pudens est, etc. But to drive it ad Aethiopem cygnum is not to be endured. I leave
+him to interpret this by the benefit of his French version on the
+other side, and without further considering him, than I have the rest
+of my illiterate censors, whom I have disdained to answer, because
+they are not qualified for judges. It remains that I acquiant the
+reader, that I have endeavoured in this play to follow the practice
+of the ancients, who, as Mr. Rymer has judiciously observed, are and
+ought to be our masters. Horace likewise gives it for a rule in his
+art of poetry--
+
+     ------- Vos exemplaria Graeca
+     Nocturna versate manu, versate diurna. Yet, though their models are regular, they are too little for English
+tragedy; which requires to be built in a larger compass. I could
+give an instance in the Oedipus Tyrannus, which was the masterpiece
+of Sophocles; but I reserve it for a more fit occasion, which I hope
+to have hereafter. In my style, I have professed to imitate the
+divine Shakespeare; which that I might perform more freely, I have
+disencumbered myself from rhyme. Not that I condemn my former way,
+but that this is more proper to my present purpose. I hope I need
+not to explain myself, that I have not copied my author servilely:
+Words and phrases must of necessity receive a change in succeeding
+ages; but it is almost a miracle that much of his language remains
+so pure; and that he who began dramatic poetry amongst us, untaught
+by any, and as Ben Jonson tells us, without learning, should by the
+force of his own genius perform so much, that in a manner he has left
+no praise for any who come after him. The occasion is fair, and the
+subject would be pleasant to handle the difference of styles betwixt
+him and Fletcher, and wherein, and how far they are both to be
+imitated. But since I must not be over-confident of my own
+performance after him, it will be prudence in me to be silent. Yet, I hope, I may affirm, and without vanity, that, by imitating
+him, I have excelled myself throughout the play; and particularly,
+that I prefer the scene betwixt Antony and Ventidius in the first
+act, to anything which I have written in this kind. PROLOGUE
+
+  What flocks of critics hover here to-day,
+  As vultures wait on armies for their prey,
+  All gaping for the carcase of a play! With croaking notes they bode some dire event,
+  And follow dying poets by the scent. Ours gives himself for gone; y' have watched your time:
+  He fights this day unarmed,--without his rhyme;--
+  And brings a tale which often has been told;
+  As sad as Dido's; and almost as old. His hero, whom you wits his bully call,
+  Bates of his mettle, and scarce rants at all;
+  He's somewhat lewd; but a well-meaning mind;
+  Weeps much; fights little; but is wond'rous kind. In short, a pattern, and companion fit,
+  For all the keeping Tonies of the pit. I could name more:  a wife, and mistress too;
+  Both (to be plain) too good for most of you:
+  The wife well-natured, and the mistress true. Now, poets, if your fame has been his care,
+  Allow him all the candour you can spare. A brave man scorns to quarrel once a day;
+  Like Hectors in at every petty fray. Let those find fault whose wit's so very small,
+  They've need to show that they can think at all;
+  Errors, like straws, upon the surface flow;
+  He who would search for pearls, must dive below. Fops may have leave to level all they can;
+  As pigmies would be glad to lop a man. Half-wits are fleas; so little and so light,
+  We scarce could know they live, but that they bite. But, as the rich, when tired with daily feasts,
+  For change, become their next poor tenant's guests;
+  Drink hearty draughts of ale from plain brown bowls,
+  And snatch the homely rasher from the coals:
+  So you, retiring from much better cheer,
+  For once, may venture to do penance here. And since that plenteous autumn now is past,
+  Whose grapes and peaches have indulged your taste,
+  Take in good part, from our poor poet's board,
+  Such rivelled fruits as winter can afford. ALL FOR LOVE
+
+  or
+
+THE WORLD WELL LOST
+
+
+A TRAGEDY
+
+
+  DRAMATIS PERSONAE
+
+  MARK ANTONY. VENTIDIUS, his General. DOLABELLA, his Friend. ALEXAS, the Queen's Eunuch. SERAPION, Priest of Isis. MYRIS, another Priest. Servants to Antony. CLEOPATRA, Queen of Egypt. OCTAVIA, Antony's Wife. CHARMION, Cleopatra's Maid. IRAS, Cleopatra's Maid. Antony's two little Daughters. SCENE.--Alexandria. Act I
+
+       Scene I.--The Temple of Isis
+
+       Enter SERAPION, MYRIS, Priests of Isis
+
+  SERAPION. Portents and prodigies have grown so frequent,
+  That they have lost their name. Our fruitful Nile
+  Flowed ere the wonted season, with a torrent
+  So unexpected, and so wondrous fierce,
+  That the wild deluge overtook the haste
+  Even of the hinds that watched it:  Men and beasts
+  Were borne above the tops of trees, that grew
+  On the utmost margin of the water-mark. Then, with so swift an ebb the flood drove backward,
+  It slipt from underneath the scaly herd:
+  Here monstrous phocae panted on the shore;
+  Forsaken dolphins there with their broad tails,
+  Lay lashing the departing waves:  hard by them,
+  Sea horses floundering in the slimy mud,
+  Tossed up their heads, and dashed the ooze about them. Enter ALEXAS behind them
+
+  MYRIS. Avert these omens, Heaven! SERAPION. Last night, between the hours of twelve and one,
+  In a lone aisle of the temple while I walked,
+  A whirlwind rose, that, with a violent blast,
+  Shook all the dome:  the doors around me clapt;
+  The iron wicket, that defends the vault,
+  Where the long race of Ptolemies is laid,
+  Burst open, and disclosed the mighty dead. From out each monument, in order placed,
+  An armed ghost starts up:  the boy-king last
+  Reared his inglorious head. A peal of groans
+  Then followed, and a lamentable voice
+  Cried, Egypt is no more! My blood ran back,
+  My shaking knees against each other knocked;
+  On the cold pavement down I fell entranced,
+  And so unfinished left the horrid scene. ALEXAS. And dreamed you this? or did invent the story,
+       [Showing himself.] To frighten our Egyptian boys withal,
+  And train them up, betimes, in fear of priesthood? SERAPION. My lord, I saw you not,
+  Nor meant my words should reach you ears; but what
+  I uttered was most true. ALEXAS. A foolish dream,
+  Bred from the fumes of indigested feasts,
+  And holy luxury. SERAPION. I know my duty:
+  This goes no further. ALEXAS. 'Tis not fit it should;
+  Nor would the times now bear it, were it true. All southern, from yon hills, the Roman camp
+  Hangs o'er us black and threatening like a storm
+  Just breaking on our heads. SERAPION. Our faint Egyptians pray for Antony;
+  But in their servile hearts they own Octavius. MYRIS. Why then does Antony dream out his hours,
+  And tempts not fortune for a noble day,
+  Which might redeem what Actium lost? ALEXAS. He thinks 'tis past recovery. SERAPION. Yet the foe
+  Seems not to press the siege. ALEXAS. Oh, there's the wonder. Maecenas and Agrippa, who can most
+  With Caesar, are his foes. His wife Octavia,
+  Driven from his house, solicits her revenge;
+  And Dolabella, who was once his friend,
+  Upon some private grudge, now seeks his ruin:
+  Yet still war seems on either side to sleep. SERAPION. 'Tis strange that Antony, for some days past,
+  Has not beheld the face of Cleopatra;
+  But here, in Isis' temple, lives retired,
+  And makes his heart a prey to black despair. ALEXAS. 'Tis true; and we much fear he hopes by absence
+  To cure his mind of love. SERAPION. If he be vanquished,
+  Or make his peace, Egypt is doomed to be
+  A Roman province; and our plenteous harvests
+  Must then redeem the scarceness of their soil. While Antony stood firm, our Alexandria
+  Rivalled proud Rome (dominion's other seat),
+  And fortune striding, like a vast Colossus,
+  Could fix an equal foot of empire here. ALEXAS. Had I my wish, these tyrants of all nature,
+  Who lord it o'er mankind, rhould perish,--perish,
+  Each by the other's sword; But, since our will
+  Is lamely followed by our power, we must
+  Depend on one; with him to rise or fall. SERAPION. How stands the queen affected? ALEXAS. Oh, she dotes,
+  She dotes, Serapion, on this vanquished man,
+  And winds herself about his mighty ruins;
+  Whom would she yet forsake, yet yield him up,
+  This hunted prey, to his pursuer's hands,
+  She might preserve us all:  but 'tis in vain--
+  This changes my designs, this blasts my counsels,
+  And makes me use all means to keep him here. Whom I could wish divided from her arms,
+  Far as the earth's deep centre. Well, you know
+  The state of things; no more of your ill omens
+  And black prognostics; labour to confirm
+  The people's hearts. Enter VENTIDIUS, talking aside with a Gentleman of ANTONY'S
+
+  SERAPION. These Romans will o'erhear us. But who's that stranger? By his warlike port,
+  His fierce demeanour, and erected look,
+  He's of no vulgar note. ALEXAS. Oh, 'tis Ventidius,
+  Our emperor's great lieutenant in the East,
+  Who first showed Rome that Parthia could be conquered. When Antony returned from Syria last,
+  He left this man to guard the Roman frontiers. SERAPION. You seem to know him well. ALEXAS. Too well. I saw him at Cilicia first,
+  When Cleopatra there met Antony:
+  A mortal foe was to us, and Egypt. But,--let me witness to the worth I hate,--
+  A braver Roman never drew a sword;
+  Firm to his prince, but as a friend, not slave,
+  He ne'er was of his pleasures; but presides
+  O'er all his cooler hours, and morning counsels:
+  In short the plainness, fierceness, rugged virtue,
+  Of an old true-stampt Roman lives in him. His coming bodes I know not what of ill
+  To our affairs. Withdraw to mark him better;
+  And I'll acquaint you why I sought you here,
+  And what's our present work. [They withdraw to a corner of the stage; and VENTIDIUS,
+        with the other, comes forward to the front.] VENTIDIUS. Not see him; say you? I say, I must, and will. GENTLEMAN. He has commanded,
+  On pain of death, none should approach his presence. VENTIDIUS. I bring him news will raise his drooping spirits,
+  Give him new life. GENTLEMAN. He sees not Cleopatra. VENTIDIUS. Would he had never seen her! GENTLEMAN. He eats not, drinks not, sleeps not, has no use
+  Of anything, but thought; or if he talks,
+  'Tis to himself, and then 'tis perfect raving:
+  Then he defies the world, and bids it pass,
+  Sometimes he gnaws his lips, and curses loud
+  The boy Octavius; then he draws his mouth
+  Into a scornful smile, and cries, "Take all,
+  The world's not worth my care." VENTIDIUS. Just, just his nature. Virtue's his path; but sometimes 'tis too narrow
+  For his vast soul; and then he starts out wide,
+  And bounds into a vice, that bears him far
+  From his first course, and plunges him in ills:
+  But, when his danger makes him find his faults,
+  Quick to observe, and full of sharp remorse,
+  He censures eagerly his own misdeeds,
+  Judging himself with malice to himself,
+  And not forgiving what as man he did,
+  Because his other parts are more than man.--
+  He must not thus be lost. [ALEXAS and the Priests come forward.] ALEXAS. You have your full instructions, now advance,
+  Proclaim your orders loudly. SERAPION. Romans, Egyptians, hear the queen's command. Thus Cleopatra bids:  Let labour cease;
+  To pomp and triumphs give this happy day,
+  That gave the world a lord:  'tis Antony's. Live, Antony; and Cleopatra live! Be this the general voice sent up to heaven,
+  And every public place repeat this echo. VENTIDIUS. Fine pageantry! [Aside.] SERAPION. Set out before your doors
+  The images of all your sleeping fathers,
+  With laurels crowned; with laurels wreath your posts,
+  And strew with flowers the pavement; let the priests
+  Do present sacrifice; pour out the wine,
+  And call the gods to join with you in gladness. VENTIDIUS. Curse on the tongue that bids this general joy! Can they be friends of Antony, who revel
+  When Antony's in danger? Hide, for shame,
+  You Romans, your great grandsires' images,
+  For fear their souls should animate their marbles,
+  To blush at their degenerate progeny. ALEXAS. A love, which knows no bounds, to Antony,
+  Would mark the day with honours, when all heaven
+  Laboured for him, when each propitious star
+  Stood wakeful in his orb, to watch that hour
+  And shed his better influence. Her own birthday
+  Our queen neglected like a vulgar fate,
+  That passed obscurely by. VENTIDIUS. Would it had slept,
+  Divided far from his; till some remote
+  And future age had called it out, to ruin
+  Some other prince, not him! ALEXAS. Your emperor,
+  Though grown unkind, would be more gentle, than
+  To upbraid my queen for loving him too well. VENTIDIUS. Does the mute sacrifice upbraid the priest! He knows him not his executioner. Oh, she has decked his ruin with her love,
+  Led him in golden bands to gaudy slaughter,
+  And made perdition pleasing:  She has left him
+  The blank of what he was. I tell thee, eunuch, she has quite unmanned him. Can any Roman see, and know him now,
+  Thus altered from the lord of half mankind,
+  Unbent, unsinewed, made a woman's toy,
+  Shrunk from the vast extent of all his honours,
+  And crampt within a corner of the world? O Antony! Thou bravest soldier, and thou best of friends! Bounteous as nature; next to nature's God! Couldst thou but make new worlds, so wouldst thou give them,
+  As bounty were thy being! rough in battle,
+  As the first Romans when they went to war;
+  Yet after victory more pitiful
+  Than all their praying virgins left at home! ALEXAS. Would you could add, to those more shining virtues,
+  His truth to her who loves him. VENTIDIUS. Would I could not! But wherefore waste I precious hours with thee! Thou art her darling mischief, her chief engine,
+  Antony's other fate. Go, tell thy queen,
+  Ventidius is arrived, to end her charms. Let your Egyptian timbrels play alone,
+  Nor mix effeminate sounds with Roman trumpets,
+  You dare not fight for Antony; go pray
+  And keep your cowards' holiday in temples. [Exeunt ALEXAS, SERAPION.] Re-enter the Gentleman of M. ANTONY
+
+  2 Gent. The emperor approaches, and commands,
+  On pain of death, that none presume to stay. 1 Gent. I dare not disobey him. [Going out with the other.] VENTIDIUS. Well, I dare. But I'll observe him first unseen, and find
+  Which way his humour drives:  The rest I'll venture. [Withdraws.] Enter ANTONY, walking with a disturbed motion before
+       he speaks
+
+  ANTONY. They tell me, 'tis my birthday, and I'll keep it
+  With double pomp of sadness. 'Tis what the day deserves, which gave me breath. Why was I raised the meteor of the world,
+  Hung in the skies, and blazing as I travelled,
+  'Till all my fires were spent; and then cast downward,
+  To be trod out by Caesar? VENTIDIUS. [aside.] On my soul,
+  'Tis mournful, wondrous mournful! ANTONY. Count thy gains. Now, Antony, wouldst thou be born for this? Glutton of fortune, thy devouring youth
+  Has starved thy wanting age. VENTIDIUS. How sorrow shakes him! [Aside.] So, now the tempest tears him up by the roots,
+  And on the ground extends the noble ruin. [ANTONY having thrown himself down.] Lie there, thou shadow of an emperor;
+  The place thou pressest on thy mother earth
+  Is all thy empire now:  now it contains thee;
+  Some few days hence, and then 'twill be too large,
+  When thou'rt contracted in thy narrow urn,
+  Shrunk to a few ashes; then Octavia
+  (For Cleopatra will not live to see it),
+  Octavia then will have thee all her own,
+  And bear thee in her widowed hand to Caesar;
+  Caesar will weep, the crocodile will weep,
+  To see his rival of the universe
+  Lie still and peaceful there. I'll think no more on't. ANTONY. Give me some music, look that it be sad. I'll soothe my melancholy, till I swell,
+  And burst myself with sighing.--
+       [Soft music.] 'Tis somewhat to my humour; stay, I fancy
+  I'm now turned wild, a commoner of nature;
+  Of all forsaken, and forsaking all;
+  Live in a shady forest's sylvan scene,
+  Stretched at my length beneath some blasted oak,
+  I lean my head upon the mossy bark,
+  And look just of a piece as I grew from it;
+  My uncombed locks, matted like mistletoe,
+  Hang o'er my hoary face; a murm'ring brook
+  Runs at my foot. VENTIDIUS. Methinks I fancy
+  Myself there too. ANTONY. The herd come jumping by me,
+  And fearless, quench their thirst, while I look on,
+  And take me for their fellow-citizen. More of this image, more; it lulls my thoughts. [Soft music again.] VENTIDIUS. I must disturb him; I can hold no longer. [Stands before him.] ANTONY. [starting up]. Art thou Ventidius? VENTIDIUS. Are you Antony? I'm liker what I was, than you to him
+  I left you last. ANTONY. I'm angry. VENTIDIUS. So am I.
+
+  ANTONY. I would be private:  leave me. VENTIDIUS. Sir, I love you,
+  And therefore will not leave you. ANTONY. Will not leave me! Where have you learnt that answer? Who am I? VENTIDIUS. My emperor; the man I love next Heaven:
+  If I said more, I think 'twere scare a sin:
+  You're all that's good, and god-like. ANTONY. All that's wretched. You will not leave me then? VENTIDIUS. 'Twas too presuming
+  To say I would not; but I dare not leave you:
+  And, 'tis unkind in you to chide me hence
+  So soon, when I so far have come to see you. ANTONY. Now thou hast seen me, art thou satisfied? For, if a friend, thou hast beheld enough;
+  And, if a foe, too much. VENTIDIUS. Look, emperor, this is no common dew. [Weeping.] I have not wept this forty years; but now
+  My mother comes afresh into my eyes;
+  I cannot help her softness. ANTONY. By heavens, he weeps! poor good old man, he weeps! The big round drops course one another down
+  The furrows of his cheeks.--Stop them, Ventidius,
+  Or I shall blush to death, they set my shame,
+  That caused them, full before me. VENTIDIUS. I'll do my best. ANTONY. Sure there's contagion in the tears of friends:
+  See, I have caught it too. Believe me, 'tis not
+  For my own griefs, but thine.--Nay, father! VENTIDIUS. Emperor. ANTONY. Emperor! Why, that's the style of victory;
+  The conqu'ring soldier, red with unfelt wounds,
+  Salutes his general so; but never more
+  Shall that sound reach my ears. VENTIDIUS. I warrant you. ANTONY. Actium, Actium! Oh!--
+
+  VENTIDIUS. It sits too near you. ANTONY. Here, here it lies a lump of lead by day,
+  And, in my short, distracted, nightly slumbers,
+  The hag that rides my dreams.--
+
+  VENTIDIUS. Out with it; give it vent. ANTONY. Urge not my shame. I lost a battle,--
+
+  VENTIDIUS. So has Julius done. ANTONY. Thou favour'st me, and speak'st not half thou think'st;
+  For Julius fought it out, and lost it fairly. But Antony--
+
+  VENTIDIUS. Nay, stop not. ANTONY. Antony--
+  Well, thou wilt have it,--like a coward, fled,
+  Fled while his soldiers fought; fled first, Ventidius. Thou long'st to curse me, and I give thee leave. I know thou cam'st prepared to rail. VENTIDIUS. I did. ANTONY. I'll help thee.--I have been a man, Ventidius. VENTIDIUS. Yes, and a brave one! but--
+
+  ANTONY. I know thy meaning. But I have lost my reason, have disgraced
+  The name of soldier, with inglorious ease. In the full vintage of my flowing honours,
+  Sat still, and saw it prest by other hands. Fortune came smiling to my youth, and wooed it,
+  And purple greatness met my ripened years. When first I came to empire, I was borne
+  On tides of people, crowding to my triumphs;
+  The wish of nations, and the willing world
+  Received me as its pledge of future peace;
+  I was so great, so happy, so beloved,
+  Fate could not ruin me; till I took pains,
+  And worked against my fortune, child her from me,
+  And returned her loose; yet still she came again. My careless days, and my luxurious nights,
+  At length have wearied her, and now she's gone,
+  Gone, gone, divorced for ever. Help me, soldier,
+  To curse this madman, this industrious fool,
+  Who laboured to be wretched:  Pr'ythee, curse me. VENTIDIUS. No. ANTONY. Why? VENTIDIUS. You are too sensible already
+  Of what you've done, too conscious of your failings;
+  And, like a scorpion, whipt by others first
+  To fury, sting yourself in mad revenge. I would bring balm, and pour it in your wounds,
+  Cure your distempered mind, and heal your fortunes. ANTONY. I know thou would'st. VENTIDIUS. I will. ANTONY. Ha, ha, ha, ha! VENTIDIUS. You laugh. ANTONY. I do, to see officious love. Give cordials to the dead. VENTIDIUS. You would be lost, then? ANTONY. I am. VENTIDIUS. I say you are not. Try your fortune. ANTONY. I have, to the utmost. Dost thou think me desperate,
+  Without just cause? No, when I found all lost
+  Beyond repair, I hid me from the world,
+  And learnt to scorn it here; which now I do
+  So heartily, I think it is not worth
+  The cost of keeping. VENTIDIUS. Caesar thinks not so;
+  He'll thank you for the gift he could not take. You would be killed like Tully, would you? do,
+  Hold out your throat to Caesar, and die tamely. ANTONY. No, I can kill myself; and so resolve. VENTIDIUS. I can die with you too, when time shall serve;
+  But fortune calls upon us now to live,
+  To fight, to conquer. ANTONY. Sure thou dream'st, Ventidius. VENTIDIUS. No; 'tis you dream; you sleep away your hours
+  In desperate sloth, miscalled philosophy. Up, up, for honour's sake; twelve legions wait you,
+  And long to call you chief:  By painful journeys
+  I led them, patient both of heat and hunger,
+  Down form the Parthian marches to the Nile. 'Twill do you good to see their sunburnt faces,
+  Their scarred cheeks, and chopt hands:  there's virtue in them. They'll sell those mangled limbs at dearer rates
+  Than yon trim bands can buy. ANTONY. Where left you them? VENTIDIUS. I said in Lower Syria. ANTONY. Bring them hither;
+  There may be life in these. VENTIDIUS. They will not come. ANTONY. Why didst thou mock my hopes with promised aids,
+  To double my despair? They're mutinous. VENTIDIUS. Most firm and loyal. ANTONY. Yet they will not march
+  To succour me. O trifler! VENTIDIUS. They petition
+  You would make haste to head them. ANTONY. I'm besieged. VENTIDIUS. There's but one way shut up:  How came I hither? ANTONY. I will not stir. VENTIDIUS. They would perhaps desire
+  A better reason. ANTONY. I have never used
+  My soldiers to demand a reason of
+  My actions. Why did they refuse to march? VENTIDIUS. They said they would not fight for Cleopatra. ANTONY. What was't they said? VENTIDIUS. They said they would not fight for Cleopatra. Why should they fight indeed, to make her conquer,
+  And make you more a slave? to gain you kingdoms,
+  Which, for a kiss, at your next midnight feast,
+  You'll sell to her? Then she new-names her jewels,
+  And calls this diamond such or such a tax;
+  Each pendant in her ear shall be a province. ANTONY. Ventidius, I allow your tongue free licence
+  On all my other faults; but, on your life,
+  No word of Cleopatra:  she deserves
+  More worlds than I can lose. VENTIDIUS. Behold, you Powers,
+  To whom you have intrusted humankind! See Europe, Afric, Asia, put in balance,
+  And all weighed down by one light, worthless woman! I think the gods are Antonies, and give,
+  Like prodigals, this nether world away
+  To none but wasteful hands. ANTONY. You grow presumptuous. VENTIDIUS. I take the privilege of plain love to speak. ANTONY. Plain love! plain arrogance, plain insolence! Thy men are cowards; thou, an envious traitor;
+  Who, under seeming honesty, hast vented
+  The burden of thy rank, o'erflowing gall. O that thou wert my equal; great in arms
+  As the first Caesar was, that I might kill thee
+  Without a stain to honour! VENTIDIUS. You may kill me;
+  You have done more already,--called me traitor. ANTONY. Art thou not one? VENTIDIUS. For showing you yourself,
+  Which none else durst have done? but had I been
+  That name, which I disdain to speak again,
+  I needed not have sought your abject fortunes,
+  Come to partake your fate, to die with you. What hindered me to have led my conquering eagles
+  To fill Octavius' bands? I could have been
+  A traitor then, a glorious, happy traitor,
+  And not have been so called. ANTONY. Forgive me, soldier;
+  I've been too passionate. VENTIDIUS. You thought me false;
+  Thought my old age betrayed you:  Kill me, sir,
+  Pray, kill me; yet you need not, your unkindness
+  Has left your sword no work. ANTONY. I did not think so;
+  I said it in my rage:  Pr'ythee, forgive me. Why didst thou tempt my anger, by discovery
+  Of what I would not hear? VENTIDIUS. No prince but you
+  Could merit that sincerity I used,
+  Nor durst another man have ventured it;
+  But you, ere love misled your wandering eyes,
+  Were sure the chief and best of human race,
+  Framed in the very pride and boast of nature;
+  So perfect, that the gods, who formed you, wondered
+  At their own skill, and cried--A lucky hit
+  Has mended our design. Their envy hindered,
+  Else you had been immortal, and a pattern,
+  When Heaven would work for ostentation's sake
+  To copy out again. ANTONY. But Cleopatra--
+  Go on; for I can bear it now. VENTIDIUS. No more. ANTONY. Thou dar'st not trust my passion, but thou may'st;
+  Thou only lov'st, the rest have flattered me. VENTIDIUS. Heaven's blessing on your heart for that kind word! May I believe you love me? Speak again. ANTONY. Indeed I do. Speak this, and this, and this. [Hugging him.] Thy praises were unjust; but, I'll deserve them,
+  And yet mend all. Do with me what thou wilt;
+  Lead me to victory! thou know'st the way. VENTIDIUS. And, will you leave this--
+
+  ANTONY. Pr'ythee, do not curse her,
+  And I will leave her; though, Heaven knows, I love
+  Beyond life, conquest, empire, all, but honour;
+  But I will leave her. VENTIDIUS. That's my royal master;
+  And, shall we fight? ANTONY. I warrant thee, old soldier. Thou shalt behold me once again in iron;
+  And at the head of our old troops, that beat
+  The Parthians, cry aloud--Come, follow me! VENTIDIUS. Oh, now I hear my emperor! in that word
+  Octavius fell. Gods, let me see that day,
+  And, if I have ten years behind, take all:
+  I'll thank you for the exchange. ANTONY. O Cleopatra! VENTIDIUS. Again? ANTONY. I've done:  In that last sigh she went. Caesar shall know what 'tis to force a lover
+  From all he holds most dear. VENTIDIUS. Methinks, you breathe
+  Another soul:  Your looks are more divine;
+  You speak a hero, and you move a god. ANTONY. Oh, thou hast fired me; my soul's up in arms,
+  And mans each part about me:  Once again,
+  That noble eagerness of fight has seized me;
+  That eagerness with which I darted upward
+  To Cassius' camp:  In vain the steepy hill
+  Opposed my way; in vain a war of spears
+  Sung round my head, and planted on my shield;
+  I won the trenches, while my foremost men
+  Lagged on the plain below. VENTIDIUS. Ye gods, ye gods,
+  For such another honour! ANTONY. Come on, my soldier! Our hearts and arms are still the same:  I long
+  Once more to meet our foes; that thou and I,
+  Like Time and Death, marching before our troops,
+  May taste fate to them; mow them out a passage,
+  And, entering where the foremost squadrons yield,
+  Begin the noble harvest of the field. [Exeunt.] Act II
+
+       Scene I
+
+       Enter CLEOPATRA, IRAS, and ALEXAS
+
+  CLEOPATRA. What shall I do, or whither shall I turn? Ventidius has o'ercome, and he will go. ALEXAS. He goes to fight for you. CLEOPATRA. Then he would see me, ere he went to fight:
+  Flatter me not:  If once he goes, he's lost,
+  And all my hopes destroyed. ALEXAS. Does this weak passion
+  Become a mighty queen? CLEOPATRA. I am no queen:
+  Is this to be a queen, to be besieged
+  By yon insulting Roman, and to wait
+  Each hour the victor's chain? These ills are small:
+  For Antony is lost, and I can mourn
+  For nothing else but him. Now come, Octavius,
+  I have no more to lose! prepare thy bands;
+  I'm fit to be a captive:  Antony
+  Has taught my mind the fortune of a slave. IRAS. Call reason to assist you. CLEOPATRA. I have none,
+  And none would have:  My love's a noble madness,
+  Which shows the cause deserved it. Moderate sorrow
+  Fits vulgar love, and for a vulgar man:
+  But I have loved with such transcendent passion,
+  I soared, at first, quite out of reason's view,
+  And now am lost above it. No, I'm proud
+  'Tis thus:  Would Antony could see me now
+  Think you he would not sigh, though he must leave me? Sure he would sigh; for he is noble-natured,
+  And bears a tender heart:  I know him well. Ah, no, I know him not; I knew him once,
+  But now 'tis past. IRAS. Let it be past with you:
+  Forget him, madam. CLEOPATRA. Never, never, Iras. He once was mine; and once, though now 'tis gone,
+  Leaves a faint image of possession still. ALEXAS. Think him inconstant, cruel, and ungrateful. CLEOPATRA. I cannot:  If I could, those thoughts were vain. Faithless, ungrateful, cruel, though he be,
+  I still must love him. Enter CHARMION
+
+  Now, what news, my Charmion? Will he be kind? and will he not forsake me? Am I to live, or die?--nay, do I live? Or am I dead? for when he gave his answer,
+  Fate took the word, and then I lived or died. CHARMION. I found him, madam--
+
+  CLEOPATRA. A long speech preparing? If thou bring'st comfort, haste, and give it me,
+  For never was more need. IRAS. I know he loves you. CLEOPATRA. Had he been kind, her eyes had told me so,
+  Before her tongue could speak it:  Now she studies,
+  To soften what he said; but give me death,
+  Just as he sent it, Charmion, undisguised,
+  And in the words he spoke. CHARMION. I found him, then,
+  Encompassed round, I think, with iron statues;
+  So mute, so motionless his soldiers stood,
+  While awfully he cast his eyes about,
+  And every leader's hopes or fears surveyed:
+  Methought he looked resolved, and yet not pleased. When he beheld me struggling in the crowd,
+  He blushed, and bade make way. ALEXAS. There's comfort yet. CHARMION. Ventidius fixed his eyes upon my passage
+  Severely, as he meant to frown me back,
+  And sullenly gave place:  I told my message,
+  Just as you gave it, broken and disordered;
+  I numbered in it all your sighs and tears,
+  And while I moved your pitiful request,
+  That you but only begged a last farewell,
+  He fetched an inward groan; and every time
+  I named you, sighed, as if his heart were breaking,
+  But, shunned my eyes, and guiltily looked down:
+  He seemed not now that awful Antony,
+  Who shook and armed assembly with his nod;
+  But, making show as he would rub his eyes,
+  Disguised and blotted out a falling tear. CLEOPATRA. Did he then weep? And was I worth a tear? If what thou hast to say be not as pleasing,
+  Tell me no more, but let me die contented. CHARMION. He bid me say,--He knew himself so well,
+  He could deny you nothing, if he saw you;
+  And therefore--
+
+  CLEOPATRA. Thou wouldst say, he would not see me? CHARMION. And therefore begged you not to use a power,
+  Which he could ill resist; yet he should ever
+  Respect you, as he ought. CLEOPATRA. Is that a word
+  For Antony to use to Cleopatra? O that faint word, RESPECT! how I disdain it! Disdain myself, for loving after it! He should have kept that word for cold Octavia. Respect is for a wife:  Am I that thing,
+  That dull, insipid lump, without desires,
+  And without power to give them? ALEXAS. You misjudge;
+  You see through love, and that deludes your sight;
+  As, what is straight, seems crooked through the water:
+  But I, who bear my reason undisturbed,
+  Can see this Antony, this dreaded man,
+  A fearful slave, who fain would run away,
+  And shuns his master's eyes:  If you pursue him,
+  My life on't, he still drags a chain along. That needs must clog his flight. CLEOPATRA. Could I believe thee!--
+
+  ALEXAS. By every circumstance I know he loves. True, he's hard prest, by interest and by honour;
+  Yet he but doubts, and parleys, and casts out
+  Many a long look for succour. CLEOPATRA. He sends word,
+  He fears to see my face. ALEXAS. And would you more? He shows his weakness who declines the combat,
+  And you must urge your fortune. Could he speak
+  More plainly? To my ears, the message sounds--
+  Come to my rescue, Cleopatra, come;
+  Come, free me from Ventidius; from my tyrant:
+  See me, and give me a pretence to leave him!--
+  I hear his trumpets. This way he must pass. Please you, retire a while; I'll work him first,
+  That he may bend more easy. CLEOPATRA. You shall rule me;
+  But all, I fear, in vain. [Exit with CHARMION and IRAS.] ALEXAS. I fear so too;
+  Though I concealed my thoughts, to make her bold;
+  But 'tis our utmost means, and fate befriend it! [Withdraws.] Enter Lictors with Fasces; one bearing the Eagle; then enter
+       ANTONY with VENTIDIUS, followed by other Commanders
+
+  ANTONY. Octavius is the minion of blind chance,
+  But holds from virtue nothing. VENTIDIUS. Has he courage? ANTONY. But just enough to season him from coward. Oh, 'tis the coldest youth upon a charge,
+  The most deliberate fighter! if he ventures
+  (As in Illyria once, they say, he did,
+  To storm a town), 'tis when he cannot choose;
+  When all the world have fixt their eyes upon him;
+  And then he lives on that for seven years after;
+  But, at a close revenge he never fails. VENTIDIUS. I heard you challenged him. ANTONY. I did, Ventidius. What think'st thou was his answer? 'Twas so tame!--
+  He said, he had more ways than one to die;
+  I had not. VENTIDIUS. Poor! ANTONY. He has more ways than one;
+  But he would choose them all before that one. VENTIDIUS. He first would choose an ague, or a fever. ANTONY. No; it must be an ague, not a fever;
+  He Has not warmth enough to die by that. VENTIDIUS. Or old age and a bed. ANTONY. Ay, there's his choice,
+  He would live, like a lamp, to the last wink,
+  And crawl the utmost verge of life. O Hercules! Why should a man like this,
+  Who dares not trust his fate for one great action,
+  Be all the care of Heaven? Why should he lord it
+  O'er fourscore thousand men, of whom each one
+  Is braver than himself? VENTIDIUS. You conquered for him:
+  Philippi knows it; there you shared with him
+  That empire, which your sword made all your own. ANTONY. Fool that I was, upon my eagle's wings
+  I bore this wren, till I was tired with soaring,
+  And now he mounts above me. Good heavens, is this,--is this the man who braves me? Who bids my age make way? Drives me before him,
+  To the world's ridge, and sweeps me off like rubbish? VENTIDIUS. Sir, we lose time; the troops are mounted all. ANTONY. Then give the word to march:
+  I long to leave this prison of a town,
+  To join thy legions; and, in open field,
+  Once more to show my face. Lead, my deliverer. Enter ALEXAS
+
+  ALEXAS. Great emperor,
+  In mighty arms renowned above mankind,
+  But, in soft pity to the opprest, a god;
+  This message sends the mournful Cleopatra
+  To her departing lord. VENTIDIUS. Smooth sycophant! ALEXAS. A thousand wishes, and ten thousand prayers,
+  Millions of blessings wait you to the wars;
+  Millions of sighs and tears she sends you too,
+  And would have sent
+  As many dear embraces to your arms,
+  As many parting kisses to your lips;
+  But those, she fears, have wearied you already. VENTIDIUS. [aside.] False crocodile! ALEXAS. And yet she begs not now, you would not leave her;
+  That were a wish too mighty for her hopes,
+  Too presuming
+  For her low fortune, and your ebbing love;
+  That were a wish for her more prosperous days,
+  Her blooming beauty, and your growing kindness. ANTONY. [aside.] Well, I must man it out:--What would the queen? ALEXAS. First, to these noble warriors, who attend
+  Your daring courage in the chase of fame,--
+  Too daring, and too dangerous for her quiet,--
+  She humbly recommends all she holds dear,
+  All her own cares and fears,--the care of you. VENTIDIUS. Yes, witness Actium. ANTONY. Let him speak, Ventidius. ALEXAS. You, when his matchless valour bears him forward,
+  With ardour too heroic, on his foes,
+  Fall down, as she would do, before his feet;
+  Lie in his way, and stop the paths of death:
+  Tell him, this god is not invulnerable;
+  That absent Cleopatra bleeds in him;
+  And, that you may remember her petition,
+  She begs you wear these trifles, as a pawn,
+  Which, at your wished return, she will redeem
+       [Gives jewels to the Commanders.] With all the wealth of Egypt:
+  This to the great Ventidius she presents,
+  Whom she can never count her enemy,
+  Because he loves her lord. VENTIDIUS. Tell her, I'll none on't;
+  I'm not ashamed of honest poverty;
+  Not all the diamonds of the east can bribe
+  Ventidius from his faith. I hope to see
+  These and the rest of all her sparkling store,
+  Where they shall more deservingly be placed. ANTONY. And who must wear them then? VENTIDIUS. The wronged Octavia. ANTONY. You might have spared that word. VENTIDIUS. And he that bribe. ANTONY. But have I no remembrance? ALEXAS. Yes, a dear one;
+  Your slave the queen--
+
+  ANTONY. My mistress. ALEXAS. Then your mistress;
+  Your mistress would, she says, have sent her soul,
+  But that you had long since; she humbly begs
+  This ruby bracelet, set with bleeding hearts,
+  The emblems of her own, may bind your arm. [Presenting a bracelet.] VENTIDIUS. Now, my best lord,--in honour's name, I ask you,
+  For manhood's sake, and for your own dear safety,--
+  Touch not these poisoned gifts,
+  Infected by the sender; touch them not;
+  Myriads of bluest plagues lie underneath them,
+  And more than aconite has dipt the silk. ANTONY. Nay, now you grow too cynical, Ventidius:
+  A lady's favours may be worn with honour. What, to refuse her bracelet! On my soul,
+  When I lie pensive in my tent alone,
+  'Twill pass the wakeful hours of winter nights,
+  To tell these pretty beads upon my arm,
+  To count for every one a soft embrace,
+  A melting kiss at such and such a time:
+  And now and then the fury of her love,
+  When----And what harm's in this? ALEXAS. None, none, my lord,
+  But what's to her, that now 'tis past for ever. ANTONY. [going to tie it.] We soldiers are so awkward--help me tie it. ALEXAS. In faith, my lord, we courtiers too are awkward
+  In these affairs:  so are all men indeed:
+  Even I, who am not one. But shall I speak? ANTONY. Yes, freely. ALEXAS. Then, my lord, fair hands alone
+  Are fit to tie it; she, who sent it can. VENTIDIUS. Hell, death! this eunuch pander ruins you. You will not see her? [ALEXAS whispers an ATTENDANT, who goes out.] ANTONY. But to take my leave. VENTIDIUS. Then I have washed an Aethiop. You're undone;
+  Y' are in the toils; y' are taken; y' are destroyed:
+  Her eyes do Caesar's work. ANTONY. You fear too soon. I'm constant to myself:  I know my strength;
+  And yet she shall not think me barbarous neither,
+  Born in the depths of Afric:  I am a Roman,
+  Bred in the rules of soft humanity. A guest, and kindly used, should bid farewell. VENTIDIUS. You do not know
+  How weak you are to her, how much an infant:
+  You are not proof against a smile, or glance:
+  A sigh will quite disarm you. ANTONY. See, she comes! Now you shall find your error.--Gods, I thank you:
+  I formed the danger greater than it was,
+  And now 'tis near, 'tis lessened. VENTIDIUS. Mark the end yet. Enter CLEOPATRA, CHARMION, and IRAS
+
+  ANTONY. Well, madam, we are met. CLEOPATRA. Is this a meeting? Then, we must part? ANTONY. We must. CLEOPATRA. Who says we must? ANTONY. Our own hard fates. CLEOPATRA. We make those fates ourselves. ANTONY. Yes, we have made them; we have loved each other,
+  Into our mutual ruin. CLEOPATRA. The gods have seen my joys with envious eyes;
+  I have no friends in heaven; and all the world,
+  As 'twere the business of mankind to part us,
+  Is armed against my love:  even you yourself
+  Join with the rest; you, you are armed against me. ANTONY. I will be justified in all I do
+  To late posterity, and therefore hear me. If I mix a lie
+  With any truth, reproach me freely with it;
+  Else, favour me with silence. CLEOPATRA. You command me,
+  And I am dumb. VENTIDIUS. I like this well; he shows authority. ANTONY. That I derive my ruin
+  From you alone----
+
+  CLEOPATRA. O heavens! I ruin you! ANTONY. You promised me your silence, and you break it
+  Ere I have scarce begun. CLEOPATRA. Well, I obey you. ANTONY. When I beheld you first, it was in Egypt. Ere Caesar saw your eyes, you gave me love,
+  And were too young to know it; that I settled
+  Your father in his throne, was for your sake;
+  I left the acknowledgment for time to ripen. Caesar stept in, and, with a greedy hand,
+  Plucked the green fruit, ere the first blush of red,
+  Yet cleaving to the bough. He was my lord,
+  And was, beside, too great for me to rival;
+  But, I deserved you first, though he enjoyed you. When, after, I beheld you in Cilicia,
+  An enemy to Rome, I pardoned you. CLEOPATRA. I cleared myself----
+
+  ANTONY. Again you break your promise. I loved you still, and took your weak excuses,
+  Took you into my bosom, stained by Caesar,
+  And not half mine:  I went to Egypt with you,
+  And hid me from the business of the world,
+  Shut out inquiring nations from my sight,
+  To give whole years to you. VENTIDIUS. Yes, to your shame be't spoken. [Aside.] ANTONY. How I loved. Witness, ye days and nights, and all ye hours,
+  That danced away with down upon your feet,
+  As all your business were to count my passion! One day passed by, and nothing saw but love;
+  Another came, and still 'twas only love:
+  The suns were wearied out with looking on,
+  And I untired with loving. I saw you every day, and all the day;
+  And every day was still but as the first,
+  So eager was I still to see you more. VENTIDIUS. 'Tis all too true. ANTONY. Fulvia, my wife, grew jealous,
+  (As she indeed had reason) raised a war
+  In Italy, to call me back. VENTIDIUS. But yet
+  You went not. ANTONY. While within your arms I lay,
+  The world fell mouldering from my hands each hour,
+  And left me scarce a grasp--I thank your love for't. VENTIDIUS. Well pushed:  that last was home. CLEOPATRA. Yet may I speak? ANTONY. If I have urged a falsehood, yes; else, not. Your silence says, I have not. Fulvia died,
+  (Pardon, you gods, with my unkindness died);
+  To set the world at peace, I took Octavia,
+  This Caesar's sister; in her pride of youth,
+  And flower of beauty, did I wed that lady,
+  Whom blushing I must praise, because I left her. You called; my love obeyed the fatal summons:
+  This raised the Roman arms; the cause was yours. I would have fought by land, where I was stronger;
+  You hindered it:  yet, when I fought at sea,
+  Forsook me fighting; and (O stain to honour! O lasting shame!) I knew not that I fled;
+  But fled to follow you. VENTIDIUS. What haste she made to hoist her purple sails! And, to appear magnificent in flight,
+  Drew half our strength away. ANTONY. All this you caused. And, would you multiply more ruins on me? This honest man, my best, my only friend,
+  Has gathered up the shipwreck of my fortunes;
+  Twelve legions I have left, my last recruits. And you have watched the news, and bring your eyes
+  To seize them too. If you have aught to answer,
+  Now speak, you have free leave. ALEXAS. [aside.] She stands confounded:
+  Despair is in her eyes. VENTIDIUS. Now lay a sigh in the way to stop his passage:
+  Prepare a tear, and bid it for his legions;
+  'Tis like they shall be sold. CLEOPATRA. How shall I plead my cause, when you, my judge,
+  Already have condemned me? Shall I bring
+  The love you bore me for my advocate? That now is turned against me, that destroys me;
+  For love, once past, is, at the best, forgotten;
+  But oftener sours to hate:  'twill please my lord
+  To ruin me, and therefore I'll be guilty. But, could I once have thought it would have pleased you,
+  That you would pry, with narrow searching eyes,
+  Into my faults, severe to my destruction,
+  And watching all advantages with care,
+  That serve to make me wretched? Speak, my lord,
+  For I end here. Though I deserved this usage,
+  Was it like you to give it? ANTONY. Oh, you wrong me,
+  To think I sought this parting, or desired
+  To accuse you more than what will clear myself,
+  And justify this breach. CLEOPATRA. Thus low I thank you;
+  And, since my innocence will not offend,
+  I shall not blush to own it. VENTIDIUS. After this,
+  I think she'll blush at nothing. CLEOPATRA. You seem grieved
+  (And therein you are kind) that Caesar first
+  Enjoyed my love, though you deserved it better:
+  I grieve for that, my lord, much more than you;
+  For, had I first been yours, it would have saved
+  My second choice:  I never had been his,
+  And ne'er had been but yours. But Caesar first,
+  You say, possessed my love. Not so, my lord:
+  He first possessed my person; you, my love:
+  Caesar loved me; but I loved Antony. If I endured him after, 'twas because
+  I judged it due to the first name of men;
+  And, half constrained, I gave, as to a tyrant,
+  What he would take by force. VENTIDIUS. O Syren! Syren! Yet grant that all the love she boasts were true,
+  Has she not ruined you? I still urge that,
+  The fatal consequence. CLEOPATRA. The consequence indeed--
+  For I dare challenge him, my greatest foe,
+  To say it was designed:  'tis true, I loved you,
+  And kept you far from an uneasy wife,--
+  Such Fulvia was. Yes, but he'll say, you left Octavia for me;--
+  And, can you blame me to receive that love,
+  Which quitted such desert, for worthless me? How often have I wished some other Caesar,
+  Great as the first, and as the second young,
+  Would court my love, to be refused for you! VENTIDIUS. Words, words; but Actium, sir; remember Actium. CLEOPATRA. Even there, I dare his malice. True, I counselled
+  To fight at sea; but I betrayed you not. I fled, but not to the enemy. 'Twas fear;
+  Would I had been a man, not to have feared! For none would then have envied me your friendship,
+  Who envy me your love. ANTONY. We are both unhappy:
+  If nothing else, yet our ill fortune parts us. Speak; would you have me perish by my stay? CLEOPATRA. If, as a friend, you ask my judgment, go;
+  If, as a lover, stay. If you must perish--
+  'Tis a hard word--but stay. VENTIDIUS. See now the effects of her so boasted love! She strives to drag you down to ruin with her;
+  But, could she 'scape without you, oh, how soon
+  Would she let go her hold, and haste to shore,
+  And never look behind! CLEOPATRA. Then judge my love by this. [Giving ANTONY a writing.] Could I have borne
+  A life or death, a happiness or woe,
+  From yours divided, this had given me means. ANTONY. By Hercules, the writing of Octavius! I know it well:  'tis that proscribing hand,
+  Young as it was, that led the way to mine,
+  And left me but the second place in murder.--
+  See, see, Ventidius! here he offers Egypt,
+  And joins all Syria to it, as a present;
+  So, in requital, she forsake my fortunes,
+  And join her arms with his. CLEOPATRA. And yet you leave me! You leave me, Antony; and yet I love you,
+  Indeed I do:  I have refused a kingdom;
+  That is a trifle;
+  For I could part with life, with anything,
+  But only you. Oh, let me die but with you! Is that a hard request? ANTONY. Next living with you,
+  'Tis all that Heaven can give. ALEXAS. He melts; we conquer. [Aside.] CLEOPATRA. No; you shall go:  your interest calls you hence;
+  Yes; your dear interest pulls too strong, for these
+  Weak arms to hold you here. [Takes his hand.] Go; leave me, soldier
+  (For you're no more a lover):  leave me dying:
+  Push me, all pale and panting, from your bosom,
+  And, when your march begins, let one run after,
+  Breathless almost for joy, and cry--She's dead. The soldiers shout; you then, perhaps, may sigh,
+  And muster all your Roman gravity:
+  Ventidius chides; and straight your brow clears up,
+  As I had never been. ANTONY. Gods, 'tis too much; too much for man to bear. CLEOPATRA. What is't for me then,
+  A weak, forsaken woman, and a lover?--
+  Here let me breathe my last:  envy me not
+  This minute in your arms:  I'll die apace,
+  As fast as e'er I can, and end your trouble. ANTONY. Die! rather let me perish; loosened nature
+  Leap from its hinges, sink the props of heaven,
+  And fall the skies, to crush the nether world! My eyes, my soul, my all! [Embraces her.] VENTIDIUS. And what's this toy,
+  In balance with your fortune, honour, fame? ANTONY. What is't, Ventidius?--it outweighs them all;
+  Why, we have more than conquered Caesar now:
+  My queen's not only innocent, but loves me. This, this is she, who drags me down to ruin! "But, could she 'scape without me, with what haste
+  Would she let slip her hold, and make to shore,
+  And never look behind!" Down on thy knees, blasphemer as thou art,
+  And ask forgiveness of wronged innocence. VENTIDIUS. I'll rather die, than take it. Will you go? ANTONY. Go! whither? Go from all that's excellent? Faith, honour, virtue, all good things forbid,
+  That I should go from her, who sets my love
+  Above the price of kingdoms! Give, you gods,
+  Give to your boy, your Caesar,
+  This rattle of a globe to play withal,
+  This gewgaw world, and put him cheaply off:
+  I'll not be pleased with less than Cleopatra. CLEOPATRA. She's wholly yours. My heart's so full of joy,
+  That I shall do some wild extravagance
+  Of love, in public; and the foolish world,
+  Which knows not tenderness, will think me mad. VENTIDIUS. 

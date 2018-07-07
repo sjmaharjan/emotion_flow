@@ -1,0 +1,4070 @@
+
+
+
+
+Produced by Louise Hope, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+         The Augustan Reprint Society
+
+
+               SUSANNA CENTLIVRE
+               _THE BUSIE BODY_
+                    (1709)
+
+            With an Introduction by
+                   Jess Byrd
+
+
+             Publication Number 19
+               (Series V, No. 3)
+
+
+
+
+                  Los Angeles
+    William Andrews Clark Memorial Library
+           University of California
+                     1949
+
+
+       *       *       *       *       *
+
+_GENERAL EDITORS_
+
+
+H. RICHARD ARCHER, _Clark Memorial Library_
+RICHARD C. BOYS, _University of Michigan_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+_ASSISTANT EDITOR_
+
+W. EARL BRITTON, _University of Michigan_
+
+
+_ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _University of Nebraska_
+LOUIS I. BREDVOLD, _University of Michigan_
+CLEANTH BROOKS, _Yale University_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_
+ERNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _Queen Mary College, London_
+
+       *       *       *       *       *
+
+
+INTRODUCTION
+
+
+Susanna Centlivre (1667?-1723) in _The Busie Body_ (1709) contributed
+to the stage one of the most successful comedies of intrigue of the
+eighteenth and nineteenth centuries. This play, written when there was a
+decided trend in England toward sentimental drama, shows Mrs. Centlivre
+a strong supporter of laughing comedy. She had turned for a time to
+sentimental comedy and with one of her three sentimental plays, _The
+Gamester_ (1704), had achieved a great success. But her true bent seems
+to have been toward realistic comedies, chiefly of intrigue: of her
+nineteen plays written from 1700 to 1723, ten are realistic comedies.
+Three of these proved very popular in her time and enjoyed a long stage
+history: _The Busie Body_ (1709); _The Wonder: A Woman Keeps a Secret_
+(1714); and _A Bold Stroke for a Wife_ (1717). _The Busie Body_ best
+illustrates Mrs. Centlivre's preference for laughing comedy with an
+improved moral tone. The characters and the plot are amusing but
+inoffensive, and, compared to those of Restoration drama, satisfy the
+desire of the growing eighteenth-century middle-class audience for
+respectability on the stage.
+
+The theory of comedy on which _The Busie Body_ rests is a traditional
+one, but Mrs. Centlivre's simple pronouncements on the virtues of
+realistic over sentimental comedy are interesting because of the
+controversy on this subject among critics and writers at this time. In
+the preface to her first play, _The Perjur'd Husband_ (1700), she takes
+issue with Jeremy Collier on the charge of immorality in realistic
+plays. The stage, she believes, should present characters as they are;
+it is unreasonable to expect a "Person, whose inclinations are always
+forming Projects to the Dishonor of her Husband, should deliver her
+Commands to her Confident in the Words of a Psalm." In a letter written
+in 1700 she says: "I think the main design of Comedy is to make us
+laugh." (Abel Boyer, _Letters of Wit, Politicks, and Morality_, London,
+1701, p. 362). But, she adds, since Collier has taught religion to the
+"Rhiming Trade, the Comick Muse in Tragick Posture sat" until she
+discovered Farquhar, whose language is amusing but decorous and whose
+plots are virtuous. This insistence on decorum and virtue indicates a
+concession to Collier and to the public. Thus in the preface to _Love's
+Contrivance_ (1703), she reiterates her belief that comedy should amuse
+but adds that she strove for a "modest stile" which might not "disoblige
+the nicest ear." This modest style, not practiced in early plays, is
+achieved admirably in _The Busie Body_. Yet, as she says in the
+epilogue, she has not followed the critics who balk the pleasure of
+the audience to refine their taste; her play will with "good humour,
+pleasure crown the Night." In dialogue, in plot, and particularly in
+the character of the amusing but inoffensive Marplot, she fulfills her
+simple theory of comedy designed not for reform but for laughter.
+
+Mrs. Centlivre followed the practices of her contemporaries in borrowing
+the plot for _The Busie Body_. The three sources for the play are: _The
+Devil Is an Ass_ (1616) by Jonson; _L'Etourdi_ (1658) by Moliere; and
+_Sir Martin Mar-all or The Feigned Innocence_ (1667) by Dryden. From
+_The Devil Is an Ass_, Mrs. Centlivre borrowed minor details and two
+episodes, one of them the amusing dumb scene. This scene, though a close
+imitation, seems more amusing in _The Busie Body_ than in Jonson's play,
+perhaps because the characters, especially Sir Francis Gripe and
+Miranda, are more credible and more fully portrayed. From the second
+source for _The Busie Body_, Moliere's _L'Etourdi_, I believe Mrs.
+Centlivre borrowed the framework for her parallel plots, the theme of
+Marplot's blundering, and the name and general character of Marplot. But
+she has improved what she borrowed. She places in Moliere's framework
+more credible women characters than his, especially in the charming
+Miranda and the crafty Patch; she constructs a more skillful intrigue
+plot for the stage than his subplot and emphasizes Spanish customs in
+the lively Charles-Isabinda-Traffick plot. Mrs. Centlivre concentrates
+on Marplot's blundering, whereas Moliere concentrates on the servant
+Mascarille's schemes. Marplot's funniest blunder, in the "monkey" scene,
+is entirely original as far as I know (IV, iv). But her greatest change
+is in the character of Marplot, who in her hands becomes not so much
+stupid as human and irresistibly ludicrous. Mrs. Centlivre's style is
+of course inferior to that of Moliere. In the preface to _Love's
+Contrivance_ (1703), in speaking of borrowings from Moliere, she said
+that borrowers "must take care to touch the Colors with an English
+Pencil, and form the Piece according to our Manners." Of course her
+touching the "Colors with an English Pencil" meant changing the style
+of Moliere to suit the less delicate taste of the middle-class English
+audience.
+
+A third source for _The Busie Body_ is Dryden's _Sir Martin Mar-all_
+(1667). Since Dryden followed Moliere with considerable exactness, it
+would be difficult to prove beyond doubt that Mrs. Centlivre borrowed
+from Moliere rather than from Dryden. Yet I believe, after a careful
+analysis of the plays, that she borrowed from Moliere. She made of _The
+Busie Body_ a comedy of intrigue based on the theme and plot used by
+both Moliere and Dryden, but she omitted the scandalous Restoration
+third plot which Dryden had added to Moliere. Her characters are English
+in speech and action, but they lack the coarseness apparent in Dryden's
+_Sir Martin Mar-all_. Though it is impossible to prove the exact sources
+of Mrs. Centlivre's borrowings, there is no doubt that she has improved
+what she borrowed.
+
+Whatever the truth may be about Mrs. Centlivre's use of her sources, her
+play remained in the repertory of acting plays long after _L'Etourdi_
+and _Sir Martin Mar-all_ had disappeared. _The Busie Body_ opened at the
+Drury Lane Theater on May 12, 1709. Steele, who listed the play in _The
+Tatler_ for May 14, 1709, does not mention the length of the run. Thomas
+Whincop says that the play ran thirteen nights (_Scanderbeg_, London,
+1747, p. 190), but Genest says the play had an opening run of seven
+nights (_Some Account of the English Stage from the Restoration in 1660
+to 1830_, II, 419). The play remained popular throughout the eighteenth
+and nineteenth centuries. Genest lists it as being presented in
+twenty-three seasons from 1709 to 1800. It was certainly presented much
+more frequently than this record shows, for Dougald MacMillan in _The
+Drury Lane Calendar_ lists fifty-three performances from 1747-1776,
+whereas Genest records two performances in this period. The greatest
+number of performances in any season was fourteen in 1758-59, the year
+David Garrick appeared in the play. From the records available _The
+Busie Body_ seems to have reached its greatest popularity in England
+in the middle and late eighteenth century and the early part of the
+nineteenth century. William Hazlitt, in the "Prefatory Remarks" to the
+Oxberry acting edition of 1819, says _The Busie Body_ has been acted a
+"thousand times in town and country, giving delight to the old, the
+young, and the middle-aged."
+
+_The Busie Body_ enjoyed a similar place of importance in the stage
+history of America but achieved its greatest popularity, in New York
+at least, in the nineteenth century. First performed in Williamsburg
+on September 10, 1736, the play was presented fifteen times in New
+York in the eighteenth century. In the nineteenth century forty-five
+performances were given in New York in sixteen seasons from 1803 to 1885
+(George Odell, _Annals of the New York Stage_). _The Busie Body_ is
+frequently cited with _The Rivals_ and _The School for Scandal_ for
+opening seasons and for long runs by great actors.
+
+The text here reproduced is from a copy of the first edition now in the
+library of the University of Michigan.
+
+        _Jess Byrd_
+        _Salem College_
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+                      THE
+                  BUSIE BODY:
+
+                       A
+                    COMEDY.
+
+             As it is Acted at the
+                 THEATRE-ROYAL
+                      in
+                 _DRURY-LANE_,
+
+           By Her Majesty's Servants.
+
+       Written by Mrs. SUSANNA CENTLIVRE.
+
+
+    Quem tulit ad scenam ventoso Gloria curru,
+    Exanimat lentus Spectator, sedulus inflat.
+    Sic Leve, sic parvum est, animum quod laudis avarum
+    Subruit aut reficit--
+
+                         Horat. Epist. Lib. II. Ep. 1.
+
+
+                   _LONDON_,
+
+Printed for BERNARD LINTOTT, at the _Cross-Keys_
+between the Two _Temple-Gates_ in _Fleet-street_.
+
+       *       *       *       *       *
+
+                     To The
+                RIGHT HONOURABLE
+
+             _JOHN_ Lord _SOMMERS_,
+
+      Lord-President of Her HAJESTY's most
+           Honourable Privy-Council.
+
+
+_May it please Your Lordship,_
+
+As it's an Establish'd Custom in these latter Ages, for all Writers,
+particularly the Poetical, to shelter their Productions under the
+Protection of the most Distinguish'd, whose Approbation produces a kind
+of Inspiration, much superior to that which the _Heathenish_ Poets
+pretended to derive from their Fictitious _Apollo_: So it was my
+Ambition to Address one of my weak Performances to Your Lordship, who,
+by Universal Consent, are justly allow'd to be the best Judge of all
+kinds of Writing.
+
+I was indeed at first deterr'd from my Design, by a Thought that it
+might be accounted unpardonable Rudeness to obtrude a Trifle of this
+Nature to a Person, whose sublime Wisdom moderates that Council, which
+at this Critical Juncture, over-rules the Fate of all _Europe_. But then
+I was encourag'd by Reflecting, that _Lelius_ and _Scipio_, the two
+greatest Men in their Time, among the _Romans_, both for Political and
+Military Virtues, in the height of their important Affairs, thought
+the Perusal and Improving of _Terence_'s Comedies the noblest way of
+Unbinding their Minds. I own I were guilty of the highest Vanity, should
+I presume to put my Composures in Parallel with those of that Celebrated
+_Dramatist_. But then again, I hope that Your Lordship's native Goodness
+and Generosity, in Condescension to the Taste of the Best and Fairest
+part of the Town, who have been pleas'd to be diverted by the following
+SCENES, will excuse and overlook such Faults as your nicer Judgment
+might discern.
+
+And here, my Lord, the Occasion seems fair for me to engage in a
+Panegyrick upon those Natural and Acquired Abilities, which so brightly
+Adorn your Person: But I shall resist that Temptation, being conscious
+of the Inequality of a Female Pen to so Masculine an Attempt; and having
+no other Ambition, than to Subscribe my self,
+
+    My Lord,
+      Your Lordship's
+        Most Humble and
+          Most Obedient Servant,
+
+    SUSANNA CENTLIVRE.
+
+
+
+
+PROLOGUE.
+
+By the Author of TUNBRIDGE-WALKS.
+
+
+Tho' modern Prophets were expos'd of late,
+The Author cou'd not Prophesie his Fate;
+If with such Scenes an Audience had been Fir'd,
+The Poet must have really been Inspir'd.
+But these, alas! are Melancholy Days
+For Modern Prophets, and for Modern Plays.
+Yet since Prophetick Lyes please Fools o'Fashion,
+And Women are so fond of Agitation;
+To Men of Sense, I'll Prophesie anew,
+And tell you wond'rous things, that will prove true:
+_Undaunted Collonels will to Camps repair,_
+_Assur'd, there'll be no Skirmishes this Year;_
+On our own Terms will flow the wish'd-for Peace,
+All Wars, except 'twixt Man and Wife, will cease.
+The Grand Monarch may wish his Son a Throne,
+But hardly will advance to lose his own.
+This Season most things bear a smiling Face;
+But Play'rs in Summer have a dismal Case,
+Since your Appearance only is our Act of Grace.
+Court Ladies will to Country Seats be gone,
+My Lord can't all the Year live Great in Town,
+Where wanting _Opera's_, _Basset_, and a _Play_,
+They'll Sigh and stitch a Gown, to pass the time away.
+Gay City-Wives at _Tunbridge_ will appear,
+Whose Husbands long have laboured for an Heir;
+Where many a Courtier may their Wants relieve,
+But by the Waters only they Conceive.
+The _Fleet-street_ Sempstress--Toast of _Temple_ Sparks,
+That runs Spruce Neckcloths for Attorney's Clerks;
+At _Cupid_'s _Gardens_ will her Hours regale,
+Sing fair _Dorinda_, and drink Bottl'd Ale.
+At all Assemblies, Rakes are up and down,
+And Gamesters, where they think they are not known.
+  Shou'd I denounce our Author's fate to Day,
+To cry down Prophecies, you'd damn the Play:
+Yet Whims like these have sometimes made you Laugh;
+'Tis Tattling all, like _Isaac Bickerstaff_.
+  Since War, and Places claim the Bards that write,
+Be kind, and bear a Woman's Treat to-Night;
+Let your Indulgence all her Fears allay,
+And none but Woman-Haters damn this Play.
+
+
+
+
+EPILOGUE.
+
+
+In me you see one _Busie-Body_ more;
+Tho' you may have enough of one before.
+With Epilogues, the _Busie-Body_'s Way,
+We strive to help; but sometimes mar a Play.
+At this mad Sessions, half condemn'd e'er try'd,
+Some, in three Days, have been turn'd off, and dy'd,
+In spight of Parties, their Attempts are vain,
+For like false Prophets, they ne'er rise again.
+Too late, when cast, your Favour one beseeches,
+And Epilogues prove Execution Speeches.
+Yet sure I spy no _Busie-Bodies_ here;
+And one may pass, since they do ev'ry where.
+Sowr Criticks, Time and Breath, and Censures waste,
+And baulk your Pleasure to refine your Taste.
+One busie Don ill-tim'd high Tenets Preaches,
+Another yearly shows himself in Speeches.
+Some snivling Cits, wou'd have a Peace for spight,
+To starve those Warriours who so bravely fight.
+Still of a Foe upon his Knees affraid;
+Whose well-hang'd Troops want Money, Heart, and Bread.
+Old Beaux, who none not ev'n themselves can please,
+Are busie still; for nothing--but to teize
+The Young, so busie to engage a Heart,
+The Mischief done, are busie most to part.
+Ungrateful Wretches, who still cross ones Will,
+When they more kindly might be busie still!
+One to a Husband, who ne'er dreamt of Horns,
+Shows how dear Spouse, with Friend his Brows adorns.
+Th' Officious Tell-tale Fool, (he shou'd repent it.)
+Parts three kind Souls that liv'd at Peace contented,
+Some with Law Quirks set _Houses_ by the Ears;
+With Physick one what he wou'd heal impairs.
+Like that dark Mob'd up Fry, that neighb'ring Curse,
+Who to remove Love's Pain, bestow a worse.
+Since then this meddling Tribe infest the Age,
+Bear one a while, expos'd upon the Stage.
+Let none but _Busie-Bodies_ vent their Spight!
+And with good Humour, Pleasure crown the Night!_
+
+
+
+
+Dramatis Personae.
+
+Men.
+
+Sir _George Airy_. A Gentleman of Four Thousand a Year
+in Love with _Miranda_.
+    Acted by Mr. _Wilks_.
+
+Sir _Francis Gripe_. Guardian to _Miranda_ and _Marplot_,
+Father to _Charles_, in Love with _Miranda_.
+    Mr. _Estcourt_.
+
+_Charles_. Friend to _Sir George_, in Love with _Isabinda_.
+    Mr. _Mills_.
+
+Sir _Jealous Traffick_. A Merchant that had liv'd sometime
+in _Spain_, a great Admirer of the _Spanish_ Customs,
+Father to _Isabinda_.
+    Mr. _Bullock_.
+
+_Marplot_. A sort of a silly Fellow, Cowardly, but very
+Inquisitive to know every Body's Business, generally spoils
+all he undertakes, yet without Design.
+    Mr. _Pack_.
+
+_Whisper_. Servant to _Charles_.
+    Mr. _Bullock_ jun.
+
+
+Women.
+
+_Miranda_. An Heiress, worth Thirty Thousand Pound, really
+in Love with Sir _George_, but pretends to be so with her
+Guardian Sir _Francis_.
+    Mrs. _Cross_.
+
+_Isabinda_. Daughter to Sir _Jealous_, in Love with _Charles_,
+but design'd for a _Spanish_ Merchant by her Father, and kept
+up from the sight of all Men.
+    Mrs. _Rogers_.
+
+_Patch_. Her Woman.
+    Mrs. _Saunders_.
+
+_Scentwell_. Woman to _Miranda_.
+    Mrs. _Mills_.
+
+
+[Transcriber's Note:
+The scenes within each Act are not numbered. Their descriptions are
+listed here for convenience:
+
+ACT I   [scene i]   The Park
+ACT II  [scene i]   [Sir Francis Gripe's house]
+        [scene ii]  Sir Jealous Traffick's House
+        [scene iii] Charles's Lodging
+ACT III [scene i]   [outside Sir Jealous Traffick's house]
+        [scene ii]  the Street
+        [scene iii] Sir Francis Gripe's House
+        [scene iv]  a Tavern
+ACT IV  [scene i]   the Out-side of Sir Jealous Traffick's House
+        [scene ii]  Isabinda's Chamber
+        [scene iii] a Garden Gate open
+        [scene iv]  the House [of Sir Jealous Traffick]
+ACT V   [scene i]   [Sir Francis Gripe's house]
+        [scene ii]  the Street before Sir _Jealous_'s Door
+        [scene iii] Inside the House [of Sir Jealous Traffick] ]
+
+
+                      THE
+                  BUSIE BODY.
+
+
+           ACT I. SCENE _The Park_.
+
+      Sir _George Airy_ meeting _Charles_.
+
+
+_Cha._ Ha! Sir _George Airy!_ A Birding thus early, what forbidden Game
+rouz'd you so soon? For no lawful Occasion cou'd invite a Person of your
+Figure abroad at such unfashionable Hours.
+
+Sir _Geo._ There are some Men, _Charles_, whom Fortune has left free
+from Inquietudes, who are diligently Studious to find out Ways and Means
+to make themselves uneasie.
+
+_Cha._ Is it possible that any thing in Nature can ruffle the Temper of
+a Man, whom the four Seasons of the Year compliment with as many
+Thousand Pounds, nay! and a Father at Rest with his Ancestors.
+
+Sir _Geo._ Why there 'tis now! a Man that wants Money thinks none can be
+unhappy that has it; but my Affairs are in such a whimsical Posture,
+that it will require a Calculation of my Nativity to find if my Gold
+will relieve me or not.
+
+_Cha._ Ha, ha, ha, never consult the Stars about that; Gold has a Power
+beyond them; Gold unlocks the Midnight Councils; Gold out-does the Wind,
+becalms the Ship, or fills her Sails; Gold is omnipotent below; it makes
+whole Armies fight, or fly; It buys even Souls, and bribes the Wretches
+to betray their Country: Then what can thy Business be, that Gold won't
+serve thee in?
+
+Sir _Geo._ Why, I'm in Love.
+
+_Cha._ In Love--Ha, ha, ha, ha; In Love, Ha, ha, ha, with what, prithee,
+a _Cherubin!_
+
+Sir _Geo._ No, with a Woman.
+
+_Cha._ A Woman, Good, Ha, ha, ha, and Gold not help thee?
+
+Sir _Geo._ But suppose I'm in Love with two--
+
+_Cha._ Ay, if thou'rt in Love with two hundred, Gold will fetch 'em, I
+warrant thee, Boy. But who are they? who are they? come.
+
+Sir _Geo._ One is a Lady, whose Face I never saw, but Witty as an Angel;
+the other Beautiful as _Venus_--
+
+_Cha._ And a Fool--
+
+Sir _Geo._ For ought I know, for I never spoke to her, but you can
+inform me; I am charm'd by the Wit of One, and dye for the Beauty of the
+Other?
+
+_Cha._ And pray, which are you in Quest of now?
+
+Sir _Geo._ I prefer the Sensual Pleasure, I'm for her I've seen, who is
+thy Father's Ward _Miranda_.
+
+_Cha._ Nay then, I pity you; for the Jew my Father will no more part
+with her, and 30000 Pound, than he wou'd with a Guinea to keep me from
+starving.
+
+Sir _Geo._ Now you see Gold can't do every thing, _Charles_.
+
+_Cha._ Yes, for 'tis her Gold that bars my Father's Gate against you.
+
+Sir _Geo._ Why, if he is this avaricious Wretch, how cam'st thou by such
+a Liberal Education?
+
+_Cha._ Not a Souse out of his Pocket, I assure you; I had an Uncle who
+defray'd that Charge, but for some litte Wildnesses of Youth, tho' he
+made me his Heir, left Dad my Guardian till I came to Years of
+Discretion, which I presume the old Gentleman will never think I am; and
+now he has got the Estate into his Clutches, it does me no more good,
+than if it lay in _Prester John_'s Dominions.
+
+Sir _Geo._ What can'st thou find no Stratagem to redeem it?
+
+_Cha._ I have made many Essays to no purpose; tho' Want, the Mistress of
+Invention, still tempts me on, yet still the old Fox is too cunning for
+me--I am upon my last Project, which if it fails, then for my last
+Refuge, a Brown Musquet.
+
+Sir _Geo._ What is't, can I assist thee?
+
+_Cha._ Not yet, when you can, I have Confidence enough in you to ask it.
+
+Sir _Geo._ I am always ready, but what do's he intend to do with
+_Miranda?_ Is she to be sold in private? or will he put her up by way of
+Auction, at who bids most? If so, Egad, I'm for him: my Gold, as you
+say, shall be subservient to my Pleasure.
+
+_Cha._ To deal ingeniously with you, Sir _George_, I know very little of
+Her, or Home; for since my Uncle's Death, and my Return from Travel, I
+have never been well with my Father; he thinks my Expences too great,
+and I his Allowance too little; he never sees me, but he quarrels; and
+to avoid that, I shun his House as much as possible. The Report is, he
+intends to marry her himself.
+
+Sir _Geo._ Can she consent to it?
+
+_Cha._ Yes faith, so they say; but I tell you, I am wholly ignorant of
+the matter. _Miranda_ and I are like two violent Members of a contrary
+Party, I can scarce allow her Beauty, tho' all the World do's; nor she
+me Civility, for that Contempt, I fancy she plays the Mother-in-law
+already, and sets the old Gentleman on to do mischief.
+
+Sir _Geo._ Then I've your free Consent to get her.
+
+_Cha._ Ay and my helping-hand, if occasion be.
+
+Sir _Geo._ Pugh, yonder's a Fool coming this way, let's avoid him.
+
+_Cha._ What _Marplot_, no no, he's my Instrument; there's a thousand
+Conveniences in him, he'll lend me his Money when he has any, run of my
+Errands and be proud on't; in short, he'll Pimp for me, Lye for me,
+Drink for me, do any thing but Fight for me, and that I trust to my own
+Arm for.
+
+Sir _Geo._ Nay then he's to be endur'd; I never knew his Qualifications
+before.
+
+  _Enter _Marplot_ with a Patch cross his Face._
+
+_Marpl._ Dear _Charles_, your's,--Ha! Sir _George Airy_, the Man in the
+World, I have an Ambition to be known to (_aside_.) Give me thy Hand,
+dear Boy--
+
+_Cha._ A good Assurance! But heark ye, how came your Beautiful
+Countenance clouded in the wrong place?
+
+_Marpl._ I must confess 'tis a little _Mal-a-propos_, but no matter for
+that; a Word with you, _Charles_; Prithee, introduce me to Sir
+_George_--he is a Man of Wit, and I'd give ten Guinea's to--
+
+_Cha._ When you have 'em, you mean.
+
+_Marpl._ Ay, when I have 'em; pugh, pox, you cut the Thread of my
+Discourse--I wou'd give ten Guinea's, I say, to be rank'd in his
+Acquaintance: Well, 'tis a vast Addition to a Man's Fortune, according
+to the Rout of the World, to be seen in the Company of Leading Men; for
+then we are all thought to be Politicians, or Whigs, or Jacks, or
+High-Flyers, or Low-Flyers, or Levellers--and so forth; for you must
+know, we all herd in Parties now.
+
+_Cha._ Then a Fool for Diversion is out of Fashion, I find.
+
+_Marpl._ Yes, without it be a mimicking Fool, and they are Darlings
+every where; but prithee introduce me.
+
+_Cha._ Well, on Condition you'll give us a true Account how you came by
+that Mourning Nose, I will.
+
+_Marpl._ I'll do it.
+
+_Cha._ Sir _George_, here's a Gentleman has a passionate Desire to kiss
+your Hand.
+
+Sir _Geo._ Oh, I honour Men of the Sword, and I presume this Gentleman
+is lately come from _Spain_ or _Portugal_--by his Scars.
+
+_Marpl._ No really, Sir _George_, mine sprung from civil Fury, happening
+last Night into the Groom-Porters--I had a strong Inclination to go ten
+Guineas with a sort of a, sort of a--kind of a Milk Sop, as I thought: A
+Pox of the Dice he flung out, and my Pockets being empty as _Charles_
+knows they sometimes are, he prov'd a surly _North-Britain_, and broke
+my Face for my Deficiency.
+
+Sir _Geo._ Ha! ha! and did not you draw?
+
+_Marpl._ Draw, Sir, why, I did but lay my Hand upon my Sword to make a
+swift Retreat, and he roar'd out. Now the Deel a Ma sol, Sir, gin ye
+touch yer Steel, Ise whip mine through yer Wem.
+
+Sir _Geo._ Ha, ha, ha,
+
+_Cha._ Ha, ha, ha, ha, fase was the Word, so you walk'd off, I suppose.
+
+_Marp._ Yes, for I avoid fighting, purely to be serviceable to my
+Friends you know--
+
+Sir _Geo._ Your Friends are much oblig'd to you, Sir, I hope you'll rank
+me in that Number.
+
+_Marpl._ Sir _George_, a Bow from the side Box, or to be seen in your
+Chariot, binds me ever yours.
+
+Sir _Geo._ Trifles, you may command 'em when you please.
+
+_Cha._ Provided he may command you--
+
+_Marpl._ Me! why I live for no other purpose--Sir _George_, I have the
+Honour to be carest by most of the reigning Toasts of the Town, I'll
+tell 'em you are the finest Gentleman--
+
+Sir _Geo._ No, no, prithee let me alone to tell the Ladies--my
+Parts--can you convey a Letter upon Occasion, or deliver a Message with
+an Air of Business, Ha!
+
+_Marpl._ With the Assurance of a Page and the Gravity of a Statesman.
+
+Sir _Geo._ You know _Miranda!_
+
+_Marpl._ What, my Sister _Ward?_ Why, her Guardian is mine, we are
+Fellow Sufferers: Ah! he is a covetous, cheating, sanctify'd Curmudgeon;
+that Sir _Francis Gripe_ is a damn'd old--
+
+_Char._ I suppose, Friend, you forget that he is my Father--
+
+_Marpl._ I ask your Pardon, _Charles_, but it is for your sake I hate
+him. Well, I say, the World is mistaken in him, his Out-side Piety,
+makes him every Man's Executor, and his Inside Cunning, makes him every
+Heir's Jaylor. Egad, _Charles_, I'm half persuaded that thou'rt some
+_Ward_ too, and never of his getting: For thou art as honest a Debauchee
+as ever Cuckolded Man of Quality.
+
+Sir _Geo._ A pleasant Fellow.
+
+_Cha._ The Dog is Diverting sometimes, or there wou'd be no enduring his
+Impertinence: He is pressing to be employ'd and willing to execute, but
+some ill Fate generally attends all he undertakes, and he oftner spoils
+an Intreague than helps it--
+
+_Marpl._ If I miscarry 'tis none of my Fault, I follow my Instructions.
+
+_Cha._ Yes, witness the Merchant's Wife.
+
+_Marpl._ Pish, Pox, that was an Accident.
+
+Sir _Geo._ What was it, prithee?
+
+_Ch._ Why, you must know, I had lent a certain Merchant my hunting
+Horses, and was to have met his Wife in his Absence: Sending him along
+with my Groom to make the Complement, and to deliver a Letter to the
+Lady at the same time; what does he do, but gives the Husband the
+Letter, and offers her the Horses.
+
+_Marpl._ I remember you was even with me, for you deny'd the Letter to
+be yours, and swore I had a design upon her, which my Bones paid for.
+
+_Cha._ Come, Sir _George_, let's walk round, if you are not ingag'd, for
+I have sent my Man upon a little earnest Business, and have order'd him
+to bring me the Answer into the Park.
+
+_Marpl._ Business, and I not know it, Egad I'll watch him.
+
+Sir _Geo._ I must beg your Pardon, _Charles_, I am to meet your Father
+here.
+
+_Ch._ My Father!
+
+Sir _Geo._ Aye! and about the oddest Bargain perhaps you ever heard off;
+but I'll not impart till I know the Success.
+
+_Marpl._ What can his Business be with Sir _Francis?_ Now wou'd I give
+all the World to know it; why the Devil should not one know every Man's
+Concern.
+    (_Aside_.
+
+_Cha._ Prosperity to't whate'er it be, I have private Affairs too; over
+a Bottle we'll compare Notes.
+
+_Marpl._ _Charles_ knows I love a Glass as well as any Man, I'll make
+one; shall it be to Night? Ad I long to know their Secrets.
+    (_Aside._
+
+  _Enter _Whisper_._
+
+_Whis._ Sir, Sir, Mis _Patch_ says, _Isabinda_'s Spanish Father has
+quite spoil'd the Plot, and she can't meet you in the Park, but he
+infallibly will go out this Afternoon, she says; but I must step again
+to know the Hour.
+
+_Marpl._ What did _Whisper_ say now? I shall go stark Mad, if I'm not
+let into this Secret.
+    (_Aside._
+
+_Cha._ Curst Misfortune, come along with me, my Heart feels Pleasure at
+her Name. Sir _George_, yours; we'll meet at the old place the usual
+Hour.
+
+Sir _Geo._ Agreed; I think I see Sir _Francis_ yonder.
+    (_Exit._
+
+_Cha._ _Marplot_, you must excuse me, I am engag'd.
+    (_Exit._
+
+_Marpl._ Engag'd, Egad I'll engage my Life, I'll know what your
+Engagement is.
+    (_Exit._
+
+_Miran._ (_Coming out of a Chair._) Let the Chair wait: My Servant, That
+dog'd Sir _George_ said he was in the Park.
+
+  _Enter _Patch_._
+
+Ha! Mis _Patch_ alone, did not you tell me you had contriv'd a way to
+bring _Isabinda_ to the Park?
+
+_Patch._ Oh, Madam, your Ladiship can't imagine what a wretched
+Disappointment we have met with: Just as I had fetch'd a Suit of my
+Cloaths for a Disguise: comes my old Master into his Closet, which is
+right against her Chamber Door; this struck us into a terrible
+Fright--At length I put on a Grave Face, and ask'd him if he was at
+leisure for his Chocolate, in hopes to draw him out of his Hole; but he
+snap'd my Nose off, No, I shall be busie here this two Hours; at which
+my poor Mistress seeing no way of Escape, order'd me to wait on your
+Ladiship with the sad Relation.
+
+_Miran._ Unhappy _Isabinda!_ Was ever any thing so unaccountable as the
+Humour of Sir _Jealousie Traffick_.
+
+_Patch._ Oh, Madam, it's his living so long in _Spain_, he vows he'll
+spend half his Estate, but he'll be a Parliament-Man, on purpose to
+bring in a Bill for Women to wear Veils, and the other odious _Spanish_
+Customs--He swears it is the height of Impudence to have a Woman seen
+Bare-fac'd even at Church, and scarce believes there's a true begotten
+Child in the City.
+
+_Miran._ Ha, ha, ha, how the old Fool torments himself! Suppose he could
+introduce his rigid Rules--does he think we cou'd not match them in
+Contrivance? No, no; Let the Tyrant Man make what Laws he will, if
+there's a Woman under the Government, I warrant she finds a way to break
+'em: Is his Mind set upon the _Spaniard_ for his Son-in-law still?
+
+_Patch._ Ay, and he expects him by the next Fleet, which drives his
+Daughter to Melancholy and Despair: But, Madam, I find you retain the
+same gay, cheerful Spirit you had, when I waited on your Ladiship.--My
+Lady is mighty good-humour'd too, and I have found a way to make Sir
+_Jealousie_ believe I am wholly in his Interest, when my real Design is
+to serve her; he makes me her Jaylor, and I set her at Liberty.
+
+_Miran._ I know thy Prolifick Brain wou'd be of singular Service to her,
+or I had not parted with thee to her Father.
+
+_Patch._ But, Madam, the Report is that you are going to marry your
+Guardian.
+
+_Miran._ It is necessary such a Report shou'd be, _Patch_.
+
+_Patch._ But is it true, Madam?
+
+_Miran._ That's not absolutely necessary.
+
+_Patch._ I thought it was only the old Strain, coaxing him still for
+your own, and railing at all the young Fellows about Town; in my Mind
+now, you are as ill plagu'd with your Guardian, Madam, as my Lady is
+with her Father.
+
+_Miran._ No, I have Liberty, Wench, that she wants; what would she give
+now to be in this _dissabilee_ in the--open Air, nay more, in pursuit of
+the young Fellow she likes; for that's my Case, I assure thee.
+
+_Patch._ As for that, Madam, she's even with you; for tho' she can't
+come abroad, we have a way to bring him home in spight of old _Argus_.
+
+_Miran._ Now _Patch_, your Opinion of my Choice, for here he comes--Ha!
+my Guardian with him; what can be the meaning of this? I'm sure Sir
+_Francis_ can't know me in this Dress--Let's observe 'em.
+    (_They
+withdraw._
+
+  _Enter Sir _Francis Gripe_ and Sir _George Airy_._
+
+Sir _Fran._ Verily, Sir _George_, thou wilt repent throwing away thy
+Money so, for I tell thee sincerely, _Miranda_, my Charge do's not love
+a young Fellow, they are all vicious, and seldom make good Husbands; in
+sober Sadness she cannot abide 'em.
+
+_Miran._ (_Peeping._) In sober Sadness you are mistaken--what can this
+mean?
+
+Sir _Geo._ Look ye, Sir _Francis_, whether she can or cannot abide young
+Fellows is not the Business; will you take the fifty Guineas?
+
+Sir _Fran._ In good truth--I will not, for I knew thy Father, he was a
+hearty wary Man, and I cannot consent that his Son should squander away
+what he sav'd, to no purpose.
+
+_Mirand._ (_Peeping._) Now, in the Name of Wonder, what Bargain can he
+be driving about me for fifty Guineas?
+
+_Patch._ I wish it ben't for the first Night's Lodging, Madam.
+
+Sir _Geo._ Well, Sir _Francis_, since you are so conscientious for my
+Father's sake, then permit me the Favour, _Gratis_.
+
+_Miran._ (_Peeping._) The Favour! Oh my Life! I believe 'tis as you
+said, _Patch_.
+
+Sir _Fran._ No verily, if thou dost not buy thy Experience, thou wou'd
+never be wise; therefore give me a Hundred and try Fortune.
+
+Sir _Geo._ The Scruples arose, I find, from the scanty Sum--Let me
+see--a Hundred Guineas-- (_Takes 'em out of a Purse and chinks 'em._)
+Ha! they have a very pretty Sound, and a very pleasing Look--But then,
+_Miranda_--But if she should be cruel--
+
+_Miran._ (_Peeping._) As Ten to One I shall--
+
+Sir _Fran._ Ay, do consider on't, He, he, he, he.
+
+Sir _Geo._ No, I'll do't.
+
+_Patch._ Do't, what, whether you will or no, Madam?
+
+Sir _Geo._ Come to the Point, here's the Gold, sum up the Conditions--
+
+Sir _Fran._ (_Pulling out a Paper_.)
+
+_Miran._ (_Peeping_.) Ay for Heaven's sake do, for my Expectation is on
+the Rack.
+
+Sir _Fran._ Well at your own Peril be it.
+
+Sir _Geo._ Aye, aye, go on.
+
+Sir _Fran._ _Imprimis_, you are to be admitted into my House in order to
+move your Suit to _Miranda_, for the space of Ten Minutes, without Lett
+or Molestation, provided I remain in the same Room.
+
+Sir _Geo._ But out of Ear shot--
+
+Sir _Fran._ Well, well, I don't desire to hear what you say, Ha, ha, ha,
+in consideration I am to have that Purse and a hundred Guineas.
+
+Sir _Geo._ Take it--
+    (_Gives him the Purse_.
+
+_Miran._ (_Peeping_.) So, 'tis well it's no worse, I'll fit you both--
+
+Sir _Geo._ And this Agreement is to be perform'd to Day.
+
+Sir _Fran._ Aye, aye, the sooner the better, poor Fool, how _Miranda_
+and I shall laugh at him--Well, Sir _George_, Ha, ha, ha, take the last
+sound of your Guineas, Ha, ha, ha. (_Chinks 'em_.)
+    (Exit.
+
+_Miran._ (_Peeping_.) Sure he does not know I am _Miranda_.
+
+Sir _Geo._ A very extraordinary Bargain I have made truly, if she should
+be really in Love with this old Cuff now--Psha, that's morally
+impossible--but then what hopes have I to succeed, I never spoke to
+her--
+
+_Miran._ (_Peeping_.) Say you so? Then I am safe.
+
+Sir _Geo._ What tho' my Tongue never spoke, my Eyes said a thousand
+Things, and my Hopes flatter'd me hers answer'd 'em. If I'm lucky--if
+not, 'tis but a hundred Guineas thrown away.
+    (__Miranda_ and _Patch_ come forwards._
+
+_Miran._ Upon what Sir _George?_
+
+Sir _Geo._ Ha! my _Incognito_--upon a Woman, Madam.
+
+_Miran._ They are the worst Things you can deal in, and damage the
+soonest; your very Breath destroys 'em, and I fear you'll never see your
+Return, Sir _George_, Ha, ha!
+
+Sir _Geo._ Were they more brittle than _China_, and drop'd to pieces
+with a Touch, every Atom of her I have ventur'd at, if she is but
+Mistress of thy Wit, ballances Ten times the Sum--Prithee let me see thy
+Face.
+
+_Miran._ By no means, that may spoil your Opinion of my Sense--
+
+Sir _Geo._ Rather confirm it, Madam.
+
+_Patch._ So rob the Lady of your Gallantry, Sir.
+
+Sir _Geo._ No Child, a Dish of Chocolate in the Morning never spoils my
+Dinner; the other Lady, I design a set Meal; so there's no danger--
+
+_Miran._ Matrimony! Ha, ha, ha; what Crimes have you committed against
+the God of Love, that he should revenge 'em so severely to stamp Husband
+upon your Forehead--
+
+Sir _Geo._ For my Folly in having so often met you here, without
+pursuing the Laws of Nature, and exercising her command--But I resolve
+e'er we part now, to know who you are, where you live, and what kind of
+Flesh and Blood your Face is; therefore unmask and don't put me to the
+trouble of doing it for you.
+
+_Miran._ My Face is the same Flesh and Blood with my Hand, Sir _George_,
+which if you'll be so rude to provoke.
+
+Sir _Geo._ You'll apply it to my Cheek--The Ladies Favours are always
+Welcome; but I must have that Cloud withdrawn. (_Taking hold of her_.)
+Remember you are in the _Park_, Child, and what a terrible thing would
+it be to lose this pretty white Hand.
+
+_Miran._ And how will it sound in a _Chocolate-House_, that Sir _George
+Airy_ rudely pull'd off a Ladies Mask, when he had given her his Honour,
+that he never would, directly or indirectly endeavour to know her till
+she gave him Leave.
+
+_Patch._ I wish we were safe out.
+    (_Aside._
+
+Sir _Geo._ But if that Lady thinks fit to pursue and meet me at every
+turn like some troubl'd Spirit, shall I be blam'd if I inquire into the
+Reality? I would have nothing dissatisfy'd in a Female Shape.
+
+_Miran._ What shall I do?
+    (_Pause._
+
+Sir _Geo._ Ay, prithee consider, for thou shalt find me very much at thy
+Service.
+
+_Patch._ Suppose, Sir, the Lady shou'd be in Love with you.
+
+Sir _Geo._ Oh! I'll return the Obligation in a Moment.
+
+_Patch._ And marry her?
+
+Sir _Geo._ Ha, ha, ha, that's not the way to Love her Child.
+
+_Miran._ If he discovers me, I shall die--Which way shall I escape?--Let
+me see.
+    (_Pauses._
+
+Sir _Geo._ Well, Madam--
+
+_Miran._ I have it--Sir _George_, 'tis fit you should allow something;
+if you'll excuse my Face, and turn your Back (if you look upon me I
+shall sink, even mask'd as I am) I will confess why I have engag'd you
+so often, who I am, and where I live?
+
+Sir _Geo._ Well, to show you I'm a Man of Honour I accept the
+Conditions. Let me but once know those, and the Face won't be long a
+Secret to me.
+    (_Aside._
+
+_Patch._ What mean you, Madam?
+
+_Miran._ To get off.
+
+Sir _Geo._ 'Tis something indecent to turn ones Back upon a Lady; but
+you command and I obey. (_Turns his Back._) Come, Madam, begin--
+
+_Miran._ First then it was my unhappy Lot to see you at _Paris_ (_Draws
+back a little while and speaks_) at a Ball upon a Birth-Day; your Shape
+and Air charm'd my Eyes; your Wit and Complaisance my Soul, and from
+that fatal Night I lov'd you. (_Drawing back._) And when you left the
+Place, Grief seiz'd me so--No Rest my Heart, no Sleep my Eyes cou'd
+know.--
+
+  _Last I resolv'd a hazardous Point to try,_
+  _And quit the Place in search of Liberty._
+    (Exit.
+
+Sir _Geo._ Excellent--I hope she's Handsome--Well, Now, Madam, to the
+other two Things: Your Name, and where you live?--I am a Gentleman, and
+this Confession will not be lost upon me.--Nay, prithee don't weep, but
+go on--for I find my Heart melts in thy Behalf--speak quickly or I shall
+turn about--Not yet.--Poor Lady, she expects I shou'd comfort her; and
+to do her Justice, she has said enough to encourage me. (_Turns about._)
+Ha? gone! The Devil, jilted? Why, what a Tale has she invented--of
+_Paris_, Balls, and Birth-Days.--Egad I'd give Ten Guineas to know who
+this Gipsie is.--A Curse of my Folly--I deserve to lose her; what Woman
+can forgive a Man that turns his Back.
+
+  _The Bold and Resolute, in Love and War,
+  To Conquer take the Right, and swiftest way;
+  The boldest Lover soonest gains the Fair,
+  As Courage makes the rudest Force obey,
+  Take no denial, and the Dames adore ye,
+  Closely pursue them and they fall before ye._
+
+The End of the First ACT.
+
+
+
+
+ACT the Second.
+
+  _Enter Sir _Francis Gripe_, _Miranda_._
+
+
+Sir _Fran._ Ha, ha, ha, ha, ha, ha, ha.
+
+_Miran._ Ha, ha, ha, ha, ha, ha, ha; Oh, I shall die with Laughing.--The
+most Romantick Adventure: Ha, ha! what does the odious young Fop mean? A
+Hundred Pieces to talk an Hour with me; Ho, ha.
+
+Sir _Fran._ And I'm to be by too; there's the Jest; Adod, if it had been
+in Private, I shou'd not have car'd to trust the young Dog.
+
+_Mirand._ Indeed and Indeed, but you might _Gardy_.--Now methinks
+there's no Body Handsomer than you; So Neat, so Clean, so Good-Humour'd,
+and so Loving.--
+
+Sir _Fran._ Pritty Rogue, Pritty Rogue, and so thou shalt find me, if
+thou do'st prefer thy _Gardy_ before these Caperers of the Age, thou
+shalt out-shine the Queen's Box on an _Opera_ Night; thou shalt be the
+Envy of the Ring (for I will Carry thee to _Hide-Park_) and thy Equipage
+shall Surpass, the what--d'ye call 'em Ambassadors.
+
+_Miran._ Nay, I'm sure the Discreet Part of my Sex will Envy me more for
+the Inside Furniture, when you are in it, than my Outside Equipage.
+
+Sir _Fran._ A Cunning Bagage, a faith thou art, and a wise one too; and
+to show thee thou hast not chose amiss, I'll this moment Disinherit my
+Son, and Settle my whole Estate upon thee.
+
+_Miran._ There's an old Rogue now: (_Aside._) No, _Gardy_, I would not
+have your Name be so Black in the World--You know my Father's Will runs,
+that I am not to possess my Estate, without your Consent, till I'm Five
+and Twenty; you shall only abate the odd Seven Years, and make me
+Mistress of my Estate to Day, and I'll make you Master of my Person to
+Morrow.
+
+Sir _Fran._ Humph? that may not be safe--No _Chargy_, I'll Settle it
+upon thee for _Pin-mony_; and that will be every bit as well, thou
+know'st.
+
+_Miran._ Unconscionable old Wretch, Bribe me with my own Money--Which
+way shall I get out of his Hands?
+    (_Aside._
+
+Sir _Fran._ Well, what art thou thinking on, my Girl, ha? How to Banter
+Sir _George?_
+
+_Miran._ I must not pretend to Banter: He knows my Tongue too well:
+(_Aside._) No, _Gardy_, I have thought of a way will Confound him more
+than all I cou'd say, if I shou'd talk to him Seven Years.
+
+Sir _Fran._ How's that? Oh! I'm Transported, I'm Ravish'd, I'm Mad--
+
+_Miran._ It wou'd make you Mad, if you knew All, (_Aside._) I'll not
+Answer him one Word, but be Dumb to all he says--
+
+Sir _Fran._ Dumb, good; Ha, ha, ha. Excellent, ha, ha, I think I have
+you now, Sir _George_: Dumb! he'll go Distracted--Well, she's the
+wittiest Rogue--Ha, ha, Dumb! I can but Laugh, ha, ha, to think how
+damn'd Mad he'll be when he finds he has given his Money away for a a
+Dumb Show. Ha, ha, ha.
+
+_Miran._ Nay, _Gardy_, if he did but know my Thoughts of him, it wou'd
+make him ten times Madder: Ha, ha, ha.
+
+Sir _Fran._ Ay, so it wou'd _Chargy_, to hold him in such Derision, to
+scorn to Answer him, to be Dumb: Ha, ha, ha, ha.
+
+  _Enter _Charles_._
+
+Sir _Fran._ How now, Sirrah, Who let you in?
+
+_Char._ My Necessity, Sir.
+
+Sir _Fran._ Sir, your Necessities are very Impertinent, and ought to
+have sent before they Entred.
+
+_Char._ Sir, I knew 'twas a Word wou'd gain Admittance no where.
+
+Sir _Fran._ Then, Sirrah, how durst you Rudely thrust that upon your
+Father, which no Body else wou'd admit?
+
+_Char._ Sure the Name of a Son is a sufficient Plea. I ask this Lady's
+Pardon if I have intruded.
+
+Sir _Fran._ Ay, Ay, ask her Pardon and her Blessing too, if you expect
+any thing from me.
+
+_Miran._ I believe yours, Sir _Francis_, in a Purse of Guinea's wou'd be
+more material. Your Son may have Business with you, I'll retire.
+
+Sir _Fran._ I guess his Business, but I'll dispatch him, I expect the
+Knight every Minute: You'll be in Readiness.
+
+_Miran._ Certainly! my Expectation is more upon the wing than yours, old
+Gentleman.
+    [_Exit._
+
+Sir _Fran._ Well, Sir!
+
+_Char._ Nay, it is very Ill, Sir; my Circumstances are, I'm sure.
+
+Sir _Fran,_ And what's that to me, Sir: Your Management shou'd have made
+them better.
+
+_Char._ If you please to intrust me with the Management of my Estate, I
+shall endeavour it, Sir.
+
+Sir _Fran._ What to set upon a Card, and buy a Lady's Favour at the
+Price of a Thousand Pieces, to Rig out an Equipage for a Wench, or by
+your Carelessness enrich your Steward to fine for Sheriff, or put up for
+Parliament-Man.
+
+_Char._ I hope I shou'd not spend it this way: However, I ask only for
+what my Uncle left me; Your's you may dispose of as you please, Sir.
+
+Sir _Fran._ That I shall, out of your Reach, I assure you, Sir. Adod
+these young Fellows think old Men get Estates for nothing but them to
+squander away, in Dicing, Wenching, Drinking, Dressing, and so forth.
+
+_Char._ I think I was born a Gentleman, Sir; I'm sure my Uncle bred me
+like one.
+
+Sir _Fran._ From which you wou'd infer, Sir, that Gaming, Whoring, and
+the Pox, are Requisits to a Gentleman.
+
+_Char._ Monstrous! when I wou'd ask him only for a Support, he falls
+into these unmannerly Reproaches; I must, tho' against my Will, employ
+Invention, and by Stratagem relieve my self.
+    (_Aside._
+
+Sir _Fran._ Sirrah, what is it you mutter, Sirrah, ha? (_Holds up his
+Cane._) I say, you sha'n't have a Groat out of my Hands till I
+Please--and may be I'll never Please, and what's that to you?
+
+_Char._ Nay, to be Robb'd, or have one's Throat Cut is not much--
+
+Sir _Fran._ What's that, Sirrah? wou'd ye Rob me, or Cut my Throat, ye
+Rogue?
+
+_Char._ Heaven forbid, Sir,--I said no such thing.
+
+Sir _Fran._ Mercy on me! What a Plague it is to have a Son of One and
+Twenty, who wants to Elbow one out of one's Life, to Edge himself into
+the Estate.
+
+  _Enter _Marplot_._
+
+_Marpl._ Egad he's here--I was afraid I had lost him: His Secret cou'd
+not be with his Father, his Wants are Publick there--Guardian,--your
+Servant _Charles_, I know by that sorrowful Countenance of thine. The
+old Man's Fist is as close as his strong Box--But I'll help thee--
+
+Sir _Fran._ So: Here's another extravagant Coxcomb, that will spend his
+Fortune before he comes to't; but he shall pay swinging Interest, and so
+let the Fool go on--Well, what do's Necessity bring you too, Sir?
+
+_Marpl._ You have hit it, Guardian--I want a Hundred Pound.
+
+Sir _Fran._ For what?
+
+_Marpl._ Po'gh, for a Hundred Things, I can't for my Life tell you for
+what.
+
+_Char._ Sir, I suppose I have received all the Answer I am like to have.
+
+_Marpl._ Oh, the Devil, if he gets out before me, I shall lose him
+agen.
+
+Sir _Fran._ Ay, Sir, and you may be marching as soon as you please--I
+must see a Change in your Temper e'er you find one in mine.
+
+_Marpl._ Pray, Sir, dispatch me; the Money, Sir, I'm in mighty haste.
+
+Sir _Fran._ Fool, take this and go to the Cashier; I sha'n't be long
+plagu'd with thee.
+    (_Gives him a Note._
+
+_Marpl._ Devil take the Cashier, I shall certainly have _Charles_ gone
+before I come back agen.
+    (_Runs out._
+
+_Char._ Well, Sir, I take my Leave--But remember, you Expose an only Son
+to all the Miseries of wretched Poverty, which too often lays the Plan
+for Scenes of Mischief.
+
+Sir _Fran._ Stay, _Charles_, I have a sudden Thought come into my Head,
+may prove to thy Advantage.
+
+_Char._ Ha, does he Relent?
+
+Sir _Fran._ My Lady _Wrinkle_, worth Forty Thousand Pound, sets up for a
+Handsome young Husband; she prais'd thee t'other Day; tho' the
+Match-makers can get Twenty Guinea's for a sight of her, I can introduce
+thee for nothing.
+
+_Char._ My Lady _Wrinkle_, Sir, why she has but one Eye.
+
+Sir _Fran._ Then she'll see but half your Extravagance, Sir.
+
+_Char._ Condemn me to such a piece of Deformity! Toothless, Dirty,
+Wry-neck'd, Hunch-back'd Hag.
+
+Sir _Fran._ Hunch-back'd! so much the better, then she has a Rest for
+her Misfortunes; for thou wilt Load her swingingly. Now I warrant you
+think, this is no Offer of a Father; Forty Thousand Pound is nothing
+with you.
+
+_Char._ Yes, Sir, I think it is too much; a young Beautiful Woman with
+half the Money wou'd be more agreeable. I thank you, Sir; but you Chose
+better for your self, I find.
+
+Sir _Fran._ Out of my Doors, you Dog; you pretend to meddle with my
+Marriage, Sirrah.
+
+_Char._ Sir, I obey: But--
+
+Sir _Fran._ But me no Buts--Be gone, Sir: Dare to ask me for Money
+agen--Refuse Forty Thousand Pound! Out of my Doors, I say, without
+Reply.
+
+    (_Exit _Char_._
+
+  _Enter Servant._
+
+_Serv._ One Sir _George Airy_ enquires for you, Sir.
+
+  _Enter _Marplot_ Running._
+
+_Marpl._. Ha? gone! Is _Charles_ gone, Guardian?
+
+Sir _Fran._ Yes; and I desire your wise Worship to walk after him.
+
+_Marpl._ Nay, Egad, I shall Run, I tell you but that. Ah, Pox of the
+Cashier for detaining me so long, where the Devil shall I find him now.
+I shall certainly lose this Secret.
+    (_Exit, hastily._
+
+Sir _Fran._ What is the Fellow distracted?--Desire Sir _George_ to walk
+up--Now for a Tryal of Skill that will make me Happy, and him a Fool:
+Ha, ha, ha, in my Mind he looks like an Ass already.
+
+  _Enter Sir _George_._
+
+Sir _Fran._ Well, Sir _George_, Dee ye hold in the same Mind? or wou'd
+you Capitulate? Ha, ha, ha: Look, here are the Guinea's, (_Chinks
+them._) Ha, ha, ha.
+
+Sir _Geo._ Not if they were twice the Sum, Sir _Francis_: Therefore be
+brief, call in the Lady, and take your Post--if she's a Woman, and, not
+seduc'd by Witchcraft to this old Rogue, I'll make his Heart ake; for if
+she has but one Grain of Inclination about her, I'll vary a Thousand
+Shapes, but find it.
+    (_Aside._
+
+  _Enter _Mirand_._
+
+Sir _Fran._ Agreed--_Miranda._ There Sir _George_, try your Fortune,
+(_Takes out his Watch._)
+
+Sir _Geo._
+  So from the Eastern Chambers breaks the Sun,
+  Dispels the Clouds, and gilds the Vales below.
+    (_Salutes her._
+
+Sir _Fran._ Hold, Sir, Kissing was not in our Agreement.
+
+Sir _Geo._ Oh! That's by way of Prologue:--Prithee, Old Mammon, to thy
+Post.
+
+Sir _Fran._ Well, young _Timon_, 'tis now 4 exactly; one Hour, remember
+is your utmost Limit, not a Minute more.
+    (_Retires to the bottom of
+the Stage._
+
+Sir _Geo._ Madam, whether you will Excuse or Blame my Love, the Author
+of this rash Proceeding depends upon your Pleasure, as also the Life of
+your Admirer; your sparkling Eyes speak a Heart susceptible of Love;
+your Vivacity a Soul too delicate to admit the Embraces of decay'd
+Mortality.
+
+_Miran._ (_Aside._) Oh, that I durst speak--
+
+Sir _Geo._ Shake off this Tyrant _Guardian_'s Yoke, assume your self,
+and dash his bold aspiring Hopes; the Deity of his Desires, is Avarice;
+a Heretick in Love, and ought to be banish'd by the Queen of Beauty.
+See, Madam, a faithful Servant kneels and begs to be admitted in the
+Number of your Slaves.
+    (Miranda _gives him her Hand to Raise him._
+
+Sir _Fran._ I wish I cou'd hear what he says now. (_Running up._) Hold,
+hold, hold, no Palming, that's contrary to Articles--
+
+Sir _Geo._ Death, Sir, Keep your Distance, or I'll write another Article
+in your Guts.
+    (_Lays his Hand to his Sword._
+
+Sir _Fran._ (_Going back._) A Bloody-minded Fellow!--
+
+Sir _Geo._ Not Answer me! Perhaps she thinks my Address too Grave: I'll
+be more free--Can you be so Unconscionable, Madam, to let me say all
+these fine things to you without one single Compliment in Return? View
+me well, am I not a proper Handsome Fellow, ha? Can you prefer that old,
+dry, wither'd, sapless Log of Sixty-five, to the vigorous, gay,
+sprightly Love of Twenty-four? With Snoring only he'll awake thee, but I
+with Ravishing Delight wou'd make thy Senses Dance in Consort with the
+Joyful Minutes--ha? not yet, sure she is Dumb--Thus wou'd I steal and
+touch thy Beauteous Hand, (_Takes bold of her Hand_) till by degrees I
+reach'd thy snowy Breasts, then Ravish Kisses thus,
+    (_Embraces her in Extasie._
+
+_Miran._ (_Strugles and flings from him._) Oh Heavens! I shall not be
+able to contain my self.
+    (_Aside._
+
+Sir _Fran._ (_Running up with his Watch in his Hand._) Sure she did not
+speak to him--There's Three Quarters of the Hour gone, Sir
+_George_--Adod, I don't like those close Conferences--
+
+Sir _Geo._ More Interruptions--You will have it, Sir.
+    (_Lays his Hand to his Sword._
+
+Sir _Fran._ (_Going back._) No, no, you shan't have her neither.
+    (_Aside._
+
+Sir _Geo._ Dumb still--sure this old Dog has enjoyn'd her Silence; I'll
+try another way--I must conclude, Madam, that in Compliance to your
+Guardian's Humour, you refuse to answer me--Consider the Injustice of
+his Injunction. This single Hour cost me a Hundred Pound--and wou'd you
+answer me, I cou'd purchase the 24 so: However, Madam, you must give me
+leave to make the best Interpretation I can for my Money, and take the
+Indication of your Silence for the secret Liking of my Person:
+Therefore, Madam, I will instruct you how to keep your Word inviolate to
+Sir _Francis_, and yet Answer me to every Question: As for Example, When
+I ask any thing, to which you wou'd Reply in the Affirmative, gently Nod
+your Head--thus; and when in the Negative thus; (_(Shakes his Head_.)
+and in the doubtful a tender Sigh, thus
+    (_Sighs._
+
+_Miran._ How every Action charms me--but I'll fit him for Signs I
+warrant him.
+    (_Aside._
+
+Sir _Fran._ Ha, ha, ha, ha, poor Sir _George_, Ha, ha, ha, ha.
+    (_Aside._
+
+Sir _Geo._ Was it by his desire that you are Dumb, Madam, to all that I
+can say?
+
+_Miran._ (_Nods._)
+
+Sir _Geo._ Very well! she's tractable I find--And is it possible that
+you can love him? Miraculous! (__Miran._ Nods._) Pardon the bluntness of
+my Questions, for my Time is short; may I not hope to supplant him in
+your Esteem? (__Miran._ Sighs._) Good! she answers me as I could
+wish--You'll not consent to marry him then? (__Miran._ Sighs._) How,
+doubtful in that--Undone again--Humph! but that may proceed from his
+Power to keep her out of her Estate till Twenty Five; I'll try
+that--Come, Madam, I cannot think you hesitate in this Affair out of any
+Motive, but your Fortune--Let him keep it till those few Years are
+expir'd; make me Happy with your Person, let him enjoy your
+Wealth--(__Miran._ holds up her Hands._) Why, what Sign is that now?
+Nay, nay, Madam, except you observe my Lesson, I can't understand your
+meaning--
+
+Sir _Fran._ What a Vengeance, are they talking by Signs, 'ad I may be
+fool'd here; what do you mean, Sir _George?_
+
+Sir _Geo._ To Cut your Throat if you dare Mutter another Syllable.
+
+Sir _Fran._ Od! I wish he were fairly out of my House.
+
+Sir _Geo._ Pray, Madam, will you answer me to the Purpose? (__Miran._
+shakes her Head, and points to Sir _Francis_._) What! does she mean she
+won't answer me to the purpose, or is she afraid yon' old Cuff should
+understand her Signs?--Aye, it must be that, I perceive, Madam, you are
+too apprehensive of the Promise you have made to follow my Rules;
+therefore I'll suppose your Mind and answer for you--First, for my self,
+Madam, that I am in Love with you is an infallible Truth. Now for you:
+(_Turns on her side._) Indeed, Sir, and may I believe it--As certainly,
+Madam, as that 'tis Day light, or that I Die if you persist in
+Silence--Bless me with the Musick of your Voice, and raise my Spirits to
+their proper Heaven: Thus low let me intreat; e'er I'm oblig'd to quit
+this Place, grant me some Token of a favourable Reception to keep my
+Hopes alive. (_Arises hastily turns of her side._) Rise, Sir, and since
+my Guardian's Presence will not allow me Privilege of Tongue, Read that
+and rest assured you are not indifferent to me. (_Offers her a Letter._)
+Ha! right Woman! But no (_She strikes it down._) matter I'll go on.
+
+Sir _Fran._ Ha! what's that a Letter--Ha, ha, ha, thou art baulk'd.
+
+_Miran._ The best Assurance I ever saw--
+    (_Aside._
+
+Sir _Geo._ Ha? a Letter, Oh! let me Kiss it with the same Raptures that
+I would do the dear Hand that touch'd it. (_Opens it._) Now for a quick
+Fancy and a long _Extempore_--What's here? (_Reads._) "Dear, Sir
+_George_, this Virgin Muse I consecrate to you, which when it has
+receiv'd the Addition of your Voice, 'twill Charm me into Desire of
+Liberty to Love, which you, and only you can fix." My Angel! Oh you
+transport me! (_Kisses the Letter._) And see the Power of your Command;
+the God of Love has set the Verse already; the flowing Numbers Dance
+into a Tune, and I'm inspir'd with a Voice to sing it.
+
+_Miran._ I'm sure thou art inspir'd with Impudence enough.
+
+Sir _Geo._ (_Sings._)
+  _Great Love inspire him;
+  Say I admire him.
+  Give me the Lover
+  That can discover
+  Secret Devotion
+  from silent Motion;
+  Then don't betray me,
+  But hence convey me._
+
+Sir _Geo._ (_Taking hold of _Miranda_._) With all my Heart, this Moment
+let's Retire.
+
+    (_Sir _Francis_ coming up hastily._)
+
+Sir _Fran._ The Hour is expir'd, Sir, and you must take your leave.
+There, my Girl, there's the Hundred Pound which thou hast won, go, I'll
+be with you presently, Ha, ha, ha, ha.
+
+    (_Exit _Miranda_._
+
+Sir _Geo._ Ads Heart, Madam, you won't leave me just in the Nick, will
+you?
+
+Sir _Fran._ Ha, ha, ha, she has nick'd you, Sir _George_, I think, Ha,
+ha, ha: Have you any more Hundred Pounds to throw away upon Courtship,
+Ha, ha, ha.
+
+Sir _Geo._ He, he, he, he, a Curse of your fleering Jests--Yet, however
+ill I succeeded, I'll venture the same Wager, she does not value thee a
+spoonful of Snuff--Nay more, though you enjoyn'd her Silence to me,
+you'll never make her speak to the Purpose with your self.
+
+Sir _Fran._ Ha, ha, ha, did not I tell thee thou would'st repent thy
+Money? Did not I say she hated young Fellow's, Ha, ha, ha.
+
+Sir _Geo._ And I'm positive she's not in Love with Age.
+
+Sir _Fran._ Ha, ha, no matter for that, Ha, ha, she's not taken with
+your Youth, nor your Rhetorick to boot, ha, ha.
+
+Sir _Geo._ Whate'er her Reasons are for disliking a me, I am certain she
+can be taken with nothing about thee.
+
+Sir _Fran._ Ha, ha, ha; how he swells with Envy!--Poor Man, poor
+Man--Ha, ha; I must beg your Pardon, Sir _George_, _Miranda_ will be
+Impatient to have her share of Mirth: Verily we shall Laugh at thee most
+Egregiously; Ha, ha, ha.
+
+Sir _Geo._ With all my Heart, faith--I shall Laugh in my Turn too--For
+if you dare marry her old _Belzebub_, you would be Cuckolded most
+Egregiously; Remember that, and Tremble--
+
+  _She that to Age her Beauteous Self resigns,
+  Shows witty Management for close Designs.
+  Then if thou'rt grac'd with fair _Miranda_'s Bed,
+  _Actaeon_'s Horns she Means, shall Crown thy Head._
+      (_Exit._
+
+Sir _Fran._ Ha, ha, ha; he is mad.
+
+  _These fluttering Fops imagine they can Wind,
+  Turn, and Decoy to Love, all Women-kind:
+  But here's a Proof of Wisdom in my Charge,
+  Old Men are Constant, Young Men live at Large.
+  The Frugal Hand can Bills at Sight defray,
+  When he that Lavish is, has Nought to pay._
+      (_Exit._
+
+
+SCENE _Changes to Sir _Jealous Traffick_'s House._
+
+  _Enter Sir _Jealous_, _Isabinda_, _Patch_ following._
+
+Sir _Jeal._ What in the Balcone agen, notwithstanding my positive
+Commands to the contrary!--Why don't you write a Bill upon your
+Forehead, to show Passengers there's something to be Let--
+
+_Isab._ What harm can there be in a little fresh Air, Sir?
+
+Sir _Jeal._ Is your Constitution so hot, Mistriss, that it wants
+cooling, ha? Apply the Virtuous _Spanish_ Rules, banish your Tast, and
+Thoughts of Flesh, feed upon Roots, and quench your Thirst with Water.
+
+_Isab._ That, and a close Room, wou'd certainly make me die of the
+Vapours.
+
+Sir _Jeal._ No, Mistriss, 'tis your High-fed, Lusty, Rambling, Rampant
+Ladies--that are troubl'd with the Vapours; 'tis your Ratifia, Persico,
+Cynamon, Citron, and Spirit of Clary, cause such Swi--m--ing in the
+Brain, that carries many a Guinea full-tide to the Doctor. But you are
+not to be Bred this way; No Galloping abroad, no receiving Visits at
+home; for in our loose Country, the Women are as dangerous as the Men.
+
+_Patch._ So I told her, Sir; and that it was not Decent to be seen in a
+Balcone--But she threaten'd to slap my Chaps, and told me, I was her
+Servant, not her Governess.
+
+Sir _Jeal._ Did she so? But I'll make her to know, that you are her
+_Duenna_: Oh that incomparable Custom of _Spain!_ why here's no
+depending upon old Women in my Country--for they are as Wanton at
+Eighty, as a Girl of Eighteen; and a Man may as safely trust to
+_Asgill_'s Translation, as to his great Grand-Mother's not marrying
+agen.
+
+_Isab._ Or to the _Spanish_ Ladies Veils, and _Duenna's_, for the
+Safeguard of their Honour.
+
+Sir _Jeal._ Dare to Ridicule the Cautious Conduct of that wise Nation,
+and I'll have you Lock'd up this Fortnight, without a Peephole.
+
+_Isab._ If we had but the Ghostly Helps in _England_, which they have in
+_Spain_, I might deceive you if you did,--Sir, 'tis not the Restraint,
+but the Innate Principles, secures the Reputation and Honour of our
+Sex--Let me tell you, Sir, Confinement sharpens the Invention, as want
+of Sight strengthens the other Senses, and is often more Pernicious than
+the Recreation innocent Liberty allows.
+
+Sir _Jeal._ Say you so, Mistress, who the Devil taught you the Art of
+Reasoning? I assure you, they must have a greater Faith than I pretend
+to, that can think any Woman innocent who requires Liberty. Therefore,
+_Patch_, to your Charge I give her; Lock her up till I come back from
+Change: I shall have some sauntring Coxcomb, with nothing but a Red Coat
+and a Feather, think, by Leaping into her Arms, to Leap into my
+Estate--But I'll prevent them, she shall be only Signeur _Babinetto_'s.
+
+_Patch._ Really, Sir, I wish you wou'd employ any Body else in this
+Affair; I lead a Life like a Dog with obeying your Commands. Come,
+Madam, will you please to be Lock'd up.
+
+_Isab._ Ay, to enjoy more Freedom than he is aware of.
+    (_Aside._
+    (_Exit with _Patch_._
+
+Sir _Jeal._ I believe this Wench is very true to my Interest: I am happy
+I met with her, if I can but keep my Daughter from being blown upon till
+Signeur _Babinetto_ arrives; who shall marry her as soon as he comes,
+and carry her to _Spain_ as soon as he has marry'd her; she has a
+pregnant Wit, and I'd no more have her an _English_ Wife, than the Grand
+Signior's Mistress.
+    (_Exit._
+
+  _Enter _Whisper_._
+
+_Whisp._ So, I see Sir _Jealous_ go out; where shall I find Mrs. _Patch_
+now.
+
+  _Enter _Patch_._
+
+_Patch._ Oh Mr. _Whisper_, my Lady saw you out at the Window, and
+order'd me to bid you fly, and let your Master know she's now alone.
+
+_Whisp._ Hush, Speak softly; I go, go: But hark'e Mrs. _Patch_, shall
+not you and I have a little Confabulation, when my Master and your Lady
+is engag'd?
+
+_Patch._ Ay, Ay, Farewell.
+    (_Goes in, and shuts the Door._
+
+  _Re-enter Sir _Jealous Traffick_ meeting _Whisper_._
+
+Sir _Jeal._ Sure whil'st I was talking with Mr. _Tradewell_, I heard my
+Door clap. (_Seeing _Whisper_._) Ha! a Man lurking about my House; who
+do you want there, Sir?
+
+_Whisp._ Want--want, a pox, Sir _Jealous!_ what must I say now?--
+    (_Aside._
+
+Sir _Jeal._ Ay, want; have you a Letter or Message for any Body
+there?--O my Conscience, this is some He-Bawd--
+
+_Whisp._ Letter or Message, Sir!
+
+Sir _Jeal._ Ay, Letter or Message, Sir.
+
+_Whisp._ No, not I, Sir.
+
+Sir _Jeal._ Sirrah, Sirrah, I'll have you set in the Stocks, if you
+don't tell me your Business immediately.
+
+_Whisp._ Nay, Sir, my Business--is no great matter of Business neither;
+and yet 'tis Business of Consequence too.
+
+Sir _Jeal._ Sirrah, don't trifle with me.
+
+_Whisp._ Trifle, Sir, have you found him, Sir?
+
+Sir _Jeal._ Found what, you Rascal.
+
+_Whisp._ Why _Trifle_ is the very Lap-Dog my Lady lost, Sir; I fancy'd I
+see him run into this House. I'm glad you have him--Sir, my Lady will be
+over-joy'd that 1 have found him.
+
+Sir _Jeal._ Who is your Lady Friend?
+
+_Whisp._ My Lady Love-puppy, Sir.
+
+Sir _Jeal._ My Lady Love-puppy! then prithee carry thy self to her, for
+I know no other Whelp that belongs to her; and let me catch ye no more
+Puppy-hunting about my Doors, lest I have you prest into the Service,
+Sirrah.
+
+_Whisp._ By no means, Sir--Your humble Servant; I must watch whether he
+goes, or no, before I can tell my Master.
+    (_Exit._
+
+Sir _Jeal._ This Fellow has the Officious Leer of a Pimp; and I half
+suspect a Design, but I'll be upon them before they think on me, I
+warrant 'em.
+    (_Exit._
+
+
+SCENE __Charles_'s Lodging._
+
+  _Enter _Charles_ and _Marplot_._
+
+_Char._ Honest _Marplot_, I thank thee for this Supply; I expect my
+Lawyer with a Thousand Pound I have order'd him to take up, and then you
+shall be Repaid.
+
+_Marpl._ Pho, pho, no more of that: Here comes Sir _George Airy_--
+
+      _Enter Sir _George_._
+
+Cursedly out of Humour at his Disappointment; see how he looks! Ha, ha,
+ha.
+
+Sir _Geo._ Ah, _Charles_, I am so humbled in my Pretensions to Plots
+upon Women, that I believe I shall never have Courage enough to attempt
+a Chamber-maid agen--I'll tell thee.
+
+_Char._ Ha, ha; I'll spare you the Relation by telling you--Impatient to
+know your Business with my Father, when I saw you Enter, I slipt back
+into the next Room, where I overheard every Syllable.
+
+Sir _Geo._ That I said--But I'll be hang'd if you heard her Answer--.
+But prithee tell me, _Charles_, is she a Fool?
+
+_Char._ I ne'er suspected her for one; but _Marplot_ can inform you
+better, if you'll allow him a Judge.
+
+_Marpl._ A Fool! I'll justifie she has more Wit than all the rest of her
+Sex put together; why she'll Rally me, till I han't one word to say for
+my self.
+
+_Char._ A mighty Proof of her Wit truly--
+
+_Marpl._ There must be some Trick in't, Sir _George_; Egad I'll find it
+out if it cost me the Sum you paid for't.
+
+Sir _Geo._ Do and Command me--
+
+_Marpl._ Enough, let me alone to Trace a Secret.--
+
+  _Enter _Whisper_, and speaks aside to his Master._
+
+The Devil! _Whisper_ here agen, that Fellow never speaks out; is this
+the same, or a new Secret? Sir _George_, won't you ask _Charles_ what
+News _Whisper_ brings?
+
+Sir _Geo._ Not I, Sir; I suppose it does not relate to me.
+
+_Marpl._ Lord, Lord, how little Curiosity some People have! Now my chief
+Pleasure lies in knowing every Body's Business.
+
+Sir _Geo._ I fancy, _Charles_, thou hast some Engagement upon thy Hands:
+I have a little Business too. _Marplot_, if it falls in your way to
+bring me any Intelligence from _Miranda_, you'll find me at the Thatch'd
+House at Six--
+
+_Marpl._ You do me much Honour.
+
+_Char._ You guess right, Sir _George_, wish me Success.
+
+Sir _Geo._ Better than attended me. _Adieu_.
+    (_Exit._
+
+_Char._ _Marplot_, you must Excuse me.--
+
+_Marpl._ Nay, nay, what need of any Excuse amongst Friends! I'll go with
+you.
+
+_Char._ Indeed you must not.
+
+_Marpl._ No, then I suppose 'tis a Duel, and I will go to secure ye.
+
+_Char._ Secure me, why you won't fight.
+
+_Marpl._ What then! I can call People to part ye.
+
+_Char._ Well, but it is no Duel, Consequently no Danger. Therefore
+prithee be Answer'd.
+
+_Marpl._ What is't a Mistress then?--Mum--You know I can be silent upon
+occasion.
+
+_Char._ I wish you cou'd be Civil too: I tell you, You neither Must nor
+Shall go with me. Farewel.
+    (_Exit._
+
+_Marpl._ Why then--I Must and Will follow you.
+    _Exit._
+
+    _The End of the Second Act._
+
+
+
+
+ACT the Third
+
+
+  _Enter _Charles_._
+
+_Char._ Well, here's the House, which holds the Lovely Prize quiet and
+serene; here no noisie Footmen throng to tell the World, that Beauty
+dwells within; no Ceremonious Visit makes the Lover wait; no Rival to
+give my Heart a Pang; who wou'd not scale the Window at Midnight without
+fear of the Jealous Father's Pistol, rather than fill up the Train of a
+Coquet, where every Minute he is jostled out of Place. (_Knocks
+softly._) Mrs. _Patch_, Mrs. _Patch._
+
+  _Enter _Patch_._
+
+_Patch._ Oh, are you come, Sir? All's safe.
+
+_Char._ So in, in then.
+
+  _Enter _Marplot_._
+
+_Marpl._ There he goes: Who the Devil lives here? Except I can find out
+that, I am as far from knowing his Business as ever; gad I'll watch, it
+may be a Bawdy-House, and he may have his Throat cut; if there shou'd be
+any Mischief, I can make Oath, he went in. Well, _Charles_, in spight of
+your Endeavour to keep me out of the Secret; I may save your Life, for
+ought I know: At that Corner I'll plant my self; there I shall see
+whoever goes in, or comes out. Gad, I love Discoveries.
+    _(Exit._
+
+
+SCENE _Draws. _Charles_, _Isabinda_, and _Patch_._
+
+_Isab._ _Patch_, look out sharp; have a care of Dad.
+
+_Patch._ I warrant you.
+    _(Exit._
+
+_Isab._ Well, Sir, if I may judge your Love by your Courage, I ought to
+believe you sincere; for you venture into the Lyons Den when you come to
+see me.
+
+_Char._ If you'd consent whilst the furious Beast is abroad, I'd free
+you from the Reach of his Paws.
+
+_Isab._ That wou'd be but to avoid one Danger, by running into another;
+like the poor Wretches, who fly the Burning Ship, and meet their Fate in
+the Water. Come, come, _Charles_, I fear if I consult my Reason,
+Confinement and Plenty is better than Liberty and Starving. I know you'd
+make the Frolick pleasing for a little time, by Saying and Doing a World
+of tender things; but when our small Substance is once Exhausted, and a
+Thousand Requisits for Life are Wanting; Love, who rarely dwells with
+Poverty, wou'd also fail us.
+
+_Char._ Faith, I fancy not; methinks my Heart has laid up a Stock will
+last for Life; to back which, I have taken a Thousand Pound upon my
+Uncle's Estate; that surely will support us, till one of our Fathers
+relent.
+
+_Isab._ There's no trusting to that my Friend, I doubt your Father will
+carry his Humour to the Grave, and mine till he sees me settled in
+_Spain_.
+
+_Char._ And can ye then cruelly Resolve to stay till that curs'd _Don_
+arrives, and suffer that Youth, Beauty, Fire and Wit, to be sacrific'd
+to the Arms of a dull _Spaniard_, to be Immur'd and forbid the Sight of
+any thing that's Humane.
+
+_Isab._ No, when it comes to the Extremity, and no Stratagem can Relieve
+us, thou shalt List for a Soldier, and I'll carry thy Knapsack after
+thee.
+
+_Char._ Bravely Resolv'd; the World cannot be more Savage than our
+Parents, and Fortune generally assists the Bold; therefore Consent now:
+Why shou'd we put it to a future Hazard? who knows when we shall have
+another Opportunity?
+
+_Isab._ Oh, you have your Ladder of Ropes, I suppose, and the Closet
+Window stands just where it did; and if you han't forgot to write in
+Characters, _Patch_ will find a way for our Assignations. Thus much of
+the _Spanish_ Contrivance, my Father's Severity has taught me, I thank
+him; tho' I hate the Nation, I admire their Management in these Affairs.
+
+  _Enter _Patch_._
+
+_Patch._ Oh, Madam, I see my Master coming up the Street.
+
+_Char._ Oh the Devil, wou'd I had my Ladder now; I thought you had not
+expected him till Night; why, why, why, why; what shall I do, Madam?
+
+_Isab._ Oh, for Heaven's sake! don't go that way, you'll meet him full
+in the Teeth: Oh unlucky Moment!--
+
+_Char._ Adsheart, can you shut me into no Cupboard, Ram me into no
+Chest, ha?
+
+_Patch._ Impossible, Sir, he Searches every Hole in the House.
+
+_Isab._ Undone for ever! if he sees you, I shall never see you more.
+
+_Patch._ I have thought on't: Run you to your Chamber, Madam; and Sir,
+come you along with me, I'm certain you may easily get down from the
+Balcone.
+
+_Char._ My Life, _Adieu_--Lead on, Guide.
+    (_Exit._
+
+_Isab._ Heaven preserve him.
+    (_Exit._
+
+
+SCENE Changes to the Street.
+
+  _Enter Sir _Jealous_, with _Marplot_ behind him_._
+
+Sir _Jeal._ I don't know what's the matter; but I have a strong
+Suspicion, all is not right within; that Fellow's sauntring about my
+Door, and his Tale of a Puppy, had the Face of a Lye, methought. By St.
+_Jago_, if I shou'd find a Man in the House, I'd make Mince-Meat of
+him--
+
+_Marpl._ Ah, poor _Charles_--ha? Agad he is old--I fancy I might bully
+him, and make _Charles_ have an Opinion of my Courage.
+
+Sir _Jeal._ My own Key shall let me in; I'll give them no Warning.
+    (_Feeling for his Key._
+
+_Marpl._ What's that you say, Sir. (_Going up to Sir _Jealous_._
+
+Sir _Jeal._ What's that to you, Sir. (_Turns quick upon him._
+
+_Marpl._ Yes, 'tis to me, Sir; for the Gentleman you threaten is a very
+honest Gentleman. Look to't, for if he comes not as safe out of your
+House, as he went in, I have half a Dozen _Mirmidons_ hard-by shall beat
+it about your Ears.
+
+Sir _Jeal._ Went in; what is he in then? Ah! a Combination to undo
+me--I'll _Mirmidon_ you, ye Dog you--Thieves, Thieves.
+    (_Beat_'s Marplot_ all this while he cries _Thieves_._
+
+_Marpl._ Murder, Murder; I was not in your House, Sir.
+
+  _Enter Servant._
+
+_Serv._ What's the matter, Sir?
+
+Sir _Jeal._ The Matter, Rascals? Have you let a Man into my House; but
+I'll flea him Alive, follow me, I'll not leave a Mousehole unsearch'd;
+if I find him, by St. _Jago_, I'll Equip him for the _Opera._
+    (_Exit._
+
+_Marpl._ A Duce of his Cane, there's no trusting to Age--what shall I do
+to Relieve _Charles!_ Egad, I'll raise the Neighbourhood--Murder,
+Murder-- (__Charles_ drops down upon him from the Balcone._) _Charles_
+faith I'm glad to see thee safe out, with all my Heart.
+
+_Char._ A Pox of your Bawling: How the Devil came you here?
+
+_Marpl._ Here, gad I have done you a piece of Service; I told the old
+Thunderbolt, that the Gentleman that was gone in was--
+
+_Char._ Was it you that told him, Sir? (_Laying hold of him._) Z'death,
+I cou'd crush thee into Atoms.
+    (_Exit _Charles_._
+
+_Marpl._ What will you choak me for my Kindness?--will my Enquiring Soul
+never leave Searching into other Peoples Affairs, till it gets squeez'd
+out of my Body? I dare not follow him now, for my Blood, he's in such a
+Passion--I'll to _Miranda_; if I can discover ought that may oblige Sir
+_George_, it may be a means to Reconcile me agen to _Charles_.
+    (_Exit._
+
+  _Enter Sir _Jealous_ and _Servants_._
+
+Sir _Jeal._ Are you sure you have search'd every where?
+
+_Serv._ Yes, from the Top of the House to the Bottom.
+
+Sir _Jeal._ Under the Beds, and over the Beds?
+
+_Serv._ Yes, and in them too, but found no Body, Sir.
+
+Sir _Jeal._ Why, what cou'd this Rogue mean?
+
+  _Enter _Isabinda_ and _Patch_._
+
+_Patch._ Take Courage, Madam, I saw him safe out. (_Aside to _Isab_._
+
+_Isab._ Bless me! what's the matter, Sir?
+
+Sir _Jeal._ You know best--Pray where's the Man that was here just now?
+
+_Isab._ What Man, Sir? I saw none!
+
+_Patch._ Nor I, by the Trust you repose in me; do you think I wou'd let
+a Man come within these Doors, when you were absent?
+
+Sir _Jeal._ Ah _Patch_, she may be too cunning for thy Honesty; the very
+Scout that he had set to give Warning discover'd it to me--and
+threaten'd me with half a Dozen _Mirmidons_--But I think I maul'd the
+Villain. These Afflictions you draw upon me, Mistress!
+
+_Isab._ Pardon me, Sir, 'tis your own Ridiculous Humour draws you into
+these Vexations, and gives every Fool pretence to banter you.
+
+Sir _Jeal._ No, 'tis your Idle Conduct, your Coquetish Flurting into the
+Balcone--Oh with what Joy shall I resign thee into the Arms of Don
+_Diego Babinetto!_
+
+_Isab._ And with what Industry shall I avoid him!
+    (_Aside._
+
+Sir _Jeal._ Certainly that Rogue had a Message from some body or other;
+but being baulk'd by my coming, popt that Sham upon me. Come along, ye
+Sots, let's see if we can find the Dog again. _Patch_, lock her up; D'ye
+hear?
+    (_Exit with Servants._
+
+_Patch._ Yes, Sir--ay, walk till your Heels ake, you'll find no Body, I
+promise you.
+
+_Isab._ Who cou'd that Scout be, which he talks of?
+
+_Patch._ Nay, I can't imagine, without it was _Whisper_.
+
+_Isab._ Well, dear _Patch_, let's employ all our Thoughts how to escape
+this horrid Don _Diego_, my very Heart sinks at his Terrible Name.
+
+_Patch._ Fear not, Madam, Don _Carlo_ shall be the Man, or I'll lose the
+Reputation of Contriving, and then what's a Chambermaid good for?
+
+_Isab._ Say'st thou so, my Girl: Then--
+  _Let Dad be Jealous, multiply his Cares,
+  While Love instructs me to avoid the Snares;
+  I'll, spight of all his _Spanish_ Caution, show
+  How much for Love a _British_ Maid can do._
+    (Exit.
+
+
+SCENE _Sir _Francis Gripe_'s House._
+
+_Sir _Francis_ and _Miranda_ meeting._
+
+_Miran._ Well, _Gardee_, how did I perform my Dumb Scene?
+
+Sir _Fran._ To Admiration--Thou dear little Rogue, let me buss thee for
+it: Nay, adod, I will, _Chargee_, so muzle, and tuzle, and hug thee; I
+will, I faith, I will.
+    (_Hugging and Kissing her._
+
+_Miran._ Nay, _Gardee_, don't be so lavish; who wou'd Ride Post, when
+the Journey lasts for Life?
+
+Sir _Fran._ Ah wag, ah wag--I'll buss thee agen for that.
+
+_Miran._ Faugh! how he stinks of Tobacco! what a delicate Bedfellow I
+shou'd have!
+    (_Aside._
+
+Sir _Fran._ Oh I'm Transported! When, when, my Dear, wilt thou Convince
+the World of thy Happy Day? when shall we marry, ha?
+
+_Miran._ There's nothing wanting but your Consent, Sir _Francis_.
+
+Sir _Fran._ My Consent! what do's my Charmer mean?
+
+_Miran._ Nay, 'tis only a Whim: But I'll have every thing according to
+form--Therefore when you sign an Authentick Paper, drawn up by an able
+Lawyer, that I have your Leave to marry, the next Day makes me yours,
+_Gardee_.
+
+Sir _Fran._ Ha, ha, ha, a Whim indeed! why is it not Demonstration I
+give my Leave when I marry thee.
+
+_Miran._ Not for your Reputation, _Gardee_; the malicious World will be
+apt to say, you trick'd me into Marriage, and so take the Merit from my
+Choice. Now I will have the Act my own, to let the idle Fops see how
+much I prefer a Man loaded with Years and Wisdom.
+
+Sir _Fran._ Humph! Prithee leave out Years, _Chargee_, I'm not so old,
+as thou shalt find: Adod, I'm young; there's a Caper for ye.
+    (_Jumps_.
+
+_Miran._ Oh never excuse it, why I like you the better for being
+old--But I shall suspect you don't love me, if you Refuse me this
+Formality.
+
+Sir _Fran._ Not Love thee, _Chargee!_ Adod I do love thee better than,
+than, than, better than--what shall I say? Egad, better than Money, I
+faith I do--
+
+_Miran._ That's false I'm sure (_Aside._) To prove it do this then.
+
+Sir _Fran._ Well, I will do it, _Chargee_, provided I bring a License at
+the same time.
+
+_Miran._ Ay, and a Parson too, if you please; Ha, ha, ha, I can't help
+Laughing to think how all the young Coxcombs about Town will be
+mortify'd when they hear of our Marriage.
+
+Sir _Fran._ So they will, so they will; Ha, ha, ha.
+
+_Miran._ Well, I fancy I shall be so happy with my _Gardee!_
+
+Sir _Fran._ If wearing Pearls and Jewels, or eating Gold, as the old
+Saying is, can make thee happy, thou shalt be so, my Sweetest, my
+Lovely, my Charming, my--verily I know not what to call thee.
+
+_Miran._ You must know, _Gardee_, that I am so eager to have this
+Business concluded, that I have employ'd my Womans Brother, who is a
+Lawyer in the _Temple_, to settle Matters just to your Liking, you are
+to give your Consent to my Marriage, which is to your self, you know:
+But Mum, you must take up notice of that. So then I will, that is, with
+your Leave, put my Writings into his Hands; then to Morrow we come slap
+upon them with a Wedding, that no body thought on; by which you seize me
+and my Estate, and I suppose make a Bonfire of your own Act and Deed.
+
+Sir _Fran._ Nay, but _Chargee_, if--
+
+_Miran._ Nay, _Gardee_, no Ifs--Have I refus'd three _Northern_ Lords,
+two _British_ Peers, and half a score Knights, to have you put in your
+Ifs?--
+
+Sir _Fran._ So thou hast indeed, and I will trust to thy Management. Od,
+I'm all of a Fire.
+
+_Miran._ 'Tis a wonder the dry Stubble does not blaze.
+
+  _Enter _Marplot_._
+
+Sir _Fran._ How now! who sent for you, Sir? What's the Hundred Pound
+gone already?
+
+_Marpl._ No, Sir, I don't want Money now.
+
+Sir _Fran._ No, that's a Miracle! But there's one thing you want, I'm
+sure.
+
+_Marpl._ Ay, what's that, _Guardian?_
+
+Sir _Fran._ Manners, what had I no Servants without?
+
+_Marpl._ None that cou'd do my Business, _Guardian_, which is at present
+with this Lady.
+
+_Miran._ With me, Mr. _Marplot!_ what is it, I beseech you?
+
+Sir _Fran._ Ay, Sir, what is it? any thing that relates to her may be
+deliver'd to me.
+
+_Marpl._ I deny that.
+
+_Miran._ That's more than I do, Sir.
+
+_Marpl._ Indeed, Madam, why then to proceed: Fame says, that you and my
+most Conscionable _Guardian_ here, design'd, contriv'd, plotted and
+agreed to chouse a very civil, honourable, honest Gentleman, out of a
+Hundred Pound.
+
+_Miran._ That I contrived it!
+
+_Marpl._ Ay you--You said never a Word against it, so far you are
+Guilty.
+
+Sir _Fran._ Pray tell that civil, honourable, honest Gentleman, that if
+he has any more such Sums to fool away, they shall be received like the
+last; Ha, ha, ha, ha, chous'd, quotha! But hark ye, let him know at the
+same time, that if he dare to report I trick'd him of it, I shall
+recommend a Lawyer to him shall shew him a Trick for twice as much; D'ye
+hear, tell him that.
+
+_Marpl._ So, and this is the way you use a Gentleman, and my Friend.
+
+_Miran._ Is the Wretch thy Friend?
+
+_Marpl._ The Wretch! Look ye, Madam, don't call Names; Egad I won't take
+it.
+
+_Miran._ Why you won't beat me, will you? Ha, ha.
+
+_Marpl._ I don't know whether I will or no.
+
+Sir _Fran._ Sir, I shall make a Servant shew you out at the Window if
+you are sawcy.
+
+_Marpl._ I am your most humble Servant, _Guardian_; I design to go out
+the same way I came in. I wou'd only ask this Lady, if she do's not
+think in her Soul Sir _George Airy_ is not a fine Gentleman.
+
+_Miram._ He Dresses well.
+
+Sir _Fran._ Which is chiefly owing to his Taylor, and _Valet de
+Chamber_.
+
+_Miran._ And if you allow that a proof of his being a fine Gentleman, he
+is so.
+
+_Marpl._ The judicious part of the World allow him Wit, Courage,
+Gallantry and Management; tho' I think he forfeited that Character, when
+he flung away a Hundred Pound upon your Dumb Ladyship.
+
+Sir _Fran._ Does that gaul him? Ha, ha, ha.
+
+_Miran._ So, Sir _George_ remaining in deep Discontent, has sent you his
+trusty Squire, to utter his Complaint: Ha, ha, ha.
+
+_Marpl._ Yes, Madam; and you, like a cruel, hard-hearted Jew, value it
+no more--than I wou'd your Ladyship, were I Sir _George_, you, you,
+you--
+
+_Miran._ Oh, don't call Names. I know you love to be employ'd, and I'll
+oblige you; and you shall carry him a Message from me.
+
+_Marpl._ According as I like it: What is it?
+
+_Miran._ Nay, a kind one you may be sure--First tell him, I have chose
+this Gentleman to have, and to hold, and so forth.
+    (_Clapping her Hand into Sir _Francis_'s._
+
+Sir _Fran._ Oh the dear Rogue, how I dote on her!
+    (_Aside._
+
+_Miran._ And advise his Impertinence to trouble me no more, for I prefer
+Sir _Francis_ for a Husband before all the Fops in the Universe.
+
+_Marpl._ Oh Lord, Oh Lord! She's bewitch'd, that's certain; Here's a
+Husband for Eighteen--Here's a Shape--Here's Bones ratling in a Leathern
+Bag. (_Turning Sir _Francis_ about._) Here's Buckram, and Canvass, to
+scrub you to Repentance.
+
+Sir _Fran._ Sirrah, my Cane shall teach you Repentance presently.
+
+_Marpl._ No faith, I have felt its Twin-Brother from just such a
+wither'd Hand too lately.
+
+_Miran._ One thing more, advise him to keep from the Garden Gate on the
+left Hand; for if he dares to saunter there, about the Hour of Eight, as
+he used to do, he shall be saluted with a Pistol or a Blunderbuss.
+
+_Sir Fran._ Oh monstrous! why _Chargee_; did he use to come to the
+Garden Gate?
+
+_Miran._ The Gardner describ'd just such another Man that always watch'd
+his coming out, and fain wou'd have bribed him for his Entrance--tell
+him he shall find a warm Reception if he comes this Night.
+
+_Marpl._ Pistols and Blunderbusses! Egad, a warm Reception indeed; I
+shall take care to inform him of your Kindness, and advise him to keep
+farther off.
+
+_Miran._ I hope he will understand my Meaning better, than to follow
+your Advice.
+    (_Aside._
+
+Sir _Fran._ Thou hast sign'd, seal'd, and ta'en Possession of my Heart;
+for ever, _Chargee_, Ha, ha, ha; and for you, Mr. Sauce-box, let me have
+no more of your Messages, if ever you design to inherit your Estate,
+Gentleman.
+
+_Marpl._ Why there 'tis now. Sure I shall be out of your Clutches one
+Day.--Well, _Guardian_, I say no more; but if you be not as errant a
+Cuckold, as e're drove Bargain upon the Exchange, or paid Attendance to
+a Court; I am the Son of a Whetstone; and so your humble Servant.
+    (_Exit._
+
+_Miran._ Don't forget the Message; Ha, ha.
+
+Sir _Fran._ I am so provok'd!--'tis well he's gone.
+
+_Miran._ Oh mind him not, _Gardee_, but let's sign Articles, and then--
+
+Sir _Fran._ And then--Adod, I believe I am Metamorphos'd; my Pulse beats
+high, and my Blood boils, methinks--
+    (_Kissing and Hugging her._
+
+_Miran._ Oh fye, _Gardee_, be not so violent; Consider the Market lasts
+all the Year--Well, I'll in and see if the Lawyer be come, you'll
+follow.
+    (_Exit._
+
+Sir _Fran._ Ay, to the World's End, my Dear. Well, _Franck_, thou art a
+lucky Fellow in thy old Age, to have such a delicate Morsel, and Thirty
+Thousand Pound in love with thee; I shall be the Envy of Batchelors, the
+Glory of Marry'd Men, and the Wonder of the Town. Some Guardians wou'd
+be glad to compound for part of the Estate, at dispatching an Heiress,
+but I engross the whole: _O! Mihi praeteritos referet si Jupiter Annos._
+    (Exit.
+
+
+SCENE _Changes to a Tavern; discovers Sir _George_ and _Charles_ with
+Wine before them, and _Whisper_ waiting._
+
+Sir _Geo._ Nay, prithee don't be Grave, _Charles;_ Misfortunes will
+happen: Ha, ha, ha, 'tis some Comfort to have a Companion in our
+Sufferings.
+
+_Char._ I am only apprehensive for _Isabinda_, her Father's Humour is
+implacable; and how far his Jealousie may transport him to her Undoing,
+shocks my Soul to think.
+
+Sir _Geo._ But since you escap'd undiscover'd by him, his Rage will
+quickly lash into a Calm, never fear it.
+
+_Char._ But who knows what that unlucky Dog, _Marplot_, told him; nor
+can I imagine what brought him thither; that Fellow is ever doing
+Mischief; and yet, to give him his due, he never designs it. This is
+some Blundering Adventure, wherein he thought to shew his Friendship, as
+he calls it: A Curse on him.
+
+Sir _Geo._ Then you must forgive him; what said he?
+
+_Char._ Said! nay, I had more mind to cut his Throat, than hear his
+Excuses.
+
+Sir _Geo._ Where is he?
+
+_Whisp._ Sir, I saw him go into Sir _Francis Gripe_'s just now.
+
+_Char._ Oh! then he is upon your Business, Sir _George_; a thousand to
+one, but he makes some Mistake there too.
+
+Sir _Geo._ Impossible, without he huffs the Lady, and makes Love to Sir
+_Francis_.
+
+  _Enter Drawer._
+
+_Draw._ Mr. _Marplot_ is below, Gentlemen, and desires to know if he may
+have Leave to wait upon ye.
+
+_Char._ How civil the Rogue is when he has done a fault!
+
+Sir _Geo._ Ho! Desire him to walk up. Prithee, _Charles_, throw off this
+Chagreen, and be good Company.
+
+_Char._ Nay, hang him, I'm not angry with him. _Whisper_, fetch me Pen,
+Ink and Paper.
+
+_Whisp._ Yes, Sir.
+
+    (_Ex. _Whisp_._
+
+  _Enter _Marplot_._
+
+_Char._ Do but mark his sheepish Look, Sir _George_.
+
+_Marpl._ Dear _Charles,_ don't o'erwhelm a Man--already under
+insupportable Affliction. I'm sure I always intend to serve my Friends;
+but if my malicious Stars deny the Happiness, is the fault mine?
+
+Sir _Geo._ Never mind him, Mr. _Marplot_, he is eat up with Spleen. But
+tell me, what says _Miranda?_
+
+_Marpl._ Says--nay, we are all undone there too.
+
+_Char._ I told you so; nothing prospers that he undertakes.
+
+_Marpl._ Why can I help her having chose your Father for Better for
+Worse?
+
+_Char._ So: There's another of Fortune's Strokes; I suppose I shall be
+Edg'd out of my Estate, with Twins every Year, let who will get 'em.
+
+Sir _Geo._ What is the Woman really Possest?
+
+_Marpl._ Yes with the Spirit of Contradiction, she rail'd at you most
+prodigiously.
+
+Sir _Geo._ That's no ill Sign.
+
+  _Enter _Whisper_, with Pen, Ink and Paper._
+
+_Marpl._ You'd say it was no good Sign, if you knew all.
+
+Sir _Geo._ Why, prithee?
+
+_Marpl._ Hark'e, Sir _George_, Let me warn you, pursue your old Haunt no
+more, it may be dangerous.
+    (Charles _sits down to write._
+
+Sir _Geo._ My old Haunt, what d'you mean?
+
+_Marpl._ Why in short then, since you will have it, _Miranda_ vows if
+you dare approach the Garden-Gate at Eight a Clock, as you us'd, you
+shall be saluted with a Blunderbuss, Sir. These were her Words; nay, she
+bid me tell you so too.
+
+Sir _George_, Ha! The Garden-Gate at Eight, as I us'd to do! There must
+be a Meaning in this. Is there such a Gate, _Charles?_
+
+_Char._ Yes, yes; it opens into the Park, I suppose her Ladyship has
+made many a Scamper through it.
+
+Sir _Geo_. It must be an Assignation then. Ha, my Heart springs with
+Joy, 'tis a propitious Omen. My dear _Marplot_, let me embrace thee,
+thou art my Friend, my better Angel--
+
+_Marpl._ What do you mean, Sir _George?_
+
+Sir _Geo._ No matter what I mean. Here take a Bumper to the Garden-Gate,
+ye dear Rogue, you.
+
+_Marpl._ You have Reason to be transported, Sir _George_; I have sav'd
+your Life.
+
+Sir _Geo_. My Life! thou hast sav'd my Soul, Man. _Charles_, if thou
+do'st not pledge this Health, may'st thou never taste the Joys of Love.
+
+_Char._ _Whisper_, be sure you take care how you deliver this (_gives
+him the Letter_) bring me the Answer to my Lodgings.
+
+_Whisp._ I warrant you, Sir.
+    (_Exit._
+
+_Marpl._ Whither does that Letter go?--Now dare I not ask for my Blood.
+
+_Char._ Now I'm for you.
+
+Sir _Geo._ To the Garden-Gate at the Hour of Eight, _Charles_, along,
+Huzza!
+
+_Char._ I begin to conceive you.
+
+_Marpl._ That's more than I do, Egad--to the Garden-Gate, Huzza,
+(_Drinks._) But I hope you design to keep far enough off on't, Sir
+_George_.
+
+Sir _Geo._ Ay, ay, never fear that; she shall see I despise her Frowns,
+let her use her Blunderbuss against the next Fool, she shan't reach me
+with the Smoak, I warrant her, Ha, ha, ha.
+
+_Marpl._ Ah, _Charles_, if you cou'd receive a Disappointment thus _En
+Cavalier_, one shou'd have some comfort in being beat for you.
+
+_Char._ The Fool comprehends nothing.
+
+Sir _Geo._ Nor wou'd I have him; prithee take him along with thee.
+
+_Char._ Enough: _Marplot_, you shall go home with me.
+
+_Marpl._ I'm glad I'm well with him however. Sir _George_, yours. Egad,
+_Charles_, asking me to go home with him, gives me a shrewd suspicion
+there's more in the Garden-Gate, than I comprehend. Faith, I'll give him
+the drop, and away to _Guardians_, and find it out.
+
+Sir _Geo._ I kiss both your Hands--And now for the Garden-Gate.
+
+  _It's Beauty gives the Assignation there,_
+  _And Love too powerful grows t' admit of Fear._
+    (_Exit._
+
+_The End of the Third Act._
+
+
+
+
+ACT the Fourth.
+
+SCENE the Out-side of Sir _Jealous Traffick_'s House, _Patch_ peeping
+out of Door.
+
+
+  _Enter _Whisper_._
+
+_Whisp._ Ha, Mrs. _Patch_, this is a lucky Minute, to find you so
+readily, my Master dies with Impatience.
+
+_Patch._ My Lady imagin'd so, and by her Orders I have been scouting
+this hour in search of you, to inform you that Sir _Jealous_ has invited
+some Friends to Supper with him to Night, which gives an Opportunity to
+your Master to make use of his Ladder of Ropes: The Closet Window shall
+be open, and _Isabinda_ ready to receive him; bid him come immediately.
+
+_Whisp._ Excellent, He'll not disappoint I warrant him: But hold, I have
+a Letter here, which I'm to carry an Answer of: I can't think what
+Language the Direction is.
+
+_Patch._ Pho, 'tis no Language, but a Character which the Lovers
+invented to avert Discovery: Ha, I hear my old Master coming down
+Stairs, it is impossible you shou'd have an Answer; away, and bid him
+come himself for that--begone we are ruined if you're seen, for he has
+doubl'd his Care since the last Accident.
+
+_Whisp._ I go, I go.
+    [_Exit._
+
+_Patch._ There, go thou into my Pocket. [_Puts it besides, and it falls
+down._] Now I'll up the back Stairs, lest I meet him. Well, a dexterous
+Chamber-maid is the Ladies best Utensil, I say.
+    [_Exit._
+
+  _Enter Sir _Jealous_ with a Letter in his Hand._
+
+Sir _Jeal._ So, this is some Comfort, this tells me that _Seignior Don
+Diego Babinetto_ is safely arriv'd, he shall marry my Daughter the
+Minute he comes, ha. What's here [_takes up the Letter _Patch_ drop'd_]
+a Letter! I don't know what to make of the Superscription. I'll see
+what's within side, [_opens it_] humph; 'tis _Hebrew_ I think. What can
+this mean. There must be some trick in it; this was certainly design'd
+for my Daughter, but I don't know that she can speak any Language but
+her Mother-Tongue. No matter for that, this may be one of Love's
+Hieroglyphicks, and I fancy I saw _Patch_'s Tail sweep by. That Wench
+may be a Slut, and instead of guarding my Honour, betray it; I'll find
+it out I'm resolv'd; who's there? What Answer did you bring from the
+Gentlemen I sent you to invite?
+
+_Serv._ That they'd all wait of you, Sir, as I told you before, but I
+suppose you forget, Sir.
+
+Sir _Jeal._ Did I so, Sir, but I shan't forget to break your Head, if
+any of 'em come, Sir.
+
+_Serv._ Come, Sir, why did not you send me to desire their Company, Sir?
+
+Sir _Jeal._ But I send you now to desire their Absence; say I have
+something extraordinary fallen out, which calls me abroad, contrary to
+Expectation, and ask their Pardon, and d'ye hear, send the Butler to me.
+
+_Serv._ Yes, Sir.
+    [_Exit._
+
+  _Enter _Butler_._
+
+Sir _Jeal._ If this Paper has a Meaning I'll find it. Lay the Cloath in
+my Daughter's Chamber, and bid the Cook send Supper thither presently.
+
+_Butl._ Yes, Sir,--hey day, what's the Matter now?
+    [_Exit._
+
+Sir _Jeal._ He wants the Eyes of _Argus_, that has a young handsome
+Daughter in this Town, but my Comfort is, I shall not be troubl'd long
+with her. He that pretends to rule a Girl once in her Teens, had better
+be at Sea in a Storm, and would be in less Danger.
+  _For let him do, or Counsel all he can,_
+  _She thinks and dreams of nothing else but Man._
+    [_Exit._
+
+
+SCENE _Isabinda_'s Chamber, _Isabinda_ and _Patch_.
+
+_Isab._ Are you sure, no Body saw you speak to _Whisper?_
+
+_Patch._ Yes, very sure Madam, but I heard Sir _Jealous_ coming down
+Stairs, so I clap'd this Letter into my Pocket.
+    (_Feels for the Letter._
+
+_Isab._ A Letter! give it me quickly.
+
+_Patch._ Bless me! what's become on't--I'm sure I put it--
+    (_Searching still._
+
+_Isab._ Is it possible, thou could'st be so Careless--Oh! I'm undone for
+ever if it be lost.
+
+_Patch._ I must have drop'd it upon the Stairs. But why are you so much
+alarm'd, if the worst happens no body can read it, Madam, nor find out
+whom it was design'd for.
+
+_Isab._ If it falls into my Father's Hands the very Figure of a Letter
+will produce ill Consequences. Run and look for it upon the Stairs this
+Moment.
+
+_Patch._ Nay, I'm sure it can be no where else.-- (_As she's going out
+of the Door meets the Butler._) How now, what do you want?
+
+_Butl._ My Master order'd me to lay the Cloth here for his Supper.
+
+_Isab._ Ruin'd past Redemption--
+    (_Aside._
+
+_Patch._ You mistake sure; what shall we do?
+
+_Isab._ I thought he expected Company to Night--Oh! poor _Charles_--Oh!
+unfortunate _Isabinda_.
+
+_Butl._ I thought so too Madam, but I suppose he has alter'd his Mind.
+    (_Lays the Cloth, and Exit._
+
+_Isab._ The Letter is the Cause; this heedless Action has undone me: Fly
+and fasten the Closet-window, which will give _Charles_ notice to
+retire. Ha, my Father, oh! Confusion.
+
+  _Enter Sir _Jealous_._
+
+Sir _Jeal._ Hold, hold, _Patch_, whither are you going. I'll have no
+body stir out of the Room till after Supper.
+
+_Patch._ Sir, I was only going to reach your easie Chair--Oh! wretched
+Accident!
+
+Sir _Jeal._ I'll have no body stir out of the Room. I don't want my
+easie Chair.
+
+_Isab._ What will be the event of this? (_Aside._
+
+Sir _Jeal._ Hark ye Daughter, do you know this Hand?
+
+_Isab._ As I suspected--Hand do you call it, Sir? 'Tis some School-boy's
+Scraul.
+
+_Patch._ Oh! Invention, thou Chamber-maid's best Friend, assist me.
+    (_Aside._
+
+Sir _Jeal._ Are you sure you don't understand it?
+
+(_Patch._ _Feels in her Bosom, and shakes her Coats._)
+
+_Isab._ Do you understand it, Sir?
+
+Sir _Jeal._ I wish I did.
+
+_Isab._ Thank Heaven you do not. (_aside_) Then I know no more of it
+than you do indeed, Sir.
+
+_Patch._ Oh Lord, Oh Lord, what have you done, Sir? Why the Paper is
+mine, I drop'd it out of my Bosom.
+    (_Snatching it from him._
+
+Sir _Jeal._ Ha! yours, Mistress.
+
+_Isab._ What does she mean by owning it.
+    (_Aside._
+
+_Patch._ Yes, Sir, it is.
+
+Sir _Jeal._ What is it? Speak.
+
+_Patch._ Why, Sir, it is a Charm for the Tooth-ach--I have worn it this
+seven Year, 'twas given me by an Angel for ought I know, when I was
+raving with the Pain; for no body knew from whence he came, nor whither
+he went, he charg'd me never to open it, lest some dire Vengeance befal
+me, and Heaven knows what will be the Event. Oh! cruel Misfortune that I
+should drop it, and you should open it--If you had not open'd it--
+
+_Isab._ Excellent Wench.
+    (_Aside._
+
+Sir _Jeal._ Pox of your Charms, and Whims for me, if that be all 'tis
+well enough; there, there, burn it, and I warrant you no Vengeance will
+follow.
+
+_Patch._ So, all's right again thus far.
+    (_Aside._
+
+_Isab._ I would not lose _Patch_ for the World--I'll take courage a
+little. (_aside_) Is this Usage for your Daughter, Sir, must my Virtue
+and Conduct be suspected? For every Trifle, you immure me like some dire
+Offender here, and deny me all Recreations which my Sex enjoy, and the
+Custom of the Country and Modesty allow; yet not content with that you
+make my Confinement more intolerable by your Mistrusts and Jealousies;
+wou'd I were dead, so I were free from this.
+    (_Weeps._
+
+Sir _Jeal._ To morrow rids you of this tiresome Load,--_Don Diego
+Babinetto_ will be here, and then my Care ends and his begins.
+
+_Isab._ Is he come then! Oh how shall I avoid this hated Marriage?
+    (_Aside._
+
+  _Enter Servants with Supper._
+
+Sir _Jeal._ Come will you sit down?
+
+_Isab._ I can't eat, Sir.
+
+_Patch._ No, I dare swear he has given her Supper enough. I wish I cou'd
+get into the Closet--
+    (_Aside._
+
+Sir _Jeal._ Well, if you can't eat, then give me a Song whilst I do.
+
+_Isab._ I have such a Cold I can scarce speak, Sir, much less sing. How
+shall I prevent _Charles_ coming in.
+    (_Aside._
+
+Sir _Jeal._ I hope you have the Use of your Fingers, Madam. Play a Tune
+upon your _Spinnet_, whilst your Woman sings me a Song.
+
+_Patch._ I'm as much out of Tune as my Lady, if he knew all.
+    (_Aside._
+
+_Isab._ I shall make excellent Musick. (_Sits down to play._
+
+_Patch._ Really, Sir, I'm so frighted about your opening this Charm,
+that I can't remember one Song.
+
+Sir _Jeal._ Pish, hang your Charm; come, come, sing any thing.
+
+_Patch._ Yes, I'm likely to sing truly (_aside_) humph, humph, bless me,
+Sir, I cannot raise my Voice, my Heart pants so.
+
+Sir _Jeal._ Why, what does your Heart pant so that you can't play
+neither? Pray what Key are you in, ha?
+
+_Patch._ Ah, wou'd the Key was turn'd of you once.
+    (_Aside._
+
+Sir _Jeal._ Why don't you sing, I say!
+
+_Patch._ When Madam has put her _Spinnet_ in Tune, Sir, humph, humph.--
+
+_Isab._ I cannot play, Sir, whatever ails me.
+    (_Rising._
+
+Sir _Jeal._ Zounds sit down, and play me a Tune, or I'll break the
+_Spinnet_ about your Ears.
+
+_Isab._ What will become of me?
+    (_Sits down and plays._
+
+Sir _Jeal._ Come, Mistress.
+    (_To_ Patch
+
+_Patch._ Yes, Sir.
+    (_Sings, but horribly out of Tune._
+
+Sir _Jeal._ Hey, hey, why you are a top of the House, and you are down
+in the Cellar. What is the meaning of this? Is it on purpose to cross
+me, ha?
+
+_Patch._ Pray Madam, take it a little lower, I cannot reach that
+Note--nor any Note I fear.
+
+_Isab._ Well, begin--Oh! _Patch_ we shall be discover'd.
+
+_Patch._ I sink with the Apprehension, Madam,--humph, humph-- (_Sings_)
+
+    (__Charles_ pulls open the Closet Door._
+
+_Char._ Musick and Singing
+  _'Tis thus the bright Coelestial Court above,_
+  _Beguiles the Hours with Musick and with Love._
+Death! her Father there, (_The Women shriek_) then I must fly--
+    (_Exit into the Closet_)
+
+    (_Sir _Jealous_ rises up hastily, seeing _Charles_ slip back into
+    the Closet._
+
+Sir _Jeal._ Hell and Furies, a Man in the Closet--
+
+_Patch._ Ah! a Ghost, a Ghost--he must not enter the Closet--
+    (Isabinda _throws her self down before the Closet-door as in
+    a Sound._
+
+Sir _Jeal._ The Devil! I'll make a Ghost of him I warrant you.
+    (_Strives to get by._
+
+_Patch._ Oh hold, Sir, have a care, you'l tread upon my Lady-- who waits
+there? Bring some Water: Oh! this comes of your opening the Charm: Oh,
+oh, oh, oh.
+    (_Weeps aloud._
+
+Sir _Jeal._ I'll Charm you, House-wife, here lies the Charm, that
+conjur'd this Fellow in I'm sure on't, come out you Rascal, do so:
+Zounds take her from the Door, or I'll spurn her from it, and break your
+Neck down Stairs.
+
+_Isab._ Oh, oh, where am I--He's gone, I heard him leap down.
+    (_Aside to _Patch_._
+
+_Patch._ Nay, then let him enter--here, here Madam, smell to this; come
+give me your Hand; come nearer to the Window, the Air will do you good.
+
+Sir _Jeal._ I wou'd she were in her Grave. Where are you, Sirrah,
+Villain, Robber of my Honour; I'll pull you out of your Nest.
+    (_Goes into the Closet._
+
+_Patch._ You'l be mistaken, old Gentleman, the Bird is flown.
+
+_Isab._ I'm glad I have 'scap'd so well. I was almost dead in earnest
+with the Fright.
+
+  _Re-enter Sir _Jealous_ out of the Closet._
+
+Sir _Jeal._ Whoever the Dog were he has escap'd out of the Window, for
+the Sash is up. But tho' he is got out of my Reach, you are not: And
+first Mrs. _Pandor_, with your Charms for Tooth-ach, get out of my
+House, go, troop; yet hold, stay, I'll see you out of my Doors my self,
+but I'll secure your Charge e'er I go.
+
+_Isab._ What do you mean, Sir? Was she not a Creature of your own
+providing?
+
+Sir _Jeal._ She was of the Devil's providing for ought I know.
+
+_Patch._ What have I done, Sir to merit your Displeasure?
+
+Sir _Jeal._ I don't know which of you have done it; but you shall both
+suffer for it, till I can discover whose Guilt it is: Go get in there,
+I'll move you from this side of the House (_Pushes _Isabinda_ in at the
+other Door, and locks it; puts the Key in his Pocket._) I'll keep the
+Key my self: I'll try what Ghost will get into that Room. And now
+forsooth I'll wait on you down Stairs.
+
+_Patch._ Ah, my poor Lady--Down Stairs, Sir, but I won't go out, Sir,
+till I have look'd up my Cloaths.
+
+Sir _Jeal._ If thou wer't as naked as thou wer't born, thou should'st
+not stay to put on a Smock. Come along, I say, when your Mistress is
+marry'd you shall have your Rags, and every thing that belongs to you;
+but till then--
+    (_Exit, pulling her out._
+
+_Patch._ Oh! barbarous Usage for nothing.
+
+  _Re-enter at the lower Door._
+
+Sir _Jeal._ There, go, and, come no more within sight of my Habitation,
+these three Days, I charge you.
+    (_Slaps the Door after her._
+
+_Patch._ Did ever any Body see such an old Monster!
+
+  _Enter _Charles_._
+
+_Patch._ Oh! Mr. _Charles_ your Affairs and mine are in an ill Posture.
+
+_Char._ I am immur'd to the Frowns of Fortune: But what has befal'n
+thee?
+
+_Patch._ Sir _Jealous_, whose suspicious Nature's always on the Watch;
+nay, even whilst one Eye sleeps, the other keeps Sentinel: Upon sight of
+you, flew into such a violent Passion, that I cou'd find no Stratagem to
+appease him, but in spight of all Arguments, lock'd his Daughter into
+his own Apartment, and turn'd me out of Doors.
+
+_Char._ Ha! oh, _Isabinda_.
+
+_Patch._ And swears she shall neither see Sun nor Moon, till she is _Don
+Diego Babinetto_'s Wife, who arrived last Night, and is expected with
+impatience.
+
+_Char._ He dies, yes, by all the Wrongs of Love he shall; here will I
+plant my self, and thro' my Breast he shall make his Passage, if he
+enters.
+
+_Patch._ A most heroick Resolution. There might be ways found out more
+to your Advantage. Policy is often preferr'd to open force.
+
+_Char._ I apprehend you not.
+
+_Patch._ What think you of personating this _Spaniard_, imposing upon
+the Father, and marrying your Mistress by his own Consent.
+
+_Char._ Say'st thou so my Angel! Oh cou'd that be done, my Life to come
+wou'd be too short to recompence thee: But how can I do that, when I
+neither know what Ship he came in, nor from what part of _Spain_; who
+recommends him, nor how attended.
+
+_Patch._ I can solve all this. He is from _Madrid_, his Father's Name
+_Don Pedro Questo Portento Babinetto_. Here's a Letter of his to Sir
+_Jealous_, which he drop'd one Day; you understand _Spanish_, and the
+Hand may be counterfeited: You conceive me, Sir.
+
+_Char._ My better Genius, thou hast reviv'd my drooping Soul: I'll about
+it instantly. Come to my Lodgings, and we'll concert Matters.
+
+    (_Exeunt._
+
+
+SCENE a Garden Gate open, _Scentwell_ waiting within.
+
+  _Enter Sir _George Airy_._
+
+Sir _Geo._ So, this is the Gate, and most invitingly open: If there
+shou'd be a Blunderbuss here now, what a dreadful Ditty wou'd my Fall
+make for Fools; and what a Jest for the Wits; how my Name wou'd be
+roar'd about Streets. Well I'll venture all.
+
+_Scentw._ Hist, hist, Sir _George Airy_--
+    (_Enters._
+
+Sir _Geo._ A Female Voice, thus far I'm safe, my Dear.
+
+_Scentw._ No, I'm not your Dear, but I'll conduct you to her, give me
+your Hand; you must go thro' many a dark Passage and dirty Step before
+you arrive--
+
+Sir _Geo._ I know I must before I arrive at Paradise; therefore be quick
+my charming Guide.
+
+_Scentw._ For ought you know; come, come your Hand and away.
+
+Sir _Geo._ Here, here Child, you can't be half so swift as my Desires.
+
+    (_Exeunt._
+
+
+SCENE the House.
+
+  _Enter _Miranda_._
+
+_Miran._ Well, let me reason a little with my mad self. Now don't I
+transgress all Rules to venture upon a Man, without the Advice of the
+Grave and Wise; but then a rigid knavish Guardian who wou'd have marry'd
+me. To whom? Even to his nauseous self, or no Body: Sir _George_ is what
+I have try'd in Conversation, inquir'd into his Character, am satisfied
+in both. Then his Love; who wou'd have given a hundred Pound only to
+have seen a Woman he had not infinitely loved? So I find my liking him
+has furnish'd me with Arguments enough of his side; and now the only
+Doubt remains whether he will come or no.
+
+  _Enter _Scentwell_._
+
+_Scentw._ That's resolv'd, Madam, for here's the Knight.
+    _Exit_ Scentwell.
+
+Sir _Geo._ And do I once more behold that lovely Object, whose Idea
+fills my Mind, and forms my pleasing Dreams!
+
+_Miran._ What beginning again in Heroicks!--Sir _George_, don't you
+remember how little Fruit your last Prodigal Oration produced, not one
+bare single Word in answer.
+
+Sir _Geo._ Ha! the Voice of my _Incognita_--Why did you take Ten
+Thousand ways to captivate a Heart your Eyes alone had vanquish'd?
+
+_Miran._ Prithee, no more of these Flights; for our Time's but short,
+and we must fall into Business: Do you think we can agree on that same
+terrible Bugbear, _Matrimony_, without heartily Repenting on both sides.
+
+Sir _Geo._ It has been my wish since first my longing Eyes beheld ye.
+
+_Miran._ And your happy Ears drank in the pleasing News, I had Thirty
+Thousand Pound.
+
+Sir _Geo._ Unkind! Did I not offer you in those purchas'd Minutes to run
+the Risque of your Fortune, so you wou'd but secure that lovely Person
+to my Arms.
+
+_Miran._ Well, if you have such Love and Tenderness, (since our Woing
+has been short) pray reserve it for our future Days, to let the World
+see we are Lovers after Wedlock; 'twill be a Novelty--
+
+Sir _Geo._ Haste then, and let us tye the Knot, and prove the envy'd
+Pair--
+
+_Miran._ Hold! not so fast, I have provided better than to venture on
+dangerous Experiments headlong--My _Guardian_, trusting to my dissembled
+Love, has given up my Fortune to my own dispose; but with this
+_Proviso_, that he to Morrow morning weds me. He is now gone to _Doctors
+Commons_ for a License.
+
+Sir _Geo._ Ha, a License!
+
+_Miran._ But I have planted Emissaries that infallibly take him down to
+_Epsom_, under pretence that a Brother Usurer of his, is to make him his
+Executor; the thing on Earth he covets.
+
+Sir _Geo._ 'Tis his known Character.
+
+_Miran._ Now my Instruments confirm him, this Man is dying, and he sends
+me word he goes this Minute; it must be to Morrow e'er he can be
+undeceiv'd. That time is ours.
+
+Sir _Geo._ Let us improve it then, and settle on our coming Years,
+endless, endless Happiness.
+
+_Miran._ I dare not stir till I hear he's on the Road--then I and my
+Writings, the most material point, are soon removed.
+
+Sir _Geo._ I have one Favour to ask, if it lies in your power, you wou'd
+be a Friend to poor _Charles_, tho' the Son of this tenacious Man: He is
+as free from all his Vices, as Nature and a good Education can make him;
+and what now I have vanity enough to hope will induce you, he is the Man
+on Earth I love.
+
+_Miran._ I never was his Enemy, and only put it on as it help'd my
+Designs on his Father. If his Uncle's Estate ought to be in his
+Possession, which I shrewdly suspect, I may do him a singular piece of
+Service.
+
+Sir _Geo._ You are all Goodness.
+
+  _Enter _Scentwell_._
+
+_Scentw._ Oh, Madam, my Master and Mr. _Marplot_ are just coming into
+the House.
+
+_Miran._ Undone, undone! if he finds you here in this Crisis, all my
+Plots are unravell'd.
+
+Sir _Geo._ What shall I do! can't I get back into the Garden?
+
+_Scentw._ Oh, no! he comes up those Stairs.
+
+_Miran._ Here, here, here! can you condescend to stand behind this
+Chimney-Board, Sir _George?_
+
+Sir _Geo._ Any where, any where, dear Madam, without Ceremony.
+
+_Scentw._ Come, come, Sir; lie close--
+    (_They put him behind the Chimney-Board._
+
+  _Enter Sir _Francis_ and _Marplot_: Sir _Francis_ peeling an Orange_._
+
+Sir _Fran._ I cou'd not go, tho' 'tis upon Life and Death, without
+taking leave of dear _Chargee_. Besides, this Fellow buz'd in my Ears,
+that thou might'st be so desperate to shoot that wild Rake which haunts
+the Garden-Gate; and that wou'd bring us into Trouble, dear--
+
+_Miran._ So, _Marplot_ brought you back then: I am oblig'd to him for
+that, I'm sure--
+    (_Frowning at _Marplot_ aside._
+
+_Marpl._ By her Looks she means she is not oblig'd to me. I have done
+some Mischief now, but what I can't imagine.
+
+Sir _Fran._ Well, _Chargee_, I have had three Messengers to come to
+_Epsom_ to my Neighbour _Squeezum_'s who, for all his vast Riches, is
+departing.
+    (_Sighs._
+
+_Marpl._ Ay, see what all you Usurers must come to.
+
+Sir _Fran._ Peace, ye young Knave! Some Forty Years hence I may think
+on't--But, _Chargee_, I'll be with thee to Morrow, before those pretty
+Eyes are open; I will, I will, _Chargee_, I'll rouze you, I saith.--Here
+Mrs. _Scentwell_, lift up your Lady's Chimney-Board, that I may throw my
+Peel in, and not litter her Chamber.
+
+_Miran._ Oh my Stars! what will become of us now?
+
+_Scentw._ Oh, pray Sir, give it me; I love it above all things in
+Nature, indeed I do.
+
+Sir _Fran._ No, no, Hussy; you have the Green Pip already, I'll have no
+more Apothecary's Bills.
+    (_Goes towards the Chimney._
+
+_Miran._ Hold, hold, hold, dear _Gardee_, I have a, a, a, a, a Monkey
+shut up there; and if you open it before the Man comes that is to tame
+it, 'tis so wild 'twill break all my China, or get away, and that wou'd
+break my Heart; for I am fond on't to Distraction, next thee, dear
+_Gardee_.
+    (_In a flattering Tone._
+
+Sir _Fran._ Well, well, _Chargee_, I wont open it; she shall have her
+Monkey, poor Rogue; here throw this Peel out of the Window.
+
+    (_Exit _Scentwell_._
+
+_Marpl._ A Monkey, dear Madam, let me see it; I can tame a Monkey as
+well as the best of them all. Oh how I love the little Minatures of Man.
+
+_Miran._ Be quiet, Mischief, and stand farther from the Chimney--You
+shall not see my Monkey--why sure--
+    (_Striving with him._
+
+_Marpl._ For Heaven's sake, dear Madam, let me but peep, to see if it be
+as pretty as my Lady _Fiddle-Faddle_'s. Has it got a Chain?
+
+_Miran._ Not yet, but I design it one shall last its Life-time: Nay, you
+shall not see it--Look, _Gardee_, how he teazes me!
+
+Sir _Fran._ (_Getting between him and the Chimney._) Sirrah, Sirrah, let
+my _Chargee_'s Monkey alone, or _Bambo_ shall fly about your Ears. What
+is there no dealing with you?
+
+_Marpl._ Pugh, pox of the Monkey! here's a Rout: I wish he may Rival
+you.
+
+  _Enter a Servant._
+
+_Serv._ Sir, they put two more Horses in the Coach, as you order'd, and
+'tis ready at the Door.
+
+Sir _Fran._ Well, I'm going to be Executor, better for thee, Jewel. B'ye
+_Chargee_, one Buss!--I'm glad thou hast got a a Monkey to divert thee a
+little.
+
+_Miran._ Thank'e, dear _Gardee_.--Nay, I'll see you to the Coach.
+
+Sir _Fran._ That's kind, adod.
+
+_Miran._ Come along, Impertinence.
+    (_To _Marplot_._
+
+_Marpl._ (_Stepping back._) Egad, I will see the Monkey: Now (_Lifts up
+the Board, and discovers Sir_ George_._) Oh Lord, Oh Lord! Thieves,
+Thieves, Murder!
+
+Sir _Geo._ Dam'e, you unlucky Dog! 'tis I, which way shall I get out,
+shew me instantly, or I'll cut your Throat.
+
+_Marpl._ Undone, undone! At that Door there. But hold, hold, break that
+China, and I'll bring you off.
+    (_He runs off at the Corner, and throws down some China._
+
+  _Re-enter Sir _Francis_, _Miranda_, and _Scentwell_._
+
+Sir _Fran._ Mercy on me! what's the matter?
+
+_Miran._ Oh, you Toad! what have you done?
+
+_Marpl._ No great harm, I beg of you to forgive me: Longing to see the
+Monkey, I did but just raise up the Board, and it flew over my
+Shoulders, scratch'd all my Face, broke yon' China, and whisk'd out of
+the Window.
+
+Sir _Fran._ Was ever such an unlucky Rogue! Sirrah, I forbid you my
+House. Call the Servants to get the Monkey again; I wou'd stay my self
+to look it, but that you know my earnest Business.
+
+_Scentw._ Oh my Lady will be the best to lure it back; all them
+Creatures love my Lady extremely.
+
+_Miran._ Go, go, dear _Gardee_; I hope I shall recover it.
+
+Sir _Fran._ B'ye, by'e, Dear'e. Ah, Mischief, how you look now! B'ye,
+b'ye.
+    (_Exit._
+
+_Miran._ _Scentwell_, see him in the Coach, and bring me word.
+
+_Scentw._ Yes, Madam.
+
+_Miran._ So, Sir, you have done your Friend a signal piece of Service, I
+suppose.
+
+_Marpl._ Why look you, Madam! if I have committed a fault, thank your
+self; no Man is more Serviceable when I am let into a Secret, nor none
+more Unlucky at finding it out. Who cou'd divine your Meaning, when you
+talk'd of a Blunderbuss, who thought of a Rendevous? and when you talk'd
+of a Monkey, who the Devil dreamt of Sir _George?_
+
+_Miran._ A sign you converse but little with our Sex, when you can't
+reconcile Contradictions.
+
+  _Enter _Scentwell_._
+
+_Scentw._ He's gone, Madam, as fast as the Coach, and Six can carry him.
+
+  _Enter Sir _George_._
+
+Sir _Geo._ Then I may appear.
+
+_Marpl._ Dear, Sir _George_, make my Peace! On my Soul, I did not think
+of you.
+
+Sir _Geo._ I dare swear thou didst not. Madam, I beg you to forgive him.
+
+_Miran._ Well, Sir _George_, if he can be secret.
+
+_Marpl._ Ods heart, Madam, I'm as secret as a Priest when I'm trusted.
+
+Sir _Geo._ Why 'tis with a Priest our Business is at present.
+
+_Scentw._ Madam, here's Mrs. _Isabinda_'s Woman to wait on you.
+
+_Miran._ Bring her up.
+
+  _Enter _Patch_._
+
+How do'e, Mrs. _Patch_, what News from your Lady?
+
+_Patch._ That's for your private Ear, Madam. Sir _George_, there's a
+Friend of yours has an urgent Occasion for your Assistance.
+
+Sir _Geo._ His Name.
+
+_Patch._ _Charles._
+
+_Marpl._ Ha! then there is something a-foot that I know nothing of. I'll
+wait on you, Sir _George_.
+
+Sir _Geo._ A third Person may not be proper perhaps; as soon as I have
+dispatch'd my own Affairs, I am at his Service. I'll send my Servant to
+tell him, I'll wait upon him in half an Hour.
+
+_Miran._ How come you employ'd in this Message, Mrs. _Patch?_
+
+_Patch._ Want of Business, Madam. I am discharg'd by my Master, but hope
+to serve my Lady still.
+
+_Miran._ How discharg'd! you must tell me the whole Story within.
+
+_Patch._ With all my Heart, Madam.
+
+_Marpl._ Pish! Pox, I wish I were fairly out of the House. I find
+Marriage is the end of this Secret: And now I am half mad to know what
+_Charles_ wants him for.
+    (_Aside._
+
+Sir _Geo._ Madam, I'm doubly press'd, by Love and Friendship: This
+Exigence admits of no delay. Shall we make _Marplot_ of the Party?
+
+_Miran._ If you'll run the Hazard, Sir _George_; I believe he means
+well.
+
+_Marpl._ Nay, nay, for my part, I desire to be let into nothing: I'll
+begon, therefore pray don't mistrust me.
+    (_Going._
+
+Sir _Geo._ So now has he a mind to be gone to _Charles_: but not knowing
+what Affairs he may have upon his Hands at present, I'm resolv'd he
+sha'n't stir: No, Mr. _Marplot_, you must not leave us, we want a third
+Person.
+    (_Takes hold of him._
+
+_Marpl._ I never had more mind to be gone in my Life.
+
+_Miran._ Come along then; if we fail in the Voyage, thank your self for
+taking this ill starr'd Gentleman on Board.
+
+_Sir_ Geo.
+  _That Vessel ne'er can Unsuccessful prove,_
+  _Whose Freight is Beauty, and whose Pilot Love._
+
+The End of the Fourth ACT.
+
+
+
+
+ACT the Fifth.
+
+
+  _Enter _Miranda_, _Patch_, and _Scentwell_._
+
+_Miran._ Well, _Patch_, I have done a strange bold thing! my Fate is
+determin'd, and Expectation is no more. Now to avoid the Impertinence
+and Roguery of an old Man, I have thrown my self into the Extravagance
+of a young one; if he shou'd despise, slight or use me ill, there's no
+Remedy from a Husband, but the Grave; and that's a terrible Sanctuary to
+one of my Age and Constitution.
+
+_Patch._ O fear not, Madam, you'll find your account in Sir _George
+Airy_; it is impossible a Man of Sense shou'd use a Woman ill, indued
+with Beauty, Wit and Fortune. It must be the Lady's fault, if she does
+not wear the unfashionable Name of Wife easie, when nothing but
+Complaisance and good Humour is requisite on either side to make them
+happy.
+
+_Miran._ I long till I am out of this House, lest any Accident shou'd
+bring my _Guardian_ back. _Scentwell_, put my best Jewels into the
+little Casket, slip them, into thy Pocket, and let us march off to Sir.
+_Jealous_'s.
+
+_Scentw._ It shall be done, Madam.
+    (_Exit_ Scentwell.
+
+_Patch._ Sir _George_ will be impatient, Madam; if their Plot succeeds,
+we shall be well receiv'd; if not, he will be able to protect us.
+Besides, I long to know how my young Lady fares.
+
+_Miran._ Farewell, old _Mammon_, and thy detested Walls; 'twill be no
+more sweet Sir _Francis_, I shall be compell'd to the odious Task of
+Dissembling no longer to get my own, and coax him with the wheedling
+Names of my _Precious_, my _Dear_, dear _Gardee_. Oh Heavens!
+
+  _Enter Sir _Francis_ behind._
+
+Sir _Fran._ Ah, my sweet _Chargee_, don't be frighted. (_She starts._)
+But thy poor _Gardee_ has been abused, cheated, fool'd, betray'd, but no
+Body knows by whom.
+
+_Miran._ (_Aside._) Undone! past Redemption.
+
+Sir _Fran._ What won't you speak to me, _Chargee!_
+
+_Miran._ I'm so surpriz'd with Joy to see you, I know not what to say.
+
+Sir _Fran._ Poor, dear Girl! But do'e know that my Son, or some such
+Rogue, to rob or murder me, or both, contriv'd this Journey? For upon
+the Road I met my Neighbour _Squeezum_ well, and coming to Town.
+
+_Miran._ Good lack, good lack! what Tricks are there in this World!
+
+  _Enter _Scentwell_, with a Diamond Necklace in her Hand; not seeing
+Sir _Francis_._
+
+_Scentw._ Madam, be pleas'd to tye this Neck-lace on; for I can't get it
+into the-- (_Seeing Sir _Francis_._
+
+_Miran._ The Wench is a Fool, I think! cou'd you not have carry'd it to
+be mended, without putting it in the Box?
+
+Sir _Fran._ What's the matter?
+
+_Miran._ Only Dear'e, I bid her, I bid her--Your ill Usage has put every
+thing out of my Head. But won't you go, _Gardee_, and find out these
+Fellows, and have them punish'd! and, and--
+
+Sir _Fran._ Where shou'd I look them, Child? No I'll sit me down
+contented with my Safety, nor stir out of my own Doors, till I go with
+thee to a Parson.
+
+_Miran._ (_Aside._) If he goes into his Closet I am ruin'd. Oh! bless me
+in this Fright, I had forgot Mrs. _Patch_.
+
+_Patch._ Ay, Madam, and I stay for your speedy Answer.
+
+_Miran._ (_Aside._) I must get him out of the House. Now assist me
+Fortune.
+
+Sir _Fran._ Mrs. _Patch_, I profess I did not see you, how dost thou do,
+Mrs. _Patch_; well don't you repent leaving my _Chargee?_
+
+_Patch._ Yes, every body must love her--but I came now--Madam, what did
+I come for, my Invention is at the last Ebb.
+    (_Aside to _Miranda_._
+
+Sir _Fran._ Nay, never Whisper, tell me.
+
+_Miran._ She came, dear _Gardee_ to invite me to her Lady's Wedding, and
+you shall go with me _Gardee_, 'tis to be done this Moment to a
+_Spanish_ Merchant; Old Sir _Jealous_ keeps on his Humour, the first
+Minute he sees her, the next he marries her.
+
+Sir _Fran._ Ha, ha, ha, I'd go if I thought the sight of Matrimony wou'd
+tempt _Chargee_ to perform her Promise: There was a smile, there was a
+consenting Look with those pretty Twinklers, worth a Million. Ods
+precious, I am happier than the Great _Mogul_, the Emperour of _China_,
+or all the Potentates that are not in Wars. Speak, confirm it, make me
+leap out of my Skin.
+
+_Miran._ When one has resolv'd, 'tis in vain to stand shall I, shall I,
+if ever I marry, positively this is my Wedding Day.
+
+Sir _Fran._ Oh! happy, happy Man--Verily I will beget a Son, the first
+Night shall disinherit that Dog, _Charles_. I have Estate enough to
+purchase a Barony, and be the immortalizing the whole Family of the
+Gripes.
+
+_Miran._ Come then _Gardee_, give me thy Hand, let's to this House
+of _Hymen_.
+  _My Choice is fix'd, let good or ill betide,_
+
+Sir _Fran._
+  _The joyful Bridegroom, I_
+
+_Miran._
+  _And I the happy Bride._
+
+    (Exeunt.
+
+
+  _Enter Sir _Jealous_ meeting a Servant._
+
+_Serv._ Sir, here's a couple of Gentlemen enquire for you; one of 'em
+calls himself _Seignor Diego Babinetto_.
+
+Sir _Jeal._ Ha! _Seignor Babinetto!_ Admit 'em instantly--Joyful Minute;
+I'll have my Daughter marry'd to Night.
+
+  _Enter _Charles_ in _Spanish_ Habit, with Sir _George_ drest like a
+Merchant._
+
+Sir _Jeal._ Senior, beso Las Manos vuestra merced es muy bien venido en
+esta tierra.
+
+_Char._ Senhor, soy muy humilde, y muy obligado Cryado de vuestra
+merced: Mi Padre Embia a vuestra merced, los mas profondos de sus
+respetos; y a Commissionado este Mercadel Ingles, de concluyr un
+negocio, que me Haze el mas dichoso hombre del mundo, Haziendo me su
+yerno.
+
+Sir _Jeal._ I am glad on't, for I find I have lost much of my _Spanish_.
+Sir, I am your most humble Servant. _Seignor Don Diego Babinetto_ has
+inform'd me that you are Commission'd by _Seignor Don Pedro_, &c. his
+worthy Father.
+
+Sir _Geo._ To see an Affair of Marriage Consummated between a Daughter
+of yours, and _Seignor Diego Babinetto_ his Son here. True, Sir, such a
+Trust is repos'd in me as that Letter will inform you. I hope 'twill
+pass upon him.
+    (_Aside._)
+    (_Gives him a Letter._
+
+Sir _Jeal._ Ay, 'tis his Hand.
+    (_Seems to read._
+
+Sir _Geo._ Good ---- you have counterfeited to a Nicety, _Charles._
+    (_Aside to _Charles_._
+
+_Char._ If the whole Plot succeeds as well, I'm happy.
+
+Sir _Jeal._ Sir I find by this, that you are a Man of Honour and
+Probity; I think, Sir, he calls you _Meanwell_.
+
+Sir _Geo._ _Meanwell_ is my Name, Sir.
+
+Sir _Jeal._ A very good Name, and very Significant.
+
+_Char._ Yes, Faith if he knew all.
+    (_Aside._
+
+Sir _Jeal._ For to Mean-well is to be honest, and to be honest is the
+Virtue of a Friend, and a Friend is the Delight and Support of Human
+Society.
+
+Sir _Geo._ You shall find that I'll Discharge the part of a Friend in
+what I have undertaken, Sir _Jealous_.
+
+_Char._ But little does he think to whom.
+    (_Aside._
+
+Sir _Geo._ Therefore, Sir, I must intreat the Presence of your fair
+Daughter, and the Assistance of your Chaplain; for _Seignor Don Pedro_
+strictly enjoyn'd me to see the Marriage Rites perform'd as soon as we
+should arrive, to avoid the Accidental Overtures of _Venus_.
+
+Sir _Jeal._ Overtures of _Venus!_
+
+Sir _Geo._ Ay, Sir, that is, those little Hawking Females that traverse
+the Park, and the Play-house to put off their damag'd Ware--they fasten
+upon Foreigners like Leeches, and watch their Arrival as carefully, as
+the _Kentish_ Men do a Ship-wreck. I warrant you they have heard of him
+already.
+
+Sir _Jeal._ Nay, I know this Town swarms with them.
+
+Sir _Geo._ Ay, and then you know the _Spaniards_ are naturally Amorous,
+but very Constant, the first Face fixes 'em, and it may be dangerous to
+let him ramble e'er he is tied.
+
+_Char._ Well hinted.
+    (_Aside._
+
+Sir _Jeal._ Pat to my Purpose--Well, Sir, there is but one thing more,
+and they shall be married instantly.
+
+_Char._ Pray Heaven, that one thing more don't spoil all.
+    (_Aside._
+
+Sir _Jeal._ _Don Pedro_ writ me Word in his last but one, that he
+design'd the Sum of Five Thousand Crowns by way of Joynture for my
+Daughter; and that it shou'd be paid into my Hand upon the Day of
+Marriage.
+
+_Char._ Oh! the Devil.
+    (_Aside._
+
+Sir _Jeal._ In order to lodge it in some of our Funds, in case she
+should become a Widow, and return for _England_.
+
+Sir _Geo._ Pox on't, this is an unlucky Turn. What shall I say?
+    (_Aside._
+
+Sir _Jeal._ And he does not mention one Word of it in this Letter.
+
+_Char._ I don't know how he should.
+    (_Aside._
+
+Sir _Geo._ Humph! True, Sir _Jealous_, he told me such a Thing, but,
+but, but, but--he, he, he, he--he did not imagine that you would insist
+upon the very Day, for, for, for, for Money you know is dangerous
+returning by Sea, an, an, an, an--
+
+_Char._ Zounds, say we have brought it in Commodities.
+    (_Aside to Sir_ George.
+
+Sir _Geo._ And so Sir, he has sent it in Merchandize, _Tobacco_,
+_Sugars_, _Spices_, _Limons_, and so forth, which shall be turn'd into
+Money with all Expedition: In the mean time, Sir, if you please to
+accept of my Bond for Performance.
+
+Sir _Jeal._ It is enough, Sir, I am so pleas'd with the Countenance of
+_Seignor Diego_, and the Harmony of your Name, that I'll take your Word,
+and will fetch my Daughter this Moment. Within there (_Enter Servant_)
+desire Mr. _Tackum_ my Neighbour's Chaplain to walk hither.
+
+_Serv._ Yes, Sir.
+    (_Exit._
+
+Sir _Jeal._ Gentlemen, I'll return in an Instant.
+    (_Exit._
+
+_Char._ Wondrous well. Let me embrace thee.
+
+Sir _Geo._ Egad that 5000 _l._ had like to have ruin'd the Plot.
+
+_Char._ But that's over! And if Fortune throws no more Rubs in our way.
+
+Sir _Geo._ Thou'lt carry the Prize--but hist, here he comes.
+
+  _Enter Sir _ Jealous_, dragging in _Isabinda_._
+
+Sir _Jeal._ Come along, you stubborn Baggage you, come along.
+
+_Isab._
+  Oh hear me, Sir! hear me but speak one Word,
+  Do not destroy my everlasting Peace;
+  My Soul abhors this _Spaniard_ you have chose
+  Nor can I wed him without being curst.
+
+Sir _Jeal._ How's that!
+
+_Isab._
+  Let this Posture move your tender Nature.    (_Kneels._
+  For ever will I hang upon these Knees;
+  Nor loose my Hands till you cut off my hold,
+  If you refuse to hear me, Sir.
+
+_Char._ Oh! that I cou'd discover my self to her.
+    (_Aside_
+
+Sir _Geo._ Have a care what you do. You had better trust to his
+Obstinacy.
+    (_Aside_
+
+Sir _Jeal._ Did you ever see such a perverse Slut: Off I say Mr.
+_Meanwell_ pray help me a little.
+
+Sir _Geo._ Rise, Madam, and do not disoblige your Father, who has
+provided a Husband worthy of you, one that will Love you equal with his
+Soul, and one that you will Love, when once you know him.
+
+_Isab._ Oh! never, never. Cou'd I suspect that Falshood in my Heart, I
+wou'd this Moment tear it from my Breast, and streight present him with
+the Treacherous Part.
+
+_Char._ Oh! my charming faithful Dear.
+    (_Aside._
+
+Sir _Jeal._ Falshood! why, who the Devil are you in Love with? Ha! Don't
+provoke me, for by St. _Jago_ I shall beat you, Housewife.
+
+_Char._ Heaven forbid; for I shall infallibly discover my self if he
+should.
+    (_Aside._
+
+Sir _Geo._ Have Patience, Madam! and look at him: Why will you
+prepossess your self against a Man that is Master of all the Charms you
+would desire in a Husband?
+
+Sir _Jeal._ Ay, look at him, _Isabinda_, _Senior pase vind adelante._
+
+_Char._ My Heart bleeds to see her grieve, whom I imagin'd would with
+Joy receive me. _Seniora obligue me vuestra merced de sumano._
+
+Sir _Jeal._ (_Pulling up her Head._) Hold up your Head, hold up your
+Head, Housewife, and look at him: Is there a properer, handsomer, better
+shap'd Fellow in _England_, ye Jade you. Ha! see, see the obstinate
+Baggage shuts her Eyes; by St. _Jago_, I have a good Mind to beat 'em
+out.
+    (_Pushes her down._
+
+_Isab._
+  Do then, Sir, kill me, kill me instantly.
+  'Tis much the kinder Action of the Two,
+  For 'twill be worse than Death to wed him.
+
+Sir _Geo._ Sir _Jealous_, you are too passionate. Give me leave, I'll
+try by gentle Words to work her to your Purpose.
+
+Sir _Jeal._ I pray do, Mr. _Meanwell_, I pray do; she'll break my Heart.
+(_weeps_) There is in that, Jewels of the Value of 3000 _l._ which were
+her Mother's; and a Paper wherein I have settled one half of my Estate
+upon her now, and the whole when I dye. But provided she marries this
+Gentleman, else by St. _Jago_, I'll turn her out of Doors to beg or
+starve. Tell her this, Mr. _Meanwell_, pray do.
+    (_Walks off._
+
+Sir _Geo._ Ha! this is beyond Expectation--Trust to me, Sir, I'll lay
+the dangerous Consequence of disobeying you at this Juncture before her,
+I warrant you.
+
+_Char._ A sudden Joy runs thro' my Heart like a propitious Omen.
+    (_Aside._
+
+Sir _Geo._ Come, Madam, do not blindly cast your Life away just in the
+Moment you would wish to have it.
+
+_Isab._ Pray cease your Trouble, Sir, I have no Wish but sudden Death to
+free me from this hated _Spaniard_. If you are his Friend inform him
+what I say; my Heart is given to another Youth, whom I love with the
+same strength of Passion that I hate this _Diego_; with whom, if I am
+forc'd to wed, my own Hand shall cut the Gordian Knot.
+
+Sir _Geo._ Suppose this _Spaniard_ which you strive to shun should be
+the very Man to whom you'd flye?
+
+_Isab._ Ha!
+
+Sir _Geo._ Would you not blame your rash Result, and curse those Eyes
+that would not look on _Charles_.
+
+_Isab._ On _Charles!_ Oh you have inspir'd new Life, and collected every
+wandring Sense. Where is he? Oh! let me flye into his Arms.
+    (_Rises._
+
+Sir _Geo._ Hold, hold, hold, 'Zdeath, Madam, you'll ruin all, your
+Father believes him to be _Seignor Barbinetto_. Compose your self a
+little, pray Madam.
+    (_He runs to Sir _Jealous_._
+
+_Char._ Her Eyes declare she knows me.
+    (_Aside._
+
+Sir _Geo._ She begins to hear Reason, Sir, the fear of being turn'd out
+of Doors has done it.
+    (_Runs back to_ Isabinda.
+
+_Isab._ 'Tis he, oh! my ravish'd Soul.
+
+Sir _Geo._ Take heed, Madam, you don't betray your self. Seem with
+Reluctance to consent, or you are undone, (_runs to Sir _Jealous_._)
+speak gently to her, Sir, I'm sure she'll yield, I see it in her Face.
+
+Sir _Jeal._ Well, _Isabinda_, can you refuse to bless a Father, whose
+only Care is to make you happy, as Mr. _Meanwell_ has inform'd you.
+Come, wipe thy Eyes; nay, prithee do, or thou wilt break thy Father's
+Heart; see thou bring'st the Tears in mine to think of thy undutiful
+Carriage to me.
+    (_Weeps._
+
+_Isab._ Oh! do not weep, Sir, your Tears are like a Ponyard to my Soul;
+do with me what you please, I am all Obedience.
+
+Sir _Jeal._ Ha! then thou art my Child agen.
+
+Sir _Geo._ 'Tis done, and now Friend the Day's thy own.
+
+_Char._ The happiest of my Life, if nothing Intervene.
+
+Sir _Jeal._ And wilt thou love him?
+
+_Isab._ I will endeavour it, Sir.
+
+  _Enter Servant._
+
+_Serv._ Sir, Here is Mr. _Tackum_.
+
+Sir _Jeal._ Show him into the Parlour--_Senior tome vind sueipora; cete
+Momenta les Junta les Manos._
+    (_Gives her to_ Charles.
+
+_Char._ Oh! transport--_Senior yo la recibo Como se deve un Tesoro tan
+Grande._ Oh! my Joy, my Life, my Soul.
+    (_Embrace._
+
+_Isab._ My Faithful everlasting Comfort.
+
+Sir _Jeal._ Now, Mr. _Meanwell_ let's to the Parson,
+  _Who, by his Art will join this Pair for Life,_
+  _Make me the happiest Father, her the happiest Wife._
+    (_Exit._
+
+
+SCENE Changes to the Street before Sir _Jealous_'s Door.
+
+  _Enter _Marplot_, Solus._
+
+_Marpl._ I have hunted all over the Town for _Charles_, but can't find
+him; and by _Whisper_'s scouting at the End of the Street, I suspect he
+must be in this House again. I'm inform'd too that he has borrow'd a
+_Spanish_ Habit out of the _Play-house_. What can it mean?
+
+  _Enter a Servant of Sir _Jealous_'s to him, out of the House._
+
+Hark'e, Sir, do you belong to this House?
+
+_Serv._ Yes, Sir.
+
+_Marpl._ Pray can you tell if there be a Gentleman in it in _Spanish_
+Habit?
+
+_Serv._ There is a _Spanish_ Gentleman within, that is just a going to
+marry my young Lady, Sir.
+
+_Marpl._ Are you sure he is a _Spanish_ Gentleman?
+
+_Serv._ I'm sure he speaks no _English_, that I hear of.
+
+_Marpl._ Then that can't be him I want; for 'tis an _English_ Gentleman,
+tho' I suppose he may be dress'd like a _Spaniard_, that I enquire
+after.
+
+_Serv._ Ha! who knows but this may be an Impostor? I'll inform my
+Master; for if he shou'd be impos'd upon, he'll beat us all round.
+(_Aside._) Pray, come in, Sir, and see if this be the Person you enquire
+for.
+
+
+SCENE Changes to the Inside the House.
+
+  _Enter _Marplot_._
+
+_Marpl._ So, this was a good Contrivance: If this be _Charles_, now will
+he wonder how I found him out.
+
+  _Enter Servant and _Jealous_._
+
+Sir _Jeal._ What is your earnest Business, Blockhead, that you must
+speak with me before the Ceremony's past? Ha! who's this?
+
+_Serv._ Why this Gentleman, Sir, wants another Gentleman in _Spanish_
+Habit, he says.
+
+Sir _Jeal._ In _Spanish_ Habit! 'tis some Friend of Seignior _Don
+Diego_'s, I warrant. Sir, I suppose you wou'd speak with Seignior
+_Barbinetto_--
+
+_Marpl._ Hy-day! what the Devil does he say now!--Sir, I don't
+understand you.
+
+Sir _Jeal._ Don't you understand _Spanish_, Sir?
+
+_Marpl._ Not I indeed, Sir.
+
+Sir _Jeal._ I thought you had known Seignior _Barbinetto_.
+
+_Marpl._ Not I, upon my word, Sir.
+
+Sir _Jeal._ What then you'd speak with his Friend, the _English_
+Merchant, Mr. _Meanwell_.
+
+_Marpl._ Neither, Sir; not I.
+
+Sir _Jeal._ Why who are you then, Sir? and what do you want?
+    (_In an angry Tone._
+
+_Marpl._ Nay, nothing at all, not I, Sir. Pox on him! I wish I were out,
+he begins to exalt his Voice, I shall be beaten agen.
+
+Sir _Jeal._ Nothing at all, Sir! Why then what Business have you in my
+House? ha?
+
+_Serv._ You said you wanted a Gentleman in _Spanish_ Habit.
+
+_Marpl._ Why ay, but his Name is neither _Barbinetto_ nor _Meanwell_.
+
+Sir _Jeal._ What is his Name then, Sirrah, ha? Now I look at you agen, I
+believe you are the Rogue threaten'd me with half a Dozen
+_Mirmidons_--Speak, Sir, who is it you look for? or, or--
+
+_Marpl._ A terrible old Dog!--Why, Sir, only an honest young Fellow of
+my Acquaintance--I thought that here might be a Ball, and that he might
+have been here in a Masquerade; 'tis _Charles_, Sir _Francis Gripe_'s
+Son, because I know he us'd to come hither sometimes.
+
+Sir _Jeal._ Did he so?--Not that I know of, I'm sure. Pray Heaven that
+this be Don _Diego_--If I shou'd be trick'd now--Ha! my Heart misgives
+me plaguily--within there! stop the Marriage--Run, Sirrah, call all my
+Servants! I'll be satisfy'd that this is Seignior _Pedro_'s Son e're he
+has my Daughter.
+
+_Marpl._ Ha, Sir _George_, what have I done now ?
+
+  _Enter Sir _George_ with a drawn Sword between the Scenes._
+
+Sir _Geo._ Ha! _Marplot_, here--Oh the unlucky Dog--what's the matter,
+Sir _Jealous?_
+
+Sir _Jeal._ Nay, I don't know the matter, Mr._Meanwell_.
+
+_Marpl._ Upon my Soul, Sir _George_--
+    (_Going up to Sir _Geo.__
+
+Sir _Jeal._ Nay then, I'm betray'd, ruin'd, undone: Thieves, Traytors,
+Rogues! (_Offers to go in._) Stop the Marriage, I say--
+
+Sir _Geo._ I say, go on Mr._Tackum_--Nay, no Ent'ring here, I guard this
+Passage, old Gentleman; the Act and Deed were both your own, and I'll
+see 'em sign'd, or die for't.
+
+  _Enter Servants._
+
+Sir _Jeal._ A pox on the Act and Deed!--Fall on, knock him down.
+
+Sir _Geo._ Ay, come on, Scoundrils! I'll prick your Jackets for you.
+
+Sir _Jeal._ Z'ounds, Sirrah, I'll be Reveng'd on you.
+    (_Beats _Marplot_._
+
+Sir _Geo._ Ay, there your Vengeance is due; Ha, ha.
+
+_Marpl._ Why, what do you beat me for? I ha'nt marry'd your Daughter.
+
+Sir _Jeal._ Rascals! why don't you knock him down?
+
+_Serv._ We are afraid of his Sword, Sir; if you'll take that from him,
+we'll knock him down presently.
+
+  _Enter _Charles_ and _Isabinda_._
+
+Sir _Jeal._ Seize her then.
+
+_Char._ Rascals, retire; she's my Wife, touch her if you dare, I'll make
+Dogs meat of you.
+
+Sir _Jeal._ Ah! downright _English_:--Oh, oh, oh, oh!
+
+  _Enter Sir _Francis Gripe_, _Mirand_, _Patch_, _Scentwell_,
+  and _Whisper_._
+
+Sir _Fran._ Into the House of Joy we Enter without knocking: Ha! I think
+'tis the House of Sorrow, Sir _Jealous_.
+
+Sir _Jeal._ Oh Sir _Francis!_ are you come? What was this your
+Contrivance, to abuse, trick, and chouse me of my Child!
+
+Sir _Fran._ My Contrivance! what do you mean?
+
+Sir _Jeal._ No, you don't know your Son there in _Spanish_ Habit.
+
+Sir _Fran._ How! my Son in _Spanish_ Habit. Sirrah, you'll come to be
+hang'd; get out of my sight, ye Dog! get out of my sight.
+
+Sir _Jeal._ Get out of your sight, Sir! Get out with your Bags; let's
+see what you'll give him now to maintain my Daughter on.
+
+Sir _Fran._ Give him! He shall be never the better for a Penny of
+mine--and you might have look'd after your Daughter better, Sir
+_Jealous_. Trick'd, quotha! Egad, I think you design'd to trick me: But
+look ye, Gentlemen, I believe I shall trick you both. This Lady is my
+Wife, do you see? And my Estate shall descend only to the Heirs of her
+Body.
+
+Sir _Geo._ Lawfully begotten by me--I shall be extremely oblig'd to you,
+Sir _Francis_.
+
+Sir _Fran._ Ha, ha, ha, ha, poor Sir _George!_ You see your Project was
+of no use. Does not your Hundred Pound stick in your Stomach? Ha, ha,
+ha.
+
+Sir _Geo._ No faith, Sir _Francis_, this Lady has given me a Cordial for
+that.
+    (_Takes her by the Hand._
+
+Sir _Fran._ Hold, Sir, you have nothing to say to this Lady.
+
+Sir _Geo._ Nor you nothing to do with my Wife, Sir.
+
+Sir _Fran._ Wife, Sir!
+
+_Miran._ Ay really, _Guardian_, 'tis even so. I hope you'll forgive my
+first Offence.
+
+Sir _Fran._ What have you chous'd me out of my Consent, and your
+Writings then, Mistress, ha?
+
+_Miran._ Out of nothing but my own, _Guardian_.
+
+Sir _Jeal._ Ha, ha, ha, 'tis some Comfort at least to see you are
+over-reach'd as well as my self. Will you settle your Estate upon your
+Son now?
+
+Sir _Fran._ He shall starve first.
+
+_Miran._ That I have taken care to prevent. There, Sir, is the Writings
+of your Uncle's _Estate_, which has been your due these three Years.
+    (_Gives _Char._ Papers._
+
+_Char._ I shall study to deserve this Favour.
+
+Sir _Fran._ What have you robb'd me too, Mistress! Egad I'll make you
+restore 'em.--Huswife, I will so.
+
+Sir _Jeal._ Take care I don't make you pay the Arrears, Sir. 'Tis well
+it's no worse, since 'tis no better. Come, young Man, seeing thou hast
+out-witted me, take her, and Bless you both.
+
+_Char._ I hope, Sir, you'll bestow your Blessing too, 'tis all I'll ask.
+    (_Kneels._
+
+Sir _Fran._ Confound you all!
+    (_Exit._
+
+_Marpl._ Mercy upon us! how he looks!
+
+Sir _Geo._ Ha, ha, ne'er mind his Curses, _Charles_; thou'lt thrive not
+one jot the worse for 'em. Since this Gentleman is reconcil'd, we are
+all made happy.
+
+Sir _Jeal._ I always lov'd Precaution, and took care to avoid Dangers.
+But when a thing was past, I ever had Philosophy to be easie.
+
+_Char._ Which is the true sign of a great Soul: I lov'd your Daughter,
+and she me, and you shall have no reason to repent her Choice.
+
+_Isab._ You will not blame me, Sir, for loving my own Country best.
+
+_Marpl._ So here's every Body happy, I find, but poor _Pilgarlick_. I
+wonder what Satisfaction I shall have, for being cuff'd, kick'd, and
+beaten in your Service.
+
+Sir _Jeal._ I have been a little too familiar with you, as things are
+fallen out; but since there's no help for't, you must forgive me.
+
+_Marpl._ Egad I think so--But provided that you be not so familiar for
+the future.
+
+Sir _Geo._ Thou hast been an unlucky Rogue.
+
+_Marpl._ But very honest.
+
+_Char._ That I'll vouch for; and freely forgive thee.
+
+Sir _Geo._ And I'll do you one piece of Service more, _Marplot_, I'll
+take care that Sir _Francis_ make you Master of your Estate.
+
+_Marpl._ That will make me as happy as any of you.
+
+_Patch._ Your humble Servant begs leave to remind you, Madam.
+
+_Isab._ Sir, I hope you'll give me leave to take _Patch_ into favour
+again.
+
+Sir _Jeal._ Nay, let your Husband look to that, I have done with my
+Care.
+
+_Char._ Her own Liberty shall always oblige me. Here's no Body but
+honest _Whisper_ and Mrs. _Scentwell_ to be provided for now. It shall
+be left to their Choice to Marry, or keep their Services.
+
+_Whisp._ Nay then, I'll stick to my Master.
+
+_Scentw._ Coxcomb! and I prefer my Lady before a Footman.
+
+Sir _Jeal._ Hark, I hear Musick, the Fidlers smell a Wedding. What say
+you, young Fellows, will ye have a Dance?
+
+Sir _Geo._ With all my Heart; call'em in.
+
+
+A DANCE.
+
+
+Sir _Jeal._ Now let us in and refresh our selves with a chearful Glass,
+in which we'll bury all Animosities: And
+
+  _By my Example let all Parents move,
+  And never strive to cross their Childrens Love;
+  But still submit that Care to Providence above._
+
+
+FINIS
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+  The Editors of THE AUGUSTAN REPRINT SOCIETY
+
+          are pleased to announce that
+
+   THE WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  of The University of California, Los Angeles
+
+will become the publisher of the Augustan Reprints in May, 1949. The
+editorial policy of the Society will continue unchanged. As in the past,
+the editors will strive to furnish members inexpensive reprints of rare
+seventeenth and eighteenth century works.
+
+
+Publications for the fourth year (1949-1950)
+
+[Transcriber's Note:
+Many of the listed titles are or will be available from Project
+Gutenberg. Where possible, the e-text number is given in brackets.]
+
+(_At least six items will be printed in the main from the following
+list_)
+
+
+SERIES IV: MEN, MANNERS, AND CRITICS
+
+John Dryden, _His Majesties Declaration Defended_ (1681) [#15074]
+Daniel Defoe (?), _Vindication of the Press_ (1718) [#14084]
+_Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_ (1754)
+
+
+SERIES V: DRAMA
+
+Thomas Southerne, _Oroonoko_ (1696)
+Mrs. Centlivre, _The Busie Body_ (1709)
+Charles Johnson, _Caelia_ (1733)
+Charles Macklin, _Man of the World_ (1781) [#14463]
+
+
+SERIES VI: POETRY AND LANGUAGE
+
+Andre Dacier, _Essay on Lyric Poetry_
+_Poems_ by Thomas Sprat
+_Poems_ by the Earl of Dorset
+Samuel Johnson, _Vanity of Human Wishes_ (1749), and one of the 1750
+  _Rambler_ papers. [#13350]
+
+
+EXTRA SERIES:
+
+Lewis Theobald, _Preface to Shakespeare's Works_ (1733) [#16346]
+
+A few copies of the early publications of the Society are still
+available at the original rate.
+
+
+
+
+GENERAL EDITORS
+
+H. RICHARD ARCHER, _William Andrews Clark Memorial Library_
+R.C. BOYS, _University of Michigan_
+E.N. HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+First Year (1946-1947)
+
+ 1. Richard Blackmore's _Essay upon Wit_ (1716), and Addison's
+    _Freeholder_ No. 45 (1716). (I, 1) [#13484]
+
+ 2. Samuel Cobb's _Of Poetry_ and _Discourse on Criticism_ (1707).
+    (II, 1) [#14528]
+
+ 3. _Letter to A.H. Esq.; concerning the Stage_ (1698), and Richard
+    Willis' _Occasional Paper No. IX_ (1698). (III, 1) [#14047]
+
+ 4. _Essay on Wit_ (1748), together with Characters by Flecknoe, and
+    Joseph Warton's _Adventurer_ Nos. 127 and 133. (I, 2) [#14973]
+
+ 5. Samuel Wesley's _Epistle to a Friend Concerning Poetry_ (1700) and
+    _Essay on Heroic Poetry_ (1693). (II, 2)
+
+ 6. _Representation of the Impiety and Immorality of the Stage_ (1704)
+    and _Some Thoughts Concerning the Stage_ (1704). (III, 2) [#15656]
+
+
+Second Year (1947-1948)
+
+ 7. John Gay's _The Present State of Wit_ (1711); and a section on Wit
+    from _The English Theophrastus_ (1702). (I, 3) [#14800]
+
+ 8. Rapin's _De Carmine Pastorali_, translated by Creech (1684). (II, 3)
+    [#14495]
+
+ 9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+    (III, 3) [#14899]
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744). (I, 4) [#16233]
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717). (II, 4) [#15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+    Krutch. (III, 4) [#16335]
+
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720). (IV, 1) [#15999]
+
+14. Edward Moore's _The Gamester_ (1753). (V, 1) [#16267]
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Harley_
+    (1712); and Arthur Mainwaring's _The British Academy_ (1712).
+    (VI, 1)
+
+16. Nevil Payne's _Fatal Jealousy_ (1673). (V, 2) [_in preparation_]
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William Shakespear_
+    (1709). (Extra Series, 1) [#16275]
+
+18. Aaron Hill's Preface to _The Creation_; and Thomas Brereton's
+    Preface to _Esther_. (IV, 2) [#15870]
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+[Errors and Anomalies Noted by Transcriber:
+
+Introduction (1949):
+  it is unreasonable to expect...
+    _text reads_ is it...
+
+Dedication:
+  Lord-President of Her HAJESTY's most / Honourable Privy-Council.
+    _so in original_
+
+Act I
+  Ad I long to know their Secrets.
+    _The word "ad" with related forms ("adod") occurs several times
+    in the play_
+
+  Sir _Jealousie Traffick_
+    The name occurs twice in this form.
+
+Act II
+  _Enter _Mirand_._
+    _The name occurs in this form four times: twice where the full form
+    _Miranda_ is expected, twice in place of its usual abbreviation
+    _Miran._
+
+  Sir _Geo._ Whate'er her Reasons are for disliking a me
+    _reading "a" uncertain_
+
+Act II scene iii
+  (_Beat_'s Marplot_ all this while he cries _Thieves_._
+    _punctuation and typography as in original_
+
+Act II scene iv
+  Sir _Fran._ No, that's a Miracle! But there's one thing you want...
+    _text reads_ one thing you wan't
+
+  _Miran._ The Gardner describ'd just such another Man
+    _text gives two consecutive lines to Marplot_
+
+Act IV scene ii
+  (Isabinda _throws her self down before the Closet-door as in a Sound._
+    _so in original_: swound?
+
+Act IV scene iv
+  _Enter Sir _Francis_ and _Marplot_
+    _text reads_ Marplott
+
+Act V scene iv
+  Changes to the Inside the House.
+    _so in original_
+
+Act V final scene
+  Sir _Geo._ With all my Heart; call'em in.
+    _text reads_ with all my ]
+
+
+
+
+
+End of the Project Gutenberg EBook of The Busie Body, by Susanna Centlivre
+

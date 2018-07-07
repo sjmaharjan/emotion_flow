@@ -1,0 +1,495 @@
+
+
+
+
+Produced by Nicole Apostola
+
+
+
+
+
+LITTLE EYOLF
+
+By Henrik Ibsen
+
+Translated, With an Introduction, by William Archer
+
+
+
+
+INTRODUCTION. Little Eyolf was written in Christiania during 1894, and published
+in Copenhagen on December 11 in that year. By this time Ibsen's
+correspondence has become so scanty as to afford us no clue to what may
+be called the biographical antecedents of the play. Even of anecdotic
+history very little attaches to it. For only one of the characters has a
+definite model been suggested. Ibsen himself told his French translator,
+Count Prozor, that the original of the Rat-Wife was "a little old woman
+who came to kill rats at the school where he was educated. She carried
+a little dog in a bag, and it was said that children had been drowned
+through following her." This means that Ibsen did not himself adapt
+to his uses the legend so familiar to us in Browning's _Pied Piper of
+Hamelin_, but found it ready adapted by the popular imagination of his
+native place, Skien. "This idea," Ibsen continued to Count Prozor, "was
+just what I wanted for bringing about the disappearance of Little Eyolf,
+in whom the infatuation [Note: The French word used by Count Prozor is
+"infatuation." I can think of no other rendering for it; but I do not
+quite know what it means as applied to Allmers and Eyolf.] and the
+feebleness of his father reproduced, but concentrated, exaggerated, as
+one often sees them in the son of such a father." Dr. Elias tells us
+that a well-known lady-artist, who in middle life suggested to him the
+figure of Lona Hessel, was in later years the model for the Rat-Wife. There is no inconsistency between these two accounts of the matter. The
+idea was doubtless suggested by his recollection of the rat-catcher of
+Skien, while traits of manner and physiognomy might be borrowed from the
+lady in question. The verse quoted on pp. 52 and 53 [Transcriber's Note: "There stood the
+champagne," etc., in ACT I] is the last line of a very well-known poem
+by Johan Sebastian Welhaven, entitled _Republikanerne_, written in 1839. An unknown guest in a Paris restaurant has been challenged by a noisy
+party of young Frenchmen to join them in drinking a health to Poland. He
+refuses; they denounce him as a craven and a slave; he bares his breast
+and shows the scars of wounds received in fighting for the country whose
+lost cause has become a subject for conventional enthusiasm and windy
+rhetoric. "De saae pas hverandre. Han vandred sin vei. De havde champagne, men roerte den ei." "They looked at each other. He went on his way. There stood their
+champagne, but they did not touch it." The champagne incident leads me
+to wonder whether the relation between Rita and Allmers may not have
+been partly suggested to Ibsen by the relation between Charlotte
+Stieglitz and her weakling of a husband. Their story must have been
+known to him through George Brandes's _Young Germany_, if not more
+directly. "From time to time," says Dr. Brandes, "there came over her
+what she calls her champagne-mood; she grieves that this is no longer
+the case with him." [Note: _Main Currents of Nineteenth Century
+Literature_, vol. vi. p. 299] Did the germ of the incident lie in these
+words? The first performance of the play in Norway took place at the
+Christiania Theatre on January 15, 1895, Fru Wettergren playing Rita And
+Fru Dybwad, Asta. In Copenhagen (March 13, 1895) Fru Oda Nielsen and Fru
+Hennings played Rita and Asta respectively, while Emil Poulsen played
+Allmers. The first German Rita (Deutsches Theater, Berlin, January 12,
+1895) was Frau Agnes Sorma, with Reicher as Allmers. Six weeks later
+Frl. Sandrock played Rita at the Burgtheater, Vienna. In May 1895 the
+play was acted by M. Lugne-Poe's company in Paris. The first performance
+in English took place at the Avenue Theatre, London, on the afternoon
+of November 23, 1896, with Miss Janet Achurch as Rita, Miss Elizabeth
+Robins as Asta, and Mrs. Patrick Campbell as the Rat-Wife. Miss
+Achurch's Rita made a profound impression. Mrs. Patrick Campbell
+afterwards played the part in a short series of evening performances. In the spring of 1895 the play was acted in Chicago by a company of
+Scandinavian amateurs, presumably in Norwegian. Fru Oda Nielsen has
+recently (I understand) given some performances of it in New York, and
+Madame Alla Nazimova has announced it for production during the coming
+season (1907-1908). As the external history of _Little Eyolf_ is so short. I am tempted to
+depart from my usual practice, and say a few words as to its matter and
+meaning. George Brandes, writing of this play, has rightly observed that "a kind
+of dualism has always been perceptible in Ibsen; he pleads the cause of
+Nature, and he castigates Nature with mystic morality; only sometimes
+Nature is allowed the first voice, sometimes morality. In _The Master
+Builder_ and in _Ghosts_ the lover of Nature in Ibsen was predominant;
+here, as in _Brand_ and _The Wild Duck_, the castigator is in the
+ascendant." So clearly is this the case in _Little Eyolf_ that Ibsen
+seems almost to fall into line with Mr. Thomas Hardy. To say nothing of
+analogies of detail between _Little Eyolf_ and _Jude the Obscure_, there
+is this radical analogy, that they are both utterances of a profound
+pessimism, both indictments of Nature. But while Mr. Hardy's pessimism is plaintive and passive, Ibsen's is
+stoical and almost bracing. It is true that in this play he is no
+longer the mere "indignation pessimist" whom Dr. Brandes quite justly
+recognised in his earlier works. His analysis has gone deeper into the
+heart of things, and he has put off the satirist and the iconoclast. But
+there is in his thought an incompressible energy of revolt. A pessimist
+in contemplation, he remains a meliorist in action. He is not, like Mr.
+Hardy, content to let the flag droop half-mast high; his protagonist
+still runs it up to the mast-head, and looks forward steadily to the
+"heavy day of work" before him. But although the note of the conclusion
+is resolute, almost serene, the play remains none the less an indictment
+of Nature, or at least of that egoism of passion which is one of her
+most potent subtleties. In this view, Allmers becomes a type of what
+we may roughly call the "free moral agent"; Eyolf, a type of humanity
+conceived as passive and suffering, thrust will-less into existence,
+with boundless aspirations and cruelly limited powers; Rita, a type of
+the egoistic instinct which is "a consuming fire"; and Asta, a type of
+the beneficent love which is possible only so long as it is exempt from
+"the law of change." Allmers, then, is self-conscious egoism, egoism
+which can now and then break its chains, look in its own visage, realise
+and shrink from itself; while Rita, until she has passed through
+the awful crisis which forms the matter of the play, is unconscious,
+reckless, and ruthless egoism, exigent and jealous, "holding to its
+rights," and incapable even of rising into the secondary stage of
+maternal love. The offspring and the victim of these egoisms is Eyolf,
+"little wounded warrior," who longs to scale the heights and dive into
+the depths, but must remain for ever chained to the crutch of human
+infirmity. For years Allmers has been a restless and half-reluctant
+slave to Rita's imperious temperament. He has dreamed and theorised
+about "responsibility," and has kept Eyolf poring over his books, in the
+hope that, despite his misfortune, he may one day minister to parental
+vanity. Finally he breaks away from Rita, for the first time "in all
+these ten years," goes up "into the infinite solitudes," looks Death in
+the face, and returns shrinking from passion, yearning towards selfless
+love, and filled with a profound and remorseful pity for the lot of poor
+maimed humanity. He will "help Eyolf to bring his desires into harmony
+with what lies attainable before him." He will "create a conscious
+happiness in his mind." And here the drama opens. Before the Rat-Wife enters, let me pause for a moment to point out that
+here again Ibsen adopts that characteristic method which, in writing of
+_The Lady from the Sea_ and _The Master Builder_, I have compared to
+the method of Hawthorne. The story he tells is not really, or rather not
+inevitably, supernatural. Everything is explicable within this limits
+of nature; but supernatural agency is also vaguely suggested, and the
+reader's imagination is stimulated, without any absolute violence to his
+sense of reality. On the plane of everyday life, then, the Rat-Wife is a
+crazy and uncanny old woman, fabled by the peasants to be a were-wolf in
+her leisure moments, who goes about the country killing vermin. Coming
+across an impressionable child, she tells him a preposterous tale,
+adapted from the old "Pied Piper" legends, of her method of fascinating
+her victims. The child, whose imagination has long dwelt on this
+personage, is in fact hypnotised by her, follows her down to the sea,
+and, watching her row away, turns dizzy, falls in, and is drowned. There
+is nothing impossible, nothing even improbable, in this. At the same
+time, there cannot be the least doubt, I think, that in the poet's mind
+the Rat-Wife is the symbol of Death, of the "still, soft darkness" that
+is at once so fearful and so fascinating to humanity. This is clear not
+only in the text of her single scene, but in the fact that Allmers, in
+the last act, treats her and his "fellow-traveller" of that night among
+the mountains, not precisely as identical, but as interchangeable,
+ideas. To tell the truth, I have even my own suspicions as to who is
+meant by "her sweetheart," whom she "lured" long ago, and who is now
+"down where all the rats are." This theory I shall keep to myself; it
+may be purely fantastic, and is at best inessential. What is certain is
+that death carries off Little Eyolf, and that, of all he was, only the
+crutch is left, mute witness to his hapless lot. He is gone; there was so little to bind him to life that he made not
+even a moment's struggle against the allurement of the "long, sweet
+sleep." Then, for the first time, the depth of the egoism which had
+created and conditioned his little life bursts upon his parents'
+horror-stricken gaze. Like accomplices in crime, they turn upon and
+accuse each other--"sorrow makes them wicked and hateful." Allmers, as
+the one whose eyes were already half opened, is the first to carry war
+into the enemy's country; but Rita is not slow to retort, and presently
+they both have to admit that their recriminations are only a vain
+attempt to drown the voice of self-reproach. In a sort of fierce frenzy
+they tear away veil after veil from their souls, until they realise that
+Eyolf never existed at all, so to speak, for his own sake, but only for
+the sake of their passions and vanities. "Isn't it curious," says Rita,
+summing up the matter, "that we should grieve like this over a little
+stranger boy?" In blind self-absorption they have played with life and death, and now
+"the great open eyes" of the stranger boy will be for ever upon them. Allmers would fain take refuge in a love untainted by the egoism, and
+unexposed to the revulsions, of passion. But not only is Asta's pity
+for Rita too strong to let her countenance this desertion: she has
+discovered that her relation to Allmers is _not_ "exempt from the law of
+change," and she "takes flight from him--and from herself." Meanwhile
+it appears that the agony which Allmers and Rita have endured in
+probing their wounds has been, as Halvard Solness would say, "salutary
+self-torture." The consuming fire of passion is now quenched, but "it,
+has left an empty place within them," and they feel it common need "to
+fill it up with something that is a little like love." They come to
+remember that there are other children in the world on whom reckless
+instinct has thrust the gift, of life--neglected children, stunted and
+maimed in mind if not in body. And now that her egoism is seared to the
+quick, the mother-instinct asserts itself in Rita. She will take these
+children to her--these children to whom her hand and her heart have
+hitherto been closed. They shall be outwardly in Eyolf's place, and
+perhaps in time they may fill the place in her heart that should have
+been Eyolf's. Thus she will try to "make her peace with the great open
+eyes." For now, at last, she has divined the secret of the unwritten
+book on "human responsibility" and has realised that motherhood
+means--atonement. So I read this terrible and beautiful work of art. This, I think, is _a_
+meaning inherent in it--not perhaps _the_ meaning, and still less all
+the meanings. Indeed, its peculiar fascination for me, among all Ibsen's
+works, lies in the fact that it seems to touch life at so many different
+points. But I must not be understood as implying that Ibsen constructed
+the play with any such definitely allegoric design as is here set forth. I do not believe that this creator of men and women ever started from an
+abstract conception. He did not first compose his philosophic tune and
+then set his puppets dancing to it. The germ in his mind was dramatic,
+not ethical; it was only as the drama developed that its meanings dawned
+upon him; and he left them implicit and fragmentary, like the symbolism
+of life itself, seldom formulated, never worked out with schematic
+precision. He simply took a cutting from the tree of life, and, planting
+it in the rich soil of his imagination, let it ramify and burgeon as it
+would. Even if one did not know the date of _Little Eyolf_, one could
+confidently assign it to the latest period of Ibsen's career, on
+noting a certain difference of scale between its foundations and its
+superstructure. In his earlier plays, down to and including _Hedda
+Gabler_, we feel his invention at work to the very last moment, often
+with more intensity in the last act than in the first; in his later
+plays he seems to be in haste to pass as early as possible from
+invention to pure analysis. In this play, after the death of Eyolf
+(surely one of the most inspired "situations" in all drama) there is
+practically no external action whatsoever. Nothing happens save in the
+souls of the characters; there is no further invention, but rather what
+one may perhaps call inquisition. This does not prevent the second act
+from being quite the most poignant or the third act from being one of
+the most moving that Ibsen ever wrote. Far from wishing to depreciate
+the play, I rate it more highly, perhaps, than most critics--among the
+very greatest of Ibsen's achievements. I merely note as a characteristic
+of the poet's latest manner this disparity of scale between the work
+foreshadowed, so to speak, and the work completed. We shall find it
+still more evident in the case of _John Gabriel Borkman_. LITTLE EYOLF
+
+(1894)
+
+
+
+
+CHARACTERS
+
+     ALFRED ALLMERS, landed proprietor and man of letters
+        formerly a tutor. MRS. RITA ALLMERS, his wife. EYOLF, their child, nine years old. MISS ASTA ALLMERS, Alfred's younger half-sister. ENGINEER BORGHEIM. THE RAT-WIFE. The action takes place on ALLMERS'S property, bordering on the fjord,
+twelve or fourteen miles from Christiania. PLAY IN THREE ACTS
+
+
+
+
+ACT FIRST
+
+[A pretty and richly-decorated garden-room, full of furniture, flowers,
+and plants. At the back, open glass doors, leading out to a verandah. An
+extensive view over the fiord. In the distance, wooded hillsides. A door
+in each of the side walls, the one on the right a folding door, placed
+far back. In front on the right, a sofa, with cushions and rugs. Beside
+the sofa, a small table, and chairs. In front, on the left, a larger
+table, with arm-chairs around it. On the table stands an open hand-bag. It is an early summer morning, with warm sunshine.] [Mrs. RITA ALLMERS stands beside the table, facing towards the
+left, engaged in unpacking the bag. She is a handsome, rather tall,
+well-developed blonde, about thirty years of age, dressed in a
+light-coloured morning-gown.] [Shortly after, Miss ASTA ALLMERS enters by the door on the right,
+wearing a light brown summer dress, with hat, jacket, and parasol. Under
+her arm she carries a locked portfolio of considerable size. She
+is slim, of middle height, with dark hair, and deep, earnest eyes. Twenty-five years old.] ASTA. [As she enters.] Good-morning, my dear Rita. RITA. [Turns her head, and nods to her.] What! is that you, Asta? Come
+all the way from town so early? ASTA. [Takes of her things, and lays them on a chair beside the door.] Yes, such a restless feeling came over me. I felt I must come out
+to-day, and see how little Eyolf was getting on--and you too. [Lays the
+portfolio on the table beside the sofa.] So I took the steamer, and here
+I am. RITA. [Smiling to her.] And I daresay you met one or other of your
+friends on board? Quite by chance, of course. ASTA. [Quietly.] No, I did not meet a soul I knew. [Sees the bag.] Why,
+Rita, what have you got there? RITA. [Still unpacking.] Alfred's travelling-bag. Don't you recognise
+it? ASTA. [Joyfully, approaching her.] What! Has Alfred come home? RITA. Yes, only think--he came quite unexpectedly by the late train last
+night. ASTA. Oh, then that was what my feeling meant! It was that that drew
+me out here! And he hadn't written a line to let you know? Not even a
+post-card? RITA. Not a single word. ASTA. Did he not even telegraph? RITA. Yes, an hour before he arrived--quite curtly and coldly. [Laughs.] Don't you think that was like him, Asta? ASTA. Yes; he goes so quietly about everything. RITA. But that made it all the more delightful to have him again. ASTA. Yes, I am sure it would. RITA. A whole fortnight before I expected him! ASTA. And is he quite well? Not in low spirits? RITA. [Closes the bag with a snap, and smiles at her.] He looked quite
+transfigured as he stood in the doorway. ASTA. And was he not the least bit tired either? RITA. Oh, yes, he seemed to be tired enough--very tired, in fact. But,
+poor fellow, he had come on foot the greater part of the way. ASTA. And then perhaps the high mountain air may have been rather too
+keen for him. RITA. Oh, no; I don't think so at all. I haven't heard him cough once. ASTA. Ah, there you see now! It was a good thing, after all, that the
+doctor talked him into taking this tour. RITA. Yes, now that it is safely over.--But I can tell you it has been a
+terrible time for me, Asta. I have never cared to talk about it--and you
+so seldom came out to see me, too--
+
+ASTA. Yes, I daresay that wasn't very nice of me--but--
+
+RITA. Well, well, well, of course you had your school to attend to in
+town. [Smiling.] And then our road-maker friend--of course he was away
+too. ASTA. Oh, don't talk like that, Rita. RITA. Very well, then; we will leave the road-maker out of the
+question.--You can't think how I have been longing for Alfred! How empty
+the place seemed! How desolate! Ugh, it felt as if there had been a
+funeral in the house! ASTA. Why, dear me, only six or seven weeks--
+
+RITA. Yes; but you must remember that Alfred has never been away from
+me before--never so much as twenty-four hours. Not once in all these ten
+years. ASTA. No; but that is just why I really think it was high time he should
+have a little outing this year. He ought to have gone for a tramp in the
+mountains every summer--he really ought. RITA. [Half smiling.] Oh yes, it's all very well fair you to talk. If
+I were as--as reasonable its you, I suppose I should have let him go
+before--perhaps. But I positively could not, Asta! It seemed to me I
+should never get him back again. Surely you can understand that? ASTA. No. But I daresay that is because I have no one to lose. RITA. [With a teasing smile.] Really? No one at all? ASTA. Not that _I_ know of. [Changing the subject.] But tell me, Rita,
+where is Alfred? Is he still asleep? RITA. Oh, not at all. He got up as early as ever to-day. ASTA. Then he can't have been so very tired after all. RITA. Yes, he was last night--when he arrived. But now he has had little
+Eyolf with him in his room for a whole hour and more. ASTA. Poor little white-faced boy! Has he to be for ever at his lessons
+again? RITA. [With a slight shrug.] Alfred will have it so, you know. ASTA. Yes; but I think you ought to put down your foot about it, Rita. RITA. [Somewhat impatiently.] Oh no; come now, I really cannot meddle
+with that. Alfred knows so much better about these things than I do. And
+what would you have Eyolf do? He can't run about and play, you see--like
+other children. ASTA. [With decision.] I will talk to Alfred about this. RITA. Yes, do; I wish you would.--Oh! here he is. [ALFRED ALLMERS, dressed in light summer clothes, enters by the door on
+the left, leading EYOLF by the hand. He is a slim, lightly-built man of
+about thirty-six or thirty-seven, with gentle eyes, and thin brown hair
+and beard. His expression is serious and thoughtful. EYOLF wears a suit
+cut like a uniform, with gold braid and gilt military buttons. He is
+lame, and walks with a crutch under his left arm. His leg is shrunken. He is undersized, and looks delicate, but has beautiful intelligent
+eyes.] ALLMERS. [Drops EYOLF's hand, goes up to ASTA with an expression of
+marked pleasure, and holds out both his hands to her.] Asta! My dearest
+Asta! To think of your coming! To think of my seeing you so soon! ASTA. I felt I must--. Welcome home again! ALLMERS. [Shaking her hands.] Thank you for coming. RITA. Doesn't he look well? ASTA. [Gazes fixedly at him.] Splendid! Quite splendid! His eyes are so
+much brighter! And I suppose you have done a great deal of writing on
+your travels? [With an outburst of joy.] I shouldn't wonder if you had
+finished the whole book, Alfred? ALLMERS. [Shrugging his shoulders.] The book? Oh, the book--
+
+ASTA. Yes, I was sure you would find it go so easily when once you got
+away. ALLMERS. So I thought too. But, do you know, I didn't find it so at all. The truth is, I have not written a line of the book. ASTA. Not a line? RITA. Oho! I wondered when I found all the paper lying untouched in your
+bag. ASTA. But, my dear Alfred, what have you been doing all this time? ALLMERS. [Smiling.] Only thinking and thinking and thinking. RITA. [Putting her arm round his neck.] And thinking a little, too, of
+those you had left at home? ALLMERS. Yes, you may be sure of that. I have thought a great deal of
+you--every single day. RITA. [Taking her arm away.] Ah, that is all I care about. ASTA. But you haven't even touched the book! And yet you can look so
+happy and contented! That is not what you generally do--I mean when your
+work is going badly. ALLMERS. You are right there. You see, I have been such a fool hitherto. All the best that is in you goes into thinking. What you put on paper is
+worth very little. ASTA. [Exclaiming.] Worth very little! RITA. [Laughing.] What an absurd thing to say, Alfred. EYOLF. [Looks confidingly up at him.] Oh yes, Papa, what you write is
+worth a great deal! ALLMERS. [Smiling and stroking his hair.] Well, well, since you say
+so.--But I can tell you, some one is coming after me who will do it
+better. EYOLF. Who can that be? Oh, tell me! ALLMERS. Only wait--you may be sure he will come, and let us hear of
+him. EYOLF. And what will you do then? ALLMERS. [Seriously.] Then I will go to the mountains again--
+
+RITA. Fie, Alfred! For shame! ALLMERS.--up to the peaks and the great waste places. EYOLF. Papa, don't you think I shall soon be well enough for you to take
+me with you? ALLMERS. [With painful emotion.] Oh, yes, perhaps, my little boy. EYOLF. It would be so splendid, you know, if I could climb the
+mountains, like you. ASTA. [Changing the subject.] Why, how beautifully you are dressed
+to-day, Eyolf! EYOLF. Yes, don't you think so, Auntie? ASTA. Yes, indeed. Is it in honour of Papa that you have got your new
+clothes on? EYOLF. Yes, I asked Mama to let me. I wanted so to let Papa see me in
+them. ALLMERS. [In a low voice, to RITA.] You shouldn't have given him clothes
+like that. RITA. [In a low voice.] Oh, he has teased me so long about them--he had
+set his heart on them. He gave me no peace. EYOLF. And I forgot to tell you, Papa--Borgheim has bought me a new bow. And he has taught me how to shoot with it too. ALLMERS. Ah, there now--that's just the sort of thing for you, Eyolf. EYOLF. And next time he comes, I shall ask him to teach me to swim, too. ALLMERS. To swim! Oh, what makes you want to learn swimming? EYOLF. Well, you know, all the boys down at the beach can swim. I am the
+only one that can't. ALLMERS. [With emotion, taking him in his arms.] You shall learn
+whatever you like--everything you really want to. EYOLF. Then do you know what I want most of all, Papa? ALLMERS. No; tell me. EYOLF. I want most of all to be a soldier. ALLMERS. Oh, little Eyolf, there are many, many other things that are
+better than that. EYOLF. Ah, but when I grow big, then I shall have to be a soldier. You
+know that, don't you? ALLMERS. [Clenching his hands together.] Well, well, well: we shall
+see--
+
+ASTA. [Seating herself at the table on the left.] Eyolf! Come here to
+me, and I will tell you something. EYOLF. [Goes up to her.] What is it, Auntie? ASTA. What do you think, Eyolf--I have seen the Rat-Wife. EYOLF. What! Seen the Rat-Wife! Oh, you're only making a fool of me! ASTA. No; it's quite true. I saw her yesterday. EYOLF. Where did you see her? ASTA. I saw her on the road, outside the town. ALLMERS. I saw her, too, somewhere up in the country. RITA. [Who is sitting on the sofa.] Perhaps it will be out turn to see
+her next, Eyolf. EYOLF. Auntie, isn't it strange that she should be called the Rat-Wife? ASTA. Oh, people just give her that name because she wanders round the
+country driving away all the rats. ALLMERS. I have heard that her real name is Varg. EYOLF. Varg! That means a wolf, doesn't it? ALLMERS. [Patting him on the head.] So you know that, do you? EYOLF. [Cautiously.] Then perhaps it may be true, after all, that she is
+a were-wolf at night. Do you believe that, Papa? ALLMERS. Oh, no; I don't believe it. Now you ought to go and play a
+little in the garden. EYOLF. Should I not take some books with me? ALLMERS. No, no books after this. You had better go down to the beach to
+the other boys. EYOLF. [Shyly.] No, Papa, I won't go down to the boys to-day. ALLMERS. Why not? EYOLF. Oh, because I have these clothes on. ALLMERS. [Knitting his brows.] Do you mean that they make fun of--of
+your pretty clothes? EYOLF. [Evasively.] No, they daren't--for then I would thrash them. ALLMERS. Aha!--then why--? EYOLF. You see, they are so naughty, these boys. And then they say I can
+never be a soldier. ALLMERS. [With suppressed indignation.] Why do they say that, do you
+think? EYOLF. I suppose they are jealous of me. For you know, Papa, they are so
+poor, they have to go about barefoot. ALLMERS. [Softly, with choking voice.] Oh, Rita--how it wrings my heart! RITA. [Soothingly, rising.] There, there, there! ALLMERS. [Threateningly.] But these rascals shall soon find out who is
+the master down at the beach! ASTA. [Listening.] There is some one knocking. EYOLF. Oh, I'm sure it's Borgheim! RITA. Come in. [The RAT-WIFE comes softly and noiselessly in by the door on the right. She is a thin little shrunken figure, old and grey-haired, with keen,
+piercing eyes, dressed in an old-fashioned flowered gown, with a black
+hood and cloak. She has in her hand a large red umbrella, and carries a
+black bag by a loop over her arm.] EYOLF. [Softly, taking hold of ASTA's dress.] Auntie! That must surely
+be her! THE RAT-WIFE. [Curtseying at the door.] I humbly beg pardon--but are
+your worships troubled with any gnawing things in the house? ALLMERS. Here? No, I don't think so. THE RAT-WIFE. For it would be such a pleasure to me to rid your
+worships' house of them. RITA. Yes, yes; we understand. But we have nothing of the sort here. THE RAT-WIFE. That's very unlucky, that is; for I just happened to be
+on my rounds now, and goodness knows when I may be in these parts
+again.--Oh, how tired I am! ALLMERS. [Pointing to a chair.] Yes, you look tired. THE RAT-WIFE. I know one ought never to get tired of doing good to the
+poor little things that are hated and persecuted so cruelly. But it
+takes your strength out of you, it does. RITA. Won't you sit down and rest a little? THE RAT-WIFE. I thank your ladyship with all my heart. [Seats herself on
+a chair between the door and the sofa.] I have been out all night at my
+work. ALLMERS. Have you indeed? THE RAT-WIFE. Yes, over on the islands. [With a chuckling laugh.] The
+people sent for me, I can assure you. They didn't like it a bit; but
+there was nothing else to be done. They had to put a good face on it,
+and bite the sour apple. [Looks at EYOLF, and nods.] The sour apple,
+little master, the sour apple. EYOLF. [Involuntarily, a little timidly.] Why did they have to--? THE RAT-WIFE. What? EYOLF. To bite it? THE RAT-WIFE. Why, because they couldn't keep body and soul together
+on account of the rats and all the little rat-children, you see, young
+master. RITA. Ugh! Poor people! Have they so many of them? THE RAT-WIFE. Yes, it was all alive and swarming with them. [Laughs with
+quiet glee.] They came creepy-crawly up into the beds all night long. They plumped into the milk-cans, and they went pittering and pattering
+all over the floor, backwards and forwards, and up and down. EYOLF. [Softly, to ASTA.] I shall never go there, Auntie. THE RAT-WIFE. But then I came--I, and another along with me. And we took
+them with us, every one--the sweet little creatures! We made an end of
+every one of them. EYOLF. [With a shriek.] Papa--look! look! RITA. Good Heavens, Eyolf! ALLMERS. What's the matter? EYOLF. [Pointing.] There's something wriggling in the bag! RITA. [At the extreme left, shrieks.] Ugh! Send her away, Alfred. THE RAT-WIFE. [Laughing.] Oh, dearest lady, you needn't be frightened of
+such a little mannikin. ALLMERS. But what is the thing? THE RAT-WIFE. Why, it's only little Mopseman. [Loosening the string of
+the bag.] Come up out of the dark, my own little darling friend. [A little dog with a broad black snout pokes its head out of the bag.] THE RAT-WIFE. [Nodding and beckoning to EYOLF.] Come along, don't be
+afraid, my little wounded warrior! He won't bite. Come here! Come here! EYOLF. [Clinging to ASTA.] No, I dare not. THE RAT-WIFE. Don't you think he has a gentle, lovable countenance, my
+young master? EYOLF. [Astonished, pointing.] That thing there? THE RAT-WIFE. Yes, this thing here. EYOLF. [Almost under his breath, staring fixedly at the dog.] I think he
+has the horriblest--countenance I ever saw. THE RAT-WIFE. [Closing the bag.] Oh, it will come--it will come, right
+enough. EYOLF. [Involuntarily drawing nearer, at last goes right up to her, and
+strokes the bag.] But he is lovely--lovely all the same. THE RAT-WIFE. [In a tone of caution.] But now he is so tired and weary,
+poor thing. He's utterly tired out, he is. [Looks at ALLMERS.] For it
+takes the strength out of you, that sort of game, I can tell you, sir. ALLMERS. What sort of game do you mean? THE RAT-WIFE. The luring game. ALLMERS. Do you mean that it is the dog that lures the rats? THE RAT-WIFE. [Nodding.] Mopseman and I--we two do it together. And it
+goes so smoothly--for all you can see, at any rate. I just slip a string
+through his collar, and then I lead him three times round the house, and
+play on my Pan's-pipes. When they hear that, they have got to come up
+from the cellars, and down from the garrets, and out of flour boles, all
+the blessed little creatures. EYOLF. And does he bite them to death then? THE RAT-WIFE. Oh, not at all! No, we go down to the boat, he and I
+do--and then they follow after us, both the big ones and the little
+ratikins. EYOLF. [Eagerly.] And what then--tell me! THE RAT-WIFE. Then we push out from the land, and I scull with one
+oar, and play on my Pan's-pipes. And Mopseman, he swims behind. [With
+glittering eyes.] And all the creepers and crawlers, they follow and
+follow us out into the deep, deep waters. Ay, for they have to. EYOLF. Why do they have to? THE RAT-WIFE. Just because they want not to--just because they are so
+deadly afraid of the water. That is why they have got to plunge into it. EYOLF. Are they drowned, then? THE RAT-WIFE. Every blessed one. [More softly.] And there it is all as
+still, and soft, and dark as their hearts can desire, the lovely little
+things. Down there they sleep a long, sweet sleep, with no one to hate
+them or persecute them any more. [Rises.] In the old days, I can tell
+you, I didn't need any Mopseman. Then I did the luring myself--I alone. EYOLF. And what did you lure then? THE RAT-WIFE. Men. One most of all. EYOLF. [With eagerness.] Oh, who was that one? Tell me! THE RAT-WIFE. [Laughing.] It was my own sweetheart, it was, little
+heart-breaker! EYOLF. And where is he now, then? THE RAT-WIFE. [Harshly.] Down where all the rats are. [Resuming her
+milder tone.] But now I must be off and get to business again. Always on
+the move. [To RITA.] So your ladyship has no sort of use for me to-day? I could finish it all off while I am about it. RITA. No, thank you; I don't think we require anything. THE RAT-WIFE. Well, well, your sweet ladyship, you can never tell. If your ladyship should find that there is anything lure that keeps
+nibbling and gnawing, and creeping and crawling, then just see and get
+hold of me and Mopseman.--Good-bye, good-bye, a kind good-bye to you
+all. [She goes out by the door on the right.] EYOLF. [Softly and triumphantly, to ASTA.] Only think, Auntie, now I
+have seen the Rat-Wife too! [RITA goes out upon the verandah, and fans herself with her
+pocket-handkerchief. Shortly afterwards, EYOLF slips cautiously and
+unnoticed out to the right.] ALLMERS. [Takes up the portfolio from the table by the sofa.] Is this
+your portfolio, Asta? ASTA. Yes. I have some of the old letters in it. ALLMERS. Ah, the family letters--
+
+ASTA. You know you asked me to arrange them for you while you were away. ALLMERS. [Pats her on the head.] And you have actually found time to do
+that, dear? ASTA. Oh, yes. I have done it partly out here and partly at my own rooms
+in town. ALLMERS. Thanks, dear. Did you find anything particular in them? ASTA. [Lightly.] Oh, you know you always find something or other in such
+old papers. [Speaking lower and seriously.] It is the letters to mother
+that are in this portfolio. ALLMERS. Those, of course, you must keep yourself. ASTA. [With an effort.] No; I am determined that you shall look through
+them, too, Alfred. Some time--later on in life. I haven't the key of the
+portfolio with me just now. ALLMERS. It doesn't matter, my dear Asta, for I shall never read your
+mother's letters in any case. ASTA. [Fixing her eyes on him.] Then some time or other--some quiet
+evening--I will tell you a little of what is in them. ALLMERS. Yes, that will be much better. But do you keep your mother's
+letters--you haven't so many mementos of her. [He hands ASTA the portfolio. She takes it, and lays it on the chair
+under her outdoor things. RITA comes into the room again.] RITA. Ugh! I feel as if that horrible old woman had brought a sort of
+graveyard smell with her. ALLMERS. Yes, she was rather horrible. RITA. I felt almost sick while she was in the room. ALLMERS. However, I can very well understand the sort of spellbound
+fascination that she talked about. The loneliness of the mountain-peaks
+and of the great waste places has something of the same magic about it. ASTA. [Looks attentively at him.] What is it that has happened to you,
+Alfred? ALLMERS. [Smiling.] To me? ASTA. Yes, something has happened--something seems almost to have
+transformed you. Rita noticed it too. RITA. Yes, I saw it the moment you came. A change for the better, I
+hope, Alfred? ALLMERS. It ought to be for the better. And it must and shall come to
+good. RITA. [With an outburst.] You have had some adventure on your journey! Don't deny it! I can see it in your face! ALLMERS. [Shaking his head.] No adventure in the world--outwardly at
+least. But--
+
+RITA. [Eagerly.] But--? ALLMERS. It is true that within me there has been something of a
+revolution. RITA. Oh Heavens--! ALLMERS. [Soothingly, patting her hand.] Only for the better, my dear
+Rita. You may be perfectly certain of that. RITA. [Seats herself on the sofa.] You must tell us all about it, at
+once--tell us everything! ALLMERS. [Turning to ASTA.] Yes, let us sit down, too, Asta. Then I will
+try to tell you as well as I can. [He seats himself on the sofa at RITA's side. ASTA moves a chair
+forward, and places herself near him.] RITA. [Looking at him expectantly.] Well--? ALLMERS. [Gazing straight before him.] When I look back over my
+life--and my fortunes--for the last ten or eleven years, it seems to me
+almost like a fairy-tale or a dream. Don't you think so too, Asta? ASTA. Yes, in many ways I think so. ALLMERS. [Continuing.] When I remember what we two used to be, Asta--we
+two poor orphan children--
+
+RITA. [Impatiently.] Oh, that is such an old, old story. ALLMERS. [Not listening to her.] And now here I am in comfort and
+luxury. I have been able to follow my vocation. I have been able to work
+and study--just as I had always longed to. [Holds out his hand.] And all
+this great--this fabulous good fortune we owe to you, my dearest Rita. RITA. [Half playfully, half angrily, slaps his hand.] Oh, I do wish you
+would stop talking like that. ALLMERS. I speak of it only as a sort of introduction. RITA. Then do skip the introduction! ALLMERS. Rita,--you must not think it was the doctor's advice that drove
+me up to the mountains. ASTA. Was it not, Alfred? RITA. What was it, then? ALLMERS. It was this: I found there was no more peace for me, there in
+my study. RITA. No peace! Why, who disturbed you? ALLMERS. [Shaking his head.] No one from without. But I felt as though
+I were positively abusing--or, say rather, wasting--my best
+powers--frittering away the time. ASTA. [With wide eyes.] When you were writing at your book? ALLMERS. [Nodding.] For I cannot think that my powers are confined to
+that alone. I must surely have it in me to do one or two other things as
+well. RITA. Was that what you sat there brooding over? ALLMERS. Yes, mainly that. RITA. And so that is what has made you so discontented with yourself
+of late; and with the rest of us as well. For you know you were
+discontented, Alfred. ALLMERS. [Gazing straight before him.] There I sat bent over my table,
+day after day, and often half the night too--writing and writing at the
+great thick book on "Human Responsibility." H'm! ASTA. [Laying her hand upon his arm.] But, Alfred--that book is to be
+your life-work. RITA. Yes, you have said so often enough. ALLMERS. I thought so. Ever since I grew up, I have thought so. [With an
+affectionate expression in his eyes.] And it was you that enabled me to
+devote myself to it, my dear Rita--
+
+RITA. Oh, nonsense! ALLMERS. [Smiling to her.] --you, with your gold, and your green
+forests--
+
+RITA. [Half laughing, half vexed.] If you begin all that rubbish again,
+I shall beat you. ASTA. [Looking sorrowfully at him.] But the book, Alfred? ALLMERS. It began, as it were, to drift away from me. But I was more and
+more beset by the thought of the higher duties that laid their claims
+upon me. RITA. [Beaming, seizes his hand.] Alfred! ALLMERS. The thought of Eyolf, my dear Rita. RITA. [Disappointed, drops his hand.] Ah--of Eyolf! ALLMERS. Poor little Eyolf has taken deeper and deeper hold of me. After
+that unlucky fall from the table--and especially since we have been
+assured that the injury is incurable--
+
+RITA. [Insistently.] But you take all the care you possibly can of him,
+Alfred! ALLMERS. As a schoolmaster, yes; but not as a father. And it is a father
+that I want henceforth to be to Eyolf. RITA. [Looking at him and shaking her head.] I don't think I quite
+understand you. ALLMERS. I mean that I will try with all my might to make his misfortune
+as painless and easy to him as it can possibly be. RITA. Oh, but, dear--thank Heaven, I don't think he feels it so deeply. ASTA. [With emotion.] Yes, Rita, he does. ALLMERS. Yes, you may be sure he feels it deeply. RITA. [Impatiently.] But, Alfred, what more can you do for him? ALLMERS. I will try to perfect all the rich possibilities that are
+dawning in his childish soul. I will foster all the germs of good in his
+nature--make them blossom and bear fruit. [With more and more warmth,
+rising.] And I will do more than that! I will help him to bring his
+desires into harmony with what lies attainable before him. That is just
+what at present they are not. All his longings are for things that
+must for ever remain unattainable to him. But I will create a conscious
+happiness in his mind. [He goes once or twice up and down the room. ASTA
+and RITA follow him with their eyes.] RITA. You should take these things more quietly, Alfred! ALLMERS. [Stops beside the table on the left, and looks at them.] Eyolf
+shall carry on my life-work--if he wants to. Or he shall choose one
+that is altogether his own. Perhaps that would be best. At all events, I
+shall let mine rest as it is. RITA. [Rising.] But, Alfred dear, can you not work both for yourself and
+for Eyolf? ALLMERS. No, I cannot. It is impossible! I cannot divide myself in this
+matter--and therefore I efface myself. Eyolf shall be the complete man
+of our race. And it shall be my new life-work to make him the complete
+man. ASTA. [Has risen and now goes up to him.] This must have cost you a
+terribly hard struggle, Alfred? ALLMERS. Yes, it has. At home here, I should never have conquered
+myself, never brought myself to the point of renunciation. Never at
+home! RITA. Then that was why you went away this summer? ALLMERS. [With shining eyes.] Yes! I went up into the infinite
+solitudes. I saw the sunrise gleaming on the mountain peaks. I felt
+myself nearer the stars--I seemed almost to be in sympathy and communion
+with them. And then I found the strength for it. ASTA. [Looking sadly at him.] But you will never write any more of your
+book on "Human Responsibility"? ALLMERS. No, never, Asta. I tell you I cannot split up my life between
+two vocations. But I will act out my "human responsibility"--in my own
+life. RITA. [With a smile.] Do you think you can live up to such high resolves
+at home here? ALLMERS. [Taking her hand.] With you to help me, I can. [Holds out the
+other hand.] And with you too, Asta. RITA. [Drawing her hand away.] Ah--with both of us! So, after all, you
+can divide yourself. ALLMERS. Why, my dearest Rita--! [RITA moves away from him and stands in the garden doorway. A light and
+rapid knock is heard at the door on the right. Engineer BORGHEIM enters
+quickly. He is a young man of a little over thirty. His expression is
+bright and cheerful, and he holds himself erect.] BORGHEIM. Good morning, Mrs. Allmers. [Stops with an expression of
+pleasure on seeing ALLMERS.] Why, what's this? Home again already, Mr.
+Allmers? ALLMERS. [Shaking hands with him.] Yes, I arrived list night. RITA. [Gaily.] His leave was up, Mr. Borgheim. ALLMERS. No, you know it wasn't, Rita--
+
+RITA. [Approaching.] Oh yes, but it was, though. His furlough had run
+out. BORGHEIM. I see you hold your husband well in hand, Mrs. Allmers. 

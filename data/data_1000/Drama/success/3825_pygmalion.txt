@@ -1,0 +1,639 @@
+
+
+
+
+Produced by Eve Sobol. HTML version by Al Haines. PYGMALION
+
+BERNARD SHAW
+
+1912
+
+TRANSCRIBER'S NOTE: In the printed version of this text, all
+apostrophes for contractions such as "can't", "wouldn't" and "he'd"
+were omitted, to read as "cant", "wouldnt", and "hed". This etext
+edition restores the omitted apostrophes. PREFACE TO PYGMALION. A Professor of Phonetics. As will be seen later on, Pygmalion needs, not a preface, but a sequel,
+which I have supplied in its due place. The English have no respect for
+their language, and will not teach their children to speak it. They
+spell it so abominably that no man can teach himself what it sounds
+like. It is impossible for an Englishman to open his mouth without
+making some other Englishman hate or despise him. German and Spanish
+are accessible to foreigners: English is not accessible even to
+Englishmen. The reformer England needs today is an energetic phonetic
+enthusiast: that is why I have made such a one the hero of a popular
+play. There have been heroes of that kind crying in the wilderness for
+many years past. When I became interested in the subject towards the
+end of the eighteen-seventies, Melville Bell was dead; but Alexander J.
+Ellis was still a living patriarch, with an impressive head always
+covered by a velvet skull cap, for which he would apologize to public
+meetings in a very courtly manner. He and Tito Pagliardini, another
+phonetic veteran, were men whom it was impossible to dislike. Henry
+Sweet, then a young man, lacked their sweetness of character: he was
+about as conciliatory to conventional mortals as Ibsen or Samuel
+Butler. His great ability as a phonetician (he was, I think, the best
+of them all at his job) would have entitled him to high official
+recognition, and perhaps enabled him to popularize his subject, but for
+his Satanic contempt for all academic dignitaries and persons in
+general who thought more of Greek than of phonetics. Once, in the days
+when the Imperial Institute rose in South Kensington, and Joseph
+Chamberlain was booming the Empire, I induced the editor of a leading
+monthly review to commission an article from Sweet on the imperial
+importance of his subject. When it arrived, it contained nothing but a
+savagely derisive attack on a professor of language and literature
+whose chair Sweet regarded as proper to a phonetic expert only. The
+article, being libelous, had to be returned as impossible; and I had to
+renounce my dream of dragging its author into the limelight. When I met
+him afterwards, for the first time for many years, I found to my
+astonishment that he, who had been a quite tolerably presentable young
+man, had actually managed by sheer scorn to alter his personal
+appearance until he had become a sort of walking repudiation of Oxford
+and all its traditions. It must have been largely in his own despite
+that he was squeezed into something called a Readership of phonetics
+there. The future of phonetics rests probably with his pupils, who all
+swore by him; but nothing could bring the man himself into any sort of
+compliance with the university, to which he nevertheless clung by
+divine right in an intensely Oxonian way. I daresay his papers, if he
+has left any, include some satires that may be published without too
+destructive results fifty years hence. He was, I believe, not in the
+least an ill-natured man: very much the opposite, I should say; but he
+would not suffer fools gladly. Those who knew him will recognize in my third act the allusion to the
+patent Shorthand in which he used to write postcards, and which may be
+acquired from a four and six-penny manual published by the Clarendon
+Press. The postcards which Mrs. Higgins describes are such as I have
+received from Sweet. I would decipher a sound which a cockney would
+represent by zerr, and a Frenchman by seu, and then write demanding
+with some heat what on earth it meant. Sweet, with boundless contempt
+for my stupidity, would reply that it not only meant but obviously was
+the word Result, as no other Word containing that sound, and capable of
+making sense with the context, existed in any language spoken on earth. That less expert mortals should require fuller indications was beyond
+Sweet's patience. Therefore, though the whole point of his "Current
+Shorthand" is that it can express every sound in the language
+perfectly, vowels as well as consonants, and that your hand has to make
+no stroke except the easy and current ones with which you write m, n,
+and u, l, p, and q, scribbling them at whatever angle comes easiest to
+you, his unfortunate determination to make this remarkable and quite
+legible script serve also as a Shorthand reduced it in his own practice
+to the most inscrutable of cryptograms. His true objective was the
+provision of a full, accurate, legible script for our noble but
+ill-dressed language; but he was led past that by his contempt for the
+popular Pitman system of Shorthand, which he called the Pitfall system. The triumph of Pitman was a triumph of business organization: there was
+a weekly paper to persuade you to learn Pitman: there were cheap
+textbooks and exercise books and transcripts of speeches for you to
+copy, and schools where experienced teachers coached you up to the
+necessary proficiency. Sweet could not organize his market in that
+fashion. He might as well have been the Sybil who tore up the leaves of
+prophecy that nobody would attend to. The four and six-penny manual,
+mostly in his lithographed handwriting, that was never vulgarly
+advertized, may perhaps some day be taken up by a syndicate and pushed
+upon the public as The Times pushed the Encyclopaedia Britannica; but
+until then it will certainly not prevail against Pitman. I have bought
+three copies of it during my lifetime; and I am informed by the
+publishers that its cloistered existence is still a steady and healthy
+one. I actually learned the system two several times; and yet the
+shorthand in which I am writing these lines is Pitman's. And the reason
+is, that my secretary cannot transcribe Sweet, having been perforce
+taught in the schools of Pitman. Therefore, Sweet railed at Pitman as
+vainly as Thersites railed at Ajax: his raillery, however it may have
+eased his soul, gave no popular vogue to Current Shorthand. Pygmalion
+Higgins is not a portrait of Sweet, to whom the adventure of Eliza
+Doolittle would have been impossible; still, as will be seen, there are
+touches of Sweet in the play. With Higgins's physique and temperament
+Sweet might have set the Thames on fire. As it was, he impressed
+himself professionally on Europe to an extent that made his comparative
+personal obscurity, and the failure of Oxford to do justice to his
+eminence, a puzzle to foreign specialists in his subject. I do not
+blame Oxford, because I think Oxford is quite right in demanding a
+certain social amenity from its nurslings (heaven knows it is not
+exorbitant in its requirements! ); for although I well know how hard it
+is for a man of genius with a seriously underrated subject to maintain
+serene and kindly relations with the men who underrate it, and who keep
+all the best places for less important subjects which they profess
+without originality and sometimes without much capacity for them,
+still, if he overwhelms them with wrath and disdain, he cannot expect
+them to heap honors on him. Of the later generations of phoneticians I know little. Among them
+towers the Poet Laureate, to whom perhaps Higgins may owe his Miltonic
+sympathies, though here again I must disclaim all portraiture. But if
+the play makes the public aware that there are such people as
+phoneticians, and that they are among the most important people in
+England at present, it will serve its turn. I wish to boast that Pygmalion has been an extremely successful play
+all over Europe and North America as well as at home. It is so
+intensely and deliberately didactic, and its subject is esteemed so
+dry, that I delight in throwing it at the heads of the wiseacres who
+repeat the parrot cry that art should never be didactic. It goes to
+prove my contention that art should never be anything else. Finally, and for the encouragement of people troubled with accents that
+cut them off from all high employment, I may add that the change
+wrought by Professor Higgins in the flower girl is neither impossible
+nor uncommon. The modern concierge's daughter who fulfils her ambition
+by playing the Queen of Spain in Ruy Blas at the Theatre Francais is
+only one of many thousands of men and women who have sloughed off their
+native dialects and acquired a new tongue. But the thing has to be done
+scientifically, or the last state of the aspirant may be worse than the
+first. An honest and natural slum dialect is more tolerable than the
+attempt of a phonetically untaught person to imitate the vulgar dialect
+of the golf club; and I am sorry to say that in spite of the efforts of
+our Academy of Dramatic Art, there is still too much sham golfing
+English on our stage, and too little of the noble English of Forbes
+Robertson. ACT I
+
+Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles
+blowing frantically in all directions. Pedestrians running for shelter
+into the market and under the portico of St. Paul's Church, where there
+are already several people, among them a lady and her daughter in
+evening dress. They are all peering out gloomily at the rain, except
+one man with his back turned to the rest, who seems wholly preoccupied
+with a notebook in which he is writing busily. The church clock strikes the first quarter. THE DAUGHTER [in the space between the central pillars, close to the
+one on her left] I'm getting chilled to the bone. What can Freddy be
+doing all this time? He's been gone twenty minutes. THE MOTHER [on her daughter's right] Not so long. But he ought to have
+got us a cab by this. A BYSTANDER [on the lady's right] He won't get no cab not until
+half-past eleven, missus, when they come back after dropping their
+theatre fares. THE MOTHER. But we must have a cab. We can't stand here until half-past
+eleven. It's too bad. THE BYSTANDER. Well, it ain't my fault, missus. THE DAUGHTER. If Freddy had a bit of gumption, he would have got one at
+the theatre door. THE MOTHER. What could he have done, poor boy? THE DAUGHTER. Other people got cabs. Why couldn't he? Freddy rushes in out of the rain from the Southampton Street side, and
+comes between them closing a dripping umbrella. He is a young man of
+twenty, in evening dress, very wet around the ankles. THE DAUGHTER. Well, haven't you got a cab? FREDDY. There's not one to be had for love or money. THE MOTHER. Oh, Freddy, there must be one. You can't have tried. THE DAUGHTER. It's too tiresome. Do you expect us to go and get one
+ourselves? FREDDY. I tell you they're all engaged. The rain was so sudden: nobody
+was prepared; and everybody had to take a cab. I've been to Charing
+Cross one way and nearly to Ludgate Circus the other; and they were all
+engaged. THE MOTHER. Did you try Trafalgar Square? FREDDY. There wasn't one at Trafalgar Square. THE DAUGHTER. Did you try? FREDDY. I tried as far as Charing Cross Station. Did you expect me to
+walk to Hammersmith? THE DAUGHTER. You haven't tried at all. THE MOTHER. You really are very helpless, Freddy. Go again; and don't
+come back until you have found a cab. FREDDY. I shall simply get soaked for nothing. THE DAUGHTER. And what about us? Are we to stay here all night in this
+draught, with next to nothing on. You selfish pig--
+
+FREDDY. Oh, very well: I'll go, I'll go. [He opens his umbrella and
+dashes off Strandwards, but comes into collision with a flower girl,
+who is hurrying in for shelter, knocking her basket out of her hands. A
+blinding flash of lightning, followed instantly by a rattling peal of
+thunder, orchestrates the incident]
+
+THE FLOWER GIRL. Nah then, Freddy: look wh' y' gowin, deah. FREDDY. Sorry [he rushes off]. THE FLOWER GIRL [picking up her scattered flowers and replacing them in
+the basket] There's menners f' yer! Te-oo banches o voylets trod into
+the mad. [She sits down on the plinth of the column, sorting her
+flowers, on the lady's right. She is not at all an attractive person. She is perhaps eighteen, perhaps twenty, hardly older. She wears a
+little sailor hat of black straw that has long been exposed to the dust
+and soot of London and has seldom if ever been brushed. Her hair needs
+washing rather badly: its mousy color can hardly be natural. She wears
+a shoddy black coat that reaches nearly to her knees and is shaped to
+her waist. She has a brown skirt with a coarse apron. Her boots are
+much the worse for wear. She is no doubt as clean as she can afford to
+be; but compared to the ladies she is very dirty. Her features are no
+worse than theirs; but their condition leaves something to be desired;
+and she needs the services of a dentist]. THE MOTHER. How do you know that my son's name is Freddy, pray? THE FLOWER GIRL. Ow, eez ye-ooa san, is e? Wal, fewd dan y' de-ooty
+bawmz a mather should, eed now bettern to spawl a pore gel's flahrzn
+than ran awy atbaht pyin. Will ye-oo py me f'them? [Here, with
+apologies, this desperate attempt to represent her dialect without a
+phonetic alphabet must be abandoned as unintelligible outside London.] THE DAUGHTER. Do nothing of the sort, mother. The idea! THE MOTHER. Please allow me, Clara. Have you any pennies? THE DAUGHTER. No. I've nothing smaller than sixpence. THE FLOWER GIRL [hopefully] I can give you change for a tanner, kind
+lady. THE MOTHER [to Clara] Give it to me. [Clara parts reluctantly]. Now [to
+the girl] This is for your flowers. THE FLOWER GIRL. Thank you kindly, lady. THE DAUGHTER. Make her give you the change. These things are only a
+penny a bunch. THE MOTHER. Do hold your tongue, Clara. [To the girl]. You can keep the
+change. THE FLOWER GIRL. Oh, thank you, lady. THE MOTHER. Now tell me how you know that young gentleman's name. THE FLOWER GIRL. I didn't. THE MOTHER. I heard you call him by it. Don't try to deceive me. THE FLOWER GIRL [protesting] Who's trying to deceive you? I called him
+Freddy or Charlie same as you might yourself if you was talking to a
+stranger and wished to be pleasant. [She sits down beside her basket]. THE DAUGHTER. Sixpence thrown away! Really, mamma, you might have
+spared Freddy that. [She retreats in disgust behind the pillar]. An elderly gentleman of the amiable military type rushes into shelter,
+and closes a dripping umbrella. He is in the same plight as Freddy,
+very wet about the ankles. He is in evening dress, with a light
+overcoat. He takes the place left vacant by the daughter's retirement. THE GENTLEMAN. Phew! THE MOTHER [to the gentleman] Oh, sir, is there any sign of its
+stopping? THE GENTLEMAN. I'm afraid not. It started worse than ever about two
+minutes ago. [He goes to the plinth beside the flower girl; puts up his
+foot on it; and stoops to turn down his trouser ends]. THE MOTHER. Oh, dear! [She retires sadly and joins her daughter]. THE FLOWER GIRL [taking advantage of the military gentleman's proximity
+to establish friendly relations with him]. If it's worse it's a sign
+it's nearly over. So cheer up, Captain; and buy a flower off a poor
+girl. THE GENTLEMAN. I'm sorry, I haven't any change. THE FLOWER GIRL. I can give you change, Captain,
+
+THE GENTLEMEN. For a sovereign? I've nothing less. THE FLOWER GIRL. Garn! Oh do buy a flower off me, Captain. I can change
+half-a-crown. Take this for tuppence. THE GENTLEMAN. Now don't be troublesome: there's a good girl. [Trying
+his pockets] I really haven't any change--Stop: here's three hapence,
+if that's any use to you [he retreats to the other pillar]. THE FLOWER GIRL [disappointed, but thinking three halfpence better than
+nothing] Thank you, sir. THE BYSTANDER [to the girl] You be careful: give him a flower for it. There's a bloke here behind taking down every blessed word you're
+saying. [All turn to the man who is taking notes]. THE FLOWER GIRL [springing up terrified] I ain't done nothing wrong by
+speaking to the gentleman. I've a right to sell flowers if I keep off
+the kerb. [Hysterically] I'm a respectable girl: so help me, I never
+spoke to him except to ask him to buy a flower off me. [General hubbub,
+mostly sympathetic to the flower girl, but deprecating her excessive
+sensibility. Cries of Don't start hollerin. Who's hurting you? Nobody's
+going to touch you. What's the good of fussing? Steady on. Easy, easy,
+etc., come from the elderly staid spectators, who pat her comfortingly. Less patient ones bid her shut her head, or ask her roughly what is
+wrong with her. A remoter group, not knowing what the matter is, crowd
+in and increase the noise with question and answer: What's the row? What she do? Where is he? A tec taking her down. What! him? Yes: him
+over there: Took money off the gentleman, etc. The flower girl,
+distraught and mobbed, breaks through them to the gentleman, crying
+mildly] Oh, sir, don't let him charge me. You dunno what it means to
+me. They'll take away my character and drive me on the streets for
+speaking to gentlemen. They--
+
+THE NOTE TAKER [coming forward on her right, the rest crowding after
+him] There, there, there, there! Who's hurting you, you silly girl? What do you take me for? THE BYSTANDER. It's all right: he's a gentleman: look at his boots. [Explaining to the note taker] She thought you was a copper's nark, sir. THE NOTE TAKER [with quick interest] What's a copper's nark? THE BYSTANDER [inept at definition] It's a--well, it's a copper's nark,
+as you might say. What else would you call it? A sort of informer. THE FLOWER GIRL [still hysterical] I take my Bible oath I never said a
+word--
+
+THE NOTE TAKER [overbearing but good-humored] Oh, shut up, shut up. Do
+I look like a policeman? THE FLOWER GIRL [far from reassured] Then what did you take down my
+words for? How do I know whether you took me down right? You just show
+me what you've wrote about me. [The note taker opens his book and holds
+it steadily under her nose, though the pressure of the mob trying to
+read it over his shoulders would upset a weaker man]. What's that? That
+ain't proper writing. I can't read that. THE NOTE TAKER. I can. [Reads, reproducing her pronunciation exactly]
+"Cheer ap, Keptin; n' haw ya flahr orf a pore gel." THE FLOWER GIRL [much  distressed] It's because I called him Captain. I
+meant no harm. [To the gentleman] Oh, sir, don't let him lay a charge
+agen me for a word like that. You--
+
+THE GENTLEMAN. Charge! I make no charge. [To the note taker] Really,
+sir, if you are a detective, you need not begin protecting me against
+molestation by young women until I ask you. Anybody could see that the
+girl meant no harm. THE BYSTANDERS GENERALLY [demonstrating against police espionage]
+Course they could. What business is it of yours? You mind your own
+affairs. He wants promotion, he does. Taking down people's words! Girl
+never said a word to him. What harm if she did? Nice thing a girl can't
+shelter from the rain without being insulted, etc., etc., etc. [She is
+conducted by the more sympathetic demonstrators back to her plinth,
+where she resumes her seat and struggles with her emotion]. THE BYSTANDER. He ain't a tec. He's a blooming busybody: that's what he
+is. I tell you, look at his boots. THE NOTE TAKER [turning on him genially] And how are all your people
+down at Selsey? THE BYSTANDER [suspiciously] Who told you my people come from Selsey? THE NOTE TAKER. Never you mind. They did. [To the girl] How do you come
+to be up so far east? You were born in Lisson Grove. THE FLOWER GIRL [appalled] Oh, what harm is there in my leaving Lisson
+Grove? It wasn't fit for a pig to live in; and I had to pay
+four-and-six a week. [In tears] Oh, boo--hoo--oo--
+
+THE NOTE TAKER. Live where you like; but stop that noise. THE GENTLEMAN [to the girl] Come, come! he can't touch you: you have a
+right to live where you please. A SARCASTIC BYSTANDER [thrusting himself between the note taker and the
+gentleman] Park Lane, for instance. I'd like to go into the Housing
+Question with you, I would. THE FLOWER GIRL [subsiding into a brooding melancholy over her basket,
+and talking very low-spiritedly to herself] I'm a good girl, I am. THE SARCASTIC BYSTANDER [not attending to her] Do you know where _I_
+come from? THE NOTE TAKER [promptly] Hoxton. Titterings. Popular interest in the note taker's performance increases. THE SARCASTIC ONE [amazed] Well, who said I didn't? Bly me! You know
+everything, you do. THE FLOWER GIRL [still nursing her sense of injury] Ain't no call to
+meddle with me, he ain't. THE BYSTANDER [to her] Of course he ain't. Don't you stand it from him. [To the note taker] See here: what call have you to know about people
+what never offered to meddle with you? Where's your warrant? SEVERAL BYSTANDERS [encouraged by this seeming point of law] Yes:
+where's your warrant? THE FLOWER GIRL. Let him say what he likes. I don't want to have no
+truck with him. THE BYSTANDER. You take us for dirt under your feet, don't you? Catch
+you taking liberties with a gentleman! THE SARCASTIC BYSTANDER. Yes: tell HIM where he come from if you want
+to go fortune-telling. THE NOTE TAKER. Cheltenham, Harrow, Cambridge, and India. THE GENTLEMAN. Quite right. [Great laughter. Reaction in the note
+taker's favor. Exclamations of He knows all about it. Told him proper. Hear him tell the toff where he come from? etc.]. May I ask, sir, do
+you do this for your living at a music hall? THE NOTE TAKER. I've thought of that. Perhaps I shall some day. The rain has stopped; and the persons on the outside of the crowd begin
+to drop off. THE FLOWER GIRL [resenting the reaction] He's no gentleman, he ain't,
+to interfere with a poor girl. THE DAUGHTER [out of patience, pushing her way rudely to the front and
+displacing the gentleman, who politely retires to the other side of the
+pillar] What on earth is Freddy doing? I shall get pneumonia if I stay
+in this draught any longer. THE NOTE TAKER [to himself, hastily making a note of her pronunciation
+of "monia"] Earlscourt. THE DAUGHTER [violently] Will you please keep your impertinent remarks
+to yourself? THE NOTE TAKER. Did I say that out loud? I didn't mean to. I beg your
+pardon. Your mother's Epsom, unmistakeably. THE MOTHER [advancing between her daughter and the note taker] How very
+curious! I was brought up in Largelady Park, near Epsom. THE NOTE TAKER [uproariously amused] Ha! ha! What a devil of a name! Excuse me. [To the daughter] You want a cab, do you? THE DAUGHTER. Don't dare speak to me. THE MOTHER. Oh, please, please Clara. [Her daughter repudiates her with
+an angry shrug and retires haughtily.] We should be so grateful to you,
+sir, if you found us a cab. [The note taker produces a whistle]. Oh,
+thank you. [She joins her daughter]. The note taker blows a piercing
+blast. THE SARCASTIC BYSTANDER. There! I knowed he was a plain-clothes copper. THE BYSTANDER. That ain't a police whistle: that's a sporting whistle. THE FLOWER GIRL [still preoccupied with her wounded feelings] He's no
+right to take away my character. My character is the same to me as any
+lady's. THE NOTE TAKER. I don't know whether you've noticed it; but the rain
+stopped about two minutes ago. THE BYSTANDER. So it has. Why didn't you say so before? and us losing
+our time listening to your silliness. [He walks off towards the Strand]. THE SARCASTIC BYSTANDER. I can tell where you come from. You come from
+Anwell. Go back there. THE NOTE TAKER [helpfully] _H_anwell. THE SARCASTIC BYSTANDER [affecting great distinction of speech] Thenk
+you, teacher. Haw haw! So long [he touches his hat with mock respect
+and strolls off]. THE FLOWER GIRL. Frightening people like that! How would he like it
+himself. THE MOTHER. It's quite fine now, Clara. We can walk to a motor bus. Come. [She gathers her skirts above her ankles and hurries off towards
+the Strand]. THE DAUGHTER. But the cab--[her mother is out of hearing]. Oh, how
+tiresome! [She follows angrily]. All the rest have gone except the note taker, the gentleman, and the
+flower girl, who sits arranging her basket, and still pitying herself
+in murmurs. THE FLOWER GIRL. Poor girl! Hard enough for her to live without being
+worrited and chivied. THE GENTLEMAN [returning to his former place on the note taker's left]
+How do you do it, if I may ask? THE NOTE TAKER. Simply phonetics. The science of speech. That's my
+profession; also my hobby. Happy is the man who can make a living by
+his hobby! You can spot an Irishman or a Yorkshireman by his brogue. I
+can place any man within six miles. I can place him within two miles in
+London. Sometimes within two streets. THE FLOWER GIRL. Ought to be ashamed of himself, unmanly coward! THE GENTLEMAN. But is there a living in that? THE NOTE TAKER. Oh yes. Quite a fat one. This is an age of upstarts. Men begin in Kentish Town with 80 pounds a year, and end in Park Lane
+with a hundred thousand. They want to drop Kentish Town; but they give
+themselves away every time they open their mouths. Now I can teach
+them--
+
+THE FLOWER GIRL. Let him mind his own business and leave a poor girl--
+
+THE NOTE TAKER [explosively] Woman: cease this detestable boohooing
+instantly; or else seek the shelter of some other place of worship. THE FLOWER GIRL [with feeble defiance] I've a right to be here if I
+like, same as you. THE NOTE TAKER. A woman who utters such depressing and disgusting
+sounds has no right to be anywhere--no right to live. Remember that you
+are a human being with a soul and the divine gift of articulate speech:
+that your native language is the language of Shakespear and Milton and
+The Bible; and don't sit there crooning like a bilious pigeon. THE FLOWER GIRL [quite overwhelmed, and looking up at him in mingled
+wonder and deprecation without daring to raise her head]
+Ah--ah--ah--ow--ow--oo! THE NOTE TAKER [whipping out his book] Heavens! what a sound! [He
+writes; then holds out the book and reads, reproducing her vowels
+exactly] Ah--ah--ah--ow--ow--ow--oo! THE FLOWER GIRL [tickled by the performance, and laughing in spite of
+herself] Garn! THE NOTE TAKER. You see this creature with her kerbstone English: the
+English that will keep her in the gutter to the end of her days. Well,
+sir, in three months I could pass that girl off as a duchess at an
+ambassador's garden party. I could even get her a place as lady's maid
+or shop assistant, which requires better English. That's the sort of
+thing I do for commercial millionaires. And on the profits of it I do
+genuine scientific work in phonetics, and a little as a poet on
+Miltonic lines. THE GENTLEMAN. I am myself a student of Indian dialects; and--
+
+THE NOTE TAKER [eagerly] Are you? Do you know Colonel Pickering, the
+author of Spoken Sanscrit? THE GENTLEMAN. I am Colonel Pickering. Who are you? THE NOTE TAKER. Henry Higgins, author of Higgins's Universal Alphabet. PICKERING [with enthusiasm] I came from India to meet you. HIGGINS. I was going to India to meet you. PICKERING. Where do you live? HIGGINS. 27A Wimpole Street. Come and see me tomorrow. PICKERING. I'm at the Carlton. Come with me now and let's have a jaw
+over some supper. HIGGINS. Right you are. THE FLOWER GIRL [to Pickering, as he passes her] Buy a flower, kind
+gentleman. I'm short for my lodging. PICKERING. I really haven't any change. I'm sorry [he goes away]. HIGGINS [shocked at girl's mendacity] Liar. You said you could change
+half-a-crown. THE FLOWER GIRL [rising in desperation] You ought to be stuffed with
+nails, you ought. [Flinging the basket at his feet] Take the whole
+blooming basket for sixpence. The church clock strikes the second quarter. HIGGINS [hearing in it the voice of God, rebuking him for his Pharisaic
+want of charity to the poor girl] A reminder. [He raises his hat
+solemnly; then throws a handful of money into the basket and follows
+Pickering]. THE FLOWER GIRL [picking up a half-crown] Ah--ow--ooh! [Picking up a
+couple of florins] Aaah--ow--ooh! [Picking up several coins]
+Aaaaaah--ow--ooh! [Picking up a half-sovereign]
+Aasaaaaaaaaah--ow--ooh!!! FREDDY [springing out of a taxicab] Got one at last. Hallo! [To the
+girl] Where are the two ladies that were here? THE FLOWER GIRL. They walked to the bus when the rain stopped. FREDDY. And left me with a cab on my hands. Damnation! THE FLOWER GIRL [with grandeur] Never you mind, young man. I'm going
+home in a taxi. [She sails off to the cab. The driver puts his hand
+behind him and holds the door firmly shut against her. Quite
+understanding his mistrust, she shows him her handful of money]. Eightpence ain't no object to me, Charlie. [He grins and opens the
+door]. Angel Court, Drury Lane, round the corner of Micklejohn's oil
+shop. Let's see how fast you can make her hop it. [She gets in and
+pulls the door to with a slam as the taxicab starts]. FREDDY. Well, I'm dashed! ACT II
+
+Next day at 11 a.m.  Higgins's laboratory in Wimpole Street. It is a
+room on the first floor, looking on the street, and was meant for the
+drawing-room. The double doors are in the middle of the back hall; and
+persons entering find in the corner to their right two tall file
+cabinets at right angles to one another against the walls. In this
+corner stands a flat writing-table, on which are a phonograph, a
+laryngoscope, a row of tiny organ pipes with a bellows, a set of lamp
+chimneys for singing flames with burners attached to a gas plug in the
+wall by an indiarubber tube, several tuning-forks of different sizes, a
+life-size image of half a human head, showing in section the vocal
+organs, and a box containing a supply of wax cylinders for the
+phonograph. Further down the room, on the same side, is a fireplace, with a
+comfortable leather-covered easy-chair at the side of the hearth
+nearest the door, and a coal-scuttle. There is a clock on the
+mantelpiece. Between the fireplace and the phonograph table is a stand
+for newspapers. On the other side of the central door, to the left of the visitor, is a
+cabinet of shallow drawers. On it is a telephone and the telephone
+directory. The corner beyond, and most of the side wall, is occupied by
+a grand piano, with the keyboard at the end furthest from the door, and
+a bench for the player extending the full length of the keyboard. On
+the piano is a dessert dish heaped with fruit and sweets, mostly
+chocolates. The middle of the room is clear. Besides the easy chair, the piano
+bench, and two chairs at the phonograph table, there is one stray
+chair. It stands near the fireplace. On the walls, engravings; mostly
+Piranesis and mezzotint portraits. No paintings. Pickering is seated at the table, putting down some cards and a
+tuning-fork which he has been using. Higgins is standing up near him,
+closing two or three file drawers which are hanging out. He appears in
+the morning light as a robust, vital, appetizing sort of man of forty
+or thereabouts, dressed in a professional-looking black frock-coat with
+a white linen collar and black silk tie. He is of the energetic,
+scientific type, heartily, even violently interested in everything that
+can be studied as a scientific subject, and careless about himself and
+other people, including their feelings. He is, in fact, but for his
+years and size, rather like a very impetuous baby "taking notice"
+eagerly and loudly, and requiring almost as much watching to keep him
+out of unintended mischief. His manner varies from genial bullying when
+he is in a good humor to stormy petulance when anything goes wrong; but
+he is so entirely frank and void of malice that he remains likeable
+even in his least reasonable moments. HIGGINS [as he shuts the last drawer] Well, I think that's the whole
+show. PICKERING. It's really amazing. I haven't taken half of it in, you know. HIGGINS. Would you like to go over any of it again? PICKERING [rising and coming to the fireplace, where he plants himself
+with his back to the fire] No, thank you; not now. I'm quite done up
+for this morning. HIGGINS [following him, and standing beside him on his left] Tired of
+listening to sounds? PICKERING. Yes. It's a fearful strain. I rather fancied myself because
+I can pronounce twenty-four distinct vowel sounds; but your hundred and
+thirty beat me. I can't hear a bit of difference between most of them. HIGGINS [chuckling, and going over to the piano to eat sweets] Oh, that
+comes with practice. You hear no difference at first; but you keep on
+listening, and presently you find they're all as different as A from B. [Mrs. Pearce looks in: she is Higgins's housekeeper] What's the matter? MRS. PEARCE [hesitating, evidently perplexed] A young woman wants to
+see you, sir. HIGGINS. A young woman! What does she want? MRS. PEARCE. Well, sir, she says you'll be glad to see her when you
+know what she's come about. She's quite a common girl, sir. Very common
+indeed. I should have sent her away, only I thought perhaps you wanted
+her to talk into your machines. I hope I've not done wrong; but really
+you see such queer people sometimes--you'll excuse me, I'm sure, sir--
+
+HIGGINS. Oh, that's all right, Mrs. Pearce. Has she an interesting
+accent? MRS. PEARCE. Oh, something dreadful, sir, really. I don't know how you
+can take an interest in it. HIGGINS [to Pickering] Let's have her up. Show her up, Mrs. Pearce [he
+rushes across to his working table and picks out a cylinder to use on
+the phonograph]. MRS. PEARCE [only half resigned to it] Very well, sir. It's for you to
+say. [She goes downstairs]. HIGGINS. This is rather a bit of luck. I'll show you how I make
+records. We'll set her talking; and I'll take it down first in Bell's
+visible Speech; then in broad Romic; and then we'll get her on the
+phonograph so that you can turn her on as often as you like with the
+written transcript before you. MRS. PEARCE [returning] This is the young woman, sir. The flower girl enters in state. She has a hat with three ostrich
+feathers, orange, sky-blue, and red. She has a nearly clean apron, and
+the shoddy coat has been tidied a little. The pathos of this deplorable
+figure, with its innocent vanity and consequential air, touches
+Pickering, who has already straightened himself in the presence of Mrs.
+Pearce. But as to Higgins, the only distinction he makes between men
+and women is that when he is neither bullying nor exclaiming to the
+heavens against some featherweight cross, he coaxes women as a child
+coaxes its nurse when it wants to get anything out of her. HIGGINS [brusquely, recognizing her with unconcealed disappointment,
+and at once, baby-like, making an intolerable grievance of it] Why,
+this is the girl I jotted down last night. She's no use: I've got all
+the records I want of the Lisson Grove lingo; and I'm not going to
+waste another cylinder on it. [To the girl] Be off with you: I don't
+want you. THE FLOWER GIRL. Don't you be so saucy. You ain't heard what I come for
+yet. [To Mrs. Pearce, who is waiting at the door for further
+instruction] Did you tell him I come in a taxi? MRS. PEARCE. Nonsense, girl! what do you think a gentleman like Mr.
+Higgins cares what you came in? THE FLOWER GIRL. Oh, we are proud! He ain't above giving lessons, not
+him: I heard him say so. Well, I ain't come here to ask for any
+compliment; and if my money's not good enough I can go elsewhere. HIGGINS. Good enough for what? THE FLOWER GIRL. Good enough for ye--oo. Now you know, don't you? I'm
+come to have lessons, I am. And to pay for em too: make no mistake. HIGGINS [stupent] WELL!!! [Recovering his breath with a gasp] What do
+you expect me to say to you? THE FLOWER GIRL. Well, if you was a gentleman, you might ask me to sit
+down, I think. Don't I tell you I'm bringing you business? HIGGINS. Pickering: shall we ask this baggage to sit down or shall we
+throw her out of the window? THE FLOWER GIRL [running away in terror to the piano, where she turns
+at bay] Ah--ah--ah--ow--ow--ow--oo! [Wounded and whimpering] I won't be
+called a baggage when I've offered to pay like any lady. Motionless, the two men stare at her from the other side of the room,
+amazed. PICKERING [gently] What is it you want, my girl? THE FLOWER GIRL. I want to be a lady in a flower shop stead of selling
+at the corner of Tottenham Court Road. But they won't take me unless I
+can talk more genteel. He said he could teach me. Well, here I am ready
+to pay him--not asking any favor--and he treats me as if I was dirt. MRS. PEARCE. How can you be such a foolish ignorant girl as to think
+you could afford to pay Mr. Higgins? THE FLOWER GIRL. Why shouldn't I? I know what lessons cost as well as
+you do; and I'm ready to pay. HIGGINS. How much? THE FLOWER GIRL [coming back to him, triumphant] Now you're talking! I
+thought you'd come off it when you saw a chance of getting back a bit
+of what you chucked at me last night. [Confidentially] You'd had a drop
+in, hadn't you? HIGGINS [peremptorily] Sit down. THE FLOWER GIRL. Oh, if you're going to make a compliment of it--
+
+HIGGINS [thundering at her] Sit down. MRS. PEARCE [severely] Sit down, girl. Do as you're told. [She places
+the stray chair near the hearthrug between Higgins and Pickering, and
+stands behind it waiting for the girl to sit down]. THE FLOWER GIRL. Ah--ah--ah--ow--ow--oo! [She stands, half rebellious,
+half bewildered]. PICKERING [very courteous] Won't you sit down? LIZA [coyly] Don't mind if I do. [She sits down. Pickering returns to
+the hearthrug]. HIGGINS. What's your name? THE FLOWER GIRL. Liza Doolittle. HIGGINS [declaiming gravely] Eliza, Elizabeth, Betsy and Bess, They
+went to the woods to get a birds nes': PICKERING. They found a nest
+with four eggs in it: HIGGINS. They took one apiece, and left three
+in it. They laugh heartily at their own wit. LIZA. Oh, don't be silly. MRS. PEARCE. You mustn't speak to the gentleman like that. LIZA. Well, why won't he speak sensible to me? HIGGINS. Come back to business. How much do you propose to pay me for
+the lessons? LIZA. Oh, I know what's right. A lady friend of mine gets French
+lessons for eighteenpence an hour from a real French gentleman. Well,
+you wouldn't have the face to ask me the same for teaching me my own
+language as you would for French; so I won't give more than a shilling. Take it or leave it. HIGGINS [walking up and down the room, rattling his keys and his cash
+in his pockets] You know, Pickering, if you consider a shilling, not as
+a simple shilling, but as a percentage of this girl's income, it works
+out as fully equivalent to sixty or seventy guineas from a millionaire. PICKERING. How so? HIGGINS. Figure it out. A millionaire has about 150 pounds a day. She
+earns about half-a-crown. LIZA [haughtily] Who told you I only--
+
+HIGGINS [continuing] She offers me two-fifths of her day's income for a
+lesson. Two-fifths of a millionaire's income for a day would be
+somewhere about 60 pounds. It's handsome. By George, it's enormous! it's the biggest offer I ever had. LIZA [rising, terrified] Sixty pounds! What are you talking about? I
+never offered you sixty pounds. Where would I get--
+
+HIGGINS. Hold your tongue. LIZA [weeping] But I ain't got sixty pounds. Oh--
+
+MRS. PEARCE. Don't cry, you silly girl. Sit down. Nobody is going to
+touch your money. HIGGINS. Somebody is going to touch you, with a broomstick, if you
+don't stop snivelling. Sit down. LIZA [obeying slowly] Ah--ah--ah--ow--oo--o! One would think you was my
+father. HIGGINS. If I decide to teach you, I'll be worse than two fathers to
+you. Here [he offers her his silk handkerchief]! LIZA. What's this for? HIGGINS. To wipe your eyes. To wipe any part of your face that feels
+moist. Remember: that's your handkerchief; and that's your sleeve. Don't mistake the one for the other if you wish to become a lady in a
+shop. Liza, utterly bewildered, stares helplessly at him. MRS. PEARCE. It's no use talking to her like that, Mr. Higgins: she
+doesn't understand you. Besides, you're quite wrong: she doesn't do it
+that way at all [she takes the handkerchief]. LIZA [snatching it] Here! You give me that handkerchief. He give it to
+me, not to you. PICKERING [laughing] He did. I think it must be regarded as her
+property, Mrs. Pearce. MRS. PEARCE [resigning herself] Serve you right, Mr. Higgins. PICKERING. Higgins: I'm interested. What about the ambassador's garden
+party? I'll say you're the greatest teacher alive if you make that
+good. I'll bet you all the expenses of the experiment you can't do it. And I'll pay for the lessons. LIZA. Oh, you are real good. Thank you, Captain. HIGGINS [tempted, looking at her] It's almost irresistible. She's so
+deliciously low--so horribly dirty--
+
+LIZA [protesting extremely] Ah--ah--ah--ah--ow--ow--oooo!!! I ain't
+dirty: I washed my face and hands afore I come, I did. PICKERING. You're certainly not going to turn her head with flattery,
+Higgins. MRS. PEARCE [uneasy] Oh, don't say that, sir: there's more ways than
+one of turning a girl's head; and nobody can do it better than Mr.
+Higgins, though he may not always mean it. I do hope, sir, you won't
+encourage him to do anything foolish. HIGGINS [becoming excited as the idea grows on him] What is life but a
+series of inspired follies? The difficulty is to find them to do. Never
+lose a chance: it doesn't come every day. I shall make a duchess of
+this draggletailed guttersnipe. LIZA [strongly deprecating this view of her] Ah--ah--ah--ow--ow--oo! HIGGINS [carried away] Yes: in six months--in three if she has a good
+ear and a quick tongue--I'll take her anywhere and pass her off as
+anything. We'll start today: now! this moment! Take her away and clean
+her, Mrs. Pearce. Monkey Brand, if it won't come off any other way. Is
+there a good fire in the kitchen? MRS. PEARCE [protesting]. Yes; but--
+
+HIGGINS [storming on] Take all her clothes off and burn them. Ring up
+Whiteley or somebody for new ones. Wrap her up in brown paper till they
+come. LIZA. You're no gentleman, you're not, to talk of such things. I'm a
+good girl, I am; and I know what the like of you are, I do. HIGGINS. We want none of your Lisson Grove prudery here, young woman. You've got to learn to behave like a duchess. Take her away, Mrs.
+Pearce. If she gives you any trouble wallop her. LIZA [springing up and running between Pickering and Mrs. Pearce for
+protection] No! I'll call the police, I will. MRS. PEARCE. But I've no place to put her. HIGGINS. Put her in the dustbin. LIZA. Ah--ah--ah--ow--ow--oo! PICKERING. Oh come, Higgins! be reasonable. MRS. PEARCE [resolutely] You must be reasonable, Mr. Higgins: really
+you must. You can't walk over everybody like this. Higgins, thus scolded, subsides. The hurricane is succeeded by a zephyr
+of amiable surprise. HIGGINS [with professional exquisiteness of modulation] I walk over
+everybody! My dear Mrs. Pearce, my dear Pickering, I never had the
+slightest intention of walking over anyone. All I propose is that we
+should be kind to this poor girl. We must help her to prepare and fit
+herself for her new station in life. If I did not express myself
+clearly it was because I did not wish to hurt her delicacy, or yours. Liza, reassured, steals back to her chair. MRS. PEARCE [to Pickering] Well, did you ever hear anything like that,
+sir? PICKERING [laughing heartily] Never, Mrs. Pearce: never. HIGGINS [patiently] What's the matter? MRS. PEARCE. Well, the matter is, sir, that you can't take a girl up
+like that as if you were picking up a pebble on the beach. HIGGINS. Why not? MRS. PEARCE. Why not! But you don't know anything about her. What about
+her parents? She may be married. LIZA. Garn! HIGGINS. There! As the girl very properly says, Garn! Married indeed! Don't you know that a woman of that class looks a worn out drudge of
+fifty a year after she's married. LIZA. Who'd marry me? HIGGINS [suddenly resorting to the most thrillingly beautiful low tones
+in his best elocutionary style] By George, Eliza, the streets will be
+strewn with the bodies of men shooting themselves for your sake before
+I've done with you. MRS. PEARCE. Nonsense, sir. You mustn't talk like that to her. LIZA [rising and squaring herself determinedly] I'm going away. He's
+off his chump, he is. I don't want no balmies teaching me. HIGGINS [wounded in his tenderest point by her insensibility to his
+elocution] Oh, indeed! I'm mad, am I? Very well, Mrs. Pearce: you
+needn't order the new clothes for her. Throw her out. LIZA [whimpering] Nah--ow. You got no right to touch me. MRS. PEARCE. You see now what comes of being saucy. [Indicating the
+door] This way, please. LIZA [almost in tears] I didn't want no clothes. I wouldn't have taken
+them [she throws away the handkerchief]. I can buy my own clothes. HIGGINS [deftly retrieving the handkerchief and intercepting her on her
+reluctant way to the door] You're an ungrateful wicked girl. This is my
+return for offering to take you out of the gutter and dress you
+beautifully and make a lady of you. MRS. PEARCE. Stop, Mr. Higgins. I won't allow it. It's you that are
+wicked. Go home to your parents, girl; and tell them to take better
+care of you. LIZA. I ain't got no parents. They told me I was big enough to earn my
+own living and turned me out. MRS. PEARCE. Where's your mother? LIZA. I ain't got no mother. Her that turned me out was my sixth
+stepmother. But I done without them. And I'm a good girl, I am. HIGGINS. Very well, then, what on earth is all this fuss about? The
+girl doesn't belong to anybody--is no use to anybody but me. [He goes
+to Mrs. Pearce and begins coaxing]. You can adopt her, Mrs. Pearce: I'm
+sure a daughter would be a great amusement to you. Now don't make any
+more fuss. Take her downstairs; and--
+
+MRS. PEARCE. But what's to become of her? Is she to be paid anything? Do be sensible, sir. HIGGINS. Oh, pay her whatever is necessary: put it down in the
+housekeeping book. [Impatiently] What on earth will she want with
+money? She'll have her food and her clothes. She'll only drink if you
+give her money. LIZA [turning on him] Oh you are a brute. It's a lie: nobody ever saw
+the sign of liquor on me. [She goes back to her chair and plants
+herself there defiantly]. PICKERING [in good-humored remonstrance] Does it occur to you, Higgins,
+that the girl has some feelings? HIGGINS [looking critically at her] Oh no, I don't think so. Not any
+feelings that we need bother about. [Cheerily] Have you, Eliza? LIZA. I got my feelings same as anyone else. HIGGINS [to Pickering, reflectively] You see the difficulty? PICKERING. Eh? What difficulty? HIGGINS. To get her to talk grammar. The mere pronunciation is easy
+enough. LIZA. I don't want to talk grammar. I want to talk like a lady. MRS. PEARCE. Will you please keep to the point, Mr. Higgins. I want to
+know on what terms the girl is to be here. Is she to have any wages? And what is to become of her when you've finished your teaching? You
+must look ahead a little. HIGGINS [impatiently] What's to become of her if I leave her in the
+gutter? Tell me that, Mrs. Pearce. MRS. PEARCE. That's her own business, not yours, Mr. Higgins. HIGGINS. Well, when I've done with her, we can throw her back into the
+gutter; and then it will be her own business again; so that's all right. LIZA. Oh, you've no feeling heart in you: you don't care for nothing
+but yourself [she rises and takes the floor resolutely]. Here! I've had
+enough of this. I'm going [making for the door]. You ought to be
+ashamed of yourself, you ought. HIGGINS [snatching a chocolate cream from the piano, his eyes suddenly
+beginning to twinkle with mischief] Have some chocolates, Eliza. LIZA [halting, tempted] How do I know what might be in them? I've heard
+of girls being drugged by the like of you. Higgins whips out his penknife; cuts a chocolate in two; puts one half
+into his mouth and bolts it; and offers her the other half. HIGGINS. Pledge of good faith, Eliza. I eat one half you eat the other. [Liza opens her mouth to retort: he pops the half chocolate into it]. You shall have boxes of them, barrels of them, every day. You shall
+live on them. Eh? LIZA [who has disposed of the chocolate after being nearly choked by
+it] I wouldn't have ate it, only I'm too ladylike to take it out of my
+mouth. HIGGINS. Listen, Eliza. I think you said you came in a taxi. LIZA. Well, what if I did? I've as good a right to take a taxi as
+anyone else. HIGGINS. You have, Eliza; and in future you shall have as many taxis as
+you want. You shall go up and down and round the town in a taxi every
+day. Think of that, Eliza. MRS. PEARCE. Mr. Higgins: you're tempting the girl. It's not right. She
+should think of the future. HIGGINS. At her age! Nonsense! Time enough to think of the future when
+you haven't any future to think of. No, Eliza: do as this lady does:
+think of other people's futures; but never think of your own. Think of
+chocolates, and taxis, and gold, and diamonds. LIZA. No: I don't want no gold and no diamonds. I'm a good girl, I am. [She sits down again, with an attempt at dignity]. HIGGINS. You shall remain so, Eliza, under the care of Mrs. Pearce. And
+you shall marry an officer in the Guards, with a beautiful moustache:
+the son of a marquis, who will disinherit him for marrying you, but
+will relent when he sees your beauty and goodness--
+
+PICKERING. Excuse me, Higgins; but I really must interfere. Mrs. Pearce
+is quite right. If this girl is to put herself in your hands for six
+months for an experiment in teaching, she must understand thoroughly
+what she's doing. HIGGINS. How can she? She's incapable of understanding anything. Besides, do any of us understand what we are doing? If we did, would we
+ever do it? PICKERING. Very clever, Higgins; but not sound sense. [To Eliza] Miss
+Doolittle--
+
+LIZA [overwhelmed] Ah--ah--ow--oo! HIGGINS. There! That's all you get out of Eliza. Ah--ah--ow--oo! No use
+explaining. As a military man you ought to know that. Give her her
+orders: that's what she wants. Eliza: you are to live here for the next
+six months, learning how to speak beautifully, like a lady in a
+florist's shop. If you're good and do whatever you're told, you shall
+sleep in a proper bedroom, and have lots to eat, and money to buy
+chocolates and take rides in taxis. If you're naughty and idle you will
+sleep in the back kitchen among the black beetles, and be walloped by
+Mrs. Pearce with a broomstick. At the end of six months you shall go to
+Buckingham Palace in a carriage, beautifully dressed. If the King finds
+out you're not a lady, you will be taken by the police to the Tower of
+London, where your head will be cut off as a warning to other
+presumptuous flower girls. If you are not found out, you shall have a
+present of seven-and-sixpence to start life with as a lady in a shop. If you refuse this offer you will be a most ungrateful and wicked girl;
+and the angels will weep for you. [To Pickering] Now are you satisfied,
+Pickering? [To Mrs. Pearce] Can I put it more plainly and fairly, Mrs.
+Pearce? MRS. PEARCE [patiently] I think you'd better let me speak to the girl
+properly in private. I don't know that I can take charge of her or
+consent to the arrangement at all. Of course I know you don't mean her
+any harm; but when you get what you call interested in people's
+accents, you never think or care what may happen to them or you. Come
+with me, Eliza. HIGGINS. That's all right. Thank you, Mrs. Pearce. Bundle her off to
+the bath-room. LIZA [rising reluctantly and suspiciously] You're a great bully, you
+are. I won't stay here if I don't like. I won't let nobody wallop me. I
+never asked to go to Bucknam Palace, I didn't. I was never in trouble
+with the police, not me. I'm a good girl--
+
+MRS. PEARCE. Don't answer back, girl. You don't understand the
+gentleman. Come with me. [She leads the way to the door, and holds it
+open for Eliza]. LIZA [as she goes out] Well, what I say is right. I won't go near the
+king, not if I'm going to have my head cut off. If I'd known what I was
+letting myself in for, I wouldn't have come here. I always been a good
+girl; and I never offered to say a word to him; and I don't owe him
+nothing; and I don't care; and I won't be put upon; and I have my
+feelings the same as anyone else--
+
+Mrs. Pearce shuts the door; and Eliza's plaints are no longer audible. Pickering comes from the hearth to the chair and sits astride it with
+his arms on the back. PICKERING. Excuse the straight question, Higgins. Are you a man of good
+character where women are concerned? HIGGINS [moodily] Have you ever met a man of good character where women
+are concerned? PICKERING. Yes: very frequently. HIGGINS [dogmatically, lifting himself on his hands to the level of the
+piano, and sitting on it with a bounce] Well, I haven't. I find that
+the moment I let a woman make friends with me, she becomes jealous,
+exacting, suspicious, and a damned nuisance. I find that the moment I
+let myself make friends with a woman, I become selfish and tyrannical. Women upset everything. When you let them into your life, you find that
+the woman is driving at one thing and you're driving at another. PICKERING. At what, for example? HIGGINS [coming off the piano restlessly] Oh, Lord knows! I suppose the
+woman wants to live her own life; and the man wants to live his; and
+each tries to drag the other on to the wrong track. One wants to go
+north and the other south; and the result is that both have to go east,
+though they both hate the east wind. [He sits down on the bench at the
+keyboard]. So here I am, a confirmed old bachelor, and likely to remain
+so. PICKERING [rising and standing over him gravely] Come, Higgins! You
+know what I mean. If I'm to be in this business I shall feel
+responsible for that girl. I hope it's understood that no advantage is
+to be taken of her position. HIGGINS. What! That thing! Sacred, I assure you. [Rising to explain]
+You see, she'll be a pupil; and teaching would be impossible unless
+pupils were sacred. I've taught scores of American millionairesses how
+to speak English: the best looking women in the world. I'm seasoned. They might as well be blocks of wood. I might as well be a block of
+wood. It's--
+
+Mrs. Pearce opens the door. She has Eliza's hat in her hand. Pickering
+retires to the easy-chair at the hearth and sits down. HIGGINS [eagerly] Well, Mrs. Pearce: is it all right? MRS. PEARCE [at the door] I just wish to trouble you with a word, if I
+may, Mr. Higgins. HIGGINS. Yes, certainly. Come in. [She comes forward]. Don't burn that,
+Mrs. Pearce. I'll keep it as a curiosity. [He takes the hat]. MRS. PEARCE. Handle it carefully, sir, please. I had to promise her not
+to burn it; but I had better put it in the oven for a while. HIGGINS [putting it down hastily on the piano] Oh! thank you. Well,
+what have you to say to me? PICKERING. Am I in the way? MRS. PEARCE. Not at all, sir. Mr. Higgins: will you please be very
+particular what you say before the girl? HIGGINS [sternly] Of course. I'm always particular about what I say. 

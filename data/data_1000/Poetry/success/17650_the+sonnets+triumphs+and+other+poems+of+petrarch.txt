@@ -1,0 +1,1879 @@
+
+
+
+
+Produced by Ted Garvin, Taavi Kalju and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+[Illustration: PETRARCH.] THE SONNETS, TRIUMPHS,
+AND OTHER POEMS
+
+OF
+
+PETRARCH. NOW FIRST COMPLETELY TRANSLATED INTO ENGLISH VERSE
+
+BY VARIOUS HANDS. WITH A LIFE OF THE POET
+BY THOMAS CAMPBELL. ILLUSTRATED WITH SIXTEEN ENGRAVINGS ON STEEL. LONDON: GEORGE BELL AND SONS, YORK STREET,
+COVENT GARDEN. 1879. [_Reprinted from Stereotype plates._]
+
+
+
+
+PREFACE. The present translation of Petrarch completes the Illustrated Library
+series of the Italian Poets emphatically distinguished as "I Quattro
+Poeti Italiani." It is rather a singular fact that, while the other three Poets of this
+world-famed series--Dante, Ariosto, and Tasso--have each found several
+translators, no complete version of the fourth, and in Italy the most
+popular, has hitherto been presented to the English reader. This lacune
+becomes the more remarkable when we consider the great influence which
+Petrarch has undoubtedly exercised on our poetry from the time of
+Chaucer downwards. The plan of the present volume has been to select from all the known
+versions those most distinguished for fidelity and rhythm. Of the more
+favourite poems, as many as three or four are occasionally given; while
+of others, and those by no means few, it has been difficult to find even
+one. Indeed, many must have remained entirely unrepresented but for the
+spirited efforts of Major Macgregor, who has recently translated nearly
+the whole, and that with great closeness both as to matter and form. To
+this gentleman we have to return our especial thanks for his liberal
+permission to make free use of his labours. Among the translators will be found Chaucer, Spenser, Sir Thomas Wyatt,
+Anna Hume, Sir John Harington, Basil Kennett, Anne Bannerman, Drummond
+of Hawthornden, R. Molesworth, Hugh Boyd, Lord Woodhouselee, the Rev. Francis Wrangham, the Rev. Dr. Nott, Dr. Morehead, Lady Dacre, Lord
+Charlemont, Capel Lofft, John Penn, Charlotte Smith, Mrs. Wrottesley,
+Miss Wollaston, J.H. Merivale, the Rev. W. Shepherd, and Leigh Hunt,
+besides many anonymous. The order of arrangement is that adopted by Marsand and other recent
+editors; but to prevent any difficulty in identification, the Italian
+first lines have been given throughout, and repeated in an alphabetical
+index. The Life of Petrarch prefixed is a condensation of the poet Campbell's
+two octavo volumes, and includes all the material part of that work. York Street, Covent Garden,
+  June 28, 1869. LIST OF PLATES. PAGE
+
+1. PORTRAIT OF PETRARCH                           to face title. 2. VIEW OF NAPLES                                           xliv
+
+3. VIEW OF NICE                                               li
+
+4. COAST OF GENOA                                           lxvi
+
+5. BRIDGE OF SIGHS, VENICE                               lxxviii
+
+6. VICENZA                                               lxxxiii
+
+7. MILAN CATHEDRAL                                           cvi
+
+8. LIBRARY OF ST. MARK'S, VENICE                             cxv
+
+9. FERRARA. THE OLD DUCAL PALACE                          cxxiii
+
+10. PORTRAIT OF LAURA                                          1
+
+11. VIEW OF ROME--ST. PETER'S IN THE DISTANCE                 66
+
+12. SOLITUDES OF VAUCLUSE (where Petrarch wrote most of
+his Sonnets)                                                 105
+
+13. GENOA AND THE APENNINES                                  124
+
+14. AVIGNON (where Laura resided)                            189
+
+15. SELVA PIANA (where Petrarch received the news of
+Laura's death)                                               232
+
+16. PETRARCH'S HOUSE AT ARQUA (where he wrote his
+Triumphs)                                                    322
+
+
+
+
+CHRONOLOGICAL SUMMARY OF PETRARCH'S LIFE. A.D. PAGE
+
+1304. Born at Arezzo, the 20th of July. ix
+
+1305. Is taken to Incisa at the age of seven months, where
+        he remains seven years. x
+
+1312. Is removed to Pisa, where he remains seven months. x
+
+1313. Accompanies his parents to Avignon. xi
+
+1315. Goes to live at Carpentras. xi
+
+1319. Is sent to Montpelier. xi
+
+1323. Is removed to Bologna. xii
+
+1326. Returns to Avignon--loses his parents--contracts a
+        friendship with James Colonna. xiii
+
+1327. Falls in love with Laura. xvii
+
+1330. Goes to Lombes with James Colonna--forms acquaintance
+        with Socrates and Laelius--and returns to Avignon to
+        live in the house of Cardinal Colonna. xviii
+
+1331. Travels to Paris--travels through Flanders and Brabant,
+        and visits a part of Germany. xxiv
+
+1333. His first journey to Rome--his long navigation as
+        far as the coast of England--his return to Avignon. xxxiii
+
+1337. Birth of his son John--he retires to Vaucluse. xxxv
+
+1339. Commences writing his epic poem, "Africa." xxxviii
+
+1340. Receives an invitation from Rome to come and be
+        crowned as Laureate--and another invitation, to
+        the same effect, from Paris. xlii
+
+1341. Goes to Naples, and thence to Rome, where he is
+        crowned in the Capitol--repairs to Parma--death
+        of Tommaso da Messina and James Colonna. xliii
+
+1342. Goes as orator of the Roman people to Clement VI. at Avignon--Studies the Greek language under
+        Barlaamo. xlviii
+
+1343. Birth of his daughter Francesca--he writes his
+        dialogues "De secreto conflictu curarum
+        suarum"--is sent to Naples by Clement VI. and
+        Cardinal Colonna--goes to Rome for a third and
+        a fourth time--returns from Naples to Parma. li
+
+1344. Continues to reside in Parma. lviii
+
+1345. Leaves Parma, goes to Bologna, and thence to
+        Verona--returns to Avignon. lviii
+
+1346. Continues to live at Avignon--is elected canon of
+        Parma. lix
+
+1347. Revolution at Rome--Petrarch's connection with the
+        Tribune--takes his fifth journey to Italy--repairs
+        to Parma. lxiv
+
+1348. Goes to Verona--death of Laura--he returns again
+        to Parma--his autograph memorandum in the
+        Milan copy of Virgil--visits Manfredi, Lord of
+        Carpi, and James Carrara at Padua. lxvii
+
+1349. Goes from Parma to Mantua and Ferrara--returns
+        to Padua, and receives, probably in this year, a
+        canonicate in Padua. lxxiii
+
+1350. Is raised to the Archdeaconry of Parma--writes to
+        the Emperor Charles IV.--goes to Rome, and, in
+        going and returning, stops at Florence. lxxiii
+
+1351. Writes to Andrea Dandolo with a view to reconcile
+        the Venetians and Florentines--the Florentines
+        decree the restoration of his paternal property,
+        and send John Boccaccio to recall him to his
+        country--he returns, for the sixth time, to
+        Avignon--is consulted by the four Cardinals, who
+        had been deputed to reform the government of Rome. lxxx
+
+1352. Writes to Clement VI. the letter which excites against
+        him the enmity of the medical tribe--begins
+        writing his treatise "De Vita Solitaria." lxxxvii
+
+1353. Visits his brother in the Carthusian monastery of
+        Monte Rivo--writes his treatise "De Otio
+        Religiosorum"--returns to Italy--takes up his
+        abode with the Visconti--is sent by the Archbishop
+        Visconti to Venice, to negotiate a peace between the
+        Venetians and Genoese. xc
+
+1354. Visits the Emperor at Mantua. xcix
+
+1355. His embassy to the Emperor--publishes his "Invective
+        against a Physician." xcix
+
+1360. His embassy to John, King of France. cxii
+
+1361. Leaves Milan and settles at Venice--gives his library
+        to the Venetians. cxiii
+
+1364. Writes for Lucchino del Verme his treatise "De Officio
+        et Virtutibus Imperatoris." cxvii
+
+1366. Writes to Urban V. imploring him to remove the
+        Papal residence to Rome--finishes his treatise
+        "De Remediis utriusque Fortunae." cxviii
+
+1368. Quits Venice--four young Venetians, either in this
+        year or the preceding, promulgate a critical judgment
+        against Petrarch--repairs to Pavia to negotiate
+        peace between the Pope's Legate and the
+        Visconti. cxix
+
+1370. Sets out to visit the Pontiff--is taken ill at Ferrara--
+        retires to Arqua among the Euganean hills. cxxii
+
+1371. Writes his "Invectiva contra Gallum," and his
+        "Epistle to Posterity." cxxiii
+
+1372. Writes for Francesco da Carrara his essay "De Republica
+        optime administranda." cxxx
+
+1373. Is sent to Venice by Francesco da Carrara. cxxx
+
+1374. Translates the Griseldis of Boccaccio--dies on the
+        18th of July in the same year. cxxxi
+
+
+
+
+THE LIFE OF PETRARCH. The family of Petrarch was originally of Florence, where his ancestors
+held employments of trust and honour. Garzo, his great-grandfather, was
+a notary universally respected for his integrity and judgment. Though he
+had never devoted himself exclusively to letters, his literary opinion
+was consulted by men of learning. He lived to be a hundred and four
+years old, and died, like Plato, in the same bed in which he had been
+born. Garzo left three sons, one of whom was the grandfather of Petrarch. Diminutives being customary to the Tuscan tongue, Pietro, the poet's
+father, was familiarly called Petracco, or little Peter. He, like his
+ancestors, was a notary, and not undistinguished for sagacity. He had
+several important commissions from government. At last, in the
+increasing conflicts between the Guelphs and the Ghibellines--or, as
+they now called themselves, the Blacks and the Whites--Petracco, like
+Dante, was obliged to fly from his native city, along with the other
+Florentines of the White party. He was unjustly accused of having
+officially issued a false deed, and was condemned, on the 20th of
+October, 1302, to pay a fine of one thousand lire, and to have his hand
+cut off, if that sum was not paid within ten days from the time he
+should be apprehended. Petracco fled, taking with him his wife, Eletta
+Canigiani, a lady of a distinguished family in Florence, several of whom
+had held the office of Gonfalonier. Petracco and his wife first settled at Arezzo, a very ancient city of
+Tuscany. Hostilities did not cease between the Florentine factions till
+some years afterwards; and, in an attempt made by the Whites to take
+Florence by assault, Petracco was present with his party. They were
+repulsed. This action, which was fatal to their cause, took place in the
+night between the 19th and 20th days of July, 1304,--the precise date of
+the birth of Petrarch. During our poet's infancy, his family had still to struggle with an
+adverse fate; for his proscribed and wandering father was obliged to
+separate himself from his wife and child, in order to have the means of
+supporting them. As the pretext for banishing Petracco was purely personal, Eletta, his
+wife, was not included in the sentence. She removed to a small property
+of her husband's, at Ancisa, fourteen miles from Florence, and took the
+little poet along with her, in the seventh month of his age. In their
+passage thither, both mother and child, together with their guide, had a
+narrow escape from being drowned in the Arno. Eletta entrusted her
+precious charge to a robust peasant, who, for fear of hurting the child,
+wrapt it in a swaddling cloth, and suspended it over his shoulder, in
+the same manner as Metabus is described by Virgil, in the eleventh book
+of the AEneid, to have carried his daughter Camilla. In passing the
+river, the horse of the guide, who carried Petrarch, stumbled, and sank
+down; and in their struggles to save him, both his sturdy bearer and the
+frantic parent were, like the infant itself, on the point of being
+drowned. After Eletta had settled at Ancisa, Petracco often visited her by
+stealth, and the pledges of their affection were two other sons, one of
+whom died in childhood. The other, called Gherardo, was educated along
+with Petrarch. Petrarch remained with his mother at Ancisa for seven
+years. The arrival of the Emperor, Henry VII., in Italy, revived the hopes of
+the banished Florentines; and Petracco, in order to wait the event, went
+to Pisa, whither he brought his wife and Francesco, who was now in his
+eighth year. Petracco remained with his family in Pisa for several
+months; but tired at last of fallacious hopes, and not daring to trust
+himself to the promises of the popular party, who offered to recall him
+to Florence, he sought an asylum in Avignon, a place to which many
+Italians were allured by the hopes of honours and gain at the papal
+residence. In this voyage, Petracco and his family were nearly
+shipwrecked off Marseilles. But the numbers that crowded to Avignon, and its luxurious court,
+rendered that city an uncomfortable place for a family in slender
+circumstances. Petracco accordingly removed his household, in 1315, to
+Carpentras, a small quiet town, where living was cheaper than at
+Avignon. There, under the care of his mother, Petrarch imbibed his first
+instruction, and was taught by one Convennole da Prato as much grammar
+and logic as could be learned at his age, and more than could be learned
+by an ordinary disciple from so common-place a preceptor. This poor
+master, however, had sufficient intelligence to appreciate the genius of
+Petrarch, whom he esteemed and honoured beyond all his other pupils. On
+the other hand, his illustrious scholar aided him, in his old age and
+poverty, out of his scanty income. Petrarch used to compare Convennole to a whetstone, which is blunt
+itself, but which sharpens others. His old master, however was sharp
+enough to overreach him in the matter of borrowing and lending. When the
+poet had collected a considerable library, Convennole paid him a visit,
+and, pretending to be engaged in something that required him to consult
+Cicero, borrowed a copy of one of the works of that orator, which was
+particularly valuable. He made excuses, from time to time, for not
+returning it; but Petrarch, at last, had too good reason to suspect that
+the old grammarian had pawned it. The poet would willingly have paid for
+redeeming it, but Convennole was so much ashamed, that he would not tell
+to whom it was pawned; and the precious manuscript was lost. Petracco contracted an intimacy with Settimo, a Genoese, who was like
+himself, an exile for his political principles, and who fixed his abode
+at Avignon with his wife and his boy, Guido Settimo, who was about the
+same age with Petrarch. The two youths formed a friendship, which
+subsisted between them for life. Petrarch manifested signs of extraordinary sensibility to the charms of
+nature in his childhood, both when he was at Carpentras and at Avignon. One day, when he was at the latter residence, a party was made up, to
+see the fountain of Vaucluse, a few leagues from Avignon. The little
+Francesco had no sooner arrived at the lovely landscape than he was
+struck with its beauties, and exclaimed, "Here, now, is a retirement
+suited to my taste, and preferable, in my eyes, to the greatest and most
+splendid cities." A genius so fine as that of our poet could not servilely confine itself
+to the slow method of school learning, adapted to the intellects of
+ordinary boys. Accordingly, while his fellow pupils were still plodding
+through the first rudiments of Latin, Petrarch had recourse to the
+original writers, from whom the grammarians drew their authority, and
+particularly employed himself in perusing the works of Cicero. And,
+although he was, at this time, much too young to comprehend the full
+force of the orator's reasoning, he was so struck with the charms of his
+style, that he considered him the only true model in prose composition. His father, who was himself something of a scholar, was pleased and
+astonished at this early proof of his good taste; he applauded his
+classical studies, and encouraged him to persevere in them; but, very
+soon, he imagined that he had cause to repent of his commendations. Classical learning was, in that age, regarded as a mere solitary
+accomplishment, and the law was the only road that led to honours and
+preferment. Petracco was, therefore, desirous to turn into that channel
+the brilliant qualities of his son; and for this purpose he sent him, at
+the age of fifteen, to the university of Montpelier. Petrarch remained
+there for four years, and attended lectures on law from some of the
+most famous professors of the science. But his prepossession for Cicero
+prevented him from much frequenting the dry and dusty walks of
+jurisprudence. In his epistle to posterity, he endeavours to justify
+this repugnance by other motives. He represents the abuses, the
+chicanery, and mercenary practices of the law, as inconsistent with
+every principle of candour and honesty. When Petracco observed that his son made no great progress in his legal
+studies at Montpelier, he removed him, in 1323, to Bologna, celebrated
+for the study of the canon and civil law, probably imagining that the
+superior fame of the latter place might attract him to love the law. To
+Bologna Petrarch was accompanied by his brother Gherardo, and by his
+inseparable friend, young Guido Settimo. But neither the abilities of the several professors in that celebrated
+academy, nor the strongest exhortations of his father, were sufficient
+to conquer the deeply-rooted aversion which our poet had conceived for
+the law. Accordingly, Petracco hastened to Bologna, that he might
+endeavour to check his son's indulgence in literature, which
+disconcerted his favourite designs. Petrarch, guessing at the motive of
+his arrival, hid the copies of Cicero, Virgil, and some other authors,
+which composed his small library, and to purchase which he had deprived
+himself of almost the necessaries of life. His father, however, soon
+discovered the place of their concealment, and threw them into the fire. Petrarch exhibited as much agony as if he had been himself the martyr of
+his father's resentment. Petracco was so much affected by his son's
+tears, that he rescued from the flames Cicero and Virgil, and,
+presenting them to Petrarch, he said, "Virgil will console you for the
+loss of your other MSS., and Cicero will prepare you for the study of
+the law." It is by no means wonderful that a mind like Petrarch's could but ill
+relish the glosses of the Code and the commentaries on the Decretals. At Bologna, however, he met with an accomplished literary man and no
+inelegant poet in one of the professors, who, if he failed in persuading
+Petrarch to make the law his profession, certainly quickened his relish
+and ambition for poetry. This man was Cino da Pistoia, who is esteemed
+by Italians as the most tender and harmonious lyric poet in the native
+language anterior to Petrarch. During his residence at Bologna, Petrarch made an excursion as far as
+Venice, a city that struck him with enthusiastic admiration. In one of
+his letters he calls it "_orbem alterum_." Whilst Italy was harassed, he
+says, on all sides by continual dissensions, like the sea in a storm,
+Venice alone appeared like a safe harbour, which overlooked the tempest
+without feeling its commotion. The resolute and independent spirit of
+that republic made an indelible impression on Petrarch's heart. The
+young poet, perhaps, at this time little imagined that Venice was to be
+the last scene of his triumphant eloquence. Soon after his return from Venice to Bologna, he received the melancholy
+intelligence of the death of his mother, in the thirty-eighth year of
+her age. Her age is known by a copy of verses which Petrarch wrote upon
+her death, the verses being the same in number as the years of her life. She had lived humble and retired, and had devoted herself to the good of
+her family; virtuous amidst the prevalence of corrupted manners, and,
+though a beautiful woman, untainted by the breath of calumny. Petrarch
+has repaid her maternal affection by preserving her memory from
+oblivion. Petracco did not long survive the death of this excellent
+woman. According to the judgment of our poet, his father was a man of
+strong character and understanding. Banished from his native country,
+and engaged in providing for his family, he was prevented by the
+scantiness of his fortune, and the cares of his situation, from rising
+to that eminence which he might have otherwise attained. But his
+admiration of Cicero, in an age when that author was universally
+neglected, was a proof of his superior mind. Petrarch quitted Bologna upon the death of his father, and returned to
+Avignon, with his brother Gherardo, to collect the shattered remains of
+their father's property. Upon their arrival, they found their domestic
+affairs in a state of great disorder, as the executors of Petracco's
+will had betrayed the trust reposed in them, and had seized most of the
+effects of which they could dispose. Under these circumstances, Petrarch
+was most anxious for a MS. of Cicero, which his father had highly
+prized. "The guardians," he writes, "eager to appropriate what they
+esteemed the more valuable effects, had fortunately left this MS. as a
+thing of no value." Thus he owed to their ignorance this treatise, which
+he considered the richest portion of the inheritance left him by his
+father. But, that inheritance being small, and not sufficient for the
+maintenance of the two brothers, they were obliged to think of some
+profession for their subsistence; they therefore entered the church; and
+Avignon was the place, of all others, where preferment was most easily
+obtained. John XXII. had fixed his residence entirely in that city since
+October, 1316, and had appropriated to himself the nomination to all the
+vacant benefices. The pretence for this appropriation was to prevent
+simony--in others, not in his Holiness--as the sale of benefices was
+carried by him to an enormous height. At every promotion to a bishopric,
+he removed other bishops; and, by the meanest impositions, soon amassed
+prodigious wealth. Scandalous emoluments, also, which arose from the
+sale of indulgences, were enlarged, if not invented, under his papacy,
+and every method of acquiring riches was justified which could
+contribute to feed his avarice. By these sordid means, he collected such
+sums, that, according to Villani, he left behind him, _in the sacred
+treasury_, twenty-five millions of florins, a treasure which Voltaire
+remarks is hardly credible. The luxury and corruption which reigned in the Roman court at Avignon
+are fully displayed in some letters of Petrarch's, without either date
+or address. The partizans of that court, it is true, accuse him of
+prejudice and exaggeration. He painted, as they allege, the popes and
+cardinals in the gloomiest colouring. His letters contain the blackest
+catalogue of crimes that ever disgraced humanity. Petrarch was twenty-two years of age when he settled at Avignon, a scene
+of licentiousness and profligacy. The luxury of the cardinals, and the
+pomp and riches of the papal court, were displayed in an extravagant
+profusion of feasts and ceremonies, which attracted to Avignon women of
+all ranks, among whom intrigue and gallantry were generally
+countenanced. Petrarch was by nature of a warm temperament, with vivid
+and susceptible passions, and strongly attached to the fair sex. We must
+not therefore be surprised if, with these dispositions, and in such a
+dissolute city, he was betrayed into some excesses. But these were the
+result of his complexion, and not of deliberate profligacy. He alludes
+to this subject in his Epistle to Posterity, with every appearance of
+truth and candour. From his own confession, Petrarch seems to have been somewhat vain of
+his personal appearance during his youth, a venial foible, from which
+neither the handsome nor the homely, nor the wise nor the foolish, are
+exempt. It is amusing to find our own Milton betraying this weakness, in
+spite of all the surrounding strength of his character. In answering one
+of his slanderers, who had called him pale and cadaverous, the author of
+Paradise Lost appeals to all who knew him whether his complexion was not
+so fresh and blooming as to make him appear ten years younger than he
+really was. Petrarch, when young, was so strikingly handsome, that he was frequently
+pointed at and admired as he passed along, for his features were manly,
+well-formed, and expressive, and his carriage was graceful and
+distinguished. He was sprightly in conversation, and his voice was
+uncommonly musical. His complexion was between brown and fair, and his
+eyes were bright and animated. His countenance was a faithful index of
+his heart. He endeavoured to temper the warmth of his constitution by the
+regularity of his living and the plainness of his diet. He indulged
+little in either wine or sleep, and fed chiefly on fruits and
+vegetables. In his early days he was nice and neat in his dress, even to a degree of
+affectation, which, in later life, he ridiculed when writing to his
+brother Gherardo. "Do you remember," he says, "how much care we
+employed in the lure of dressing our persons; when we traversed the
+streets, with what attention did we not avoid every breath of wind which
+might discompose our hair; and with what caution did we not prevent the
+least speck of dirt from soiling our garments!" This vanity, however, lasted only during his youthful days. And even
+then neither attention to his personal appearance, nor his attachment to
+the fair sex, nor his attendance upon the great, could induce Petrarch
+to neglect his own mental improvement, for, amidst all these
+occupations, he found leisure for application, and devoted himself to
+the cultivation of his favourite pursuits of literature. Inclined by nature to moral philosophy, he was guided by the reading of
+Cicero and Seneca to that profound knowledge of the human heart, of the
+duties of others and of our own duties, which shows itself in all his
+writings. Gifted with a mind full of enthusiasm for poetry, he learned
+from Virgil elegance and dignity in versification. But he had still
+higher advantages from the perusal of Livy. The magnanimous actions of
+Roman heroes so much excited the soul of Petrarch, that he thought the
+men of his own age light and contemptible. His first compositions were in Latin: many motives, however, induced him
+to compose in the vulgar tongue, as Italian was then called, which,
+though improved by Dante, was still, in many respects, harsh and
+inelegant, and much in want of new beauties. Petrarch wrote for the
+living, and for that portion of the living who were least of all to be
+fascinated by the language of the dead. Latin might be all very well for
+inscriptions on mausoleums, but it was not suited for the ears of beauty
+and the bowers of love. The Italian language acquired, under his
+cultivation, increased elegance and richness, so that the harmony of his
+style has contributed to its beauty. He did not, however, attach himself
+solely to Italian, but composed much in Latin, which he reserved for
+graver, or, as he considered, more important subjects. His compositions
+in Latin are--Africa, an epic poem; his Bucolics, containing twelve
+eclogues; and three books of epistles. Petrarch's greatest obstacles to improvement arose from the scarcity of
+authors whom he wished to consult--for the manuscripts of the writers of
+the Augustan age were, at that time, so uncommon, that many could not be
+procured, and many more of them could not be purchased under the most
+extravagant price. This scarcity of books had checked the dawning light
+of literature. The zeal of our poet, however, surmounted all these
+obstacles, for he was indefatigable in collecting and copying many of
+the choicest manuscripts; and posterity is indebted to him for the
+possession of many valuable writings, which were in danger of being lost
+through the carelessness or ignorance of the possessors. Petrarch could not but perceive the superiority of his own understanding
+and the brilliancy of his abilities. The modest humility which knows not
+its own worth is not wont to show itself in minds much above mediocrity;
+and to elevated geniuses this virtue is a stranger. Petrarch from his
+youthful age had an internal assurance that he should prove worthy of
+estimation and honours. Nevertheless, as he advanced in the field of
+science, he saw the prospect increase, Alps over Alps, and seemed to be
+lost amidst the immensity of objects before him. Hence the anticipation
+of immeasurable labours occasionally damped his application. But from
+this depression of spirits he was much relieved by the encouragement of
+John of Florence, one of the secretaries of the Pope, a man of learning
+and probity. He soon distinguished the extraordinary abilities of
+Petrarch; he directed him in his studies, and cheered up his ambition. Petrarch returned his affection with unbounded confidence. He entrusted
+him with all his foibles, his disgusts, and his uneasinesses. He says
+that he never conversed with him without finding himself more calm and
+composed, and more animated for study. The superior sagacity of our poet, together with his pleasing manners,
+and his increasing reputation for knowledge, ensured to him the most
+flattering prospects of success. His conversation was courted by men of
+rank, and his acquaintance was sought by men of learning. It was at this
+time, 1326, that his merit procured him the friendship and patronage of
+James Colonna, who belonged to one of the most ancient and illustrious
+families of Italy. "About the twenty-second year of my life," Petrarch writes to one of his
+friends, "I became acquainted with James Colonna. He had seen me whilst
+I resided at Bologna, and was prepossessed, as he was pleased to say,
+with my appearance. Upon his arrival at Avignon, he again saw me, when,
+having inquired minutely into the state of my affairs, he admitted me to
+his friendship. I cannot sufficiently describe the cheerfulness of his
+temper, his social disposition, his moderation in prosperity, his
+constancy in adversity. I speak not from report, but from my own
+experience. He was endowed with a persuasive and forcible eloquence. His
+conversation and letters displayed the amiableness of his sincere
+character. He gained the first place in my affections, which he ever
+afterwards retained." Such is the portrait which our poet gives of James Colonna. A faithful
+and wise friend is among the most precious gifts of fortune; but, as
+friendships cannot wholly feed our affections, the heart of Petrarch, at
+this ardent age, was destined to be swayed by still tenderer feelings. He had nearly finished his twenty-third year without having ever
+seriously known the passion of love. In that year he first saw Laura. Concerning this lady, at one time, when no life of Petrarch had been yet
+written that was not crude and inaccurate, his biographers launched
+into the wildest speculations. One author considered her as an
+allegorical being; another discovered her to be a type of the Virgin
+Mary; another thought her an allegory of poetry and repentance. Some
+denied her even allegorical existence, and deemed her a mere phantom
+beauty, with which the poet had fallen in love, like Pygmalion with the
+work of his own creation. All these caprices about Laura's history have
+been long since dissipated, though the principal facts respecting her
+were never distinctly verified, till De Sade, her own descendant, wrote
+his memoirs of the Life of Petrarch. Petrarch himself relates that in 1327, exactly at the first hour of the
+6th of April, he first beheld Laura in the church of St. Clara of
+Avignon,[A] where neither the sacredness of the place, nor the solemnity
+of the day, could prevent him from being smitten for life with human
+love. In that fatal hour he saw a lady, a little younger than himself[B]
+in a green mantle sprinkled with violets, on which her golden hair fell
+plaited in tresses. She was distinguished from all others by her proud
+and delicate carriage. The impression which she made on his heart was
+sudden, yet it was never effaced. Laura, descended from a family of ancient and noble extraction, was the
+daughter of Audibert de Noves, a Provencal nobleman, by his wife
+Esmessenda. She was born at Avignon, probably in 1308. She had a
+considerable fortune, and was married in 1325 to Hugh de Sade. The
+particulars of her life are little known, as Petrarch has left few
+traces of them in his letters; and it was still less likely that he
+should enter upon her personal history in his sonnets, which, as they
+were principally addressed to herself, made it unnecessary for him to
+inform her of what she already knew. While many writers have erred in considering Petrarch's attachment as
+visionary, others, who have allowed the reality of his passion, have
+been mistaken in their opinion of its object. They allege that Petrarch
+was a happy lover, and that his mistress was accustomed to meet him at
+Vaucluse, and make him a full compensation for his fondness. No one at
+all acquainted with the life and writings of Petrarch will need to be
+told that this is an absurd fiction. Laura, a married woman, who bore
+ten children to a rather morose husband, could not have gone to meet him
+at Vaucluse without the most flagrant scandal. It is evident from his
+writings that she repudiated his passion whenever it threatened to
+exceed the limits of virtuous friendship. On one occasion, when he
+seemed to presume too far upon her favour, she said to him with
+severity, "I am not what you take me for." If his love had been
+successful, he would have said less about it. Of the two persons in this love affair, I am more inclined to pity Laura
+than Petrarch. Independently of her personal charms, I cannot conceive
+Laura otherwise than as a kind-hearted, loveable woman, who could not
+well be supposed to be totally indifferent to the devotion of the most
+famous and fascinating man of his age. On the other hand, what was the
+penalty that she would have paid if she had encouraged his addresses as
+far as he would have carried them? Her disgrace, a stigma left on her
+family, and the loss of all that character which upholds a woman in her
+own estimation and in that of the world. I would not go so far as to say
+that she did not at times betray an anxiety to retain him under the
+spell of her fascination, as, for instance, when she is said to have
+cast her eyes to the ground in sadness when he announced his intention
+to leave Avignon; but still I should like to hear her own explanation
+before I condemned her. And, after all, she was only anxious for the
+continuance of attentions, respecting which she had made a fixed
+understanding that they should not exceed the bounds of innocence. We have no distinct account how her husband regarded the homage of
+Petrarch to his wife--whether it flattered his vanity, or moved his
+wrath. As tradition gives him no very good character for temper, the
+latter supposition is the more probable. Every morning that he went out
+he might hear from some kind friend the praises of a new sonnet which
+Petrarch had written on his wife; and, when he came back to dinner, of
+course his good humour was not improved by the intelligence. He was in
+the habit of scolding her till she wept; he married seven months after
+her death, and, from all that is known of him, appears to have been a
+bad husband. I suspect that Laura paid dearly for her poet's idolatry. No incidents of Petrarch's life have been transmitted to us for the
+first year or two after his attachment to Laura commenced. He seems to
+have continued at Avignon, prosecuting his studies and feeding his
+passion. James Colonna, his friend and patron, was promoted in 1328 to the
+bishopric of Lombes in Gascony; and in the year 1330 he went from
+Avignon to take possession of his diocese, and invited Petrarch to
+accompany him to his residence. No invitation could be more acceptable
+to our poet: they set out at the end of March, 1330. In order to reach
+Lombes, it was necessary to cross the whole of Languedoc, and to pass
+through Montpelier, Narbonne, and Toulouse. Petrarch already knew
+Montpelier, where he had, or ought to have, studied the law for four
+years. Full of enthusiasm for Rome, Petrarch was rejoiced to find at Narbonne
+the city which had been the first Roman colony planted among the Gauls. This colony had been formed entirely of Roman citizens, and, in order to
+reconcile them to their exile, the city was built like a little image of
+Rome. It had its capital, its baths, arches, and fountains; all which
+works were worthy of the Roman name. In passing through Narbonne,
+Petrarch discovered a number of ancient monuments and inscriptions. Our travellers thence proceeded to Toulouse, where they passed several
+days. This city, which was known even before the foundation of Rome, is
+called, in some ancient Roman acts, "Roma Garumnae." It was famous in the
+classical ages for cultivating literature. After the fall of the Roman
+empire, the successive incursions of the Visigoths, the Saracens, and
+the Normans, for a long time silenced the Muses at Toulouse; but they
+returned to their favourite haunt after ages of barbarism had passed
+away. De Sade says, that what is termed Provencal poetry was much more
+cultivated by the Languedocians than by the Provencals, properly so
+called. The city of Toulouse was considered as the principal seat of
+this earliest modern poetry, which was carried to perfection in the
+twelfth and thirteenth centuries, under the patronage of the Counts of
+Toulouse, particularly Raimond V., and his son, Raimond VI. Petrarch
+speaks with high praise of those poets in his Triumphs of Love. It has
+been alleged that he owed them this mark of his regard for their having
+been so useful to him in his Italian poetry; and Nostradamus even
+accuses him of having stolen much from them. But Tassoni, who understood
+the Provencal poets better than Nostradamus, defends him successfully
+from this absurd accusation. Although Provencal poetry was a little on its decline since the days of
+the Dukes of Aquitaine and the Counts of Toulouse, it was still held in
+honour; and, when Petrarch arrived, the Floral games had been
+established at Toulouse during six years. [C]
+
+Ere long, however, our travellers found less agreeable objects of
+curiosity, that formed a sad contrast with the chivalric manners, the
+floral games, and the gay poetry of southern France. Bishop Colonna and
+Petrarch had intended to remain for some time at Toulouse; but their
+sojourn was abridged by their horror at a tragic event[D] in the
+principal monastery of the place. There lived in that monastery a young
+monk, named Augustin, who was expert in music, and accompanied the
+psalmody of the religious brothers with beautiful touches on the organ. The superior of the convent, relaxing its discipline, permitted Augustin
+frequently to mix with the world, in order to teach music, and to
+improve himself in the art. The young monk was in the habit of
+familiarly visiting the house of a respectable citizen: he was
+frequently in the society of his daughter, and, by the express
+encouragement of her father, undertook to exercise her in the practice
+of music. Another young man, who was in love with the girl, grew jealous
+of the monk, who was allowed to converse so familiarly with her, whilst
+he, her lay admirer, could only have stolen glimpses of her as she
+passed to church or to public spectacles. He set about the ruin of his
+supposed rival with cunning atrocity; and, finding that the young woman
+was infirm in health, suborned a physician, as worthless as himself, to
+declare that she was pregnant. Her credulous father, without inquiring
+whether the intelligence was true or false, went to the superior of the
+convent, and accused Augustin, who, though thunderstruck at the
+accusation, denied it firmly, and defended himself intrepidly. But the
+superior was deaf to his plea of innocence, and ordered him to be shut
+up in his cell, that he might await his punishment. Thither the poor
+young man was conducted, and threw himself on his bed in a state of
+horror. The superior and the elders among the friars thought it a meet fate for
+the accused that he should be buried alive in a subterranean dungeon,
+after receiving the terrific sentence of "_Vade in pace_." At the end of
+several days the victim dashed out his brains against the walls of his
+sepulchre. Bishop Colonna, who, it would appear, had no power to oppose
+this hideous transaction, when he was informed of it, determined to
+leave the place immediately; and Petrarch in his indignation exclaimed--
+
+     "Heu! fuge crudeles terras, fuge littus avarum."--VIRG. On the 26th of May, 1330, the Bishop of Lombes and Petrarch quitted
+Toulouse, and arrived at the mansion of the diocese. Lombes--in Latin,
+Lombarium--lies at the foot of the Pyrenees, only eight leagues from
+Toulouse. It is small and ill-built, and offers no allurement to the
+curiosity of the traveller. Till lately it had been a simple abbey of
+the Augustine monks. The whole of the clergy of the little city, singing
+psalms, issued out of Lombes to meet their new pastor, who, under a rich
+canopy, was conducted to the principal church, and there, in his
+episcopal robes, blessed the people, and delivered an eloquent
+discourse. Petrarch beheld with admiration the dignified behaviour of
+the youthful prelate. James Colonna, though accustomed to the wealth and
+luxury of Rome, came to the Pyrenean rocks with a pleased countenance. "His aspect," says Petrarch, "made it seem as if Italy had been
+transported into Gascony." Nothing is more beautiful than the patient
+endurance of our destiny; yet there are many priests who would suffer
+translation to a well-paid, though mountainous bishopric, with patience
+and piety. The vicinity of the Pyrenees renders the climate of Lombes very severe;
+and the character and conversation of the inhabitants were scarcely more
+genial than their climate. But Petrarch found in the bishop's abode
+friends who consoled him in this exile among the Lombesians. Two young
+and familiar inmates of the Bishop's house attracted and returned his
+attachment. The first of these was Lello di Stefani, a youth of a noble
+and ancient family in Rome, long attached to the Colonnas. Lello's
+gifted understanding was improved by study; so Petrarch tells us; and he
+could have been no ordinary man whom our accomplished poet so highly
+valued. In his youth he had quitted his studies for the profession of
+arms; but the return of peace restored him to his literary pursuits. Such was the attachment between Petrarch and Lello, that Petrarch gave
+him the name of Laelius, the most attached companion of Scipio. The other
+friend to whom Petrarch attached himself in the house of James Colonna
+was a young German, extremely accomplished in music. De Sade says that
+his name was Louis, without mentioning his cognomen. He was a native of
+Ham, near Bois le Duc, on the left bank of the Rhine between Brabant and
+Holland. Petrarch, with his Italian prejudices, regarded him as a
+barbarian by birth; but he was so fascinated by his serene temper and
+strong judgment, that he singled him out to be the chief of all his
+friends, and gave him the name of Socrates, noting him as an example
+that Nature can sometimes produce geniuses in the most unpropitious
+regions. After having passed the summer of 1330 at Lombes, the Bishop returned to
+Avignon, in order to meet his father, the elder Stefano Colonna, and his
+brother the Cardinal. The Colonnas were a family of the first distinction in modern Italy. They had been exceedingly powerful during the popedom of Boniface VIII.,
+through the talents of the late Cardinal James Colonna, brother of the
+famous old Stefano, so well known to Petrarch, and whom he used to call
+a phoenix sprung up from the ashes of Rome. Their house possessed also
+an influential public character in the Cardinal Pietro, brother of the
+younger Stefano. They were formidable from the territories and castles
+which they possessed, and by their alliance and friendship with Charles,
+King of Naples. The power of the Colonna family became offensive to
+Boniface, who, besides, hated the two Cardinals for having opposed the
+renunciation of Celestine V., which Boniface had fraudulently obtained. Boniface procured a crusade against them. They were beaten, expelled
+from their castles, and almost exterminated; they implored peace, but in
+vain; they were driven from Rome, and obliged to seek refuge, some in
+Sicily and others in France. During the time of their exile, Boniface
+proclaimed it a capital crime to give shelter to any of them. The Colonnas finally returned to their dignities and property, and
+afterwards made successful war against the house of their rivals, the
+Orsini. John Colonna, the Cardinal, brother of the Bishop of Lombes, and son of
+old Stefano, was one of the very ablest men at the papal court. He
+insisted on our poet taking up his abode in his own palace at Avignon. "What good fortune was this for me!" says Petrarch. "This great man
+never made me feel that he was my superior in station. He was like a
+father or an indulgent brother; and I lived in his house as if it had
+been my own." At a subsequent period, we find him on somewhat cooler
+terms with John Colonna, and complaining that his domestic dependence
+had, by length of time, become wearisome to him. But great allowance is
+to be made for such apparent inconsistencies in human attachment. At
+different times our feelings and language on any subject may be
+different without being insincere. The truth seems to be that Petrarch
+looked forward to the friendship of the Colonnas for promotion, which he
+either received scantily, or not at all; so it is little marvellous if
+he should have at last felt the tedium of patronage. For the present, however, this home was completely to Petrarch's taste. It was the rendezvous of all strangers distinguished by their knowledge
+and talents, whom the papal court attracted to Avignon, which was now
+the great centre of all political negotiations. This assemblage of the learned had a powerful influence on Petrarch's
+fine imagination. He had been engaged for some time in the perusal of
+Livy, and his enthusiasm for ancient Rome was heightened, if possible,
+by the conversation of old Stefano Colonna, who dwelt on no subject with
+so much interest as on the temples and palaces of the ancient city,
+majestic even in their ruins. During the bitter persecution raised against his family by Boniface
+VIII., Stefano Colonna had been the chief object of the Pope's
+implacable resentment. Though oppressed by the most adverse
+circumstances, his estates confiscated, his palaces levelled with the
+ground, and himself driven into exile, the majesty of his appearance,
+and the magnanimity of his character, attracted the respect of strangers
+wherever he went. He had the air of a sovereign prince rather than of an
+exile, and commanded more regard than monarchs in the height of their
+ostentation. In the picture of his times, Stefano makes a noble and commanding
+figure. If the reader, however, happens to search into that period of
+Italian history, he will find many facts to cool the romance of his
+imagination respecting all the Colonna family. They were, in plain
+truth, an oppressive aristocratic family. The portion of Italy which
+they and their tyrannical rivals possessed was infamously governed. The
+highways were rendered impassable by banditti, who were in the pay of
+contesting feudal lords; and life and property were everywhere insecure. Stefano, nevertheless, seems to have been a man formed for better times. He improved in the school of misfortune--the serenity of his temper
+remained unclouded by adversity, and his faculties unimpaired by age. Among the illustrious strangers who came to Avignon at this time was our
+countryman, Richard de Bury, then accounted the most learned man of
+England. He arrived at Avignon in 1331, having been sent to the Pope by
+Edward III. De Sade conceives that the object of his embassy was to
+justify his sovereign before the Pontiff for having confined the
+Queen-mother in the castle of Risings, and for having caused her
+favourite, Roger de Mortimer, to be hanged. It was a matter of course
+that so illustrious a stranger as Richard de Bury should be received
+with distinction by Cardinal Colonna. Petrarch eagerly seized the
+opportunity of forming his acquaintance, confident that De Bury could
+give him valuable information on many points of geography and history. They had several conversations. Petrarch tells us that he entreated the
+learned Englishman to make him acquainted with the true situation of the
+isle of Thule, of which the ancients speak with much uncertainty, but
+which their best geographers place at the distance of some days'
+navigation from the north of England. De Bury was, in all probability,
+puzzled with the question, though he did not like to confess his
+ignorance. He excused himself by promising to inquire into the subject
+as soon as he should get back to his books in England, and to write to
+him the best information he could afford. It does not appear, however,
+that he performed his promise. De Bury's stay at the court of Avignon was very short. King Edward, it
+is true, sent him a second time to the Pope, two years afterwards, on
+important business. The seeds of discord between France and England
+began to germinate strongly, and that circumstance probably occasioned
+De Bury's second mission. Unfortunately, however, Petrarch could not
+avail himself of his return so as to have further interviews with the
+English scholar. Petrarch wrote repeatedly to De Bury for his promised
+explanations respecting Thule; but, whether our countryman had found
+nothing in his library to satisfy his inquiries, or was prevented by his
+public occupations, there is no appearance of his having ever answered
+Petrarch's letters. Stephano Colonna the younger had brought with him to Avignon his son
+Agapito, who was destined for the church, that he might be educated
+under the eyes of the Cardinal and the Bishop, who were his uncles. These two prelates joined with their father in entreating Petrarch to
+undertake the superintendence of Agapito's studies. Our poet, avaricious
+of his time, and jealous of his independence, was at first reluctant to
+undertake the charge; but, from his attachment to the family, at last
+accepted it. De Sade tells us that Petrarch was not successful in the
+young man's education; and, from a natural partiality for the hero of
+his biography, lays the blame on his pupil. At the same time he
+acknowledges that a man with poetry in his head and love in his heart
+was not the most proper mentor in the world for a youth who was to be
+educated for the church. At this time, Petrarch's passion for Laura
+continued to haunt his peace with incessant violence. She had received
+him at first with good-humour and affability; but it was only while he
+set strict bounds to the expression of his attachment. He had not,
+however, sufficient self-command to comply with these terms. His
+constant assiduities, his eyes continually riveted upon her, and the
+wildness of his looks, convinced her of his inordinate attachment; her
+virtue took alarm; she retired whenever he approached her, and even
+covered her face with a veil whilst he was present, nor would she
+condescend to the slightest action or look that might seem to
+countenance his passion. Petrarch complains of these severities in many of his melancholy
+sonnets. Meanwhile, if fame could have been a balm to love, he might
+have been happy. His reputation as a poet was increasing, and his
+compositions were read with universal approbation. The next interesting event in our poet's life was a larger course of
+travels, which he took through the north of France, through Flanders,
+Brabant, and a part of Germany, subsequently to his tour in Languedoc. Petrarch mentions that he undertook this journey about the twenty-fifth
+year of his age. He was prompted to travel not only by his curiosity to
+observe men and manners, by his desire of seeing monuments of antiquity,
+and his hopes of discovering the MSS. of ancient authors, but also, we
+may believe, by his wish, if it were possible, to escape from himself,
+and to forget Laura. From Paris Petrarch wrote as follows to Cardinal Colonna. "I have
+visited Paris, the capital of the whole kingdom of France. I entered it
+in the same state of mind that was felt by Apuleias when he visited
+Hypata, a city of Thessaly, celebrated for its magic, of which such
+wonderful things were related, looking again and again at every object,
+in solicitous suspense, to know whether all that he had heard of the
+far-famed place was true or false. Here I pass a great deal of time in
+observation, and, as the day is too short for my curiosity, I add the
+night. At last, it seems to me that, by long exploring, I have enabled
+myself to distinguish between the true and the false in what is related
+about Paris. But, as the subject would be too tedious for this occasion,
+I shall defer entering fully into particulars till I can do so _viva
+voce_. My impatience, however, impels me to sketch for you briefly a
+general idea of this so celebrated city, and of the character of its
+inhabitants. "Paris, though always inferior to its fame, and much indebted to the
+lies of its own people, is undoubtedly a great city. To be sure I never
+saw a dirtier place, except Avignon. At the same time, its population
+contains the most learned of men, and it is like a great basket in which
+are collected the rarest fruits of every country. From the time that its
+university was founded, as they say by Alcuin, the teacher of
+Charlemagne, there has not been, to my knowledge, a single Parisian of
+any fame. The great luminaries of the university were all strangers;
+and, if the love of my country does not deceive me, they were chiefly
+Italians, such as Pietro Lombardo, Tomaso d'Aquino, Bonaventura, and
+many others. "The character of the Parisians is very singular. There was a time when,
+from the ferocity of their manners, the French were reckoned barbarians. At present the case is wholly changed. A gay disposition, love of
+society, ease, and playfulness in conversation now characterize them. They seek every opportunity of distinguishing themselves; and make war
+against all cares with joking, laughing, singing, eating, and drinking. Prone, however, as they are to pleasure, they are not heroic in
+adversity. The French love their country and their countrymen; they
+censure with rigour the faults of other nations, but spread a
+proportionably thick veil over their own defects." From Paris, Petrarch proceeded to Ghent, of which only he makes mention
+to the Cardinal, without noticing any of the towns that lie between. It
+is curious to find our poet out of humour with Flanders on account of
+the high price of wine, which was not an indigenous article. In the
+latter part of his life, Petrarch was certainly one of the most
+abstemious of men; but, at this period, it would seem that he drank good
+liquor enough to be concerned about its price. From Ghent he passed on to Liege. "This city is distinguished," he says,
+"by the riches and the number of its clergy. As I had heard that
+excellent MSS. might be found there, I stopped in the place for some
+time. But is it not singular that in so considerable a place I had
+difficulty to procure ink enough to copy two orations of Cicero's, and
+the little that I could obtain was as yellow as saffron?" Petrarch was received at most of the places he visited, and more
+particularly at Cologne, with marks of great respect; and he was
+agreeably surprised to find that his reputation had acquired him the
+partiality and acquaintance of several inhabitants. He was conducted by
+his new friends to the banks of the Rhine, where the inhabitants were
+engaged in the performance of a superstitious annual ceremony, which,
+for its singularity, deserves to be recorded. "The banks of the river were crowded with a considerable number of
+women, their persons comely, and their dress elegant. This great
+concourse of people seemed to create no confusion. A number of these
+women, with cheerful countenances, crowned with flowers, bathed their
+hands and arms in the stream, and uttered, at the same time, some
+harmonious expressions in a language which I did not understand. I
+inquired into the cause of this ceremony, and was informed that it arose
+from a tradition among the people, and particularly among the women,
+that the impending calamities of the year were carried away by this
+ablution, and that blessings succeeded in their place. Hence this
+ceremony is annually renewed, and the ablution performed with
+unremitting diligence." The ceremony being finished, Petrarch smiled at their superstition, and
+exclaimed, "O happy inhabitants of the Rhine, whose waters wash out your
+miseries, whilst neither the Po nor the Tiber can wash out ours! You
+transmit your evils to the Britons by means of this river, whilst we
+send off ours to the Illyrians and the Africans. It seems that our
+rivers have a slower course." Petrarch shortened his excursion that he might return the sooner to
+Avignon, where the Bishop of Lombes had promised to await his return,
+and take him to Rome. When he arrived at Lyons, however, he was informed that the Bishop had
+departed from Avignon for Rome. In the first paroxysm of his
+disappointment he wrote a letter to his friend, which portrays strongly
+affectionate feelings, but at the same time an irascible temper. When he
+came to Avignon, the Cardinal Colonna relieved him from his irritation
+by acquainting him with the real cause of his brother's departure. The
+flames of civil dissension had been kindled at Rome between the rival
+families of Colonna and Orsini. The latter had made great preparations
+to carry on the war with vigour. In this crisis of affairs, James
+Colonna had been summoned to Rome to support the interests of his
+family, and, by his courage and influence, to procure them the succour
+which they so much required. Petrarch continued to reside at Avignon for several years after
+returning from his travels in France and Flanders. It does not appear
+from his sonnets, during those years, either that his passion for Laura
+had abated, or that she had given him any more encouragement than
+heretofore. But in the year 1334, an accident renewed the utmost
+tenderness of his affections. A terrible affliction visited the city of
+Avignon. The heat and the drought were so excessive that almost the
+whole of the common people went about naked to the waist, and, with
+frenzy and miserable cries, implored Heaven to put an end to their
+calamities. Persons of both sexes and of all ages had their bodies
+covered with scales, and changed their skins like serpents. Laura's constitution was too delicate to resist this infectious malady,
+and her illness greatly alarmed Petrarch. One day he asked her
+physician how she was, and was told by him that her condition was very
+dangerous: on that occasion he composed the following sonnet:[E]--
+
+    This lovely spirit, if ordain'd to leave
+    Its mortal tenement before its time,
+    Heaven's fairest habitation shall receive
+    And welcome her to breathe its sweetest clime. If she establish her abode between
+    Mars and the planet-star of Beauty's queen,
+    The sun will be obscured, so dense a cloud
+    Of spirits from adjacent stars will crowd
+    To gaze upon her beauty infinite. Say that she fixes on a lower sphere,
+    Beneath the glorious sun, her beauty soon
+    Will dim the splendour of inferior stars--
+    Of Mars, of Venus, Mercury, and the Moon. She'll choose not Mars, but higher place than Mars;
+    She will eclipse all planetary light,
+    And Jupiter himself will seem less bright. I trust that I have enough to say in favour of Petrarch to satisfy his
+rational admirers; but I quote this sonnet as an example of the worst
+style of Petrarch's poetry. I make the English reader welcome to rate my
+power of translating it at the very lowest estimation. He cannot go much
+further down than myself in the scale of valuation, especially if he has
+Italian enough to know that the exquisite mechanical harmony of
+Petrarch's style is beyond my reach. It has been alleged that this
+sonnet shows how much the mind of Petrarch had been influenced by his
+Platonic studies; but if Plato had written poetry he would never have
+been so extravagant. Petrarch, on his return from Germany, had found the old Pope, John
+XXII., intent on two speculations, to both of which he lent his
+enthusiastic aid. One of them was a futile attempt to renew the
+crusades, from which Europe had reposed for a hundred years. The other
+was the transfer of the holy seat to Rome. The execution of this plan,
+for which Petrarch sighed as if it were to bring about the millennium,
+and which was not accomplished by another Pope without embroiling him
+with his Cardinals, was nevertheless more practicable than capturing
+Jerusalem. We are told by several Italian writers that the aged Pontiff,
+moved by repeated entreaties from the Romans, as well as by the remorse
+of his conscience, thought seriously of effecting this restoration; but
+the sincerity of his intentions is made questionable by the fact that he
+never fixed himself at Rome. He wrote, it is true, to Rome in 1333,
+ordering his palaces and gardens to be repaired; but the troubles which
+continued to agitate the city were alleged by him as too alarming for
+his safety there, and he repaired to Bologna to wait for quieter times. On both of the above subjects, namely, the insane crusades and the more
+feasible restoration of the papal court to Rome, Petrarch wrote with
+devoted zeal; they are both alluded to in his twenty-second sonnet. The death of John XXII. left the Cardinals divided into two great
+factions. The first was that of the French, at the head of which stood
+Cardinal Taillerand, son of the beautiful Brunissende de Foix, whose
+charms were supposed to have detained Pope Clement V. in France. The
+Italian Cardinals, who formed the opposite faction, had for their chief
+the Cardinal Colonna. The French party, being the more numerous, were,
+in some sort, masters of the election; they offered the tiara to
+Cardinal de Commenges, on condition that he would promise not to
+transfer the papal court to Rome. That prelate showed himself worthy of
+the dignity, by refusing to accept it on such terms. To the surprise of the world, the choice of the conclave fell at last on
+James Founder, said to be the son of a baker at Savordun, who had been
+bred as a monk of Citeaux, and always wore the dress of the order. Hence
+he was called the White Cardinal. He was wholly unlike his portly
+predecessor John in figure and address, being small in stature, pale in
+complexion, and weak in voice. He expressed his own astonishment at the
+honour conferred on him, saying that they had elected an ass. If we may
+believe Petrarch, he did himself no injustice in likening himself to
+that quadruped; but our poet was somewhat harsh in his judgment of this
+Pontiff. He took the name of Benedict XII. Shortly after his exaltation, Benedict received ambassadors from Rome,
+earnestly imploring him to bring back the sacred seat to their city; and
+Petrarch thought he could not serve the embassy better than by
+publishing a poem in Latin verse, exhibiting Rome in the character of a
+desolate matron imploring her husband to return to her. Benedict
+applauded the author of the epistle, but declined complying with its
+prayer. Instead of revisiting Italy, his Holiness ordered a magnificent
+and costly palace to be constructed for him at Avignon. Hitherto, it
+would seem that the Popes had lived in hired houses. In imitation of
+their Pontiff, the Cardinals set about building superb mansions, to the
+unbounded indignation of Petrarch, who saw in these new habitations not
+only a graceless and unchristian spirit of luxury, but a sure indication
+that their owners had no thoughts of removing to Rome. In the January of the following year, Pope Benedict presented our poet
+with the canonicate of Lombes, with the expectancy of the first prebend
+which should become vacant. This preferment Petrarch is supposed to have
+owed to the influence of Cardinal Colonna. The troubles which at this time agitated Italy drew to Avignon, in the
+year 1335, a personage who holds a pre-eminent interest in the life of
+Petrarch, namely, Azzo da Correggio, who was sent thither by the
+Scaligeri of Parma. The State of Parma had belonged originally to the
+popes; but two powerful families, the Rossis and the Correggios, had
+profited by the quarrels between the church and the empire to usurp the
+government, and during five-and-twenty years, Gilberto Correggio and
+Rolando Rossi alternately lost and won the sovereignty, till, at last,
+the confederate princes took the city, and conferred the government of
+it on Guido Correggio, the greatest enemy of the Rossis. Gilbert Correggio left at his death a widow, the sister of Cane de la
+Scala, and four sons, Guido, Simone, Azzo, and Giovanni. It is only with
+Azzo that we are particularly concerned in the history of Petrarch. Azzo was born in the year 1303, being thus a year older than our poet. Originally intended for the church, he preferred the sword to the
+crozier, and became a distinguished soldier. He married the daughter of
+Luigi Gonzagua, lord of Mantua. He was a man of bold original spirit,
+and so indefatigable that he acquired the name of Iron-foot. Nor was his
+energy merely physical; he read much, and forgot nothing--his memory was
+a library. Azzo's character, to be sure, even with allowance for
+turbulent times, is not invulnerable at all points to a rigid scrutiny;
+and, notwithstanding all the praises of Petrarch, who dedicated to him
+his Treatise on a Solitary Life in 1366, his political career contained
+some acts of perfidy. But we must inure ourselves, in the biography of
+Petrarch, to his over-estimation of favourites in the article of morals. It was not long ere Petrarch was called upon to give a substantial proof
+of his regard for Azzo. After the seizure of Parma by the confederate
+princes, Marsilio di Rossi, brother of Rolando, went to Paris to demand
+assistance from the French king. The King of Bohemia had given over the
+government of Parma to him and his brothers, and the Rossi now saw it
+with grief assigned to his enemies, the Correggios. Marsilio could
+obtain no succour from the French, who were now busy in preparing for
+war with the English; so he carried to the Pope at Avignon his
+complaints against the alleged injustice of the lords of Verona and the
+Correggios in breaking an express treaty which they had made with the
+house of Rossi. Azzo had the threefold task of defending, before the Pope's tribunal,
+the lords of Verona, whose envoy he was; the rights of his family, which
+were attacked; and his own personal character, which was charged with
+some grave objections. Revering the eloquence and influence of Petrarch,
+he importuned him to be his public defender. Our poet, as we have seen,
+had studied the law, but had never followed the profession. "It is not
+my vocation," he says, in his preface to his Familiar Epistles, "to
+undertake the defence of others. I detest the bar; I love retirement; I
+despise money; and, if I tried to let out my tongue for hire, my nature
+would revolt at the attempt." But what Petrarch would not undertake either from taste or motives of
+interest, he undertook at the call of friendship. He pleaded the cause
+of Azzo before the Pope and Cardinals; it was a finely-interesting
+cause, that afforded a vast field for his eloquence. He brought off his
+client triumphantly; and the Rossis were defeated in their demand. At the same time, it is a proud trait in Petrarch's character that he
+showed himself on this occasion not only an orator and a lawyer, but a
+perfect gentleman. In the midst of all his zealous pleading, he stooped
+neither to satire nor personality against the opposing party. He could
+say, with all the boldness of truth, in a letter to Ugolino di Rossi,
+the Bishop of Parma, "I pleaded against your house for Azzo Correggio,
+but you were present at the pleading; do me justice, and confess that I
+carefully avoided not only attacks on your family and reputation, but
+even those railleries in which advocates so much delight." On this occasion, Azzo had brought to Avignon, as his colleague in the
+lawsuit, Guglielmo da Pastrengo, who exercised the office of judge and
+notary at Verona. He was a man of deep knowledge in the law; versed,
+besides, in every branch of elegant learning, he was a poet into the
+bargain. In Petrarch's many books of epistles, there are few letters
+addressed by him to this personage; but it is certain that they
+contracted a friendship at this period which endured for life. All this time the Bishop of Lombes still continued at Rome; and, from
+time to time, solicited his friend Petrarch to join him. "Petrarch would
+have gladly joined him," says De Sade; "but he was detained at Avignon
+by his attachment to John Colonna and his love of Laura:" a whimsical
+junction of detaining causes, in which the fascination of the Cardinal
+may easily be supposed to have been weaker than that of Laura. In
+writing to our poet, at Avignon, the Bishop rallied Petrarch on the
+imaginary existence of the object of his passion. Some stupid readers of
+the Bishop's letter, in subsequent times, took it into their heads that
+there was a literal proof in the prelate's jesting epistle of our poet's
+passion for Laura being a phantom and a fiction. But, possible as it may
+be, that the Bishop in reality suspected him to exaggerate the flame of
+his devotion for the two great objects of his idolatry, Laura and St.
+Augustine, he writes in a vein of pleasantry that need not be taken for
+grave accusation. "You are befooling us all, my dear Petrarch," says the
+prelate; "and it is wonderful that at so tender an age (Petrarch's
+tender age was at this time thirty-one) you can deceive the world with
+so much art and success. And, not content with deceiving the world, you
+would fain deceive Heaven itself. You make a semblance of loving St.
+Augustine and his works; but, in your heart, you love the poets and the
+philosophers. Your Laura is a phantom created by your imagination for
+the exercise of your poetry. Your verse, your love, your sighs, are all
+a fiction; or, if there is anything real in your passion, it is not for
+the lady Laura, but for the laurel--_that is_, the crown of poets. I
+have been your dupe for some time, and, whilst you showed a strong
+desire to visit Rome, I hoped to welcome you there. But my eyes are now
+opened to all your rogueries, which nevertheless, will not prevent me
+from loving you." Petrarch, in his answer to the Bishop,[F] says, "My father, if I love
+the poets, I only follow, in this respect, the example of St. Augustine. I take the sainted father himself to witness the sincerity of my
+attachment to him. He is now in a place where he can neither deceive nor
+be deceived. I flatter myself that he pities my errors, especially when
+he recalls his own." St. Augustine had been somewhat profligate in his
+younger days. "As to Laura," continues the poet, "would to Heaven that she were only
+an imaginary personage, and my passion for her only a pastime! Alas! it
+is a madness which it would be difficult and painful to feign for any
+length of time; and what an extravagance it would be to affect such a
+passion! One may counterfeit illness by action, by voice, and by manner,
+but no one in health can give himself the true air and complexion of
+disease. How often have you yourself been witness of my paleness and my
+sufferings! I know very well that you speak only in irony: it is your
+favourite figure of speech, but I hope that time will cicatrize these
+wounds of my spirit, and that Augustine, whom I pretend to love, will
+furnish me with a defence against a Laura who does not exist." Years had now elapsed since Petrarch had conceived his passion for
+Laura; and it was obviously doomed to be a source of hopeless torment to
+him as long as he should continue near her; for she could breathe no
+more encouragement on his love than what was barely sufficient to keep
+it alive; and, if she had bestowed more favour on him, the consequences
+might have been ultimately most tragic to both of them. His own
+reflections, and the advice of his friends, suggested that absence and
+change of objects were the only means likely to lessen his misery; he
+determined, therefore, to travel once more, and set out for Rome in
+1335. The wish to assuage his passion, by means of absence, was his principal
+motive for going again upon his travels; but, before he could wind up
+his resolution to depart, the state of his mind bordered on distraction. One day he observed a country girl washing the veil of Laura; a sudden
+trembling seized him--and, though the heat of the weather was intense,
+he grew cold and shivered. For some time he was incapable of applying to
+study or business. His soul, he said, was like a field of battle, where
+his passion and reason held continual conflict. In his calmer moments,
+many agreeable motives for travelling suggested themselves to his mind. He had a strong desire to visit Rome, where he was sure of finding the
+kindest welcome from the Bishop of Lombes. He was to pass through Paris
+also; and there he had left some valued friends, to whom he had promised
+that he would return. At the head of those friends were Dionisio dal
+Borgo San Sepolcro and Roberto Bardi, a Florentine, whom the Pope had
+lately made chancellor of the Church of Paris, and given him the
+canonship of Notre Dame. Dionisio dal Borgo was a native of Tuscany, and
+one of the Roberti family. His name in literature was so considerable
+that Filippo Villani thought it worth while to write his life. Petrarch
+wrote his funeral eulogy, and alludes to Dionisio's power of reading
+futurity by the stars. But Petrarch had not a grain of faith in
+astrology; on the contrary, he has himself recorded that he derided it. After having obtained, with some difficulty, the permission of Cardinal
+Colonna, he took leave of his friends at Avignon, and set out for
+Marseilles. Embarking there in a ship that was setting sail for Civita
+Vecchia, he concealed his name, and gave himself out for a pilgrim going
+to worship at Rome. Great was his joy when, from the deck, he could
+discover the coast of his beloved Italy. It was a joy, nevertheless,
+chastened by one indomitable recollection--that of the idol he had left
+behind. On his landing he perceived a laurel tree; its name seemed to
+typify her who dwelt for ever in his heart: he flew to embrace it; but
+in his transports overlooked a brook that was between them, into which
+he fell--and the accident caused him to swoon. Always occupied with
+Laura, he says, "On those shores washed by the Tyrrhene sea, I beheld
+that stately laurel which always warms my imagination, and, through my
+impatience, fell breathless into the intervening stream. I was alone,
+and in the woods, yet I blushed at my own heedlessness; for, to the
+reflecting mind, no witness is necessary to excite the emotion of
+shame." It was not easy for Petrarch to pass from the coast of Tuscany to Rome;
+for war between the Ursini and Colonna houses had been renewed with more
+fury than ever, and filled all the surrounding country with armed men. As he had no escort, he took refuge in the castle of Capranica, where he
+was hospitably received by Orso, Count of Anguillara, who had married
+Agnes Colonna, sister of the Cardinal and the Bishop. In his letter to
+the latter, Petrarch luxuriates in describing the romantic and rich
+landscape of Capranica, a country believed by the ancients to have been
+the first that was cultivated under the reign of Saturn. He draws,
+however, a frightful contrast to its rural picture in the horrors of war
+which here prevailed. "Peace," he says, "is the only charm which I could
+not find in this beautiful region. The shepherd, instead of guarding
+against wolves, goes armed into the woods to defend himself against men. The labourer, in a coat of mail, uses a lance instead of a goad, to
+drive his cattle. The fowler covers himself with a shield as he draws
+his nets; the fisherman carries a sword whilst he hooks his fish; and
+the native draws water from the well in an old rusty casque, instead of
+a pail. In a word, arms are used here as tools and implements for all
+the labours of the field, and all the wants of men. In the night are
+heard dreadful howlings round the walls of towns, and and in the day
+terrible voices crying incessantly to arms. What music is this compared
+with those soft and harmonious sounds which. I drew from my lute at
+Avignon!" On his arrival at Capranica, Petrarch despatched a courier to the Bishop
+of Lombes, informing him where he was, and of his inability to get to
+Rome, all roads to it being beset by the enemy. The Bishop expressed
+great joy at his friend's arrival in Italy, and went to meet him at
+Capranica, with Stefano Colonna, his brother, senator of Rome. They had
+with them only a troop of one hundred horsemen; and, considering that
+the enemy kept possession of the country with five hundred men, it is
+wonderful that they met with no difficulties on their route; but the
+reputation of the Colonnas had struck terror into the hostile camp. They
+entered Rome without having had a single skirmish with the enemy. Stefano Colonna, in his quality of senator, occupied the Capitol, where
+he assigned apartments to Petrarch; and the poet was lodged on that
+famous hill which Scipio, Metellus, and Pompey, had ascended in triumph. Petrarch was received and treated by the Colonnas Like a child of their
+family. The venerable old Stefano, who had known him at Avignon, loaded
+our poet with kindness. But, of all the family, it would seem that
+Petrarch delighted most in the conversation of Giovanni da S. Vito, a
+younger brother of the aged Stefano, and uncle of the Cardinal and
+Bishop. Their tastes were congenial. Giovanni had made a particular
+study of the antiquities of Rome; he was, therefore, a most welcome
+cicerone to our poet, being, perhaps, the only Roman then alive, who
+understood the subject deeply, if we except Cola di Rienzo, of whom we
+shall soon have occasion to speak. In company with Giovanni, Petrarch inspected the relics of the "eternal
+city:" the former was more versed than his companion in ancient history,
+but the other surpassed him in acquaintance with modern times, as well
+as with the objects of antiquity that stood immediately before them. What an interesting object is Petrarch contemplating the ruins of Rome! He wrote to the Cardinal Colonna as follows:--"I gave you so long an
+account of Capranica that you may naturally expect a still longer
+description of Rome. My materials for this subject are, indeed,
+inexhaustible; but they will serve for some future opportunity. At
+present, I am so wonder-struck by so many great objects that I know not
+where to begin. One circumstance, however, I cannot omit, which has
+turned out contrary to your surmises. You represented to me that Rome
+was a city in ruins, and that it would not come up to the imagination I
+had formed of it; but this has not happened--on the contrary, my most
+sanguine expectations have been surpassed. Rome is greater, and her
+remains are more awful, than my imagination had conceived. It is not
+matter of wonder that she acquired universal dominion. I am only
+surprised that it was so late before she came to it." In the midst of his meditations among the relics of Rome, Petrarch was
+struck by the ignorance about their forefathers, with which the natives
+looked on those monuments. The veneration which they had for them was
+vague and uninformed. "It is lamentable," he says, "that nowhere in the
+world is Rome less known than at Rome." It is not exactly known in what month Petrarch left the Roman capital;
+but, between his departure from that city, and his return to the banks
+of the Rhone, he took an extensive tour over Europe. He made a voyage
+along its southern coasts, passed the straits of Gibraltar, and sailed
+as far northward as the British shores. During his wanderings, he wrote
+a letter to Tommaso da Messina, containing a long geographical
+dissertation on the island of Thule. Petrarch approached the British shores; why were they not fated to have
+the honour of receiving him? Ah! but who was there, then, in England
+that was capable of receiving him? Chaucer was but a child. We had the
+names of some learned men, but our language had no literature. Time
+works wonders in a few centuries; and England, _now_ proud of her
+Shakespeare and her Verulam, looks not with envy on the glory of any
+earthly nation. During his excitement by these travels, a singular
+change took place in our poet's habitual feelings. He recovered his
+health and spirits; he could bear to think of Laura with equanimity, and
+his countenance resumed the cheerfulness that was natural to a man in
+the strength of his age. Nay, he became so sanguine in his belief that
+he had overcome his passion as to jest at his past sufferings; and, in
+this gay state of mind, he came back to Avignon. This was the crowning
+misfortune of his life. He saw Laura once more; he was enthralled anew;
+and he might now laugh in agony at his late self-congratulations on his
+delivery from her enchantment. With all the pity that we bestow on
+unfortunate love, and with all the respect that we owe to its constancy,
+still we cannot look but with a regret amounting to impatience on a man
+returning to the spot that was to rekindle his passion as recklessly as
+a moth to the candle, and binding himself over for life to an affection
+that was worse than hopeless, inasmuch as its success would bring more
+misery than its failure. It is said that Petrarch, if it had not been
+for this passion, would not have been the poet that he was. Not,
+perhaps, so good an amatory poet; but I firmly believe that he would
+have been a more various and masculine, and, upon the whole, _a greater
+poet_, if he had never been bewitched by Laura. However, _he did_ return
+to take possession of his canonicate at Lombes, and to lose possession
+of his peace of mind. In the April of the following year, 1336, he made an excursion, in
+company with his brother Gherardo, to the top of Mount Ventoux, in the
+neighbourhood of Avignon; a full description of which he sent in a
+letter to Dionisio dal Borgo a San Sepolcro; but there is nothing
+peculiarly interesting in this occurrence. A more important event in his life took place during the following year,
+1337--namely, that he had a son born to him, whom he christened by the
+name of John, and to whom he acknowledged his relationship of paternity. With all his philosophy and platonic raptures about Laura, Petrarch was
+still subject to the passions of ordinary men, and had a mistress at
+Avignon who was kinder to him than Laura. Her name and history have been
+consigned to inscrutable obscurity: the same woman afterwards bore him a
+daughter, whose name was Francesca, and who proved a great solace to him
+in his old age. His biographers extol the magnanimity of Laura for
+displaying no anger at our poet for what they choose to call this
+discovery of his infidelity to her; but, as we have no reason to suppose
+that Laura ever bestowed one favour on Petrarch beyond a pleasant look,
+it is difficult to perceive her right to command his unspotted faith. At
+all events, she would have done no good to her own reputation if she had
+stormed at the lapse of her lover's virtue. In a small city like Avignon, the scandal of his intrigue would
+naturally be a matter of regret to his friends and of triumph to his
+enemies. Petrarch felt his situation, and, unable to calm his mind
+either by the advice of his friend Dionisio dal Borgo, or by the perusal
+of his favourite author, St. Augustine, he resolved to seek a rural
+retreat, where he might at least hide his tears and his mortification. Unhappily he chose a spot not far enough from Laura--namely, Vaucluse,
+which is fifteen Italian, or about fourteen English, miles from Avignon. Vaucluse, or Vallis Clausa, the shut-up valley, is a most beautiful
+spot, watered by the windings of the Sorgue. Along the river there are
+on one side most verdant plains and meadows, here and there shadowed by
+trees. On the other side are hills covered with corn and vineyards. Where the Sorgue rises, the view terminates in the cloud-capt ridges of
+the mountains Luberoux and Ventoux. This was the place which Petrarch
+had visited with such delight when he was a schoolboy, and at the sight
+of which he exclaimed "that he would prefer it as a residence to the
+most splendid city." It is, indeed, one of the loveliest seclusions in the world. It
+terminates in a semicircle of rocks of stupendous height, that seem to
+have been hewn down perpendicularly. At the head and centre of the vast
+amphitheatre, and at the foot of one of its enormous rocks, there is a
+cavern of proportional size, hollowed out by the hand of nature. Its
+opening is an arch sixty feet high; but it is a double cavern, there
+being an interior one with an entrance thirty feet high. In the midst of
+these there is an oval basin, having eighteen fathoms for its longest
+diameter, and from this basin rises the copious stream which forms the
+Sorgue. The surface of the fountain is black, an appearance produced by
+its depth, from the darkness of the rocks, and the obscurity of the
+cavern; for, on being brought to light, nothing can be clearer than its
+water. Though beautiful to the eye, it is harsh to the taste, but is
+excellent for tanning and dyeing; and it is said to promote the growth
+of a plant which fattens oxen and is good for hens during incubation. Strabo and Pliny the naturalist both speak of its possessing this
+property. The river Sorgue, which issues from this cavern, divides in its progress
+into various branches; it waters many parts of Provence, receives
+several tributary streams, and, after reuniting its branches, falls into
+the Rhone near Avignon. Resolving to fix his residence here, Petrarch bought a little cottage
+and an adjoining field, and repaired to Vaucluse with no other
+companions than his books. To this day the ruins of a small house are
+shown at Vaucluse, which tradition says was his habitation. If his object was to forget Laura, the composition of sonnets upon her
+in this hermitage was unlikely to be an antidote to his recollections. It would seem as if he meant to cherish rather than to get rid of his
+love. But, if he nursed his passion, it was a dry-nursing; for he led a
+lonely, ascetic, and, if it were not for his studies, we might say a
+savage life. In one of his letters, written not long after his settling
+at Vaucluse, he says, "Here I make war upon my senses, and treat them as
+my enemies. My eyes, which have drawn me into a thousand difficulties,
+see no longer either gold, or precious stones, or ivory, or purple; they
+behold nothing save the water, the firmament, and the rocks. The only
+female who comes within their sight is a swarthy old woman, dry and
+parched as the Lybian deserts. My ears are no longer courted by those
+harmonious instruments and voices which have so often transported my
+soul: they hear nothing but the lowing of cattle, the bleating of sheep,
+the warbling of birds, and the murmurs of the river. "I keep silence from noon till night. There is no one to converse with;
+for the good people, employed in spreading their nets, or tending their
+vines and orchards, are no great adepts at conversation. I often content
+myself with the brown bread of the fisherman, and even eat it with
+pleasure. Nay, I almost prefer it to white bread. This old fisherman,
+who is as hard as iron, earnestly remonstrates against my manner of
+life; and assures me that I cannot long hold out. I am, on the
+contrary, convinced that it is easier to accustom one's self to a plain
+diet than to the luxuries of a feast. But still I have my
+luxuries--figs, raisins, nuts and almonds. I am fond of the fish with
+which this stream abounds, and I sometimes amuse myself with spreading
+the nets. As to my dress, there is an entire change; you would take me
+for a labourer or a shepherd. "My mansion resembles that of Cato or Fabricius. My whole
+house-establishment consists of myself, my old fisherman and his wife,
+and a dog. My fisherman's cottage is contiguous to mine; when I want him
+I call; when I no longer need him, he returns to his cottage. "I have made two gardens that please me wonderfully. I do not think they
+are to be equalled in all the world. And I must confess to you a more
+than female weakness with which I am haunted. I am positively angry that
+there is anything so beautiful out of Italy. "One of these gardens is shady, formed for contemplation, and sacred to
+Apollo. It overhangs the source of the river, and is terminated by
+rocks, and by places accessible only to birds. The other is nearer my
+cottage, of an aspect less severe, and devoted to Bacchus; and what is
+extremely singular, it is in the midst of a rapid river. The approach to
+it is over a bridge of rocks; and there is a natural grotto under the
+rocks, which gives them the appearance of a rustic bridge. Into this
+grotto the rays of the sun never penetrate. I am confident that it much
+resembles the place where Cicero went to declaim. It invites to study. Hither I retreat during the noontide hours; my mornings are engaged upon
+the hills, or in the garden sacred to Apollo. Here I would most
+willingly pass my days, were I not too near Avignon, and too far from
+Italy. For why should I conceal this weakness of my soul? I love Italy,
+and I hate Avignon. The pestilential influence of this horrid place
+empoisons the pure air of Vaucluse, and will compel me to quit my
+retirement." It is clear that he was not supremely contented in his solitude with his
+self-drawn mental resources. His friends at Avignon came seldom to see
+him. Travelling even short distances was difficult in those days. Even
+we, in the present day, can remember when the distance of fourteen miles
+presented a troublesome journey. The few guests who came, to him could
+not expect very exquisite dinners, cooked by the brown old woman and her
+husband the fisherman; and, though our poet had a garden consecrated to
+Bacchus, he had no cellar devoted to the same deity. His few friends,
+therefore, who visited him, thought their angel visits acts of charity. If he saw his friends seldom, however, he had frequent visitants in
+strangers who came to Vaucluse, as a place long celebrated for its
+natural beauties, and now made illustrious by the character and
+compositions of our poet. Among these there were persons distinguished
+for their rank or learning, who came from the farthest parts of France
+and from Italy, to see and converse with Petrarch. Some of them even
+sent before them considerable presents, which, though kindly meant, were
+not acceptable. Vaucluse is in the diocese of Cavaillon, a small city about two miles
+distant from our poet's retreat. Philip de Cabassoles was the bishop, a
+man of high rank and noble family. His disposition, according to
+Petrarch's usual praise of his friends, was highly benevolent and
+humane; he was well versed in literature, and had distinguished
+abilities. No sooner was the poet settled in his retirement, than he
+visited the Bishop at his palace near Vaucluse. The latter gave him a
+friendly reception, and returned his visits frequently. Another much
+estimated, his friend since their childhood, Guido Sette, also repaired
+at times to his humble mansion, and relieved his solitude in the shut-up
+valley. [G]
+
+Without some daily and constant occupation even the bright mind of
+Petrarch would have rusted, like the finest steel when it is left
+unscoured. But he continued his studies with an ardour that commands our
+wonder and respect; and it was at Vaucluse that he either meditated or
+wrote his most important compositions. Here he undertook a history of
+Rome, from Romulus down to Titus Vespasian. This Herculean task he never
+finished; but there remain two fragments of it, namely, four books, De
+Rebus Memorandis, and another tract entitled Vitarum Virorum Illustrium
+Epitome, being sketches of illustrious men from the founder of Rome down
+to Fabricius. About his poem, Africa, I shall only say for the present that he began
+this Latin epic at Vaucluse, that its hero is his idolized Roman, Scipio
+Africanus, that it gained him a reputation over Europe, and that he was
+much pleased with it himself, but that his admiration of it in time
+cooled down so much, that at last he was annoyed when it was mentioned
+to him, and turned the conversation, if he could, to a different
+subject. Nay, it is probable, that if it had not been for Boccaccio and
+Coluccio Salutati, who, long after he had left Vaucluse, importuned him
+to finish and publish it, his Africa would not have come down to
+posterity. Petrarch alludes in one of his letters to an excursion which he made in
+1338, in company with a man whose rank was above his wisdom. He does not
+name him, but it seems clearly to have been Humbert II., Dauphin of the
+Viennois. The Cardinal Colonna forced our poet into this pilgrimage to
+Baume, famous for its adjacent cavern, where, according to the tradition
+of the country, Mary Magdalen passed thirty years of repentance. In
+that holy but horrible cavern, as Petrarch calls it, they remained three
+days and three nights, though Petrarch sometimes gave his comrades the
+slip, and indulged in rambles among the hills and forests; he composed a
+short poem, however, on St. Mary Magdalen, which is as dull as the cave
+itself. The Dauphin Humbert was not a bright man; but he seems to have
+contracted a friendly familiarity with our poet, if we may judge by a
+letter which Petrarch indited to him about this time, frankly
+reproaching him with his political neutrality in the affairs of Europe. It was supposed that the Cardinal Colonna incited him to write it. A
+struggle that was now impending between France and England engaged all
+Europe on one side or other. The Emperor Lewis had intimated to Humbert
+that he must follow him in this war, he, the Dauphin, being
+arch-seneschal of Arles and Vienne. Next year, the arch-seneschal
+received an invitation from Philip of Valois to join him with his troops
+at Amiens as vassal of France. The Dauphin tried to back out of the
+dilemma between his two suitors by frivolous excuses to both, all the
+time determining to assist neither. In 1338 he came to Avignon, and the
+Pope gave him his palace at the bridge of the Sorgue for his habitation. Here the poor craven, beset on one side by threatening letters from
+Philip of Valois, and on the other by importunities from the French
+party at the papal court, remained in Avignon till July, 1339, after
+Petrarch had let loose upon him his epistolary eloquence. This letter, dated April, 1339, is, according to De Sade's opinion, full
+of powerful persuasion. I cannot say that it strikes me as such. After
+calling Christ to witness that he writes to the Dauphin in the spirit of
+friendship, he reminds him that Europe had never exhibited so mighty and
+interesting a war as that which had now sprung up between the kings of
+France and England, nor one that opened so vast a field of glory for the
+brave. "All the princes and their people," he says, "are anxious about
+its issue, especially those between the Alps and the ocean, who take
+arms at the crash of the neighbouring tumult; whilst you alone go to
+sleep amidst the clouds of the coming storm. To say the truth, if there
+was nothing more than shame to awaken you, it ought to rouse you from
+this lethargy. I had thought you," he continues, "a man desirous of
+glory. You are young and in the strength of life. What, then, in the
+name of God, keeps you inactive? Do you fear fatigue? Remember what
+Sallust says--'Idle enjoyments were made for women, fatigue was made for
+men.' Do you fear death? Death is the last debt we owe to nature, and
+man ought not to fear it; certainly he ought not to fear it more than
+sleep and sluggishness. Aristotle, it is true, calls death the last of
+horrible things; but, mind, he does not call it the most horrible of
+things." In this manner, our poet goes on moralizing on the blessings of
+an early death, and the great advantage that it would have afforded to
+some excellent Roman heroes if they had met with it sooner. The only
+thing like a sensible argument that he urges is, that Humbert could not
+expect to save himself even by neutrality, but must ultimately become
+the prey of the victor, and be punished like the Alban Metius, whom
+Tullus Hostilius caused to be torn asunder by horses that pulled his
+limbs in different directions. The pedantic epistle had no effect on
+Humbert. Meanwhile, Italy had no repose more than the rest of Europe, but its
+troubles gave a happy occasion to Petrarch to see once more his friend,
+Guglielmo Pastrengo, who, in 1338, came to Avignon, from Mastino della
+Scala, lord of Verona. The moment Petrarch heard of his friend's arrival he left his hermitage
+to welcome him; but scarcely had he reached the fatal city when he saw
+the danger of so near an approach to the woman he so madly loved, and
+was aware that he had no escape from the eyes of Laura but by flight. He
+returned, therefore, all of a sudden to Vaucluse, without waiting for a
+sight of Pastrengo. Shortly after he had quitted the house of Laelius,
+where he usually lodged when he went to Avignon, Guglielmo, expecting to
+find him there, knocked at the door, but no one opened it--called out,
+but no one answered him. He therefore wrote him a little billet, saying,
+"My dear Petrarch, where have you hid yourself, and whither have you
+vanished? What is the meaning of all this?" The poet received this note
+at Vaucluse, and sent an explanation of his flight, sincere indeed as to
+good feelings, but prolix as usual in the expression of them. Pastrengo
+sent him a kind reply, and soon afterwards did him the still greater
+favour of visiting him at Vaucluse, and helping him to cultivate his
+garden. Petrarch's flame for Laura was in reality unabated. One day he met her
+in the streets of Avignon; for he had not always resolution enough to
+keep out of the western Babylon. Laura cast a kind look upon him, and
+said, "Petrarch, you are tired of loving me." This incident produced one
+of the finest sonnets, beginning--
+
+          _Io non fut d' amar voi lassato unquanco._
+
+    Tired, did you say, of loving you? Oh, no! I ne'er shall tire of the unwearying flame. But I am weary, kind and cruel dame,
+    With tears that uselessly and ceaseless flow,
+    Scorning myself, and scorn'd by you. I long
+    For death: but let no gravestone hold in view
+    Our names conjoin'd: nor tell my passion strong
+    Upon the dust that glow'd through life for you. And yet this heart of amorous faith demands,
+    Deserves, a better boon; but cruel, hard
+    As is my fortune, I will bless Love's bands
+    For ever, if you give me this reward. In 1339, he composed among other sonnets, those three, the lxii.,
+lxxiv., and lxxv., which are confessedly master-pieces of their kind, as
+well as three canzoni to the eyes of Laura, which the Italians call the
+three sister Graces, and worship as divine. [H] The critic Tassoni
+himself could not censure them, and called them the queens of song. At
+this period, however seldom he may have visited Avignon, he evidently
+sought rather to cherish than subdue his fatal attachment. A celebrated
+painter, Simone Martini of Siena, came to Avignon. He was the pupil of
+Giotto, not exquisite in drawing, but famous for taking spirited
+likenesses. Petrarch persuaded Simone to favour him with a miniature likeness of
+Laura; and this treasure the poet for ever carried about with him. In
+gratitude he addressed two sonnets to the artist, whose fame, great as
+it was, was heightened by the poetical reward. Vasari tells us that
+Simone also painted the pictures of both lovers in the chapel of St.
+Maria Novella at Florence; that Simone was a sculptor as well as a
+painter, and that he copied those pictures in marbles which, according
+to Baldelli, are still extant in the house of the Signore Pruzzi. An anecdote relating to this period of Petrarch's life is given by De
+Sade, which, if accepted with entire credence, must inspire us with
+astonishment at the poet's devotion to his literary pursuits. He had
+now, in 1339, put the first hand to his epic poem, the Scipiade; and one
+of his friends, De Sade believes that it was the Bishop of Lombes,
+fearing lest he might injure his health by overzealous application, went
+to ask him for the key of his library, which the poet gave up. The
+Bishop then locked up his books and papers, and commanded him to abstain
+from reading and writing for ten days. Petrarch obeyed; but on the first
+day of this literary Ramazan, he was seized with ennui, on the second
+with a severe headache, and on the third with symptoms of fever; the
+Bishop relented, and permitted the student to return to his books and
+papers. Petrarch was at this time delighted, in his solitude of Vaucluse, to
+hear of the arrival at Avignon of one of his dearest friends. This was
+Dionisio dal Borgo a San Sepolcro, who, being now advanced in years, had
+resigned his pulpit in the University of Paris, in order to return to
+his native country, and came to Avignon with the intention of going by
+sea to Florence. Petrarch pressed him strongly to visit him at Vaucluse,
+interspersing his persuasion with many compliments to King Robert of
+Naples, to whom he knew that Dionisio was much attached; nor was he
+without hopes that his friend would speak favourably of him to his
+Neapolitan Majesty. In a letter from Vaucluse he says:--"Can nothing
+induce you to come to my solitude? Will not my ardent request, and the
+pity you must have for my condition, bring you to pass some days with
+your old disciple? If these motives are not sufficient, permit me to
+suggest another inducement. There is in this place a poplar-tree of so
+immense a size that it covers with its shade not only the river and its
+banks, but also a considerable extent beyond them. They tell us that
+King Robert of Naples, invited by the beauty of this spot, came hither
+to unburthen his mind from the weight of public affairs, and to enjoy
+himself in the shady retreat." The poet added many eulogies on his
+Majesty of Naples, which, as he anticipated, reached the royal ear. It
+seems not to be clear that Father Dionisio ever visited the poet at
+Vaucluse; though they certainly had an interview at Avignon. To
+Petrarch's misfortune, his friend's stay in that city was very short. The monk proceeded to Florence, but he found there no shady retreat like
+that of the poplar at Vaucluse. Florence was more than ever agitated by
+internal commotions, and was this year afflicted by plague and famine. This dismal state of the city determined Dionisio to accept an
+invitation from King Robert to spend the remainder of his days at his
+court. This monarch had the happiness of giving additional publicity to
+Petrarch's reputation. That the poet sought his patronage need not be
+concealed; and if he used a little flattery in doing so, we must make
+allowance for the adulatory instinct of the tuneful tribe. We cannot
+live without bread upon bare reputation, or on the prospect of having
+tombstones put over our bones, prematurely hurried to the grave by
+hunger, when they shall be as insensible to praise as the stones
+themselves. To speak seriously, I think that a poet sacrifices his
+usefulness to himself and others, and an importance in society which may
+be turned to public good, if he shuns the patronage that can be obtained
+by unparasitical means. Father Dionisio, upon his arrival at Naples, impressed the King with so
+favourable an opinion of Petrarch that Robert wrote a letter to our
+poet, enclosing an epitaph of his Majesty's own composition, on the
+death of his niece Clementina. This letter is unhappily lost; but the
+answer to it is preserved, in which Petrarch tells the monarch that his
+epitaph rendered his niece an object rather of envy than of lamentation. "O happy Clementina!" says the poet, "after passing through a transitory
+life, you have attained a double immortality, one in heaven, and another
+on earth." He then compares the posthumous good fortune of the princess
+to that of Achilles, who had been immortalized by Homer. It is possible
+that King Robert's letter to Petrarch was so laudatory as to require a
+flattering answer. But this reverberated praise is rather overstrained. Petrarch was now intent on obtaining the honour of Poet Laureate. His
+wishes were at length gratified, and in a manner that made the offer
+more flattering than the crown itself. Whilst he still remained at Vaucluse, at nine o'clock in the morning of
+the 1st of September, 1340, he received a letter from the Roman Senate,
+pressingly inviting him to come and receive the crown of Poet Laureate
+at Rome. He must have little notion of a poet's pride and vanity, who
+cannot imagine the flushed countenance, the dilated eyes, and the
+joyously-throbbing heart of Petrarch, whilst he read this letter. To be
+invited by the Senate of Rome to such an honour might excuse him for
+forgetting that Rome was not now what she had once been, and that the
+substantial glory of his appointment was small in comparison with the
+classic associations which formed its halo. As if to keep up the fever of his joy, he received the same day, in the
+afternoon, at four o'clock, another letter with the same offer, from
+Roberto Bardi, Chancellor of the University of Paris, in which he
+importuned him to be crowned as Poet Laureate at Paris. When we consider
+the poet's veneration for Rome, we may easily anticipate that he would
+give the preference to that city. That he might not, however, offend his
+friend Roberto Bardi and the University of Paris, he despatched a
+messenger to Cardinal Colonna, asking his advice upon the subject,
+pretty well knowing that his patron's opinion would coincide with his
+own wishes. The Colonna advised him to be crowned at Rome. The custom of conferring this honour had, for a long time, been
+obsolete. In the earliest classical ages, garlands were given as a
+reward to valour and genius. Virgil exhibits his conquerors adorned with
+them. The Romans adopted the custom from Greece, where leafy honours
+were bestowed on victors at public games. This coronation of poets, it
+is said, ceased under the reign of the Emperor Theodosius. After his
+death, during the long subsequent barbarism of Europe, when literature
+produced only rhyming monks, and when there were no more poets to crown,
+the discontinuance of the practice was a natural consequence. At the commencement of the thirteenth century, according to the Abbe
+Resnel, the universities of Europe began to dispense laurels, not to
+poets, but to students distinguished by their learning. The doctors in
+medicine, at the famous university of Salerno, established by the
+Emperor Frederic II., had crowns of laurel put upon their heads. The
+bachelors also had their laurels, and derived their name from a baculus,
+or stick, which they carried. Cardinal Colonna, as we have said, advised him, "_nothing loth_," to
+enjoy his coronation at Rome. Thither accordingly he repaired early in
+the year 1341. He embarked at Marseilles for Naples, wishing previously
+to his coronation to visit King Robert, by whom he was received with all
+possible hospitality and distinction. Though he had accepted the laurel amidst the general applause of his
+contemporaries, Petrarch was not satisfied that he should enjoy this
+honour without passing through an ordeal as to his learning, for laurels
+and learning had been for one hundred years habitually associated in
+men's minds. The person whom Petrarch selected for his examiner in
+erudition was the King of Naples. Robert _the Good_, as he was in some
+respects deservedly called, was, for his age, a well-instructed man,
+and, for a king, a prodigy. He had also some common sense, but in
+classical knowledge he was more fit to be the scholar of Petrarch than
+his examiner. If Petrarch, however, learned nothing from the King, the
+King learned something from Petrarch. Among the other requisites for
+examining a Poet Laureate which Robert possessed, was _an utter
+ignorance of poetry_. But Petrarch couched his blindness on the subject,
+so that Robert saw, or believed he saw, something useful in the divine
+art. He had heard of the epic poem, Africa, and requested its author to
+recite to him some part of it. The King was charmed with the recitation,
+and requested that the work might be dedicated to him. Petrarch
+assented, but the poem was not finished or published till after King
+Robert's death. His Neapolitan Majesty, after pronouncing a warm eulogy on our poet,
+declared that he merited the laurel, and had letters patent drawn up, by
+which he certified that, after a _severe_ examination (it lasted three
+days), Petrarch was judged worthy to receive that honour in the Capitol. Robert wished him to be crowned at Naples; but our poet represented that
+he was desirous of being distinguished on the same theatre where Virgil
+and Horace had shone. The King accorded with his wishes; and, to
+complete his kindness, regretted that his advanced age would not permit
+him to go to Rome, and crown Petrarch himself. He named, however, one of
+his most eminent courtiers, Barrilli, to be his proxy. Boccaccio speaks
+of Barrilli as a good poet; and Petrarch, with exaggerated politeness,
+compares him to Ovid. When Petrarch went to take leave of King Robert, the sovereign, after
+engaging his promise that he would visit him again very soon, took off
+the robe which he wore that day, and, begging Petrarch's acceptance of
+it, desired that he might wear it on the day of his coronation. He also
+bestowed on him the place of his almoner-general, an office for which
+great interest was always made, on account of the privileges attached to
+it, the principal of which were an exemption from paying the tithes of
+benefices to the King, and a dispensation from residence. Petrarch proceeded to Rome, where he arrived on the 6th of April, 1341,
+accompanied by only one attendant from the court of Naples, for Barrilli
+had taken another route, upon some important business, promising,
+however, to be at Rome before the time appointed. But as he had not
+arrived on the 7th, Petrarch despatched a messenger in search of him,
+who returned without any information. The poet was desirous to wait for
+his arrival; but Orso, Count of Anguillara, would not suffer the
+ceremony to be deferred. Orso was joint senator of Rome with Giordano
+degli Orsini; and, his office expiring on the 8th of April, he was
+unwilling to resign to his successor the pleasure of crowning so great a
+man. [Illustration: NAPLES.] Petrarch was afterwards informed that Barrilli, hastening towards Rome,
+had been beset near Anaguia by robbers, from whom he escaped with
+difficulty, and that he was obliged for safety to return to Naples. In
+leaving that city, Petrarch passed the tomb traditionally said to be
+that of Virgil. His coronation took place without delay after his
+arrival at Rome. The morning of the 8th of April, 1341, was ushered in by the sound of
+trumpets; and the people, ever fond of a show, came from all quarters to
+see the ceremony. Twelve youths selected from the best families of Rome,
+and clothed in scarlet, opened the procession, repeating as they went
+some verses, composed by the poet, in honour of the Roman people. They
+were followed by six citizens of Rome, clothed in green, and bearing
+crowns wreathed with different flowers. Petrarch walked in the midst of
+them; after him came the senator, accompanied by the first men of the
+council. The streets were strewed with flowers, and the windows filled
+with ladies, dressed in the most splendid manner, who showered perfumed
+waters profusely on the poet[I]. He all the time wore the robe that had
+been presented to him by the King of Naples. When they reached the
+Capitol, the trumpets were silent, and Petrarch, having made a short
+speech, in which he quoted a verse from Virgil, cried out three times,
+"Long live the Roman people! long live the Senators! may God preserve
+their liberty!" At the conclusion of these words, he knelt before the
+senator Orso, who, taking a crown of laurel from his own head, placed it
+on that of Petrarch, saying, "This crown is the reward of virtue." The
+poet then repeated a sonnet in praise of the ancient Romans. The people
+testified their approbation by shouts of applause, crying, "Long
+flourish the Capitol and the poet!" The friends of Petrarch shed tears
+of joy, and Stefano Colonna, his favourite hero, addressed the assembly
+in his honour. The ceremony having been finished at the Capitol, the procession, amidst
+the sound of trumpets and the acclamations of the people, repaired
+thence to the church of St. Peter, where Petrarch offered up his crown
+of laurel before the altar. The same day the Count of Anguillara caused
+letters patent to be delivered to Petrarch, in which the senators, after
+a flattering preamble, declared that he had merited the title of a great
+poet and historian; that, to mark his distinction, they had put upon his
+head a laurel crown, not only by the authority of Kong Robert, but by
+that of the Roman Senate and people; and that they gave him, at Rome and
+elsewhere, the privilege to read, to dispute, to explain ancient books,
+to make new ones, to compose poems, and to wear a crown according to his
+choice, either of laurel, beech, or myrtle, as well as the poetic
+habit. At that time a particular dress was affected by the poets. Dante
+was buried in this costume. Petrarch continued only a few days at Rome after his coronation; but he
+had scarcely departed when he found that there were banditti on the road
+waiting for him, and anxious to relieve him of any superfluous wealth
+which he might have about him. He was thus obliged to return to Rome
+with all expedition; but he set out the following day, attended by a
+guard of armed men, and arrived at Pisa on the 20th of April. From Pisa he went to Parma, to see his friend Azzo Correggio, and soon
+after his arrival he was witness to a revolution in that city of which
+Azzo had the principal direction. The Scalas, who held the sovereignty
+of Parma, had for some time oppressed the inhabitants with exorbitant
+taxes, which excited murmurs and seditions. The Correggios, to whom the
+city was entrusted in the absence of Mastino della Scala, profited by
+the public discontent, hoisted the flag of liberty, and, on the 22nd of
+May, 1341, drove out the garrison, and made themselves lords of the
+commonwealth. On this occasion, Azzo has been accused of the worst
+ingratitude to his nephews, Alberto and Mastino. But, if the people were
+oppressed, he was surely justified in rescuing them from misgovernment. To a great degree, also, the conduct of the Correggios sanctioned the
+revolution. They introduced into Parma such a mild and equitable
+administration as the city had never before experienced. Some
+exceptionable acts they undoubtedly committed; and when Petrarch extols
+Azzo as another Cato, it is to be hoped that he did so with some mental
+reservation. Petrarch had proposed to cross the Alps immediately, and
+proceed to Avignon; but he was prevailed upon by the solicitations of
+Azzo to remain some time at Parma. He was consulted by the Correggios on
+their most important affairs, and was admitted to their secret councils. In the present instance, this confidence was peculiarly agreeable to
+him; as the four brothers were, at that time, unanimous in their
+opinions; and their designs were all calculated to promote the welfare
+of their subjects. Soon after his arrival at Parma, he received one of those tokens, of his
+popularity which are exceedingly expressive, though they come from a
+humble admirer. A blind old man, who had been a grammar-school master at
+Pontremoli, came to Parma, in order to pay his devotions to the
+laureate. The poor man had already walked to Naples, guided in his
+blindness by his only son, for the purpose of finding Petrarch. The poet
+had left that city; but King Robert, pleased with his enthusiasm, made
+him a present of some money. The aged pilgrim returned to Pontremoti,
+where, being informed that Petrarch was at Parma, he crossed the
+Apennines, in spite of the severity of the weather, and travelled
+thither, having sent before him a tolerable copy of verses. He was
+presented to Petrarch, whose hand he kissed with devotion and
+exclamations of joy. One day, before many spectators, the blind man said
+to Petrarch, "Sir, I have come far to see you." The bystanders laughed,
+on which the old man replied, "I appeal to you, Petrarch, whether I do
+not see you more clearly and distinctly than these men who have their
+eyesight." Petrarch gave him a kind reception, and dismissed him with a
+considerable present. The pleasure which Petrarch had in retirement, reading, and reflection,
+induced him to hire a house on the outskirts of the city of Parma, with
+a garden, beautifully watered by a stream, a _rus in urbe_, as he calls
+it; and he was so pleased with this locality, that he purchased and
+embellished it. His happiness, however, he tells us, was here embittered by the loss of
+some friends who shared the first place in his affections. One of these
+was Tommaso da Messina, with whom he had formed a friendship when they
+were fellow-students at Bologna, and ever since kept up a familiar
+correspondence. They were of the same age, addicted to the same
+pursuits, and imbued with similar sentiments. Tommaso wrote a volume of
+Latin poems, several of which were published after the invention of
+printing. Petrarch, in his Triumphs of Love, reckons him an excellent
+poet. This loss was followed by another which affected Petrarch still more
+strongly. Having received frequent invitations to Lombes from the
+Bishop, who had resided some time in his diocese, Petrarch looked
+forward with pleasure to the time when he should revisit him. But he
+received accounts that the Bishop was taken dangerously ill. Whilst his
+mind was agitated by this news, he had the following dream, which he has
+himself related. "Methought I saw the Bishop crossing the rivulet of my
+garden alone. I was astonished at this meeting, and asked him whence he
+came, whither he was going in such haste, and why he was alone. He
+smiled upon me with his usual complacency, and said, 'Remember that when
+you were in Gascony the tempestuous climate was insupportable to you. I
+also am tired of it. I have quitted Gascony, never to return, and I am
+going to Rome.' At the conclusion of these words, he had reached the end
+of the garden, and, as I endeavoured to accompany him, he in the kindest
+and gentlest manner waved his hand; but, upon my persevering, he cried
+out in a more peremptory manner, 'Stay! you must not at present attend
+me.' Whilst he spoke these words, I fixed my eyes upon him, and saw the
+paleness of death upon his countenance. Seized with horror, I uttered a
+loud cry, which awoke me. I took notice of the time. I told the
+circumstance to all my friends; and, at the expiration of
+five-and-twenty days, I received accounts of his death, which happened
+in the very same night in winch he had appeared to me." On a little reflection, this incident will not appear to be
+supernatural. That Petrarch, oppressed as he was with anxiety about his
+friend, should fall into fanciful reveries during his sleep, and imagine
+that he saw him in the paleness of death, was nothing wonderful--nay,
+that he should frame this allegory in his dream is equally conceivable. The sleeper's imagination is often a great improvisatore. It forms
+scenes and stories; it puts questions, and answers them itself, all the
+time believing that the responses come from those whom it interrogates. Petrarch, deeply attached to Azzo da Correggio, now began to consider
+himself as settled at Parma, where he enjoyed literary retirement in the
+bosom of his beloved Italy. But he had not resided there a year, when he
+was summoned to Avignon by orders he considered that he could not
+disobey. Tiraboschi, and after him Baldelli, ascribe his return to
+Avignon to the commission which he received in 1342, to go as advocate
+of the Roman people to the new Pope, Clement VI., who had succeeded to
+the tiara on the death of Benedict XII., and Petrarch's own words
+coincide with what they say. The feelings of joy with which Petrarch
+revisited Avignon, though to appearance he had weaned himself from
+Laura, may be imagined. He had friendship, however, if he had not love,
+to welcome him. Here he met, with reciprocal gladness, his friends
+Socrates and Laelius, who had established themselves at the court of the
+Cardinal Colonna. "Socrates," says De Sade, "devoted himself entirely to
+Petrarch, and even went with him to Vaucluse." It thus appears that
+Petrarch had not given up his peculium on the Sorgue, nor had any one
+rented the field and cottage in his absence. Benedict's successor, Clement VI., was conversant with the world, and
+accustomed to the splendour of courts. Quite a contrast to the plain
+rigidity of Benedict, he was courteous and munificent, but withal a
+voluptuary; and his luxury and profusion gave rise to extortions, to
+rapine, and to boundless simony. His artful and arrogant mistress, the
+Countess of Turenne, ruled him so absolutely, that all places in his
+gift, which had escaped the grasp of his relations, were disposed of
+through her interest; and she amassed great wealth by the sale of
+benefices. The Romans applied to Clement VI., as they had applied to Benedict XII.,
+imploring him to bring back the sacred seat to their capital; and they
+selected Petrarch to be among those who should present their
+supplication. Our poet appealed to his Holiness on this subject, both in
+prose and verse. The Pope received him with smiles, complimented him on
+his eloquence, bestowed on him the priory of Migliorino, but, for the
+present, consigned his remonstrance to oblivion. In this mission to Clement at Avignon there was joined with Petrarch the
+famous Nicola Gabrino, better known by the name Cola di Rienzo, who,
+very soon afterwards, attached the history of Rome to his biography. He
+was for the present comparatively little known; but Petrarch, thus
+coming into connection with this extraordinary person, was captivated
+with his eloquence, whilst Clement complimented Rienzo, admitted him
+daily to his presence, and conversed with him on the wretched state of
+Rome, the tyranny of the nobles, and the sufferings of the people. Cola and Petrarch were the two chiefs of this Roman embassy to the Pope;
+and it appears that the poet gave precedency to the future tribune on
+this occasion. They both elaborately exposed the three demands of the
+Roman people, namely, that the Pope, already the acknowledged patron of
+Rome, should assume the title and functions of its senator, in order to
+extinguish the civil wars kindled by the Roman barons; that he should
+return to his pontifical chair on the banks of the Tiber; and that he
+should grant permission for the jubilee, instituted by Boniface VIII.,
+to be held every fifty years, and not at the end of a century, as its
+extension to the latter period went far beyond the ordinary duration of
+human life, and cut off the greater part of the faithful from enjoying
+the institution. Clement praised both orators, and conceded that the Romans should have a
+jubilee every fifty years; but he excused himself from going to Rome,
+alleging that he was prevented by the disputes between France and
+England. "Holy Father," said Petrarch, "how much it were to be wished
+that you had known Italy before you knew France." "I wish I had," said
+the Pontiff, very coldly. Petrarch gave vent to his indignation at the papal court in a writing,
+entitled, "A Book of Letters without a Title," and in several severe
+sonnets. The "Liber Epistolarum sine Titulo" contains, as it is printed
+in his works (Basle edit., 1581), eighteen letters, fulminating as
+freely against papal luxury and corruption as if they had been penned by
+Luther or John Knox. From their contents, we might set down Petrarch as
+the earliest preacher of the Reformation, if there were not, in the
+writings of Dante, some passages of the same stamp. If these epistles
+were really circulated at the time when they were written, it is matter
+of astonishment that Petrarch never suffered from any other flames than
+those of love; for many honest reformers, who have been roasted alive,
+have uttered less anti-papal vituperation than our poet; nor, although
+Petrarch would have been startled at a revolution in the hierarchy, can
+it be doubted that his writings contributed to the Reformation. It must be remembered, at the same time, that he wrote against the
+church government of Avignon, and not that of Rome. He compares Avignon
+with the Assyrian Babylon, with Egypt under the mad tyranny of Cambyses;
+or rather, denies that the latter empires can be held as parallels of
+guilt to the western Babylon; nay, he tells us that neither Avernus nor
+Tartarus can be confronted with this infernal place. "The successors of a troop of fishermen," he says, "have forgotten their
+origin. They are not contented, like the first followers of Christ, who
+gained their livelihood by the Lake of Gennesareth, with modest
+habitations, but they must build themselves splendid palaces, and go
+about covered with gold and purple. They are fishers of men, who catch a
+credulous multitude, and devour them for their prey." This "Liber
+Epistolarum" includes some descriptions of the debaucheries of the
+churchmen, which are too scandalous for translation. They are
+nevertheless curious relics of history. In this year, Gherardo, the brother of our poet, retired, by his advice,
+to the Carthusian monastery of Montrieux, which they had both visited in
+the pilgrimage to Baume three years before. Gherardo had been struck
+down with affliction by the death of a beautiful woman at Avignon, to
+whom he was devoted. Her name and history are quite unknown, but it may
+be hoped, if not conjectured, that she was not married, and could be
+more liberal in her affections than the poet's Laura. Amidst all the incidents of this period of his life, the attachment of
+Petrarch to Laura continued unabated. It appears, too, that, since his
+return from Parma, she treated him with more than wonted complacency. He
+passed the greater part of the year 1342 at Avignon, and went to
+Vaucluse but seldom and for short intervals. In the meantime, love, that makes other people idle, interfered not with
+Petrarch's fondness for study. He found an opportunity of commencing the
+study of Greek, and seized it with avidity. That language had never been
+totally extinct in Italy; but at the time on which we are touching,
+there were not probably six persons in the whole country acquainted with
+it. Dante had quoted Greek authors, but without having known the Greek
+alphabet. The person who favoured Petrarch with this coveted instruction
+was Bernardo Barlaamo, a Calabrian monk, who had been three years before
+at Avignon, having come as envoy from Andronicus, the eastern Emperor,
+on pretext of proposing a union between the Greek and Roman churches,
+but, in reality for the purpose of trying to borrow money from the Pope
+for the Emperor. Some of Petrarch's biographers date his commencement of
+the study of Greek from the period of Barlaamo's first visit to Avignon;
+but I am inclined to postpone it to 1342, when Barlaamo returned to the
+west and settled at Avignon. Petrarch began studying Greek by the
+reading of Plato. He never obtained instruction sufficient to make him a
+good Grecian, but he imbibed much of the spirit of Plato from the labour
+which he bestowed on his works. He was very anxious to continue his
+Greek readings with Barlaamo; but his stay in Avignon was very short;
+and, though it was his interest to detain him as his preceptor,
+Petrarch, finding that he was anxious for a settlement in Italy, helped
+him to obtain the bishopric of Geraci, in Calabria. [Illustration: NICE.] The next year was memorable in our poet's life for the birth of his
+daughter Francesca. That the mother of this daughter was the same who
+presented him with his son John there can be no doubt. Baldelli
+discovers, in one of Petrarch's letters, an obscure allusion to her,
+which seems to indicate that she died suddenly after the birth of
+Francesca, who proved a comfort to her father in his old age. The opening of the year 1343 brought a new loss to Petrarch in the death
+of Robert, King of Naples. Petrarch, as we have seen, had occasion to be
+grateful to this monarch; and we need not doubt that he was much
+affected by the news of his death; but, when we are told that he
+repaired to Vaucluse to bewail his irreparable loss, we may suppose,
+without uncharitableness, that he retired also with a view to study the
+expression of his grief no less than to cherish it. He wrote, however,
+an interesting letter on the occasion to Barbato di Sulmona, in which he
+very sensibly exhibits his fears of the calamities which were likely to
+result from the death of Robert, adding that his mind was seldom true in
+prophecy, unless when it foreboded misfortunes; and his predictions on
+this occasion were but too well verified. Robert was succeeded by his granddaughter Giovanna, a girl of sixteen,
+already married to Andrew of Hungary, her cousin, who was but a few
+months older. Robert by his will had established a council of regency,
+which was to continue until Giovanna arrived at the age of twenty-five. The Pope, however, made objections to this arrangement, alleging that
+the administration of affairs during the Queen's minority devolved upon
+him immediately as lord superior. But, as he did not choose to assert
+his right till he should receive more accurate information respecting
+the state of the kingdom, he gave Petrarch a commission for that
+purpose; and entrusted him with a negotiation of much importance and
+delicacy. Petrarch received an additional commission from the Cardinal Colonna. Several friends of the Colonna family were, at that time, confined in
+prison at Naples, and the Cardinal flattered himself that Petrarch's
+eloquence and intercession would obtain their enlargement. Our poet
+accepted the embassy. He went to Nice, where he embarked; but had nearly
+been lost in his passage. He wrote to Cardinal Colonna the following
+account of his voyage. "I embarked at Nice, the first maritime town in Italy (he means the
+nearest to France). At night I got to Monaco, and the bad weather
+obliged me to pass a whole day there, which by no means put me into
+good-humour. The next morning we re-embarked, and, after being tossed
+all day by the tempest, we arrived very late at Port Maurice. The night
+was dreadful; it was impossible to get to the castle, and I was obliged
+to put up at a little village, where my bed and supper appeared
+tolerable from extreme weariness. I determined to proceed by land; the
+perils of the road appeared less dreadful to me than those by sea. I
+left my servants and baggage in the ship, which set sail, and I remained
+with only one domestic on shore. By accident, upon the coast of Genoa, I
+found some German horses which were for sale; they were strong and
+serviceable. I bought them; but I was soon afterwards obliged to take
+ship again; for war was renewed between the Pisans and the Milanese. Nature has placed limits to these States, the Po on one side, and the
+Apennines on the other. I must have passed between their two armies if I
+had gone by land; this obliged me to re-embark at Lerici. I passed by
+Corvo, that famous rock, the ruins of the city of Luna, and landed at
+Murrona. Thence I went the next day on horseback to Pisa, Siena, and
+Rome. My eagerness to execute your orders has made me a night-traveller,
+contrary to my character and disposition. I would not sleep till I had
+paid my duty to your illustrious father, who is always my hero. I found
+him the same as I left him seven years ago, nay, even as hale and
+sprightly as when I saw him at Avignon, which is now twelve years. What
+a surprising man! What strength of mind and body! How firm his voice! How beautiful his face! Had he been a few years younger, I should have
+taken him for Julius Caesar, or Scipio Africanus. Rome grows old; but not
+its hero. He was half undressed, and going to bed; so I stayed only a
+moment, but I passed the whole of the next day with him. He asked me a
+thousand questions about you, and was much pleased that I was going to
+Naples. When I set out from Rome, he insisted on accompanying me beyond
+the walls. "I reached Palestrina that night, and was kindly received by your nephew
+John. He is a young man of great hopes, and follows the steps of his
+ancestors. "I arrived at Naples the 11th of October. Heavens, what a change has the
+death of one man produced in that place! 

@@ -1,0 +1,1034 @@
+
+
+
+
+Produced by Juliet Sutherland, Jayam Subramanian and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+
+
+  EVERYMAN'S LIBRARY
+  EDITED BY ERNEST RHYS
+
+
+
+
+
+  POETRY AND THE DRAMA
+
+
+
+
+
+  KALIDASA
+  TRANSLATIONS OF SHAKUNTALA & OTHER WORKS
+
+
+  BY ARTHUR W. RYDER
+
+
+
+
+  THIS IS NO. 629 OF _EVERYMAN'S
+  LIBRARY_. THE PUBLISHERS WILL
+  BE PLEASED TO SEND FREELY TO ALL
+  APPLICANTS A LIST OF THE PUBLISHED
+  AND PROJECTED VOLUMES ARRANGED
+  UNDER THE FOLLOWING SECTIONS:
+
+
+
+
+
+
+  TRAVEL . SCIENCE . FICTION
+  THEOLOGY & PHILOSOPHY
+  HISTORY . CLASSICAL
+  FOR YOUNG PEOPLE
+  ESSAYS . ORATORY
+  POETRY & DRAMA
+  BIOGRAPHY
+  REFERENCE
+  ROMANCE
+
+
+  THE ORDINARY EDITION IS BOUND
+  IN CLOTH WITH GILT DESIGN AND
+  COLOURED TOP. THERE IS ALSO A
+  LIBRARY EDITION IN REINFORCED CLOTH
+
+  LONDON: J.M. DENT & SONS LTD.
+  NEW YORK: E.P. DUTTON & CO.
+
+
+
+  [Illustration:
+  KALIDASA
+  TRANSLATIONS
+  _of_ SHAKUNTALA
+  AND OTHER
+  WORKS, BY
+  ARTHUR. W.
+  RYDER. UNIVERSITY
+  _of_ CALIFORNIA
+
+  LONDON & TORONTO
+  PUBLISHED BY J.M. DENT
+  &. SONS LTD & IN NEW YORK
+  BY E.P. DUTTON &. CO]
+
+
+ [Illustration: #Poets are the trumpets which sing to battle
+  poets are the unacknowledged legislators of the world# Shelley]
+
+
+  FIRST ISSUE OF THIS EDITION 1912
+  REPRINTED 1920, 1928
+
+  PRINTED IN GREAT BRITAIN
+
+
+
+
+INTRODUCTION
+
+KALIDASA--HIS LIFE AND WRITINGS
+
+
+I
+
+Kalidasa probably lived in the fifth century of the Christian era. This date, approximate as it is, must yet be given with considerable
+hesitation, and is by no means certain. No truly biographical data are
+preserved about the author, who nevertheless enjoyed a great
+popularity during his life, and whom the Hindus have ever regarded as
+the greatest of Sanskrit poets. We are thus confronted with one of the
+remarkable problems of literary history. For our ignorance is not due
+to neglect of Kalidasa's writings on the part of his countrymen, but
+to their strange blindness in regard to the interest and importance of
+historic fact. No European nation can compare with India in critical
+devotion to its own literature. During a period to be reckoned not by
+centuries but by millenniums, there has been in India an unbroken line
+of savants unselfishly dedicated to the perpetuation and exegesis of
+the native masterpieces. Editions, recensions, commentaries abound;
+poets have sought the exact phrase of appreciation for their
+predecessors: yet when we seek to reconstruct the life of their
+greatest poet, we have no materials except certain tantalising
+legends, and such data as we can gather from the writings of a man who
+hardly mentions himself. One of these legends deserves to be recounted for its intrinsic
+interest, although it contains, so far as we can see, no grain of
+historic truth, and although it places Kalidasa in Benares, five
+hundred miles distant from the only city in which we certainly know
+that he spent a part of his life. According to this account, Kalidasa
+was a Brahman's child. At the age of six months he was left an orphan
+and was adopted by an ox-driver. He grew to manhood without formal
+education, yet with remarkable beauty and grace of manner. Now it
+happened that the Princess of Benares was a blue-stocking, who
+rejected one suitor after another, among them her father's counsellor,
+because they failed to reach her standard as scholars and poets. The
+rejected counsellor planned a cruel revenge. He took the handsome
+ox-driver from the street, gave him the garments of a savant and a
+retinue of learned doctors, then introduced him to the princess, after
+warning him that he was under no circumstances to open his lips. The
+princess was struck with his beauty and smitten to the depths of her
+pedantic soul by his obstinate silence, which seemed to her, as indeed
+it was, an evidence of profound wisdom. She desired to marry Kalidasa,
+and together they went to the temple. But no sooner was the ceremony
+performed than Kalidasa perceived an image of a bull. His early
+training was too much for him; the secret came out, and the bride was
+furious. But she relented in response to Kalidasa's entreaties, and
+advised him to pray for learning and poetry to the goddess Kali. The
+prayer was granted; education and poetical power descended
+miraculously to dwell with the young ox-driver, who in gratitude
+assumed the name Kalidasa, servant of Kali. Feeling that he owed this
+happy change in his very nature to his princess, he swore that he
+would ever treat her as his teacher, with profound respect but without
+familiarity. This was more than the lady had bargained for; her anger
+burst forth anew, and she cursed Kalidasa to meet his death at the
+hands of a woman. At a later date, the story continues, this curse was
+fulfilled. A certain king had written a half-stanza of verse, and had
+offered a large reward to any poet who could worthily complete it. Kalidasa completed the stanza without difficulty; but a woman whom he
+loved discovered his lines, and greedy of the reward herself, killed
+him. Another legend represents Kalidasa as engaging in a pilgrimage to a
+shrine of Vishnu in Southern India, in company with two other famous
+writers, Bhavabhuti and Dandin. Yet another pictures Bhavabhuti as a
+contemporary of Kalidasa, and jealous of the less austere poet's
+reputation. These stories must be untrue, for it is certain that the
+three authors were not contemporary, yet they show a true instinct in
+the belief that genius seeks genius, and is rarely isolated. This instinctive belief has been at work with the stories which
+connect Kalidasa with King Vikramaditya and the literary figures of
+his court. It has doubtless enlarged, perhaps partly falsified the
+facts; yet we cannot doubt that there is truth in this tradition, late
+though it be, and impossible though it may ever be to separate the
+actual from the fanciful. Here then we are on firmer ground. King Vikramaditya ruled in the city of Ujjain, in West-central India. He was mighty both in war and in peace, winning especial glory by a
+decisive victory over the barbarians who pressed into India through
+the northern passes. Though it has not proved possible to identify
+this monarch with any of the known rulers, there can be no doubt that
+he existed and had the character attributed to him. The name
+Vikramaditya--Sun of Valour--is probably not a proper name, but a
+title like Pharaoh or Tsar. No doubt Kalidasa intended to pay a
+tribute to his patron, the Sun of Valour, in the very title of his
+play, _Urvashi won by Valour_. King Vikramaditya was a great patron of learning and of poetry. Ujjain
+during his reign was the most brilliant capital in the world, nor has
+it to this day lost all the lustre shed upon it by that splendid
+court. Among the eminent men gathered there, nine were particularly
+distinguished, and these nine are known as the "nine gems." Some of
+the nine gems were poets, others represented science--astronomy,
+medicine, lexicography. It is quite true that the details of this late
+tradition concerning the nine gems are open to suspicion, yet the
+central fact is not doubtful: that there was at this time and place a
+great quickening of the human mind, an artistic impulse creating works
+that cannot perish. Ujjain in the days of Vikramaditya stands worthily
+beside Athens, Rome, Florence, and London in their great centuries. Here is the substantial fact behind Max Mueller's often ridiculed
+theory of the renaissance of Sanskrit literature. It is quite false to
+suppose, as some appear to do, that this theory has been invalidated
+by the discovery of certain literary products which antedate
+Kalidasa. It might even be said that those rare and happy centuries
+that see a man as great as Homer or Vergil or Kalidasa or Shakespeare
+partake in that one man of a renaissance. It is interesting to observe that the centuries of intellectual
+darkness in Europe have sometimes coincided with centuries of light in
+India. The Vedas were composed for the most part before Homer;
+Kalidasa and his contemporaries lived while Rome was tottering under
+barbarian assault. To the scanty and uncertain data of late traditions may be added some
+information about Kalidasa's life gathered from his own writings. He
+mentions his own name only in the prologues to his three plays, and
+here with a modesty that is charming indeed, yet tantalising. One
+wishes for a portion of the communicativeness that characterises some
+of the Indian poets. He speaks in the first person only once, in the
+verses introductory to his epic poem _The Dynasty of Raghu_[1]. Here also we feel his modesty, and here once more we are balked of
+details as to his life. We know from Kalidasa's writings that he spent at least a part of his
+life in the city of Ujjain. He refers to Ujjain more than once, and in
+a manner hardly possible to one who did not know and love the city. Especially in his poem _The Cloud-Messenger_ does he dwell upon the
+city's charms, and even bids the cloud make a detour in his long
+journey lest he should miss making its acquaintance. [2]
+
+We learn further that Kalidasa travelled widely in India. The fourth
+canto of _The Dynasty of Raghu_ describes a tour about the whole of
+India and even into regions which are beyond the borders of a narrowly
+measured India. It is hard to believe that Kalidasa had not himself
+made such a "grand tour"; so much of truth there may be in the
+tradition which sends him on a pilgrimage to Southern India. The
+thirteenth canto of the same epic and _The Cloud-Messenger_ also
+describe long journeys over India, for the most part through regions
+far from Ujjain. It is the mountains which impress him most deeply. His works are full of the Himalayas. Apart from his earliest drama
+and the slight poem called _The Seasons_, there is not one of them
+which is not fairly redolent of mountains. One, _The Birth of the
+War-god_, might be said to be all mountains. Nor was it only Himalayan
+grandeur and sublimity which attracted him; for, as a Hindu critic has
+acutely observed, he is the only Sanskrit poet who has described a
+certain flower that grows in Kashmir. The sea interested him less. To
+him, as to most Hindus, the ocean was a beautiful, terrible barrier,
+not a highway to adventure. The "sea-belted earth" of which Kalidasa
+speaks means to him the mainland of India. Another conclusion that may be certainly drawn from Kalidasa's writing
+is this, that he was a man of sound and rather extensive education. He
+was not indeed a prodigy of learning, like Bhavabhuti in his own
+country or Milton in England, yet no man could write as he did without
+hard and intelligent study. To begin with, he had a minutely accurate
+knowledge of the Sanskrit language, at a time when Sanskrit was to
+some extent an artificial tongue. Somewhat too much stress is often
+laid upon this point, as if the writers of the classical period in
+India were composing in a foreign language. Every writer, especially
+every poet, composing in any language, writes in what may be called a
+strange idiom; that is, he does not write as he talks. Yet it is true
+that the gap between written language and vernacular was wider in
+Kalidasa's day than it has often been. The Hindus themselves regard
+twelve years' study as requisite for the mastery of the "chief of all
+sciences, the science of grammar." That Kalidasa had mastered this
+science his works bear abundant witness. He likewise mastered the works on rhetoric and dramatic
+theory--subjects which Hindu savants have treated with great, if
+sometimes hair-splitting, ingenuity. The profound and subtle systems
+of philosophy were also possessed by Kalidasa, and he had some
+knowledge of astronomy and law. But it was not only in written books that Kalidasa was deeply read. Rarely has a man walked our earth who observed the phenomena of living
+nature as accurately as he, though his accuracy was of course that of
+the poet, not that of the scientist. Much is lost to us who grow up
+among other animals and plants; yet we can appreciate his "bee-black
+hair," his ashoka-tree that "sheds his blossoms in a rain of tears,"
+his river wearing a sombre veil of mist:
+
+  Although her reeds seem hands that clutch the dress
+  To hide her charms;
+
+his picture of the day-blooming water-lily at sunset:
+
+  The water-lily closes, but
+    With wonderful reluctancy;
+  As if it troubled her to shut
+    Her door of welcome to the bee. The religion of any great poet is always a matter of interest,
+especially the religion of a Hindu poet; for the Hindus have ever been
+a deeply and creatively religious people. So far as we can judge,
+Kalidasa moved among the jarring sects with sympathy for all,
+fanaticism for none. The dedicatory prayers that introduce his dramas
+are addressed to Shiva. This is hardly more than a convention, for
+Shiva is the patron of literature. If one of his epics, _The Birth of
+the War-god_, is distinctively Shivaistic, the other, _The Dynasty of
+Raghu_, is no less Vishnuite in tendency. If the hymn to Vishnu in
+_The Dynasty of Raghu_ is an expression of Vedantic monism, the hymn
+to Brahma in _The Birth of the War-god_ gives equally clear expression
+to the rival dualism of the Sankhya system. Nor are the Yoga doctrine
+and Buddhism left without sympathetic mention. We are therefore
+justified in concluding that Kalidasa was, in matters of religion,
+what William James would call "healthy-minded," emphatically not a
+"sick soul." There are certain other impressions of Kalidasa's life and personality
+which gradually become convictions in the mind of one who reads and
+re-reads his poetry, though they are less easily susceptible of exact
+proof. One feels certain that he was physically handsome, and the
+handsome Hindu is a wonderfully fine type of manhood. One knows that
+he possessed a fascination for women, as they in turn fascinated him. One knows that children loved him. One becomes convinced that he never
+suffered any morbid, soul-shaking experience such as besetting
+religious doubt brings with it, or the pangs of despised love; that
+on the contrary he moved among men and women with a serene and godlike
+tread, neither self-indulgent nor ascetic, with mind and senses ever
+alert to every form of beauty. We know that his poetry was popular
+while he lived, and we cannot doubt that his personality was equally
+attractive, though it is probable that no contemporary knew the full
+measure of his greatness. For his nature was one of singular balance,
+equally at home in a splendid court and on a lonely mountain, with men
+of high and of low degree. Such men are never fully appreciated during
+life. They continue to grow after they are dead. II
+
+Kalidasa left seven works which have come down to us: three dramas,
+two epics, one elegiac poem, and one descriptive poem. Many other
+works, including even an astronomical treatise, have been attributed
+to him; they are certainly not his. Perhaps there was more than one
+author who bore the name Kalidasa; perhaps certain later writers were
+more concerned for their work than for personal fame. On the other
+hand, there is no reason to doubt that the seven recognised works are
+in truth from Kalidasa's hand. The only one concerning which there is
+reasonable room for suspicion is the short poem descriptive of the
+seasons, and this is fortunately the least important of the seven. Nor
+is there evidence to show that any considerable poem has been lost,
+unless it be true that the concluding cantos of one of the epics have
+perished. We are thus in a fortunate position in reading Kalidasa: we
+have substantially all that he wrote, and run no risk of ascribing to
+him any considerable work from another hand. Of these seven works, four are poetry throughout; the three dramas,
+like all Sanskrit dramas, are written in prose, with a generous
+mingling of lyric and descriptive stanzas. The poetry, even in the
+epics, is stanzaic; no part of it can fairly be compared to English
+blank verse. Classical Sanskrit verse, so far as structure is
+concerned, has much in common with familiar Greek and Latin forms:
+it makes no systematic use of rhyme; it depends for its rhythm not
+upon accent, but upon quantity. The natural medium of translation into
+English seems to me to be the rhymed stanza;[3] in the present work
+the rhymed stanza has been used, with a consistency perhaps too rigid,
+wherever the original is in verse. Kalidasa's three dramas bear the names: _Malavika and Agnimitra,
+Urvashi_, and _Shakuntala_. The two epics are _The Dynasty of Raghu_
+and _The Birth of the War-god_. The elegiac poem is called _The
+Cloud-Messenger_, and the descriptive poem is entitled _The Seasons_. It may be well to state briefly the more salient features of the
+Sanskrit _genres_ to which these works belong. The drama proved in India, as in other countries, a congenial form to
+many of the most eminent poets. The Indian drama has a marked
+individuality, but stands nearer to the modern European theatre than
+to that of ancient Greece; for the plays, with a very few exceptions,
+have no religious significance, and deal with love between man and
+woman. Although tragic elements may be present, a tragic ending is
+forbidden. Indeed, nothing regarded as disagreeable, such as fighting
+or even kissing, is permitted on the stage; here Europe may perhaps
+learn a lesson in taste. Stage properties were few and simple, while
+particular care was lavished on the music. The female parts were
+played by women. The plays very rarely have long monologues, even the
+inevitable prologue being divided between two speakers, but a Hindu
+audience was tolerant of lyrical digression. It may be said, though the statement needs qualification in both
+directions, that the Indian dramas have less action and less
+individuality in the characters, but more poetical charm than the
+dramas of modern Europe. On the whole, Kalidasa was remarkably faithful to the ingenious but
+somewhat over-elaborate conventions of Indian dramaturgy. His first
+play, the _Malavika and Agnimitra_, is entirely conventional in plot. The _Shakuntala_ is transfigured by the character of the heroine. The
+_Urvashi_, in spite of detail beauty, marks a distinct decline. _The Dynasty of Raghu_ and _The Birth of the War-god_ belong to a
+species of composition which it is not easy to name accurately. The
+Hindu name _kavya_ has been rendered by artificial epic, _epopee
+savante, Kunstgedicht_. It is best perhaps to use the term epic, and
+to qualify the term by explanation. The _kavyas_ differ widely from the _Mahabharata_ and the _Ramayana_,
+epics which resemble the _Iliad_ and _Odyssey_ less in outward form
+than in their character as truly national poems. The _kavya_ is a
+narrative poem written in a sophisticated age by a learned poet, who
+possesses all the resources of an elaborate rhetoric and metric. The
+subject is drawn from time-honoured mythology. The poem is divided
+into cantos, written not in blank verse but in stanzas. Several
+stanza-forms are commonly employed in the same poem, though not in the
+same canto, except that the concluding verses of a canto are not
+infrequently written in a metre of more compass than the remainder. I have called _The Cloud-Messenger_ an elegiac poem, though it would
+not perhaps meet the test of a rigid definition. The Hindus class it
+with _The Dynasty of Raghu_ and _The Birth of the War-god_ as a
+_kavya_, but this classification simply evidences their embarrassment. In fact, Kalidasa created in _The Cloud-Messenger_ a new _genre_. No
+further explanation is needed here, as the entire poem is translated
+below. The short descriptive poem called _The Seasons_ has abundant analogues
+in other literatures, and requires no comment. It is not possible to fix the chronology of Kalidasa's writings, yet
+we are not wholly in the dark. _Malavika and Agnimitra_ was certainly
+his first drama, almost certainly his first work. It is a reasonable
+conjecture, though nothing more, that Urvashi was written late, when
+the poet's powers were waning. The introductory stanzas of _The
+Dynasty of Raghu_ suggest that this epic was written before _The Birth
+of the War-god_, though the inference is far from certain. Again, it
+is reasonable to assume that the great works on which Kalidasa's fame
+chiefly rests--_Shakuntala_, _The Cloud-Messenger_, _The Dynasty of
+Raghu_, the first eight cantos of _The Birth of the War-god_--were
+composed when he was in the prime of manhood. But as to the succession
+of these four works we can do little but guess. Kalidasa's glory depends primarily upon the quality of his work, yet
+would be much diminished if he had failed in bulk and variety. In
+India, more than would be the case in Europe, the extent of his
+writing is an indication of originality and power; for the poets of
+the classical period underwent an education that encouraged an
+exaggerated fastidiousness, and they wrote for a public meticulously
+critical. Thus the great Bhavabhuti spent his life in constructing
+three dramas; mighty spirit though he was, he yet suffers from the
+very scrupulosity of his labour. In this matter, as in others,
+Kalidasa preserves his intellectual balance and his spiritual
+initiative: what greatness of soul is required for this, every one
+knows who has ever had the misfortune to differ in opinion from an
+intellectual clique. III
+
+Le nom de Kalidasa domine la poesie indienne et la resume brillamment. Le drame, l'epopee savante, l'elegie attestent aujourd'hui encore la
+puissance et la souplesse de ce magnifique genie; seul entre les
+disciples de Sarasvati [the goddess of eloquence], il a eu le bonheur
+de produire un chef-d'oeuvre vraiment classique, ou l'Inde s'admire et
+ou l'humanite se reconnait. Les applaudissements qui saluerent la
+naissance de Cakuntala a Ujjayini ont apres de longs siecles eclate
+d'un bout du monde a l'autre, quand William Jones l'eut revelee a
+l'Occident. Kalidasa a marque sa place dans cette pleiade etincelante
+ou chaque nom resume une periode de l'esprit humain. La serie de ces
+noms forme l'histoire, ou plutot elle est l'histoire meme. [4]
+
+It is hardly possible to say anything true about Kalidasa's
+achievement which is not already contained in this appreciation. Yet
+one loves to expand the praise, even though realising that the critic
+is by his very nature a fool. Here there shall at any rate be none
+of that cold-blooded criticism which imagines itself set above a
+world-author to appraise and judge, but a generous tribute of
+affectionate admiration. The best proof of a poet's greatness is the inability of men to live
+without him; in other words, his power to win and hold through
+centuries the love and admiration of his own people, especially when
+that people has shown itself capable of high intellectual and
+spiritual achievement. For something like fifteen hundred years, Kalidasa has been more
+widely read in India than any other author who wrote in Sanskrit. There have also been many attempts to express in words the secret of
+his abiding power: such attempts can never be wholly successful, yet
+they are not without considerable interest. Thus Bana, a celebrated
+novelist of the seventh century, has the following lines in some
+stanzas of poetical criticism which he prefixes to a historical
+romance:
+
+  Where find a soul that does not thrill
+    In Kalidasa's verse to meet
+  The smooth, inevitable lines
+    Like blossom-clusters, honey-sweet? A later writer, speaking of Kalidasa and another poet, is more laconic
+in this alliterative line: _Bhaso hasah, Kalidaso vilasah_--Bhasa is
+mirth, Kalidasa is grace. These two critics see Kalidasa's grace, his sweetness, his delicate
+taste, without doing justice to the massive quality without which his
+poetry could not have survived. Though Kalidasa has not been as widely appreciated in Europe as he
+deserves, he is the only Sanskrit poet who can properly be said to
+have been appreciated at all. Here he must struggle with the truly
+Himalayan barrier of language. Since there will never be many
+Europeans, even among the cultivated, who will find it possible to
+study the intricate Sanskrit language, there remains only one means of
+presentation. None knows the cruel inadequacy of poetical translation
+like the translator. He understands better than others can, the
+significance of the position which Kalidasa has won in Europe. When
+Sir William Jones first translated the _Shakuntala_ in 1789, his work
+was enthusiastically received in Europe, and most warmly, as was
+fitting, by the greatest living poet of Europe. Since that day, as
+is testified by new translations and by reprints of the old, there
+have been many thousands who have read at least one of Kalidasa's
+works; other thousands have seen it on the stage in Europe and
+America. How explain a reputation that maintains itself indefinitely and that
+conquers a new continent after a lapse of thirteen hundred years? None
+can explain it, yet certain contributory causes can be named. No other poet in any land has sung of happy love between man and woman
+as Kalidasa sang. Every one of his works is a love-poem, however much
+more it may be. Yet the theme is so infinitely varied that the reader
+never wearies. If one were to doubt from a study of European
+literature, comparing the ancient classics with modern works, whether
+romantic love be the expression of a natural instinct, be not rather a
+morbid survival of decaying chivalry, he has only to turn to India's
+independently growing literature to find the question settled. Kalidasa's love-poetry rings as true in our ears as it did in his
+countrymen's ears fifteen hundred years ago. It is of love eventually happy, though often struggling for a time
+against external obstacles, that Kalidasa writes. There is nowhere in
+his works a trace of that not quite healthy feeling that sometimes
+assumes the name "modern love." If it were not so, his poetry could
+hardly have survived; for happy love, blessed with children, is surely
+the more fundamental thing. In his drama _Urvashi_ he is ready to
+change and greatly injure a tragic story, given him by long tradition,
+in order that a loving pair may not be permanently separated. One
+apparent exception there is--the story of Rama and Sita in _The
+Dynasty of Raghu_. In this case it must be remembered that Rama is an
+incarnation of Vishnu, and the story of a mighty god incarnate is not
+to be lightly tampered with. It is perhaps an inevitable consequence of Kalidasa's subject that his
+women appeal more strongly to a modern reader than his men. The man is
+the more variable phenomenon, and though manly virtues are the same in
+all countries and centuries, the emphasis has been variously laid. But
+the true woman seems timeless, universal. I know of no poet, unless it
+be Shakespeare, who has given the world a group of heroines so
+individual yet so universal; heroines as true, as tender, as brave as
+are Indumati, Sita, Parvati, the Yaksha's bride, and Shakuntala. Kalidasa could not understand women without understanding children. It
+would be difficult to find anywhere lovelier pictures of childhood
+than those in which our poet presents the little Bharata, Ayus, Raghu,
+Kumara. It is a fact worth noticing that Kalidasa's children are all
+boys. Beautiful as his women are, he never does more than glance at a
+little girl. Another pervading note of Kalidasa's writing is his love of external
+nature. No doubt it is easier for a Hindu, with his almost instinctive
+belief in reincarnation, to feel that all life, from plant to god, is
+truly one; yet none, even among the Hindus, has expressed this feeling
+with such convincing beauty as has Kalidasa. It is hardly true to say
+that he personifies rivers and mountains and trees; to him they have a
+conscious individuality as truly and as certainly as animals or men or
+gods. Fully to appreciate Kalidasa's poetry one must have spent some
+weeks at least among wild mountains and forests untouched by man;
+there the conviction grows that trees and flowers are indeed
+individuals, fully conscious of a personal life and happy in that
+life. The return to urban surroundings makes the vision fade; yet the
+memory remains, like a great love or a glimpse of mystic insight, as
+an intuitive conviction of a higher truth. Kalidasa's knowledge of nature is not only sympathetic, it is also
+minutely accurate. Not only are the snows and windy music of the
+Himalayas, the mighty current of the sacred Ganges, his possession;
+his too are smaller streams and trees and every littlest flower. It is
+delightful to imagine a meeting between Kalidasa and Darwin. They
+would have understood each other perfectly; for in each the same kind
+of imagination worked with the same wealth of observed fact. I have already hinted at the wonderful balance in Kalidasa's
+character, by virtue of which he found himself equally at home in a
+palace and in a wilderness. I know not with whom to compare him in
+this; even Shakespeare, for all his magical insight into natural
+beauty, is primarily a poet of the human heart. That can hardly be
+said of Kalidasa, nor can it be said that he is primarily a poet of
+natural beauty. The two characters unite in him, it might almost be
+said, chemically. The matter which I am clumsily endeavouring to make
+plain is beautifully epitomised in _The Cloud-Messenger_. The former
+half is a description of external nature, yet interwoven with human
+feeling; the latter half is a picture of a human heart, yet the
+picture is framed in natural beauty. So exquisitely is the thing done
+that none can say which half is superior. Of those who read this
+perfect poem in the original text, some are more moved by the one,
+some by the other. Kalidasa understood in the fifth century what
+Europe did not learn until the nineteenth, and even now comprehends
+only imperfectly: that the world was not made for man, that man
+reaches his full stature only as he realises the dignity and worth of
+life that is not human. That Kalidasa seized this truth is a magnificent tribute to his
+intellectual power, a quality quite as necessary to great poetry as
+perfection of form. Poetical fluency is not rare; intellectual grasp
+is not very uncommon: but the combination has not been found perhaps
+more than a dozen times since the world began. Because he possessed
+this harmonious combination, Kalidasa ranks not with Anacreon and
+Horace and Shelley, but with Sophocles, Vergil, Milton. He would doubtless have been somewhat bewildered by Wordsworth's
+gospel of nature. "The world is too much with us," we can fancy him
+repeating. "How can the world, the beautiful human world, be too much
+with us? How can sympathy with one form of life do other than vivify
+our sympathy with other forms of life?" It remains to say what can be said in a foreign language of Kalidasa's
+style. We have seen that he had a formal and systematic education; in
+this respect he is rather to be compared with Milton and Tennyson than
+with Shakespeare or Burns. He was completely master of his learning. In an age and a country which reprobated carelessness but were
+tolerant of pedantry, he held the scales with a wonderfully even hand,
+never heedless and never indulging in the elaborate trifling with
+Sanskrit diction which repels the reader from much of Indian
+literature. It is true that some western critics have spoken of his
+disfiguring conceits and puerile plays on words. One can only wonder
+whether these critics have ever read Elizabethan literature; for
+Kalidasa's style is far less obnoxious to such condemnation than
+Shakespeare's. That he had a rich and glowing imagination, "excelling
+in metaphor," as the Hindus themselves affirm, is indeed true; that he
+may, both in youth and age, have written lines which would not have
+passed his scrutiny in the vigour of manhood, it is not worth while to
+deny: yet the total effect left by his poetry is one of extraordinary
+sureness and delicacy of taste. This is scarcely a matter for
+argument; a reader can do no more than state his own subjective
+impression, though he is glad to find that impression confirmed by the
+unanimous authority of fifty generations of Hindus, surely the most
+competent judges on such a point. Analysis of Kalidasa's writings might easily be continued, but
+analysis can never explain life. The only real criticism is
+subjective. We know that Kalidasa is a very great poet, because the
+world has not been able to leave him alone. ARTHUR W. RYDER. SELECT BIBLIOGRAPHY
+
+
+On Kalidasa's life and writings may be consulted A.A. Macdonell's
+_History of Sanskrit Literature_ (1900); the same author's article
+"Kalidasa" in the eleventh edition of the _Encyclopaedia Britannica_
+(1910); and Sylvain Levi's _Le Theatre Indien_ (1890). The more important translations in English are the following: of the
+_Shakuntala_, by Sir William Jones (1789) and Monier Williams (fifth
+edition, 1887); of the _Urvashi_, by H.H. Wilson (in his _Select
+Specimens of the Theatre of the Hindus_, third edition, 1871); of _The
+Dynasty of Raghu_, by P. de Lacy Johnstone (1902); of _The Birth of
+The War-god_ (cantos one to seven), by Ralph T.H. Griffith (second
+edition, 1879); of _The Cloud-Messenger_, by H.H. Wilson (1813). There is an inexpensive reprint of Jones's _Shakuntala_ and Wilson's
+_Cloud-Messenger_ in one volume in the Camelot Series. KALIDASA
+
+  An ancient heathen poet, loving more
+  God's creatures, and His women, and His flowers
+  Than we who boast of consecrated powers;
+  Still lavishing his unexhausted store
+
+  Of love's deep, simple wisdom, healing o'er
+  The world's old sorrows, India's griefs and ours;
+  That healing love he found in palace towers,
+  On mountain, plain, and dark, sea-belted shore,
+
+  In songs of holy Raghu's kingly line
+  Or sweet Shakuntala in pious grove,
+  In hearts that met where starry jasmines twine
+
+  Or hearts that from long, lovelorn absence strove
+  Together. Still his words of wisdom shine:
+  All's well with man, when man and woman love. Willst du die Bluete des fruehen, die
+    Fruechte des spaeteren Jahres,
+  Willst du, was reizt und entzueckt,
+    Willst du, was saettigt und naehrt,
+  Willst du den Hummel, die erde mit
+    Einem Namen begreifen,
+  Nenn' ich, Sakuntala, dich, und
+    dann ist alles gesagt. GOETHE. *       *       *       *       *
+
+
+FOOTNOTES:
+
+[Footnote 1: These verses are translated on pp. 123, 124.] [Footnote 2: The passage will be found on pp. 190-192.] [Footnote 3: This matter is more fully discussed in the introduction to my
+translation of _The Little Clay Cart_ (1905).] [Footnote 4: Levi, _Le Theatre Indien_, p. 163.] *       *       *       *       *
+
+
+
+
+CONTENTS
+
+
+
+INTRODUCTION: KALIDASA--HIS LIFE AND WRITINGS
+
+SHAKUNTALA
+
+THE STORY OF SHAKUNTALA
+
+THE TWO MINOR DRAMAS--
+  I. Malavika and Agnimitra
+  II. Urvashi
+
+THE DYNASTY OF RAGHU
+
+THE BIRTH OF THE WAR-GOD
+
+THE CLOUD-MESSENGER
+
+THE SEASONS
+
+       *       *       *       *       *
+
+
+
+
+SHAKUNTALA
+
+A PLAY IN SEVEN ACTS
+
+
+
+DRAMATIS PERSONAE
+
+
+  KING DUSHYANTA. BHARATA, _nicknamed_ All-tamer, _his son_. MADHAVYA, _a clown, his companion_. His charioteer. RAIVATAKA, _a door-keeper_. BHADRASENA, _a general_. KARABHAKA, _a servant_. PARVATAYANA, _a chamberlain_. SOMARATA, _a chaplain_. KANVA, _hermit-father_. SHARNGARAVA   }
+
+  SHARADVATA    } _his pupils_. HARITA        }
+
+
+  DURVASAS, _an irascible sage_. The chief of police. SUCHAKA     }
+              } _policemen_. JANUKA      }
+
+
+  A fisherman. SHAKUNTALA, _foster-child of Kanva_. ANUSUVA       }
+                } _her friends_. PRIYAMVADA    }
+
+
+  GAUTAMI, _hermit-mother_. KASHYAPA, _father of the gods_. ADITI, _mother of the gods_. MATALI, _charioteer of heaven's king_. GALAVA, _a pupil in heaven_. MISHRAKESHI, _a heavenly nymph_. _Stage-director and actress (in the prologue), hermits and
+hermit-women, two court poets, palace attendants, invisible fairies_. The first four acts pass in Kanva's forest hermitage; acts five and
+six in the king's palace; act seven on a heavenly mountain. The time
+is perhaps seven years. SHAKUNTALA
+
+PROLOGUE
+
+BENEDICTION UPON THE AUDIENCE
+
+  Eight forms has Shiva, lord of all and king:
+  And these are water, first created thing;
+  And fire, which speeds the sacrifice begun;
+  The priest; and time's dividers, moon and sun;
+  The all-embracing ether, path of sound;
+  The earth, wherein all seeds of life are found;
+  And air, the breath of life: may he draw near,
+  Revealed in these, and bless those gathered here. _The stage-director_. Enough of this! (_Turning toward the
+dressing-room_.) Madam, if you are ready, pray come here. (_Enter an
+actress_.) _Actress_. Here I am, sir. What am I to do? _Director_. Our audience is very discriminating, and we are to offer
+them a new play, called _Shakuntala and the ring of recognition_,
+written by the famous Kalidasa. Every member of the cast must be on
+his mettle. _Actress_. Your arrangements are perfect. Nothing will go wrong. _Director_ (_smiling_). To tell the truth, madam,
+
+  Until the wise are satisfied,
+    I cannot feel that skill is shown;
+  The best-trained mind requires support,
+    And does not trust itself alone. _Actress_. True. What shall we do first? _Director_. First, you must sing something to please the ears of the
+audience. _Actress_. What season of the year shall I sing about? _Director_. Why, sing about the pleasant summer which has just begun. For at this
+time of year
+
+  A mid-day plunge will temper heat;
+    The breeze is rich with forest flowers;
+  To slumber in the shade is sweet;
+    And charming are the twilight hours. _Actress_ (_sings_). The siris-blossoms fair,
+    With pollen laden,
+  Are plucked to deck her hair
+    By many a maiden,
+  But gently; flowers like these
+  Are kissed by eager bees. _Director_. Well done! The whole theatre is captivated by your song,
+and sits as if painted. What play shall we give them to keep their
+good-will? _Actress_. Why, you just told me we were to give a new play called
+_Shakuntala and the ring_. _Director_. Thank you for reminding me. For the moment I had quite
+forgotten. Your charming song had carried me away
+  As the deer enticed the hero of our play. (_Exeunt ambo_.) ACT I
+
+
+THE HUNT
+
+(_Enter, in a chariot, pursuing a deer_, KING DUSHYANTA, _bow and
+arrow in hand; and a charioteer_.) _Charioteer_ (_Looking at the king and the deer_). Your Majesty,
+
+  I see you hunt the spotted deer
+    With shafts to end his race,
+  As though God Shiva should appear
+    In his immortal chase. _King_. Charioteer, the deer has led us a long chase. And even now
+
+  His neck in beauty bends
+  As backward looks he sends
+  At my pursuing car
+  That threatens death from far. Fear shrinks to half the body small;
+  See how he fears the arrow's fall! The path he takes is strewed
+  With blades of grass half-chewed
+  From jaws wide with the stress
+  Of fevered weariness. He leaps so often and so high,
+  He does not seem to run, but fly. (_In surprise_.) Pursue as I may, I can hardly keep him in sight. _Charioteer_. Your Majesty, I have been holding the horses back
+because the ground was rough. This checked us and gave the deer a
+lead. Now we are on level ground, and you will easily overtake him. _King_. Then let the reins hang loose. _Charioteer_. Yes, your Majesty. (_He counterfeits rapid motion_.) Look, your Majesty! The lines hang loose; the steeds unreined
+    Dart forward with a will. Their ears are pricked; their necks are strained;
+    Their plumes lie straight and still. They leave the rising dust behind;
+  They seem to float upon the wind. _King_ (_joyfully_). See! The horses are gaining on the deer. As onward and onward the chariot flies,
+  The small flashes large to my dizzy eyes. What is cleft in twain, seems to blur and mate;
+  What is crooked in nature, seems to be straight. Things at my side in an instant appear
+  Distant, and things in the distance, near. _A voice behind the scenes_. O King, this deer belongs to the
+hermitage, and must not be killed. _Charioteer_ (_listening and looking_). Your Majesty, here are two
+hermits, come to save the deer at the moment when your arrow was about
+to fall. _King_ (_hastily_). Stop the chariot. _Charioteer_. Yes, your Majesty. (_He does so. Enter a hermit with his
+pupil_.) _Hermit_ (_lifting his hand_). O King, this deer belongs to the
+hermitage. Why should his tender form expire,
+  As blossoms perish in the fire? How could that gentle life endure
+  The deadly arrow, sharp and sure? Restore your arrow to the quiver;
+    To you were weapons lent
+  The broken-hearted to deliver,
+    Not strike the innocent. _King_ (_bowing low_). It is done. (_He does so_.) _Hermit_ (_joyfully_). A deed worthy of you, scion of Puru's race, and
+shining example of kings. May you beget a son to rule earth and
+heaven. _King_ (_bowing low_). I am thankful for a Brahman's blessing. _The two hermits_. O King, we are on our way to gather firewood. Here,
+along the bank of the Malini, you may see the hermitage of Father
+Kanva, over which Shakuntala presides, so to speak, as guardian deity. Unless other deities prevent, pray enter here and receive a welcome. Besides,
+
+  Beholding pious hermit-rites
+    Preserved from fearful harm,
+  Perceive the profit of the scars
+    On your protecting arm. _King_. Is the hermit father there? _The two hermits_. No, he has left his daughter to welcome guests, and
+has just gone to Somatirtha, to avert an evil fate that threatens her. _King_. Well, I will see her. She shall feel my devotion, and report
+it to the sage. _The two hermits_. Then we will go on our way. (_Exit hermit with
+pupil_.) _King_. Charioteer, drive on. A sight of the pious hermitage will
+purify us. _Charioteer_. Yes, your Majesty. (_He counterfeits motion again_.) _King_ (_looking about_). One would know, without being told, that
+this is the precinct of a pious grove. _Charioteer_. How so? _King_. Do you not see? Why, here
+
+  Are rice-grains, dropped from bills of parrot chicks
+  Beneath the trees; and pounding-stones where sticks
+  A little almond-oil; and trustful deer
+  That do not run away as we draw near;
+  And river-paths that are besprinkled yet
+  From trickling hermit-garments, clean and wet. Besides,
+
+  The roots of trees are washed by many a stream
+  That breezes ruffle; and the flowers' red gleam
+  Is dimmed by pious smoke; and fearless fawns
+  Move softly on the close-cropped forest lawns. _Charioteer_. It is all true. _King_ (_after a little_). We must not disturb the hermitage. Stop
+here while I dismount. _Charioteer_. I am holding the reins. Dismount, your Majesty. _King_ (_dismounts and looks at himself_). One should wear modest
+garments on entering a hermitage. Take these jewels and the bow. (_He
+gives them to the charioteer_.) Before I return from my visit to the
+hermits, have the horses' backs wet down. _Charioteer_. Yes, your Majesty. (_Exit_.) _King_ (_walking and looking about_). The hermitage! Well, I will
+enter. (_As he does so, he feels a throbbing in his arm_.) A tranquil spot! Why should I thrill? Love cannot enter there--
+  Yet to inevitable things
+    Doors open everywhere. _A voice behind the scenes_. This way, girls! _King_ (_listening_). I think I hear some one to the right of the
+grove. I must find out. (_He walks and looks about_.) Ah, here are
+hermit-girls, with watering-pots just big enough for them to handle. They are coming in this direction to water the young trees. They are
+charming! The city maids, for all their pains,
+    Seem not so sweet and good;
+  Our garden blossoms yield to these
+    Flower-children of the wood. I will draw back into the shade and wait for them. (_He stands, gazing
+toward them. Enter_ SHAKUNTALA, _as described, and her two friends_.) _First friend_. It seems to me, dear, that Father Kanva cares more for
+the hermitage trees than he does for you. You are delicate as a
+jasmine blossom, yet he tells you to fill the trenches about the
+trees. _Shakuntala_. Oh, it isn't Father's bidding so much. I feel like a
+real sister to them. (_She waters the trees_.) _Priyamvada_. Shakuntala, we have watered the trees that blossom in
+the summer-time. Now let's sprinkle those whose flowering-time is
+past. That will be a better deed, because we shall not be working for
+a reward. _Shakuntala_. What a pretty idea! (_She does so_.) _King_ (_to himself_). And this is Kanva's daughter, Shakuntala. (_In
+surprise_.) The good Father does wrong to make her wear the hermit's
+dress of bark. The sage who yokes her artless charm
+    With pious pain and grief,
+  Would try to cut the toughest vine
+    With a soft, blue lotus-leaf. Well, I will step behind a tree and see how she acts with her
+friends. (_He conceals himself_.) _Shakuntala_. Oh, Anusuya! Priyamvada has fastened this bark dress so
+tight that it hurts. Please loosen it. (ANUSUYA _does so_.) _Priyamvada_ (_laughing_). You had better blame your own budding
+charms for that. _King_. She is quite right. Beneath the barken dress
+    Upon the shoulder tied,
+  In maiden loveliness
+    Her young breast seems to hide,
+
+  As when a flower amid
+    The leaves by autumn tossed--
+  Pale, withered leaves--lies hid,
+    And half its grace is lost. Yet in truth the bark dress is not an enemy to her beauty. It serves
+as an added ornament. For
+
+  The meanest vesture glows
+    On beauty that enchants:
+  The lotus lovelier shows
+    Amid dull water-plants;
+
+  The moon in added splendour
+    Shines for its spot of dark;
+  Yet more the maiden slender
+    Charms in her dress of bark. _Shakuntala_ (_looking ahead_). Oh, girls, that mango-tree is trying
+to tell me something with his branches that move in the wind like
+fingers. I must go and see him. (_She does so_.) _Priyamvada_. There, Shakuntala, stand right where you are a minute. _Shakuntala_. Why? _Priyamvada_. When I see you there, it looks as if a vine were
+clinging to the mango-tree. _Shakuntala_. I see why they call you the flatterer. _King_. But the flattery is true. Her arms are tender shoots; her lips
+    Are blossoms red and warm;
+  Bewitching youth begins to flower
+    In beauty on her form. _Anusuya_. Oh, Shakuntala! Here is the jasmine-vine that you named
+Light of the Grove. She has chosen the mango-tree as her husband. _Shakuntala_ (_approaches and looks at it, joyfully_). What a pretty
+pair they make. The jasmine shows her youth in her fresh flowers, and
+the mango-tree shows his strength in his ripening fruit. (_She stands
+gazing at them_.) _Priyamvada_ (_smiling_). Anusuya, do you know why Shakuntala looks so
+hard at the Light of the Grove? _Anusuya_. No. Why? _Priyamvada_. She is thinking how the Light of the Grove has found a
+good tree, and hoping that she will meet a fine lover. _Shakuntala_. That's what you want for yourself. (_She tips her
+watering-pot_.) _Anusuya_. Look, Shakuntala! Here is the spring-creeper that Father
+Kanva tended with his own hands--just as he did you. You are
+forgetting her. _Shakuntala_. I'd forget myself sooner. (_She goes to the creeper and
+looks at it, joyfully_.) Wonderful! Wonderful! Priyamvada, I have
+something pleasant to tell you. _Priyamvada_. What is it, dear? _Shakuntala_. It is out of season, but the spring-creeper is covered
+with buds down to the very root. _The two friends_ (_running up_). Really? _Shakuntala_. Of course. Can't you see? _Priyamvada_ (_looking at it joyfully_). And I have something pleasant
+to tell _you_. You are to be married soon. _Shakuntala_ (_snappishly_). You know that's just what you want for
+yourself. _Priyamvada_. I'm not teasing. I really heard Father Kanva say that
+this flowering vine was to be a symbol of your coming happiness. _Anusuya_. Priyamvada, that is why Shakuntala waters the
+spring-creeper so lovingly. _Shakuntala_. She is my sister. Why shouldn't I give her water? (_She
+tips her watering-pot_.) _King_. May I hope that she is the hermit's daughter by a mother of a
+different caste? But it _must_ be so. Surely, she may become a warrior's bride;
+    Else, why these longings in an honest mind? The motions of a blameless heart decide
+    Of right and wrong, when reason leaves us blind. Yet I will learn the whole truth. _Shakuntala_ (_excitedly_). Oh, oh! A bee has left the jasmine-vine
+and is flying into my face. (_She shows herself annoyed by the bee_.) _King_ (_ardently_). As the bee about her flies,
+  Swiftly her bewitching eyes
+    Turn to watch his flight. She is practising to-day
+  Coquetry and glances' play
+    Not from love, but fright. (_Jealously_.) Eager bee, you lightly skim
+  O'er the eyelid's trembling rim
+    Toward the cheek aquiver. Gently buzzing round her cheek,
+  Whispering in her ear, you seek
+    Secrets to deliver. While her hands that way and this
+  Strike at you, you steal a kiss,
+    Love's all, honeymaker. I know nothing but her name,
+  Not her caste, nor whence she came--
+    You, my rival, take her. _Shakuntala_. Oh, girls! Save me from this dreadful bee! _The two friends_ (_smiling_). Who are we, that we should save you? Call upon Dushyanta. For pious groves are in the protection of the
+king. _King_. A good opportunity to present myself. Have no--(_He checks
+himself. Aside_.) No, they would see that I am the king. I prefer to
+appear as a guest. _Shakuntala_. He doesn't leave me alone! I am going to run away. (_She takes a step and looks about_.) Oh, dear! Oh, dear! He is
+following me. Please save me. _King_ (_hastening forward_). Ah! A king of Puru's mighty line
+    Chastises shameless churls;
+  What insolent is he who baits
+    These artless hermit-girls? (_The girls are a little flurried on seeing the king_.) _Anusuya_. It is nothing very dreadful, sir. But our friend
+(_indicating_ SHAKUNTALA) was teased and frightened by a bee. _King_ (_to_ SHAKUNTALA). I hope these pious days are happy ones. (SHAKUNTALA's _eyes drop in embarrassment_.) _Anusuya_. Yes, now that we receive such a distinguished guest. _Priyamvada_. Welcome, sir. Go to the cottage, Shakuntala, and bring
+fruit. This water will do to wash the feet. _King_. Your courteous words are enough to make me feel at home. _Anusuya_. Then, sir, pray sit down and rest on this shady bench. _King_. You, too, are surely wearied by your pious task. Pray be
+seated a moment. _Priyamvada_ (_aside to_ SHAKUNTALA). My dear, we must be polite to
+our guest. Shall we sit down? (_The three girls sit_.) _Shakuntala_ (_to herself_). Oh, why do I have such feelings when I
+see this man? They seem wrong in a hermitage. _King_ (_looking at the girls_). It is delightful to see your
+friendship. For you are all young and beautiful. _Priyamvada_ (_aside to_ ANUSUYA). Who is he, dear? With his mystery,
+and his dignity, and his courtesy? He acts like a king and a
+gentleman. _Anusuya_. I am curious too. I am going to ask him. (_Aloud_.) Sir,
+you are so very courteous that I make bold to ask you something. What
+royal family do you adorn, sir? What country is grieving at your
+absence? Why does a gentleman so delicately bred submit to the weary
+journey into our pious grove? _Shakuntala_ (_aside_). Be brave, my heart. Anusuya speaks your very
+thoughts. _King_ (_aside_). Shall I tell at once who I am, or conceal it? (_He
+reflects_.) This will do. (_Aloud_.) I am a student of Scripture. It is my duty to see justice done in the cities of the king. And I have come to this hermitage on a tour of inspection. _Anusuya_. Then we of the hermitage have some one to take care of us. (SHAKUNTALA _shows embarrassment_.) _The two friends_ (_observing the demeanour of the pair. Aside to_
+SHAKUNTALA). Oh, Shakuntala! If only Father were here to-day. _Shakuntala_. What would he do? _The two friends_. He would make our distinguished guest happy, if it
+took his most precious treasure. _Shakuntala_ (_feigning anger_). Go away! You mean something. I'll not
+listen to you. _King_. I too would like to ask a question about your friend. _The two friends_. Sir, your request is a favour to us. _King_. Father Kanva lives a lifelong hermit. Yet you say that your
+friend is his daughter. How can that be? _Anusuya_. Listen, sir. There is a majestic royal sage named
+Kaushika----
+
+_King_. Ah, yes. The famous Kaushika. _Anusuya_. Know, then, that he is the source of our friend's being. But Father Kanva is her real father, because he took care of her when
+she was abandoned. _King_. You waken my curiosity with the word "abandoned." May I hear
+the whole story? _Anusuya_. Listen, sir. Many years ago, that royal sage was leading a
+life of stern austerities, and the gods, becoming strangely jealous,
+sent the nymph Menaka to disturb his devotions. _King_. Yes, the gods feel this jealousy toward the austerities of
+others. And then--
+
+_Anusuya_. Then in the lovely spring-time he saw her intoxicating
+beauty--(_She stops in embarrassment_.) _King_. The rest is plain. Surely, she is the daughter of the nymph. _Anusuya_. Yes. _King_. It is as it should be. To beauty such as this
+    No woman could give birth;
+  The quivering lightning flash
+    Is not a child of earth. (SHAKUNTALA _hangs her head in confusion_.) _King_ (_to himself_). Ah, my wishes become hopes. _Priyamvada_ (_looking with a smile at_ SHAKUNTALA). Sir, it seems as
+if you had more to say. (SHAKUNTALA _threatens her friend with her
+finger_.) _King_. You are right. Your pious life interests me, and I have
+another question. _Priyamvada_. Do not hesitate. We hermit people stand ready to answer
+all demands. _King_. My question is this:
+
+  Does she, till marriage only, keep her vow
+    As hermit-maid, that shames the ways of love? Or must her soft eyes ever see, as now,
+    Soft eyes of friendly deer in peaceful grove? _Priyamvada_. Sir, we are under bonds to lead a life of virtue. But it
+is her father's wish to give her to a suitable lover. _King_ (_joyfully to himself_). O heart, your wish is won! All doubt at last is done;
+  The thing you feared as fire,
+  Is the jewel of your desire. _Shakuntala_ (_pettishly_). Anusuya, I'm going. _Anusuya_. What for? _Shakuntala_. I am going to tell Mother Gautami that Priyamvada is
+talking nonsense. (_She rises_.) _Anusuya_. My dear, we hermit people cannot neglect to entertain a
+distinguished guest, and go wandering about. (SHAKUNTALA _starts to walk away without answering_.) _King_ (_aside_). She is going! (_He starts up as if to detain her,
+then checks his desires_.) A thought is as vivid as an act, to a
+lover. Though nurture, conquering nature, holds
+    Me back, it seems
+  As had I started and returned
+    In waking dreams. _Priyamvada_ (_approaching_ SHAKUNTALA). You dear, peevish girl! You
+mustn't go. _Shakuntala_ (_turns with a frown_). Why not? _Priyamvada_. You owe me the watering of two trees. You can go when
+you have paid your debt. (_She forces her to come back_.) _King_. It is plain that she is already wearied by watering the trees. See! Her shoulders droop; her palms are reddened yet;
+    Quick breaths are struggling in her bosom fair;
+  The blossom o'er her ear hangs limply wet;
+    One hand restrains the loose, dishevelled hair. I therefore remit her debt. (_He gives the two friends a ring. They
+take it, read the name engraved on it, and look at each other_.) _King_. Make no mistake. This is a present--from the king. _Priyamvada_. Then, sir, you ought not to part with it. Your word is
+enough to remit the debt. _Anusuya_. Well, Shakuntala, you are set free by this kind
+gentleman--or rather, by the king himself. Where are you going now? _Shakuntala_ (_to herself_). I would never leave him if I could help
+myself. _Priyamvada_. Why don't you go now? _Shakuntala_. I am not _your_ servant any longer. I will go when I
+like. _King_ (_looking at_ SHAKUNTALA. _To himself_). Does she feel toward
+me as I do toward her? At least, there is ground for hope. Although she does not speak to me,
+    She listens while I speak;
+  Her eyes turn not to see my face,
+    But nothing else they seek. _A voice behind the scenes_. Hermits! Hermits! Prepare to defend the
+creatures in our pious grove. King Dushyanta is hunting in the
+neighbourhood. The dust his horses' hoofs have raised,
+    Red as the evening sky,
+  Falls like a locust-swarm on boughs
+    Where hanging garments dry. _King_ (_aside_). Alas! My soldiers are disturbing the pious grove in
+their search for me. _The voice behind the scenes_. Hermits! Hermits! Here is an elephant who is terrifying old men, women, and
+children. One tusk is splintered by a cruel blow
+  Against a blocking tree; his gait is slow,
+  For countless fettering vines impede and cling;
+  He puts the deer to flight; some evil thing
+  He seems, that comes our peaceful life to mar,
+  Fleeing in terror from the royal car. (_The girls listen and rise anxiously_.) _King_. I have offended sadly against the hermits. I must go back. _The two friends_. Your Honour, we are frightened by this alarm of the
+elephant. Permit us to return to the cottage. _Anusuya_ (_to_ SHAKUNTALA). Shakuntala dear, Mother Gautami will be
+anxious. We must hurry and find her. _Shakuntala_ (_feigning lameness_). Oh, oh! I can hardly walk. _King_. You must go very slowly. And I will take pains that the
+hermitage is not disturbed. _The two friends_. Your honour, we feel as if we knew you very well. Pray pardon our shortcomings as hostesses. May we ask you to seek
+better entertainment from us another time? _King_. You are too modest. I feel honoured by the mere sight of you. _Shakuntala_. Anusuya, my foot is cut on a sharp blade of grass, and
+my dress is caught on an amaranth twig. Wait for me while I loosen it. (_She casts a lingering glance at the king, and goes out with her two
+friends_.) _King_ (_sighing_). They are gone. And I must go. The sight of
+Shakuntala has made me dread the return to the city. I will make my
+men camp at a distance from the pious grove. But I cannot turn my own
+thoughts from Shakuntala. It is my body leaves my love, not I;
+    My body moves away, but not my mind;
+  For back to her my struggling fancies fly
+    Like silken banners borne against the wind. (_Exit_.) ACT II
+
+
+THE SECRET
+
+(_Enter the clown_.) _Clown_ (_sighing_). Damn! Damn! Damn! I'm tired of being friends with
+this sporting king. "There's a deer!" he shouts, "There's a boar!" And
+off he chases on a summer noon through woods where shade is few and
+far between. We drink hot, stinking water from the mountain streams,
+flavoured with leaves--nasty! At odd times we get a little tepid meat
+to eat. And the horses and the elephants make such a noise that I
+can't even be comfortable at night. Then the hunters and the
+bird-chasers--damn 'em--wake me up bright and early. They do make an
+ear-splitting rumpus when they start for the woods. But even that
+isn't the whole misery. There's a new pimple growing on the old boil. He left us behind and went hunting a deer. And there in a hermitage
+they say he found--oh, dear! oh, dear! he found a hermit-girl named
+Shakuntala. Since then he hasn't a thought of going back to town. I
+lay awake all night, thinking about it. What can I do? Well, I'll see
+my friend when he is dressed and beautified. (_He walks and looks
+about_.) Hello! Here he comes, with his bow in his hand, and his girl
+in his heart. He is wearing a wreath of wild flowers! I'll pretend to
+be all knocked up. Perhaps I can get a rest that way. (_He stands,
+leaning on his staff. Enter the king, as described_.) _King_ (_to himself_). Although my darling is not lightly won,
+    She seemed to love me, and my hopes are bright;
+  Though love be balked ere joy be well begun,
+    A common longing is itself delight. (_Smiling_.) Thus does a lover deceive himself. He judges his love's
+feelings by his own desires. Her glance was loving--but 'twas not for me;
+  Her step was slow--'twas grace, not coquetry;
+  Her speech was short--to her detaining friend. In things like these love reads a selfish end! _Clown_ (_standing as before_). Well, king, I can't move my hand. I
+can only greet you with my voice. _King_ (_looking and smiling_). What makes you lame? _Clown_. Good! You hit a man in the eye, and then ask him why the
+tears come. _King_. I do not understand you. Speak plainly. _Clown_. When a reed bends over like a hunchback, do you blame the
+reed or the river-current? _King_. The river-current, of course. _Clown_. And you are to blame for my troubles. _King_. How so? _Clown_. It's a fine thing for you to neglect your royal duties and
+such a sure job--to live in the woods! What's the good of talking? Here I am, a Brahman, and my joints are all shaken up by this eternal
+running after wild animals, so that I can't move. Please be good to
+me. Let us have a rest for just one day. _King_ (_to himself_). He says this. And I too, when I remember
+Kanva's daughter, have little desire for the chase. For
+
+  The bow is strung, its arrow near;
+    And yet I cannot bend
+  That bow against the fawns who share
+    Soft glances with their friend. _Clown_ (_observing the king_). He means more than he says. I might as
+well weep in the woods. _King_ (_smiling_). What more could I mean? I have been thinking that
+I ought to take my friend's advice. _Clown_ (_cheerfully_). Long life to you, then. (_He unstiffens_.) _King_. Wait. Hear me out. _Clown_. Well, sir? _King_. When you are rested, you must be my companion in another
+task--an easy one. _Clown_. Crushing a few sweetmeats? _King_. I will tell you presently. _Clown_. Pray command my leisure. _King_. Who stands without? (_Enter the door-keeper_.) _Door-keeper_. I await your Majesty's commands. _King_. Raivataka, summon the general. _Door-keeper_. Yes, your Majesty. (_He goes out, then returns with the
+general_.) Follow me, sir. There is his Majesty, listening to our
+conversation. Draw near, sir. _General_ (_observing the king, to himself_). Hunting is declared to
+be a sin, yet it brings nothing but good to the king. See! He does not heed the cruel sting
+  Of his recoiling, twanging string;
+  The mid-day sun, the dripping sweat
+  Affect him not, nor make him fret;
+  His form, though sinewy and spare,
+  Is most symmetrically fair;
+  No mountain-elephant could be
+  More filled with vital strength than he. (_He approaches_.) Victory to your Majesty! The forest is full of
+deer-tracks, and beasts of prey cannot be far off. What better
+occupation could we have? _King_. Bhadrasena, my enthusiasm is broken. Madhavya has been
+preaching against hunting. _General_ (_aside to the clown_). Stick to it, friend Madhavya. I will
+humour the king a moment. (_Aloud_.) Your Majesty, he is a chattering
+idiot. Your Majesty may judge by his own case whether hunting is an
+evil. Consider:
+
+  The hunter's form grows sinewy, strong, and light;
+  He learns, from beasts of prey, how wrath and fright
+  Affect the mind; his skill he loves to measure
+  With moving targets. 'Tis life's chiefest pleasure. _Clown_ (_angrily_). Get out! Get out with your strenuous life! The
+king has come to his senses. But you, you son of a slave-wench, can go
+chasing from forest to forest, till you fall into the jaws of some old
+bear that is looking for a deer or a jackal. _King_. Bhadrasena, I cannot take your advice, because I am in the
+vicinity of a hermitage. So for to-day
+
+  The horned buffalo may shake
+  The turbid water of the lake;
+  Shade-seeking deer may chew the cud,
+  Boars trample swamp-grass in the mud;
+  The bow I bend in hunting, may
+  Enjoy a listless holiday. _General_. Yes, your Majesty. _King_. Send back the archers who have gone ahead. And forbid the
+soldiers to vex the hermitage, or even to approach it. Remember:
+
+  There lurks a hidden fire in each
+    Religious hermit-bower;
+  Cool sun-stones kindle if assailed
+    By any foreign power. _General_. Yes, your Majesty. _Clown_. Now will you get out with your strenuous life? (_Exit
+general_.) _King_ (_to his attendants_). Lay aside your hunting dress. And you,
+Raivataka, return to your post of duty. _Raivataka_. Yes, your Majesty. (_Exit_.) _Clown_. You have got rid of the vermin. Now be seated on this flat
+stone, over which the trees spread their canopy of shade. I can't sit
+down till you do. _King_. Lead the way. _Clown_. Follow me. (_They walk about and sit down_.) _King_. Friend Madhavya, you do not know what vision is. You have not
+seen the fairest of all objects. _Clown_. I see you, right in front of me. _King_. Yes, every one thinks himself beautiful. But I was speaking of
+Shakuntala, the ornament of the hermitage. _Clown_ (_to himself_). I mustn't add fuel to the flame. (_Aloud_.) But you can't have her because she is a hermit-girl. What is the use
+of seeing her? _King_. Fool! And is it selfish longing then,
+    That draws our souls on high
+  Through eyes that have forgot to wink,
+    As the new moon climbs the sky? Besides, Dushyanta's thoughts dwell on no forbidden object. _Clown_. Well, tell me about her. _King_. Sprung from a nymph of heaven
+    Wanton and gay,
+  Who spurned the blessing given,
+    Going her way;
+
+  By the stern hermit taken
+    In her most need:
+  So fell the blossom shaken,
+    Flower on a weed. _Clown_ (_laughing_). You are like a man who gets tired of good dates
+and longs for sour tamarind. All the pearls of the palace are yours,
+and you want this girl! _King_. My friend, you have not seen her, or you could not talk so. _Clown_. She must be charming if she surprises _you_. _King_. Oh, my friend, she needs not many words. She is God's vision, of pure thought
+    Composed in His creative mind;
+  His reveries of beauty wrought
+    The peerless pearl of womankind. So plays my fancy when I see
+  How great is God, how lovely she. _Clown_. How the women must hate her! 

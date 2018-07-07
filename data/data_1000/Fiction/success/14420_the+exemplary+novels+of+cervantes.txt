@@ -1,0 +1,2336 @@
+
+
+
+
+Produced by Clare Boothby, Mark C. Orton and the PG Online Distributed
+Proofreading Team
+
+
+
+
+
+
+BOHN'S STANDARD LIBRARY. THE EXEMPLARY NOVELS
+
+OF
+
+CERVANTES. THE
+EXEMPLARY NOVELS
+
+OF
+
+MIGUEL DE CERVANTES SAAVEDRA. TRANSLATED FROM THE SPANISH
+
+BY
+
+WALTER K. KELLY. LONDON: GEORGE BELL AND SONS, YORK STREET,
+COVENT GARDEN. 1881. LONDON:
+PRINTED BY WILLIAM CLOWES AND SONS, LIMITED,
+STAMFORD STREET AND CHARING CROSS. PREFACE. It seems to be generally admitted that in rendering the title of a book
+from one language into another, the form of the original should be
+retained, even at the cost of some deviation from ordinary usage. Cicero's work _De Officiis_ is never spoken of as a treatise on Moral
+Duties, but as Cicero's Offices. Upon the same principle we have not
+entitled the following collection of tales, Instructive or Moral; though
+it is in this sense that the author applied to them the epithet
+_exemplares_, as he states distinctly in his preface. The Spanish word
+_exemplo_, from the time of the archpriest of Hita and Don Juan Manuel,
+has had the meaning of _instruction_, or _instructive story_. The "Novelas Exemplares" were first published in 1613, three years
+before the death of Cervantes. They are all original, and have the air
+of being drawn from his personal experience and observation. Ticknor, in
+his "History of Spanish Literature," says of them, and of the
+"Impertinent Curiosity," inserted in the first part of Don Quixote:--
+
+"Their value is different, for they are written with different views,
+and in a variety of style greater than he has elsewhere shown; but most
+of them contain touches of what is peculiar in his talent, and are full
+of that rich eloquence and of those pleasing descriptions of natural
+scenery which always flow so easily from his pen. They have little in
+common with the graceful story-telling spirit of Boccaccio and his
+followers, and still less with the strictly practical tone of Don Juan
+Manuel's tales; nor, on the other hand, do they approach, except in the
+case of the 'Impertinent Curiosity,' the class of short novels which
+have been frequent in other countries within the last century. The more,
+therefore, we examine them, the more we shall find that they are
+original in their composition and general tone, and that they are
+strongly marked with the original genius of their author, as well as
+with the more peculiar traits of the national character,--the ground, no
+doubt, on which they have always been favourites at home, and less
+valued than they deserve to be abroad. As works of invention, they rank,
+among their author's productions, next after Don Quixote; in correctness
+and grace of style they stand before it.... They are all fresh from the
+racy soil of the national character, as that character is found in
+Andalusia, and are written with an idiomatic richness, a spirit, and a
+grace, which, though they are the oldest tales of their class in Spain,
+have left them ever since without successful rivals." The first three tales in this volume have merely undergone the revision
+of the editor, having been translated by another before he was engaged
+on the work. For the rest he alone is responsible. W.K.K. DEDICATION
+
+TO DON PEDRO FERNANDEZ DE CASTRO, COUNT OF LEMOS, ANDRADE, AND VILLALBA,
+&c.
+
+
+Those who dedicate their works to some prince commonly fall into two
+errors. The first is, that in their dedicatory epistle, which ought to
+be brief and succinct, they dilate very complacently, whether moved by
+truth or flattery, on the deeds not only of their fathers and
+forefathers, but also of all their relations, friends, and benefactors. The second is, that they tell their patron they place their works under
+his protection and safeguard, in order that malicious and captious
+tongues may not presume to cavil and carp at them. For myself, shunning
+these two faults, I here pass over in silence the grandeur and titles of
+your excellency's ancient and royal house, and your infinite virtues
+both natural and acquired, leaving it to some new Phidias and Lysippus
+to engrave and sculpture them in marble and bronze, that they may rival
+time in duration. Neither do I supplicate your Excellency to take this
+book under your protection, for I know, that if it is not a good one,
+though I should put it under the wings of Astolfo's hippogrif, or
+beneath the club of Hercules, the Zoili, the cynics, the Aretinos, and
+the bores, will not abstain from abusing it, out of respect for anyone. I only beg your Excellency to observe that I present to you, without
+more words, thirteen tales,[1] which, had they not been wrought in the
+laboratory of my own brains, might presume to stand beside the best. Such as they are, there they go, leaving me here rejoiced at the thought
+of manifesting, in some degree, the desire I feel to serve your
+Excellency as my true lord and benefactor. Our Lord preserve, &c.
+
+Your Excellency's servant,
+
+MIGUEL DE CERVANTES SAAVEDRA. MADRID, _13th of July, 1613_. [1] There are but twelve of them. Possibly when Cervantes wrote this
+dedication he intended to include "El Curioso Impertinente," which
+occurs in chapters xxxiii.-xxxv. of the first part of "Don Quixote." AUTHOR'S PREFACE. I wish it were possible, dear reader, to dispense with writing this
+preface; for that which I put at the beginning of my "Don Quixote" did
+not turn out so well for me as to give me any inclination to write
+another. The fault lies with a friend of mine--one of the many I have
+made in the course of my life with my heart rather than my head. This
+friend might well have caused my portrait, which the famous Don Juan de
+Jauregui would have given him, to be engraved and put in the first page
+of this book, according to custom. By that means he would have gratified
+my ambition and the wishes of several persons, who would like to know
+what sort of face and figure has he who makes bold to come before the
+world with so many works of his own invention. My friend might have
+written under the portrait--"This person whom you see here, with an oval
+visage, chestnut hair, smooth open forehead, lively eyes, a hooked but
+well-proportioned nose, & silvery beard that twenty years ago was
+golden, large moustaches, a small mouth, teeth not much to speak of, for
+he has but six, in bad condition and worse placed, no two of them
+corresponding to each other, a figure midway between the two extremes,
+neither tall nor short, a vivid complexion, rather fair than dark,
+somewhat stooped in the shoulders, and not very lightfooted: this, I
+say, is the author of 'Galatea,' 'Don Quixote de la Mancha,' 'The
+Journey to Parnassus,' which he wrote in imitation of Cesare Caporali
+Perusino, and other works which are current among the public, and
+perhaps without the author's name. He is commonly called MIGUEL DE
+CERVANTES SAAVEDRA. He was for many years a soldier, and for five years
+and a half in captivity, where he learned to have patience in adversity. He lost his left hand by a musket-shot in the battle of Lepanto: and
+ugly as this wound may appear, he regards it as beautiful, having
+received it on the most memorable and sublime occasion which past times
+have over seen, or future times can hope to equal, fighting under the
+victorious banners of the son of that thunderbolt of war, Charles V., of
+blessed memory." Should the friend of whom I complain have had nothing
+more to say of me than this, I would myself have composed a couple of
+dozen of eulogiums, and communicated them to him in secret, thereby to
+extend my fame and exalt the credit of my genius; for it would be absurd
+to expect the exact truth in such matters. We know well that neither
+praise nor abuse is meted out with strict accuracy. However, since this opportunity is lost, and I am left in the lurch
+without a portrait, I must have recourse to my own tongue, which, for
+all its stammering, may do well enough to state some truths that are
+tolerably self-evident. I assure you then, dear reader, that you can by
+no means make a fricassee of these tales which I here present to you,
+for they have neither legs, head, bowels, nor anything of the sort; I
+mean that the amorous intrigues you will find in some of them, are so
+decorous, so measured, and so conformable to reason and Christian
+propriety, that they are incapable of exciting any impure thoughts in
+him who reads them with or without caution. I have called them _exemplary_, because if you rightly consider them,
+there is not one of them from which you may not draw some useful
+example; and were I not afraid of being too prolix, I might show you
+what savoury and wholesome fruit might be extracted from them,
+collectively and severally. My intention has been to set up, in the midst of our community, a
+billiard-table, at which every one may amuse himself without hurt to
+body and soul; for innocent recreations do good rather than harm. One
+cannot be always at church, or always saying one's prayers, or always
+engaged in one's business, however important it may be; there are hours
+for recreation when the wearied mind should take repose. It is to this
+end that alleys of trees are planted to walk in, waters are conveyed
+from remote fountains, hills are levelled, and gardens are cultivated
+with such care. One thing I boldly declare: could I by any means
+suppose that these novels could excite any bad thought or desire in
+those who read them, I would rather cut off the hand with which I write
+them, than give them to the public. I am at an age when it does not
+become me to trifle with the life to come, for I am upwards of
+sixty-four. My genius and my inclination prompt me to this kind of writing; the more
+so as I consider (and with truth) that I am the first who has written
+novels in the Spanish language, though many have hitherto appeared among
+us, all of them translated from foreign authors. But these are my own,
+neither imitated nor stolen from anyone; my genius has engendered them,
+my pen has brought them forth, and they are growing up in the arms of
+the press. After them, should my life be spared, I will present to you
+the Adventures of Persiles, a book which ventures to compete with
+Heliodorus. But previously you shall see, and that before long, the
+continuation of the exploits of Don Quixote and the humours of Sancho
+Panza; and then the Weeks of the Garden. This is promising largely for
+one of my feeble powers; but who can curb his desires? I only beg you to
+remark that since I have had the boldness to address these novels to the
+great Count of Lemos, they must contain some hidden mystery which exalts
+their merit. I have no more to say, so pray God to keep you, and give me patience to
+bear all the ill that will be spoken of me by more than one subtle and
+starched critic. _Vale_. CONTENTS. PAGE
+
+THE LADY CORNELIA                                             1
+
+RINCONETE AND CORTADILLO; OR, PETER OF THE CORNER AND
+THE LITTLE CUTTER                                            42
+
+THE LICENTIATE VIDRIERA; OR, DOCTOR GLASS-CASE               86
+
+THE DECEITFUL MARRIAGE                                      112
+
+DIALOGUE BETWEEN SCIPIO AND BERGANZA, DOGS OF THE
+HOSPITAL OF THE RESURRECTION IN THE CITY OF VALLADOLID,
+COMMONLY CALLED THE DOGS OF MAHUDES                         124
+
+THE LITTLE GIPSY GIRL                                       178
+
+THE GENEROUS LOVER                                          236
+
+THE SPANISH-ENGLISH LADY                                    278
+
+THE FORCE OF BLOOD                                          314
+
+THE JEALOUS ESTRAMADURAN                                    331
+
+THE ILLUSTRIOUS SCULLERY-MAID                               365
+
+THE TWO DAMSELS                                             410
+
+
+
+
+
+THE LADY CORNELIA. Don Antonio de Isunza and Don Juan de Gamboa, gentlemen of high birth
+and excellent sense, both of the same age, and very intimate friends,
+being students together at Salamanca, determined to abandon their
+studies and proceed to Flanders. To this resolution they were incited by
+the fervour of youth, their desire to see the world, and their
+conviction that the profession of arms, so becoming to all, is more
+particularly suitable to men of illustrious race. But they did not reach Flanders until peace was restored, or at least on
+the point of being concluded; and at Antwerp they received letters from
+their parents, wherein the latter expressed the great displeasure caused
+them by their sons having left their studies without informing them of
+their intention, which if they had done, the proper measures might have
+been taken for their making the journey in a manner befitting their
+birth and station. Unwilling to give further dissatisfaction to their parents, the young
+men resolved to return to Spain, the rather as there was now nothing to
+be done in Flanders. But before doing so they determined to visit all
+the most renowned cities of Italy; and having seen the greater part of
+them, they were so much attracted by the noble university of Bologna,
+that they resolved to remain there and complete the studies abandoned at
+Salamanca. They imparted their intentions to their parents, who testified their
+entire approbation by the magnificence with which they provided their
+sons with every thing proper to their rank, to the end that, in their
+manner of living, they might show who they were, and of what house they
+were born. From the first day, therefore, that the young men visited the
+schools, all perceived them to be gallant, sensible, and well-bred
+gentlemen. Don Antonio was at this time in his twenty-fourth year, and Don Juan had
+not passed his twenty-sixth. This fair period of life they adorned by
+various good qualities; they were handsome, brave, of good address, and
+well versed in music and poetry; in a word, they were endowed with such
+advantages as caused them to be much sought and greatly beloved by all
+who knew them. They soon had numerous friends, not only among the many
+Spaniards belonging to the university,[2] but also among people of the
+city, and of other nations, to all of whom they proved themselves
+courteous, liberal, and wholly free from that arrogance which is said to
+be too often exhibited by Spaniards. [2] Cardinal Albornoz founded a college in the university of Bologna,
+expressly for the Spaniards, his countrymen. Being young, and of joyous temperament, Don Juan and Don Antonio did not
+fail to give their attention to the beauties of the city. Many there
+were indeed in Bologna, both married and unmarried, remarkable as well
+for their virtues as their charms; but among them all there was none who
+surpassed the Signora Cornelia Bentivoglia, of that old and illustrious
+family of the Bentivogli, who were at one time lords of Bologna. Cornelia was beautiful to a marvel; she had been left under the
+guardianship of her brother Lorenzo Bentivoglio, a brave and honourable
+gentleman. They were orphans, but inheritors of considerable wealth--and
+wealth is a great alleviation of the evils of the orphan state. Cornelia
+lived in complete seclusion, and her brother guarded her with unwearied
+solicitude. The lady neither showed herself on any occasion, nor would
+her brother consent that any one should see her; but this very fact
+inspired Don Juan and Don Antonio with the most lively desire to behold
+her face, were it only at church. Yet all the pains they took for that
+purpose proved vain, and the wishes they had felt on the subject
+gradually diminished, as the attempt appeared more and more hopeless. Thus, devoted to their studies, and varying these with such amusements
+as are permitted to their age, the young men passed a life as cheerful
+as it was honourable, rarely going out at night, but when they did so,
+it was always together and well armed. One evening, however, when Don Juan was preparing to go out, Don
+Antonio expressed his desire to remain at home for a short time, to
+repeat certain orisons: but he requested Don Juan to go without him, and
+promised to follow him. "Why should I go out to wait for you?" said Don Juan. "I will stay; if
+you do not go out at all to-night, it will be of very little
+consequence." "By no means shall you stay," returned Don Antonio: "go
+and take the air; I will be with you almost immediately, if you take the
+usual way." "Well, do as you please," said Don Juan: "if you come you will find me
+on our usual beat." With these words Don Juan left the house. The night was dark, and the hour about eleven. Don Juan passed through
+two or three streets, but finding himself alone, and with no one to
+speak to, he determined to return home. He began to retrace his steps
+accordingly; and was passing through a street, the houses of which had
+marble porticoes, when he heard some one call out, "Hist! hist!" from
+one of the doors. The darkness of the night, and the shadow cast by the
+colonnade, did not permit him to see the whisperer; but he stopped at
+once, and listened attentively. He saw a door partially opened,
+approached it, and heard these words uttered in a low voice, "Is it you,
+Fabio?" Don Juan, on the spur of the moment, replied, "Yes!" "Take it,
+then," returned the voice, "take it, and place it in security; but
+return instantly, for the matter presses." Don Juan put out his hand in
+the dark, and encountered a packet. Proceeding to take hold of it, he
+found that it required both hands; instinctively he extended the second,
+but had scarcely done so before the portal was closed, and he found
+himself again alone in the street, loaded with, he knew not what. Presently the cry of an infant, and, as it seemed, but newly born, smote
+his ears, filling him with confusion and amazement, for he knew not what
+next to do, or how to proceed in so strange a case. If he knocked at the
+door he was almost certain to endanger the mother of the infant; and if
+he left his burthen there, he must imperil the life of the babe itself. But if he took it home he should as little know what to do with it, nor
+was he acquainted with any one in the city to whom he could entrust the
+care of the child; yet remembering that he had been required to come
+back quickly, after placing his charge in safety, he determined to take
+the infant home, leave it in the hands of his old housekeeper, and
+return to see if his aid was needed in any way, since he perceived
+clearly that the person who had been expected to come for the child had
+not arrived, and the latter had been given to himself in mistake. With
+this determination, Don Juan soon reached his home; but found that
+Antonio had already left it. He then went to his chamber, and calling
+the housekeeper, uncovered the infant, which was one of the most
+beautiful ever seen; whilst, as the good woman remarked, the elegance of
+the clothes in which the little creature was wrapped, proved him--for it
+was a boy--to be the son of rich parents. "You must, now," said Don Juan to his housekeeper, "find some one to
+nurse this infant; but first of all take away these rich coverings, and
+put on him others of the plainest kind. Having done that, you must carry
+the babe, without a moment's delay, to the house of a midwife, for there
+it is that you will be most likely to find all that is requisite in such
+a case. Take money to pay what may be needful, and give the child such
+parents as you please, for I desire to hide the truth, and not let the
+manner in which I became possessed of it be known." The woman promised
+that she would obey him in every point; and Don Juan returned in all
+haste to the street, to see whether he should receive another mysterious
+call. But just before he arrived at the house whence the infant had been
+delivered to him, the clash of swords struck his ear, the sound being as
+that of several persons engaged in strife. He listened carefully, but
+could hear no word; the combat was carried on in total silence; but the
+sparks cast up by the swords as they struck against the stones, enabled
+him to perceive that one man was defending himself against several
+assailants; and he was confirmed in this belief by an exclamation which
+proceeded at length from the last person attacked. "Ah, traitors! you
+are many and I am but one, yet your baseness shall not avail you." Hearing and seeing this, Don Juan, listening only to the impulses of his
+brave heart, sprang to the side of the person assailed, and opposing the
+buckler he carried on his arm to the swords of the adversaries, drew his
+own, and speaking in Italian that he might not be known as a Spaniard,
+he said--"Fear not, Signor, help has arrived that will not fail you
+while life holds; lay on well, for traitors are worth but little however
+many there may be." To this, one of the assailants made answer--"You
+lie; there are no traitors here. He who seeks to recover his lost honour
+is no traitor, and is permitted to avail himself of every advantage." No more was said on either side, for the impetuosity of the assailants,
+who, as Don Juan thought, amounted to not less than six, left no
+opportunity for further words. They pressed his companion, meanwhile,
+very closely; and two of them giving him each a thrust at the same time
+with the point of their swords, he fell to the earth. Don Juan believed
+they had killed him; he threw himself upon the adversaries,
+nevertheless, and with a shower of cuts and thrusts, dealt with
+extraordinary rapidity, caused them to give way for several paces. But
+all his efforts must needs have been vain for the defence of the fallen
+man, had not Fortune aided him, by making the neighbours come with
+lights to their windows and shout for the watch, whereupon the
+assailants ran off and left the street clear. The fallen man was meanwhile beginning to move; for the strokes he had
+received, having encountered a breastplate as hard as adamant, had only
+stunned, but not wounded him. Now, Don Juan's hat had been knocked off in the fray, and thinking he
+had picked it up, he had in fact put on that of another person, without
+perceiving it to be other than his own. The gentleman whom he had
+assisted now approached Don Juan, and accosted him as follows:--"Signor
+Cavalier, whoever you may be, I confess that I owe you my life, and I am
+bound to employ it, with all I have or can command, in your service: do
+me the favour to tell me who you are, that I may know to whom my
+gratitude is due." "Signor," replied Don Juan, "that I may not seem discourteous, and in
+compliance with your request, although I am wholly disinterested in what
+I have done, you shall know that I am a Spanish gentleman, and a student
+in this city; if you desire to hear my name I will tell you, rather lest
+you should have some future occasion for my services than for any other
+motive, that I am called Don Juan de Gamboa." "You have done me a singular service, Signor Don Juan de Gamboa,"
+replied the gentleman who had fallen, "but I will not tell you who I am,
+nor my name, which I desire that you should learn from others rather
+than from myself; yet I will take care that you be soon informed
+respecting these things." Don Juan then inquired of the stranger if he were wounded, observing,
+that he had seen him receive two furious lunges in the breast; but the
+other replied that he was unhurt; adding, that next to God, a famous
+plastron that he wore had defended him against the blows he had
+received, though his enemies would certainly have finished him had Don
+Juan not come to his aid. While thus discoursing, they beheld a body of men advancing towards
+them; and Don Juan exclaimed--"If these are enemies, Signor, let us
+hasten to put ourselves on our guard, and use our hands as men of our
+condition should do." "They are not enemies, so far as I can judge," replied the stranger. "The men who are now coming towards us are friends." And this was the truth; the persons approaching, of whom there were
+eight, surrounded the unknown cavalier, with whom they exchanged a few
+words, but in so low a tone that Don Juan could not hear the purport. The gentleman then turned to Don Juan and said--"If these friends had
+not arrived I should certainly not have left your company, Signor Don
+Juan, until you had seen me in some place of safety; but as things are,
+I beg you now, with all kindness, to retire and leave me in this place,
+where it is of great importance that I should remain." Speaking thus,
+the stranger carried his hand to his head, but finding that he was
+without a hat, he turned towards the persons who had joined him,
+desiring them to give him one, and saying that his own had fallen. He
+had no sooner spoken than Don Juan presented him with that which he had
+himself just picked up, and which he had discovered to be not his own. The stranger having felt the hat, returned it to Don Juan, saying that
+it was not his, and adding, "On your life, Signor Don Juan, keep this
+hat as a trophy of this affray, for I believe it to be one that is not
+unknown." The persons around then gave the stranger another hat, and Don Juan,
+after exchanging a few brief compliments with his companion, left him,
+in compliance with his desire, without knowing who he was: he then
+returned home, not daring at that moment to approach the door whence he
+had received the newly-born infant, because the whole neighbourhood had
+been aroused, and was in movement. Now it chanced that as Don Juan was returning to his abode, he met his
+comrade Don Antonio de Isunza; and the latter no sooner recognised him
+in the darkness, than he exclaimed, "Turn about, Don Juan, and walk with
+me to the end of the street; I have something to tell you, and as we go
+along will relate a story such as you have never heard before in your
+life." "I also have one of the same kind to tell you," returned Don Juan, "but
+let us go up the street as you say, and do you first relate your story." Don Antonio thereupon walked forward, and began as follows:--"You must
+know that in little less than an hour after you had left the house, I
+left it also, to go in search of you, but I had not gone thirty paces
+from this place when I saw before me a black mass, which I soon
+perceived to be a person advancing in great haste. As the figure
+approached nearer, I perceived it to be that of a woman, wrapped in a
+very wide mantle, and who, in a voice interrupted by sobs and sighs,
+addressed me thus, 'Are you, sir, a stranger, or one of the city?' 'I am
+a stranger,' I replied, 'and a Spaniard.' 'Thanks be to God!' she
+exclaimed, 'he will not have me die without the sacraments.' 'Are you
+then wounded, madam?' continued I, 'or attacked by some mortal malady?' 'It may well happen that the malady from which I suffer may prove
+mortal, if I do not soon receive aid,' returned the lady, 'wherefore, by
+the courtesy which is ever found among those of your nation, I entreat
+you, Signor Spaniard, take me from these streets, and lead me to your
+dwelling with all the speed you may; there, if you wish it, you shall
+know the cause of my sufferings, and who I am, even though it should
+cost me my reputation to make myself known.' "Hearing this," continued Don Antonio, "and seeing that the lady was in
+a strait which permitted no delay, I said nothing more, but offering her
+my hand, I conducted her by the by-streets to our house. Our page,
+Santisteban, opened the door, but, commanding him to retire, I led the
+lady in without permitting him to see her, and took her into my room,
+where she had no sooner entered than she fell fainting on my bed. Approaching to assist her, I removed the mantle which had hitherto
+concealed her face, and discovered the most astonishing loveliness that
+human eyes ever beheld. She may be about eighteen years old, as I should
+suppose, but rather less than more. Bewildered for a moment at the sight
+of so much beauty, I remained as one stupified, but recollecting myself,
+I hastened to throw water on her face, and, with a pitiable sigh, she
+recovered consciousness. "The first word she uttered was the question, 'Do you know me, Signor?' I replied, 'No, lady! I have not been so fortunate as ever before to
+have seen so much beauty.' 'Unhappy is she,' returned the lady, 'to whom
+heaven has given it for her misfortune. But, Signor, this is not the
+time to praise my beauty, but to mourn my distress. By all that you most
+revere, I entreat you to leave me shut up here, and let no one behold
+me, while you return in all haste to the place where you found me, and
+see if there be any persons fighting there. Yet do not take part either
+with one side or the other. Only separate the combatants, for whatever
+injury may happen to either, must needs be to the increase of my own
+misfortunes.' I then left her as she desired," continued Don Antonio,
+"and am now going to put an end to any quarrel which may arise, as the
+lady has commanded me." "Have you anything more to say?" inquired Don Juan. "Do you think I have not said enough," answered Don Antonio, "since I
+have told you that I have now in my chamber, and hold under my key, the
+most wonderful beauty that human eyes have ever beheld." "The adventure is a strange one, without doubt," replied Don Juan, "but
+listen to mine;" and he instantly related to his friend all that had
+happened to him. He told how the newly-born infant was then in their
+house, and in the care of their housekeeper, with the orders he had
+given as to changing its rich habits for others less remarkable, and for
+procuring a nurse from the nearest midwife, to meet the present
+necessity. "As to the combat you come in quest of," he added, "that is
+already ended, and peace is made." Don Juan further related that he had
+himself taken part in the strife; and concluded by remarking, that he
+believed those whom he had found engaged were all persons of high
+quality, as well as great courage. Each of the Spaniards was much surprised at the adventure of the other,
+and they instantly returned to the house to see what the lady shut up
+there might require. On the way, Don Antonio told Don Juan that he had
+promised the unknown not to suffer any one to see her; assuring her that
+he only would enter the room, until she should herself permit the
+approach of others. "I shall nevertheless do my best to see her," replied Don Juan; "after
+what you have said of her beauty, I cannot but desire to do so, and
+shall contrive some means for effecting it." Saying this they arrived at their house, when one of their three pages,
+bringing lights, Don Antonio cast his eyes on the hat worn by Don Juan,
+and perceived that it was glittering with diamonds. Don Juan took it
+off, and then saw that the lustre of which his companion spoke,
+proceeded from a very rich band formed of large brilliants. In great
+surprise, the friends examined the ornament, and concluded that if all
+the diamonds were as precious as they appeared to be, the hat must be
+worth more than two thousand ducats. They thus became confirmed in the
+conviction entertained by Don Juan, that the persons engaged in the
+combat were of high quality, especially the gentleman whose part he had
+taken, and who, as he now recollected, when bidding him take the hat,
+and keep it, had remarked that it was not unknown. The young men then commanded their pages to retire, and Don Antonio,
+opening the door of his room, found the lady seated on his bed, leaning
+her cheek on her hand, and weeping piteously. Don Juan also having
+approached the door, the splendour of the diamonds caught the eye of the
+weeping lady, and she exclaimed, "Enter, my lord duke, enter! Why afford
+me in such scanty measure the happiness of seeing you; enter at once, I
+beseech you." "Signora," replied Don Antonio, "there is no duke here who is declining
+to see you." "How, no duke!" she exclaimed. "He whom I have just seen is the Duke of
+Ferrara; the rich decoration of his hat does not permit him to conceal
+himself." "Of a truth, Signora, he who wears the hat you speak of is no duke; and
+if you please to undeceive yourself by seeing that person, you have but
+to give your permission, and he shall enter." "Let him do so," said the lady; "although, if he be not the duke, my
+misfortune will be all the greater." Don Juan had heard all this, and now finding that he was invited to
+enter, he walked into the apartment with his hat in his hand; but he had
+no sooner placed himself before the lady than she, seeing he was not the
+person she had supposed, began to exclaim, in a troubled voice and with
+broken words, "Ah! miserable creature that I am, tell me, Signor--tell
+me at once, without keeping me in suspense, what do you know of him who
+owned that sombrero? How is it that he no longer has it, and how did it
+come into your possession? Does he still live, or is this the token that
+he sends me of his death? Oh! my beloved, what misery is this! I see the
+jewels that were thine. I see myself shut up here without the light of
+thy presence. I am in the power of strangers; and if I did not know that
+they were Spaniards and gentlemen, the fear of that disgrace by which I
+am threatened would already have finished my life." "Calm yourself, madam," replied Don Juan, "for the master of this
+sombrero is not dead, nor are you in a place where any increase to your
+misfortunes is to be dreaded. We think only of serving you, so far as
+our means will permit, even to the exposing our lives for your defence
+and succour. It would ill become us to suffer that the trust you have in
+the faith of Spaniards should be vain; and since we are Spaniards, and
+of good quality--for here that assertion, which might otherwise appear
+arrogant, becomes needful--be assured that you will receive all the
+respect which is your due." "I believe you," replied the lady; "but, nevertheless, tell me, I pray
+you, how this rich sombrero came into your possession, and where is its
+owner? who is no less a personage than Alfonso d'Este, Duke of Ferrara." Then Don Juan, that he might not keep the lady longer in suspense,
+related to her how he had found the hat in the midst of a combat, in
+which he had taken the part of a gentleman, who, from what she had said,
+he could not now doubt to be the Duke of Ferrara. He further told her
+how, having lost his own hat in the strife, the gentleman had bidden
+him keep the one he had picked up, and which belonged, as he said, to a
+person not unknown; that neither the cavalier nor himself had received
+any wound; and that, finally, certain friends or servants of the former
+had arrived, when he who was now believed to be the duke had requested
+Don Juan to leave him in that place, where he desired for certain
+reasons to remain. "This, madam," concluded Don Juan, "is the whole history of the manner
+in which the hat came into my possession; and for its master, whom you
+suppose to be the Duke of Ferrara, it is not an hour since I left him in
+perfect safety. Let this true narration suffice to console you, since
+you are anxious to be assured that the Duke is unhurt." To this the lady made answer, "That you, gentlemen, may know how much
+reason I have to inquire for the duke, and whether I need be anxious for
+his safety, listen in your turn with attention, and I will relate what I
+know not yet if I must call my unhappy history." While these things were passing, the housekeeper of Don Antonio and Don
+Juan was occupied with the infant, whose mouth she had moistened with
+honey, and whose rich habits she was changing for clothes of a very
+humble character. When that was done, she was about to carry the babe to
+the house of the midwife, as Don Juan had recommended, but as she was
+passing with it before the door of the room wherein the lady was about
+to commence her history, the little creature began to cry aloud,
+insomuch that the lady heard it. She instantly rose to her feet, and set
+herself to listen, when the plaints of the infant arrived more
+distinctly to her ear. "What child is this, gentlemen?" said she, "for it appears to be but
+just born." Don Juan replied, "It is a little fellow who has been laid at the door
+of our house to-night, and our servant is about to seek some one who
+will nurse it." "Let them bring it to me, for the love of God!" exclaimed the lady, "for
+I will offer that charity to the child of others, since it has not
+pleased Heaven that I should be permitted to nourish my own." Don Juan then called the housekeeper, and taking the infant from her
+arms he placed it in those of the lady, saying, "Behold, madam, this is
+the present that has been made to us to-night, and it is not the first
+of the kind that we have received, since but few months pass wherein we
+do not find such God-sends hooked on to the hinges of our doors." The lady had meanwhile taken the infant into her arms, and looked
+attentively at its face, but remarking the poverty of its clothing,
+which was, nevertheless, extremely clean, she could not restrain her
+tears. She cast the kerchief which she had worn around her head over her
+bosom, that she might succour the infant with decency, and bending her
+face over that of the child, she remained long without raising her head,
+while her eyes rained torrents of tears on the little creature she was
+nursing. The babe was eager to be fed, but finding that it could not obtain the
+nourishment it sought, the lady returned the babe to Don Juan, saying,
+"I have vainly desired to be charitable to this deserted infant, and
+have but shown that I am new to such matters. Let your servants put a
+little honey on the lips of the child, but do not suffer them to carry
+it through the streets at such an hour; bid them wait until the day
+breaks, and let the babe be once more brought to me before they take it
+away, for I find a great consolation in the sight of it." Don Juan then restored the infant to the housekeeper, bidding her take
+the best care she could of it until daybreak, commanding that the rich
+clothes it had first worn should be put on it again, and directing her
+not to take it from the house until he had seen it once more. That done,
+he returned to the room; and the two friends being again alone with the
+beautiful lady, she said, "If you desire that I should relate my story,
+you must first give me something that may restore my strength, for I
+feel in much need of it." Don Antonio flew to the beaufet for some
+conserves, of which the lady ate a little; and having drunk a glass of
+water, and feeling somewhat refreshed, she said, "Sit down, Signors, and
+listen to my story." The gentlemen seated themselves accordingly, and she, arranging herself
+on the bed, and covering her person with the folds of her mantle,
+suffered the veil which she had kept about her head to fall on her
+shoulders, thus giving her face to view, and exhibiting in it a lustre
+equal to that of the moon, rather of the sun itself, when displayed in
+all its splendour. Liquid pearls fell from her eyes, which she
+endeavoured to dry with a kerchief of extraordinary delicacy, and with
+hands so white that he must have had much judgment in colour who could
+have found a difference between them and the cambric. Finally, after
+many a sigh and many an effort to calm herself, with a feeble and
+trembling voice, she said--
+
+"I, Signors, am she of whom you have doubtless heard mention in this
+city, since, such as it is, there are few tongues that do not publish
+the fame of my beauty. I am Cornelia Bentivoglio, sister of Lorenzo
+Bentivoglio; and, in saying this, I have perhaps affirmed two
+acknowledged truths,--the one my nobility, and the other my beauty. At a
+very early age I was left an orphan to the care of my brother, who was
+most sedulous in watching over me, even from my childhood, although he
+reposed more confidence in my sentiments of honour than in the guards he
+had placed around me. In short, kept thus between walls and in perfect
+solitude, having no other company than that of my attendants, I grew to
+womanhood, and with me grew the reputation of my loveliness, bruited
+abroad by the servants of my house, and by such as had been admitted to
+my privacy, as also by a portrait which my brother had caused to be
+taken by a famous painter, to the end, as he said, that the world might
+not be wholly deprived of my features, in the event of my being early
+summoned by Heaven to a better life. "All this might have ended well, had it not chanced that the Duke of
+Ferrara consented to act as sponsor at the nuptials of one of my
+cousins; when my brother permitted me to be present at the ceremony,
+that we might do the greater honour to our kinswoman. There I saw and
+was seen; there, as I believe, hearts were subjugated, and the will of
+the beholders rendered subservient; there I felt the pleasure received
+from praise, even when bestowed by flattering tongues; and, finally, I
+there beheld the duke, and was seen by him; in a word, it is in
+consequence of this meeting that you see me here. "I will not relate to you, Signors (for that would needlessly protract
+my story), the various stratagems and contrivances by which the duke and
+myself, at the end of two years, were at length enabled to bring about
+that union, our desire for which had received birth at those nuptials. Neither guards, nor seclusion, nor remonstrances, nor human diligence of
+any kind, sufficed to prevent it, and we were finally made one; for
+without the sanction due to my honour, Alfonso would certainly not have
+prevailed. I would fain have had him publicly demand my hand from my
+brother, who would not have refused it; nor would the duke have had to
+excuse himself before the world as to any inequality in our marriage,
+since the race of the Bentivogli is in no manner inferior to that of
+Este; but the reasons which he gave for not doing as I wished appeared
+to me sufficient, and I suffered them to prevail. "The visits of the duke were made through the intervention of a servant,
+over whom his gifts had more influence than was consistent with the
+confidence reposed in her by my brother. After a time I perceived that I
+was about to become a mother, and feigning illness and low spirits, I
+prevailed on Lorenzo to permit me to visit the cousin at whose marriage
+it was that I first saw the duke; I then apprised the latter of my
+situation, letting him also know the danger in which my life was placed
+from that suspicion of the truth which I could not but fear that Lorenzo
+must eventually entertain. "It was then agreed between us, that when the time for my travail drew
+near, the duke should come, with certain of his friends, and take me to
+Ferrara, where our marriage should be publicly celebrated. This was the
+night on which I was to have departed, and I was waiting the arrival of
+Alfonso, when I heard my brother pass the door with several other
+persons, all armed, as I could hear, by the noise of their weapons. The
+terror caused by this event was such as to occasion the premature birth
+of my infant, a son, whom the waiting-woman, my confidant, who had made
+all ready for his reception, wrapped at once in the clothes we had
+provided, and gave at the street-door, as she told me, to a servant of
+the duke. Soon afterwards, taking such measures as I could under
+circumstances so pressing, and hastened by the fear of my brother, I
+also left the house, hoping to find the duke awaiting me in the street. I ought not to have gone forth until he had come to the door; but the
+armed band of my brother, whose sword I felt at my throat, had caused
+me such terror that I was not in a state to reflect. Almost out of my
+senses I came forth, as you behold me; and what has since happened you
+know. I am here, it is true, without my husband, and without my son; yet
+I return thanks to Heaven which has led me into your hands--for from you
+I promise myself all that may be expected from Spanish courtesy,
+reinforced, as it cannot but be in your persons, by the nobility of your
+race." Having said this, the lady fell back on the bed, and the two friends
+hastened to her assistance, fearing she had again fainted. But they
+found this not to be the case; she was only weeping bitterly. Wherefore
+Don Juan said to her, "If up to the present moment, beautiful lady, my
+companion Don Antonio, and I, have felt pity and regret for you as being
+a woman, still more shall we now do so, knowing your quality; since
+compassion and grief are changed into the positive obligation and duty
+of serving and aiding you. Take courage, and do not be dismayed; for
+little as you are formed to endure such trials, so much the more will
+you prove yourself to be the exalted person you are, as your patience
+and fortitude enable you to rise above your sorrows. Believe me,
+Signora, I am persuaded that these extraordinary events are about to
+have a fortunate conclusion; for Heaven can never permit so much beauty
+to endure permanent sorrow, nor suffer your chaste purposes to be
+frustrated. Go now to bed, Signora, and take that care of your health of
+which you have so much need; there shall presently come to wait on you a
+servant of ours, in whom you may confide as in ourselves, for she will
+maintain silence respecting your misfortunes with no less discretion
+than she will attend to all your necessities." "The condition in which I find myself," replied the lady, "might compel
+me to the adoption of more difficult measures than those you advise. Let
+this woman come, Signors; presented to me by you, she cannot fail to be
+good and serviceable; but I beseech you let no other living being see
+me." "So shall it be," replied Don Antonio; and the two friends withdrew,
+leaving Cornelia alone. Don Juan then commanded the housekeeper to enter the room, taking with
+her the infant, whose rich habits she had already replaced. The woman
+did as she was ordered, having been previously told what she should
+reply to the questions of the Signora respecting the infant she bore in
+her arms Seeing her come in, Cornelia instantly said, "You come in good
+time, my friend; give me that infant, and place the light near me." The servant obeyed; and, taking the babe in her arms, Cornelia instantly
+began to tremble, gazed at him intently, and cried out in haste, "Tell
+me, good woman, is this child the same that you brought me a short time
+since?" "It is the same, Signora," replied the woman. "How is it, then,
+that his clothing is so different? Certainly, dame housekeeper, either
+these are other wrappings, or the infant is not the same." "It may all
+be as you say," began the old woman. "All as I say!" interrupted
+Cornelia, "how and what is this? I conjure you, friend, by all you most
+value, to tell me whence you received these rich clothes; for my heart
+seems to be bursting in my bosom! Tell me the cause of this change; for
+you must know that these things belong to me, if my sight do not deceive
+me, and my memory have not failed. In these robes, or some like them, I
+entrusted to a servant of mine the treasured jewel of my soul! Who has
+taken them from him? Ah, miserable creature that I am! who has brought
+these things here? Oh, unhappy and woeful day!" Don Juan and Don Antonio, who were listening to all this, could not
+suffer the matter to go further, nor would they permit the exchange of
+the infant's dress to trouble the poor lady any longer. They therefore
+entered the room, and Don Juan said, "This infant and its wrappings are
+yours, Signora;" and immediately he related from point to point how the
+matter had happened. He told Cornelia that he was himself the person to
+whom the waiting woman had given the child, and how he had brought it
+home, with the orders he had given to the housekeeper respecting its
+change of clothes, and his motives for doing so. He added that, from the
+moment when she had spoken of her own infant, he had felt certain that
+this was no other than her son; and if he had not told her so at once,
+that was because he feared the effects of too much gladness, coming
+immediately after the heavy grief which her trials had caused her. The tears of joy then shed by Cornelia were many and long-continued;
+infinite were the acknowledgments she offered to Heaven, innumerable the
+kisses she lavished on her son, and profuse the thanks which she
+offered from her heart to the two friends, whom she called her guardian
+angels on earth, with other names, which gave abundant proof of her
+gratitude. They soon afterwards left the lady with their housekeeper,
+whom they enjoined to attend her well, and do her all the service
+possible--having made known to the woman the position in which Cornelia
+found herself, to the end that she might take all necessary precautions,
+the nature of which, she, being a woman, would know much better than
+they could do. They then went to rest for the little that remained of
+the night, intending to enter Cornelia's apartment no more, unless
+summoned by herself, or called thither by some pressing need. The day having dawned, the housekeeper went to fetch a woman, who agreed
+to nurse the infant in silence and secrecy. Some hours later the friends
+inquired for Cornelia, and their servant told them that she had rested a
+little. Don Juan and Don Antonio then went to the Schools. As they
+passed by the street where the combat had taken place, and near the
+house whence Cornelia had fled, they took care to observe whether any
+signs of disorder were apparent, and whether the matter seemed to be
+talked of in the neighbourhood: but they could hear not a word
+respecting the affray of the previous night, or the absence of Cornelia. So, having duly attended the various lectures, they returned to their
+dwelling. The lady then caused them to be summoned to her chamber; but finding
+that, from respect to her presence, they hesitated to appear, she
+replied to the message they sent her, with tears in her eyes, begging
+them to come and see her, which she declared to be now the best proof of
+their respect as well as interest; since, if they could not remedy, they
+might at least console her misfortunes. Thus exhorted, the gentlemen obeyed, and Cornelia received them with a
+smiling face and great cordiality. She then entreated that they would do
+her the kindness to walk about the city, and ascertain if anything had
+transpired concerning her affairs. They replied, that they had already
+done so, with all possible care, but that not a word had been said
+reacting the matter. At this moment, one of the three pages who served the gentlemen
+approached the door of the room telling his masters from without, that
+there was then at the street door, attended by two servants, a
+gentleman, who called himself Lorenzo Bentivoglio, and inquired for the
+Signor Don Juan de Gamboa. Hearing this message, Cornelia clasped her
+hands, and placing them on her mouth, she exclaimed, in a low and
+trembling voice, while her words came with difficulty through those
+clenched fingers, "It is my brother, Signors! it is my brother! Without
+doubt he has learned that I am here, and has come to take my life. Help
+and aid, Signors! help and aid!" "Calm yourself, lady," replied Don Antonio; "you are in a place of
+safety, and with people who will not suffer the smallest injury to be
+offered you. The Signor Don Juan will go to inquire what this gentleman
+demands, and I will remain to defend you, if need be, from all
+disturbance." Don Juan prepared to descend accordingly, and Don Antonio, taking his
+loaded pistols, bade the pages belt on their swords, and hold themselves
+in readiness for whatever might happen. The housekeeper, seeing these
+preparations began to tremble,--Cornelia, dreading some fearful result
+was in grievous terror,--Don Juan and Don Antonio alone preserved their
+coolness. Arrived at the door of the house, Don Juan found Don Lorenzo, who,
+coming towards him, said, "I entreat your Lordship"--for such is the
+form of address among Italians--"I entreat your Lordship to do me the
+kindness to accompany me to the neighbouring church; I have to speak to
+you respecting an affair which concerns my life and honour." "Very willingly," replied Don Juan. "Let us go, Signor, wherever you
+please." They walked side by side to the church, where they seated themselves on
+a retired bench, so as not to be overheard. Don Lorenzo was the first to
+break silence. "Signor Spaniard," he said, "I am Lorenzo Bentivoglio; if not of the
+richest, yet of one of the most important families belonging to this
+city; and if this seem like boasting of myself, the notoriety of the
+fact may serve as my excuse for naming it. I was left an orphan many
+years since, and to my guardianship was left a sister, so beautiful,
+that if she were not nearly connected with me, I might perhaps describe
+her in terms that, while they might seem exaggerated, would yet not by
+any means do justice to her attractions. My honour being very dear to
+me, and she being very young, as well as beautiful, I took all possible
+care to guard her at all points; but my best precautions have proved
+vain; the self-will of Cornelia, for that is her name, has rendered all
+useless. In a word, and not to weary you--for this story might become a
+long one,--I will but tell you, that the Duke of Ferrara, Alfonso
+d'Este, vanquishing the eyes of Argus by those of a lynx, has rendered
+all my cares vain, by carrying off my sister last night from the house
+of one of our kindred; and it is even said that she has already become a
+mother. "The misfortune of our house was made known to me last night, and I
+instantly placed myself on the watch; nay, I met and even attacked
+Alfonso, sword in hand; but he was succoured in good time by some angel,
+who would not permit me to efface in his blood the stain he has put upon
+me. My relation has told me, (and it is from her I have heard all,) that
+the duke deluded my sister, under a promise to make her his wife; but
+this I do not believe, for, in respect to present station and wealth,
+the marriage would not be equal, although, in point of blood, all the
+world knows how noble are the Bentivogli of Bologna. What I fear is,
+that the duke has done, what is but too easy when a great and powerful
+Prince desires to win a timid and retiring girl: he has merely called
+her by the tender name of wife, and made her believe that certain
+considerations have prevented him from marrying her at once,--a
+plausible pretence, but false and perfidious. "Be that as it may, I see myself at once deprived of my sister and my
+honour. Up to this moment I have kept the matter secret, purposing not
+to make known the outrage to any one, until I see whether there may not
+be some remedy, or means of satisfaction to be obtained. It is better
+that a disgrace of this kind be supposed and suspected, than certainly
+and distinctly known--seeing that between the yes and the no of a doubt,
+each inclines to the opinion that most attracts him, and both sides of
+the question find defenders. Considering all these things, I have
+determined to repair to Ferrara, and there demand satisfaction from the
+duke himself. If he refuse it, I will then offer him defiance. Yet my
+defiance cannot be made with armed bands, for I could neither get them
+together nor maintain them but as from man to man. For this it is,
+then, that I desire your aid. I hope you will accompany me in the
+journey; nay, I am confident that you will do so, being a Spaniard and a
+gentleman, as I am told you are. "I cannot entrust my purpose to any relation or friend of my family,
+knowing well that from them I should have nothing more than objections
+and remonstrances, while from you I may hope for sensible and honourable
+counsels, even though there should be peril in pursuing them. You must
+do me the favour to go with me, Signor. Having a Spaniard, and such as
+you appear to be, at my side, I shall account myself to have the armies
+of Xerxes. I am asking much at your hands; but the duty of answering
+worthily to what fame publishes of your nation, would oblige you to do
+still more than I ask." "No more, Signor Lorenzo," exclaimed Don Juan, who had not before
+interrupted the brother of Cornelia; "no more. From this moment I accept
+the office you propose to me, and will be your defender and counsellor. I take upon myself the satisfaction of your honour, or due vengeance for
+the affront you have received, not only because I am a Spaniard, but
+because I am a gentleman, and you another, so noble, as you have said,
+as I know you to be, and as, indeed, all the world reputes you. When
+shall we set out? It would be better that we did so immediately, for a
+man does ever well to strike while the iron is hot. The warmth of anger
+increases courage, and a recent affront more effectually awakens
+vengeance." Hearing this, Don Lorenzo rose and embraced Don Juan, saying to him, "A
+person so generous as yourself, Signor Don Juan, needs no other
+incentive than that of the honour to be gained in such a cause: this
+honour you have assured to yourself to-day, if we come out happily from
+our adventure; but I offer you in addition all I can do, or am worth. Our departure I would have to be to-morrow, since I can provide all
+things needful to-day." "This appears to me well decided," replied Don Juan, "but I must beg
+you, Signor Don Lorenzo, to permit me to make all known to a gentleman
+who is my friend, and of whose honour and silence I can assure you even
+more certainly than of my own, if that were possible." "Since you, Signor Don Juan," replied Lorenzo, "have taken charge, as
+you say, of my honour, dispose of this matter as you please; and make it
+known to whom and in what manner it shall seem best to you; how much
+more, then, to a companion of your own, for what can he be but
+everything that is best." This said, the gentlemen embraced each other and took leave, after
+having agreed that on the following morning Lorenzo should send to
+summon Don Juan at an hour fixed on when they should mount their horses
+and pursue their journey in the disguise that Don Lorenzo had selected. Don Juan then returned, and gave an account of all that had passed to
+Don Antonio and Cornelia, not omitting the engagement into which he had
+entered for the morrow. "Good heavens, Signor!" exclaimed Cornelia; "what courtesy! what
+confidence! to think of your committing yourself without hesitation to
+an undertaking so replete with difficulties! How can you know whether
+Lorenzo will take you to Ferrara, or to what place indeed he may conduct
+you? But go with him whither you may, be certain that the very soul of
+honour and good faith will stand beside you. For myself, unhappy
+creature that I am, I shall be terrified at the very atoms that dance in
+the sunbeams, and tremble at every shadow; but how can it be otherwise,
+since on the answer of Duke Alfonso depends my life or death. How do I
+know that he will reply with sufficient courtesy to prevent the anger of
+my brother from passing the limits of discretion? and if Lorenzo should
+draw the sword, think ye he will have a despicable enemy to encounter? Must not I remain through all the days of your absence in a state of
+mortal suspense and terror, awaiting the favourable or grievous
+intelligence that you shall bring me! Do I love either my brother or the
+duke so little as not to tremble for both, and not feel the injury of
+either to my soul?" "Your fears affect your judgment, Signora Cornelia," replied Don Juan;
+"and they go too far. Amidst so many terrors, you should give some place
+to hope, and trust in God. Put some faith also in my care, and in the
+earnest desire I feel to see your affairs attain to a happy conclusion. Your brother cannot avoid making this journey to Ferrara, nor can I
+excuse myself from accompanying him thither. For the present we do not
+know the intentions of the duke, nor even whether he be or be not
+acquainted with your elopement. All this we must learn from his own
+mouth; and there is no one who can better make the inquiry than myself. Be certain, Signora, that the welfare and satisfaction of both your
+brother and the Signor Duke are to me as the apples of my eyes, and that
+I will care for the safety of the one as of the other." "Ah Signor Don Juan," replied Cornelia, "if Heaven grant you as much
+power to remedy, as grace to console misfortune, I must consider myself
+exceedingly fortunate in the midst of my sorrows; and now would I fain
+see you gone and returned; for the whole time of your absence I must
+pass suspended between hope and fear." The determination of Don Juan was approved by Don Antonio, who commended
+him for the justification which he had thereby given to the confidence
+of Lorenzo Bentivoglio. He furthermore told his friend that he would
+gladly accompany him, to be ready for whatever might happen, but Don
+Juan replied--"Not so; first, because you must remain for the better
+security of the lady Cornelia, whom it will not be well to leave alone;
+and secondly, because I would not have Signor Lorenzo suppose that I
+desire to avail myself of the arm of another." "But my arm is your own,"
+returned Don Antonio, "wherefore, if I must even disguise myself, and
+can but follow you at a distance, I will go with you; and as to Signora
+Cornelia, I know well that she will prefer to have me accompany you,
+seeing that she will not here want people who can serve and guard her." "Indeed," said Cornelia, "it will be a great consolation to me to know
+that you are together, Signors, or at least so near as to be able to
+assist each other in case of necessity; and since the undertaking you
+are going on appears to be dangerous, do me the favour, gentlemen, to
+take these Relics with you." Saying this, Cornelia drew from her bosom a
+diamond cross, of great value, with an Agnus of gold equally rich and
+costly. The two gentlemen looked at the magnificent jewels, which they
+esteemed to be of still greater value than the decoration of the hat;
+but they returned them to the lady, each saying that he carried Relics
+of his own, which, though less richly decorated, were at least equally
+efficacious. Cornelia regretted much that they would not accept those
+she offered, but she was compelled to submit. The housekeeper was now informed of the departure of her masters,
+though not of their destination, or of the purpose for which they went. She promised to take the utmost care of the lady, whose name she did not
+know, and assured her masters that she would be so watchful as to
+prevent her suffering in any manner from their absence. Early the following morning Lorenzo was at the door, where he found Don
+Juan ready. The latter had assumed a travelling dress, with the rich
+sombrero presented by the duke, and which he had adorned with black and
+yellow plumes, placing a black covering over the band of brilliants. He
+went to take leave of Cornelia, who, knowing that her brother was near,
+fell into an agony of terror, and could not say one word to the two
+friends who were bidding her adieu. Don Juan went out the first, and
+accompanied Lorenzo beyond the walls of the city, where they found their
+servants waiting with the horses in a retired garden. They mounted, rode
+on before, and the servants guided their masters in the direction of
+Ferrara by ways but little known. Don Antonio followed on a low pony,
+and with such a change of apparel as sufficed to disguise him; but
+fancying that they regarded him with suspicion, especially Lorenzo, he
+determined to pursue the highway, and rejoin his friend in Ferrara,
+where he was certain to find him with but little difficulty. The Spaniards had scarcely got clear of the city before Cornelia had
+confided her whole history to the housekeeper, informing her that the
+infant belonged to herself and to the Duke of Ferrara, and making her
+acquainted with all that has been related, not concealing from her that
+the journey made by her masters was to Ferrara, or that they went
+accompanied by her brother, who was going to challenge the Duke Alfonso. Hearing all this, the housekeeper, as though the devil had sent her to
+complicate the difficulties and defer the restoration of Cornelia, began
+to exclaim--"Alas! lady of my soul! all these things have happened to
+you, and you remain carelessly there with your limbs stretched out, and
+doing nothing! Either you have no soul at all, or you have one so poor
+and weak that you do not feel it! And do you really suppose that your
+brother has gone to Ferrara? Believe nothing of the kind, but rather be
+sure that he has carried off my masters, and wiled them from the house,
+that he may return and take your life, for he can now do it as one
+would drink a cup of water. Consider only under what kind of guard and
+protection we are left--that of three pages, who have enough to do with
+their own pranks, and are little likely to put their hands to any thing
+good. I, for my part, shall certainly not have courage to await what
+must follow, and the destruction that cannot but come upon this house. The Signor Lorenzo, an Italian, to put his trust in Spaniards, and ask
+help and favour from them! By the light of my eyes. I will believe none
+of that!" So saying, she made a fig[3] at herself. "But if you, my
+daughter, will take good advice, I will give you such as shall truly
+enlighten your way." [3] A gesture of contempt or playfulness, as the case may be, and which
+consists in a certain twist of the fingers and thumb. Cornelia was thrown into a pitiable state of alarm and confusion by
+these declarations of file housekeeper, who spoke with so much heat, and
+gave so many evidences of terror, that all she said appeared to be the
+very truth. The lady pictured to herself Don Antonio and Don Juan as
+perhaps already dead; she fancied her brother even then coming in at the
+door, and felt herself already pierced by the blows of his poniard. She
+therefore replied, "What advice do you then give me, good friend, that
+may prevent the catastrophe which threatens us?" "I will give you counsel so good," rejoined the housekeeper, "that
+better could not be. I, Signora, was formerly in the service of a
+priest, who has his abode in a village not more than two miles from
+Ferrara. He is a good and holy man, who will do whatever I require from
+him, since he is under more obligations to me than merely those of a
+master to a faithful servant. Let us go to him. I will seek some one who
+shall conduct us thither instantly; and the woman who comes to nurse the
+infant is a poor creature, who will go with us to the end of the world. And, now make ready, Signora; for supposing you are to be discovered, it
+would be much better that you should be found under the care of a good
+priest, old and respected, than in the hands of two young students,
+bachelors and Spaniards, who, as I can myself bear witness, are but
+little disposed to lose occasions for amusing themselves. Now that you
+are unwell, they treat you with respect; but if you get well and remain
+in their clutches, Heaven alone will be able to help you; for truly, if
+my cold disdain and repulses had not been my safeguard, they would long
+since have torn my honour to rags. All is not gold that glitters. Men
+say one thing, but think another: happily, it is with me that they have
+to do; and I am not to be deceived, but know well when the shoe pinches
+my foot. Above all, I am well born, for I belong to the Crivellis of
+Milan, and I carry the point of honour ten thousand feet above the
+clouds; by this you may judge, Signora, through what troubles I have had
+to pass, since, being what I am, I have been brought to serve as the
+housekeeper of Spaniards, or as, what they call, their _gouvernante_. Not that I have, in truth, any complaint to make of my masters, who are
+a couple of half-saints[4] when they are not put into a rage. And, in
+this respect, they would seem to be Biscayans, as, indeed, they say they
+are. But, after all, they may be Galicians, which is another nation, and
+much less exact than the Biscayans; neither are they so much to be
+depended on as the people of the Bay." [4] The original is _benditos_, which sometimes means simpleton, but is
+here equivalent to the Italian _beato_, and must be rendered as in the
+text. By all this verbiage, and more beside, the bewildered lady was induced
+to follow the advice of the old woman, insomuch that, in less than four
+hours after the departure of the friends, their housekeeper making all
+arrangements, and Cornelia consenting, the latter was seated in a
+carriage with the nurse of the babe, and without being heard by the
+pages they set off on their way to the curate's village. All this was
+done not only by the advice of the housekeeper, but also with her money;
+for her masters had just before paid her a year's wages, and therefore
+it was not needful that she should take a jewel which Cornelia had
+offered her for the purposes of their journey. Having heard Don Juan say that her brother and himself would not follow
+the highway to Ferrara, but proceed thither by retired paths, Cornelia
+thought it best to take the high road. She bade the driver, go slowly,
+that they might not overtake the gentlemen in any case; and the master
+of the carriage was well content to do as they liked, since they had
+paid him as he liked. We will leave them on their way, which they take with as much boldness
+as good direction, and let us see what happened to Don Juan de Gamboa
+and Signor Lorenzo Bentivoglio. On their way they heard that the duke
+had not gone to Ferrara, but was still at Bologna, wherefore, abandoning
+the round they were making, they regained the high road, considering
+that it was by this the duke would travel on his return to Ferrara. Nor
+had they long entered thereon before they perceived a troop of men on
+horseback coming as it seemed from Bologna. Don Juan then begged Lorenzo to withdraw to a little distance, since, if
+the duke should chance to be of the company approaching, it would be
+desirable that he should speak to him before he could enter Ferrara,
+which was but a short distance from them. Lorenzo complied, and as soon
+as he had withdrawn, Don Juan removed the covering by which he had
+concealed the rich ornament of his hat; but this was not done without
+some little indiscretion, as he was himself the first to admit some time
+after. Meanwhile the travellers approached; among them came a woman on a
+pied-horse, dressed in a travelling habit, and her face covered with a
+silk mask, either to conceal her features, or to shelter them from the
+effects of the sun and air. Don Juan pulled up his horse in the middle of the road, and remained
+with his face uncovered, awaiting the arrival of the cavalcade. As they
+approached him, the height, good looks, and spirited attitude of the
+Spaniard, the beauty of his horse, his peculiar dress, and, above all,
+the lustre of the diamonds on his hat, attracted the eyes of the whole
+party but especially those of the Duke of Ferrara, the principal
+personage of the group, who no sooner beheld the band of brilliants than
+he understood the cavalier before him to be Don Juan de Gamboa, his
+deliverer in the combat frequently alluded to. So well convinced did he
+feel of this, that, without further question, he rode up to Don Juan,
+saying, "I shall certainly not deceive myself, Signor Cavalier, if I
+call you Don Juan de Gamboa, for your spirited looks, and the decoration
+you wear on your hat, alike assure me of the fact." "It is true that I am the person you say," replied Don Juan. "I have
+never yet desired to conceal my name; but tell me, Signor, who you are
+yourself, that I may not be surprised into any discourtesy." "Discourtesy from you, Signor, would be impossible," rejoined the duke. "I feel sure that you could not be discourteous in any case; but I
+hasten to tell you, nevertheless, that I am the Duke of Ferrara, and a
+man who will be bound to do you service all the days of his life, since
+it is but a few nights since you gave him that life which must else have
+been lost." Alfonzo had not finished speaking, when Don Juan, springing lightly from
+his horse, hastened to kiss the feet of the duke; but, with all his
+agility, the latter was already out of the saddle, and alighted in the
+arms of the Spaniard. Seeing this, Signor Lorenzo, who could but observe these ceremonies from
+a distance, believed that what he beheld was the effect of anger rather
+than courtesy; he therefore put his horse to its speed, but pulled up
+midway on perceiving that the duke and Don Juan were of a verity clasped
+in each other's arms. It then chanced that Alfonso, looking over the
+shoulders of Don Juan, perceived Lorenzo, whom he instantly recognised;
+and somewhat disconcerted at his appearance, while still holding Don
+Juan embraced, he inquired if Lorenzo Bentivoglio, whom he there beheld,
+had come with him or not. Don Juan replied, "Let us move somewhat apart
+from this place, and I will relate to your excellency some very singular
+circumstances." The duke having done as he was requested, Don Juan said to him, "My Lord
+Duke, I must tell you that Lorenzo Bentivoglio, whom you there see, has
+a cause of complaint against you, and not a light one; he avers that
+some nights since you took his sister, the Lady Cornelia, from the house
+of a lady, her cousin, and that you have deceived her, and dishonoured
+his house; he desires therefore to know what satisfaction you propose to
+make for this, that he may then see what it behoves him to do. He has
+begged me to be his aid and mediator in the matter, and I have consented
+with a good will, since, from certain indications which he gave me, I
+perceived that the person of whom of complained, and yourself, to whose
+liberal courtesy I owe this rich ornament, were one and the same. Thus,
+seeing that none could more effectually mediate between you than myself,
+I offered to undertake that office willingly, as I have said; and now I
+would have you tell me, Signor, if you know aught of this matter, and
+whether what Lorenzo has told me be true." "Alas, my friend, it is so true," replied the duke, "that I durst not
+deny it, even if I would. Yet I have not deceived or carried off
+Cornelia, although I know that she has disappeared from the house of
+which you speak. I have not deceived her, because I have taken her for
+my wife; and I have not carried her off, since I do not know what has
+become of her. If I have not publicly celebrated my nuptials with her,
+it is because I waited until my mother, who is now at the last
+extremity, should have passed to another life, she desiring greatly that
+I should espouse the Signora Livia, daughter of the Duke of Mantua. There are, besides, other reasons, even more important than this, but
+which it is not convenient that I should now make known. "What has in fact happened is this:--on the night when you came to my
+assistance, I was to have taken Cornelia to Ferrara, she being then in
+the last month of her pregnancy, and about to present me with that
+pledge of our love with which it has pleased God to bless us; but
+whether she was alarmed by our combat or by my delay, I know not; all I
+can tell you is, that when I arrived at the house, I met the confidante
+of our affection just coming out. From her I learned that her mistress
+had that moment left the house, after having given birth to a son, the
+most beautiful that ever had been seen, and whom she had given to one
+Fabio, my servant. The woman is she whom you see here. Fabio is also in
+this company; but of Cornelia and her child I can learn nothing. These
+two days I have passed at Bologna, in ceaseless endeavours to discover
+her, or to obtain some clue to her retreat, but I have not been able to
+learn anything." "In that case," interrupted Don Juan, "if Cornelia and her child were
+now to appear, you would not refuse to admit that the first is your
+wife, and the second your son?" "Certainly not," replied the duke; "for if I value myself on being a
+gentleman, still more highly do I prize the title of Christian. Cornelia, besides, is one who well deserves to be mistress of a kingdom. Let her but come, and whether my mother live or die, the world shall
+know that I maintain my faith, and that my word, given in private, shall
+be publicly redeemed." "And what you have now said to me you are willing to repeat to your
+brother, Signor Lorenzo?" inquired Don Juan. "My only regret is," exclaimed the duke, "that he has not long before
+been acquainted with the truth." Hearing this, Don Juan made sign to Lorenzo that he should join them,
+which he did, alighting from his horse and proceeding towards the place
+where his friends stood, but far from hoping for the good news that
+awaited him. The duke advanced to receive him with open arms, and the first word he
+uttered was to call him brother. Lorenzo scarcely knew how to reply to a
+reception so courteous and a salutation so affectionate. He stood
+amazed, and before he could utter a word, Don Juan said to him, "The
+duke, Signor Lorenzo, is but too happy to admit his affection for your
+sister, the Lady Cornelia; and, at the same time, he assures you, that
+she is his legitimate consort. This, as he now says it to you, he will
+affirm publicly before all the world, when the moment for doing so has
+arrived. He confesses, moreover, that he did propose to remove her from
+the house of her cousin some nights since, intending to take her to
+Ferrara, there to await the proper time for their public espousals,
+which he has only delayed for just causes, which he has declared to me. He describes the conflict he had to maintain against yourself; and adds,
+that when he went to seek Cornelia, he found only her waiting-woman,
+Sulpicia, who is the woman you see yonder: from her he has learned that
+her lady had just given birth to a son, whom she entrusted to a servant
+of the duke, and then left the house in terror, because she feared that
+you, Signor Lorenzo, had been made aware of her secret marriage: the
+lady hoped, moreover, to find the duke awaiting her in the street. But
+it seems that Sulpicia did not give the babe to Fabio, but to some other
+person instead of him, and the child does not appear, neither is the
+Lady Cornelia to be found, in spite of the duke's researches. He admits,
+that all these things have happened by his fault; but declares, that
+whenever your sister shall appear, he is ready to receive her as his
+legitimate wife. Judge, then, Signor Lorenzo, if there be any more to
+say or to desire beyond the discovery of those two dear but unfortunate
+ones--the lady and her infant." To this Lorenzo replied by throwing himself at the feet of the duke,
+who raised him instantly. "From your greatness and Christian
+uprightness, most noble lord and dear brother," said Lorenzo, "my sister
+and I had certainly nothing less than this high honour to expect." Saying this, tears came to his eyes, and the duke felt his own becoming
+moist, for both were equally affected,--the one with the fear of having
+lost his wife, the other by the generous candour of his brother-in-law;
+but at once perceiving the weakness of thus displaying their feelings,
+they both restrained themselves, and drove back those witnesses to their
+source; while the eyes of Don Juan, shining with gladness, seemed almost
+to demand from them the _albricias_[5] of good news, seeing that he
+believed himself to have both Cornelia and her son in his own house. [5] _Albricias_: "Largess!" "Give reward for good tidings." Things were at this point when Don Antonio de Isunza, whom Don Juan
+recognised at a considerable distance by his horse, was perceived
+approaching. He also recognised Don Juan and Lorenzo, but not the duke,
+and did not know what he was to do, or whether he ought to rejoin his
+friend or not. He therefore inquired of the duke's servants who the
+gentleman was, then standing with Lorenzo and Don Juan. They replied
+that it was the Duke of Ferrara; and Don Antonio, knowing less than ever
+what it was best for him to do, remained in some confusion, until he was
+relieved from it by Don Juan, who called him by his name. Seeing that
+all were on foot, Don Antonio also dismounted, and, approaching the
+group, was received with infinite courtesy by the duke, to whom Don Juan
+had already named him as his friend; finally, Don Antonio was made
+acquainted with all that had taken place before his arrival. Rejoicing greatly at what he heard, Don Antonio then said to his
+comrade, "Why, Signor Don Juan, do you not finish your work, and raise
+the joy of these Signors to its acme, by requiring from them the
+albricias for discovering the Lady Cornelia and her son?" "Had you not arrived, I might have taken those albricias you speak of,"
+replied Don Juan; "but now they are yours, Don Antonio, for I am certain
+that the duke and Signor Lorenzo will give them to you most joyfully." The duke and Lorenzo hearing of Cornelia being found, and of albricias,
+inquired the meaning of those words. "What can it be," replied Don Antonio, "if not that I also design to
+become one of the personages in this happily terminating drama, being he
+who is to demand the albricias for the discovery of the Lady Cornelia
+and her son, who are both in my house." He then at once related to the
+brothers, point by point, what has been already told, intelligence which
+gave the duke and Lorenzo so much pleasure, that each embraced one of
+the friends with all his heart, Lorenzo throwing himself into the arms
+of Don Juan, and the duke into those of Don Antonio--the latter
+promising his whole dukedom for albricias, and Lorenzo his life, soul,
+and estates. They then called the woman who had given the child to Don
+Juan, and she having perceived her master, Lorenzo Bentivoglio, came
+forward, trembling. Being asked if she could recognise the man to whom
+she had given the infant, she replied that she could not; but that when
+she had asked if he were Fabio, he had answered "yes," and that she had
+entrusted the babe to his care in the faith of that reply. "All this is true," returned Don Juan; "and you furthermore bade me
+deposit the child in a place of security, and instantly return." "I did so," replied the waiting-woman, weeping. But the duke exclaimed,
+"We will have no more tears; all is gladness and joy. I will not now
+enter Ferrara, but return at once to Bologna; for this happiness is but
+in shadow until made perfect by the sight of Cornelia herself." Then,
+without more words, the whole company wheeled round, and took their way
+to Bologna. Don Antonio now rode forward to prepare the Lady Cornelia, lest the
+sudden appearance of her brother and the duke might cause too violent a
+revulsion; but not finding her as he expected, and the pages being
+unable to give him any intelligence respecting her, he suddenly found
+himself the saddest and most embarrassed man in the world. Learning that
+the gouvernante had departed, he was not long in conjecturing that the
+lady had disappeared by her means. The pages informed him that the
+housekeeper had gone on the same day with himself and Don Juan, but as
+to that Lady Cornelia, respecting whom he inquired, they had never seen
+her. Don Antonio was almost out of his senses at this unexpected
+occurrence, which, he feared, must make the duke consider himself and
+Don Juan to be mere liars and boasters. He was plunged in these sad
+thoughts when Alfonso entered with Lorenzo and Don Juan, who had spurred
+on before the attendants by retired and unfrequented streets. They found
+Don Antonio seated with his head on his hand, and as pale as a man who
+has been long dead, and when Don Juan inquired what ailed him, and where
+was the Lady Cornelia, he replied, "Rather ask me what do I not ail,
+since the Lady Cornelia is not to be found. She quitted the house, on
+the same day as ourselves, with the gouvernante we left to keep her
+company." This sad news seemed as though it would deprive the duke of life, and
+Lorenzo of his senses. The whole party remained in the utmost
+consternation and dismay; when one of the pages said to Don Antonio in a
+whisper, "Signor, Santisteban, Signor Don Juan's page, has had locked up
+in his chamber, from the day when your worships left, a very pretty
+woman, whose name is certainly Cornelia, for I have heard him call her
+so." Plunged into a new embarrassment, Don Antonio would rather not have
+found the lady at all--for he could not but suppose it was she whom the
+page had shut up in his room--than have discovered her in such a place. Nevertheless, without saying a word, he ascended to the page's chamber,
+but found the door fast, for the young man had gone out, and taken away
+the key. Don Antonio therefore put his lips to the keyhole, and said in
+a low voice, "Open the door, Signora Cornelia, and come down to receive
+your brother, and the duke, your husband, who are waiting to take you
+hence." A voice from within replied, "Are you making fun of me? It is certain
+that I am neither so ugly nor so old but that dukes and counts may very
+well be looking for me: but this comes of condescending to visit pages." These words quite satisfied Don Antonio that it was not the Lady
+Cornelia who had replied. At that moment Santisteban returned and went up to his chamber, where he
+found Don Antonio, who had just commanded that all the keys of the
+house should be brought, to see if any one of them would open the door. The page fell on his knees, and held up the key, exclaiming, "Have mercy
+on me, your worship: your absence, or rather my own villainy, made me
+bring this woman to my room; but I entreat your grace, Don Antonio, as
+you would have good news from Spain, that you suffer the fault I have
+committed to remain unknown to my master, Don Juan, if he be not yet
+informed of it; I will turn her out this instant." "What is the name of this woman?" inquired Don Antonio. "Cornelia,"
+replied Santisteban. Down stairs at once went the page who had
+discovered the hidden woman, and who was not much of a friend to
+Santisteban, and entered the room where sat the duke, Don Juan, and
+Lorenzo, and, either from simplicity or malice, began to talk to
+himself, saying, "Well caught, brother page! by Heaven they have made
+you give up your Lady Cornelia! She was well hidden, to be sure; and no
+doubt my gentleman would have liked to see the masters remain away that
+he might enjoy himself some three or four days longer." "What is that you are saying?" cried Lorenzo, who had caught a part of
+these words. "Where is the Lady Cornelia?" "She is above," replied the
+page; and the duke, who supposed that his consort had just made her
+appearance, had scarcely heard the words before he rushed from the
+apartment like a flash of lightning, and, ascending the staircase at a
+bound, gained the chamber into which Don Antonio was entering. "Where is Cornelia? where is the life of my life?" he exclaimed, as he
+hurried into the room. "Cornelia is here," replied a woman who was wrapped in a quilt taken
+from the bed with which she had concealed her face. "Lord bless us!" she
+continued, "one would think an ox had been stolen! Is it a new thing for
+a woman to visit a page, that you make such a fuss about it?" Lorenzo, who had now entered the room, angrily snatched off the sheet
+and exposed to view a woman still young and not ill-looking, who hid her
+face in her hands for shame, while her dress, which served her instead
+of a pillow, sufficiently proved her to be some poor castaway. The duke asked her, was it true her name was Cornelia? It was, she
+replied--adding, that she had very decent parents in the city, but that
+no one could venture to say, "Of this water I will never drink." The duke was so confounded by all he beheld, that he was almost inclined
+to think the Spaniards were making a fool of him; but, not to encourage
+so grievous a suspicion, he turned away without saying a word. Lorenzo
+followed him; they mounted their horses and rode off, leaving Don Juan
+and Don Antonio even more astonished and dismayed than himself. The two friends now determined to leave no means untried, possible or
+impossible, to discover the retreat of the Lady Cornelia, and convince
+the duke of their sincerity and uprightness. They dismissed Santisteban
+for his misconduct, and turned the worthless Cornelia out of the house. Don Juan then remembered that they had neglected to describe to the duke
+those rich jewels wherein Cornelia carried her relics, with the agnus
+she had offered to them; and they went out proposing to mention that
+circumstance, so as to prove to Alfonso that the lady had, indeed, been
+in their care, and that if she had now disappeared, it was not by any
+fault of theirs. They expected to find the duke in Lorenzo's house; but the latter
+informed them that Alfonso had been compelled to leave Bologna, and had
+returned to Ferrara, having committed the search for Cornelia to his
+care. The friends having told him what had brought them, Lorenzo assured
+them that the duke was perfectly convinced of their rectitude in the
+matter, adding, that they both attributed the flight of Cornelia to her
+great fear, but hoped, and did not doubt, that Heaven would permit her
+re-appearance before long, since it was certain that the earth had not
+swallowed the housekeeper, the child, and herself. With these considerations they all consoled themselves, determining not
+to make search by any public announcement, but secretly, since, with the
+exception of her cousin, no person was yet acquainted with the
+disappearance of Cornelia; and Lorenzo judged that a public search might
+prove injurious to his sister's name among such as did not know the
+whole circumstances of the case, since the labour of effacing such
+suspicions as might arise would be infinite, and by no means certain of
+success. The duke meanwhile continued his journey to Ferrara, and favouring
+Fortune, which was now preparing his happiness, led him to the village
+where dwelt that priest in whose house Cornelia, her infant, and the
+housekeeper, were concealed. The good Father was acquainted with the
+whole history, and Cornelia had begged his advice as to what it would be
+best for her to do. Now this priest had been the preceptor of the duke;
+and to his dwelling, which was furnished in a manner befitting that of a
+rich and learned clerk, the duke was in the habit of occasionally
+repairing from Ferrara, and would thence go to the chase, or amuse
+himself with the pleasant conversation of his host, and with the
+knowledge and excellence of which the good priest gave evidence in all
+he did or said. The priest was not surprised to receive a visit from the duke, because,
+as we have said, it was not the first by many; but he was grieved to see
+him sad and dejected, and instantly perceived that his whole soul was
+absorbed in some painful thought. As to Cornelia, having been told that
+the duke was there, she was seized with renewed terror, not knowing how
+her misfortunes were to terminate. She wrung her hands, and hurried from
+one side of her apartment to the other, like a person who had lost her
+senses. Fain would the troubled lady have spoken to the priest, but he
+was in conversation with the Duke, and could not be approached. Alfonso
+was meanwhile saying to him, "I come to you, my father, full of sadness,
+and will not go to Ferrara to-day, but remain your guest; give orders
+for all my attendants to proceed to the city, and let none remain with
+me but Fabio." The priest went to give directions accordingly, as also to see that his
+own servants made due preparations; and Cornelia then found an
+opportunity for speaking to him. She took his two hands and said, "Ah,
+my father, and dear sir, what has the duke come for? for the love of God
+see what can be done to save me! I pray you, seek to discover what he
+proposes. As a friend, do for me whatever shall seem best to your
+prudence and great wisdom." The priest replied, "Duke Alfonso has come to me in deep sadness, but
+up to this moment he has not told me the cause. What I would have you
+now do is to dress this infant with great care, put on it all the jewels
+you have with you, more especially such as you may have received from
+the duke himself; leave the rest to me, and I have hope that Heaven is
+about to grant us a happy day." Cornelia embraced the good man, and
+kissed his hand, and then retired to dress and adorn the babe, as he had
+desired. The priest, meanwhile, returned to entertain the duke with conversation
+while his people were preparing their meal; and in the course of their
+colloquy he inquired if he might venture to ask him the cause of his
+grief, since it was easy to see at the distance of a league that,
+something gave him sorrow. "Father," replied the duke, "it is true that the sadness of the heart
+rises to the face, and in the eyes may be read the history of that which
+passes in the soul; but for the present I cannot confide the cause of my
+sorrow to any one." "Then we will not speak of it further, my lord duke," replied the
+priest; "but if you were in a condition permitting you to examine a
+curious and beautiful thing, I have one to show you which I cannot but
+think would afford you great pleasure." "He would be very unwise," returned Alfonso, "who, when offered a solace
+for his suffering, refuses to accept it. Wherefore show me what you
+speak of, father; the object is doubtless an addition to one of your
+curious collections, and they have all great interest in my eyes." The priest then rose, and repaired to the apartment where Cornelia was
+awaiting him with her son, whom she had adorned as he had suggested,
+having placed on him the relics and agnus, with other rich jewels, all
+gifts of the duke to the babe's mother. Taking the infant from her
+hands, the good priest then went to the duke, and telling him that he
+must rise and come to the light of the window, he transferred the babe
+from his own arms into those of Alfonso, who could not but instantly
+remark the jewels; and perceiving that they were those which he had
+himself given to Cornelia, he remained in great surprise. Looking
+earnestly at the infant, meanwhile, he fancied he beheld his own
+portrait; and full of admiration, he asked the priest to whom the child
+belonged, remarking, that from its decorations and appearance one might
+take it to be the son of some princess. "I do not know," replied the priest, "to whom it belongs; all I can tell
+you is, that it was brought to me some nights since by a cavalier of
+Bologna, who charged me to take good care of the babe and bring it up
+heedfully, since it was the son of a noble and valiant father, and of a
+mother highly born as well as beautiful. With the cavalier there came
+also a woman to suckle the infant, and of her I have inquired if she
+knew anything of the parents, but she tells me that she knows nothing
+whatever; yet of a truth, if the mother possess but half the beauty of
+the nurse, she must be the most lovely woman in Italy." "Could I not see her?" asked the Duke. "Yes, certainly you may see her,"
+returned the priest. "You have only to come with me; and if the beauty
+and decorations of the child surprise you, I think the sight of the
+nurse cannot fail to produce an equal effect." The priest would then have taken the infant from the duke, but Alfonso
+would not let it go; he pressed it in his arms, and gave it repeated
+kisses; the good father, meanwhile, hastened forward, and bade Cornelia
+approach to receive the duke. The lady obeyed; her emotion giving so
+rich a colour to her face that the beauty she displayed seemed something
+more than human. The duke, on seeing her, remained as if struck by a
+thunderbolt, while she, throwing herself at his feet, sought to kiss
+them. The duke said not a word, but gave the infant to the priest, and
+hurried out of the apartment. Shocked at this, Cornelia said to the priest, "Alas, dear father, have I
+terrified the duke with the sight of my face? am I become hateful to
+him? Has he forgot the ties by which he has bound himself to me? Will he
+not speak one word to me? Was his child such a burden to him that he has
+thus rejected him from his arm's?" To all these questions the good priest could give no reply, for he too
+was utterly confounded by the duke's hasty departure, which seemed more
+like a flight than anything else. Meanwhile Alfonso had but gone out to summon Fabio. "Ride Fabio, my
+friend," he cried, "ride for your life to Bologna, and tell Lorenzo
+Bentivoglio that he must come with all speed to this place; let him
+make no excuse, and bid him bring with him the two Spanish gentlemen,
+Don Juan de Gamboa and Don Antonio de Isunza. Return instantly, Fabio,
+but not without them, for it concerns my life to see them here." Fabio required no further pressing, but instantly carried his master's
+commands into effect. The duke returned at once to Cornelia, caught her
+in his arms, mingled his tears with hers, and kissed her a thousand
+times; and long did the fond pair remain thus silently locked in each
+other's embrace, both speechless from excess of joy. The nurse of the
+infant and the dame, who proclaimed herself a Crivella, beheld all this
+from the door of the adjoining apartment, and fell into such ecstasies
+of delight that they knocked their heads against the wall, and seemed
+all at once to have gone out of their wits. The priest bestowed a
+thousand kisses on the infant, whom he held on one arm, while with his
+right hand he showered no end of benedictions on the noble pair. At
+length his reverence's housekeeper, who had been occupied with her
+culinary preparations, and knew nothing of what had occurred, entered to
+notify to her master that dinner was on the table, and so put an end to
+this scene of rapture. The duke then took his babe from the arms of the priest, and kept it in
+his own during the repast, which was more remarkable for neatness and
+good taste than for splendour. While they were at table, Cornelia
+related to the duke all that had occurred until she had taken refuge
+with the priest, by the advice of the housekeeper of those two Spanish
+gentlemen, who had protected and guarded her with such assiduous and
+respectful kindness. In return the duke related to her all that had
+befallen himself during the same interval; and the two housekeepers, who
+were present, received from him the most encouraging promises. All was
+joy and satisfaction, and nothing more was required for the general
+happiness, save the arrival of Lorenzo, Don Antonio, and Don Juan. They came on the third day, all intensely anxious to know if the duke
+had received intelligence of Cornelia, seeing that Fabio, who did not
+know what had happened, could tell them nothing on that subject. The duke received them alone in the antechamber, but gave no sign of
+gladness in his face, to their great grief and disappointment. Bidding
+them be seated, Alfonso himself sat down, and thus addressed Lorenzo:--
+
+"You well know, Signor Lorenzo Bentivoglio, that I never deceived your
+sister, as my conscience and Heaven itself can bear witness; you know
+also the diligence with which I have sought her, and the wish I have
+felt to have my marriage with her celebrated publicly. But she is not to
+be found, and my word cannot so considered eternally engaged to a
+shadow. I am a young man, and am not so _blase_ as to leave ungathered
+such pleasures as I find on my path. Before I had ever seen Cornelia I
+had given my promise to a peasant girl of this village, but whom I was
+tempted to abandon by the superior charms of Cornelia, giving therein a
+great proof of my love for the latter, in defiance of the voice of my
+conscience. Now, therefore, since no one can marry a woman who does not
+appear, and it is not reasonable that a man should eternally run after a
+wife who deserts him, lest he should take to his arms one who abhors
+him, I would have you consider, Signor Lorenzo, whether I can give you
+any further satisfaction for an affront which was never intended to be
+one; and further, I would have you give me your permission to accomplish
+my first promise, and solemnise my marriage with the peasant girl, who
+is now in this house." While the duke spoke this, Lorenzo's frequent change of colour, and the
+difficulty with which he forced himself to retain his seat, gave
+manifest proof that anger was taking possession of all his senses. The
+same feelings agitated Don Antonio and Don Juan, who were resolved not
+to permit the duke to fulfil his intention, even should they be
+compelled to prevent it by depriving him of life. Alfonso, reading these
+resolves in their faces, resumed: "Endeavour to calm yourself, Signor
+Lorenzo; and before you answer me one word, I will have you see the
+beauty of her whom I desire to take to wife, for it is such that you
+cannot refuse your consent, and it might suffice, as you will
+acknowledge, to excuse a graver error than mine." So saying, the duke rose, and repaired to the apartment where Cornelia
+was awaiting him in all the splendour of her beauty and rich
+decorations. No sooner was he gone than Don Juan also rose, and laying
+both hands on the arms of Lorenzo's chair, he said to him, "By St. James
+of Galicia, by the true faith of a Christian, and by my honour as a
+gentleman, Signor Lorenzo, I will as readily allow the duke to fulfil
+his project as I will become a worshipper of Mahomed. Here, in this
+spot, he shall yield up his life at my hands, or he shall redeem the
+promise given to your sister, the lady Cornelia. At the least, he shall
+give us time to seek her; and until we know to a certainty that she is
+dead, he shall not marry." "That is exactly my own view," replied Lorenzo. "And I am sure,"
+rejoined Don Juan, "that it will be the determination of my comrade, Don
+Antonio, likewise." While they were thus speaking, Cornelia appeared at the door between the
+duke and the priest, each of whom led her by one hand. Behind them came
+Sulpicia, her waiting woman, whom the duke had summoned from Ferrara to
+attend her lady, with the infant's nurse, and the Spaniards'
+housekeeper. When Lorenzo saw his sister, and had assured himself it was
+indeed Cornelia,--for at first the apparently impossible character of
+the occurrence had forbidden his belief,--he staggered on his feet, and
+cast himself at those of the duke, who, raising him, placed him in the
+arms of his delighted sister, whilst Don Juan and Don Antonio hastily
+applauded the duke for the clever trick he had played upon them all. Alfonso then took the infant from Sulpicia, and, presenting it to
+Lorenzo, he said, "Signor and brother, receive your nephew, my son, and
+see whether it please you to give permission for the public
+solemnisation of my marriage with this peasant girl--the only one to
+whom I have ever been betrothed." To repeat the replies of Lorenzo would be never to make an end, and the
+rather if to these we added the questions of Don Juan, the remarks of
+Don Antonio, the expressions of delight uttered by the priest, the
+rejoicing of Sulpicia, the satisfaction of the housekeeper who had made
+herself the counsellor of Cornelia, the exclamations of the nurse, and
+the astonishment of Fabio, with the general happiness of all. The marriage ceremony was performed by the good priest, and Don Juan de
+Gamboa gave away the bride; but it was agreed among the parties that
+this marriage also should be kept secret, until he knew the result of
+the malady under which the duchess-dowager was labouring; for the
+present, therefore, it was determined that Cornelia should return to
+Bologna with her brother. All was done as thus agreed on; and when the
+duchess-dowager died, Cornelia made her entrance into Ferrara, rejoicing
+the eyes of all who beheld her: the mourning weeds were exchanged for
+festive robes, the two housekeepers were enriched, and Sulpicia was
+married to Fabio. For Don Antonio and Don Juan, they were sufficiently
+rewarded by the services they had rendered to the duke, who offered them
+two of his cousins in marriage, with rich dowries. But they replied,
+that the gentlemen of the Biscayan nation married for the most part in
+their own country; wherefore, not because they despised so honourable a
+proffer, which was not possible, but that they might not depart from a
+custom so laudable, they were compelled to decline that illustrious
+alliance, and the rather as they were still subject to the will of their
+parents, who had, most probably, already affianced them. The duke admitted the validity of their excuses, but, availing himself
+of occasions warranted by custom and courtesy, he found means to load
+the two friends with rich gifts, which he sent from time to time to
+their house in Bologna. Many of these were of such value, that although
+they might have been refused for fear of seeming to receive a payment,
+yet the appropriate manner in which they were presented, and the
+particular periods at which Alfonso took care that they should arrive,
+caused their acceptance to be easy, not to say inevitable; such, for
+example, were those despatched by him at the moment of their departure
+for their own country, and those which he gave them when they came to
+Ferrara to take their leave of him. At this period, the Spanish gentlemen found Cornelia the mother of two
+little girls, and the duke more enamoured of his wife than ever. The
+duchess gave the diamond cross to Don Juan, and the gold agnus to Don
+Antonio, both of whom had now no choice but to accept them. They finally
+arrived without accident in their native Spain, where they married rich,
+noble, and beautiful ladies; and they never ceased to maintain a
+friendly correspondence with the duke and duchess of Ferrara, and with
+Lorenzo Bentivoglio, to the great satisfaction of all parties. END OF THE LADY CORNELIA. RINCONETE AND CORTADILLO:
+
+_Or, Peter of the Corner and the Little Cutter._
+
+
+At the Venta or hostelry of the Mulinillo, which is situate on the
+confines of the renowned plain of Alcudia, and on the road from Castile
+to Andalusia, two striplings met by chance on one of the hottest days of
+summer. One of them was about fourteen or fifteen years of age; the
+other could not have passed his seventeenth year. Both were well formed,
+and of comely features, but in very ragged and tattered plight. Cloaks
+they had none; their breeches were of linen, and their stockings were
+merely those bestowed on them by Nature. It is true they boasted shoes;
+one of them wore alpargates,[6] or rather dragged them along at his
+heels; the other had what might as well have been shackles for all the
+good they did the wearer, being rent in the uppers, and without soles. Their respective head-dresses were a montera[7] and a miserable
+sombrero, low in the crown and wide in the brim. On his shoulder, and
+crossing his breast like a scarf, one of them carried a shirt, the
+colour of chamois leather; the body of this garment was rolled up and
+thrust into one of its sleeves: the other, though travelling without
+incumbrance, bore on his chest what seemed a large pack, but which
+proved, on closer inspection, to be the remains of a starched ruff, now
+stiffened with grease instead of starch, and so worn and frayed that it
+looked like a bundle of hemp. [6] The _alpargates_ are a kind of sandal made of cord. [7] _Montera_, a low cap, without visor or front to shade the eyes. Within this collar, wrapped up and carefully treasured, was a pack of
+cards, excessively dirty, and reduced to an oval form by repeated paring
+of their dilapidated corners. The lads were both much burned by the sun,
+their hands were anything but clean, and their long nails were edged
+with black; one had a dudgeon-dagger by his side; the other a knife with
+a yellow handle. These gentlemen had selected for their siesta the porch or penthouse
+commonly found before a Venta; and, finding themselves opposite each
+other, he who appeared to be the elder said to the younger, "Of what
+country is your worship, noble Sir, and by what road do you propose to
+travel?" "What is my country, Senor Cavalier," returned the other, "I
+know not; nor yet which way my road lies." "Your worship, however, does not appear to have come from heaven,"
+rejoined the elder, "and as this is not a place wherein a man can take
+up his abode for good, you must, of necessity, be going further." "That
+is true," replied the younger; "I have, nevertheless, told you only the
+veritable fact; for as to my country, it is mine no more, since all that
+belongs to me there is a father who does not consider me his child, and
+a step-mother who treats me like a son-in-law. With regard to my road,
+it is that which chance places before me, and it will end wherever I may
+find some one who will give me the wherewithal to sustain this miserable
+life of mine." "Is your worship acquainted with any craft?" inquired the first speaker. "With none," returned the other, "except that I can run like a hare,
+leap like a goat, and handle a pair of scissors with great dexterity." "These things are all very good, useful, and profitable," rejoined the
+elder. "You will readily find the Sacristan of some church who will give
+your worship the offering-bread of All Saints' Day, for cutting him his
+paper flowers to decorate the Monument[8] on Holy Thursday." [8] The Monument is a sort of temporary theatre, erected in the churches
+during Passion Week, and on which the passion of the Saviour is
+represented. "But that is not my manner of cutting," replied the younger. "My father,
+who, by God's mercy, is a tailor and hose maker, taught me to cut out
+that kind of spatterdashes properly called Polainas, which, as your
+worship knows, cover the fore part of the leg and come down over the
+instep. These I can cut out in such style, that I could pass an
+examination for the rank of master in the craft; but my ill luck keeps
+my talents in obscurity." "The common lot, Senor, of able men," replied the first speaker, "for I
+have always heard that it is the way of the world to let the finest
+talents go to waste; but your worship is still at an age when this evil
+fortune may be remedied, and the rather since, if I mistake not, and my
+eyes do not deceive me, you have other advantageous qualities which it
+is your pleasure to keep secret." "It is true that I have such,"
+returned the younger gentleman, "but they are not of a character to be
+publicly proclaimed, as your worship has very judiciously observed." "But I," rejoined the elder, "may with confidence assure you, that I am
+one of the most discreet and prudent persons to be found within many a
+league. In order to induce your worship to open your heart and repose
+your faith on my honour, I will enlist your sympathies by first laying
+bare my own bosom; for I imagine that fate has not brought us together
+without some hidden purpose. Nay, I believe that we are to be true
+friends from this day to the end of our lives. "I, then, Senor Hidalgo, am a native of Fuenfrida, a place very well
+known, indeed renowned for the illustrious travellers who are constantly
+passing through it. My name is Pedro del Rincon,[9] my father is a
+person of quality, and a Minister of the Holy Crusade, since he holds
+the important charge of a Bulero or Buldero,[10] as the vulgar call it. I was for some time his assistant in that office, and acquitted myself
+so well, that in all things concerning the sale of bulls I could hold my
+own with any man, though he had the right to consider himself the most
+accomplished in the profession. But one day, having placed my affections
+on the money produced by the bulls, rather than on the bulls themselves,
+I took a bag of crowns to my arms, and we two departed together for
+Madrid. [9] Peter of the Corner; _rincon_ meaning a corner, or obscure nook. [10] The Spanish authorities, under the pretext of being at perpetual
+war with Infidels, still cause "Bulls of the Crusade," to the possession
+of which certain indulgences are attached, to be publicly sold in
+obscure villages. The product of these sales was originally expended on
+the wars with the Moors, but from the time when Granada fell into the
+hands of the Spaniards, it has been divided between the church and
+state. The bulls are carried about by hawkers, who are called
+"Buleros."--_Viardot_. "In that city, such are the facilities that offer themselves, I soon
+gutted my bag, and left it with as many wrinkles as a bridegroom's
+pocket-handkerchief. The person who was charged with the collection of
+the money, hastened to track my steps; I was taken, and met with but
+scant indulgence; only, in consideration of my youth, their worships the
+judges contented themselves with introducing me to the acquaintance of
+the whipping-post, to have the flies whisked from my shoulders for a
+certain time, and commanding me to abstain from revisiting the Court and
+Capital during a period of four years. I took the matter coolly, bent my
+shoulders to the operation performed at their command, and made so much
+haste to begin my prescribed term of exile, that I had no time to
+procure sumpter mules, but contented myself with selecting from my
+valuables such as seemed most important and useful. "I did not fail to include this pack of cards among them,"--here the
+speaker exhibited that oviform specimen already mentioned--"and with
+these I have gained my bread among the inns and taverns between Madrid
+and this place, by playing at Vingt-et-un. It is true they are somewhat
+soiled and worn, as your worship sees; but for him who knows how to
+handle them, they possess a marvellous virtue, which is, that you never
+cut them but you find an ace at the bottom; if your worship then is
+acquainted with the game, you will see what an advantage it is to know
+for certain that you have an ace to begin with, since you may count it
+either for one or eleven; and so you may be pretty sure that when the
+stakes are laid at twenty-one, your money will be much disposed to stay
+at home. "In addition to this, I have acquired the knowledge of certain mysteries
+regarding Lansquenet and Reversis, from the cook of an ambassador who
+shall be nameless,--insomuch that, even as your worship might pass as
+master in the cutting of spatterdashes, so could I, too, take my degrees
+in the art of flat-catching. "With all these acquirements, I am tolerably sure of not dying from
+hunger, since, even in the most retired farm-house I come to, there is
+always some one to be found who will not refuse himself the recreation
+of a few moments at cards. We have but to make a trial where we are; let
+us spread the net, and it will go hard with us if some bird out of all
+the Muleteers standing about do not fall into it. I mean to say, that if
+we two begin now to play at Vingt-et-un as though we were in earnest,
+some one will probably desire to make a third, and, in that case, he
+shall be the man to leave his money behind him." "With all my heart," replied the younger lad: "and I consider that your
+excellency has done me a great favour by communicating to me the history
+of your life. You have thereby made it impossible for me to conceal
+mine, and I will hasten to relate it as briefly as possible. Here it is,
+then:--
+
+"I was born at Pedroso, a village situate between Salamanca and Medina
+del Campo. My father is a tailor, as I have said, and taught me his
+trade; but from cutting with the scissors I proceeded--my natural
+abilities coming in aid--to the cutting of purses. The dull, mean life
+of the village, and the unloving conduct of my mother-in-law, were
+besides but little to my taste. I quitted my birthplace, therefore,
+repaired to Toledo to exercise my art, and succeeded in it to
+admiration; for there is not a reliquary suspended to the dress, not a
+pocket, however carefully concealed, but my fingers shall probe its
+contents, or my scissors snip it off, though the owner were guarded by
+the eyes of Argus. "During four months I spent in Toledo, I was never trapped between two
+doors, nor caught in the fact, nor pursued by the runners of justice,
+nor blown upon by an informer. It is true that, eight days ago, a double
+spy[11] did set forth my distinguished abilities to the Corregidor, and
+the latter, taking a fancy to me from his description, desired to make
+my acquaintance; but I am a modest youth, and do not wish to frequent
+the society of personages so important. Wherefore I took pains to excuse
+myself from visiting him, and departed in so much haste, that I, like
+yourself, had no time to procure sumpter-mules or small change,--nay, I
+could not even find a return-chaise, nor so much as a cart." [11] An _alguazil_, who, while in the service of justice, is also in
+that of the thieves. He betrays them, nevertheless, whenever it suits
+his purpose to do so:
+
+"Console yourself for these omissions," replied Pedro del Rincon; "and
+since we now know each other, let us drop these grand and stately airs,
+and confess frankly that we have not a blessed farthing between us, nor
+even shoes to our feet." "Be it so," returned Diego Cortado, for so the younger boy called
+himself. "Be it so; and since our friendship, as your worship Senor
+Rincon is pleased to say, is to last our whole lives, let us begin it
+with solemn and laudable ceremonies,"--saying which, Diego rose to his
+feet, and embraced the Senor Rincon, who returned the compliment with
+equal tenderness and emotion. They then began to play at Vingt-et-un with the cards above described,
+which were certainly "free from dust and straw,"[12] as we say, but by
+no means free from grease and knavery; and after a few deals, Cortado
+could turn up an ace as well as Rincon his master. When things had
+attained this point, it chanced that a Muleteer came out at the porch,
+and, as Rincon had anticipated, he soon proposed to make a third in
+their game. [12] "Clean from dust and straw"--_limpios de polvo y paja_--is a phrase
+equivalent to "free of the king's dues." To this they willingly agreed, and in less than half an hour they had
+won from him twelve reals and twenty-two maravedis, which he felt as
+sorely as twelve stabs with a dagger and twenty-two thousand sorrows. Presuming that the young chaps would not venture to defend themselves,
+he thought to get back his money by force; but the two friends laying
+hands promptly, the one on his dudgeon dagger and the other on his
+yellow handled knife, gave the Muleteer so much to do, that if his
+companions had not hastened to assist him, he would have come badly out
+of the quarrel. At that moment there chanced to pass by a company of travellers on
+horseback, who were going to make their siesta at the hostelry of the
+Alcalde, about half a league farther on. Seeing the affray between the
+Muleteer with two boys, they interposed, and offered to take the latter
+in their company to Seville, if they were going to that city. "That is exactly where we desire to go," exclaimed Rincon, "and we will
+serve your worships in all that it shall please you to command." Whereupon, without more ado, they sprang before the mules, and departed
+with the travellers, leaving the Muleteer despoiled of his money and
+furious with rage, while the hostess was in great admiration of the
+finished education and accomplishments of the two rogues, whose dialogue
+she had heard from beginning to end, while they were not aware of her
+presence. When the hostess told the Muleteer that she had heard the boys say the
+cards they played with were false, the man tore his beard for rage, and
+would have followed them to the other Venta, in the hope of recovering
+his property; for he declared it to be a serious affront, and a matter
+touching his honour, that two boys should have cheated a grown man like
+him. But his companions dissuaded him from doing what they declared
+would be nothing better than publishing his own folly and incapacity;
+and their arguments, although they did not console the Muleteer, were
+sufficient to make him remain where he was. Meanwhile Cortado and Rincon displayed so much zeal and readiness in the
+service of the travellers, that the latter gave them a lift behind them
+for the greater part of the way. They might many a time have rifled the
+portmanteaus of their temporary masters, but did not, lest they should
+thereby lose the happy opportunity of seeing Seville, in which city they
+greatly desired to exercise their talents. Nevertheless, as they entered
+Seville--which they did at the hour of evening prayer, and by the gate
+of the custom-house, on account of the dues to be paid, and the trunks
+to be examined--Cortado could not refrain from making an examination, on
+his own account, of the valise which a Frenchman of the company carried
+with him on the croup of his mule. With his yellow-handled weapon,
+therefore, he gave it so deep and broad a wound in the side that its
+very entrails were exposed to view; and he dexterously drew forth two
+good shirts, a sun-dial, and a memorandum book, things that did not
+greatly please him when he had leisure to examine them. Thinking that
+since the Frenchman carried that valise on his own mule, it must needs
+contain matters of more importance than those he had captured, Cortado
+would fain have looked further into it, but he abstained, as it was
+probable that the deficiency had been already discovered, and the
+remaining effects secured. Before performing this feat the friends had
+taken leave of those who had fed them on their journey, and the
+following day they sold the two shirts in the old clothes' market, which
+is held at the gate of the Almacen or arsenal, obtaining twenty reals
+for their booty. Having despatched this business, they went to see the city, and admired
+the great magnificence and vast size of its principal church, and the
+vast concourse of people on the quays, for it happened to be the season
+for loading the fleet. There were also six galleys on the water, at
+sight of which the friends could not refrain from sighing, as they
+thought the day might come when they should be clapped on board one of
+those vessels for the remainder of their lives. They remarked the large
+number of basket-boys, porters, &c., who went to and fro about the
+ships, and inquired of one among them what sort of a trade it
+was--whether it was very laborious--and what were the gains. An Asturian, of whom they made the inquiry, gave answer to the effect
+that the trade was a very pleasant one, since they had no harbour-dues
+to pay, and often found themselves at the end of the day with six or
+seven reals in their pocket, with which they might eat, drink, and enjoy
+themselves like kings. Those of his calling, he said, had no need to
+seek a master to whom security must be given, and you could dine when
+and where you please, since, in the city of Seville, there is not an
+eating-house, however humble, where you will not find all you want at
+any hour of the day. The account given by the Asturian was by no means discouraging to the
+two friends, neither did his calling seem amiss to them; nay, rather, it
+appeared to be invented for the very purpose of enabling them to
+exercise their own profession in secresy and safety, on account of the
+facilities it offered for entering houses. They consequently determined
+to buy such things as were required for the instant adoption of the new
+trade, especially as they could enter upon it without undergoing any
+previous scrutiny. In reply to their further inquiries, the Asturian told them that it
+would be sufficient if each had a small porter's bag of linen, either
+new or second-hand, so it was but clean, with three palm-baskets, two
+large and one small, wherein to carry the meat, fish, and fruit
+purchased by their employers, while the bag was to be used for carrying
+the bread. He took them to where all these things were sold; they
+supplied themselves out of the plunder of the Frenchman, and in less
+than two hours they might have been taken for regular graduates in their
+new profession, so deftly did they manage their baskets, and so jauntily
+carry their bags. Their instructor furthermore informed them of the
+different places at which they were to make their appearance daily: in
+the morning at the shambles, and at the market of St. Salvador; on
+fast-days at the fish-market; every afternoon on the quay, and on
+Thursdays at the fair. All these lessons the two friends carefully stored in their memory, and
+the following morning both repaired in good time to the market of St.
+Salvador. Scarcely had they arrived before they were remarked by numbers
+of young fellows of the trade, who soon perceived, by the shining
+brightness of their bags and baskets, that they were new beginners. They
+were assailed with a thousand questions, to all which they replied with
+great presence of mind and discretion. Presently up came two customers,
+one of whom had the appearance of a Student, the other was a Soldier;
+both were attracted by the clean and new appearance of their baskets;
+and he who seemed to be a student beckoned Cortado, while the soldier
+engaged Rincon. "In God's name be it! "[13] exclaimed both the novices in
+a breath--Rincon adding, "It is a good beginning of the trade, master,
+since it is your worship that is giving me my hansel." "The hansel shall
+not be a bad one," replied the soldier, "seeing that I have been lucky
+at cards of late, and am in love. I propose this day to regale the
+friends of my lady with a feast, and am come to buy the materials." "Load away, then, your worship," replied Rincon, "and lay on me as much
+as you please, for I feel courage enough to carry off the whole market;
+nay, if you should desire me to aid in cooking what I carry, it shall be
+done with all my heart." [13] This is a formula used in Spain by those who do a thing for the
+first time.--_Viardot_. The soldier was pleased with the boy's ready good-will, and told him
+that if he felt disposed to enter his service he would relieve him from
+the degrading office he then bore; but Rincon declared, that since this
+was the first day on which he had tried it, he was not willing to
+abandon the work so soon, or at least until he had seen what profit
+there was to be made of it; but if it did not suit him, he gave the
+gentleman his word that he would prefer the service offered him even to
+that of a Canon. The soldier laughed, loaded him well, and showed him the house of his
+lady, bidding him observe it well that he might know it another time, so
+that he might be able to send him there again without being obliged to
+accompany him. Rincon promised fidelity and good conduct; the soldier
+gave him three quartos,[14] and the lad returned like a shot to the
+market, that he might lose no opportunity by delay. Besides, he had been
+well advised in respect of diligence by the Asturian, who had likewise
+told him that when he was employed to carry small fish, such as sprats,
+sardines, or flounders, he might very well take a few for himself and
+have the first taste of them, were it only to diminish his expenses of
+the day, but that he must do this with infinite caution and prudence,
+lest the confidence of the employers should be disturbed; for to
+maintain confidence was above all things important in their trade. [14] The Quarto contains four Maravedis. But whatever haste Rincon had made to return, he found Cortado at his
+post before him. The latter instantly inquired how he had got on. Rincon
+opened his hand and showed the three quartos; when Cortado, thrusting
+his arm into his bosom, drew forth a little purse which appeared to have
+once been of amber-coloured silk, and was not badly filled. "It was with
+this," said he, "that my service to his reverence the Student has been
+rewarded--with this and two quartos besides. Do you take it, Rincon, for
+fear of what may follow." Cortado had scarcely given the purse in secret to his companion, before
+the Student returned in a great heat, and looking in mortal alarm. He no
+sooner set eyes on Cortado, than, hastening towards him, he inquired if
+he had by chance seen a purse with such and such marks and tokens, and
+which had disappeared, together with fifteen crowns in gold pieces,
+three double reals, and a certain number of maravedis in quartos and
+octavos. "Did you take it from me yourself," he added, "while I was
+buying in the market, with you standing beside me?" To this Cortado replied with perfect composure, "All I can tell you of
+your purse is, that it cannot be lost, unless, indeed, your worship has
+left it in bad hands." "That is the very thing, sinner that I am," returned the Student. "To a
+certainty I must have left it in bad hands, since it has been stolen
+from me." "I say the same," rejoined Cortado, "but there is a remedy for
+every misfortune excepting death. The best thing your worship can do
+now is to have patience, for after all it is God who has made us, and
+after one day there comes another. If one hour gives us wealth, another
+takes it away; but it may happen that the man who has stolen your purse
+may in time repent, and may return it to your worship, with all the
+interest due on the loan." "The interest I will forgive him," exclaimed the Student; and Cortado
+resumed:--"There are, besides, those letters of excommunication, the
+Paulinas;[15] and there is also good diligence in seeking for the thief,
+which is the mother of success. Of a truth, Sir, I would not willingly
+be in the place of him who has stolen your purse; for if your worship
+have received any of the sacred orders, I should feel as if I had been
+guilty of some great crime--nay of sacrilege--in stealing from your
+person." [15] _Paulinas_ are the letters of excommunication despatched by the
+ecclesiastical courts for the discovery of such things as are supposed
+to be stolen or maliciously concealed. "Most certainly the thief has committed a sacrilege," replied the
+Student, in pitiable tones; "for although I am not in orders, but am
+only a Sacristan of certain nuns, yet the money in my purse was the
+third of the income due from a chapelry, which I had been commissioned
+to receive by a priest, who is one of my friends, so that the purse
+does, in fact, contain blessed and sacred money." "Let him eat his sin with his bread," exclaimed Rincon at that moment;
+"I should be sorry to become bail for the profit he will obtain from it. There will be a day of judgment at the last, when all things will have
+to pass, as they say, through the holes of the colander, and it will
+then be known who was the scoundrel that has had the audacity to plunder
+and make off with the whole third of the revenue of a chapelry! But tell
+me, Mr. Sacristan, on your life, what is the amount of the whole yearly
+income?" "Income to the devil, and you with it,[16]" replied the Sacristan, with
+more rage than was becoming; "am I in a humour to talk to you about
+income? Tell me, brother, if you know anything of the purse; if not, God
+be with you--I must go and have it cried." [16] (This footnote is missing from the printed edition.) "That does not seem to me so bad a remedy," remarked Cortado; "but I
+warn your worship not to forget the precise description of the purse,
+nor the exact sum that it contains; for if you commit the error of a
+single mite, the money will never be suffered to appear again while the
+world is a world, and that you may take for a prophecy." "I am not afraid of committing any mistake in describing the purse,"
+returned the Sacristan, "for I remember it better than I do the ringing
+of my bells, and I shall not commit the error of an atom." Saying this,
+he drew a laced handkerchief from his pocket to wipe away the
+perspiration which rained down his face as from an alembic; but no
+sooner had Cortado set eyes on the handkerchief, than he marked it for
+his own. When the Sacristan had got to a certain distance, therefore, Cortado
+followed, and having overtaken him as he was mounting the steps of a
+church, he took him apart, and poured forth so interminable a string of
+rigmarole, all about the theft of the purse, and the prospect of
+recovering it, that the poor Sacristan could do nothing but listen with
+open mouth, unable to make head or tail of what he said, although he
+made him repeat it two or three times. Cortado meanwhile continued to look fixedly into the eyes of the
+Sacristan, whose own were rivetted on the face of the boy, and seemed to
+hang, as it were, on his words. This gave Cortado an opportunity to
+finish his job, and having cleverly whipped the handkerchief out of the
+pocket, he took leave of the Sacristan, appointing to meet him in the
+evening at the same place, for he suspected that a certain lad of his
+own height and the same occupation, who was a bit of a thief, had stolen
+the purse, and he should be able to ascertain the fact in a few days,
+more or less. Somewhat consoled by this promise, the Sacristan took his leave of
+Cortado, who then returned to the place where Rincon had privily
+witnessed all that had passed. But a little behind him stood another
+basket-boy, who had also seen the whole transaction; and at the moment
+when Cortado passed the handkerchief to Rincon, the stranger accosted
+the pair. "Tell me, gallant gentlemen," said he, "are you admitted to the Mala
+Entrada,[17] or not?" [17] _Mala Entrada_, the evil way. "We do not understand your meaning, noble Sir," replied Rincon. "How! not entered, brave Murcians?" replied the other. "We are neither of Murcia[18] nor of Thebes," replied Cortado. "If you
+have anything else to say to us, speak; if not, go your ways, and God be
+with you." [18] In the slang dialect of Spain, _Murcian_ and _Murcia_, mean thief,
+and the land of thieves. "Oh, your worships do not understand, don't you?" said the porter; "but
+I will soon make you understand, and even sup up my meaning with a
+silver spoon. I mean to ask you, gentlemen, are your worships thieves? But why put the question, since I see well that you are thieves; and it
+is rather for you to tell me how it is that you have not presented
+yourselves at the custom-house of the Senor Monipodio." "Do they then pay duty on the right of thieving in this country, gallant
+Sir?" exclaimed Rincon. "If they do not pay duty, at least they make them register themselves
+with the Senor Monipodio, who is the father, master, and protector of
+thieves; and I recommend you to come with me and pay your respects to
+him forthwith, or, if you refuse to do that, make no attempt to exercise
+your trade without his mark and pass-word, or it will cost you dearly." "I thought, for my part," remarked Cortado, "that the profession of
+thieving was a free one, exempt from all taxes and port dues; or, at
+least, that if we must pay, it is something to be levied in the lump,
+for which we give a mortgage upon our shoulders and our necks; but since
+it is as you say, and every land has its customs, let us pay due respect
+to this of yours; we are now in the first country of the world, and
+without doubt the customs of the place must be in the highest degree
+judicious. Wherefore your worship may be pleased to conduct us to the
+place where this gentleman of whom you have spoken is to be found. I
+cannot but suppose, from what you say, that he is much honoured, of
+great power and influence, of very generous nature, and, above all,
+highly accomplished in the profession." "Honoured, generous, and accomplished! do you say?" replied the boy:
+"aye, that he is; so much so, that during the four years that he has
+held the seat of our chief and father, only four of us have suffered at
+Finibusterry;[19] some thirty or so, and not more, have lost leather;
+and but sixty-two have been lagged." [19] _In finibus terrae_, that is to say, at the gallows, or garotte,
+which to the thief is the end of the earth and all things. "Truly, Sir," rejoined Rincon, "all this is Hebrew to us; we know no
+more about it than we do of flying." "Let us be jogging, then," replied the new-comer, "and on the way I will
+explain to you these and other things, which it is requisite you should
+know as pat as bread to mouth;" and, accordingly, he explained to them a
+whole vocabulary of that thieves' Latin which they call Germanesco, or
+Gerigonza, and which their guide used in the course of his lecture,--by
+no means a short one, for the distance they had to traverse was of
+considerable length. On the road, Rincon said to his new acquaintance, "Does your worship
+happen to be a Thief?" "Yes," replied the lad, "I have that honour, for the service of God and
+of all good people; but I cannot boast of being among the most
+distinguished, since I am as yet but in the year of my novitiate." "It is news to me," remarked Cortado, "that there are thieves for the
+service of God and of good people." "Senor," the other replied, "I don't meddle with theology; but this I
+know, that every one may serve God in his vocation, the more so as daddy
+Monipodio keeps such good order in that respect among all his children." "His must needs be a holy and edifying command," rejoined Rincon, "since
+it enjoins thieves to serve God." "It is so holy and edifying," exclaimed the stranger, "that I don't
+believe a better will ever be known in our trade. His orders are that we
+give something by way of alms out of all we steal, to buy oil for the
+lamp of a highly venerated image, well known in this city; and we have
+really seen great things result from that good work. Not many days ago,
+one of our _cuatreros_ had to take three _ansias_ for having come the
+Murcian over a couple of _roznos_, and although he was but a poor weak
+fellow, and ill of the fever to boot, he bore them all without singing
+out, as though they had been mere trifles. This we of the profession
+attribute to his particular devotion to the Virgin of the Lamp, for he
+was so weak, that, of his own strength, he could not have endured the
+first _desconcierto_ of the hangman's wrist. But now, as I guess, you
+will want to know the meaning of certain words just used; I will take
+physic before I am sick--that is to say, give you the explanation before
+you ask for it. "Be pleased to know then, gentlemen, that a _cuatrero_ is a stealer of
+cattle, the _ansia_ is the question or torture. _Roznos_--saving your
+presence--are asses, and the first _desconcierto_ is the first turn of
+the cord which is given by the executioner when we are on the rack. But
+we do more than burn oil to the Virgin. There is not one of us who does
+not recite his rosary carefully, dividing it into portions for each day
+of the week. Many will not steal at all on a Friday, and on Saturdays we
+never speak to any woman who is called Mary." "All these things fill me with admiration," replied Cortado; "but may I
+trouble your worship to tell me, have you no other penance than this to
+perform? Is there no restitution to make?" "As to restitution," returned the other, "it is a thing not to be
+mentioned; besides, it would be wholly impossible, on account of the
+numerous portions into which things stolen have to be divided before
+each one of the agents and contractors has received the part due to him. When all these have had their share, the original thief would find it
+difficult to make restitution. Moreover, there is no one to bid us do
+anything of that kind, seeing that we do not go to confession. And if
+letters of excommunication are out against us, they rarely come to our
+knowledge, because we take care not to go into the churches while the
+priests are reading them, unless, indeed, it be on the days of Jubilee,
+for then we do go, on account of the vast profits we make from the
+crowds of people assembled on that occasion." "And proceeding in this manner," observed Cortado, "your worships think
+that your lives are good and holy?" "Certainly! for what is there bad in them?" replied the other lad! "Is
+it not worse to be a heretic or a renegade? or to kill your father or
+mother?" "Without doubt," admitted Cortado; "but now, since our fate has decided
+that we are to enter this brotherhood, will your worship be pleased to
+step out a little, for I am dying to behold this Senor Monipodio, of
+whose virtues you relate such fine things." "That wish shall soon be gratified," replied the stranger, "nay even
+from this place we can perceive his house: but your worships must remain
+at the door until I have gone in to see if he be disengaged, since these
+are the hours at which he gives audience." "So be it," replied Rincon; and the thief preceding them for a short
+distance, they saw him enter a house which, so far from being handsome,
+had a very mean and wretched appearance. The two friends remained at the
+door to await their guide, who soon reappeared, and called to them to
+come in. He then bade them remain for the present in a little paved
+court, or patio,[20] so clean and carefully rubbed that the red bricks
+shone as if covered with the finest vermilion. On one side of the court
+was a three-legged stool, before which stood a large pitcher with the
+lip broken off, and on the top of the pitcher was placed a small jug
+equally dilapidated. On the other side lay a rush mat, and in the middle
+was a fragment of crockery which did service as the recipient of some
+sweet basil. [20] The _Patio_, familiar to all who have visited Seville, as forming
+the centre of the houses, and which serves in summer as the general
+sitting-room, so to speak, of the family. The two boys examined these moveables attentively while awaiting the
+descent of the Senor Monipodio, but finding that he delayed his
+appearance, Rincon ventured to put his head into one of two small rooms
+which opened on the court. There he saw two fencing foils, and two
+bucklers of cork hung upon four nails; there was also a great chest, but
+without a lid or anything to cover it, with three rush mats extended on
+the floor. On the wall in face of him was pasted a figure of Our
+Lady--one of the coarsest of prints--and beneath it was a small basket
+of straw, with a little vessel of white earthenware sunk into the wall. The basket Rincon took to be a poor box, for receiving alms, and the
+little basin he supposed to be a receptacle for holy water, as in truth
+they were. While the friends thus waited, there came into the court two young men
+of some twenty years each; they were clothed as students, and were
+followed soon afterwards by two of the basket boys or porters, and a
+blind man. Neither spoke a word to the other, but all began to walk up
+and down in the court. No long time elapsed before there also came in
+two old men clothed in black serge, and with spectacles on their noses,
+which gave them an air of much gravity, and made them look highly
+respectable: each held in his hand a rosary, the beads of which made a
+ringing sound. Behind these men came an old woman wearing a long and
+ample gown, who, without uttering a word, proceeded at once to the room
+wherein was the figure of Our Lady. She then took holy water with the
+greatest devotion, placed herself on her knees before the Virgin, and
+after remaining there a considerable time, first kissed the soil thrice,
+and then rising, lifted her arms and eyes towards heaven, in which
+attitude she remained a certain time longer. She then dropped her alms
+into the little wicker case--and that done, she issued forth among the
+company in the patio. Finally there were assembled in the court as many as fourteen persons of
+various costumes and different professions. Among the latest arrivals
+were two dashing and elegant youths with long moustachios, hats of
+immense brims, broad collars, stiffly starched, coloured stockings,
+garters with great bows and fringed ends, swords of a length beyond that
+permitted by law, and each having a pistol in his belt, with a buckler
+hanging on his arm. No sooner had these men entered, than they began to
+look askance at Rincon and Cortado, whom they were evidently surprised
+to see there, as persons unknown to themselves. At length the new-comers
+accosted the two friends, asking if they were of the brotherhood. "We
+are so," replied Rincon, "and the very humble servants of your worships
+besides." At this moment the Senor Monipodio honoured the respectable assembly
+with his welcome presence. He appeared to be about five or six-and-forty
+years old, tall, and of dark complexion; his eyebrows met on his
+forehead, his black beard was very thick, and his eyes were deeply sunk
+in his head. He had come down in his shirt, through the opening of which
+was seen a hairy bosom, as rough and thick set as a forest of brushwood. Over his shoulders was thrown a serge cloak, reaching nearly to his
+feet, which were cased in old shoes, cut down to make slippers; his legs
+were covered with a kind of linen gaiters, wide and ample, which fell
+low upon his ankles. His hat was that worn by those of the Hampa,
+bell-formed in the crown, and very wide in the brim. [21] Across his
+breast was a leather baldric, supporting a broad, short sword of the
+_perrillo_ fashion. [22] His hands were short and coarse, the fingers
+thick, and the nails much flattened: his legs were concealed by the
+gaiters, but his feet were of immoderate size, and the most clumsy form. In short, he was the coarsest and most repulsive barbarian ever beheld. With him came the conductor of the two friends; who, taking Rincon and
+Cortado each by a hand, presented them to Monipodio, saying, "These are
+the two good boys of whom I spoke to your worship, Senor Monipodio. May
+it please your worship to examine them, and you will see how well they
+are prepared to enter our brotherhood." "That I will do willingly,"
+replied Monipodio. [21] The Braves of the Hampa were a horde of ruffians principally
+Andalusians; they formed a society ready to commit every species of
+wrong and violence. [22] The _perrillo_, or "little dog," was the mark of Julian del Rey, a
+noted armourer of Toledo, by birth a Morisco. But I had forgotten to say, that when Monipodio had first appeared, all
+those who were waiting for him, made a deep and long reverence, the two
+dashing cavaliers alone excepted, who did but just touch their hats, and
+then continued their walk up and down the court. Monipodio also began to pace up and down the patio, and, as he did so,
+he questioned the new disciples as to their trade, their birthplace, and
+their parents. To this Rincon replied, "Our trade is sufficiently
+obvious, since we are here before your worship; as to our country, it
+does not appear to me essential to the matter in hand that we should
+declare it, any more than the names of our parents, since we are not now
+stating our qualifications for admission into some noble order of
+knighthood." "What you say, my son, is true, as well as discreet," replied Monipodio;
+"and it is, without doubt, highly prudent to conceal those
+circumstances; for if things should turn out badly, there is no need to
+have placed upon the books of register, and under the sign manual of the
+justice-clerk, 'So and so, native of such a place, was hanged, or made
+to dance at the whipping-post, on such a day,' with other announcements
+of the like kind, which, to say the least of them, do not sound
+agreeable in respectable ears. Thus, I repeat, that to conceal the name
+and abode of your parents, and even to change your own proper
+appellation, are prudent measures. Between ourselves there must,
+nevertheless, be no concealment: for the present I will ask your names
+only, but these you must give me." Rincon then told his name, and so did Cortado: whereupon Monipodio said,
+"Henceforward I request and desire that you, Rincon, call yourself
+Rinconete, and you, Cortado, Cortadillo; these being names which accord,
+as though made in a mould, with your age and circumstances, as well as
+with our ordinances, which make it needful that we should also know the
+names of the parents of our comrades, because it is our custom to have a
+certain number of masses said every year for the souls of our dead, and
+of the benefactors of our society; and we provide for the payment of the
+priests who say them, by setting apart a share of our swag for that
+purpose. "These masses, thus said and paid for, are of great service to the souls
+aforesaid. Among our benefactors we count the Alguazil, who gives us
+warning; the Advocate, who defends us; the Executioner, who takes pity
+upon us when we have to be whipped, and the man who, when we are running
+along the street, and the people in full cry after us bawling 'Stop
+thief,' throws himself between us and our pursuers, and checks the
+torrent, saying, 'Let the poor wretch alone, his lot is hard enough; let
+him go, and his crime will be his punishment.' We also count among our
+benefactors the good wenches who aid us by their labours while we are in
+prison, or at the galleys; our fathers, and the mothers who brought us
+into the world; and, finally, we take care to include the Clerk of the
+Court, for if he befriend us, there is no crime which he will not find
+means to reduce to a slight fault, and no fault which he does not
+prevent from being punished. For all these our brotherhood causes the
+_sanctimonies_ (ceremonies) I have named to be _solecised_ (solemnised)
+every year, with all possible _grandiloquence_. "Certainly," replied Rinconete (now confirmed in that name), "certainly
+that is a good work, and entirely worthy of the lofty and profound
+genius with which we have heard that you, Senor Monipodio, are endowed. Our parents still enjoy life; but should they precede us to the tomb,
+we will instantly give notice of that circumstance to this happy and
+highly esteemed fraternity, to the end that you may have 'sanctimonies
+solecised' for their souls, as your worship is pleased to say, with the
+customary 'grandiloquence.'" "And so shall it be done," returned Monipodio, "if there be but a piece
+of me left alive to look to it." He then called their conductor, saying, "Hallo! there, Ganchuelo! [23] Is
+the watch set?" "Yes," replied the boy; "three sentinels are on guard,
+and there is no fear of a surprise." "Let us return to business, then,"
+said Monipodio. "I would fain know from you, my sons, what you are able
+to do, that I may assign you an employment in conformity with your
+inclinations and accomplishments." [23] _Ganchuelo_ is the diminutive of _gancho_, a crimp. "I," replied Rinconete, "know a trick or two to gammon a bumpkin; I am
+not a bad hand at hiding what a pal has prigged; I have a good eye for a
+gudgeon; I play well at most games of cards, and have all the best turns
+of the pasteboard at my finger ends; I have cut my eye teeth, and am
+about as easy to lay hold of as a hedgehog; I can creep through a
+cat-hole or down a chimney, as I would enter the door of my father's
+house; and will muster a million of tricks better than I could marshal a
+regiment of soldiers; and flabbergast the knowingest cove a deal sooner
+than pay back a loan of two reals." "These are certainly the rudiments," admitted Monipodio, "but all such
+things are no better than old lavender flowers, so completely worn out
+of all savour that there is not a novice who may not boast of being a
+master in them. They are good for nothing but to catch simpletons who
+are stupid enough to run their heads against the church steeple; but
+time will do much for you, and we must talk further together. On the
+foundation already laid you shall have half a dozen lessons; and I then
+trust in God that you will turn out a famous craftsman, and even,
+mayhap, a master." "My abilities shall always be at your service, and that of the gentlemen
+who are our comrades," replied Rinconete; and Monipodio then turned
+towards Cortadillo. "And you, Cortadillo, what may you be good for?" he inquired; to which
+Cortadillo replied, "For my part I know the trick called 'put in two,
+and take out five,' and I can dive to the bottom of a pocket with great
+precision and dexterity." "Do you know nothing more?" continued
+Monipodio. "Alas, no, for my sins, that is all I can do," admitted
+Cortadillo, "Do not afflict yourself, nevertheless," said the master;
+"you are arrived at a good port, where you will not be drowned, and you
+enter a school in which you can hardly fail to learn all that is
+requisite for your future welfare. And now as to courage: how do you
+feel yourselves provided in that respect, my children?" "How should we
+be provided," returned Rinconete, "but well and amply? We have courage
+enough to attempt whatever may be demanded in our art and profession." "But I would have you to possess a share of that sort which would enable
+you to suffer as well as to dare," replied Monipodio, "which would carry
+you, if need were, through a good half dozen of _ansias_ without opening
+your lips, and without once saying 'This mouth is mine.'" "We already
+know what the _ansias_ are, Senor Monipodio," replied Cortadillo, "and
+are prepared for all; since we are not so ignorant but that we know very
+well, that what the tongue says, the throat must pay for; and great is
+the grace heaven bestows on the bold man (not to give him a different
+name), in making his life or death depend upon the discretion of his
+tongue, as though there were more letters in a No than an Aye." "Halt there, my son; you need say no more," exclaimed Monipodio at this
+point of the discourse. "The words you have just uttered suffice to
+convince, oblige, persuade, and constrain me at once to admit you both
+to full brotherhood, and dispense with your passing through the year of
+novitiate." "I also am of that opinion," said one of the gaily-dressed Bravos; and
+this was the unanimous feeling of the whole assembly. They therefore
+requested that Monipodio would immediately grant the new brethren the
+enjoyment of all the immunities of their confraternity, seeing that
+their good mien and judicious discourse proved them to be entirely
+deserving of that distinction. Monipodio replied, that, to satisfy the wishes of all, he at once
+conferred on those new-comers all the privileges desired, but he
+exhorted the recipients to remember that they were to hold the favour in
+high esteem, since it was a very great one: consisting in the exemption
+from payment of the _media anata_, or tax levied on the first theft they
+should commit, and rendering them free of all the inferior occupations
+of their office for the entire year. They were not obliged, that is to
+say, to bear messages to a brother of higher grade, whether in prison or
+at his own residence. They were permitted to drink their wine without
+water, and to make a feast when and where they pleased, without first
+demanding permission of their principal. They were, furthermore, to
+enter at once on a full share of whatever was brought in by the superior
+brethren, as one of themselves--with many other privileges, which the
+new comers accepted as most signal favours, and on the possession of
+which they were felicitated by all present, in the most polite and
+complimentary terms. While these pleasing ceremonies were in course of being exchanged, a boy
+ran in, panting for breath, and cried out, "The Alguazil of the
+vagabonds is coming direct to the house, but he has none of the
+Marshalsea men with him." "Let no one disturb himself," said Monipodio. "This is a friend; never
+does he come here for our injury. Calm your anxiety, and I will go out
+to speak with him." At these words all resumed their self-possession,
+for they had been considerably alarmed; and Monipodio went forth to the
+door of his house, where he found the Alguazil, with whom he remained
+some minutes in conversation, and then returned to the company. "Who was
+on guard to-day," he asked, "in the market of San Salvador?" "I was,"
+replied the conductor of our two friends, the estimable Ganchuelo. "You!" replied Monipodio. "How then does it happen that you have not
+given notice of an amber-coloured purse which has gone astray there this
+morning, and has carried with it fifteen crowns in gold, two double
+reals, and I know not how many quartos?" "It is true," replied Ganchuelo, "that this purse has disappeared, but
+it was not I took it, nor can I imagine who has done so." "Let there be
+no tricks with me," exclaimed Monipodio; "the purse must be found, since
+the Alguazil demands it, and he is a friend who finds means to do us a
+thousand services in the course of the year." The youth again swore
+that he knew nothing about it, while Monipodio's choler began to rise,
+and in a moment flames seemed to dart from his eyes. "Let none of you
+dare," he shouted, "to venture on infringing the most important rule of
+our order, for he who does so shall pay for it with his life. Let the
+purse be found, and if any one has been concealing it to avoid paying
+the dues, let him now give it up. I will make good to him all that he
+would have been entitled to, and out of my own pocket too; for, come
+what may, the Alguazil must not be suffered to depart without
+satisfaction." But Ganchuelo could do no more than repeat, with all
+manner of oaths and imprecations, that he had neither taken the purse,
+nor ever set eyes on it. All this did but lay fuel on the flame of Monipodio's anger, and the
+entire assembly partook of his emotions; the honourable members
+perceiving that their statutes were violated, and their wise ordinances
+infringed. Seeing, therefore, that the confusion and alarm had now got
+to such a height, Rinconete began to think it time to allay it, and to
+calm the anger of his superior, who was bursting with rage. He took
+counsel for a moment with Cortadillo, and receiving his assent, drew
+forth the purse of the Sacristan, saying:--
+
+"Let all questions cease, gentlemen: here is the purse, from which
+nothing is missing that the Alguazil has described, since my comrade
+Cortadillo prigged it this very day, with a pocket-handkerchief into the
+bargain, which he borrowed from the same owner." Thereupon Cortadillo
+produced the handkerchief before the assembled company. Seeing this, Monipodio exclaimed "Cortadillo the Good! for by that title
+and surname shall you henceforward be distinguished. Keep the
+handkerchief, and I take it upon myself to pay you duly for this
+service; as to the purse, the Alguazil must carry it away just as it is,
+for it belongs to a Sacristan who happens to be his relation, and we
+must make good in his case the proverb, which says, 'To him who gives
+thee the entire bird, thou canst well afford a drumstick of the same.' This good Alguazil can save us from more mischief in one day than we can
+do him good in a hundred." All the brotherhood with one voice approved the spirit and gentlemanly
+proceeding of the two new comers, as well as the judgment and decision
+of their superior, who went out to restore the purse to the Alguazil. As to Cortadillo, he was confirmed in his title of the _Good_, much as
+if the matter had concerned a Don Alonzo Perez de Guzman, surnamed the
+Good, who from the walls of Tarifa threw down to his enemy the dagger
+that was to destroy the life of his only son. [24]
+
+[24] Our readers will perceive that this relates to the atrocity
+committed by the Infant Don Juan of Castille, who, while in revolt
+against his brother, Sancho IV., appeared before the city of Tarifa with
+an army, chiefly composed of Mahometans; finding the infant son of the
+governor, Don Alonzo Perez de Guzman, at nurse in a neighbouring
+village, he took the child, and bearing him to the foot of the walls,
+called on Guzman to surrender the place on pain of seeing his infant
+slaughtered before his eyes in case of refusal. The only reply
+vouchsafed by Don Alonzo was the horrible one alluded to in the text. He
+detached his own dagger from its belt, and threw it to Don Juan, when
+the sanguinary monster, far from respecting the fidelity of his
+opponent, seized the weapon, and pierced the babe to the heart as he had
+threatened to do This anecdote is related, with certain variations, in
+Conde, "La Dominacion de los Arabes en Espana." --See English
+Translation, vol. iii. When Monipodio returned to the assembly he was accompanied by two girls,
+with rouged faces, lips reddened with carmine, and necks plastered with
+white. They wore short camlet cloaks, and exhibited airs of the utmost
+freedom and boldness. At the first glance Rinconete and Cortadillo could
+see what was the profession of these women. They had no sooner entered,
+than they hurried with open arms, the one to Chiquiznaque, the other to
+Maniferro; these were the two bravos, one of whom bore the latter name
+because he had an iron hand, in place of one of his own, which had been
+cut off by the hand of justice. These two men embraced the girls with
+great glee, and inquired if they had brought the wherewithal to moisten
+their throats. "How could we think of neglecting that, old blade!" replied one of the girls, who was called Gananciosa. [25] "Silvatillo,
+your scout, will be here before long with the clothes-basket, crammed
+with whatever good luck has sent us." [25] The winner. And true it was; for an instant afterwards, a boy entered with a
+clothes-basket covered with a sheet. The whole company renewed their rejoicings on the arrival of Silvatillo,
+and Monipodio instantly ordered that one of the mats should be brought
+from the neighbouring chamber, and laid out in the centre of the court. Furthermore he commanded that all the brotherhood should take places
+around it, in order that while they were taking the wrinkles out of
+their stomachs, they might talk about business. To this proposal the old woman, who had been kneeling before the image,
+replied, "Monipodio, my son, I am not in the humour to keep festival
+this morning, for during the last two days I have had a giddiness and
+pain in my head, that go near to make me mad; I must, besides, be at our
+Lady of the Waters before mid-day strikes, having to accomplish my
+devotions and offer my candles there, as well as at the crucifix of St.
+Augustin; for I would not fail to do either, even though it were to snow
+all day and blow a hurricane. What I came here for is to tell you, that
+last night the Renegade and Centipede brought to my house a basket
+somewhat larger than that now before us; it was as full as it could hold
+of fine linen, and, on my life and soul, it was still wet and covered
+with soap, just as they had taken it from under the nose of the
+washerwoman, so that the poor fellows were perspiring and breathless
+beneath its weight. It would have melted your heart to see them as they
+came in, with the water streaming from their faces, and they as red as a
+couple of cherubs. They told me, besides, that they were in pursuit of a
+cattle-dealer, who had just had some sheep weighed at the
+slaughter-house, and they were then hastening off to see if they could
+not contrive to grab a great cat[26] which the dealer carried with him. They could not, therefore, spare time to count the linen, or take it out
+of the basket but they relied on the rectitude of my conscience; and so
+may God grant my honest desires, and preserve us all from the power of
+justice, as these fingers have refrained from touching the basket, which
+is as full as the day it was born." [26] A large purse made of cat-skin. "We cannot doubt it, good mother," replied Monipodio. "Let the basket
+remain where it is; I will come at nightfall to fetch it away, and will
+then ascertain the quantity and quality of its contents, giving to every
+one the portion, due to him, faithfully and truly, as it is my habit to
+do." "Let it be as you shall command," rejoined the old woman; "and now, as
+it is getting late, give me something to drink, if you have it
+there--something that will comfort this miserable stomach, which is
+almost famishing for want." "That you shall have, and enough of it, mother," exclaimed Escalanta,
+the companion of Gananciosa; and, uncovering the basket, she displayed a
+great leather bottle, containing at least two arrobas[27] of wine, with
+a cup made of cork, in which you might comfortably carry off an
+azumbre,[28] or honest half-gallon of the same. This Escalanta now
+filled, and placed it in the hands of the devout old woman, who took it
+in both her own, and, having blown away a little froth from the surface,
+she said,--
+
+[27] The _arroba_ holds about thirty-two pints. [28] The _azumbre_ is two quarts. "You have poured out a large quantity, Escalanta, my daughter; but God
+will give me strength." Whereupon, without once taking breath, and at
+one draught, she poured the whole from the cup down her throat. "It is
+real Guadalcanal,"[29] said the old woman, when she had taken breath;
+"and yet it has just a tiny smack of the gypsum. God comfort you, my
+daughter, as you have comforted me; I am only afraid that the wine may
+do me some mischief, seeing that I have not yet broken my fast." [29] A favourite wine, grown on the shore of the Manzanares. "No, mother; it will do nothing of the kind," returned Monipodio, "for
+it is three years old at the least." "May the Virgin grant that I find it so," replied the old woman. Then
+turning to the girls, "See, children," she said "whether you have not a
+few maravedis to buy the candles for my offerings of devotion. I came
+away in so much haste, to bring the news of the basket of linen, that I
+forgot my purse, and left it at home." "Yes, Dame Pipota,"--such was the name of the old woman,--"I have some,"
+replied Gananciosa; "here are two cuartos for you, and with one of them
+I beg you to buy a candle for me, which you will offer in my name to the
+Senor St. Michael, or if you can get two with the money, you may place
+the other at the altar of the Senor St. Blas, for those two are my
+patron-saints. I also wish to give one to the Senora Santa Lucia, for
+whom I have a great devotion, on account of the eyes;[30] but I have no
+more change to-day, so it must be put off till another time, when I
+will square accounts with all." [30] The Virgin Martyr, Santa Lucia, had her eyes burnt out of her head,
+and is regarded, in the Catholic Church, as particularly powerful in the
+cure of all diseases of the eyes. She is usually represented as bearing
+her eyes on a salver, which she holds in her hand. "And you will do well, daughter," replied the old woman. "Don't be
+niggard, mind. It is a good thing to carry one's own candles before one
+dies, and not to wait until they are offered by the heirs and executors
+of our testament." "You speak excellently, Mother Pipota," said Escalanta; and, putting her
+hand into her pocket, she drew forth a cuarto, which she gave the old
+woman, requesting her to buy two candles for her likewise, and offer
+them to such saints as she considered the most useful and the most
+likely to be grateful. With this old Pipota departed, saying,
+
+"Enjoy yourselves, my dears, now while you have time, for old age will
+come and you will then weep for the moments you may have lost in your
+youth, as I do now. Commend me to God in your prayers, and I will
+remember you, as well as myself, in mine, that he may keep us all, and
+preserve us in this dangerous trade of ours from all the terrors of
+justice." These words concluded, the old woman went her way. Dame Pipota having disappeared, all seated themselves round the mat,
+which Gananciosa covered with the sheet in place of a table-cloth. The
+first thing she drew from the basket was an immense bunch of radishes;
+this was followed by a couple of dozens or more of oranges and lemons;
+then came a great earthen pan filled with slices of fried ling, half a
+Dutch cheese, a bottle of excellent olives, a plate of shrimps, and a
+large dish of craw-fish, with their appropriate sauce of capers, drowned
+in pepper-vinegar: three loaves of the whitest bread from Gandul
+completed the collation. The number of guests at this breakfast was
+fourteen, and not one of them failed to produce his yellow-handled
+knife, Rinconete alone excepted, who drew his dudgeon dagger instead. The two old men in serge gowns, and the lad who had been the guide of
+the two friends, were charged with the office of cupbearers, pouring the
+wine from the bottle into the cork cup. But scarcely had the guests taken their places, before they were all
+startled, and sprang up in haste at the, sound of repeated knocks at the
+door. Bidding them remain quiet, Monipodio went into one of the lower
+rooms, unhooked a buckler, took his sword in his hand, and, going to the
+door, inquired, in a rough and threatening voice, "Who is there?" "All right Senor! it is I, Tagarote,[31] on sentry this morning,"
+replied a voice from without. "I come to tell you that Juliana de
+Cariharta[32] is coming, with her hair all about her face, and crying
+her eyes out, as though some great misfortune had happened to her." [31] The quill-driver. [32] Fat-face, puff-cheeks, or any other term describing fulness of
+face, in the least complimentary manner. He had scarcely spoken when the girl he had named came sobbing to the
+door, which Monipodio opened for her, commanding Tagarote to return to
+his post; and ordering him, moreover, to make less noise and uproar when
+he should next bring notice of what was going forward,--a command to
+which the boy promised attention. Cariharta, a girl of the same class and profession with those already in
+presence, had meanwhile entered the court, her hair streaming in the
+wind, her eyes swollen with tears, and her face covered with contusions
+and bruises. She had no sooner got into the Patio, than she fell to the
+ground in a fainting fit. Gananciosa and Escalanta[33] sprang to her
+assistance, unfastened her dress, and found her breast and shoulders
+blackened and covered with marks of violence. After they had thrown
+water on her face, she soon came to herself, crying out as she did so,
+"The justice of God and the king on that shameless thief, that cowardly
+cut-purse, and dirty scoundrel, whom I have saved from the gibbet more
+times than he has hairs in his beard. Alas! unhappy creature that I am! see for what I have squandered my youth, and spent the flower of my
+days! For an unnatural, worthless, and incorrigible villain!" [33] The clamberer. "Recover yourself, and be calm, Cariharta," said Monipodio; "I am here
+to render justice to you and to all. Tell me your cause of complaint,
+and you shall be longer in relating the story than I will be in taking
+vengeance. Let me know if anything has happened between you and your
+_respeto_;[34] and if you desire to be well and duly avenged. You have
+but to open your mouth." [34] Protector, or more exactly "bully,"--to defend and uphold in acts
+of fraud and violence. "Protector!" exclaimed the girl. "What kind of a protector is he? It
+were better for me to be protected in hell than to remain any longer
+with that lion among sheep, and sheep among men! Will I ever eat again
+with him at the same table, or live under the same roof? Rather would I
+give this flesh of mine, which he has put into the state you shall see,
+to be devoured alive by raging beasts." So saying, she pulled up her
+petticoats to her knees, and even a little higher, and showed the wheals
+with which she was covered. "That's the way," she cried, "that I have
+been treated by that ungrateful Repolido,[35] who owes more to me than
+to the mother that bore him. [35] Dandy. "And why do you suppose he has done this? Do you think I have given him
+any cause?--no, truly. His only reason for serving me so was, that being
+at play and losing his money, he sent Cabrillas, his scout, to me for
+thirty reals, and I could only send him twenty-four. May the pains and
+troubles with which I earned them be counted to me by heaven in
+remission of my sins! But in return for this civility and kindness,
+fancying that I had kept back part of what he chose to think I had got,
+the blackguard lured me out to the fields this morning, beyond the
+king's garden, and there, having stripped me among the olive trees, he
+took off his belt, not even removing the iron buckle--oh that I may see
+him clapped in irons and chains!--and with that he gave me such an
+unmerciful flogging, that he left me for dead; and that's a true story,
+as the marks you see bear witness." Here Cariharta once more set up her pipes and craved for justice, which
+was again promised to her by Monipodio and all the bravos present. The Gananciosa then tried her hand at consoling the victim; saying to
+her, among other things--"I would freely give my best gown that my fancy
+man had done as much by me; for I would have you know, sister Cariharta,
+if you don't know it yet, that he who loves best thrashes best; and when
+these scoundrels whack us and kick us, it is then they most devoutly
+adore us. Tell me now, on our life, after having beaten and abused you,
+did not Repolido make much of you, and give you more than one caress?" "More than one!" replied the weeping girl; "he gave me more than a
+hundred thousand, and would have given a finger off his hand if I would
+only have gone with him to his posada; nay, I even think that the tears
+were almost starting from his eyes after he had leathered me." "Not a doubt of it," replied Gananciosa; "and he would weep now to see
+the state he has put you into: for men like him have scarcely committed
+the fault before repentance begins. You will see, sister, if he does not
+come here to look for you before we leave the place; and see if he does
+not beg you to forgive what has passed, and behave to you as meek and as
+humble as a lamb." "By my faith," observed Monipodio, "the cowardly ruffian shall not enter
+these doors until he has made full reparation for the offence he has
+committed. How dare he lay a hand on poor Cariharta, who for cleanliness
+and industry is a match for Gananciosa herself, and that is saying
+everything." "Alas! Senor Monipodio," replied Juliana, "please do not speak too
+severely of the miserable fellow; for, hard as he is, I cannot but love
+him as I do the very folds of my heart; and the words spoken in his
+behalf by my friend Gananciosa have restored the soul to my body. Of a
+truth, if I consulted only my own wishes, I should go this moment and
+look for him." "No, no," replied Gananciosa, "you shall not do so by my counsel; for to
+do that would make him proud; he would think too much of himself, and
+would make experiments upon you as on a dead body. Keep quiet, sister,
+and in a short time you will see him here repentant, as I have said; and
+if not, we will write verses on him that shall make him roar with rage." "Let us write by all means," returned Juliana, "for I have a thousand
+things to say to him." "And I will be your secretary, if need be," rejoined Monipodio, "for
+although I am no poet, yet a man has but to tuck up the sleeves of his
+shirt, set well to work, and he may turn off a couple of thousand verses
+in the snapping of a pair of scissors. Besides, if the rhymes should not
+come so readily as one might wish, I have a friend close by, a barber,
+who is a great poet, and will trim up the ends of the verses at an
+hour's notice. At present, however, let us go finish our repast; all the
+rest can be done afterwards." Juliana was not unwilling to obey her superior, so they all fell to
+again at the O-be-joyful with so much goodwill that they soon saw the
+bottom of the basket and the dregs of the great leather bottle. The old
+ones drank _sine fine_, the younger men to their hearts' content, and
+the ladies till they could drink no more. When all was consumed, the two
+old men begged permission to take their leave, which Monipodio allowed
+them to do, but charged them to return punctually, for the purpose of
+reporting all they should see or hear that could be useful to the
+brotherhood; they assured him they would by no means fail in their duty,
+and then departed. After these gentlemen had left the company, Rinconete, who was of a very
+inquiring disposition, begged leave to ask Monipodio in what way two
+persons so old, grave, and formal as those he had just seen, could be of
+service to their community. Monipodio replied, that such were called
+"Hornets" in their jargon, and that their office was to poke about all
+parts of the city, spying out such places as might be eligible for
+attempts to be afterwards made in the night-time. "They watch people who
+receive money from the bank or treasury," said he, "observe where they
+go with it, and, if possible, the very place in which it is deposited. When this is done, they make themselves acquainted with the thickness of
+the walls, marking out the spot where we may most conveniently make our
+_guzpataros_, which are the holes whereby we contrive to force an
+entrance. In a word, these persons are among the most useful of the
+brotherhood: and they receive a fifth of all that the community obtains
+by their intervention, as his majesty does, on treasure trove. They are,
+moreover, men of singular integrity and rectitude. 

@@ -1,0 +1,1556 @@
+
+
+
+
+Produced by Sankar Viswanathan, Bruce Albrecht, Suzanne
+Lybarger, and the Online Distributed Proofreading Team at
+http://www.pgdp.net (This book was produced from scanned
+images of public domain material from the Google Print
+project.) HARVARD ORIENTAL SERIES
+
+               WITH THE COOePERATION OF VARIOUS SCHOLARS
+
+
+
+                                  BY
+
+                       CHARLES ROCKWELL LANMAN
+
+          WALES PROFESSOR OF SANSKRIT IN HARVARD UNIVERSITY
+
+
+                             Volume Nine
+
+
+
+
+                       CAMBRIDGE, MASSACHUSETTS
+
+                   Published by Harvard University
+
+                                 1905
+
+       *       *       *       *       *
+
+
+
+
+                         THE LITTLE CLAY CART
+
+                            [MRCCHAKATIKA]
+
+
+
+                            A Hindu Drama
+
+                     ATTRIBUTED TO KING SHUDRAKA
+
+
+
+          TRANSLATED FROM THE ORIGINAL SANSKRIT AND PRAKRITS
+
+                     INTO ENGLISH PROSE AND VERSE
+
+
+
+                                  BY
+
+                     ARTHUR WILLIAM RYDER, PH.D.
+
+             INSTRUCTOR IN SANSKRIT IN HARVARD UNIVERSITY
+
+
+
+
+
+                       CAMBRIDGE, MASSACHUSETTS
+
+                   Published by Harvard University
+
+                                 1905
+
+
+
+                COPYRIGHT, 1905, BY HARVARD UNIVERSITY
+
+       *       *       *       *       *
+
+
+
+
+TO MY FATHER
+
+WILLIAM HENRY RYDER
+
+       *       *       *       *       *
+
+
+
+
+CONTENTS
+
+
+NOTE BY THE EDITOR OF THE SERIES
+
+PREFACE BY THE TRANSLATOR
+
+
+INTRODUCTION
+
+THE AUTHOR AND THE PLAY
+
+THE TRANSLATION
+
+AN OUTLINE OF THE PLOT
+
+DRAMATIS PERSONAE
+
+
+TRANSLATION OF THE LITTLE CLAY CART
+
+PROLOGUE
+
+ACT I. THE GEMS ARE LEFT BEHIND
+
+ACT II. THE SHAMPOOER WHO GAMBLED
+
+ACT III. THE HOLE IN THE WALL
+
+ACT IV. MADANIKA AND SHARVILAKA
+
+ACT V.    THE STORM
+
+ACT VI. THE SWAPPING OF THE BULLOCK-CARTS
+
+ACT VII. ARYAKA'S ESCAPE
+
+ACT VIII. THE STRANGLING OF VASANTASENA
+
+ACT IX. THE TRIAL
+
+ACT X. THE END
+
+
+EPILOGUE
+
+DEPARTURES OF THE TRANSLATION FROM PARAB'S TEXT
+
+       *       *       *       *       *
+
+
+
+
+NOTE BY THE EDITOR
+
+
+With _the battle of the Sea of Japan another turning-point in the
+brief course of recorded human history has been reached. Whatever the
+outcome of the negotiations for peace, one thing is sure: for better,
+for worse, and whether we will or no, the West must know the East, and
+the East must know the West. With that knowledge will inevitably come
+an interchange of potent influences, of influences that will affect
+profoundly the religion and morals, the philosophy, the literature,
+the art, in short, all the elements that make up the civilizations of
+the two hemispheres. It is a part of the responsibility resting upon
+the molders and leaders of the thought and life of our time, and upon
+our Universities in particular, to see to it that these new forces,
+mighty for good or for evil, are directed aright._
+
+_The fruitfulness of those scions of Western civilization which the
+Japanese have grafted upon their own stock is to-day the admiration
+of the world. In our wonder, let us not forget that that stock is the
+growth of centuries, and that it is rooted in a soil of racial character
+informed by ethical ideals which we are wont to regard, with
+arrogant self-complacency, as exclusively proper to Christianity, but
+which were, in fact, inculcated twenty-four centuries ago through
+precept and example by Gotama the Enlightened, or, as the Hindus
+called him, Gotama the Buddha. It has often been said that India
+has never influenced the development of humanity as a whole. Be that
+as it may, it now seems no less probable than strange that she is yet
+destined to do so, on the one hand, indirectly, through the influence
+of Indian Buddhism upon Japan, and, on the other, directly, by the
+diffusion in the West of a knowledge of her sacred writings, especially
+those of Vedantism and Buddhism. To judge the East aright,
+we must know not only what she is, but also how she has become what
+she is; know, in short, some of the principal phases of her spiritual
+history as they are reflected in her ancient literature, especially that
+of India. To interpret to the West the thought of the East, to bring
+her best and noblest achievements to bear upon our life_,--_that is to-day
+the problem of Oriental philology._
+
+_The Harvard Oriental Series embodies an attempt to present to Western
+scholars, in trustworthy texts and translations, some of the greatest
+works of the Hindu literature and philosophy and religion, together
+with certain instruments, such as the Vedic Concordance or the History
+of the Beast-fable, for their critical study or elucidation. Some
+account of the volumes completed or in progress may be found at the
+end of this book. Dr. Ryder, passing by for the present the more
+momentous themes of religion and philosophy, has in this volume
+attempted to show what the Indian genius, in its strength and in its
+weakness, could do in the field of literature pure and simple. The
+timeliness of the Series as a whole is an eloquent tribute to the
+discernment of my loved and unforgotten pupil and friend, Henry Clarke
+Warren. In him were united not only the will and the ability to
+establish such a publication as this, but also the learning and
+insight which enabled him to forecast in a general way its
+possibilities of usefulness. He knew that the East had many a lesson
+to teach the West; but whether the lesson be repose of spirit or
+hygiene of the soldier in the field, whether it be the divine
+immanence or simplicity of life or the overcoming of evil with good,
+he knew that the first lesson to be taught us was the teachable habit
+of mind._
+
+C. R. L.
+
+June, 1905
+
+
+
+
+PREFACE
+
+
+The text chosen as the basis of this translation is that given in the
+edition of Parab,[1] and I have chosen it for the following reasons. Parab's edition is the most recent, and its editor is a most admirable
+Sanskrit scholar, who, it seems to me, has in several places
+understood the real meaning of the text better than his predecessors. This edition contains the comment of Prthvidhara; it is far freer from
+misprints than many texts printed in India, and, in respect to
+arrangement and typography, it is clear and convenient. Besides, it is
+easily obtainable and very cheap. This last consideration may prove to
+be of importance, if the present translation should be found helpful
+in the class-room. For the sake of cataloguers, I note that the proper
+transliteration of the Sanskrit names of this title according to the
+rules laid down by the American Library Association in its Journal for
+1885, is as follows: Mrcchakatika; Cudraka; Prthvidhara; Kacinatha
+Panduranga Paraba; Nirnaya-Sagara. The verse-numeration of each act follows the edition of Parab;
+fortunately, it is almost identical with the numeration in the editions
+of Godabole and Jivananda. For the convenience of those
+who may desire to consult this book in connection with Stenzler's
+edition, I have added references at the top of the page to that edition
+as well as to the edition of Parab. In these references, the
+letter P. stands for Parab, the letter S. for Stenzler. There are a few passages in which I have deviated from Parab's
+text. A list of such passages is given on page 177. From this list
+I have omitted a few minor matters, such as slight misprints and
+what seem to me to be errors in the _chaya_; these matters, and the
+passages of unusual interest or difficulty, I shall treat in a series
+of notes on the play, which I hope soon to publish in the Journal
+of the American Oriental Society. It is hardly necessary to give
+reasons for the omission of the passage inserted by Nilakantha
+in the tenth act (Parab. 288.3-292.9). This passage is explicitly
+declared by tradition to be an interpolation by another hand, and
+it is clearly shown to be such by internal evidence. It will be noticed
+that the omission of this passage causes a break in the verse-numeration
+of the tenth act, where the verse-number 54 is followed
+by the number 58. Of the books which have been useful to me in the present work,
+I desire to mention especially the editions of Stenzler, Godabole,
+Jivananda Vidyasagara, and Parab; the commentaries of Prthvidhara,
+Lalladiksita, and Jivananda; further, the translations of
+Wilson, Regnaud, and Boehtlingk. A number of friends were kind enough to read my manuscript,
+and each contributed something. I wish to mention especially my
+friend and pupil, Mr. Walter E. Clark, of Harvard University,
+whose careful reading of both text and translation was fruitful of
+many good suggestions. But by far my greatest personal indebtedness is to Professor
+Lanman, whose generous interest in my work has never flagged
+from the day when I began the study of Sanskrit under his guidance. He has criticized this translation with the utmost rigor; indeed,
+the pages are few which have not witnessed some improvement
+from his hand. It is to him also that I owe the accuracy
+and beauty which characterize the printed book: nothing has been
+hard enough to weary him, nothing small enough to escape him. And more than all else, I am grateful to him for the opportunity
+of publishing in the Harvard Oriental Series; for this series is that
+enterprise which, since the death of Professor Whitney, most
+honorably upholds in this country the standards of accurate scholarship
+set by the greatest of American Sanskritists. ARTHUR W. RYDER
+
+_Harvard University_
+
+_May 23, 1905_
+
+FOOTNOTES:
+
+[Footnote 1: The Mrichchhakatika of Sudraka with the commentary of
+Prthvidhara. Edited by Kashinath Pandurang Parab. Bombay: Nirnaya-Sagar
+Press. 1900. Price 1 Rupee. It may be had of O. Harrassowitz in Leipzig
+for 2-1/2 Marks.] INTRODUCTION
+
+I. THE AUTHOR AND THE PLAY
+
+
+Concerning the life, the date, and the very identity[2] of
+King Shudraka, the reputed author of The Little Clay Cart,
+we are curiously ignorant. No other work is ascribed to him, and
+we have no direct information about him, beyond the somewhat
+fanciful statements of the Prologue to this play. There are, to be
+sure, many tales which cluster about the name of King Shudraka,
+but none of them represents him as an author. Yet our very lack of
+information may prove, to some extent at least, a disguised blessing. For our ignorance of external fact compels a closer study of
+the text, if we would find out what manner of man it was who
+wrote the play. And the case of King Shudraka is by no means
+unique in India; in regard to every great Sanskrit writer,--so bare
+is Sanskrit literature of biography,--we are forced to concentrate
+attention on the man as he reveals himself in his works. First, however,
+it may be worth while to compare Shudraka with two other
+great dramatists of India, and thus to discover, if we may, in what
+ways he excels them or is excelled by them. Kalidasa, Shudraka, Bhavabhuti--assuredly, these are the greatest
+names in the history of the Indian drama. So different are these
+men, and so great, that it is not possible to assert for any one of
+them such supremacy as Shakspere holds in the English drama. It is true that Kalidasa's dramatic masterpiece, the Shakuntala,
+is the most widely known of the Indian plays. It is true that the
+tender and elegant Kalidasa has been called, with a not wholly fortunate
+enthusiasm, the "Shakspere of India." But this rather exclusive
+admiration of the Shakuntala results from lack of information
+about the other great Indian dramas. Indeed, it is partly due
+to the accident that only the Shakuntala became known in translation
+at a time when romantic Europe was in full sympathy with
+the literature of India. Bhavabhuti, too, is far less widely known than Kalidasa; and for this
+the reason is deeper-seated. The austerity of Bhavabhuti's style, his
+lack of humor, his insistent grandeur, are qualities which prevent his
+being a truly popular poet. With reference to Kalidasa, he holds a
+position such as Aeschylus holds with reference to Euripides. He will
+always seem to minds that sympathize with his grandeur[3] the greatest
+of Indian poets; while by other equally discerning minds of another
+order he will be admired, but not passionately loved. Yet however great the difference between Kalidasa, "the grace
+of poetry,"[4] and Bhavabhuti, "the master of eloquence,"[5] these two
+authors are far more intimately allied in spirit than is either of
+them with the author of The Little Clay Cart. Kalidasa and Bhavabhuti
+are Hindus of the Hindus; the Shakuntala and the Latter
+Acts of Rama could have been written nowhere save in India:
+but Shudraka, alone in the long line of Indian dramatists, has a
+cosmopolitan character. Shakuntala is a Hindu maid, Madhava is
+a Hindu hero; but Sansthanaka and Maitreya and Madanika are
+citizens of the world. In some of the more striking characteristics of
+Sanskrit literature--in its fondness for system, its elaboration of
+style, its love of epigram--Kalidasa and Bhavabhuti are far truer
+to their native land than is Shudraka. In Shudraka we find few
+of those splendid phrases in which, as the Chinese[6] say, "it is only
+the words which stop, the sense goes on,"--phrases like Kalidasa's[7]
+"there are doors of the inevitable everywhere," or Bhavabhuti's[8] "for
+causeless love there is no remedy." As regards the predominance of
+swift-moving action over the poetical expression of great truths,
+The Little Clay Cart stands related to the Latter Acts of Rama as
+Macbeth does to Hamlet. Again, Shudraka's style is simple and direct,
+a rare quality in a Hindu; and although this style, in the passages
+of higher emotion, is of an exquisite simplicity, yet Shudraka
+cannot infuse into mere language the charm which we find in Kalidasa
+or the majesty which we find in Bhavabhuti. Yet Shudraka's limitations in regard to stylistic power are not
+without their compensation. For love of style slowly strangled originality
+and enterprise in Indian poets, and ultimately proved the
+death of Sanskrit literature. Now just at this point, where other
+Hindu writers are weak, Shudraka stands forth preeminent. Nowhere
+else in the hundreds of Sanskrit dramas do we find such variety,
+and such drawing of character, as in The Little Clay Cart;
+and nowhere else, in the drama at least, is there such humor. Let
+us consider, a little more in detail, these three characteristics of
+our author; his variety, his skill in the drawing of character, his
+humor. To gain a rough idea of Shudraka's variety, we have only to recall
+the names of the acts of the play. Here The Shampooer who
+Gambled and The Hole in the Wall are shortly followed by The
+Storm; and The Swapping of the Bullock-carts is closely succeeded
+by The Strangling of Vasantasena. From farce to tragedy, from
+satire to pathos, runs the story, with a breadth truly Shaksperian. Here we have philosophy:
+
+    _The lack of money is the root of all evil._                 (_i. 14_)
+
+And pathos:
+
+    _My body wet by tear-drops falling, falling;
+      My limbs polluted by the clinging mud;
+    Flowers from the graveyard torn, my wreath appalling;
+    For ghastly sacrifice hoarse ravens calling,
+      And for the fragrant incense of my blood._                 (_x. 3_)
+
+And nature description:
+
+    _But mistress, do not scold the lightning. She is your friend,
+                  This golden cord that trembles on the breast
+                  Of great Airavata; upon the crest
+                    Of rocky hills this banner all ablaze;
+                  This lamp tn Indra's palace; but most blest
+                    As telling where your most beloved stays._   (_v. 33_)
+
+And genuine bitterness:
+
+    _Pride and tricks and lies and fraud
+      Are in your face;
+    False playground of the lustful god,
+      Such is your face;
+    The wench's stock in trade, in fine,
+    Epitome of joys divine,
+      I mean your face--
+    For sale! the price is courtesy. I trust you'll find a man to buy
+      Your face._                                                (_v. 36_)
+
+It is natural that Shudraka should choose for the expression of
+matters so diverse that type of drama which gives the greatest
+scope to the author's creative power. This type is the so-called
+"drama of invention,"[9] a category curiously subordinated in India
+to the heroic drama, the plot of which is drawn from history or
+mythology. Indeed, The Little Clay Cart is the only extant drama
+which fulfils the spirit of the drama of invention, as defined by the
+Sanskrit canons of dramaturgy. The plot of the "Malati and Madhava,"
+or of the "Mallika and Maruta," is in no true sense the invention
+of the author; and The Little Clay Cart is the only drama
+of invention which is "full of rascals. "[10]
+
+But a spirit so powerful as that of King Shudraka could not be
+confined within the strait-jacket of the minute, and sometimes
+puerile, rules of the technical works. In the very title of the drama,
+he has disregarded the rule[11] that the name of a drama of invention
+should be formed by compounding the names of heroine and hero. [12]
+Again, the books prescribe[13] that the hero shall appear in every act;
+yet Charudatta does not appear in acts ii., iv., vi., and viii. And
+further, various characters, Vasantasena, Maitreya, the courtier,
+and others, have vastly gained because they do not conform too
+closely to the technical definitions. The characters of The Little Clay Cart are living men and women. Even
+when the type makes no strong appeal to Western minds, as in the case
+of Charudatta, the character lives, in a sense in which Dushyanta[14]
+or even Rama[15] can hardly be said to live. Shudraka's men are better
+individualized than his women; this fact alone differentiates him
+sharply from other Indian dramatists. He draws on every class of
+society, from the high-souled Brahman to the executioner and the
+housemaid. His greatest character is unquestionably Sansthanaka, this
+combination of ignorant conceit, brutal lust, and cunning, this greater
+than Cloten, who, after strangling an innocent woman, can say:[16]
+"Oh, come! Let's go and play in the pond." Most attractive characters
+are the five[17] conspirators, men whose home is "east of Suez
+and the ten commandments." They live from hand to mouth, ready
+at any moment to steal a gem-casket or to take part in a revolution,
+and preserving through it all their character as gentlemen and their
+irresistible conceit. And side by side with them moves the hero
+Charudatta, the Buddhist beau-ideal of manhood,
+
+    _A tree of life to them whose sorrows grow_,
+    _Beneath its fruit of virtue bending low_. (_i. 48_)
+
+To him, life itself is not dear, but only honor. [18] He values wealth
+only as it supplies him with the means of serving others. We may,
+with some justice, compare him with Antonio in The Merchant
+of Venice. There is some inconsistency, from our point of view,
+in making such a character the hero of a love-drama; and indeed,
+it is Vasantasena who does most of the love-making. [19]
+
+Vasantasena is a character with neither the girlish charm of
+Shakuntala[20] nor the mature womanly dignity of Sita. [21] She is
+more admirable than lovable. Witty and wise she is, and in her
+love as true as steel; this too, in a social position which makes such
+constancy difficult. Yet she cannot be called a great character; she
+does not seem so true to life as her clever maid, Madanika. In
+making the heroine of his play a courtezan, Shudraka follows a
+suggestion of the technical works on the drama; he does not
+thereby cast any imputation of ill on Vasantasena's character. The
+courtezan class in India corresponded roughly to the hetaerae of
+ancient Greece or the geishas of Japan; it was possible to be a
+courtezan and retain one's self-respect. Yet the inherited[22] way of
+life proves distasteful to Vasantasena; her one desire is to escape
+its limitations and its dangers by becoming a legal wife. [23]
+
+In Maitreya, the Vidushaka, we find an instance of our author's
+masterly skill in giving life to the dry bones of a rhetorical definition. The Vidushaka is a stock character who has something in
+common with a jester; and in Maitreya the essential traits of the
+character--eagerness for good food and other creature comforts,
+and blundering devotion to his friend--are retained, to be sure,
+but clarified and elevated by his quaint humor and his readiness
+to follow Charudatta even in death. The grosser traits of the typical
+Vidushaka are lacking. Maitreya is neither a glutton nor a fool,
+but a simple-minded, whole-hearted friend. The courtier is another character suggested by the technical
+works, and transformed by the genius of Shudraka. He is a man
+not only of education and social refinement, but also of real nobility
+of nature. But he is in a false position from the first, this
+true gentleman at the wretched court of King Palaka; at last he
+finds the courage to break away, and risks life, and all that makes
+life attractive, by backing Aryaka. Of all the conspirators, it is he
+who runs the greatest risk. To his protection of Vasantasena is
+added a touch of infinite pathos when we remember that he was
+himself in love with her. [24] Only when Vasantasena leaves him[25] without
+a thought, to enter Charudatta's house, does he realize how
+much he loves her; then, indeed, he breaks forth in words of the
+most passionate jealousy. We need not linger over the other characters,
+except to observe that each has his marked individuality,
+and that each helps to make vivid this picture of a society that
+seems at first so remote. Shudraka's humor is the third of his vitally distinguishing qualities. This humor has an American flavor, both in its puns and in its
+situations. The plays on words can seldom be adequately reproduced in
+translation, but the situations are independent of language. And
+Shudraka's humor runs the whole gamut, from grim to farcical, from
+satirical to quaint. Its variety and keenness are such that King
+Shudraka need not fear a comparison with the greatest of Occidental
+writers of comedies. It remains to say a word about the construction of the play. Obviously,
+it is too long. More than this, the main action halts through acts ii. to v., and during these episodic acts we almost forget that the main
+plot concerns the love of Vasantasena and Charudatta. Indeed, we have in
+The Little Clay Cart the material for two plays. The larger part of act
+i. forms with acts vi. to x. a consistent and ingenious plot; while the
+remainder of act i. might be combined with acts iii. to v. to make a
+pleasing comedy of lighter tone. The second act, clever as it is, has
+little real connection either with the main plot or with the story of
+the gems. The breadth of treatment which is observable in this play is
+found in many other specimens of the Sanskrit drama, which has set
+itself an ideal different from that of our own drama. The lack of
+dramatic unity and consistency is often compensated, indeed, by lyrical
+beauty and charms of style; but it suggests the question whether we
+might not more justly speak of the Sanskrit plays as dramatic poems than
+as dramas. In The Little Clay Cart, at any rate, we could ill afford to
+spare a single scene, even though the very richness and variety of the
+play remove it from the class of the world's greatest dramas. II. THE TRANSLATION
+
+The following translation is sufficiently different from previous
+translations of Indian plays to require a word of explanation. The
+difference consists chiefly in the manner in which I have endeavored to
+preserve the form of the original. The Indian plays are written in
+mingled prose and verse; and the verse portion forms so large a part of
+the whole that the manner in which it is rendered is of much importance. Now this verse is not analogous to the iambic trimeter of Sophocles or
+the blank verse of Shakspere, but roughly corresponds to the Greek
+choruses or the occasional rhymed songs of the Elizabethan stage. In
+other words, the verse portion of a Sanskrit drama is not narrative; it
+is sometimes descriptive, but more commonly lyrical: each stanza sums up
+the emotional impression which the preceding action or dialogue has made
+upon one of the actors. Such matter is in English cast into the form of
+the rhymed stanza; and so, although rhymed verse is very rarely employed
+in classical Sanskrit, it seems the most appropriate vehicle for the
+translation of the stanzas of a Sanskrit drama. It is true that we
+occasionally find stanzas which might fitly be rendered in English blank
+verse, and, more frequently, stanzas which are so prosaic as not to
+deserve a rendering in English verse at all. [26] But, as the present
+translation may be regarded as in some sort an experiment, I have
+preferred to hold rigidly to the distinction found in the original
+between simple prose and types of stanza which seem to me to correspond
+to English rhymed verse. It is obvious that a translation into verse, and especially into
+rhymed verse, cannot be as literal as a translation into prose; this
+disadvantage I have used my best pains to minimize. I hope it
+may be said that nothing of real moment has been omitted from
+the verses; and where lack of metrical skill has compelled expansion,
+I have striven to make the additions as insignificant as
+possible. There is another point, however, in which it is hardly feasible to
+imitate the original; this is the difference in the dialects used by the
+various characters. In The Little Clay Cart, as in other Indian dramas,
+some of the characters speak Sanskrit, others Prakrit. Now Prakrit is
+the generic name for a number of dialects derived from the Sanskrit and
+closely akin to it. The inferior personages of an Indian play, and, with
+rare exceptions, all the women, speak one or another of these Prakrits. Of the thirty characters of this play, for example, only five
+(Charudatta, the courtier, Aryaka, Sharvilaka, and the judge) speak
+Sanskrit;[27] the others speak various Prakrit dialects. Only in the
+case of Sansthanaka have I made a rude attempt to suggest the dialect by
+substituting sh for s as he does. And the grandiloquence of Sharvilaka's
+Sanskrit in the satirical portion of the third act I have endeavored to
+imitate. Whenever the language of the original is at all technical, the
+translator labors under peculiar difficulty. Thus the legal terms
+found in the ninth act are inadequately rendered, and, to some extent
+at least, inevitably so; for the legal forms, or lack of forms,
+pictured there were never contemplated by the makers of the English
+legal vocabulary. It may be added here that in rendering from a
+literature so artificial as the Sanskrit, one must lose not only the
+sensuous beauty of the verse, but also many plays on words. In regard to the not infrequent repetitions found in the text, I
+have used my best judgment. Such repetitions have been given in
+full where it seemed to me that the force or unity of the passage
+gained by such treatment, or where the original repeats in full, as
+in the case of v. 7, which is identical with iii. 29. Elsewhere, I have
+merely indicated the repetition after the manner of the original. The reader will notice that there was little effort to attain realism
+in the presentation of an Indian play. He need not be surprised
+therefore to find (page 145) that Viraka leaves the court-room,
+mounts a horse, rides to the suburbs, makes an investigation
+and returns--all within the limits of a stage-direction. The
+simplicity of presentation also makes possible sudden shifts of
+scene. In the first act, for example, there are six scenes, which take
+place alternately in Charudatta's house and in the street outside. In those cases where a character enters "seated" or "asleep," I have
+substituted the verb "appear" for the verb "enter"; yet I am not
+sure that this concession to realism is wise. The system of transliteration which I have adopted is intended to render
+the pronunciation of proper names as simple as may be to the English
+reader. The consonants are to be pronounced as in English,[28] the
+vowels as in Italian. Diacritical marks have been avoided, with the
+exception of the macron. This sign has been used consistently[29] to
+mark long vowels except _e_ and _o_, which are always long. Three rules suffice for the placing of the accent. A long penult is
+accented: Maitreya, Charudatta. If the penult is short, the antepenult
+is accented provided it be long: Sansthanaka. If both penult and
+antepenult of a four-syllabled word are short, the pre-antepenultimate
+receives the accent: Madanika, Sthavaraka. III. AN OUTLINE OF THE PLOT
+
+ACT I., entitled _The Gems are left Behind_. Evening of the first
+day.--After the prologue, Charudatta, who is within his house, converses
+with his friend Maitreya, and deplores his poverty. While they are
+speaking, Vasantasena appears in the street outside. She is pursued by
+the courtier and Sansthanaka; the latter makes her degrading offers of
+his love, which she indignantly rejects. Charudatta sends Maitreya from
+the house to offer sacrifice, and through the open door Vasantasena
+slips unobserved into the house. Maitreya returns after an altercation
+with Sansthanaka, and recognizes Vasantasena. Vasantasena leaves a
+casket of gems in the house for safe keeping and returns to her home. ACT II., entitled _The Shampooer who Gambled_. Second day.--The
+act opens in Vasantasena's house. Vasantasena confesses to her
+maid Madanika her love for Charudatta. Then a shampooer appears
+in the street, pursued by the gambling-master and a gambler, who
+demand of him ten gold-pieces which he has lost in the gambling-house. At this point Darduraka enters, and engages the gambling-master
+and the gambler in an angry discussion, during which the
+shampooer escapes into Vasantasena's house. When Vasantasena
+learns that the shampooer had once served Charudatta, she pays his
+debt; the grateful shampooer resolves to turn monk. As he leaves
+the house he is attacked by a runaway elephant, and saved by
+Karnapuraka, a servant of Vasantasena. ACT III., entitled _The Hole in the Wall_. The night following the
+second day.--Charudatta and Maitreya return home after midnight
+from a concert, and go to sleep. Maitreya has in his hand the
+gem-casket which Vasantasena has left behind. Sharvilaka enters. He is in love with Madanika, a maid of Vasantasena's, and is
+resolved to acquire by theft the means of buying her freedom. He
+makes a hole in the wall of the house, enters, and steals the casket
+of gems which Vasantasena had left. Charudatta wakes to find
+casket and thief gone. His wife gives him her pearl necklace with
+which to make restitution. ACT IV., entitled _Madanika and Sharvilaka_. Third day.--Sharvilaka
+comes to Vasantasena's house to buy Madanika's freedom. Vasantasena overhears the facts concerning the theft of her gem-casket
+from Charudatta's house, but accepts the casket, and gives
+Madanika her freedom. As Sharvilaka leaves the house, he hears
+that his friend Aryaka, who had been imprisoned by the king, has
+escaped and is being pursued. Sharvilaka departs to help him. Maitreya comes from Charudatta with the pearl necklace, to repay
+Vasantasena for the gem-casket. She accepts the necklace also, as
+giving her an excuse for a visit to Charudatta. ACT V., entitled _The Storm_. Evening of the third day.--Charudatta
+appears in the garden of his house. Here he receives a servant
+of Vasantasena, who announces that Vasantasena is on her
+way to visit him. Vasantasena then appears in the street with the
+courtier; the two describe alternately the violence and beauty of the
+storm which has suddenly arisen. Vasantasena dismisses the courtier,
+enters the garden, and explains to Charudatta how she has
+again come into possession of the gem-casket. Meanwhile, the storm
+has so increased in violence that she is compelled to spend the night
+at Charudatta's house. ACT VI., entitled _The Swapping of the Bullock-carts_. Morning of
+the fourth day.--Here she meets Charudatta's little son, Rohasena. The boy is peevish because he can now have only a little clay cart
+to play with, instead of finer toys. Vasantasena gives him her
+gems to buy a toy cart of gold. Charudatta's servant drives up to
+take Vasantasena in Charudatta's bullock-cart to the park, where
+she is to meet Charudatta; but while Vasantasena is making ready,
+he drives away to get a cushion. Then Sansthanaka's servant drives
+up with his master's cart, which Vasantasena enters by mistake. Soon after, Charudatta's servant returns with his cart. Then the
+escaped prisoner Aryaka appears and enters Charudatta's cart. Two policemen come on the scene; they are searching for Aryaka. One of them looks into the cart and discovers Aryaka, but agrees
+to protect him. This he does by deceiving and finally maltreating
+his companion. ACT VII., entitled _Aryaka's Escape_. Fourth day.--Charudatta
+is awaiting Vasantasena in the park. His cart, in which Aryaka lies
+hidden, appears. Charudatta discovers the fugitive, removes his
+fetters, lends him the cart, and leaves the park. ACT VIII., entitled _The Strangling of Vasantasena_. Fourth
+day.--A Buddhist monk, the shampooer of the second act, enters
+the park. He has difficulty in escaping from Sansthanaka, who
+appears with the courtier. Sansthanaka's servant drives in with the
+cart which Vasantasena had entered by mistake. She is discovered
+by Sansthanaka, who pursues her with insulting offers of love. When she repulses him, Sansthanaka gets rid of all witnesses,
+strangles her, and leaves her for dead. The Buddhist monk enters
+again, revives Vasantasena, and conducts her to a monastery. ACT IX., entitled _The Trial_. Fifth day.--Sansthanaka accuses
+Charudatta of murdering Vasantasena for her money. In the course
+of the trial, it appears that Vasantasena had spent the night of the
+storm at Charudatta's house; that she had left the house the next
+morning to meet Charudatta in the park; that there had been a
+struggle in the park, which apparently ended in the murder of a
+woman. Charudatta's friend, Maitreya, enters with the gems which
+Vasantasena had left to buy Charudatta's son a toy cart of gold. These gems fall to the floor during a scuffle between Maitreya and
+Sansthanaka. In view of Charudatta's poverty, this seems to establish
+the motive for the crime, and Charudatta is condemned to
+death. ACT X., entitled _The End_. Sixth day.--Two headsmen are conducting
+Charudatta to the place of execution. Charudatta takes his last leave of
+his son and his friend Maitreya. But Sansthanaka's servant escapes from
+confinement and betrays the truth; yet he is not believed, owing to the
+cunning displayed by his master. The headsmen are preparing to execute
+Charudatta, when Vasantasena herself appears upon the scene, accompanied
+by the Buddhist monk. Her appearance puts a summary end to the
+proceedings. Then news is brought that Aryaka has killed and supplanted
+the former king, that he wishes to reward Charudatta, and that he has by
+royal edict freed Vasantasena from the necessity of living as a
+courtezan. Sansthanaka is brought before Charudatta for sentence, but is
+pardoned by the man whom he had so grievously injured. The play ends
+with the usual Epilogue. FOOTNOTES:
+
+[Footnote 2: For an illuminating discussion of these matters, the reader
+is referred to Sylvain Levi's admirable work, Le Theatre Indien, Paris,
+1890, pages 196-211.] [Footnote 3: In his Malatimadhava, i. 8, he says: "Whoever they may be
+who now proclaim their contempt for me,--they know something, but this
+work was not for them. Yet there will arise a man of nature like mine
+own; for time is endless, and the world is wide." This seems prophetic
+of John Milton.] [Footnote 4: Prasannaraghava, i. 22.] [Footnote 5: Mahaviracarita, i. 4.] [Footnote 6: History of Chinese Literature, by H. A. Giles, pages 145-146.] [Footnote 7: Shakuntala, i. 15.] [Footnote 8: Latter Acts of Rama, v. 17.] [Footnote 9: _Prakarana._]
+
+[Footnote 10: Dhurtasamkula: Dacarupa, iii. 38.] [Footnote 11: _Sahityadarpana_, 428.] [Footnote 12: As in Malati-madhava.] [Footnote 13: Dacarupa, iii. 33.] [Footnote 14: In Kalidasa's Shakuntala.] [Footnote 15: In Bhavabhuti's Latter Acts of Rama.] [Footnote 16: See page 128.] [Footnote 17: Aryaka, Darduraka, Chandanaka, Sharvilaka, and the courtier.] [Footnote 18: See x. 27.] [Footnote 19: See v. 46 and the following stage-direction.] [Footnote 20: In Kalidasa's play of that name.] [Footnote 21: In Bhavabhuti's Latter Acts of Rama.] [Footnote 22: See viii. 43.] [Footnote 23: See pages 65-66 and page 174.] [Footnote 24: See viii. 38 and compare the words, "Yet love bids me
+prattle," on page 86.] [Footnote 25: Page 87.] [Footnote 26: Stanzas of the latter sort in The Little Clay Cart are
+vii. 2 and viii. 5.] [Footnote 27: This statement requires a slight limitation; compare, for
+example, the footnote to page 82.] [Footnote 28: But the combination _th_ should be pronounced as in
+_ant-hill_, not as in _thin_ or _this_; similarly _dh_ as in
+_mad-house_; _bh_ as in _abhor._]
+
+[Footnote 29: Except in the names Aryaka and Ahinta, where typographical
+considerations have led to the omission of the macron over the initial
+letter; and except also in head-lines.] DRAMATIS PERSONAE
+
+CHARUDATTA, _a Brahman merchant_
+
+ROHASENA, _his son_
+
+MAITREYA, _his friend_
+
+VARDHAMANAKA, _a servant in his house_
+
+SANSTHANAKA, _brother-in-law of King_ PALAKA
+
+STHAVARAKA, _his servant_
+
+_Another Servant of_ SANSTHANAKA
+
+_A Courtier_
+
+ARYAKA, _a herdsman who becomes king_
+
+SHARVILAKA, _a Brahman, in love with_ MADANIKA
+
+_A Shampooer, who becomes a Buddhist monk_
+
+MATHURA, _a gambling-master_
+
+DARDURAKA, _a gambler_
+
+_Another Gambler_
+
+KARNAPURAKA     }
+KUMBHILAKA      } _servants of_ VASANTASENA
+
+VIRAKA          }
+CHANDANAKA      } _policemen_
+
+GOHA            }
+AHINTA          } _headsmen_
+
+_Bastard pages, in_ VASANTASENA'S _house_
+
+_A Judge_, _a Gild-warden_, _a Clerk_, _and a Beadle_
+
+VASANTASENA, _a courtezan_
+
+_Her Mother_
+
+MADANIKA, _maid to_ VASANTASENA
+
+_Another Maid to_ VASANTASENA
+
+_The Wife of_ CHARUDATTA
+
+RADANIKA, _a maid in_ CHARUDATTA'S _house_
+
+
+SCENE
+
+UJJAYINI (_called also_ AVANTI) _and its Environs_
+
+
+
+
+THE LITTLE CLAY CART
+
+PROLOGUE
+
+_Benediction upon the audience_
+
+
+    His bended knees the knotted girdle holds,
+    Fashioned by doubling of a serpent's folds;
+    His sensive organs, so he checks his breath,
+    Are numbed, till consciousness seems sunk in death;
+    Within himself, with eye of truth, he sees
+    The All-soul, free from all activities. May His, may Shiva's meditation be
+    Your strong defense; on the Great Self thinks he,
+    Knowing full well the world's vacuity. 1
+
+And again:
+
+    May Shiva's neck shield you from every harm,
+      That seems a threatening thunder-cloud, whereon,
+    Bright as the lightning-flash, lies Gauri's arm. 2
+
+_Stage-director._ Enough of this tedious work, which fritters away
+the interest of the audience! Let me then most reverently salute
+the honorable gentlemen, and announce our intention to produce
+a drama called "The Little Clay Cart." Its author was a man
+
+    Who vied with elephants in lordly grace;
+      Whose eyes were those of the chakora bird
+    That feeds on moonbeams; glorious his face
+      As the full moon; his person, all have heard,
+    Was altogether lovely. First in worth
+      Among the twice-born was this poet, known
+    As Shudraka far over all the earth,
+      His virtue's depth unfathomed and alone. 3
+
+[1.14. S.
+
+And again:
+
+    The Samaveda, the Rigveda too,
+    The science mathematical, he knew;
+    The arts wherein fair courtezans excel,
+    And all the lore of elephants as well. Through Shiva's grace, his eye was never dim;
+    He saw his son a king in place of him. The difficult horse-sacrifice he tried
+    Successfully; entered the fiery tide,
+    One hundred years and ten days old, and died. 4
+
+And yet again:
+
+    Eager for battle; sloth's determined foe;
+      Of scholars chief, who to the Veda cling;
+    Rich in the riches that ascetics know;
+    Glad, gainst the foeman's elephant to show
+      His valor;--such was Shudraka, the king. 5
+
+And in this work of his,
+
+    Within the town, Avanti named,
+    Dwells one called Charudatta, famed
+    No less for youth than poverty;
+    A merchant's son and Brahman, he. His virtues have the power to move
+    Vasantasena's inmost love;
+    Fair as the springtime's radiancy,
+    And yet a courtezan is she. 6
+
+    So here king Shudraka the tale imparts
+    Of love's pure festival in these two hearts,
+    Of prudent acts, a lawsuit's wrong and hate,
+    A rascal's nature, and the course of fate. 7
+
+[_He walks about and looks around him._] Why, this music-room of
+ours is empty. I wonder where the actors have gone. [_Reflecting._]
+Ah, I understand. P. 4.7]
+
+    Empty his house, to whom no child was born;
+      Thrice empty his, who lacks true friends and sure;
+    To fools, the world is empty and forlorn;
+      But all that is, is empty to the poor. 8
+
+I have finished the concert. And I've been practising so long that
+the pupils of my eyes are dancing, and I'm so hungry that my eyes
+are crackling like a lotus-seed, dried up by the fiercest rays of the
+summer sun. I'll just call my wife and ask whether there is anything
+for breakfast or not. Hello! here I am--but no! Both the particular occasion and the
+general custom demand that I speak Prakrit. [_Speaking in Prakrit._]
+Confound it! I've been practising so long and I'm so hungry that
+my limbs are as weak as dried-up lotus-stalks. Suppose I go home
+and see whether my good wife has got anything ready or not. [_He
+walks about and looks around him._] Here I am at home. I'll just go
+in. [_He enters and looks about._] Merciful heavens! Why in the world
+is everything in our house turned upside down? A long stream of
+rice-water is flowing down the street. The ground, spotted black
+where the iron kettle has been rubbed clean, is as lovely as a girl
+with the beauty-marks of black cosmetic on her face. It smells so
+good that my hunger seems to blaze up and hurts me more than
+ever. Has some hidden treasure come to light? or am I hungry
+enough to think the whole world is made of rice? There surely isn't
+any breakfast in our house, and I'm starved to death. But everything
+seems topsyturvy here. One girl is preparing cosmetics, another
+is weaving garlands of flowers. [_Reflecting._] What does it all
+mean? Well, I'll call my good wife and learn the truth. [_He looks
+toward the dressing-room._] Mistress, will you come here a moment? [_Enter an actress._]
+
+_Actress._ Here I am, sir. _Director._ You are very welcome, mistress. _Actress._ Command me, sir. What am I to do? [3.8. S.
+
+_Director._ Mistress, I've been practising so long and I'm so hungry
+that my limbs are as weak as dried-up lotus-stalks. Is there anything
+to eat in the house or not? _Actress._ There's everything, sir. _Director._ Well, what? _Actress._ For instance--there's rice with sugar, melted butter, curdled
+milk, rice; and, all together, it makes you a dish fit for
+heaven. May the gods always be thus gracious to you! _Director._ All that in our house? or are you joking? _Actress._ [_Aside._] Yes, I will have my joke. [_Aloud._] It's in the
+market-place, sir. _Director._ [_Angrily._] You wretched woman, thus shall your own
+hope be cut off! And death shall find you out! For my expectations,
+like a scaffolding, have been raised so high, only to fall again. _Actress._ Forgive me, sir, forgive me! It was only a joke. _Director._ But what do these unusual preparations mean? One girl
+is preparing cosmetics, another is weaving garlands, and the very
+ground is adorned with sacrificial flowers of five different colors. _Actress._ This is a fast day, sir. _Director._ What fast? _Actress._ The fast for a handsome husband. _Director._ In this world, mistress, or the next? _Actress._ In the next world, sir. _Director._ [_Wrathfully._] Gentlemen! look at this. She is sacrificing
+my food to get herself a husband in the next world. _Actress._ Don't be angry, sir. I am fasting in the hope that you
+may be my husband in my next birth, too. _Director._ But who suggested this fast to you? _Actress._ Your own dear friend Jurnavriddha. _Director._ [_Angrily._] Ah, Jurnavriddha, son of a slave-wench! When, oh, when shall I see King Palaka angry with you? Then
+you will be parted, as surely as the scented hair of some young
+bride. P. 8.10]
+
+_Actress._ Don't be angry, sir. It is only that I may have you in the
+next world that I celebrate this fast. [_She falls at his feet._]
+
+_Director._ Stand up, mistress, and tell me who is to officiate at this
+fast. _Actress._ Some Brahman of our own sort whom we must invite. _Director._ You may go then. And I will invite some Brahman of
+our own sort. _Actress._ Very well, sir. [_Exit._
+
+_Director._ [_Walking about._] Good heavens! In this rich city of
+Ujjayini how am I to find a Brahman of our own sort? [_He looks
+about him._] Ah, here comes Charudatta's friend Maitreya. Good! I'll ask him. Maitreya, you must be the first to break bread in
+our house to-day. _A voice behind the scenes._ You must invite some other Brahman. I am busy. _Director._ But, man, the feast is set and you have it all to yourself. Besides, you shall have a present. _The voice._ I said no once. Why should you keep on urging me? _Director._ He says no. Well, I must invite some other Brahman. [_Exit._
+
+END OF THE PROLOGUE
+
+
+
+
+ACT THE FIRST
+
+THE GEMS ARE LEFT BEHIND
+
+
+[_Enter, with a cloak in his hand, Maitreya._]
+
+_Maitreya._
+
+"You must invite some other Brahman. I am busy." And yet I really ought
+to be seeking invitations from a stranger. Oh, what a wretched state of
+affairs! When good Charudatta was still wealthy, I used to eat my fill
+of the most deliciously fragrant sweetmeats, prepared day and night with
+the greatest of care. I would sit at the door of the courtyard, where I
+was surrounded by hundreds of dishes, and there, like a painter with his
+paint-boxes, I would simply touch them with my fingers and thrust them
+aside. I would stand chewing my cud like a bull in the city market. And
+now he is so poor that I have to run here, there, and everywhere, and
+come home, like the pigeons, only to roost. Now here is this
+jasmine-scented cloak, which Charudatta's good friend Jurnavriddha has
+sent him. He bade me give it to Charudatta, as soon as he had finished
+his devotions. So now I will look for Charudatta. [_He walks about and
+looks around him._] Charudatta has finished his devotions, and here he
+comes with an offering for the divinities of the house. [_Enter Charudatta as described, and Radanika._]
+
+_Charudatta._ [_Looking up and sighing wearily._]
+
+    Upon my threshold, where the offering
+      Was straightway seized by swans and flocking cranes,
+    The grass grows now, and these poor seeds I fling
+      Fall where the mouth of worms their sweetness stains. 9
+
+[_He walks about very slowly and seats himself._]
+
+_Maitreya_. Charudatta is here. I must go and speak to him. [_Approaching._] My greetings to you. May happiness be yours. P. 13.1]
+
+_Charudatta._ Ah, it is my constant friend Maitreya. You are very
+welcome, my friend. Pray be seated. _Maitreya._ Thank you. [_He seats himself._] Well, comrade, here is a
+jasmine-scented cloak which your good friend Jurnavriddha has
+sent. He bade me give it you as soon as you had finished your devotions. [_He presents the cloak. Charudatta takes it and remains
+sunk in thought._] Well, what are you thinking about? _Charudatta._ My good friend,
+
+    A candle shining through the deepest dark
+      Is happiness that follows sorrow's strife;
+    But after bliss when man bears sorrow's mark,
+      His body lives a very death-in-life. 10
+
+_Maitreya._ Well, which would you rather, be dead or be poor? _Charudatta._ Ah, my friend,
+
+    Far better death than sorrows sure and slow;
+    Some passing suffering from death may flow,
+    But poverty brings never-ending woe. 11
+
+_Maitreya._ My dear friend, be not thus cast down. Your wealth has
+been conveyed to them you love, and like the moon, after she has
+yielded her nectar to the gods, your waning fortunes win an added
+charm. _Charudatta._ Comrade, I do not grieve for my ruined fortunes. But
+
+    This is my sorrow. They whom I
+    Would greet as guests, now pass me by. "This is a poor man's house," they cry. As flitting bees, the season o'er,
+    Desert the elephant, whose store
+    Of ichor[30] spent, attracts no more. 12
+
+_Maitreya._ Oh, confound the money! It is a trifle not worth thinking
+about. It is like a cattle-boy in the woods afraid of wasps; it
+doesn't stay anywhere where it is used for food. [8.5. S.
+
+_Charud._ Believe me, friend. My sorrow does not spring
+
+      From simple loss of gold;
+    For fortune is a fickle, changing thing,
+      Whose favors do not hold;
+    But he whose sometime wealth has taken wing,
+      Finds bosom-friends grow cold. 13
+
+Then too:
+
+    A poor man is a man ashamed; from shame
+    Springs want of dignity and worthy fame;
+    Such want gives rise to insults hard to bear;
+    Thence comes despondency; and thence, despair;
+    Despair breeds folly; death is folly's fruit--
+    Ah! the lack of money is all evils root! 14
+
+_Maitreya._ But just remember what a trifle money is, after all, and
+be more cheerful. _Charudatta._ My friend, the poverty of a man is to him
+
+    A home of cares, a shame that haunts the mind,
+    Another form of warfare with mankind;
+    The abhorrence of his friends, a source of hate
+    From strangers, and from each once-loving mate;
+    But if his wife despise him, then 't were meet
+    In some lone wood to seek a safe retreat. The flame of sorrow, torturing his soul,
+    Burns fiercely, yet contrives to leave him whole. 15
+
+Comrade, I have made my offering to the divinities of the house. Do you too go and offer sacrifice to the Divine Mothers at a place
+where four roads meet. _Maitreya._ No! _Charudatta._ Why not? _Maitreya._ Because the gods are not gracious to you even when
+thus honored. So what is the use of worshiping? P. 16.8]
+
+_Charudatta._ Not so, my friend, not so! This is the constant duty
+of a householder. The gods feel ever glad content
+    In the gifts, and the self-chastisement,
+    The meditations, and the prayers,
+    Of those who banish worldly cares. 16
+
+Why then do you hesitate? Go and offer sacrifice to the Mothers. _Maitreya._ No, I'm not going. You must send somebody else. Anyway,
+everything seems to go wrong with me, poor Brahman that
+I am! It's like a reflection in a mirror; the right side becomes the
+left, and the left becomes the right. Besides, at this hour of the
+evening, people are abroad upon the king's highway--courtezans,
+courtiers, servants, and royal favorites. They will take me now for
+fair prey, just as the black-snake out frog-hunting snaps up the
+mouse in his path. But what will you do sitting here? _Charudatta._ Good then, remain; and I will finish my devotions. *       *       *       *       *
+
+_Voices behind the scenes._ Stop, Vasantasena, stop! [_Enter Vasantasena, pursued by the courtier, by Sansthanaka, and the
+servant._]
+
+_Courtier._ Vasantasena! Stop, stop! Ah, why should fear transform your tenderness? Why should the dainty feet feel such distress,
+      That twinkle in the dance so prettily? Why should your eyes, thus startled into fear,
+    Dart sidelong looks? Why, like the timid deer
+      Before pursuing hunters, should you flee? 17
+
+_Sansthanaka._ Shtop,[31] Vasantasena, shtop! Why flee? and run? and shtumble in your turning? Be kind! You shall not die. Oh, shtop your feet! With love, shweet girl, my tortured heart is burning. As on a heap of coals a piece of meat. 18
+
+[10.2 S.
+
+_Servant._ Stop, courtezan, stop! In fear you flee
+      Away from me,
+    As a summer peahen should;
+      But my lord and master
+      Struts fast and faster,
+    Like a woodcock in the wood. 19
+
+_Courtier._ Vasantasena! Stop, stop! Why should you tremble, should you flee,
+    A-quiver like the plantain tree? Your garment's border, red and fair,
+    Is all a-shiver in the air;
+    Now and again, a lotus-bud
+    Falls to the ground, as red as blood. A red realgar[32] vein you seem,
+    Whence, smitten, drops of crimson stream. 20
+
+_Sansthanaka._ Shtop. Vasantasena, shtop! You wake my passion, my desire, my love;
+      You drive away my shleep in bed at night;
+    Both fear and terror sheem your heart to move;
+      You trip and shtumble in your headlong flight. But Ravana forced Kunti[33] to his will;
+    Jusht sho shall I enjoy you to the fill. 21
+
+_Courtier._ Ah, Vasantasena,
+
+    Why should your fleeter flight
+      Outstrip my flying feet? Why, like a snake in fright
+    Before the bird-king's might,
+      Thus seek to flee, my sweet? Could I not catch the storm-wind in his flight? Yet would not seize upon you, though I might. 22
+
+P. 19.9]
+
+_Sansthanaka_. Lishten to me, shir! Thish whip of robber Love, thish dancing-girl,
+      Eater of fish, deshtroyer of her kin,
+    Thish shnubnose, shtubborn, love-box, courtezan,
+      Thish clothes-line, wanton creature, maid of sin--
+    I gave her ten shweet names, and shtill
+    She will not bend her to my will. 23
+
+_Courtier_. As courtier's fingers strike the lute's tense string,
+      The dancing ear-ring smites your wounded cheek. Why should you flee, with dreadful terror weak,
+    As flees the crane when heaven's thunders ring? 24
+
+_Sansth_. Your jingling gems, girl, clink like anything;
+      Like Draupadi you flee, when Rama kisshed her. I'll sheize you quick, as once the monkey-king
+      Sheized Subhadra, Vishvavasu's shweet shishter. 25
+
+_Servant_. He's the royal protege;
+      Do whatever he may say. And you shall have good fish and flesh to eat. For when dogs have all the fish
+      And the flesh that they can wish,
+    Even carrion seems to them no longer sweet. 26
+
+_Courtier_. Mistress Vasantasena,
+
+    The girdle drooping low upon your hips
+      Flashes as brilliant as the shining stars;
+      The wondrous terror of your fleeing mars
+    Your charms; for red realgar, loosened, slips
+    As on an imaged god, from cheek and lips. 27
+
+_Sansth_. We're chasing you with all our main and might,
+      As dogs a jackal when they hunt and find it;
+    But you are quick and nimble in your flight,
+      And shteal my heart with all the roots that bind it. 28
+
+[11.23. S.
+
+_Vasantasena._ Pallavaka! Parabhritika! _Sansthanaka._ Mashter! a man! a man! _Courtier._ Don't be a coward. _Vasantasena._ Madhavika! Madhavika! _Courtier._ [_Laughing._] Fool! She is calling her servants. _Sansthanaka._ Mashter! Is she calling a woman? _Courtier._ Why, of course. _Sansthanaka._ Women! I kill hundreds of 'em. I'm a brave man. _Vasantasena._ [_Seeing that no one answers._] Alas, how comes it that
+my very servants have fallen away from me? I shall have to defend
+myself by mother-wit. _Courtier._ Don't stop the search. _Sansthanaka._ Shqueal, Vasantasena, shqueal for your cuckoo
+Parabhritika, or for your blosshom Pallavaka or for all the month of
+May! Who's going to save you when I'm chasing you? Why shpeak of Bhimasena? Or the shon
+    Of Jamadagni, that thrice-mighty one? The ten-necked ogre? Shon of Kunti fair? Jusht look at me! My fingers in your hair,
+    Jusht like Duhshasana, I'll tear, and tear. 29
+
+Look, look! My shword is sharp; good-by, poor head! Let's chop it off, or kill you dead. Then do not try my wrath to shun;
+    When you musht die, your life is done. 30
+
+_Vasantasena._ Sir, I am a weak woman. _Courtier._ That is why you are still alive. _Sansthanaka._ That is why you're not murdered. _Vasantasena._ [_Aside._] Oh! his very courtesy frightens me. Come,
+I will try this. [_Aloud._] Sir, what do you expect from this pursuit? my jewels? P. 24.7]
+
+_Courtier._ Heaven forbid! A garden creeper, mistress Vasantasena,
+should not be robbed of its blossoms. Say no more about the jewels. _Vasantasena._ What is then your desire? _Sansthanaka._ I'm a man, a big man, a regular Vasudeva. [34] You
+musht love me. _Vasantasena._ [_Indignantly._] Heavens! You weary me. Come, leave
+me! Your words are an insult. _Sansthanaka._ [_Laughing and clapping his hands._] Look, mashter,
+look! The courtezan's daughter is mighty affectionate with me,
+isn't she? Here she says "Come on! Heavens, you're weary. You're
+tired!" No, I haven't been walking to another village or another
+city. No, little mishtress, I shwear by the gentleman's head, I
+shwear by my own feet! It's only by chasing about at your heels
+that I've grown tired and weary. _Courtier._ [_Aside._] What! is it possible that the idiot does not
+understand when she says "You weary me"? [_Aloud._] Vasantasena,
+your words have no place in the dwelling of a courtezan,
+
+    Which, as you know, is friend to every youth;
+    Remember, you are common as the flower
+    That grows beside the road; in bitter truth,
+    Your body has its price; your beauty's dower
+    Is his, who pays the market's current rate:
+    Then serve the man you love, and him you hate. 31
+
+And again:
+
+    The wisest Brahman and the meanest fool
+    Bathe in the selfsame pool;
+    Beneath the peacock, flowering plants bend low,
+    No less beneath the crow;
+    The Brahman, warrior, merchant, sail along
+    With all the vulgar throng. You are the pool, the flowering plant, the boat;
+    And on your beauty every man may dote. 32
+
+[13.22 S.
+
+_Vasantasena._ Yet true love would be won by virtue, not violence. _Sansthanaka._ But, mashter, ever since the shlave-wench went into
+the park where Kama's[35] temple shtands, she has been in love with
+a poor man, with Charudatta, and she doesn't love me any more. His house is to the left. Look out and don't let her shlip out of our
+hands. _Courtier._ [_Aside._] Poor fool, he has said the very thing he should
+have concealed. So Vasantasena is in love with Charudatta? The
+proverb is right. Pearl suits with pearl. Well, I have had enough
+of this fool. [_Aloud._] Did you say the good merchant's house was
+to the left, you jackass? _Sansthanaka._ Yes. His house is to the left. _Vasantasena._ [_Aside._] Oh, wonderful! If his house is really at my
+left hand, then the scoundrel has helped me in the very act of hurting
+me, for he has guided me to my love. _Sansthanaka._ But mashter, it's pitch dark and it's like hunting
+for a grain of soot in a pile of shpotted beans. Now you shee Vasantasena
+and now you don't. _Courtier._ Pitch dark it is indeed. The sudden darkness seems to steal
+    The keenness of my sight;
+    My open eyes, as with a seal,
+    Are closed by blackest night. 33
+
+And again:
+
+    Darkness anoints my body, and the sky
+    Drops ointment of thick darkness, till mine eye
+    Is all unprofitable grown to me,
+    Like service done to them who cheat and lie. 34
+
+_Sansthanaka._ Mashter, I'm looking for Vasantasena. _Courtier._ Is there anything you can trace her by, jackass? _Sansthanaka._ Like what, for inshtance? P. 28.3]
+
+_Courtier._ Like the tinkling of her jewels, for instance, or the fragrance
+of her garlands. _Sansthanaka._ I hear the shmell of her garlands, but my nose is
+shtuffed so full of darkness that I don't shee the shound of her
+jewels very clearly. _Courtier._ [_To Vasantasena. Aside._] Vasantasena,
+
+    'T is true, the night is dark, O timid maid,
+    And like the lightning hidden in the cloud,
+    You are not seen; yet you will be betrayed
+    By fragrant garlands and by anklets loud. 35
+
+Have you heard me, Vasantasena? _Vasantasena._ [_To herself._] Heard and understood. [_She removes
+the ankle-rings, lays aside the garlands, and takes a few steps, feeling
+her way._] I can feel the wall of the house, and here is a side-entrance. But alas! my fingers tell me that the door is shut. *       *       *       *       *
+
+_Charudatta_ [_who is within the house_]. Comrade, my prayer is done. Go now and offer sacrifice to the Mothers. _Maitreya._ No, I'm not going. _Charudatta._ Alas! The poor man's kinsmen do not heed his will;
+    The friends who loved him once, now stand afar;
+    His sorrows multiply; his strength is nil;
+    Behold! his character's bright-shining star
+    Fades like the waning moon; and deeds of ill
+    That others do, are counted to him still. 36
+
+And again:
+
+    No man holds converse with him; none will greet
+    With due respect the poor man when they meet. Where rich men hold a feast, if he draw near,
+    He meets with scornful looks for looks of cheer. [15.19. S.
+
+    Where vulgar throngs are gathered, 't is the same;
+    His scanty raiment wakes his heartfelt shame. Five are the deadly sins[36] we knew before;
+    Alas! I find the sixth is--to be poor. 37
+
+And yet again:
+
+    Ah, Poverty, I pity thee, that so
+    To me thou clingest, as thy dearest friend;
+    When my poor life has met its woeful end,
+    I sadly wonder, whither thou wilt go. 38
+
+_Maitreya._ [_Betraying his embarrassment._] Well, comrade, if I must
+go, at least let Radanika go with me, to keep me company. _Charudatta._ Radanika, you are to accompany Maitreya. _Radanika._ Yes, sir. _Maitreya_. Mistress Radanika, do you take the offering and the
+candle while I open the side-door. [_He does so._]
+
+_Vasantasena._ It seems as if the door took pity on me and opened
+of itself. I will lose no time, but enter. [_She looks in._] What? a
+candle? Oh dear, oh dear! [_She puts it out with her skirt and enters._]
+
+_Charudatta._ What was that, Maitreya? _Maitreya._ I opened the side-door and the wind came through all
+in a lump and blew out the candle. Suppose you go out by the
+side-door, Radanika, and I will follow as soon as I have gone into
+the courtyard and lighted the candle again. [_Exit._
+
+_Sansthanaka._ Mashter! mashter! I'm looking for Vasantasena. _Courtier._ Keep on looking, keep on looking! _Sansthanaka._ [_Does so._] Mashter! mashter! I've caught her! I've
+caught her! _Courtier._ Idiot, you've caught me. _Sansthanaka._ You shtand right here, mashter, and shtay where
+you're put. [_He renews the search and seizes the servant._] Mashter! mashter! I've caught her! I've caught her! P. 31.3]
+
+_Servant._ Master, you've caught me, your servant. _Sansthanaka._ Mashter here, shervant here! Mashter, shervant;
+shervant, mashter. Now shtay where you're put, both of you. [_He
+renews the search and seizes Radanika by the hair._] Mashter! mashter! Thish time I've caught her! I've caught Vasantasena! Through the black night she fled, fled she;
+      Her garland's shmell betrayed her;
+    Like Chanakya caught Draupadi,
+      I caught her hair and shtayed her. 39
+
+_Courtier._
+
+    Ah, proud to be so young, so fair! Too high thy love must not aspire;
+    For now thy blossom-fragrant hair,
+      That merits richest gems and rare,
+    Serves but to drag thee through the mire. 40
+
+_Sansth._
+
+    I've got your head, girl, got it tight,
+      By the hair, the locks, and the curls, too. Now shcream, shqueak, shqueal with all your might
+      "Shiva! Ishvara! Shankara! Shambhu! "[37]                   41
+
+_Radanika._ [_In terror._] Oh, sirs, what does this mean? _Courtier._ You jackass! It's another voice. _Sansthanaka._ Mashter, the wench has changed her voice, the way a
+cat changes her voice, when she wants shome cream of curdled milk. _Courtier._ Changed her voice? Strange! Yet why so strange? She trod the stage; she learned the arts;
+    She studied to deceive our hearts;
+    And now she practises her parts. 42
+
+[_Enter Maitreya._]
+
+_Maitreya._ Look! In the gentle evening breeze the flame of the
+candle is fluttering like the heart of a goat that goes to the altar. [_He approaches and discovers Radanika._] Mistress Radanika! [17.17. S.
+
+_Sansthanaka._ Mashter, mashter! A man! a man! _Maitreya._ This is right, this is perfectly right, that strangers should
+force their way into the house, just because Charudatta is poor. _Radanika._ Oh, Maitreya, see how they insult me. _Maitreya._ What! insult you? No, they are insulting us. _Radanika._ Very well. They are insulting you, then. _Maitreya._ But they aren't using violence? _Radanika._ Yes, yes! _Maitreya._ Really? _Radanika._ Really. _Maitreya._ [_Raising his staff angrily._] No, sir! Man, a dog will show
+his teeth in his own kennel, and I am a Brahman! My staff is crooked
+as my fortunes, but it can still split a dry bamboo or a rascal's pate. _Courtier._ Have mercy, O great Brahman, have mercy. _Maitreya._ [_Discovers the courtier._] He is not the sinner. [_Discovers
+Sansthanaka._] Ah, here is the sinner. Well, you brother-in-law to
+the king, Sansthanaka, you scoundrel, you coward, this is perfectly
+proper, isn't it? Charudatta the good is a poor man now--true,
+but are not his virtues an ornament to Ujjayini? And so men break
+into his house and insult his servants! Insult not him, laid low by poverty;
+      For none are counted poor by mighty fate:
+      Yet he who falls from virtue's high estate,
+    Though he be rich, no man is poor as he. 43
+
+_Courtier._ [_Betraying his embarrassment._] Have mercy, O great
+Brahman, have mercy. We intended no insolence; we merely mistook this
+lady for another. For
+
+    We sought an amorous maiden,
+
+_Maitreya._ What! this one? _Courtier._ Heaven forbid! one whose youth
+      Is in the guidance of her own sweet will;
+    She disappeared: unconscious of the truth,
+      We did what seems a purposed deed of ill.                  44
+
+P. 35.4]
+
+I pray you, accept this all-in-all of humblest supplication. [_He drops
+his sword, folds his hands, and falls at Maitreya's feet._]
+
+_Maitreya._ Good man, rise, rise. When I reviled you, I did not know
+you. Now I know you and I ask your pardon. _Courtier._ It is I who should ask pardon. I will rise on one condition. _Maitreya._ And that is--
+
+_Courtier._ That you will not tell Charudatta what has happened here. _Maitreya._ I will be silent. _Courtier._
+
+    Brahman, this gracious act of thine
+      I bow my neck to bear;
+    For never could this sword of mine
+      With virtue's steel compare. 45
+
+_Sansthanaka._ [_Indignantly._] But mashter, what makes you fold
+your hands sho helplesshly and fall at the feet of thish manikin? _Courtier._ I was afraid. _Sansthanaka._ What were _you_ afraid of? _Courtier._ Of Charudatta's virtues. _Sansthanaka._ Virtues? He? You can go into his houshe and not
+find a thing to eat. _Courtier._ No, no. His loving-kindness unto such as we
+      Has brought him low at last;
+    From him could no man learn what insults be,
+      Or e'er his wealth was past. This well-filled pool, that in its summer day
+    Gave others drink, itself is dried away. 46
+
+_Sansthanaka._ [_Impatiently._] Who is the shon of a shlave-wench
+anyway? Brave Shvetaketu is he, Pandu's child? Or Radha's shon, the ten-necked ogre wild? Or Indradatta? or again, is he
+    Shon of brave Rama and of fair Kunti? Or Dharmaputra? Ashvatthaman bold? Perhaps Jatayu's shelf, that vulture old? 47
+
+[19.19. S.
+
+_Courtier._ Fool! I will tell you who Charudatta is. A tree of life to them whose sorrows grow,
+    Beneath its fruit of virtue bending low;
+    Father to good men; virtue's touchstone he;
+    The mirror of the learned; and the sea
+    Where all the tides of character unite;
+    A righteous man, whom pride could never blight;
+    A treasure-house, with human virtues stored;
+    Courtesy's essence, honor's precious hoard. He doth to life its fullest meaning give,
+    So good is he; we others breathe, not live. 48
+
+Let us be gone. _Sansthanaka._ Without Vasantasena? _Courtier._ Vasantasena has disappeared. _Sansthanaka._ How? _Courtier._
+
+    Like sick men's strength, or like the blind man's sight,
+    Like the fool's judgment, like the sluggard's might,
+    Like thoughtless scoundrels' store of wisdom's light,
+    Like love, when foemen fan our slumbering wrath,
+    So did _she_ vanish, when you crossed her path. 49
+
+_Sansthanaka._ I'm not going without Vasantasena. _Courtier._ And did you never hear this? To hold a horse, you need a rein;
+    To hold an elephant, a chain;
+    To hold a woman, use a heart;
+    And if you haven't one, depart. 50
+
+_Sansthanaka._ If you're going, go along. I'm not going. _Courtier._ Very well. I will go. [_Exit._
+
+P. 38.2]
+
+_Sansthanaka._ Mashter's gone, sure enough. [_To Maitreya._] Well,
+you man with the head that looks like a caret, you manikin, take a
+sheat, take a sheat. _Maitreya._ We have already been invited to take a seat. _Sansthanaka._ By whom? _Maitreya._ By destiny. _Sansthanaka._ Shtand up, then, shtand up! _Maitreya._ We shall. _Sansthanaka._ When? _Maitreya._ When fate is kind again. _Sansthanaka._ Weep, then, weep! _Maitreya._ We have wept. _Sansthanaka._ Who made you? _Maitreya._ Poverty. _Sansthanaka._ Laugh, then, laugh! _Maitreya._ Laugh we shall. _Sansthanaka._ When? _Maitreya._ When Charudatta is happy once more. _Sansthanaka._ You manikin, give poor little Charudatta thish messhage
+from me. "Thish wench with golden ornaments and golden jewels, thish
+female shtage-manager looking after the rehearsal of a new play, thish
+Vasantasena--she has been in love with you ever shince she went into the
+park where Kama's temple shtands. And when we tried to conciliate her by
+force, she went into your houshe. Now if you shend her away yourshelf
+and hand her over to me, if you reshtore her at once, without any
+lawshuit in court, then I'll be friends with you forever. But if you
+don't reshtore her, there will be a fight to the death." Remember:
+
+    Shmear a pumpkin-shtalk with cow-dung;
+      Keep your vegetables dried;
+    Cook your rice in winter evenings;
+      And be sure your meat is fried. Then let 'em shtand, and they will not
+    Bothershomely shmell and rot. 51
+
+[21.17. S.
+
+Tell it to him prettily, tell it to him craftily. Tell it to him sho that
+I can hear it as I roosht in the dove-cote on the top of my own
+palace. If you shay it different, I'll chew your head like an apple
+caught in the crack of a door. _Maitreya._ Very well. I shall tell him. _Sansthanaka._ [_Aside._] Tell me, shervant. Is mashter really gone? _Servant._ Yes, sir. _Sansthanaka._ Then we will go as quickly as we can. _Servant._ Then take your sword, master. _Sansthanaka._ You can keep it. _Servant._ Here it is, master. Take your sword, master. _Sansthanaka._ [_Taking it by the wrong end._]
+
+    My shword, red as a radish shkin,
+      Ne'er finds the time to molder;
+    Shee how it shleeps its sheath within! I put it on my shoulder. While curs and bitches yelp at me, I roam,
+    Like a hunted jackal, home. 52
+
+    [_Sansthanaka and the servant walk about, then exeunt._
+
+_Maitreya._ Mistress Radanika, you must not tell good Charudatta
+of this outrage. I am sure you would only add to the poor man's
+sorrows. _Radanika._ Good Maitreya, you know Radanika. Her lips are sealed. _Maitreya._ So be it. *       *       *       *       *
+
+_Charudatta._ [_To Vasantasena._] Radanika, Rohasena likes the fresh
+air, but he will be cold in the evening chill. Pray bring him into the
+house, and cover him with this mantle. [_He gives her the mantle._]
+
+P. 49.19]
+
+_Vasantasena._ [_To herself._] See! He thinks I am his servant. [_She
+takes the mantle and perceives its perfume. Ardently to herself._] Oh,
+beautiful! The mantle is fragrant with jasmine. His youthful days
+are not wholly indifferent to the pleasures of the world. [_She wraps
+it about her, without letting Charudatta see._]
+
+_Charudatta._ Come, Radanika, take Rohasena and enter the heart
+of the house. _Vasantasena._ [_To herself._] Ah me unhappy, that have little part
+or lot in your heart! _Charudatta._ Come, Radanika, will you not even answer? Alas! When man once sees that miserable day,
+    When fate almighty sweeps his wealth away,
+    Then ancient friendships will no longer hold,
+    Then all his former bosom-friends grow cold. 53
+
+_Maitreya._ [_Drawing near to Radanika._] Sir, here is Radanika. _Charudatta._ Here is Radanika? Who then is this--
+
+    This unknown lady, by my robe
+      Thus clinging, desecrated,
+
+_Vasantasena._ [_To herself._] Say rather "consecrated." _Charudatta._ Until she seems the crescent moon. With clouds of autumn[38] mated? 54
+
+But no! I may not gaze upon another's wife. _Maitreya._ Oh, you need not fear that you are looking at another
+man's wife. This is Vasantasena, who has been in love with you
+ever since she saw you in the garden where Kama's temple stands. _Charudatta._ What! this is Vasantasena? [_Aside._]
+
+    My love for whom--my fortune spent--
+    My wretched self in twain has rent. Like coward's anger, inward bent. 55
+
+[23. 19. S.
+
+_Maitreya._ My friend, that brother-in-law of the king says--
+
+_Charudatta._ Well? _Maitreya._ "This wench with golden ornaments and golden jewels,
+this female stage-manager looking after the rehearsal of a new
+play, this Vasantasena--she has been in love with you ever since
+she went into the park where Kama's temple stands. And when we
+tried to conciliate her by force, she went into your house." _Vasantasena._ [_To herself._] "Tried to conciliate me by force"--truly,
+I am honored by these words. _Maitreya._ "Now if you send her away yourself and hand her over
+to me, if you restore her at once, without any lawsuit in court,
+then I'll be friends with you forever. Otherwise, there will be a
+fight to the death." _Charudatta._ [_Contemptuously._] He is a fool. [_To himself._] How is
+this maiden worthy of the worship that we pay a goddess! For now
+
+    Although I bade her enter, yet she seeks
+      To spare my poverty, nor enters here;
+    Though men are known to her, yet all she speaks
+      Contains no word to wound a modest ear. 56
+
+[_Aloud._] Mistress Vasantasena, I have unwittingly made myself
+guilty of an offense; for I greeted as a servant one whom I did not
+recognize. I bend my neck to ask your pardon. _Vasantasena._ It is I who have offended by this unseemly intrusion. I bow my head to seek your forgiveness. _Maitreya._ Yes, with your pretty bows you two have knocked your
+heads together, till they look like a couple of rice-fields. I also bow
+my head like a camel colt's knee and beseech you both to stand
+up. [_He does so, then rises._]
+
+_Charudatta._ Very well, let us no longer trouble ourselves with
+conventions. _Vasantasena._ [_To herself._] What a delightfully clever hint! But
+it would hardly be proper to spend the night, considering how I
+came hither. Well, I will at least say this much. [_Aloud._] If I am
+to receive thus much of your favor, sir, I should be glad to leave
+these jewels in your house. It was for the sake of the jewels that
+those scoundrels pursued me. P. 45.14]
+
+_Charudatta._ This house is not worthy of the trust. _Vasantasena._ You mistake, sir! It is to men that treasures are
+entrusted, not to houses. _Charudatta._ Maitreya, will you receive the jewels? _Vasantasena._ I am much indebted to you. [_She hands him the
+jewels._]
+
+_Maitreya._ [_Receiving them._] Heaven bless you, madam. _Charudatta._ Fool! They are only entrusted to us. _Maitreya._ [_Aside._] Then the thieves may take them, for all I care. _Charudatta._ In a very short time--
+
+_Maitreya._ What she has entrusted to us, belongs to us. _Charudatta._ I shall restore them. _Vasantasena._ I should be grateful, sir, if this gentleman would
+accompany me home. _Charudatta._ Maitreya, pray accompany our guest. _Maitreya._ She walks as gracefully as a female swan, and you are
+the gay flamingo to accompany her. But I am only a poor Brahman,
+and wherever I go, the people will fall upon me just as dogs will
+snap at a victim dragged to the cross-roads. _Charudatta._ Very well. I will accompany her myself. Let the
+torches be lighted, to ensure our safety on the highway. _Maitreya._ Vardhamanaka, light the torches. _Vardhamanaka._ [_Aside to Maitreya._] What! light torches without
+oil? _Maitreya._ [_Aside to Charudatta._] These torches of ours are like
+courtezans who despise their poor lovers. They won't light up unless
+you feed them. [25.23. S.
+
+_Charudatta._ Enough, Maitreya! We need no torches. See, we have
+a lamp upon the king's highway. Attended by her starry servants all,
+      And pale to see as a loving maiden's cheeks,
+    Rises before our eyes the moon's bright ball,
+    Whose pure beams on the high-piled darkness fall
+      Like streaming milk that dried-up marshes seeks. 57
+
+[_His voice betraying his passion._] Mistress Vasantasena, we have
+reached your home. Pray enter. [_Vasantasena gazes ardently at him,
+then exit._] Comrade, Vasantasena is gone. Come, let us go home. All creatures from the highway take their flight;
+    The watchmen pace their rounds before our sight;
+    To forestall treachery, is just and right,
+    For many sins find shelter in the night. 58
+
+[_He walks about._] And you shall guard this golden casket by night,
+and Vardhamanaka by day. _Maitreya._ Very well. [_Exeunt ambo._
+
+FOOTNOTES:
+
+[Footnote 30: During the mating season, a fragrant liquor exudes from
+the forehead of the elephant. Of this liquor bees are very fond.] [Footnote 31: The most striking peculiarity of Sansthanaka's
+dialect--his substitution of _sh_ for _s_--I have tried to imitate in
+the translation.] [Footnote 32: Red arsenic, used as a cosmetic.] [Footnote 33: Here, as elsewhere, Sansthanaka's mythology is wildly
+confused. To a Hindu the effect must be ludicrous enough; but the humor
+is necessarily lost in a translation. It therefore seems hardly worth
+while to explain his mythological vagaries in detail.] [Footnote 34: A name of Krishna, who is perhaps the most amorous
+character in Indian story.] [Footnote 35: Cupid.] [Footnote 36: The five deadly sins are: the slaying of a Brahman, the
+drinking of wine, theft, adultery with the wife of one's teacher, and
+association with one guilty of these crimes.] [Footnote 37: These are all epithets of the same god.] [Footnote 38: Which look pretty, but do not rain. He doubtless means to
+suggest that the cloak, belonging to a strange man, is as useless to
+Vasantasena as the veil of autumn clouds to the earth.] ACT THE SECOND
+
+THE SHAMPOOER[39] WHO GAMBLED
+
+
+                          [_Enter a maid._]
+
+_Maid._
+
+I am sent with a message to my mistress by her mother. I must
+go in and find my mistress. [_She walks about and looks around
+her._] There is my mistress. She is painting a picture, and putting
+her whole heart into it. I must go and speak to her. [_Then appear the love-lorn Vasantasena, seated, and Madanika._]
+
+_Vasantasena._ Well, girl, and then--
+
+_Madanika._ But mistress, you were not speaking of anything. What
+do you mean? _Vasantasena._ Why, what did I say? _Madanika._ You said, "and then"--
+
+_Vasantasena._ [_Puckering her brows._] Oh, yes. So I did. _Maid._ [_Approaching._] Mistress, your mother sends word that you
+should bathe and then offer worship to the gods. _Vasantasena._ You may tell my mother that I shall not take the
+ceremonial bath to-day. A Brahman must offer worship in my place. _Maid._ Yes, mistress. [_Exit._
+
+_Madanika._ My dear mistress, it is love, not naughtiness, that asks
+the question--but what does this mean? _Vasantasena._ Tell me, Madanika. How do I seem to you? _Madanika._ My mistress is so absent-minded that I know her heart
+is filled with longing for somebody. _Vasantasena._ Well guessed. My Madanika is quick to fathom
+another's heart. _Madanika._ I am very, very glad. Yes, Kama is indeed mighty, and
+his great festival is welcome when one is young. But tell me, mistress,
+is it a king, or a king's favorite, whom you worship? [28.1. S.
+
+_Vasantasena._ Girl, I wish to love, not to worship. _Madanika._ Is it a Brahman that excites your passion, some youth
+distinguished for very particular learning? _Vasantasena._ A Brahman I should have to reverence. _Madanika._ Or is it some young merchant, grown enormously
+wealthy from visiting many cities? _Vasantasena._ A merchant, girl, must go to other countries and
+leave you behind, no matter how much you love him. And the
+separation makes you very sad. _Madanika._ It isn't a king, nor a favorite, nor a Brahman, nor a
+merchant. Who is it then that the princess loves? _Vasantasena._ Girl! Girl! You went with me to the park where
+Kama's temple stands? _Madanika._ Yes, mistress. _Vasantasena._ And yet you ask, as if you were a perfect stranger. _Madanika._ Now I know. Is it the man who comforted you when
+you asked to be protected? _Vasantasena._ Well, what was his name? _Madanika._ Why, he lives in the merchants' quarter. _Vasantasena._ But I asked you for his name. _Madanika._ His name, mistress, is a good omen in itself. His name
+is Charudatta. _Vasantasena._ [_Joyfully._] Good, Madanika, good. You have guessed
+it. _Madanika._ [_Aside._] So much for that. [_Aloud._] Mistress, they say
+he is poor. _Vasantasena._ That is the very reason why I love him. For a courtezan
+who sets her heart on a poor man is blameless in the eyes of
+the world. P. 59.14]
+
+_Madanika._ But mistress, do the butterflies visit the mango-tree
+when its blossoms have fallen? _Vasantasena._ That is just why we call _that_ sort of a girl a butterfly. _Madanika._ Well, mistress, if you love him, why don't you go and
+visit him at once? _Vasantasena._ Girl, if I should visit him at once, then, because he
+can't make any return--no, I don't mean that, but it would be
+hard to see him. _Madanika._ Is that the reason why you left your jewels with him? _Vasantasena._ You have guessed it. *       *       *       *       *
+
+_A voice[40] behind the scenes_. Oh, sir, a shampooer owes me ten
+gold-pieces, and he got away from us. Hold him, hold him! [_To the
+fleeing shampooer._] Stop, stop! I see you from here. [_Enter hurriedly
+a frightened shampooer._]
+
+_Shampooer._ Oh, confound this gambling business! Freed from its tether, the ace--
+      I might better say "ass"--how it kicks me! And the cast of the dice called the "spear"
+      Proves true to its name; for it sticks me. 1
+
+        The keeper's whole attention
+          Was busy with the score;
+        So it took no great invention
+          To vanish through the door. But I cannot stand forever
+          In the unprotected street. Is there no one to deliver? I would fall before his feet. 2
+
+While the keeper and the gambler are looking somewhere else
+for me, I'll just walk backwards into this empty temple and turn
+goddess. [_He makes all sorts of gestures, takes his place, and waits._]
+
+[_Enter Mathura and the gambler._]
+
+[30.1. S.
+
+_Mathura._ Oh, sir, a shampooer owes me ten gold-pieces, and he got
+away from us. Hold him, hold him! Stop, stop! I see you from
+here. _Gambler._
+
+    You may run to hell, if they'll take you in;
+    With Indra, the god, you may stay:
+    For there's never a god can save your skin. While Mathura wants his pay. 3
+
+_Mathura._
+
+    Oh, whither flee you, nimble rambler. You that cheat an honest gambler? You that shake with fear and shiver. All a-tremble, all a-quiver;
+    You that cannot trip enough. On the level ground and rough;
+    You that stain your social station,
+    Family, and reputation! 4
+
+_Gambler._ [_Examining the footprints._] Here he goes. And here the
+tracks are lost. _Mathura._ [_Gazes at the footprints. Reflectively._] Look! The feet are
+turned around. And the temple hasn't any image. [_After a moment's
+thought._] That rogue of a shampooer has gone into the temple
+with his feet turned around. _Gambler._ Let's follow him. _Mathura._ All right. [_They enter the temple and take a good look,
+then make signs to each other._]
+
+_Gambler._ What! a wooden image? _Mathura._ Of course not. It's stone. [_He shakes it with all his might,
+then makes signs._] What do we care? Come, let's have a game. [_He
+starts to gamble as hard as he can._]
+
+_Shampooer._ [_Trying with all his might to repress the gambling
+fever. Aside._] Oh, oh! Oh, the rattle of dice is a charming thing,
+    When you haven't a copper left;
+    It works like a drum on the heart of a king,
+       Of all his realm bereft. 5
+
+    For gamblers leap down a mountain steep--
+       I know I shall not play. Yet the rattle of dice is as sweet as the peep
+    Of nightingales in May. 6
+
+_Gambler._ My turn, my turn! P. 56.10]
+
+_Mathura._ Not much! it's my turn. _Shampooer._ [_Coming up quickly from behind._] Isn't it _my_ turn? _Gambler._ We've got our man. 

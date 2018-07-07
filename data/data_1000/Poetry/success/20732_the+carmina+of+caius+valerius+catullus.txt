@@ -1,0 +1,1944 @@
+
+
+
+
+Produced by Ted Garvin, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+The
+
+Carmina
+
+of
+
+Caius Valerius Catullus
+
+Now first completely Englished into Verse
+and Prose, the Metrical Part by Capt. Sir Richard F. Burton, R.C.M.G.,
+F.R.G.S., etc., etc., etc., and the
+Prose Portion, Introduction,
+and Notes Explanatory
+and Illustrative by
+Leonard C.
+Smithers
+
+[Illustration]
+
+_LONDON: MDCCCXCIIII: PRINTED FOR THE TRANSLATORS:
+IN ONE VOLUME: FOR PRIVATE SUBSCRIBERS ONLY_
+
+[Illustration]
+
+       *       *       *       *       *
+
+
+DEAR MR. SMITHERS,
+
+By every right I ought to choose you to edit and bring out Sir Richard
+Burton's translation of Catullus, because you collaborated with him on this
+work by a correspondence of many months before he died. If I have hesitated
+so long as to its production, it was because his notes, which are mostly
+like pencilled cobwebs, strewn all over his Latin edition, were headed,
+"NEVER SHEW HALF-FINISHED WORK TO WOMEN OR FOOLS." The reason of this
+remark was, that in all his writings, his first copy, his first thought,
+was always the best and the most powerful. Like many a painter who will go
+on improving and touching up his picture till he has destroyed the
+likeness, and the startling realistic nature of his subject, so would Sir
+Richard go on weakening his first copy by improvements, and then appeal to
+me to say which was the best. I was almost invariably obliged, in
+conscience, to induce him to stick to the first thought, which had grasped
+the whole meaning like a flash. These notes were made in a most curious
+way. He used to bring his Latin Catullus down to _table d'hote_ with him,
+and he used to come and sit by me, but the moment he got a person on the
+other side, who did not interest him, he used to whisper to me, "Talk, that
+I may do my Catullus," and between the courses he wrote what I now give
+you. The public school-boy is taught that the Atys was unique in subject
+and metre, that it was the greatest and most remarkable poem in Latin
+literature, famous for the fiery vehemence of the Greek dithyramb, that it
+was the only specimen in Latin of the Galliambic measure, so called,
+because sung by the Gallae--and I suspect that the school-boy now learns
+that there are half a dozen others, which you can doubtless name. To _my_
+mind the gems of the whole translation are the Epithalamium or Epos of the
+marriage of Vinia and Manlius, and the Parcae in that of Peleus and Thetis. Sir Richard laid great stress on the following in his notes, headed
+"Compare with Catullus, the sweet and tender little Villanelle, by Mr.
+Edmund Gosse," for the Viol and Flute--the XIX cent. with the I^{st.}
+
+  "Little mistress mine, good-bye! I have been your sparrow true;
+  Dig my grave, for I must die. Waste no tear, and heave no sigh;
+    Life should still be blithe for you,
+  Little mistress mine, good-bye! In your garden let me lie
+    Underneath the pointed yew,
+  Dig my grave, for I must die. We have loved the quiet sky
+    With its tender arch of blue;
+  Little mistress mine, good-bye! That I still may feel you nigh,
+    In your virgin bosom, too,
+  Dig my grave, for I must die. Let our garden friends that fly
+    Be the mourners, fit and few. Little mistress mine, good-bye! Dig my grave, for I must die." Sir Richard seriously began his Catullus on Feb. 18th, 1890, at Hamman
+R'irha, in North Africa. He had finished the first rough copy on March
+31st, 1890, at Trieste. He made a second copy beginning May 23rd, 1890, at
+Trieste, which was finished July 21st, 1890, at Zurich. He then writes a
+margin. "Work incomplete, but as soon as I receive Mr. Smithers' prose, I
+will fill in the words I now leave in stars, in order that we may not use
+the same expressions, and I will then make a third, fair, and complete
+copy." But, alas! then he was surprised by Death. I am afraid that Sir Richard's readers may be disappointed to find that,
+unlike Mr. Grant Allen, there is no excursus on the origin of Tree-worship,
+and therefore that, perhaps, through ignorance, I have omitted something. Sir Richard did write in the sixties and seventies on Tree-alphabets, the
+Ogham Runes and El Mushajjar, the Arabic Tree-alphabet,--and had theories
+and opinions as to its origin; but he did not, I know, connect them in any
+way, however remote, with Catullus. I therefore venture to think you will
+quite agree with me, that they have no business here, but should appear in
+connection with my future work, "Labours and Wisdom of Sir Richard Burton." All these three and a half years, I have hesitated what to do, but after
+seeing other men's translations, his _incomplete_ work is, in my humble
+estimation, too good to be consigned to oblivion, so that I will no longer
+defer to send you a type-written copy, and to ask you to bring it through
+the press, supplying the Latin text, and adding thereto your own prose,
+which we never saw. Yours truly,
+
+ISABEL BURTON. _July 11th, 1894._
+
+       *       *       *       *       *
+
+
+FOREWORD
+
+A scholar lively, remembered to me, that _Catullus_ translated word for
+word, is an anachronism, and that a literal English rendering in the
+nineteenth century could be true to the poet's letter, but false to his
+spirit. I was compelled to admit that something of this is true; but it is
+not the whole truth. "Consulting modern taste" means really a mere
+imitation, a re-cast of the ancient past in modern material. It is
+presenting the toga'd citizen, rough, haughty, and careless of any
+approbation not his own, in the costume of to-day,--boiled shirt,
+dove-tailed coat, black-cloth clothes, white pocket-handkerchief, and
+diamond ring. Moreover, of these transmogrifications we have already enough
+and to spare. But we have not, as far as I know, any version of Catullus
+which can transport the English reader from the teachings of our century to
+that preceding the Christian Era. As discovery is mostly my mania, I have
+hit upon a bastard-urging to indulge it, by a presenting to the public of
+certain classics in the nude Roman poetry, like the Arab, and of the same
+date....
+
+RICHARD F. BURTON. _Trieste, 1890._
+
+    [The Foreword just given is an unfinished pencilling on the margin of
+    Sir Richard's Latin text of Catullus. I reproduce below, a portion of
+    his Foreword to a previous translation from the Latin on which we
+    collaborated and which was issued in the summer of 1890.--L. C. S.]
+
+A 'cute French publisher lately remarked to me that, as a rule, versions in
+verse are as enjoyable to the writer as they are unenjoyed by the reader,
+who vehemently doubts their truth and trustworthiness. These pages hold in
+view one object sole and simple, namely, to prove that a translation,
+metrical and literal, may be true and may be trustworthy. As I told the public (Camoens: Life and Lusiads ii. 185-198), it has ever
+been my ambition to reverse the late Mr. Matthew Arnold's peremptory
+dictum:--"In a verse translation no original work is any longer
+recognisable." And here I may be allowed to borrow from my Supplemental
+Arabian Nights (Vol. vi., Appendix pp. 411-412, a book known to few and
+never to be reprinted) my vision of the ideal translation which should not
+be relegated to the Limbus of Intentions. "My estimate of a translator's office has never been of the low level
+generally assigned to it even in the days when Englishmen were in the habit
+of translating every work, interesting or important, published out of
+England, and of thus giving a continental and cosmopolitan flavour to their
+literature. We cannot at this period expect much from a 'man of letters'
+who must produce a monthly volume for a pittance of L20: of him we need not
+speak. But the translator at his best, works, when reproducing the matter
+and the manner of his original, upon two distinct lines. His prime and
+primary object is to please his reader, edifying him and gratifying his
+taste; the second is to produce an honest and faithful copy, adding naught
+to the sense or abating aught of its especial _cachet_. He has, however, or
+should have, another aim wherein is displayed the acme of hermeneutic art. Every language can profitably lend something to and take somewhat from its
+neighbours--an epithet, a metaphor, a naif idiom, a turn of phrase. And the
+translator of original mind who notes the innumerable shades of tone,
+manner and complexion will not neglect the frequent opportunities of
+enriching his mother-tongue with novel and alien ornaments which shall
+justly be accounted barbarisms until formally naturalized and adopted. Nor
+will any modern versionist relegate to a foot-note, as is the malpractice
+of his banal brotherhood, the striking and often startling phases of the
+foreign author's phraseology and dull the text with well-worn and
+commonplace English equivalents, thus doing the clean reverse of what he
+should do. It was this _beau ideal_ of a translator's success which made
+Eustache Deschamps write of his contemporary and brother bard,
+
+  _Grand Translateur, noble Geoffroy Chaucier._
+
+Here
+
+  'The firste finder of our fair langage'
+
+is styled 'a Socrates in philosophy, a Seneca in morals, an Angel in
+conduct and a great Translator,'--a seeming anti-climax which has
+scandalized not a little sundry inditers of 'Lives' and 'Memoirs.' The
+title is no bathos: it is given simply because Chaucer _translated_ (using
+the term in its best and highest sense) into his pure, simple and strong
+English tongue with all its linguistic peculiarities, the thoughts and
+fancies of his foreign models, the very letter and spirit of Petrarch and
+Boccaccio." For the humble literary status of translation in modern England and for the
+short-comings of the average English translator, public taste or rather
+caprice is mainly to be blamed. The "general reader," the man not in the
+street but the man who makes up the educated mass, greatly relishes a
+novelty in the way of "plot" or story or catastrophe while he has a natural
+dislike to novelties of style and diction, demanding a certain dilution of
+the unfamiliar with the familiar. Hence our translations in verse,
+especially when rhymed, become for the most part deflorations or excerpts,
+adaptations or periphrases more or less meritorious and the "translator"
+was justly enough dubbed "traitor" by critics of the severer sort. And he
+amply deserves the injurious name when ignorance of his original's language
+perforce makes him pander to popular prescription. But the good time which has long been coming seems now to have come. The
+home reader will no longer put up with the careless caricatures of
+classical chefs d'oeuvre which satisfied his old-fashioned predecessor. Our
+youngers, in most points our seniors, now expect the translation not only
+to interpret the sense of the original but also, when the text lends itself
+to such treatment, to render it _verbatim et literatim_, nothing being
+increased or diminished, curtailed or expanded. Moreover, in the choicer
+passages, they so far require an echo of the original music that its melody
+and harmony should be suggested to their mind. Welcomed also are the
+mannerisms of the translator's model as far as these aid in preserving,
+under the disguise of another dialect, the individuality of the foreigner
+and his peculiar costume. That this high ideal of translation is at length becoming popular now
+appears in our literature. The "Villon Society," when advertizing the
+novels of Matteo Bandello, Bishop of Agen, justly remarks of the
+translator, Mr. John Payne, that his previous works have proved him to
+possess special qualifications for "the delicate and difficult task of
+transferring into his own language at once the savour and the substance,
+the matter and the manner of works of the highest individuality, conceived
+and executed in a foreign language." In my version of hexameters and pentameters I have not shirked the metre
+although it is strangely out of favour in English literature while we read
+it and enjoy it in German. There is little valid reason for our aversion;
+the rhythm has been made familiar to our ears by long courses of Greek and
+Latin and the rarity of spondaic feet is assuredly to be supplied by art
+and artifice. And now it is time for farewelling my friends:--we may no longer (alas!) address them, with the ingenuous Ancient in the imperative
+
+Vos Plaudite. RICHARD F. BURTON. _July, 1890._
+
+       *       *       *       *       *
+
+
+INTRODUCTION
+
+The present translation was jointly undertaken by the late Sir Richard
+Burton and myself in 1890, some months before his sudden and lamented
+death. We had previously put into English, and privately printed, a body of
+verse from the Latin, and our aim was to follow it with literal and
+unexpurgated renderings of Catullus, Juvenal, and Ausonius, from the same
+tongue. Sir Richard laid great stress on the necessity of thoroughly
+annotating each translation from an erotic (and especially a paederastic)
+point of view, but subsequent circumstances caused me to abandon that
+intention. The Latin text of Catullus printed in this volume is that of Mueller (A.D.
+1885), which Sir Richard Burton chose as the basis for our translation, and
+to that text I have mainly adhered. On some few occasions, however, I have
+slightly deviated from it, and, although I have consulted Owen and
+Postgate, in such cases I have usually followed Robinson Ellis. Bearing in mind my duty to the reader as well as to the author, I have
+aimed at producing a readable translation, and yet as literal a version
+(castrating no passages) as the dissimilarity in idiom of the two
+languages, Latin and English, permit; and I claim for this volume that it
+is the first literal and complete English translation as yet issued of
+Catullus. The translations into English verse which I have consulted are
+_The Adventures of Catullus, and the History of his Amours with Lesbia_
+(done from the French, 1707), Nott, Lamb, Fleay, (privately printed, 1864),
+Hart-Davies, Shaw, Cranstoun, Martin, Grant Allen, and Ellis. Of these,
+none has been helpful to me save Professor Robinson Ellis's _Poems and
+Fragments of Catullus translated in the metres of the original_,--a most
+excellent and scholarly version, to which I owe great indebtedness for many
+a felicitous expression. I have also used Dr. Nott freely in my
+annotations. The only English prose translation of which I have any
+knowledge is the one in Bohn's edition of Catullus, and this, in addition
+to being bowdlerized, is in a host of passages more a paraphrase than a
+literal translation. I have not thought it needful in any case to point out my deviations from
+Mueller's text, and I have cleared the volume of all the load of
+mythological and historical notes which are usually appended to a
+translation of a classic, contenting myself with referring the
+non-classical reader to Bohn's edition of the poet. Of the boldness of Sir Richard Burton's experiment of a metrical and linear
+translation there can be no question; and on the whole he has succeeded in
+proving his contention as to its possibility, though it must be confessed
+that it is at times at the cost of obscurity, or of inversions of sentences
+which certainly are compelled to lay claim to a poet's license. It must,
+however, be borne in mind that in a letter to me just before his death, he
+expressed his intention of going entirely through the work afresh, on
+receiving my prose, adding that it needed "a power of polishing." To me has fallen the task of editing Sir Richard's share in this volume
+from a type-written copy literally swarming with copyist's errors. With
+respect to the occasional lacunae which appear, I can merely state that
+Lady Burton has repeatedly assured me that she has furnished me with a
+faithful copy of her husband's translation, and that the words omitted
+(which are here indicated by full points, not asterisks) were _not_ filled
+in by him, because he was first awaiting my translation with the view of
+our not using similar expressions. However, Lady Burton has without any
+reason consistently refused me even a glance at his MS.; and in our
+previous work from the Latin I did not find Sir Richard trouble himself in
+the least concerning our using like expressions. The frontispiece to this volume is reproduced from the statue which stands
+over the Palazzo di Consiglio, the Council House at Verona, which is the
+only representation of Catullus extant. LEONARD C. SMITHERS. _July 11th, 1894._
+
+       *       *       *       *       *
+
+
+CONTENTS
+
+
+  I.--DEDICATION TO CORNELIUS NEPOS
+  II.--LESBIA'S SPARROW
+  III.--ON THE DEATH OF LESBIA'S SPARROW
+  IIII.--ON HIS PINNACE
+  V.--TO LESBIA, (OF LESBOS--CLODIA?) VI.--TO FLAVIUS: MIS-SPEAKING HIS MISTRESS
+  VII.--TO LESBIA STILL BELOVED
+  VIII.--TO HIMSELF, RECOUNTING LESBIA'S INCONSTANCY
+  VIIII.--TO VERANIUS RETURNED FROM TRAVEL
+  X.--HE MEETS VARUS AND MISTRESS
+  XI.--A PARTING INSULT TO LESBIA
+  XII.--TO M. ASINIUS WHO STOLE NAPERY
+  XIII.--FABULLUS IS INVITED TO A POET'S SUPPER
+  XIIII.--TO CALVUS, ACKNOWLEDGING HIS POEMS
+  XV.--TO AURELIUS--HANDS OFF THE BOY! XVI.--TO AURELIUS AND FURIUS, IN DEFENCE OF HIS MUSE'S HONESTY
+  XVII.--OF A "PREDESTINED" HUSBAND
+  XVIII.--TO PRIAPUS, THE GARDEN-GOD
+  XVIIII.--TO PRIAPUS
+  XX.--TO PRIAPUS
+  XXI.--TO AURELIUS THE SKINFLINT
+  XXII.--TO VARUS, ABUSING SUFFENUS
+  XXIII.--TO FURIUS, SATIRICALLY PRAISING HIS POVERTY
+  XXIIII.--TO JUVENTIUS CONCERNING THE CHOICE OF A FRIEND
+  XXV.--ADDRESS TO THALLUS, THE NAPERY-THIEF
+  XXVI.--CATULLUS CONCERNING HIS VILLA
+  XXVII.--TO HIS CUP-BOY
+  XXVIII.--TO FRIENDS ON RETURN FROM TRAVEL
+  XXVIIII.--TO CAESAR, OF MAMURRA--CALLED MENTULA
+  XXX.--TO ALFENUS THE PERJURER
+  XXXI.--ON RETURN TO SIRMIO AND HIS VILLA
+  XXXII.--CRAVING IPSITHILLA'S LAST FAVOURS
+  XXXIII.--ON THE VIBENII--BATH-THIEVES
+  XXXIIII.--HYMN TO DIANA
+  XXXV.--AN INVITATION TO POET CECILIUS
+  XXXVI.--ON "THE ANNALS"--A SO-CALLED POEM OF VOLUSIUS
+  XXXVII.--TO THE FREQUENTERS OF A LOW TAVERN
+  XXXVIII.--A COMPLAINT TO CORNIFICIUS
+  XXXVIIII.--ON EGNATIUS OF THE WHITE TEETH
+  XXXX.--THREATENING RAVIDUS WHO STOLE HIS MISTRESS
+  XXXXI.--ON MAMURRA'S MISTRESS
+  XXXXII.--ON A STRUMPET WHO STOLE HIS TABLETS
+  XXXXIII.--TO MAMURRA'S MISTRESS
+  XXXXIIII.--CATULLUS TO HIS OWN FARM
+  XXXXV.--ON ACME AND SEPTUMIUS
+  XXXXVI.--HIS ADIEUX TO BITHYNIA
+  XXXXVII.--TO PORCIUS AND SOCRATION
+  XXXXVIII.--TO JUVENTIUS
+  XXXXVIIII.--TO MARCUS TULLIUS CICERO
+  L.--TO HIS FRIEND LICINIUS
+  LI.--TO LESBIA
+  LII.--CATULLUS TO HIMSELF
+  LIII.--A JEST CONCERNING CALVUS
+  LIIII.--TO JULIUS CAESAR (?) LV.---OF HIS FRIEND CAMERIUS
+  LVI.--TO CATO, DESCRIBING A "BLACK JOKER"
+  LVII.--ON MAMURRA AND JULIUS CAESAR
+  LVIII.--ON LESBIA WHO ENDED BADLY
+  LVIIII.--ON RUFA
+  LX.--TO A CRUEL CHARMER
+  LXI.--EPITHALAMIUM ON VINIA AND MANLIUS
+  LXII.--NUPTIAL SONG BY YOUTHS AND DAMSELS (EPITHALAMIUM)
+  LXIII.--THE ADVENTURES OF ATYS
+  LXIIII.--MARRIAGE OF PELEUS AND THETIS (FRAGMENT OF AN EPOS)
+  LXV.--TO HORTALUS LAMENTING A LOST BROTHER
+  LXVI.--(LOQUITUR) BERENICE'S LOCK
+  LXVII.--DIALOGUE CONCERNING CATULLUS AT A HARLOT'S DOOR
+  LXVIII.--TO MANIUS ON VARIOUS MATTERS
+  LXVIIII.--TO RUFUS THE FETID
+  LXX.--ON WOMAN'S INCONSTANCY
+  LXXI.--TO VERRO
+  LXXII.--TO LESBIA THE FALSE
+  LXXIII.--OF AN INGRATE
+  LXXIIII.--OF GELLIUS
+  LXXVII.--TO RUFUS, THE TRAITOR FRIEND
+  LXXVIII.--OF GALLUS
+  LXXVIIII.--OF LESBIUS
+  LXXX.--TO GELLIUS
+  LXXXI.--TO JUVENTIUS
+  LXXXII.--TO QUINTIUS
+  LXXXIII.--OF LESBIA'S HUSBAND
+  LXXXIIII.--OF ARRIUS, A ROMAN 'ARRY
+  LXXXV.--HOW THE POET LOVES
+  LXXXVI.--OF QUINTIA
+  LXXXVII., LXXV.--TO LESBIA
+  LXXVI.--IN SELF-GRATULATION
+  LXXXVIII.--TO GELLIUS
+  LXXXVIIII.--ON GELLIUS
+  LXXXX.--ON GELLIUS
+  LXXXXI.--TO GELLIUS
+  LXXXXII.--ON LESBIA
+  LXXXXIII.--ON JULIUS CAESAR
+  LXXXXIIII.--AGAINST MENTULA (MAMURRA)
+  LXXXXV.--ON THE "ZMYRNA" OF THE POET CINNA
+  LXXXXVI.--TO CALVUS, ANENT THE DEAD QUARTILLA
+  LXXXXVII.--ON AEMILIUS THE FOUL
+  LXXXXVIII.--TO VICTIUS THE STINKARD
+  LXXXXVIIII.--TO JUVENTIUS
+  C.--ON CAELIUS AND QUINTIUS
+  CI.--ON THE BURIAL OF HIS BROTHER
+  CII.--TO CORNELIUS
+  CIII.--TO SILO
+  CIIII.--CONCERNING LESBIA
+  CV.--ON MAMURRA
+  CVI.--THE AUCTIONEER AND THE FAIR BOY
+  CVII.--TO LESBIA RECONCILED
+  CVIII.--ON COMINIUS
+  CVIIII.--TO LESBIA ON HER VOW OF CONSTANCY
+  CX.--TO AUFILENA
+  CXI.--TO THE SAME
+  CXII.--ON NASO
+  CXIII.--TO CINNA
+  CXIIII.--ON MAMURRA'S SQUANDERING
+  CXV.--OF THE SAME
+  CXVI.--TO GELLIUS THE CRITIC
+
+  NOTES ILLUSTRATIVE AND EXPLANATORY
+
+       *       *       *       *       *
+
+
+[Illustration]
+
+The Carmina
+
+OF
+
+Caius Valerius Catullus
+
+       *       *       *       *       *
+
+C. VALERII CATVLLI
+
+LIBER. I.
+
+  Quoi dono lepidum novom libellum
+  Arida modo pumice expolitum? Corneli, tibi: namque tu solebas
+  Meas esse aliquid putare nugas,
+  Iam tum cum ausus es unus Italorum                             5
+  Omne aevum tribus explicare chartis
+  Doctis, Iuppiter, et laboriosis. Quare habe tibi quidquid hoc libelli,
+  Qualecumque, quod o patrona virgo,
+  Plus uno maneat perenne saeclo. 10
+
+I.
+
+DEDICATION TO CORNELIUS NEPOS. Now smooth'd to polish due with pumice dry
+  Whereto this lively booklet new give I? To thee (Cornelius! ); for wast ever fain
+  To deem my trifles somewhat boon contain;
+  E'en when thou single 'mongst Italians found                   5
+  Daredst all periods in three Scripts expound
+  Learned (by Jupiter!) elaborately. Then take thee whatso in this booklet be,
+  Such as it is, whereto O Patron Maid
+  To live down Ages lend thou lasting aid! 10
+
+To whom inscribe my dainty tome--just out and with ashen pumice polished? Cornelius, to thee! for thou wert wont to deem my triflings of account, and
+at a time when thou alone of Italians didst dare unfold the ages' abstract
+in three chronicles--learned, by Jupiter!--and most laboriously writ. Wherefore take thou this booklet, such as 'tis, and O Virgin Patroness, may
+it outlive generations more than one. II. Passer, deliciae meae puellae,
+  Quicum ludere, quem in sinu tenere,
+  Quoi primum digitum dare adpetenti
+  Et acris solet incitare morsus,
+  Cum desiderio meo nitenti                                      5
+  Carum nescioquid libet iocari
+  Vt solaciolum sui doloris,
+  Credo ut iam gravis acquiescat ardor:
+  Tecum ludere sicut ipsa possem
+  Et tristis animi levare curas! 10
+      *    *    *    *
+  Tam gratumst mihi quam ferunt puellae
+  Pernici aureolum fuisse malum,
+  Quod zonam soluit diu ligatam. II. LESBIA'S SPARROW. Sparrow! my pet's delicious joy,
+  Wherewith in bosom nurst to toy
+  She loves, and gives her finger-tip
+  For sharp-nib'd greeding neb to nip,
+  Were she who my desire withstood                               5
+  To seek some pet of merry mood,
+  As crumb o' comfort for her grief,
+  Methinks her burning lowe's relief:
+  Could I, as plays she, play with thee,
+  That mind might win from misery free! 10
+      *    *    *    *
+  To me t'were grateful (as they say),
+  Gold codling was to fleet-foot May,
+  Whose long-bound zone it loosed for aye. Sparrow, petling of my girl, with which she wantons, which she presses to
+her bosom, and whose eager peckings is accustomed to incite by stretching
+forth her forefinger, when my bright-hued beautiful one is pleased to jest
+in manner light as (perchance) a solace for her heart ache, thus methinks
+she allays love's pressing heats! Would that in manner like, I were able
+with thee to sport and sad cares of mind to lighten! *    *    *    *
+
+This were gracious to me as in story old to the maiden fleet of foot was
+the apple golden-fashioned which unloosed her girdle long-time girt. III. Lugete, o Veneres Cupidinesque,
+  Et quantumst hominum venustiorum. Passer mortuus est meae puellae,
+  Passer, deliciae meae puellae,
+  Quem plus illa oculis suis amabat:                             5
+  Nam mellitus erat suamque norat
+  Ipsa tam bene quam puella matrem
+  Nec sese a gremio illius movebat,
+  Sed circumsiliens modo huc modo illuc
+  Ad solam dominam usque pipiabat. 10
+  Qui nunc it per iter tenebricosum
+  Illuc, unde negant redire quemquam. At vobis male sit, malae tenebrae
+  Orci, quae omnia bella devoratis:
+  Tam bellum mihi passerem abstulistis. 15
+  O factum male! io miselle passer! Tua nunc opera meae puellae
+  Flendo turgiduli rubent ocelli. III. ON THE DEATH OF LESBIA'S SPARROW. Weep every Venus, and all Cupids wail,
+  And men whose gentler spirits still prevail. Dead is the Sparrow of my girl, the joy,
+  Sparrow, my sweeting's most delicious toy,
+  Whom loved she dearer than her very eyes;                      5
+  For he was honeyed-pet and anywise
+  Knew her, as even she her mother knew;
+  Ne'er from her bosom's harbourage he flew
+  But 'round her hopping here, there, everywhere,
+  Piped he to none but her his lady fair. 10
+  Now must he wander o'er the darkling way
+  Thither, whence life-return the Fates denay. But ah! beshrew you, evil Shadows low'ring
+  In Orcus ever loveliest things devouring:
+  Who bore so pretty a Sparrow fro' her ta'en. 15
+  (Oh hapless birdie and Oh deed of bane!) Now by your wanton work my girl appears
+  With turgid eyelids tinted rose by tears. Mourn ye, O ye Loves and Cupids and all men of gracious mind. Dead is the
+sparrow of my girl, sparrow, sweetling of my girl. Which more than her eyes
+she loved; for sweet as honey was it and its mistress knew, as well as
+damsel knoweth her own mother nor from her bosom did it rove, but hopping
+round first one side then the other, to its mistress alone it evermore did
+chirp. Now does it fare along that path of shadows whence naught may e'er
+return. Ill be to ye, savage glooms of Orcus, which swallow up all things
+of fairness: which have snatched away from me the comely sparrow. O deed of
+bale! O sparrow sad of plight! Now on thy account my girl's sweet eyes,
+swollen, do redden with tear-drops. IIII. Phaselus ille, quem videtis, hospites,
+  Ait fuisse navium celerrimus,
+  Neque ullius natantis impetum trabis
+  Nequisse praeter ire, sive palmulis
+  Opus foret volare sive linteo. 5
+  Et hoc negat minacis Adriatici
+  Negare litus insulasve Cycladas
+  Rhodumque nobilem horridamque Thraciam
+  Propontida trucemve Ponticum sinum,
+  Vbi iste post phaselus antea fuit                             10
+  Comata silva: nam Cytorio in iugo
+  Loquente saepe sibilum edidit coma. Amastri Pontica et Cytore buxifer,
+  Tibi haec fuisse et esse cognitissima
+  Ait phaselus: ultima ex origine                               15
+  Tuo stetisse dicit in cacumine,
+  Tuo imbuisse palmulas in aequore,
+  Et inde tot per inpotentia freta
+  Erum tulisse, laeva sive dextera
+  Vocaret aura, sive utrumque Iuppiter                          20
+  Simul secundus incidisset in pedem;
+  Neque ulla vota litoralibus deis
+  Sibi esse facta, cum veniret a marei
+  Novissime hunc ad usque limpidum lacum. Sed haec prius fuere: nunc recondita                          25
+  Senet quiete seque dedicat tibi,
+  Gemelle Castor et gemelle Castoris. IIII. ON HIS PINNACE. Yonder Pinnace ye (my guests!) behold
+  Saith she was erstwhile fleetest-fleet of crafts,
+  Nor could by swiftness of aught plank that swims,
+  Be she outstripped, whether paddle plied,
+  Or fared she scudding under canvas-sail. 5
+  Eke she defieth threat'ning Adrian shore,
+  Dare not denay her, insular Cyclades,
+  And noble Rhodos and ferocious Thrace,
+  Propontis too and blustering Pontic bight. Where she (my Pinnace now) in times before,                   10
+  Was leafy woodling on Cytorean Chine
+  For ever loquent lisping with her leaves. Pontic Amastris! Box-tree-clad Cytorus! Cognisant were ye, and you weet full well
+  (So saith my Pinnace) how from earliest age                   15
+  Upon your highmost-spiring peak she stood,
+  How in your waters first her sculls were dipt,
+  And thence thro' many and many an important strait
+  She bore her owner whether left or right,
+  Where breezes bade her fare, or Jupiter deigned               20
+  At once propitious strike the sail full square;
+  Nor to the sea-shore gods was aught of vow
+  By her deemed needful, when from Ocean's bourne
+  Extreme she voyaged for this limpid lake. Yet were such things whilome: now she retired                 25
+  In quiet age devotes herself to thee
+  (O twin-born Castor) twain with Castor's twin. That pinnace which ye see, my friends, says that it was the speediest of
+boats, nor any craft the surface skimming but it could gain the lead,
+whether the course were gone o'er with plashing oars or bended sail. And
+this the menacing Adriatic shores may not deny, nor may the Island
+Cyclades, nor noble Rhodes and bristling Thrace, Propontis nor the gusty
+Pontic gulf, where itself (afterwards a pinnace to become) erstwhile was a
+foliaged clump; and oft on Cytorus' ridge hath this foliage announced
+itself in vocal rustling. And to thee, Pontic Amastris, and to box-screened
+Cytorus, the pinnace vows that this was alway and yet is of common
+knowledge most notorious; states that from its primal being it stood upon
+thy topmost peak, dipped its oars in thy waters, and bore its master thence
+through surly seas of number frequent, whether the wind whistled 'gainst
+the starboard quarter or the lee or whether Jove propitious fell on both
+the sheets at once; nor any vows [from stress of storm] to shore-gods were
+ever made by it when coming from the uttermost seas unto this glassy lake. But these things were of time gone by: now laid away, it rusts in peace and
+dedicates its age to thee, twin Castor, and to Castor's twin. V.
+
+  Vivamus, mea Lesbia, atque amemus,
+  Rumoresque senum severiorum
+  Omnes unius aestimemus assis. Soles occidere et redire possunt:
+  Nobis cum semel occidit brevis lux,                            5
+  Nox est perpetua una dormienda. Da mi basia mille, deinde centum,
+  Dein mille altera, dein secunda centum,
+  Deinde usque altera mille, deinde centum. Dein, cum milia multa fecerimus,                              10
+  Conturbabimus illa, ne sciamus,
+  Aut nequis malus invidere possit,
+  Cum tantum sciet esse basiorum. V.
+
+TO LESBIA, (OF LESBOS--CLODIA?) Love we (my Lesbia!) and live we our day,
+  While all stern sayings crabbed sages say,
+  At one doit's value let us price and prize! The Suns can westward sink again to rise
+  But we, extinguished once our tiny light,                      5
+  Perforce shall slumber through one lasting night! Kiss me a thousand times, then hundred more,
+  Then thousand others, then a new five-score,
+  Still other thousand other hundred store. Last when the sums to many thousands grow,                    10
+  The tale let's trouble till no more we know,
+  Nor envious wight despiteful shall misween us
+  Knowing how many kisses have been kissed between us. Let us live, my Lesbia, and let us love, and count all the mumblings of
+sour age at a penny's fee. Suns set can rise again: we when once our brief
+light has set must sleep through a perpetual night. Give me of kisses a
+thousand, and then a hundred, then another thousand, then a second hundred,
+then another thousand without resting, then a hundred. Then, when we have
+made many thousands, we will confuse the count lest we know the numbering,
+so that no wretch may be able to envy us through knowledge of our kisses'
+number. VI. Flavi, delicias tuas Catullo,
+  Nei sint inlepidae atque inelegantes,
+  Velles dicere, nec tacere posses. Verum nescioquid febriculosi
+  Scorti diligis: hoc pudet fateri. 5
+  Nam te non viduas iacere noctes
+  Nequiquam tacitum cubile clamat
+  Sertis ac Syrio fragrans olivo,
+  Pulvinusque peraeque et hic et ille
+  Attritus, tremulique quassa lecti                             10
+  Argutatio inambulatioque. Nam nil stupra valet, nihil, tacere. Cur? non tam latera ecfututa pandas,
+  Nei tu quid facias ineptiarum. Quare quidquid habes boni malique,                            15
+  Dic nobis. volo te ac tuos amores
+  Ad caelum lepido vocare versu. VI. TO FLAVIUS: MIS-SPEAKING HIS MISTRESS. Thy Charmer (Flavius!) to Catullus' ear
+  Were she not manner'd mean and worst in wit
+  Perforce thou hadst praised nor couldst silence keep. But some enfevered jade, I wot-not-what,
+  Some piece thou lovest, blushing this to own. 5
+  For, nowise 'customed widower nights to lie
+  Thou 'rt ever summoned by no silent bed
+  With flow'r-wreaths fragrant and with Syrian oil,
+  By mattress, bolsters, here, there, everywhere
+  Deep-dinted, and by quaking, shaking couch                    10
+  All crepitation and mobility. Explain! none whoredoms (no!) shall close my lips. Why? such outfuttered flank thou ne'er wouldst show
+  Had not some fulsome work by thee been wrought. Then what thou holdest, boon or bane be pleased               15
+  Disclose! For thee and thy beloved fain would I
+  Upraise to Heaven with my liveliest lay. O Flavius, of thy sweetheart to Catullus thou would'st speak, nor could'st
+thou keep silent, were she not both ill-mannered and ungraceful. In truth
+thou affectest I know not what hot-blooded whore: this thou art ashamed to
+own. For that thou dost not lie alone a-nights thy couch, fragrant with
+garlands and Syrian unguent, in no way mute cries out, and eke the pillow
+and bolsters indented here and there, and the creakings and joggings of the
+quivering bed: unless thou canst silence these, nothing and again nothing
+avails thee to hide thy whoredoms. And why? Thou wouldst not display such
+drained flanks unless occupied in some tomfoolery. Wherefore, whatsoever
+thou hast, be it good or ill, tell us! I wish to laud thee and thy loves to
+the sky in joyous verse. VII. Quaeris, quot mihi basiationes
+  Tuae, Lesbia, sint satis superque. Quam magnus numerus Libyssae arenae
+  Lasarpiciferis iacet Cyrenis,
+  Oraclum Iovis inter aestuosi                                   5
+  Et Batti veteris sacrum sepulcrum,
+  Aut quam sidera multa, cum tacet nox,
+  Furtivos hominum vident amores,
+  Tam te basia multa basiare
+  Vesano satis et super Catullost,                              10
+  Quae nec pernumerare curiosi
+  Possint nec mala fascinare lingua. VII. TO LESBIA STILL BELOVED. Thou ask'st How many kissing bouts I bore
+  From thee (my Lesbia!) or be enough or more? I say what mighty sum of Lybian-sands
+  Confine Cyrene's Laserpitium-lands
+  'Twixt Oracle of Jove the Swelterer                            5
+  And olden Battus' holy Sepulchre,
+  Or stars innumerate through night-stillness ken
+  The stolen Love-delights of mortal men,
+  For that to kiss thee with unending kisses
+  For mad Catullus enough and more be this,                     10
+  Kisses nor curious wight shall count their tale,
+  Nor to bewitch us evil tongue avail. Thou askest, how many kisses of thine, Lesbia, may be enough and to spare
+for me. As the countless Libyan sands which strew the spicy strand of
+Cyrene 'twixt the oracle of swelt'ring Jove and the sacred sepulchre of
+ancient Battus, or as the thronging stars which in the hush of darkness
+witness the furtive loves of mortals, to kiss thee with kisses of so great
+a number is enough and to spare for passion-driven Catullus: so many that
+prying eyes may not avail to number, nor ill tongues to ensorcel. VIII. Miser Catulle, desinas ineptire,
+  Et quod vides perisse perditum ducas. Fulsere quondam candidi tibi soles,
+  Cum ventitabas quo puella ducebat
+  Amata nobis quantum amabitur nulla. 5
+  Ibi illa multa tum iocosa fiebant,
+  Quae tu volebas nec puella nolebat. Fulsere vere candidi tibi soles. Nunc iam illa non vult: tu quoque, inpotens, noli
+  Nec quae fugit sectare, nec miser vive,                       10
+  Sed obstinata mente perfer, obdura. Vale, puella. iam Catullus obdurat,
+  Nec te requiret nec rogabit invitam:
+  At tu dolebis, cum rogaberis nulla. Scelesta, vae te! quae tibi manet vita! 15
+  Quis nunc te adibit? cui videberis bella? Quem nunc amabis? cuius esse diceris? Quem basiabis? cui labella mordebis? At tu, Catulle, destinatus obdura. VIII. TO HIMSELF RECOUNTING LESBIA'S INCONSTANCY. Woe-full Catullus! cease to play the fool
+  And what thou seest dead as dead regard! Whilome the sheeniest suns for thee did shine
+  When oft-a-tripping whither led the girl
+  By us beloved, as shall none be loved. 5
+  There all so merry doings then were done
+  After thy liking, nor the girl was loath. Then certes sheeniest suns for thee did shine. Now she's unwilling: thou too (hapless!) will
+  Her flight to follow, and sad life to live:                   10
+  Endure with stubborn soul and still obdure. Damsel, adieu! Catullus obdurate grown
+  Nor seeks thee, neither asks of thine unwill;
+  Yet shalt thou sorrow when none woos thee more;
+  Reprobate! Woe to thee! What life remains? 15
+  Who now shall love thee? Who'll think thee fair? Whom now shalt ever love? Whose wilt be called? To whom shalt kisses give? whose liplets nip? But thou (Catullus!) destiny-doomed obdure. Unhappy Catullus, cease thy trifling and what thou seest lost know to be
+lost. Once bright days used to shine on thee when thou wert wont to haste
+whither thy girl didst lead thee, loved by us as never girl will e'er be
+loved. There those many joys were joyed which thou didst wish, nor was the
+girl unwilling. In truth bright days used once to shine on thee. Now she no
+longer wishes: thou too, powerless to avail, must be unwilling, nor pursue
+the retreating one, nor live unhappy, but with firm-set mind endure, steel
+thyself. Farewell, girl, now Catullus steels himself, seeks thee not, nor
+entreats thy acquiescence. But thou wilt pine, when thou hast no entreaty
+proffered. Faithless, go thy way! what manner of life remaineth to thee? who now will visit thee? who find thee beautiful? whom wilt thou love now? whose girl wilt thou be called? whom wilt thou kiss? whose lips wilt thou
+bite? But thou, Catullus, remain hardened as steel. VIIII. Verani, omnibus e meis amicis
+  Antistans mihi milibus trecentis,
+  Venistine domum ad tuos Penates
+  Fratresque unanimos anumque matrem? Venisti. o mihi nuntii beati! 5
+  Visam te incolumem audiamque Hiberum
+  Narrantem loca, facta, nationes,
+  Vt mos est tuus, adplicansque collum
+  Iocundum os oculosque suaviabor. O quantumst hominum beatiorum,                                10
+  Quid me laetius est beatiusve? VIIII. TO VERANIUS RETURNED FROM TRAVEL. Veranius! over every friend of me
+  Forestanding, owned I hundred thousands three,
+  Home to Penates and to single-soul'd
+  Brethren, returned art thou and mother old? Yes, thou art come. Oh, winsome news come well! 5
+  Now shall I see thee, safely hear thee tell
+  Of sites Iberian, deeds and nations 'spied,
+  (As be thy wont) and neck-a-neck applied
+  I'll greet with kisses thy glad lips and eyne. Oh! Of all mortal men beatified                               10
+  Whose joy and gladness greater be than mine? Veranius, of all my friends standing in the front, owned I three hundred
+thousands of them, hast thou come home to thy Penates, thy longing brothers
+and thine aged mother? Thou hast come back. O joyful news to me! I may see
+thee safe and sound, and may hear thee speak of regions, deeds, and peoples
+Iberian, as is thy manner; and reclining o'er thy neck shall kiss thy
+jocund mouth and eyes. O all ye blissfullest of men, who more gladsome or
+more blissful is than I am? X.
+
+  Varus me meus ad suos amores
+  Visum duxerat e foro otiosum,
+  Scortillum, ut mihi tum repente visumst,
+  Non sane inlepidum neque invenustum. Huc ut venimus, incidere nobis                                 5
+  Sermones varii, in quibus, quid esset
+  Iam Bithynia, quo modo se haberet,
+  Ecquonam mihi profuisset aere. Respondi id quod erat, nihil neque ipsis
+  Nec praetoribus esse nec cohorti,                             10
+  Cur quisquam caput unctius referret,
+  Praesertim quibus esset inrumator
+  Praetor, non faciens pili cohortem. 'At certe tamen, inquiunt, quod illic
+  Natum dicitur esse, conparasti                                15
+  Ad lecticam homines.' ego, ut puellae
+  Vnum me facerem beatiorem,
+  'Non' inquam 'mihi tam fuit maligne,
+  Vt, provincia quod mala incidisset,
+  Non possem octo homines parare rectos.' 20
+  At mi nullus erat nec hic neque illic,
+  Fractum qui veteris pedem grabati
+  In collo sibi collocare posset. Hic illa, ut decuit cinaediorem,
+  'Quaeso' inquit 'mihi, mi Catulle, paulum                     25
+  Istos. commode enim volo ad Sarapim
+  Deferri.' 'minime' inquii puellae;
+      *    *    *    *
+  'Istud quod modo dixeram me habere,
+  Fugit me ratio: meus sodalis
+  Cinnast Gaius, is sibi paravit. 30
+  Verum, utrum illius an mei, quid ad me? Vtor tam bene quam mihi pararim. Sed tu insulsa male ac molesta vivis,
+  Per quam non licet esse negligentem.' X. HE MEETS VARUS AND MISTRESS. Led me my Varus to his flame,
+  As I from Forum idling came. Forthright some whorelet judged I it
+  Nor lacking looks nor wanting wit,
+  When hied we thither, mid us three                             5
+  Fell various talk, as how might be
+  Bithynia now, and how it fared,
+  And if some coin I made or spared. "There was no cause" (I soothly said)
+  "The Praetors or the Cohort made                               10
+  Thence to return with oilier head;
+  The more when ruled by ----
+  Praetor, as pile the Cohort rating." Quoth they, "But certes as 'twas there
+  The custom rose, some men to bear                             15
+  Litter thou boughtest?" I to her
+  To seem but richer, wealthier,
+  Cry, "Nay, with me 'twas not so ill
+  That, given the Province suffered, still
+  Eight stiff-backed loons I could not buy.' 20
+  (Withal none here nor there owned I
+  Who broken leg of Couch outworn
+  On nape of neck had ever borne!) Then she, as pathic piece became,
+  "Prithee Catullus mine, those same                            25
+  Lend me, Serapis-wards I'd hie." *    *    *    *
+  "Easy, on no-wise, no," quoth I,
+  "Whate'er was mine, I lately said
+  Is some mistake, my camarade
+  One Cinna--Gaius--bought the lot,                             30
+  But his or mine, it matters what? I use it freely as though bought,
+  Yet thou, pert troubler, most absurd,
+  None suffer'st speak an idle word." Varus drew me off to see his mistress as I was strolling from the Forum: a
+little whore, as it seemed to me at the first glance, neither inelegant nor
+lacking good looks. When we came in, we fell to discussing various
+subjects, amongst which, how was Bithynia now, how things had gone there,
+and whether I had made any money there. I replied, what was true, that
+neither ourselves nor the praetors nor their suite had brought away
+anything whereby to flaunt a better-scented poll, especially as our
+praetor, the irrumating beast, cared not a single hair for his suite. "But
+surely," she said, "you got some men to bear your litter, for they are said
+to grow there?" I, to make myself appear to the girl as one of the
+fortunate, "Nay," I say, "it did not go that badly with me, ill as the
+province turned out, that I could not procure eight strapping knaves to
+bear me." (But not a single one was mine either here or there who the
+fractured foot of my old bedstead could hoist on his neck.) And she, like a
+pathic girl, "I pray thee," says she, "lend me, my Catullus, those bearers
+for a short time, for I wish to be borne to the shrine of Serapis." "Stay,"
+quoth I to the girl, "when I said I had this, my tongue slipped; my friend,
+Cinna Gaius, he provided himself with these. In truth, whether his or
+mine--what do I trouble? I use them as though I had paid for them. But
+thou, in ill manner with foolish teasing dost not allow me to be heedless." XI. Furi et Aureli, comites Catulli,
+  Sive in extremos penetrabit Indos,
+  Litus ut longe resonante Eoa
+            Tunditur unda,
+  Sive in Hyrcanos Arabesve molles,                              5
+  Seu Sacas sagittiferosve Parthos,
+  Sive qua septemgeminus colorat
+            Aequora Nilus,
+  Sive trans altas gradietur Alpes,
+  Caesaris visens monimenta magni,                              10
+  Gallicum Rhenum, horribile aequor ulti-
+            mosque Britannos,
+  Omnia haec, quaecumque feret voluntas
+  Caelitum, temptare simul parati,
+  Pauca nuntiate meae puellae                                   15
+            Non bona dicta. Cum suis vivat valeatque moechis,
+  Quos simul conplexa tenet trecentos,
+  Nullum amans vere, sed identidem omnium
+            Ilia rumpens:                                       20
+  Nec meum respectet, ut ante, amorem,
+  Qui illius culpa cecidit velut prati
+  Vltimi flos, praeter eunte postquam
+            Tactus aratrost. XI. A PARTING INSULT TO LESBIA. Furius and Aurelius, Catullus' friends,
+    Whether extremest Indian shore he brave,
+  Strands where far-resounding billow rends
+                          The shattered wave,
+  Or 'mid Hyrcanians dwell he, Arabs soft and wild,              5
+    Sacae and Parthians of the arrow fain,
+  Or where the Seven-mouth'd Nilus mud-defiled
+                          Tinges the Main,
+  Or climb he lofty Alpine Crest and note
+    Works monumental, Caesar's grandeur telling,                 10
+  Rhine Gallic, horrid Ocean and remote
+                          Britons low-dwelling;
+  All these (whatever shall the will design
+    Of Heaven-homed Gods) Oh ye prepared to tempt;
+  Announce your briefest to that damsel mine                    15
+                          In words unkempt:--
+  Live she and love she wenchers several,
+    Embrace three hundred wi' the like requitals,
+  None truly loving and withal of all
+                          Bursting the vitals:                  20
+  My love regard she not, my love of yore,
+    Which fell through fault of her, as falls the fair
+  Last meadow-floret whenas passed it o'er
+                          Touch of the share. Furius and Aurelius, comrades of Catullus, whether he penetrate to furthest
+Ind where the strand is lashed by the far-echoing Eoan surge, or whether
+'midst the Hyrcans or soft Arabs, or whether the Sacians or quiver-bearing
+Parthians, or where the seven-mouthed Nile encolours the sea, or whether he
+traverse the lofty Alps, gazing at the monuments of mighty Caesar, the
+gallic Rhine, the dismal and remotest Britons, all these, whatever the
+Heavens' Will may bear, prepared at once to attempt,--bear ye to my girl
+this brief message of no fair speech. May she live and flourish with her
+swivers, of whom may she hold at once embraced the full three hundred,
+loving not one in real truth, but bursting again and again the flanks of
+all: nor may she look upon my love as before, she whose own guile slew it,
+e'en as a flower on the greensward's verge, after the touch of the passing
+plough. XII. Marrucine Asini, manu sinistra
+  Non belle uteris in ioco atque vino:
+  Tollis lintea neglegentiorum. Hoc salsum esse putas? fugit te, inepte:
+  Quamvis sordida res et invenustast. 5
+  Non credis mihi? crede Polioni
+  Fratri, qui tua furta vel talento
+  Mutari velit: est enim leporum
+  Disertus puer ac facetiarum. Quare aut hendecasyllabos trecentos                           10
+  Expecta aut mihi linteum remitte,
+  Quod me non movet aestimatione,
+  Verumst mnemosynum mei sodalis. Nam sudaria Saetaba ex Hibereis
+  Miserunt mihi muneri Fabullus                                 15
+  Et Veranius: haec amem necessest
+  Vt Veraniolum meum et Fabullum. XII. TO M. ASINIUS WHO STOLE NAPERY. Marrucinus Asinius! ill thou usest
+  That hand sinistral in thy wit and wine
+  Filching the napkins of more heedless hosts. Dost find this funny? Fool it passeth thee
+  How 'tis a sordid deed, a sorry jest. 5
+  Dost misbelieve me? Trust to Pollio,
+  Thy brother, ready to compound such thefts
+  E'en at a talent's cost; for he's a youth
+  In speech past master and in fair pleasantries. Of hendecasyllabics hundreds three                            10
+  Therefore expect thou, or return forthright
+  Linens whose loss affects me not for worth
+  But as mementoes of a comrade mine. For napkins Saetaban from Ebro-land
+  Fabullus sent me a free-giftie given                          15
+  Also Veranius: these perforce I love
+  E'en as my Veraniolus and Fabullus. Marrucinius Asinius, thou dost use thy left hand in no fair fashion 'midst
+the jests and wine: thou dost filch away the napkins of the heedless. Dost
+thou think this a joke? it flies thee, stupid fool, how coarse a thing and
+unbecoming 'tis! Dost not credit me? credit thy brother Pollio who would
+willingly give a talent to divert thee from thy thefts: for he is a lad
+skilled in pleasantries and facetiousness. Wherefore, either expect
+hendecasyllables three hundred, or return me my napkin which I esteem, not
+for its value but as a pledge of remembrance from my comrade. For Fabullus
+and Veranius sent me as a gift handkerchiefs from Iberian Saetabis; these
+must I prize e'en as I do Veraniolus and Fabullus. XIII. Cenabis bene, mi Fabulle, apud me
+  Paucis, si tibi di favent, diebus,
+  Si tecum attuleris bonam atque magnam
+  Cenam, non sine candida puella
+  Et vino et sale et omnibus cachinnis. 5
+  Haec si, inquam, attuleris, venuste noster,
+  Cenabis bene: nam tui Catulli
+  Plenus sacculus est aranearum. Sed contra accipies meros amores
+  Seu quid suavius elegantiusvest:                              10
+  Nam unguentum dabo, quod meae puellae
+  Donarunt Veneres Cupidinesque,
+  Quod tu cum olfacies, deos rogabis,
+  Totum ut te faciant, Fabulle, nasum. XIII. FABULLUS IS INVITED TO A POET'S SUPPER. Thou'lt sup right well with me, Fabullus mine,
+  In days few-numbered an the Gods design,
+  An great and goodly meal thou bring wi' thee
+  Nowise forgetting damsel bright o' blee,
+  With wine, and salty wit and laughs all-gay. 5
+  An these my bonny man, thou bring, I say
+  Thou'lt sup right well, for thy Catullus' purse
+  Save web of spider nothing does imburse. But thou in countergift mere loves shalt take
+  Or aught of sweeter taste or fairer make:                     10
+  I'll give thee unguent lent my girl to scent
+  By every Venus and all Cupids sent,
+  Which, as thou savour, pray Gods interpose
+  And thee, Fabullus, make a Naught-but-nose. Thou shalt feast well with me, my Fabullus, in a few days, if the gods
+favour thee, provided thou dost bear hither with thee a good and great
+feast, not forgetting a fair damsel and wine and wit and all kinds of
+laughter. Provided, I say, thou dost bear hither these, our charming one,
+thou wilt feast well: for thy Catullus' purse is brimful of cobwebs. But in
+return thou may'st receive a perfect love, or whatever is sweeter or more
+elegant: for I will give thee an unguent which the Loves and Cupids gave
+unto my girl, which when thou dost smell it, thou wilt entreat the gods to
+make thee, O Fabullus, one total Nose! XIIII. Ni te plus oculis meis amarem,
+  Iocundissime Calve, munere isto
+  Odissem te odio Vatiniano:
+  Nam quid feci ego quidve sum locutus,
+  Cur me tot male perderes poetis? 5
+  Isti di mala multa dent clienti,
+  Qui tantum tibi misit inpiorum. Quod si, ut suspicor, hoc novum ac repertum
+  Munus dat tibi Sulla litterator,
+  Non est mi male, sed bene ac beate,                           10
+  Quod non dispereunt tui labores. Di magni, horribilem et sacrum libellum
+  Quem tu scilicet ad tuum Catullum
+  Misti, continuo ut die periret,
+  Saturnalibus, optimo dierum! 15
+  Non non hoc tibi, salse, sic abibit:
+  Nam, si luxerit, ad librariorum
+  Curram scrinia, Caesios, Aquinos,
+  Suffenum, omnia colligam venena,
+  Ac te his suppliciis remunerabor. 20
+  Vos hinc interea (valete) abite
+  Illuc, unde malum pedem attulistis,
+  Saecli incommoda, pessimi poetae. XIIIIb. Siqui forte mearum ineptiarum
+  Lectores eritis manusque vestras                              25
+  Non horrebitis admovere nobis,
+      *    *    *    *
+
+XIIII. TO CALVUS, ACKNOWLEDGING HIS POEMS. Did I not liefer love thee than my eyes
+  (Winsomest Calvus! ), for that gift of thine
+  Certes I'd hate thee with Vatinian hate. Say me, how came I, or by word or deed,
+  To cause thee plague me with so many a bard? 5
+  The Gods deal many an ill to such a client,
+  Who sent of impious wights to thee such crowd. But if (as guess I) this choice boon new-found
+  To thee from "Commentator" Sulla come,
+  None ill I hold it--well and welcome 'tis,                    10
+  For that thy labours ne'er to death be doom'd. Great Gods! What horrid booklet damnable
+  Unto thine own Catullus thou (perdie!) Did send, that ever day by day die he
+  In Saturnalia, first of festivals. 15
+  No! No! thus shall't not pass wi' thee, sweet wag,
+  For I at dawning day will scour the booths
+  Of bibliopoles, Aquinii, Caesii and
+  Suffenus, gather all their poison-trash
+  And with such torments pay thee for thy pains. 20
+  Now for the present hence, adieu! begone
+  Thither, whence came ye, brought by luckless feet,
+  Pests of the Century, ye pernicious Poets. XIIIIb. An of my trifles peradventure chance
+  You to be readers, and the hands of you                       25
+  Without a shudder unto us be offer'd
+      *    *    *    *
+
+Did I not love thee more than mine eyes, O most jocund Calvus, for thy gift
+I should abhor thee with Vatinian abhorrence. For what have I done or what
+have I said that thou shouldst torment me so vilely with these poets? May
+the gods give that client of thine ills enow, who sent thee so much trash! Yet if, as I suspect, this new and care-picked gift, Sulla, the
+litterateur, gives thee, it is not ill to me, but well and beatific, that
+thy labours [in his cause] are not made light of. Great gods, what a
+horrible and accurst book which, forsooth, thou hast sent to thy Catullus
+that he might die of boredom the livelong day in the Saturnalia, choicest
+of days! No, no, my joker, this shall not leave thee so: for at daydawn I
+will haste to the booksellers' cases; the Caesii, the Aquini, Suffenus,
+every poisonous rubbish will I collect that I may repay thee with these
+tortures. Meantime (farewell ye) hence depart ye from here, whither an ill
+foot brought ye, pests of the period, puniest of poetasters. If by chance ye ever be readers of my triflings and ye will not quake to
+lay your hands upon us,
+
+      *    *    *    *
+
+XV. Commendo tibi me ac meos amores,
+  Aureli. veniam peto pudentem,
+  Vt, si quicquam animo tuo cupisti,
+  Quod castum expeteres et integellum,
+  Conserves puerum mihi pudice,                                  5
+  Non dico a populo: nihil veremur
+  Istos, qui in platea modo huc modo illuc
+  In re praetereunt sua occupati:
+  Verum a te metuo tuoque pene
+  Infesto pueris bonis malisque. 10
+  Quem tu qua lubet, ut iubet, moveto,
+  Quantum vis, ubi erit foris, paratum:
+  Hunc unum excipio, ut puto, pudenter. Quod si te mala mens furorque vecors
+  In tantam inpulerit, sceleste, culpam,                        15
+  Vt nostrum insidiis caput lacessas,
+  A tum te miserum malique fati,
+  Quem attractis pedibus patente porta
+  Percurrent raphanique mugilesque. XV. TO AURELIUS--HANDS OFF THE BOY! To thee I trust my loves and me,
+  (Aurelius!) craving modesty. That (if in mind didst ever long
+  To win aught chaste unknowing wrong)
+  Then guard my boy in purest way. 5
+  From folk I say not: naught affray
+  The crowds wont here and there to run
+  Through street-squares, busied every one;
+  But thee I dread nor less thy penis
+  Fair or foul, younglings' foe I ween is! 10
+  Wag it as wish thou, at its will,
+  When out of doors its hope fulfil;
+  Him bar I, modestly, methinks. But should ill-mind or lust's high jinks
+  Thee (Sinner! ), drive to sin so dread,                        15
+  That durst ensnare our dearling's head,
+  Ah! woe's thee (wretch!) and evil fate,
+  Mullet and radish shall pierce and grate,
+  When feet-bound, haled through yawning gate. I commend me to thee with my charmer, Aurelius. I come for modest boon
+that,--didst thine heart long for aught, which thou desiredst chaste and
+untouched,--thou 'lt preserve for me the chastity of my boy. I do not say
+from the public: I fear those naught who hurry along the thoroughfares
+hither thither occupied on their own business: truth my fear is from thee
+and thy penis, pestilent eke to fair and to foul. Set it in motion where
+thou dost please, whenever thou biddest, as much as thou wishest, wherever
+thou findest the opportunity out of doors: this one object I except, to my
+thought a reasonable boon. But if thy evil mind and senseless rutting push
+thee forward, scoundrel, to so great a crime as to assail our head with thy
+snares, O wretch, calamitous mishap shall happen thee, when with feet taut
+bound, through the open entrance radishes and mullets shall pierce. XVI. Pedicabo ego vos et inrumabo,
+  Aureli pathice et cinaede Furi,
+  Qui me ex versiculis meis putastis,
+  Quod sunt molliculi, parum pudicum. Nam castum esse decet pium poetam                              5
+  Ipsum, versiculos nihil necessest,
+  Qui tum denique habent salem ac leporem,
+  Si sunt molliculi ac parum pudici
+  Et quod pruriat incitare possunt,
+  Non dico pueris, sed his pilosis,                             10
+  Qui duros nequeunt movere lumbos. Vos, quom milia multa basiorum
+  Legistis, male me marem putatis? Pedicabo ego vos et inrumabo. XVI. TO AURELIUS AND FURIUS IN DEFENCE OF HIS MUSE'S HONESTY. I'll ---- you twain and ----
+  Pathic Aurelius! Furius, libertines! Who durst determine from my versicles
+  Which seem o'er softy, that I'm scant of shame. For pious poet it behoves be chaste                            5
+  Himself; no chastity his verses need;
+  Nay, gain they finally more salt of wit
+  When over softy and of scanty shame,
+  Apt for exciting somewhat prurient,
+  In boys, I say not, but in bearded men                        10
+  Who fail of movements in their hardened loins. Ye who so many thousand kisses sung
+  Have read, deny male masculant I be? You twain I'll ---- and ----
+
+I will paedicate and irrumate you, Aurelius the bardache and Furius the
+cinaede, who judge me from my verses rich in love-liesse, to be their equal
+in modesty. For it behoves your devout poet to be chaste himself; his
+verses--not of necessity. Which verses, in a word, may have a spice and
+volupty, may have passion's cling and such like decency, so that they can
+incite with ticklings, I do not say boys, but bearded ones whose stiffened
+limbs amort lack pliancy in movement. You, because of many thousand kisses
+you have read, think me womanish. I will paedicate and irrumate you! XVII. O Colonia, quae cupis ponte ludere longo,
+  Et salire paratum habes, sed vereris inepta
+  Crura ponticuli assulis stantis in redivivis,
+  Ne supinus eat cavaque in palude recumbat;
+  Sic tibi bonus ex tua pons libidine fiat,                      5
+  In quo vel Salisubsili sacra suscipiantur:
+  Munus hoc mihi maximi da, Colonia, risus. Quendam municipem meum de tuo volo ponte
+  Ire praecipitem in lutum per caputque pedesque,
+  Verum totius ut lacus putidaeque paludis                      10
+  Lividissima maximeque est profunda vorago. Insulsissimus est homo, nec sapit pueri instar
+  Bimuli tremula patris dormientis in ulna. Quoi cum sit viridissimo nupta flore puella
+  (Et puella tenellulo delicatior haedo,                        15
+  Adservanda nigerrimis diligentius uvis),
+  Ludere hanc sinit ut lubet, nec pili facit uni,
+  Nec se sublevat ex sua parte, sed velut alnus
+  In fossa Liguri iacet suppernata securi,
+  Tantundem omnia sentiens quam si nulla sit usquam,            20
+  Talis iste meus stupor nil videt, nihil audit,
+  Ipse qui sit, utrum sit an non sit, id quoque nescit. Nunc eum volo de tuo ponte mittere pronum,
+  Si pote stolidum repente excitare veternum
+  Et supinum animum in gravi derelinquere caeno,                25
+  Ferream ut soleam tenaci in voragine mula. XVII. OF A "PREDESTINED" HUSBAND. Colony! fain to display thy games on length of thy town-bridge! There, too, ready to dance, though fearing the shaking of crazy
+  Logs of the Bridgelet propt on pier-piles newly renewed,
+  Lest supine all sink deep-merged in the marish's hollow,
+  So may the bridge hold good when builded after thy pleasure    5
+  Where Salisubulus' rites with solemn function are sacred,
+  As thou (Colony!) grant me boon of mightiest laughter. Certain a townsman mine I'd lief see thrown from thy gangway
+  Hurled head over heels precipitous whelmed in the quagmire,
+  Where the lake and the boglands are most rotten and stinking,  10
+  Deepest and lividest lie, the swallow of hollow voracious. Witless surely the wight whose sense is less than of boy-babe
+  Two-year-old and a-sleep on trembling forearm of father. He though wedded to girl in greenest bloom of her youth-tide,
+  (Bride-wife daintier bred than ever was delicate kidlet,      15
+  Worthier diligent watch than grape-bunch blackest and ripest)
+  Suffers her sport as she please nor rates her even at hair's worth,
+  Nowise 'stirring himself, but lying log-like as alder
+  Felled and o'er floating the fosse of safe Ligurian woodsman,
+  Feeling withal, as though such spouse he never had own'd;     20
+  So this marvel o' mine sees naught, and nothing can hear he,
+  What he himself, an he be or not be, wholly unknowing. Now would I willingly pitch such wight head first fro' thy bridge,
+  Better a-sudden t'arouse that numskull's stolid old senses,
+  Or in the sluggish mud his soul supine to deposit             25
+  Even as she-mule casts iron shoe where quagmire is stiffest. O Colonia, that longest to disport thyself on a long bridge and art
+prepared for the dance, but that fearest the trembling legs of the
+bridgelet builded on re-used shavings, lest supine it may lie stretched in
+the hollow swamp; may a good bridge take its place designed to thy fancy,
+on which e'en the Salian dances may be sustained: for the which grant to
+me, Colonia, greatest of gifts glee-exciting. Such an one, townsman of
+mine, I want from thy bridge to be pitched in the sludge head over heels,
+right where the lake of all its stinking slime is dankest and most
+superfluent--a deep-sunk abyss. The man is a gaping gaby! lacking the sense
+of a two-years-old baby dozing on its father's cradling arm. Although to
+him is wedded a girl flushed with springtide's bloom (and a girl more
+dainty than a tender kid, meet to be watched with keener diligence than the
+lush-black grape-bunch), he leaves her to sport at her list, cares not a
+single hair, nor bestirs himself with marital office, but lies as an alder
+felled by Ligurian hatchet in a ditch, as sentient of everything as though
+no woman were at his side. Such is my booby! he sees not, he hears naught. Who himself is, or whether he be or be not, he also knows not. Now I wish
+to chuck him head first from thy bridge, so as to suddenly rouse (if
+possible) this droning dullard and to leave behind in the sticky slush his
+sluggish spirit, as a mule casts its iron shoe in the tenacious slough. XVIII. Hunc lucum tibi dedico, consecroque, Priape,
+  Qua domus tua Lampsaci est, quaque silva, Priape,
+  Nam te praecipue in suis urbibus colit ora
+  Hellespontia, caeteris ostreosior oris. XVIII. TO PRIAPUS, THE GARDEN-GOD. This grove to thee devote I give, Priapus! Who home be Lampsacus and holt, Priapus! For thee in cities worship most the shores
+  Of Hellespont the richest oystery strand. This grove I dedicate and consecrate to thee, Priapus, who hast thy home at
+Lampsacus, and eke thy woodlands, Priapus; for thee especially in its
+cities worships the coast of the Hellespont, richer in oysters than all
+other shores. XVIIII. Hunc ego, juvenes, locum, villulamque palustrem,
+  Tectam vimine junceo, caricisque maniplis,
+  Quercus arida, rustica conformata securi,
+  Nunc tuor: magis, et magis ut beata quotannis. Hujus nam Domini colunt me, Deumque salutant,                  5
+  Pauperis tugurii pater, filiusque coloni:
+  Alter, assidua colens diligentia, ut herba
+  Dumosa, asperaque a meo sit remota sacello:
+  Alter, parva ferens manu semper munera larga. Florido mihi ponitur picta vere corolla                       10
+  Primitu', et tenera virens spica mollis arista:
+  Luteae violae mihi, luteumque papaver,
+  Pallentesque cucurbitae, et suaveolentia mala,
+  Vva pampinea rubens educata sub umbra. Sanguine hanc etiam mihi (sed tacebitis) aram                 15
+  Barbatus linit hirculus, cornipesque capella:
+  Pro queis omnia honoribus haec necesse Priapo
+  Praestare, et domini hortulum, vineamque tueri. Quare hinc, o pueri, malas abstinete rapinas. Vicinus prope dives est, negligensque Priapus. 20
+  Inde sumite: semita haec deinde vos feret ipsa. XVIIII. TO PRIAPUS. This place, O youths, I protect, nor less this turf-builded cottage,
+  Roofed with its osier-twigs and thatched with its bundles of sedges;
+  I from the dried oak hewn and fashioned with rustical hatchet,
+  Guarding them year by year while more are they evermore thriving. For here be owners twain who greet and worship my Godship,     5
+  He of the poor hut lord and his son, the pair of them peasants:
+  This with assiduous toil aye works the thicketty herbage
+  And the coarse water-grass to clear afar from my chapel:
+  That with his open hand ever brings me offerings humble. Hung up in honour mine are flowery firstlings of spring-tide,  10
+  Wreaths with their ears still soft the tender stalklets a-crowning;
+  Violets pale are mine by side of the poppy-head pallid;
+  With the dull yellow gourd and apples sweetest of savour;
+  Lastly the blushing grape disposed in shade of the vine-tree. Anon mine altar (this same) with blood (but you will be silent!) 15
+  Bearded kid and anon some horny-hoofed nanny shall sprinkle. Wherefore Priapus is bound to requite such honours by service,
+  Doing his duty to guard both vineyard and garth of his lordling. Here then, O lads, refrain from ill-mannered picking and stealing:
+  Rich be the neighbour-hind and negligent eke his Priapus:     20
+  Take what be his: this path hence leadeth straight to his ownings. This place, youths, and the marshland cot thatched with rushes, osier-twigs
+and bundles of sedge, I, carved from a dry oak by a rustic axe, now
+protect, so that they thrive more and more every year. For its owners, the
+father of the poor hut and his son,--both husbandmen,--revere me and salute
+me as a god; the one labouring with assiduous diligence that the harsh
+weeds and brambles may be kept away from my sanctuary, the other often
+bringing me small offerings with open hand. On me is placed a many-tinted
+wreath of early spring flowers and the soft green blade and ear of the
+tender corn. Saffron-coloured violets, the orange-hued poppy, wan gourds,
+sweet-scented apples, and the purpling grape trained in the shade of the
+vine, [are offered] to me. Sometimes, (but keep silent as to this) even the
+bearded he-goat, and the horny-footed nanny sprinkle my altar with blood;
+for which honours Priapus is bound in return to do everything [which lies
+in his duty], and to keep strict guard over the little garden and vineyard
+of his master. Wherefore, abstain, O lads, from your evil pilfering here. Our next neighbour is rich and his Priapus is negligent. Take from him;
+this path then will lead you to his grounds. XX. Ego haec ego arte fabricata rustica,
+  Ego arida, o viator, ecce populus
+  Agellulum hunc, sinistra, tute quem vides,
+  Herique villulam, hortulumque pauperis
+  Tuor, malasque furis arceo manus. 5
+  Mihi corolla picta vero ponitur:
+  Mihi rubens arista sole fervido:
+  Mihi virente dulcis uva pampino:
+  Mihique glauca duro oliva frigore. Meis capella delicata pascuis                                 10
+  In urbem adulta lacte portat ubera:
+  Meisque pinguis agnus ex ovilibus
+  Gravem domum remittit aere dexteram:
+  Tenerque, matre mugiente, vaccula
+  Deum profundit ante templa sanguinem. 15
+  Proin', viator, hunc Deum vereberis,
+  Manumque sorsum habebis hoc tibi expedit. Parata namque crux, sine arte mentula. Velim pol, inquis: at pol ecce, villicus
+  Venit: valente cui revulsa brachio                            20
+  Fit ista mentula apta clava dexterae. XX. TO PRIAPUS. I thuswise fashioned by rustic art
+  And from dried poplar-trunk (O traveller!) hewn,
+  This fieldlet, leftwards as thy glances fall,
+  And my lord's cottage with his pauper garth
+  Protect, repelling thieves' rapacious hands. 5
+  In spring with vari-coloured wreaths I'm crown'd,
+  In fervid summer with the glowing grain,
+  Then with green vine-shoot and the luscious bunch,
+  And glaucous olive-tree in bitter cold. The dainty she-goat from my pasture bears                     10
+  Her milk-distended udders to the town:
+  Out of my sheep-cotes ta'en the fatted lamb
+  Sends home with silver right-hand heavily charged;
+  And, while its mother lows, the tender calf
+  Before the temples of the Gods must bleed. 15
+  Hence of such Godhead, (traveller!) stand in awe,
+  Best it befits thee off to keep thy hands. Thy cross is ready, shaped as artless yard;
+  "I'm willing, 'faith" (thou say'st) but 'faith here comes
+  The boor, and plucking forth with bended arm                  20
+  Makes of this tool a club for doughty hand. I, O traveller, shaped with rustic art from a dry poplar, guard this little
+field which thou seest on the left, and the cottage and small garden of its
+indigent owner, and keep off the greedy hands of the robber. In spring a
+many-tinted wreath is placed upon me; in summer's heat ruddy grain; [in
+autumn] a luscious grape cluster with vine-shoots, and in the bitter cold
+the pale-green olive. The tender she-goat bears from my pasture to the town
+milk-distended udders; the well-fattened lamb from my sheepfolds sends back
+[its owner] with a heavy handful of money; and the tender calf, 'midst its
+mother's lowings, sheds its blood before the temple of the Gods. Hence,
+wayfarer, thou shalt be in awe of this God, and it will be profitable to
+thee to keep thy hands off. For a punishment is prepared--a roughly-shaped
+mentule. "Truly, I am willing," thou sayest; then, truly, behold the farmer
+comes, and that same mentule plucked from my groin will become an apt
+cudgel in his strong right hand. XXI. Aureli, pater essuritionum,
+  Non harum modo, sed quot aut fuerunt
+  Aut sunt aut aliis erunt in annis,
+  Pedicare cupis meos amores. Nec clam: nam simul es, iocaris una,                           5
+  Haeres ad latus omnia experiris. Frustra: nam insidias mihi instruentem
+  Tangem te prior inrumatione. Atque id si faceres satur, tacerem:
+  Nunc ipsum id doleo, quod essurire,                           10
+  A me me, puer et sitire discet. Quare desine, dum licet pudico,
+  Ne finem facias, sed inrumatus. XXI. TO AURELIUS THE SKINFLINT. Aurelius, father of the famisht crew,
+  Not sole of starvelings now, but wretches who
+  Were, are, or shall be in the years to come,
+  My love, my dearling, fain art thou to strum. Nor privately; for nigh thou com'st and jestest                5
+  And to his side close-sticking all things questest. 'Tis vain: while lay'st thou snares for me the worst,
+  By ---- I will teach thee first. An food-full thus do thou, my peace I'd keep:
+  But what (ah me! ah me!) compels me weep                      10
+  Are thirst and famine to my dearling fated. Cease thou so doing while as modest rated,
+  Lest to thy will thou win--but ----
+
+Aurelius, father of the famished, in ages past in time now present and in
+future years yet to come, thou art longing to paedicate my love. Nor is't
+done secretly: for thou art with him jesting, closely sticking at his side,
+trying every means. In vain: for, instructed in thy artifice, I'll strike
+home beforehand by irrumating thee. Now if thou didst this to work off the
+results of full-living I would say naught: but what irks me is that my boy
+must learn to starve and thirst with thee. Wherefore, desist, whilst thou
+mayst with modesty, lest thou reach the end,--but by being irrumated. XXII. Suffenus iste, Vare, quem probe nosti,
+  Homost venustus et dicax et urbanus,
+  Idemque longe plurimos facit versus. Puto esse ego illi milia aut decem aut plura
+  Perscripta, nec sic ut fit in palimpseston                     5
+  Relata: chartae regiae, novei libri,
+  Novei umbilici, lora rubra, membrana
+  Derecta plumbo, et pumice omnia aequata. Haec cum legas tu, bellus ille et urbanus
+  Suffenus unus caprimulgus aut fossor                          10
+  Rursus videtur; tantum abhorret ac mutat. Hoc quid putemus esse? qui modo scurra
+  Aut siquid hac re scitius videbatur,
+  Idem infacetost infacetior rure,
+  Simul poemata attigit, neque idem umquam                      15
+  Aequest beatus ac poema cum scribit:
+  Tam gaudet in se tamque se ipse miratur. Nimirum idem omnes fallimur, nequest quisquam,
+  Quem non in aliqua re videre Suffenum
+  Possis. suus cuique attributus est error:                     20
+  Sed non videmus, manticae quod in tergost. XXII. TO VARUS ABUSING SUFFENUS. Varus, yon wight Suffenus known to thee
+  Fairly for wit, free talk, urbanity,
+  The same who scribbles verse in amplest store--
+  Methinks he fathers thousands ten or more
+  Indited not as wont on palimpsest,                             5
+  But paper-royal, brand-new boards, and best
+  Fresh bosses, crimson ribbands, sheets with lead
+  Ruled, and with pumice-powder all well polished. These as thou readest, seem that fine, urbane
+  Suffenus, goat-herd mere, or ditcher-swain                    10
+  Once more, such horrid change is there, so vile. What must we wot thereof? a Droll erst while,
+  Or (if aught) cleverer, he with converse meets,
+  He now in dullness, dullest villain beats
+  Forthright on handling verse, nor is the wight                15
+  Ever so happy as when verse he write:
+  So self admires he with so full delight. In sooth, we all thus err, nor man there be
+  But in some matter a Suffenus see
+  Thou canst: his lache allotted none shall lack                20
+  Yet spy we nothing of our back-borne pack. That Suffenus, Varus, whom thou know'st right well, is a man fair spoken,
+witty and urbane, and one who makes of verses lengthy store. I think he has
+writ at full length ten thousand or more, nor are they set down, as of
+custom, on palimpsest: regal paper, new boards, unused bosses, red ribands,
+lead-ruled parchment, and all most evenly pumiced. But when thou readest
+these, that refined and urbane Suffenus is seen on the contrary to be a
+mere goatherd or ditcher-lout, so great and shocking is the change. What
+can we think of this? he who just now was seen a professed droll, or e'en
+shrewder than such in gay speech, this same becomes more boorish than a
+country boor immediately he touches poesy, nor is the dolt e'er as
+self-content as when he writes in verse,--so greatly is he pleased with
+himself, so much does he himself admire. Natheless, we all thus go astray,
+nor is there any man in whom thou canst not see a Suffenus in some one
+point. Each of us has his assigned delusion: but we see not what's in the
+wallet on our back. XXIII. Furei, quoi neque servos est neque arca
+  Nec cimex neque araneus neque ignis,
+  Verumst et pater et noverca, quorum
+  Dentes vel silicem comesse possunt,
+  Est pulchre tibi cum tuo parente                               5
+  Et cum coniuge lignea parentis. Nec mirum: bene nam valetis omnes,
+  Pulchre concoquitis, nihil timetis,
+  Non incendia, non graves ruinas,
+  Non furta inpia, non dolos veneni,                            10
+  Non casus alios periculorum. Atqui corpora sicciora cornu
+  Aut siquid magis aridumst habetis
+  Sole et frigore et essuritione. Quare non tibi sit bene ac beate? 15
+  A te sudor abest, abest saliva,
+  Mucusque et mala pituita nasi. Hanc ad munditiem adde mundiorem,
+  Quod culus tibi purior salillost,
+  Nec toto decies cacas in anno,                                20
+  Atque id durius est faba et lapillis;
+  Quod tu si manibus teras fricesque,
+  Non umquam digitum inquinare possis. Haec tu commoda tam beata, Furi,
+  Noli spernere nec putare parvi,                               25
+  Et sestertia quae soles precari
+  Centum desine: nam sat es beatus. XXIII. TO FURIUS SATIRICALLY PRAISING HIS POVERTY. Furius! Nor chest, nor slaves can claim,
+  Bug, Spider, nor e'en hearth aflame,
+  Yet thine a sire and step-dame who
+  Wi' tooth can ever flint-food chew! So thou, and pleasant happy life                               5
+  Lead wi' thy parent's wooden wife. Nor this be marvel: hale are all,
+  Well ye digest; no fears appal
+  For household-arsons, heavy ruin,
+  Plunderings impious, poison-brewin'                           10
+  Or other parlous case forlorn. Your frames are hard and dried like horn,
+  Or if more arid aught ye know,
+  By suns and frosts and hunger-throe. Then why not happy as thou'rt hale? 15
+  Sweat's strange to thee, spit fails, and fail
+  Phlegm and foul snivel from the nose. Add cleanness that aye cleanlier shows
+  A bum than salt-pot cleanlier,
+  Nor ten times cack'st in total year,                          20
+  And harder 'tis than pebble or bean
+  Which rubbed in hand or crumbled, e'en
+  On finger ne'er shall make unclean. Such blessings (Furius!) such a prize
+  Never belittle nor despise;                                   25
+  Hundred sesterces seek no more
+  With wonted prayer--enow's thy store! O Furius, who neither slaves, nor coffer, nor bug, nor spider, nor fire
+hast, but hast both father and step-dame whose teeth can munch up even
+flints,--thou livest finely with thy sire, and with thy sire's wood-carved
+spouse. Nor need's amaze! for in good health are ye all, grandly ye digest,
+naught fear ye, nor arson nor house-fall, thefts impious nor poison's
+furtive cunning, nor aught of perilous happenings whatsoe'er. And ye have
+bodies drier than horn (or than aught more arid still, if aught there be),
+parched by sun, frost, and famine. Wherefore shouldst thou not be happy
+with such weal. Sweat is a stranger to thee, absent also are saliva,
+phlegm, and evil nose-snivel. Add to this cleanliness the thing that's
+still more cleanly, that thy backside is purer than a salt-cellar, nor
+cackst thou ten times in the total year, and then 'tis harder than beans
+and pebbles; nay, 'tis such that if thou dost rub and crumble it in thy
+hands, not a finger canst thou ever dirty. These goodly gifts and favours,
+O Furius, spurn not nor think lightly of; and cease thy 'customed begging
+for an hundred sesterces: for thou'rt blest enough! XXIIII. O qui flosculus es Iuventiorum,
+  Non horum modo, sed quot aut fuerunt
+  Aut posthac aliis erunt in annis,
+  Mallem divitias Midae dedisses
+  Isti, quoi neque servus est neque arca,                        5
+  Quam sic te sineres ab illo amari. 'Qui? non est homo bellus?' inquies. est:
+  Sed bello huic neque servos est neque arca. Hoc tu quam lubet abice elevaque:
+  Nec servom tamen ille habet neque arcam. 10
+
+XXIIII. TO JUVENTIUS CONCERNING THE CHOICE OF A FRIEND. O of Juventian youths the flowret fair
+  Not of these only, but of all that were
+  Or shall be, coming in the coming years,
+  Better waste Midas' wealth (to me appears)
+  On him that owns nor slave nor money-chest                     5
+  Than thou shouldst suffer by his love possest. "What! is he vile or not fair?" "Yes!" I attest,
+  "Yet owns this man so comely neither slaves nor chest
+  My words disdain thou or accept at best
+  Yet neither slave he owns nor money-chest." 10
+
+O thou who art the floweret of Juventian race, not only of these now
+living, but of those that were of yore and eke of those that will be in the
+coming years, rather would I that thou hadst given the wealth e'en of Midas
+to that fellow who owns neither slave nor store, than that thou shouldst
+suffer thyself to be loved by such an one. "What! isn't he a fine-looking
+man?" thou askest. He is; but this fine-looking man has neither slaves nor
+store. Contemn and slight this as it please thee: nevertheless, he has
+neither slave nor store. XXV. Cinaede Thalle, mollior cuniculi capillo
+  Vel anseris medullula vel imula oricilla
+  Vel pene languido senis situque araneoso,
+  Idemque Thalle turbida rapacior procella,
+  Cum diva munerarios ostendit oscitantes,                       5
+  Remitte pallium mihi meum, quod involasti,
+  Sudariumque Saetabum catagraphosque Thynos,
+  Inepte, quae palam soles habere tamquam avita. Quae nunc tuis ab unguibus reglutina et remitte,
+  Ne laneum latusculum manusque mollicellas                     10
+  Inusta turpiter tibi flagella conscribillent,
+  Et insolenter aestues velut minuta magno
+  Deprensa navis in mari vesaniente vento. XXV. ADDRESS TO THALLUS THE NAPERY-THIEF. Thou bardache Thallus! more than Coney's robe
+  Soft, or goose-marrow or ear's lowmost lobe,
+  Or Age's languid yard and cobweb'd part,
+  Same Thallus greedier than the gale thou art,
+  When the Kite-goddess shows thee Gulls agape,                  5
+  Return my muffler thou hast dared to rape,
+  Saetaban napkins, tablets of Thynos, all
+  Which (Fool!) ancestral heirlooms thou didst call. These now unglue-ing from thy claws restore,
+  Lest thy soft hands, and floss-like flanklets score           10
+  The burning scourges, basely signed and lined,
+  And thou unwonted toss like wee barque tyned
+  'Mid vasty Ocean vexed by madding wind! O Thallus the catamite, softer than rabbit's fur, or goose's marrow, or
+lowmost ear-lobe, limper than the drooping penis of an oldster, in its
+cobwebbed must, greedier than the driving storm, such time as the
+Kite-Goddess shews us the gaping Gulls, give me back my mantle which thou
+hast pilfered, and the Saetaban napkin and Thynian tablets which, idiot,
+thou dost openly parade as though they were heirlooms. These now unglue
+from thy nails and return, lest the stinging scourge shall shamefully score
+thy downy flanks and delicate hands, and thou unwonted heave and toss like
+a tiny boat surprised on the vasty sea by a raging storm. XXVI. Furi, villula nostra non ad Austri
+  Flatus oppositast neque ad Favoni
+  Nec saevi Boreae aut Apeliotae,
+  Verum ad milia quindecim et ducentos. O ventum horribilem atque pestilentem! 5
+
+XXVI. CATULLUS CONCERNING HIS VILLA. Furius! our Villa never Austral force
+  Broke, neither set thereon Favonius' course,
+  Nor savage Boreas, nor Epeliot's strain,
+  But fifteen thousand crowns and hundreds twain
+  Wreckt it,--Oh ruinous by-wind, breezy bane! 5
+
+Furius, our villa not 'gainst the southern breeze is pitted nor the western
+wind nor cruel Boreas nor sunny east, but sesterces fifteen thousand two
+hundred oppose it. O horrible and baleful draught. XXVII. Minister vetuli puer Falerni
+  Inger mi calices amariores,
+  Vt lex Postumiae iubet magistrae,
+  Ebriosa acina ebriosioris. At vos quo lubet hinc abite, lymphae                           5
+  Vini pernicies, et ad severos
+  Migrate: hic merus est Thyonianus. XXVII. TO HIS CUP-BOY. Thou youngling drawer of Falernian old
+  Crown me the goblets with a bitterer wine
+  As was Postumia's law that rules the feast
+  Than ebriate grape-stone more inebriate. But ye fare whither please ye (water-nymphs!) 5
+  To wine pernicious, and to sober folk
+  Migrate ye: mere Thyonian juice be here! Boy cupbearer of old Falernian, pour me fiercer cups as bids the laws of
+Postumia, mistress of the feast, drunker than a drunken grape. But ye,
+hence, as far as ye please, crystal waters, bane of wine, hie ye to the
+sober: here the Thyonian juice is pure. XXVIII. Pisonis comites, cohors inanis
+  Aptis sarcinulis et expeditis,
+  Verani optime tuque mi Fabulle,
+  Quid rerum geritis? satisne cum isto
+  Vappa frigoraque et famem tulistis? 5
+  Ecquidnam in tabulis patet lucelli
+  Expensum, ut mihi, qui meum secutus
+  Praetorem refero datum lucello
+  'O Memmi, bene me ac diu supinum
+  Tota ista trabe lentus inrumasti.' 10
+  Sed, quantum video, pari fuistis
+  Casu: nam nihilo minore verpa
+  Farti estis. pete nobiles amicos. At vobis mala multa di deaeque
+  Dent, opprobria Romulei Remique. 15
+
+XXVIII. TO FRIENDS ON RETURN FROM TRAVEL. Followers of Piso, empty band
+  With your light budgets packt to hand,
+  Veranius best! Fabullus mine! What do ye? Bore ye enough, in fine
+  Of frost and famine with yon sot? 5
+  What loss or gain have haply got
+  Your tablets? so, whenas I ranged
+  With Praetor, gains for loss were changed. "O Memmius! thou did'st long and late
+  ---- me supine slow and ----"                                 10
+  But (truly see I) in such case
+  Diddled you were by wight as base
+  Sans mercy. Noble friends go claim! Now god and goddess give you grame
+  Disgrace of Romulus! Remus' shame! 15
+
+Piso's Company, a starveling band, with lightweight knapsacks, scantly
+packed, most dear Veranius thou, and my Fabullus eke, how fortunes it with
+you? have ye borne frost and famine enow with that sot? Which in your
+tablets appear--the profits or expenses? So with me, who when I followed a
+praetor, inscribed more gifts than gains. "O Memmius, well and slowly didst
+thou irrumate me, supine, day by day, with the whole of that beam." But,
+from what I see, in like case ye have been; for ye have been crammed with
+no smaller a poker. Courting friends of high rank! But may the gods and
+goddesses heap ill upon ye, reproach to Romulus and Remus. XXVIIII. Quis hoc potest videre, quis potest pati,
+  Nisi inpudicus et vorax et aleo,
+  Mamurram habere quod Comata Gallia
+  Habebat ante et ultima Britannia? Cinaede Romule, haec videbis et feres? 5
+  _Es inpudicus et vorax et aleo._                              5b
+  Et ille nunc superbus et superfluens
+  Perambulabit omnium cubilia
+  Vt albulus columbus aut Adoneus? Cinaede Romule, haec videbis et feres? Es inpudicus et vorax et aleo. 10
+  Eone nomine, imperator unice,
+  Fuisti in ultima occidentis insula,
+  Vt ista vostra defututa Mentula
+  Ducenties comesset aut trecenties? Quid est alid sinistra liberalitas? 15
+  Parum expatravit an parum eluatus est? Paterna prima lancinata sunt bona:
+  Secunda praeda Pontica: inde tertia
+  Hibera, quam scit amnis aurifer Tagus. Timentne Galliae hunc, timent Britanniae? 20
+  Quid hunc malum fovetis? aut quid hic potest,
+  Nisi uncta devorare patrimonia? Eone nomine urbis, o potissimei
+  Socer generque, perdidistis omnia? XXVIIII. TO CAESAR OF MAMURRA, CALLED MENTULA. Who e'er could witness this (who could endure
+  Except the lewdling, dicer, greedy-gut)
+  That should Mamurra get what hairy Gaul
+  And all that farthest Britons held whilome? (Thou bardache Romulus!) this wilt see and bear? 5
+  Then art a lewdling, dicer, greedy-gut! 5b
+  He now superb with pride superfluous
+  Shall go perambulate the bedrooms all
+  Like white-robed dovelet or Adonis-love. Romulus thou bardache! this wilt see and bear? Then art a lewdling, dicer, greedy-gut! 10
+  Is't for such like name, sole Emperor thou! Thou soughtest extreme Occidental Isle? That this your ---- Mentula
+  Millions and Milliards might at will absorb? What is't but Liberality misplaced? 15
+  What trifles wasted he, small heirlooms spent? First his paternal goods were clean dispersed;
+  Second went Pontus' spoils and for the third,--
+  Ebro-land,--weets it well gold-rolling Tage. Fear him the Gallias? Him the Britons' fear? 20
+  Why cherish this ill-wight? what 'vails he do? Save fat paternal heritage devour? Lost ye for such a name, O puissant pair
+  (Father and Son-in-law), our all-in-all? Who can witness this, who can brook it, save a whore-monger, a guzzler, and
+a gamester, that Mamurra should possess what long-haired Gaul and remotest
+Britain erstwhile had. Thou catamite Romulus, this thou'lt see and bear? Then thou'rt a whore-monger, a guzzler, and a gamester. And shall he now,
+superb and o'er replete, saunter o'er each one's bed, as though he were a
+snow-plumed dove or an Adonis? Thou catamite Romulus, this thou'lt see and
+hear? Then thou'rt a whore-monger, a guzzler, and a gamester. For such a
+name, O general unique, hast thou been to the furthest island of the west,
+that this thy futtered-out Mentula should squander hundreds of hundreds? What is't but ill-placed munificence? What trifles has he squandered, or
+what petty store washed away? First his patrimony was mangled; secondly the
+Pontic spoils; then thirdly the Iberian, which the golden Tagus-stream
+knoweth. Do not the Gauls fear this man, do not the Britons quake? Why dost
+thou foster this scoundrel? What use is he save to devour well-fattened
+inheritances? Wast for such a name, O most puissant father-in-law and
+son-in-law, that ye have spoiled the entire world. XXX. Alfene inmemor atque unanimis false sodalibus
+  Iam te nil miseret, dure, tui dulcis amiculi? Iam me prodere, iam non dubitas fallere, perfide? Nec facta inpia fallacum hominum caelicolis placent:
+
+  Quod tu neglegis, ac me miserum deseris in malis. 5
+  Eheu quid faciant, dic, homines, cuive habeant fidem? Certe tute iubebas animam tradere, inique, me
+  Inducens in amorem, quasi tuta omnia mi forent. Idem nunc retrahis te ac tua dicta omnia factaque
+  Ventos inrita ferre ac nebulas aerias sinis. 10
+
+  Si tu oblitus es, at di meminerunt, meminit Fides,
+  Quae te ut paeniteat postmodo facti faciet tui. XXX. TO ALFENUS THE PERJUROR. Alfenus! short of memory, false to comrades dearest-dear,
+  Now hast no pity (hardened Soul!) for friend and loving fere? Now to betray me, now to guile thou (traitor!) ne'er dost pause? Yet impious feats of fraudful men ne'er force the Gods' applause:
+
+  When heed'st thou not deserting me (Sad me!) in sorest scathe,  5
+  Ah say whate'er shall humans do? in whom shall man show faith? For sure thou bad'st me safely yield my spirit (wretch!) to thee,
+  Lulling my love as though my life were all security. The same now dost withdraw thyself and every word and deed
+  Thou suffer'st winds and airy clouds to sweep from out thy head. 10
+
+  But an forget thou, mindful be the Gods, and Faith in mind
+  Bears thee, and soon shall gar thee rue the deeds by thee design'd. Alfenus, unmemoried and unfaithful to thy comrades true, is there now no
+pity in thee, O hard of heart, for thine sweet loving friend? Dost thou
+betray me now, and scruplest not to play me false now, dishonourable one? Yet the irreverent deeds of traitorous men please not the dwellers in
+heaven: this thou takest no heed of, leaving me wretched amongst my ills. Alas, what may men do, I pray you, in whom put trust? In truth thou didst
+bid me entrust my soul to thee, sans love returned, lulling me to love, as
+though all [love-returns] were safely mine. Yet now thou dost withdraw
+thyself, and all thy purposeless words and deeds thou sufferest to be
+wafted away into winds and nebulous clouds. If thou hast forgotten, yet the
+gods remember, and in time to come will make thee rue thy doing. XXXI. Paeninsularum, Sirmio, insularumque
+  Ocelle, quascumque in liquentibus stagnis
+  Marique vasto fert uterque Neptunus,
+  Quam te libenter quamque laetus inviso,
+  Vix mi ipse credens Thyniam atque Bithynos                     5
+  Liquisse campos et videre te in tuto. O quid solutis est beatius curis,
+  Cum mens onus reponit, ac peregrino
+  Labore fessi venimus larem ad nostrum
+  Desideratoque acquiescimus lecto. 10
+  Hoc est, quod unumst pro laboribus tantis. Salve, o venusta Sirmio, atque ero gaude:
+  Gaudete vosque, o Libuae lacus undae:
+  Ridete, quidquid est domi cachinnorum. XXXI. ON RETURN TO SIRMIO AND HIS VILLA. Sirmio! of Islands and Peninsulas
+  Eyelet, and whatsoe'er in limpid meres
+  And vasty Ocean either Neptune owns,
+  Thy scenes how willing-glad once more I see,
+  At pain believing Thynia and the Fields                        5
+  Bithynian left, I'm safe to sight thy Site. Oh what more blessed be than cares resolved,
+  When mind casts burthen and by peregrine
+  Work over wearied, lief we hie us home
+  To lie reposing in the longed-for bed! 10
+  This be the single meed for toils so triste. Hail, O fair Sirmio, in thy lord rejoice:
+  And ye, O waves of Lybian Lake be glad,
+  And laugh what laughter pealeth in my home. Sirmio! Eyebabe of Islands and Peninsulas, which Neptune holds whether in
+limpid lakes or on mighty mains, how gladly and how gladsomely do I re-see
+thee, scarce crediting that I've left behind Thynia and the Bithynian
+champaign, and that safe and sound I gaze on thee. O what's more blissful
+than cares released, when the mind casts down its burden, and when wearied
+with travel-toils we reach our hearth, and sink on the craved-for couch. This and only this repays our labours numerous. Hail, lovely Sirmio, and
+gladly greet thy lord; and joy ye, wavelets of the Lybian lake; laugh ye
+the laughters echoing from my home. XXXII. Amabo, mea dulcis Ipsithilla,
+  Meae deliciae, mei lepores,
+  Iube ad te veniam meridiatum. Et si iusseris illud, adiuvato,
+  Nequis liminis obseret tabellam,                               5
+  Neu tibi lubeat foras abire,
+  Sed domi maneas paresque nobis
+  Novem continuas fututiones. Verum, siquid ages, statim iubeto:
+  Nam pransus iaceo et satur supinus                            10
+  Pertundo tunicamque palliumque. XXXII. CRAVING IPSITHILLA'S LAST FAVOURS. I'll love my Ipsithilla sweetest,
+  My desires and my wit the meetest,
+  So bid me join thy nap o' noon! Then (after bidding) add the boon
+  Undraw thy threshold-bolt none dare,                           5
+  Lest thou be led afar to fare;
+  Nay bide at home, for us prepare
+  Nine-fold continuous love-delights. But aught do thou to hurry things,
+  For dinner-full I lie aback,                                  10
+  And gown and tunic through I crack. I'll love thee, my sweet Ipsithilla, my delight, my pleasure: an thou bid
+me come to thee at noontide. And an thou thus biddest, I adjure thee that
+none makes fast the outer door [against me], nor be thou minded to gad
+forth, but do thou stay at home and prepare for us nine continuous
+conjoinings. In truth if thou art minded, give instant summons: for
+breakfast o'er, I lie supine and ripe, thrusting through both tunic and
+cloak. XXXIII. O furum optime balneariorum
+  Vibenni pater, et cinaede fili,
+  (Nam dextra pater inquinatiore,
+  Culo filius est voraciore)
+  Cur non exilium malasque in oras                               5
+  Itis, quandoquidem patris rapinae
+  Notae sunt populo, et natis pilosas,
+  Fili, non potes asse venditare. XXXIII. ON THE VIBENII--BATH-THIEVES. Oh, best of robbers who in Baths delight,
+  Vibennius, sire and son, the Ingle hight,
+  (For that the father's hand be fouler one
+  And with his anus greedier is the Son)
+  Why not to banishment and evil hours                           5
+  Haste ye, when all the parent's plundering powers
+  Are public knowledge, nor canst gain a Cent
+  Son! by the vending of thy piled vent. O, chiefest of pilferers, baths frequenting, Vibennius the father and his
+pathic son (for with the right hand is the sire more in guilt, and with his
+backside is the son the greedier), why go ye not to exile and ill hours,
+seeing that the father's plunderings are known to all folk, and that, son,
+thou can'st not sell thine hairy buttocks for a doit? XXXIIII. Dianae sumus in fide
+  Puellae et pueri integri:
+  _Dianam pueri integri_
+    Puellaeque canamus. O Latonia, maximi                                              5
+  Magna progenies Iovis,
+  Quam mater prope Deliam
+    Deposivit olivam,
+
+  Montium domina ut fores
+  Silvarumque virentium                                         10
+  Saltuumque reconditorum
+    Amniumque sonantum. Tu Lucina dolentibus
+  Iuno dicta puerperis,
+  Tu potens Trivia et notho's                                   15
+    Dicta lumine Luna. Tu cursu, dea, menstruo
+  Metiens iter annuom
+  Rustica agricolae bonis
+    Tecta frugibus exples. 20
+
+  Sis quocumque tibi placet
+  Sancta nomine, Romulique,
+  Antique ut solita's, bona
+    Sospites ope gentem. XXXIIII. HYMN TO DIANA. Diana's faith inbred we bear
+  Youths whole of heart and maidens fair,
+  Let boys no blemishes impair,
+              And girls of Dian sing! O great Latonian progeny,                                      5
+  Of greatest Jove descendancy,
+  Whom mother bare 'neath olive-tree,
+              Deep in the Delian dell;
+
+  That of the mountains reign thou Queen
+  And forest ranges ever green,                                 10
+  And coppices by man unseen,
+              And rivers resonant. Thou art Lucina, Juno hight
+  By mothers lien in painful plight,
+  Thou puissant Trivia and the Light                            15
+              Bastard, yclept the Lune. Thou goddess with thy monthly stage,
+  The yearly march doth mete and guage
+  And rustic peasant's messuage,
+              Dost brim with best o' crops,                     20
+
+  Be hailed by whatso name of grace,
+  Please thee and olden Romulus' race,
+  Thy wonted favour deign embrace,
+              And save with choicest aid. We, maids and upright youths, are in Diana's care: upright youths and
+maids, we sing Diana. O Latonia, progeny great of greatest Jove, whom thy mother bare 'neath
+Delian olive,
+
+That thou mightst be Queen of lofty mounts, of foliaged groves, of remote
+glens, and of winding streams. Thou art called Juno Lucina by the mother in her travail-pangs, thou art
+named potent Trivia and Luna with an ill-got light. Thou, Goddess, with monthly march measuring the yearly course, dost glut
+with produce the rustic roofs of the farmer. Be thou hallowed by whatsoe'er name thou dost prefer; and cherish, with
+thine good aid, as thou art wont, the ancient race of Romulus. XXXV. Poetae tenero, meo sodali
+  Velim Caecilio, papyre, dicas,
+  Veronam veniat, Novi relinquens
+  Comi moenia Lariumque litus:
+  Nam quasdam volo cogitationes                                  5
+  Amici accipiat sui meique. Quare, si sapiet, viam vorabit,
+  Quamvis candida milies puella
+  Euntem revocet manusque collo
+  Ambas iniciens roget morari,                                  10
+  Quae nunc, si mihi vera nuntiantur,
+  Illum deperit inpotente amore:
+  Nam quo tempore legit incohatam
+  Dindymi dominam, ex eo misellae
+  Ignes interiorem edunt medullam. 15
+  Ignosco tibi, Sapphica puella
+  Musa doctior: est enim venuste
+  Magna Caecilio incohata mater. XXXV. AN INVITATION TO POET CECILIUS. Now to that tender bard, my Comrade fair,
+  (Cecilius) say I, "Paper go, declare,
+  Verona must we make and bid to New
+  Comum's town-walls and Larian Shores adieu;"
+  For I determined certain fancies he                            5
+  Accept from mutual friend to him and me. Wherefore he will, if wise, devour the way,
+  Though the blonde damsel thousand times essay
+  Recall his going and with arms a-neck
+  A-winding would e'er seek his course to check;                10
+  A girl who (if the truth be truly told)
+  Dies of a hopeless passion uncontroul'd;
+  For since the doings of the Dindymus-dame,
+  By himself storied, she hath read, a flame
+  Wasting her inmost marrow-core hath burned. 15
+  I pardon thee, than Sapphic Muse more learn'd,
+  Damsel: for truly sung in sweetest lays
+  Was by Cecilius Magna Mater's praise. To that sweet poet, my comrade, Caecilius, I bid thee, paper, say: that he
+hie him here to Verona, quitting New Comum's city-walls and Larius' shore;
+for I wish him to give ear to certain counsels from a friend of his and
+mine. Wherefore, an he be wise, he'll devour the way, although a milk-white
+maid doth thousand times retard his going, and flinging both arms around
+his neck doth supplicate delay--a damsel who now, if truth be brought me,
+is undone with immoderate love of him. For, since what time she first read
+of the Dindymus Queen, flames devour the innermost marrow of the wretched
+one. I grant thee pardon, damsel, more learned than the Sapphic muse: for
+charmingly has the Mighty Mother been sung by Caecilius. XXXVI. Annales Volusi, cacata charta,
+  Votum solvite pro mea puella:
+  Nam sanctae Veneri Cupidinique
+  Vovit, si sibi restitutus essem
+  Desissemque truces vibrare iambos,                             5
+  Electissima pessimi poetae
+  Scripta tardipedi deo daturam
+  Infelicibus ustulanda lignis. Et haec pessima se puella vidit
+  Iocose lepide vovere divis. 10
+  Nunc, o caeruleo creata ponto,
+  Quae sanctum Idalium Vriosque portus
+  Quaeque Ancona Cnidumque harundinosam
+  Colis quaeque Amathunta quaeque Golgos
+  Quaeque Durrachium Adriae tabernam,                           15
+  Acceptum face redditumque votum,
+  Si non inlepidum neque invenustumst. At vos interea venite in ignem,
+  Pleni ruris et inficetiarum
+  Annales Volusi, cacata charta. 20
+
+XXXVI. ON "THE ANNALS"--A SO-CALLED POEM OF VOLUSIUS. Volusius' Annals, paper scum-bewrayed! Fulfil that promise erst my damsel made;
+  Who vowed to Holy Venus and her son,
+  Cupid, should I return to her anon
+  And cease to brandish iamb-lines accurst,                      5
+  The writ selected erst of bards the worst
+  She to the limping Godhead would devote
+  With slowly-burning wood of illest note. This was the vilest which my girl could find
+  With vow facetious to the Gods assigned. 10
+  Now, O Creation of the azure sea,
+  Holy Idalium, Urian havenry
+  Haunting, Ancona, Cnidos' reedy site,
+  Amathus, Golgos, and the tavern hight
+  Durrachium--thine Adrian abode--                              15
+  The vow accepting, recognize the vowed
+  As not unworthy and unhandsome naught. But do ye meanwhile to the fire be brought,
+  That teem with boorish jest of sorry blade,
+  Volusius' Annals, paper scum-bewrayed. 20
+
+Volusius' Annals, merdous paper, fulfil ye a vow for my girl: for she vowed
+to sacred Venus and to Cupid that if I were re-united to her and I desisted
+hurling savage iambics, she would give the most elect writings of the
+pettiest poet to the tardy-footed God to be burned with ill-omened wood. And _this_ the saucy minx chose, jocosely and drolly to vow to the gods. Now, O Creation of the cerulean main, who art in sacred Idalium, and in
+Urian haven, and who doth foster Ancona and reedy Cnidos, Amathus and
+Golgos, and Dyrrhachium, Adriatic tavern, accept and acknowledge this vow
+if it lack not grace nor charm. But meantime, hence with ye to the flames,
+crammed with boorish speech and vapid, Annals of Volusius, merdous paper. XXXVII. Salax taberna vosque contubernales,
+  A pileatis nona fratribus pila,
+  Solis putatis esse mentulas vobis,
+  Solis licere, quidquid est puellarum,
+  Confutuere et putare ceteros hircos? 5
+  An, continenter quod sedetis insulsi
+  Centum an ducenti, non putatis ausurum
+  Me una ducentos inrumare sessores? Atqui putate: namque totius vobis
+  Frontem tabernae scorpionibus scribam. 10
+  Puella nam mi, quae meo sinu fugit,
+  Amata tantum quantum amabitur nulla,
+  Pro qua mihi sunt magna bella pugnata,
+  Consedit istic. hanc boni beatique
+  Omnes amatis, et quidem, quod indignumst,                     15
+  Omnes pusilli et semitarii moechi;
+  Tu praeter omnes une de capillatis,
+  Cuniculosae Celtiberiae fili
+  Egnati, opaca quem bonum facit barba
+  Et dens Hibera defricatus urina. 20
+
+XXXVII. TO THE FREQUENTERS OF A LOW TAVERN. Salacious Tavern and ye taverner-host,
+  From Pileate Brothers the ninth pile-post,
+  D'ye claim, you only of the mentule boast,
+  D'ye claim alone what damsels be the best
+  To swive: as he-goats holding all the rest? 5
+  Is't when like boobies sit ye incontinent here,
+  One or two hundred, deem ye that I fear
+  Two hundred ---- at one brunt? Ay, think so, natheless all your tavern-front
+  With many a scorpion I will over-write. 10
+  For that my damsel, fro' my breast took flight,
+  By me so loved, as shall loved be none,
+  Wherefor so mighty wars were waged and won,
+  Does sit in public here. Ye fain, rich wights,
+  All woo her: thither too (the chief of slights!) 15
+  All pitiful knaves and by-street wenchers fare,
+  And thou, (than any worse), with hanging hair,
+  In coney-breeding Celtiberia bred,
+  Egnatius! bonnified by beard full-fed,
+  And teeth with Spanish urine polished. 20
+
+Tavern of lust and you its tippling crowd, (at ninth pile sign-post from
+the Cap-donned Brothers) think ye that ye alone have mentules, that 'tis
+allowed to you alone to touzle whatever may be feminine, and to deem all
+other men mere goats? But, because ye sit, a row of fools numbering one
+hundred or haply two hundred, do ye think I dare not irrumate your entire
+two hundred--loungers!--at once! Think it! but I'll scrawl all over the
+front of your tavern with scorpion-words. For my girl, who has fled from my
+embrace (she whom I loved as ne'er a maid shall be beloved--for whom I
+fought fierce fights) has seated herself here. All ye, both honest men and
+rich, and also, (O cursed shame) all ye paltry back-slum fornicators, are
+making hot love to her; and thou above all, one of the hairy-visaged sons
+of coney-caverned Celtiberia, Egnatius, whose quality is stamped by
+dense-grown beard, and teeth with Spanish urine scrubbed. XXXVIII. Malest, Cornifici, tuo Catullo,
+  Malest, me hercule, et est laboriose,
+  Et magis magis in dies et horas. Quem tu, quod minimum facillimumquest,
+  Qua solatus es adlocutione? 5
+  Irascor tibi. sic meos amores? Paulum quid lubet adlocutionis,
+  Maestius lacrimis Simonideis. XXXVIII. A COMPLAINT TO CORNIFICIUS. Cornificius! 'Tis ill with thy Catullus,
+  'Tis ill (by Hercules) distressfully:
+  Iller and iller every day and hour. Whose soul (as smallest boon and easiest)
+  With what of comfort hast thou deign'd console? 5
+  Wi' thee I'm angered! Dost so prize my love? Yet some consoling utterance had been well
+  Though sadder 'twere than Simonidean tears. 'Tis ill, Cornificius, with thy Catullus, 'tis ill, by Hercules, and most
+untoward; and greater, greater ill, each day and hour! And thou, what
+solace givest thou, e'en the tiniest, the lightest, by thy words? I'm wroth
+with thee. Is my love but worth this? Yet one little message would cheer
+me, though more full of sadness than Simonidean tears. XXXVIIII. Egnatius, quod candidos habet dentes,
+  Renidet usque quaque. sei ad rei ventumst
+  Subsellium, cum orator excitat fletum,
+  Renidet ille. sei ad pii rogum fili
+  Lugetur, orba cum flet unicum mater,                           5
+  Renidet ille. quidquid est, ubicumquest,
+  Quodcumque agit, renidet. hunc habet morbum,
+  Neque elegantem, ut arbitror, neque urbanum. Quare monendum test mihi, bone Egnati. Si urbanus esses aut Sabinus aut Tiburs                       10
+  Aut fartus Vmber aut obesus Etruscus
+  Aut Lanuinus ater atque dentatus
+  Aut Transpadanus, ut meos quoque attingam,
+  Aut quilubet, qui puriter lavit dentes,
+  Tamen renidere usque quaque te nollem:                        15
+  Nam risu inepto res ineptior nullast. Nunc Celtiber es: Celtiberia in terra,
+  Quod quisque minxit, hoc sibi solet mane
+  Dentem atque russam defricare gingivam,
+  Vt quo iste vester expolitior dens est,                       20
+  Hoc te amplius bibisse praedicet loti. XXXVIIII. ON EGNATIUS OF THE WHITE TEETH. Egnatius for that owns he teeth snow-white,
+  Grins ever, everywhere. When placed a wight
+  In dock, when pleader would draw tears, the while
+  He grins. When pious son at funeral pile
+  Mourns, or lone mother sobs for sole lost son,                 5
+  He grins. Whate'er, whene'er, howe'er is done,
+  Of deed he grins. Such be his malady,
+  Nor kind, nor courteous--so beseemeth me--
+  Then take thou good Egnatius, rede of mine! Wert thou corrupt Sabine or a Tiburtine,                      10
+  Stuffed Umbrian or Tuscan overgrown
+  Swarthy Lanuvian with his teeth-rows shown,
+  Transpadan also, that mine own I touch,
+  Or any washing teeth to shine o'er much,
+  Yet thy incessant grin I would not see,                       15
+  For naught than laughter silly sillier be. Thou Celtiber art, in Celtiberia born,
+  Where man who's urined therewith loves a-morn
+  His teeth and ruddy gums to scour and score;
+  So the more polisht are your teeth, the more                  20
+  Argue they sipping stale in ampler store. Egnatius, who has milk-white teeth, grins for ever and aye. An he be in
+court, when counsel excites tears, he grins. An he be at funeral pyre where
+one mourns a son devoted, where a bereft mother's tears stream for her only
+one, he grins. Whatever it may be, wherever he is, whate'er may happen, he
+grins. Such ill habit has he--neither in good taste, well assumed, nor
+refined. Wherefore do thou take note from me, my good Egnatius. Be thou
+refined Sabine or Tiburtine, paunch-full Umbrian or obese Tuscan, Lanuvian
+dusky and large-tusked, or Transpadine (to touch upon mine own folk also),
+or whom thou wilt of those who cleanly wash their teeth, still I'd wish
+thee not to grin for ever and aye; for than senseless giggling nothing is
+more senseless. Now thou'rt a Celtiberian! and in the Celtiberian land each
+wight who has urined is wont each morn to scrub with it his teeth and pinky
+gums, so that the higher the polish on thy teeth, the greater fund it notes
+that thou hast drunk of urine. XXXX. Quaenam te mala mens, miselle Ravide,
+  Agit praecipitem in meos iambos? Quis deus tibi non bene advocatus
+  Vecordem parat excitare rixam? An ut pervenias in ora vulgi? 5
+  Quid vis? qua lubet esse notus optas? Eris, quandoquidem meos amores
+  Cum longa voluisti amare poena. XXXX. THREATENING RAVIDUS WHO STOLE HIS MISTRESS. What thought of folly Ravidus (poor churl!) Upon my iambs thus would headlong hurl? What good or cunning counsellor would fain
+  Urge thee to struggle in such strife insane? Is't that the vulgar mouth thy name by rote? 5
+  What will'st thou? Wishest on any wise such note? Then _shalt_ be noted since my love so lief
+  For love thou sued'st to thy lasting grief. What mind ill set, O sorry Ravidus, doth thrust thee rashly on to my
+iambics? What god, none advocate of good for thee, doth stir thee to a
+senseless contest? That thou may'st be in the people's mouth? What would'st
+thou? Dost wish to be famed, no matter in what way? So thou shalt be, since
+thou hast aspired to our loved one's love, but by our long-drawn vengeance. XXXXI. Ametina puella defututa
+  Tota milia me decem poposcit,
+  Ista turpiculo puella naso,
+  Decoctoris amica Formiani. Propinqui, quibus est puella curae,                            5
+  Amicos medicosque convocate:
+  Non est sana puella. nec rogate,
+  Qualis sit: solet esse imaginosa. XXXXI. ON MAMURRA'S MISTRESS. That Ametina, worn-out whore,
+  Me for a myriad oft would bore,
+  That strumpet of th' ignoble nose,
+  To leman, rakehell Formian chose. An ye would guard her (kinsmen folk)                           5
+  Your friends and leaches d'ye convoke:
+  The girl's not sound-sens'd; ask ye naught
+  Of her complaint: she's love-distraught. Ametina, out-drained maiden, worries me for a whole ten thousand, that
+damsel with an outspread nose, _chere amie_ of Formianus the wildling. Ye
+near of kin in whose care the maiden is, summon ye both friends and
+medicals: for the girl's not sane. Nor ask ye, in what way: she is subject
+to delusions. XXXXII. Adeste, hendecasyllabi, quot estis
+  Omnes undique, quotquot estis omnes. Iocum me putat esse moecha turpis
+  Et negat mihi nostra reddituram
+  Pugillaria, si pati potestis. 5
+  Persequamur eam, et reflagitemus. Quae sit, quaeritis. illa, quam videtis
+  Turpe incedere, mimice ac moleste
+  Ridentem catuli ore Gallicani. Circumsistite eam, et reflagitate,                            10
+  'Moecha putida, redde codicillos,
+  Redde, putida moecha, codicillos.' Non assis facis? o lutum, lupanar,
+  Aut si perditius potest quid esse. Sed non est tamen hoc satis putandum. 15
+  Quod si non aliud potest, ruborem
+  Ferreo canis exprimamus ore.
+  Conclamate iterum altiore voce
+  'Moecha putida, redde codicillos,
+  Redde, putida moecha, codicillos.' 20
+  Sed nil proficimus, nihil movetur. Mutandast ratio modusque vobis,
+  Siquid proficere amplius potestis,
+  'Pudica et proba, redde codicillos.' XXXXII. ON A STRUMPET WHO STOLE HIS TABLETS. Come, Hendecasyllabics, many as may
+  All hither, every one that of you be! That fulsome harlot makes me laughing-stock
+  And she refuses at our prayer restore
+  Our stolen Note-books, an such slights ye bear. 5
+  Let us pursue her clamouring our demands. "Who's she?" ye question: yonder one ye sight
+  Mincingly pacing mime-like, perfect pest,
+  With jaws wide grinning like a Gallic pup. Stand all round her dunning with demands,                     10
+  "Return (O rotten whore!) our noting books. Our noting books (O rotten whore!) return!" No doit thou car'st? O Mire! O Stuff o' stews! Or if aught fouler filthier dirt there be. Yet must we never think these words suffice. 15
+  But if naught else avail, at least a blush
+  Forth of that bitch-like brazen brow we'll squeeze. Cry all together in a higher key
+  "Restore (O rotten whore!) our noting books,
+  Our noting books (O rotten whore!) restore!" 20
+  Still naught avails us, nothing is she moved. Now must our measures and our modes be changed
+  An we would anywise our cause advance. "Restore (chaste, honest Maid!) our noting books!" Hither, all ye hendecasyllables, as many as may be, from every part, all of
+ye, as many soever as there be! A shameless prostitute deems me fair sport,
+and denies return to me of our writing tablets, if ye are able to endure
+this. Let's after her, and claim them back. "Who may she be," ye ask? That
+one, whom ye see strutting awkwardly, stagily, and stiffly, and with a
+laugh on her mouth like a Gallic whelp. Throng round her, and claim them
+back. "O putrid punk, hand back our writing tablets; hand back, O putrid
+punk, our writing tablets." Not a jot dost heed? O Muck, Brothel-Spawn, or
+e'en loathsomer if it is possible so to be! Yet think not yet that this is
+enough. For if naught else we can extort a blush on thy brazened bitch's
+face. We'll yell again in heightened tones, "O putrid punk, hand back our
+writing tablets, hand back, O putrid punk, our writing tablets." But naught
+we profit, naught she budges. Changed must your measure and your manner be,
+an you would further progress make--"O Virgin pure and spotless, hand back
+our writing tablets." XXXXIII. Salve, nec minimo puella naso
+  Nec bello pede nec nigris ocellis
+  Nec longis digitis nec ore sicco
+  Nec sane nimis elegante lingua,
+  Decoctoris amica Formiani. 5
+  Ten provincia narrat esse bellam? Tecum Lesbia nostra conparatur? O saeclum insapiens et infacetum! XXXXIII. TO MAMURRA'S MISTRESS. Hail, girl who neither nose of minim size
+  Owns, nor a pretty foot, nor jetty eyes,
+  Nor thin long fingers, nor mouth dry of slaver
+  Nor yet too graceful tongue of pleasant flavour,
+  Leman to Formian that rake-a-hell. 5
+  What, can the Province boast of thee as belle? Thee with my Lesbia durst it make compare? O Age insipid, of all humour bare! Hail, O maiden with nose not of the tiniest, with foot lacking shape and
+eyes lacking darkness, with fingers scant of length, and mouth not dry and
+tongue scant enough of elegance, _chere amie_ of Formianus the wildling. And thee the province declares to be lovely? With thee our Lesbia is to be
+compared? O generation witless and unmannerly! XXXXIIII. O funde noster seu Sabine seu Tiburs,
+  (Nam te esse Tiburtem autumant, quibus non est
+  Cordi Catullum laedere: at quibus cordist,
+  Quovis Sabinum pignore esse contendunt)
+  Sed seu Sabine sive verius Tiburs,                             5
+  Fui libenter in tua suburbana
+  Villa malamque pectore expuli tussim,
+  Non inmerenti quam mihi meus venter,
+  Dum sumptuosas adpeto, dedit, cenas. Nam, Sestianus dum volo esse conviva,                         10
+  Orationem in Antium petitorem
+  Plenam veneni et pestilentiae legi. Hic me gravido frigida et frequens tussis
+  Quassavit usque dum in tuum sinum fugi
+  Et me recuravi otioque et urtica. 15
+  Quare refectus maximas tibi grates
+  Ago, meum quod non es ulta peccatum. Nec deprecor iam, si nefaria scripta
+  Sesti recepso, quin gravidinem et tussim
+  Non mi, sed ipsi Sestio ferat frigus,                         20
+  Qui tum vocat me, cum malum librum legi. XXXXIIII. 

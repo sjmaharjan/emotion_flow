@@ -1,0 +1,572 @@
+
+
+
+
+Produced by Douglas Levy, for Nikki
+
+
+
+
+
+HEDDA GABLER
+
+By Henrik Ibsen
+
+
+Translated by Edmund Gosse and William Archer
+
+
+Introduction by William Archer
+
+
+
+
+
+INTRODUCTION. From Munich, on June 29, 1890, Ibsen wrote to the Swedish poet, Count
+Carl Soilsky: "Our intention has all along been to spend the summer in
+the Tyrol again. But circumstances are against our doing so. I am at
+present engaged upon a new dramatic work, which for several reasons has
+made very slow progress, and I do not leave Munich until I can take with
+me the completed first draft. There is little or no prospect of my being
+able to complete it in July." Ibsen did not leave Munich at all that
+season. On October 30 he wrote: "At present I am utterly engrossed in
+a new play. Not one leisure hour have I had for several months." Three
+weeks later (November 20) he wrote to his French translator, Count
+Prozor: "My new play is finished; the manuscript went off to Copenhagen
+the day before yesterday.... It produces a curious feeling of emptiness
+to be thus suddenly separated from a work which has occupied one's time
+and thoughts for several months, to the exclusion of all else. But it is
+a good thing, too, to have done with it. The constant intercourse with
+the fictitious personages was beginning to make me quite nervous." To
+the same correspondent he wrote on December 4: "The title of the play is
+_Hedda Gabler_. My intention in giving it this name was to indicate
+that Hedda, as a personality, is to be regarded rather as her father's
+daughter than as her husband's wife. It was not my desire to deal in
+this play with so-called problems. What I principally wanted to do was
+to depict human beings, human emotions, and human destinies, upon a
+groundwork of certain of the social conditions and principles of the
+present day." So far we read the history of the play in the official
+"Correspondence. "(1) Some interesting glimpses into the poet's moods
+during the period between the completion of _The Lady from the Sea_
+and the publication of _Hedda Gabler_ are to be found in the series of
+letters to Fraulein Emilie Bardach, of Vienna, published by Dr. George
+Brandes. (2) This young lady Ibsen met at Gossensass in the Tyrol in
+the autumn of 1889. The record of their brief friendship belongs to the
+history of _The Master Builder_ rather than to that of _Hedda Gabler_,
+but the allusions to his work in his letters to her during the winter of
+1889 demand some examination. So early as October 7, 1889, he writes to her: "A new poem begins to
+dawn in me. I will execute it this winter, and try to transfer to it
+the bright atmosphere of the summer. But I feel that it will end in
+sadness--such is my nature." Was this "dawning" poem _Hedda Gabler_? Or
+was it rather _The Master Builder_ that was germinating in his mind? Who
+shall say? The latter hypothesis seems the more probable, for it is hard
+to believe that at any stage in the incubation of _Hedda Gabler_ he can
+have conceived it as even beginning in gaiety. A week later, however,
+he appears to have made up his mind that the time had not come for the
+poetic utilisation of his recent experiences. He writes on October 15:
+"Here I sit as usual at my writing-table. Now I would fain work, but
+am unable to. My fancy, indeed, is very active. But it always wanders
+away ours. I cannot repress my summer memories--nor do I wish to. I live
+through my experience again and again and yet again. To transmute it
+all into a poem, I find, in the meantime, impossible." Clearly, then,
+he felt that his imagination ought to have been engaged on some theme
+having no relation to his summer experiences--the theme, no doubt, of
+_Hedda Gabler_. In his next letter, dated October 29, he writes: "Do not
+be troubled because I cannot, in the meantime, create (_dichten_). In
+reality I am for ever creating, or, at any rate, dreaming of something
+which, when in the fulness of time it ripens, will reveal itself as
+a creation (_Dichtung_)." On November 19 he says: "I am very busily
+occupied with preparations for my new poem. I sit almost the whole day
+at my writing-table. Go out only in the evening for a little while." The
+five following letters contain no allusion to the play; but on September
+18, 1890, he wrote: "My wife and son are at present at Riva, on the Lake
+of Garda, and will probably remain there until the middle of October,
+or even longer. Thus I am quite alone here, and cannot get away. The new
+play on which I am at present engaged will probably not be ready until
+November, though I sit at my writing-table daily, and almost the whole
+day long." Here ends the history of _Hedda Gabler_, so far as the poet's
+letters carry us. Its hard clear outlines, and perhaps somewhat bleak
+atmosphere, seem to have resulted from a sort of reaction against the
+sentimental "dreamery" begotten of his Gossensass experiences. He
+sought refuge in the chill materialism of Hedda from the ardent
+transcendentalism of Hilda, whom he already heard knocking at the door. He was not yet in the mood to deal with her on the plane of poetry. (3)
+
+_Hedda Gabler_ was published in Copenhagen on December 16, 1890. This
+was the first of Ibsen's plays to be translated from proof-sheets and
+published in England and America almost simultaneously with its first
+appearance in Scandinavia. The earliest theatrical performance took
+place at the Residenz Theater, Munich, on the last day of January 1891,
+in the presence of the poet, Frau Conrad-Ramlo playing the title-part. The Lessing Theater, Berlin, followed suit on February 10. Not till
+February 25 was the play seen in Copenhagen, with Fru Hennings as Hedda. On the following night it was given for the first time in Christiania,
+the Norwegian Hedda being Froken Constance Bruun. It was this production
+which the poet saw when he visited the Christiania Theater for the first
+time after his return to Norway, August 28, 1891. It would take pages
+to give even the baldest list of the productions and revivals of _Hedda
+Gabler_ in Scandinavia and Germany, where it has always ranked among
+Ibsen's most popular works. The admirable production of the play by Miss
+Elizabeth Robins and Miss Marion Lea, at the Vaudeville Theatre,
+London, April 20, 1891, may rank as the second great step towards
+the popularisation of Ibsen in England, the first being the
+Charrington-Achurch production of _A Doll's House_ in 1889. Miss Robins
+afterwards repeated her fine performance of Hedda many times, in London,
+in the English provinces, and in New York. The character has also been
+acted in London by Eleonora Duse, and as I write (March, 5, 1907) by
+Mrs. Patrick Campbell, at the Court Theatre. In Australia and America,
+Hedda has frequently been acted by Miss Nance O'Neill and other
+actresses--quite recently by a Russian actress, Madame Alla Nazimova,
+who (playing in English) seems to have made a notable success both in
+this part and in Nora. The first French Hedda Gabler was Mlle. Marthe
+Brandes, who played the part at the Vaudeville Theatre, Paris, on
+December 17, 1891, the performance being introduced by a lecture by M.
+Jules Lemaitre. In Holland, in Italy, in Russia, the play has been acted
+times without number. In short (as might easily have been foretold) it
+has rivalled _A Doll's House_ in world-wide popularity. It has been suggested,(4) I think without sufficient ground, that Ibsen
+deliberately conceived _Hedda Gabler_ as an "international" play, and
+that the scene is really the "west end" of any European city. To me
+it seems quite clear that Ibsen had Christiania in mind, and the
+Christiania of a somewhat earlier period than the 'nineties. The
+electric cars, telephones, and other conspicuous factors in the life of
+a modern capital are notably absent from the play. There is no electric
+light in Secretary Falk's villa. It is still the habit for ladies to
+return on foot from evening parties, with gallant swains escorting them. This "suburbanism," which so distressed the London critics of 1891,
+was characteristic of the Christiania Ibsen himself had known in the
+'sixties--the Christiania of _Love's Comedy_--rather than of the
+greatly extended and modernised city of the end of the century. Moreover
+Lovborg's allusions to the fiord, and the suggested picture of Sheriff
+Elvsted, his family and his avocations are all distinctively Norwegian. The truth seems to be very simple--the environment and the subsidiary
+personages are all thoroughly national, but Hedda herself is an
+"international" type, a product of civilisation by no means peculiar to
+Norway. We cannot point to any individual model or models who "sat to" Ibsen for
+the character of Hedda. (5) The late Grant Allen declared that Hedda was
+"nothing more nor less than the girl we take down to dinner in London
+nineteen times out of twenty"; in which case Ibsen must have suffered
+from a superfluidity of models, rather than from any difficulty in
+finding one. But the fact is that in this, as in all other instances,
+the word "model" must be taken in a very different sense from that in
+which it is commonly used in painting. Ibsen undoubtedly used models for
+this trait and that, but never for a whole figure. If his characters can
+be called portraits at all, they are composite portraits. Even when it
+seems pretty clear that the initial impulse towards the creation of a
+particular character came from some individual, the original figure is
+entirely transmuted in the process of harmonisation with the dramatic
+scheme. We need not, therefore, look for a definite prototype of Hedda;
+but Dr. Brandes shows that two of that lady's exploits were probably
+suggested by the anecdotic history of the day. Ibsen had no doubt heard how the wife of a well-known Norwegian
+composer, in a fit of raging jealousy excited by her husband's prolonged
+absence from home, burnt the manuscript of a symphony which he had just
+finished. The circumstances under which Hedda burns Lovborg's manuscript
+are, of course, entirely different and infinitely more dramatic;
+but here we have merely another instance of the dramatisation or
+"poetisation" of the raw material of life. Again, a still more painful
+incident probably came to his knowledge about the same time. A beautiful
+and very intellectual woman was married to a well-known man who had been
+addicted to drink, but had entirely conquered the vice. One day a mad
+whim seized her to put his self-mastery and her power over him to the
+test. As it happened to be his birthday, she rolled into his study a
+small keg of brandy, and then withdrew. She returned some time after
+wards to find that he had broached the keg, and lay insensible on the
+floor. In this anecdote we cannot but recognise the germ, not only of
+Hedda's temptation of Lovborg, but of a large part of her character. "Thus," says Dr. Brandes, "out of small and scattered traits of reality
+Ibsen fashioned his close-knit and profoundly thought-out works of art." For the character of Eilert Lovborg, again, Ibsen seem unquestionably
+to have borrowed several traits from a definite original. A young Danish
+man of letters, whom Dr. Brandes calls Holm, was an enthusiastic admirer
+of Ibsen, and came to be on very friendly terms with him. One day Ibsen
+was astonished to receive, in Munich, a parcel addressed from Berlin by
+this young man, containing, without a word of explanation, a packet of
+his (Ibsen's) letters, and a photograph which he had presented to Holm. Ibsen brooded and brooded over the incident, and at last came to the
+conclusion that the young man had intended to return her letters and
+photograph to a young lady to whom he was known to be attached, and had
+in a fit of aberration mixed up the two objects of his worship. Some
+time after, Holm appeared at Ibsen's rooms. He talked quite rationally,
+but professed to have no knowledge whatever of the letter-incident,
+though he admitted the truth of Ibsen's conjecture that the "belle dame
+sans merci" had demanded the return of her letters and portrait. Ibsen
+was determined to get at the root of the mystery; and a little inquiry
+into his young friend's habits revealed the fact that he broke his fast
+on a bottle of port wine, consumed a bottle of Rhine wine at lunch, of
+Burgundy at dinner, and finished off the evening with one or two more
+bottles of port. Then he heard, too, how, in the course of a night's
+carouse, Holm had lost the manuscript of a book; and in these traits he
+saw the outline of the figure of Eilert Lovborg. Some time elapsed, and again Ibsen received a postal packet from Holm. This one contained his will, in which Ibsen figured as his residuary
+legatee. But many other legatees were mentioned in the instrument--all
+of them ladies, such as Fraulein Alma Rothbart, of Bremen, and Fraulein
+Elise Kraushaar, of Berlin. The bequests to these meritorious spinsters
+were so generous that their sum considerably exceeded the amount of
+the testator's property. Ibsen gently but firmly declined the proffered
+inheritance; but Holm's will no doubt suggested to him the figure of
+that red-haired "Mademoiselle Diana," who is heard of but not seen
+in _Hedda Gabler_, and enabled him to add some further traits to the
+portraiture of Lovborg. When the play appeared, Holm recognised
+himself with glee in the character of the bibulous man of letters,
+and thereafter adopted "Eilert Lovborg" as his pseudonym. I do not,
+therefore, see why Dr. Brandes should suppress his real name; but I
+willingly imitate him in erring on the side of discretion. The poor
+fellow died several years ago. Some critics have been greatly troubled as to the precise meaning of
+Hedda's fantastic vision of Lovborg "with vine-leaves in his hair." Surely this is a very obvious image or symbol of the beautiful, the
+ideal, aspect of bacchic elation and revelry. Antique art, or I am much
+mistaken, shows us many figures of Dionysus himself and his followers
+with vine-leaves entwined their hair. To Ibsen's mind, at any rate, the
+image had long been familiar. In _Peer Gynt_ (Act iv. sc. 8), when Peer,
+having carried off Anitra, finds himself in a particularly festive mood,
+he cries: "Were there vine-leaves around, I would garland my brow." Again, in _Emperor and Galilean_ (Pt. ii. Act 1) where Julian, in the
+procession of Dionysus, impersonates the god himself, it is directed
+that he shall wear a wreath of vine-leaves. Professor Dietrichson
+relates that among the young artists whose society Ibsen frequented
+during his first years in Rome, it was customary, at their little
+festivals, for the revellers to deck themselves in this fashion. But the
+image is so obvious that there is no need to trace it to any personal
+experience. The attempt to place Hedda's vine-leaves among Ibsen's
+obscurities is an example of the firm resolution not to understand which
+animated the criticism of the 'nineties. Dr. Brandes has dealt very severely with the character of Eilert
+Lovborg, alleging that we cannot believe in the genius attributed to
+him. But where is he described as a genius? The poet represents him as a
+very able student of sociology; but that is quite a different thing from
+attributing to him such genius as must necessarily shine forth in every
+word he utters. Dr. Brandes, indeed, declines to believe even in his
+ability as a sociologist, on the ground that it is idle to write about
+the social development of the future. "To our prosaic minds," he says,
+"it may seem as if the most sensible utterance on the subject is that of
+the fool of the play: 'The future! Good heavens, we know nothing of the
+future.'" The best retort to this criticism is that which Eilert himself
+makes: "There's a thing or two to be said about it all the same." The
+intelligent forecasting of the future (as Mr. H. G. Wells has shown)
+is not only clearly distinguishable from fantastic Utopianism, but is
+indispensable to any large statesmanship or enlightened social activity. With very real and very great respect for Dr. Brandes, I cannot think
+that he has been fortunate in his treatment of Lovborg's character. It has been represented as an absurdity that he would think of reading
+abstracts from his new book to a man like Tesman, whom he despises. But
+though Tesman is a ninny, he is, as Hedda says, a "specialist"--he is a
+competent, plodding student of his subject. Lovborg may quite naturally
+wish to see how his new method, or his excursion into a new field,
+strikes the average scholar of the Tesman type. He is, in fact, "trying
+it on the dog"--neither an unreasonable nor an unusual proceeding. There
+is, no doubt, a certain improbability in the way in which Lovborg is
+represented as carrying his manuscript around, and especially in Mrs.
+Elvsted's production of his rough draft from her pocket; but these are
+mechanical trifles, on which only a niggling criticism would dream of
+laying stress. Of all Ibsen's works, _Hedda Gabler_ is the most detached, the most
+objective--a character-study pure and simple. It is impossible--or so
+it seems to me--to extract any sort of general idea from it. One cannot
+even call it a satire, unless one is prepared to apply that term to the
+record of a "case" in a work of criminology. Reverting to Dumas's dictum
+that a play should contain "a painting, a judgment, an ideal," we may
+say the _Hedda Gabler_ fulfils only the first of these requirements. The
+poet does not even pass judgment on his heroine: he simply paints her
+full-length portrait with scientific impassivity. But what a portrait! How searching in insight, how brilliant in colouring, how rich in
+detail! Grant Allen's remark, above quoted, was, of course, a whimsical
+exaggeration; the Hedda type is not so common as all that, else the
+world would quickly come to an end. But particular traits and tendencies
+of the Hedda type are very common in modern life, and not only among
+women. Hyperaesthesia lies at the root of her tragedy. With a keenly
+critical, relentlessly solvent intelligence, she combines a morbid
+shrinking from all the gross and prosaic detail of the sensual life. She has nothing to take her out of herself--not a single intellectual
+interest or moral enthusiasm. She cherishes, in a languid way, a petty
+social ambition; and even that she finds obstructed and baffled. At the
+same time she learns that another woman has had the courage to love and
+venture all, where she, in her cowardice, only hankered and refrained. Her malign egoism rises up uncontrolled, and calls to its aid her quick
+and subtle intellect. She ruins the other woman's happiness, but in
+doing so incurs a danger from which her sense of personal dignity
+revolts. Life has no such charm for her that she cares to purchase it at
+the cost of squalid humiliation and self-contempt. The good and the bad
+in her alike impel her to have done with it all; and a pistol-shot
+ends what is surely one of the most poignant character-tragedies in
+literature. Ibsen's brain never worked at higher pressure than in the
+conception and adjustment of those "crowded hours" in which Hedda,
+tangled in the web of Will and Circumstance, struggles on till she is
+too weary to struggle any more. It may not be superfluous to note that the "a" in "Gabler" should be
+sounded long and full, like the "a" in "Garden"--NOT like the "a" in
+"gable" or in "gabble." W. A.
+
+
+FOOTNOTES. (1)Letters 214, 216, 217, 219. (2)In the Ibsen volume of _Die Literatur_ (Berlin). (3)Dr. Julius Elias (_Neue deutsche Rundschau_, December 1906, p. 1462)
+     makes the curious assertion that the character of Thea Elvsted was
+     in part borrowed from this "Gossensasser Hildetypus." It is hard to
+     see how even Gibes' ingenuity could distil from the same flower two
+     such different essences as Thea and Hilda. (4)See article by Herman Bang in _Neue deutsche Rundschau_, December
+     1906, p. 1495. (5)Dr. Brahm (_Neue deutsche Rundschau_, December 1906, P. 1422) says
+     that after the first performance of _Hedda Gabler_ in Berlin Ibsen
+     confided to him that the character had been suggested by a German
+     lady whom he met in Munich, and who did not shoot, but poisoned
+     herself. Nothing more seems to be known of this lady. See, too,
+     an article by Julius Elias in the same magazine, p. 1460. Transcriber's Note:
+
+The inclusion or omission of commas between repeated words ("well,
+well"; "there there", etc.) in this etext is reproduced faithfully from
+both the 1914 and 1926 editions of _Hedda Gabler_, copyright 1907 by
+Charles Scribner's Sons. Modern editions of the same translation use the
+commas consistently throughout.--D.L. HEDDA GABLER. PLAY IN FOUR ACTS. CHARACTERS. GEORGE TESMAN. *
+  HEDDA TESMAN, his wife. MISS JULIANA TESMAN, his aunt. MRS. ELVSTED. JUDGE** BRACK. EILERT LOVBORG. BERTA, servant at the Tesmans. *Tesman, whose Christian name in the original is "Jorgen," is
+  described as "stipendiat i kulturhistorie"--that is to say, the
+  holder of a scholarship for purposes of research into the History
+  of Civilisation. **In the original "Assessor." The scene of the action is Tesman's villa, in the west end
+  of Christiania. ACT FIRST. A spacious, handsome, and tastefully furnished drawing room,
+  decorated in dark colours. In the back, a wide doorway with
+  curtains drawn back, leading into a smaller room decorated
+  in the same style as the drawing-room. In the right-hand
+  wall of the front room, a folding door leading out to the
+  hall. In the opposite wall, on the left, a glass door, also
+  with curtains drawn back. Through the panes can be seen
+  part of a verandah outside, and trees covered with autumn
+  foliage. An oval table, with a cover on it, and surrounded
+  by chairs, stands well forward. In front, by the wall on
+  the right, a wide stove of dark porcelain, a high-backed
+  arm-chair, a cushioned foot-rest, and two footstools. A
+  settee, with a small round table in front of it, fills the
+  upper right-hand corner. In front, on the left, a little
+  way from the wall, a sofa. Further back than the glass
+  door, a piano. On either side of the doorway at the back
+  a whatnot with terra-cotta and majolica ornaments.--
+  Against the back wall of the inner room a sofa, with a
+  table, and one or two chairs. Over the sofa hangs the
+  portrait of a handsome elderly man in a General's uniform. Over the table a hanging lamp, with an opal glass shade.--A
+  number of bouquets are arranged about the drawing-room, in
+  vases and glasses. Others lie upon the tables. The floors
+  in both rooms are covered with thick carpets.--Morning light. The sun shines in through the glass door. MISS JULIANA TESMAN, with her bonnet on a carrying a parasol,
+  comes in from the hall, followed by BERTA, who carries a
+  bouquet wrapped in paper. MISS TESMAN is a comely and pleasant-
+  looking lady of about sixty-five. She is nicely but simply
+  dressed in a grey walking-costume. BERTA is a middle-aged
+  woman of plain and rather countrified appearance. MISS TESMAN. [Stops close to the door, listens, and says softly:] Upon my word, I
+don't believe they are stirring yet! BERTA. [Also softly.] I told you so, Miss. Remember how late the steamboat got
+in last night. And then, when they got home!--good Lord, what a lot the
+young mistress had to unpack before she could get to bed. MISS TESMAN. Well well--let them have their sleep out. But let us see that they get a
+good breath of the fresh morning air when they do appear. [She goes to the glass door and throws it open. BERTA. [Beside the table, at a loss what to do with the bouquet in her hand.] I declare there isn't a bit of room left. I think I'll put it down here,
+Miss. [She places it on the piano. MISS TESMAN. So you've got a new mistress now, my dear Berta. Heaven knows it was a
+wrench to me to part with you. BERTA. [On the point of weeping.] And do you think it wasn't hard for me, too,
+Miss? After all the blessed years I've been with you and Miss Rina. (1)
+
+
+MISS TESMAN. We must make the best of it, Berta. There was nothing else to be done. George can't do without you, you see-he absolutely can't. He has had you
+to look after him ever since he was a little boy. BERTA. Ah but, Miss Julia, I can't help thinking of Miss Rina lying helpless
+at home there, poor thing. And with only that new girl too! She'll never
+learn to take proper care of an invalid. MISS TESMAN. Oh, I shall manage to train her. And of course, you know, I shall take
+most of it upon myself. You needn't be uneasy about my poor sister, my
+dear Berta. BERTA. Well, but there's another thing, Miss. I'm so mortally afraid I shan't
+be able to suit the young mistress. MISS TESMAN. Oh well--just at first there may be one or two things--
+
+
+BERTA. Most like she'll be terrible grand in her ways. MISS TESMAN. Well, you can't wonder at that--General Gabler's daughter! Think of
+the sort of life she was accustomed to in her father's time. Don't you
+remember how we used to see her riding down the road along with the
+General? In that long black habit--and with feathers in her hat? BERTA. Yes, indeed--I remember well enough!--But, good Lord, I should never
+have dreamt in those days that she and Master George would make a match
+of it. MISS TESMAN. Nor I.--But by-the-bye, Berta--while I think of it: in future you
+mustn't say Master George. You must say Dr. Tesman. BERTA. Yes, the young mistress spoke of that too--last night--the moment they
+set foot in the house. Is it true then, Miss? MISS TESMAN. Yes, indeed it is. Only think, Berta--some foreign university has made
+him a doctor--while he has been abroad, you understand. I hadn't heard a
+word about it, until he told me himself upon the pier. BERTA. Well well, he's clever enough for anything, he is. But I didn't think
+he'd have gone in for doctoring people. MISS TESMAN. No no, it's not that sort of doctor he is. [Nods significantly.] But
+let me tell you, we may have to call him something still grander before
+long. BERTA. You don't say so! What can that be, Miss? MISS TESMAN. [Smiling.] H'm--wouldn't you like to know! [With emotion.] Ah, dear
+dear--if my poor brother could only look up from his grave now, and
+see what his little boy has grown into! [Looks around.] But bless me,
+Berta--why have you done this? Taken the chintz covers off all the
+furniture. BERTA. The mistress told me to. She can't abide covers on the chairs, she says. MISS TESMAN. Are they going to make this their everyday sitting-room then? BERTA. Yes, that's what I understood--from the mistress. Master George--the
+doctor--he said nothing. GEORGE TESMAN comes from the right into the inner room,
+  humming to himself, and carrying an unstrapped empty
+  portmanteau. He is a middle-sized, young-looking man of
+  thirty-three, rather stout, with a round, open, cheerful
+  face, fair hair and beard. He wears spectacles, and is
+  somewhat carelessly dressed in comfortable indoor clothes. MISS TESMAN. Good morning, good morning, George. TESMAN. [In the doorway between the rooms.] Aunt Julia! Dear Aunt Julia! [Goes
+up to her and shakes hands warmly.] Come all this way--so early! Eh? MISS TESMAN. Why, of course I had to come and see how you were getting on. TESMAN. In spite of your having had no proper night's rest? MISS TESMAN. Oh, that makes no difference to me. TESMAN. Well, I suppose you got home all right from the pier? Eh? MISS TESMAN. Yes, quite safely, thank goodness. Judge Brack was good enough to see me
+right to my door. TESMAN. We were so sorry we couldn't give you a seat in the carriage. But you
+saw what a pile of boxes Hedda had to bring with her. MISS TESMAN. Yes, she had certainly plenty of boxes. BERTA. [To TESMAN.] Shall I go in and see if there's anything I can do for the
+mistress? TESMAN. No thank you, Berta--you needn't. She said she would ring if she wanted
+anything. BERTA. [Going towards the right.] Very well. TESMAN. But look here--take this portmanteau with you. BERTA. [Taking it.] I'll put it in the attic. [She goes out by the hall door. TESMAN. Fancy, Auntie--I had the whole of that portmanteau chock full of copies
+of the documents. You wouldn't believe how much I have picked up from
+all the archives I have been examining--curious old details that no one
+has had any idea of--
+
+
+MISS TESMAN. Yes, you don't seem to have wasted your time on your wedding trip,
+George. TESMAN. No, that I haven't. But do take off your bonnet, Auntie. Look here! Let
+me untie the strings--eh? MISS TESMAN. [While he does so.] Well well--this is just as if you were still at home
+with us. TESMAN. [With the bonnet in his hand, looks at it from all sides.] Why, what a
+gorgeous bonnet you've been investing in! MISS TESMAN. I bought it on Hedda's account. TESMAN. On Hedda's account? Eh? MISS TESMAN. Yes, so that Hedda needn't be ashamed of me if we happened to go out
+together. TESMAN. [Patting her cheek.] You always think of everything, Aunt Julia. [Lays
+the bonnet on a chair beside the table.] And now, look here--suppose we
+sit comfortably on the sofa and have a little chat, till Hedda comes. [They seat themselves. She places her parasol in the corner
+       of the sofa. MISS TESMAN. [Takes both his hands and looks at him.] What a delight it is to have
+you again, as large as life, before my very eyes, George! My George--my
+poor brother's own boy! TESMAN. And it's a delight for me, too, to see you again, Aunt Julia! You, who
+have been father and mother in one to me. MISS TESMAN. Oh yes, I know you will always keep a place in your heart for your old
+aunts. TESMAN. And what about Aunt Rina? No improvement--eh? MISS TESMAN. Oh, no--we can scarcely look for any improvement in her case, poor
+thing. There she lies, helpless, as she has lain for all these years. But heaven grant I may not lose her yet awhile! For if I did, I don't
+know what I should make of my life, George--especially now that I
+haven't you to look after any more. TESMAN. [Patting her back.] There there there--! MISS TESMAN. [Suddenly changing her tone.] And to think that here are you a married
+man, George!--And that you should be the one to carry off Hedda Gabler
+--the beautiful Hedda Gabler! Only think of it--she, that was so beset
+with admirers! TESMAN. [Hums a little and smiles complacently.] Yes, I fancy I have several
+good friends about town who would like to stand in my shoes--eh? MISS TESMAN. And then this fine long wedding-tour you have had! More than five--
+nearly six months--
+
+
+TESMAN. Well, for me it has been a sort of tour of research as well. I have had
+to do so much grubbing among old records--and to read no end of books
+too, Auntie. MISS TESMAN. Oh yes, I suppose so. [More confidentially, and lowering her voice a
+little.] But listen now, George,--have you nothing--nothing special to
+tell me? TESMAN. As to our journey? MISS TESMAN. Yes. TESMAN. No, I don't know of anything except what I have told you in my letters. I had a doctor's degree conferred on me--but that I told you yesterday. MISS TESMAN. Yes, yes, you did. But what I mean is--haven't you any--any--
+expectations--? TESMAN. Expectations? MISS TESMAN. Why you know, George--I'm your old auntie! TESMAN. Why, of course I have expectations. MISS TESMAN. Ah! TESMAN. I have every expectation of being a professor one of these days. MISS TESMAN. Oh yes, a professor--
+
+
+TESMAN. Indeed, I may say I am certain of it. But my dear Auntie--you know all
+about that already! MISS TESMAN. [Laughing to herself.] Yes, of course I do. You are quite right there. [Changing the subject.] But we were talking about your journey. It must
+have cost a great deal of money, George? TESMAN. Well, you see--my handsome travelling-scholarship went a good way. MISS TESMAN. But I can't understand how you can have made it go far enough for two. TESMAN. No, that's not easy to understand--eh? MISS TESMAN. And especially travelling with a lady--they tell me that makes it ever
+so much more expensive. TESMAN. Yes, of course--it makes it a little more expensive. But Hedda had to
+have this trip, Auntie! She really had to. Nothing else would have done. MISS TESMAN. No no, I suppose not. A wedding-tour seems to be quite indispensable
+nowadays.--But tell me now--have you gone thoroughly over the house yet? TESMAN. Yes, you may be sure I have. I have been afoot ever since daylight. MISS TESMAN. And what do you think of it all? TESMAN. I'm delighted! Quite delighted! Only I can't think what we are to do
+with the two empty rooms between this inner parlour and Hedda's bedroom. MISS TESMAN. [Laughing.] Oh my dear George, I daresay you may find some use for
+them--in the course of time. TESMAN. Why of course you are quite right, Aunt Julia! You mean as my library
+increases--eh? MISS TESMAN. Yes, quite so, my dear boy. It was your library I was thinking of. TESMAN. I am specially pleased on Hedda's account. Often and often, before we
+were engaged, she said that she would never care to live anywhere but in
+Secretary Falk's villa. (2)
+
+
+MISS TESMAN. Yes, it was lucky that this very house should come into the market, just
+after you had started. TESMAN. Yes, Aunt Julia, the luck was on our side, wasn't it--eh? MISS TESMAN. But the expense, my dear George! You will find it very expensive, all
+this. TESMAN. [Looks at her, a little cast down.] Yes, I suppose I shall, Aunt! MISS TESMAN. Oh, frightfully! TESMAN. How much do you think? In round numbers?--Eh? MISS TESMAN. Oh, I can't even guess until all the accounts come in. TESMAN. Well, fortunately, Judge Brack has secured the most favourable terms for
+me, so he said in a letter to Hedda. MISS TESMAN. Yes, don't be uneasy, my dear boy.--Besides, I have given security for
+the furniture and all the carpets. TESMAN. Security? You? My dear Aunt Julia--what sort of security could you give? MISS TESMAN. I have given a mortgage on our annuity. TESMAN. [Jumps up.] What! On your--and Aunt Rina's annuity! MISS TESMAN. Yes, I knew of no other plan, you see. TESMAN. [Placing himself before her.] Have you gone out of your senses, Auntie? Your annuity--it's all that you and Aunt Rina have to live upon. MISS TESMAN. Well well--don't get so excited about it. It's only a matter of form you
+know--Judge Brack assured me of that. It was he that was kind enough to
+arrange the whole affair for me. A mere matter of form, he said. TESMAN. Yes, that may be all very well. But nevertheless--
+
+
+MISS TESMAN. You will have your own salary to depend upon now. And, good heavens,
+even if we did have to pay up a little--! To eke things out a bit at
+the start--! Why, it would be nothing but a pleasure to us. TESMAN. Oh Auntie--will you never be tired of making sacrifices for me! MISS TESMAN. [Rises and lays her hand on his shoulders.] Have I any other happiness
+in this world except to smooth your way for you, my dear boy. You, who
+have had neither father nor mother to depend on. And now we have reached
+the goal, George! Things have looked black enough for us, sometimes;
+but, thank heaven, now you have nothing to fear. TESMAN. Yes, it is really marvellous how every thing has turned out for the
+best. MISS TESMAN. And the people who opposed you--who wanted to bar the way for you--
+now you have them at your feet. They have fallen, George. Your most
+dangerous rival--his fall was the worst.--And now he has to lie on the
+bed he has made for himself--poor misguided creature. TESMAN. Have you heard anything of Eilert? Since I went away, I mean. MISS TESMAN. Only that he is said to have published a new book. TESMAN. What! Eilert Lovborg! Recently--eh? MISS TESMAN. Yes, so they say. Heaven knows whether it can be worth anything! Ah,
+when your new book appears--that will be another story, George! What is
+it to be about? TESMAN. It will deal with the domestic industries of Brabant during the Middle
+Ages. MISS TESMAN. Fancy--to be able to write on such a subject as that! TESMAN. However, it may be some time before the book is ready. I have all these
+collections to arrange first, you see. MISS TESMAN. Yes, collecting and arranging--no one can beat you at that. There you
+are my poor brother's own son. TESMAN. I am looking forward eagerly to setting to work at it; especially now
+that I have my own delightful home to work in. MISS TESMAN. And, most of all, now that you have got the wife of your heart, my dear
+George. TESMAN. [Embracing her.] Oh yes, yes, Aunt Julia! Hedda--she is the best part of
+it all! I believe I hear her coming--eh? HEDDA enters from the left through the inner room. Her face
+  and figure show refinement and distinction. Her complexion
+  is pale and opaque. Her steel-grey eyes express a cold,
+  unruffled repose. Her hair is of an agreeable brown, but
+  not particularly abundant. She is dressed in a tasteful,
+  somewhat loose-fitting morning gown. MISS TESMAN. [Going to meet HEDDA.] Good morning, my dear Hedda! Good morning, and a
+hearty welcome! HEDDA. [Holds out her hand.] Good morning, dear Miss Tesman! So early a call! That is kind of you. MISS TESMAN. [With some embarrassment.] Well--has the bride slept well in her new
+home? HEDDA. Oh yes, thanks. Passably. TESMAN. [Laughing.] Passably! Come, that's good, Hedda! You were sleeping like a
+stone when I got up. HEDDA. Fortunately. Of course one has always to accustom one's self to new
+surroundings, Miss Tesman--little by little. [Looking towards the left.] Oh, there the servant has gone and opened the veranda door, and let in a
+whole flood of sunshine. MISS TESMAN. [Going towards the door.] Well, then we will shut it. HEDDA. No no, not that! Tesman, please draw the curtains. That will give a
+softer light. TESMAN. [At the door.] All right--all right.--There now, Hedda, now you have
+both shade and fresh air. HEDDA. Yes, fresh air we certainly must have, with all these stacks of
+flowers--. But--won't you sit down, Miss Tesman? MISS TESMAN. No, thank you. Now that I have seen that everything is all right
+here--thank heaven!--I must be getting home again. My sister is lying
+longing for me, poor thing. TESMAN. Give her my very best love, Auntie; and say I shall look in and see her
+later in the day. MISS TESMAN. Yes, yes, I'll be sure to tell her. But by-the-bye, George--[Feeling
+in her dress pocket]--I had almost forgotten--I have something for you
+here. TESMAN. What is it, Auntie? Eh? MISS TESMAN. [Produces a flat parcel wrapped in newspaper and hands it to him.] Look
+here, my dear boy. TESMAN. [Opening the parcel.] Well, I declare!--Have you really saved
+them for me, Aunt Julia! Hedda! isn't this touching--eh? HEDDA. [Beside the whatnot on the right.] Well, what is it? TESMAN. My old morning-shoes! My slippers. HEDDA. Indeed. I remember you often spoke of them while we were abroad. TESMAN. Yes, I missed them terribly. [Goes up to her.] Now you shall see them,
+Hedda! HEDDA. [Going towards the stove.] Thanks, I really don't care about it. TESMAN. [Following her.] Only think--ill as she was, Aunt Rina embroidered these
+for me. Oh you can't think how many associations cling to them. HEDDA. [At the table.] Scarcely for me. MISS TESMAN. Of course not for Hedda, George. TESMAN. Well, but now that she belongs to the family, I thought--
+
+
+HEDDA. [Interrupting.] We shall never get on with this servant, Tesman. MISS TESMAN. Not get on with Berta? TESMAN. Why, dear, what puts that in your head? Eh? HEDDA. [Pointing.] Look there! She has left her old bonnet lying about on a
+chair. TESMAN. [In consternation, drops the slippers on the floor.] Why, Hedda--
+
+
+HEDDA. Just fancy, if any one should come in and see it! TESMAN. But Hedda--that's Aunt Julia's bonnet. HEDDA. Is it! MISS TESMAN. [Taking up the bonnet.] Yes, indeed it's mine. And, what's more, it's
+not old, Madam Hedda. HEDDA. I really did not look closely at it, Miss Tesman. MISS TESMAN. [Trying on the bonnet.] Let me tell you it's the first time I have worn
+it--the very first time. TESMAN. And a very nice bonnet it is too--quite a beauty! MISS TESMAN. Oh, it's no such great things, George. [Looks around her.] My
+parasol--? Ah, here. [Takes it.] For this is mine too-- [mutters] --not
+Berta's. TESMAN. A new bonnet and a new parasol! Only think, Hedda. HEDDA. Very handsome indeed. TESMAN. Yes, isn't it? Eh? But Auntie, take a good look at Hedda before you go! See how handsome she is! MISS TESMAN. Oh, my dear boy, there's nothing new in that. Hedda was always lovely. [She nods and goes toward the right. TESMAN. [Following.] Yes, but have you noticed what splendid condition she is
+in? How she has filled out on the journey? HEDDA. [Crossing the room.] Oh, do be quiet--! MISS TESMAN. [Who has stopped and turned.] Filled out? TESMAN. Of course you don't notice it so much now that she has that dress on. But I, who can see--
+
+
+HEDDA. [At the glass door, impatiently.] Oh, you can't see anything. TESMAN. It must be the mountain air in the Tyrol--
+
+
+HEDDA. [Curtly, interrupting.] I am exactly as I was when I started. TESMAN. So you insist; but I'm quite certain you are not. Don't you agree with
+me, Auntie? MISS TESMAN. [Who has been gazing at her with folded hands.] Hedda is lovely--
+lovely--lovely. [Goes up to her, takes her head between both hands,
+draws it downwards, and kisses her hair.] God bless and preserve Hedda
+Tesman--for George's sake. HEDDA. [Gently freeing herself.] Oh--! Let me go. MISS TESMAN. [In quiet emotion.] I shall not let a day pass without coming to see
+you. TESMAN. No you won't, will you, Auntie? Eh? MISS TESMAN. Good-bye--good-bye! [She goes out by the hall door. TESMAN accompanies her. The
+       door remains half open. TESMAN can be heard repeating his
+       message to Aunt Rina and his thanks for the slippers. [In the meantime, HEDDA walks about the room, raising her arms
+       and clenching her hands as if in desperation. Then she flings
+       back the curtains from the glass door, and stands there looking
+       out. [Presently, TESMAN returns and closes the door behind him. TESMAN. [Picks up the slippers from the floor.] What are you looking at, Hedda? HEDDA. [Once more calm and mistress of herself.] I am only looking at the
+leaves. They are so yellow--so withered. TESMAN. [Wraps up the slippers and lays them on the table.] Well, you see, we
+are well into September now. HEDDA. [Again restless.] Yes, to think of it!--already in--in September. TESMAN. Don't you think Aunt Julia's manner was strange, dear? Almost solemn? Can you imagine what was the matter with her? Eh? HEDDA. I scarcely know her, you see. Is she not often like that? TESMAN. No, not as she was to-day. HEDDA. [Leaving the glass door.] Do you think she was annoyed about the bonnet? TESMAN. Oh, scarcely at all. Perhaps a little, just at the moment--
+
+
+HEDDA. But what an idea, to pitch her bonnet about in the drawing-room! No one
+does that sort of thing. TESMAN. Well you may be sure Aunt Julia won't do it again. HEDDA. In any case, I shall manage to make my peace with her. TESMAN. Yes, my dear, good Hedda, if you only would. HEDDA. When you call this afternoon, you might invite her to spend the evening
+here. TESMAN. Yes, that I will. And there's one thing more you could do that would
+delight her heart. HEDDA. What is it? TESMAN. If you could only prevail on yourself to say _du_(3) to her. For my
+sake, Hedda? Eh? HEDDA. No, no, Tesman--you really mustn't ask that of me. I have told you so
+already. I shall try to call her "Aunt"; and you must be satisfied with
+that. TESMAN. Well well. Only I think now that you belong to the family, you--
+
+
+HEDDA. H'm--I can't in the least see why--
+
+     [She goes up towards the middle doorway. TESMAN. [After a pause.] Is there anything the matter with you, Hedda? Eh? HEDDA. I'm only looking at my old piano. It doesn't go at all well with all the
+other things. TESMAN. The first time I draw my salary, we'll see about exchanging it. HEDDA. No, no--no exchanging. I don't want to part with it. Suppose we put it
+there in the inner room, and then get another here in its place. When
+it's convenient, I mean. TESMAN. [A little taken aback.] Yes--of course we could do that. HEDDA. [Takes up the bouquet from the piano.] These flowers were not here last
+night when we arrived. TESMAN. Aunt Julia must have brought them for you. HEDDA. [Examining the bouquet.] A visiting-card. [Takes it out and reads:]
+"Shall return later in the day." Can you guess whose card it is? TESMAN. No. Whose? Eh? HEDDA. The name is "Mrs. Elvsted." TESMAN. Is it really? Sheriff Elvsted's wife? Miss Rysing that was. HEDDA. Exactly. The girl with the irritating hair, that she was always showing
+off. An old flame of yours I've been told. TESMAN. [Laughing.] Oh, that didn't last long; and it was before I met you,
+Hedda. But fancy her being in town! HEDDA. It's odd that she should call upon us. I have scarcely seen her since we
+left school. TESMAN. I haven't see her either for--heaven knows how long. I wonder how she
+can endure to live in such an out-of-the way hole--eh? HEDDA. [After a moment's thought, says suddenly.] Tell me, Tesman--isn't it
+somewhere near there that he--that--Eilert Lovborg is living? TESMAN. Yes, he is somewhere in that part of the country. BERTA enters by the hall door. BERTA. That lady, ma'am, that brought some flowers a little while ago, is here
+again. [Pointing.] The flowers you have in your hand, ma'am. HEDDA. Ah, is she? Well, please show her in. BERTA opens the door for MRS. ELVSTED, and goes out herself. --MRS. ELVSTED is a woman of fragile figure, with pretty,
+  soft features. Her eyes are light blue, large, round, and
+  somewhat prominent, with a startled, inquiring expression. Her hair is remarkably light, almost flaxen, and unusually
+  abundant and wavy. She is a couple of years younger than
+  HEDDA. She wears a dark visiting dress, tasteful, but not
+  quite in the latest fashion. HEDDA. [Receives her warmly.] How do you do, my dear Mrs. Elvsted? It's
+delightful to see you again. MRS. ELVSTED. [Nervously, struggling for self-control.] Yes, it's a very long time
+since we met. TESMAN. [Gives her his hand.] And we too--eh? HEDDA. Thanks for your lovely flowers--
+
+
+MRS. ELVSTED. Oh, not at all--. I would have come straight here yesterday afternoon;
+but I heard that you were away--
+
+
+TESMAN. Have you just come to town? Eh? MRS. ELVSTED. I arrived yesterday, about midday. Oh, I was quite in despair when I
+heard that you were not at home. HEDDA. In despair! How so? TESMAN. Why, my dear Mrs. Rysing--I mean Mrs. Elvsted--
+
+
+HEDDA. I hope that you are not in any trouble? MRS. ELVSTED. Yes, I am. And I don't know another living creature here that I can turn
+to. HEDDA. [Laying the bouquet on the table.] Come--let us sit here on the sofa--
+
+
+MRS. ELVSTED. Oh, I am too restless to sit down. HEDDA. Oh no, you're not. Come here. [She draws MRS. ELVSTED down upon the sofa and sits at her side. TESMAN. Well? What is it, Mrs. Elvsted--? HEDDA. Has anything particular happened to you at home? MRS. ELVSTED. Yes--and no. Oh--I am so anxious you should not misunderstand me--
+
+
+HEDDA. Then your best plan is to tell us the whole story, Mrs. Elvsted. TESMAN. I suppose that's what you have come for--eh? MRS. ELVSTED. Yes, yes--of course it is. Well then, I must tell you--if you don't
+already know--that Eilert Lovborg is in town, too. HEDDA. Lovborg--! TESMAN. What! Has Eilert Lovborg come back? Fancy that, Hedda! HEDDA. Well well--I hear it. MRS. ELVSTED. He has been here a week already. Just fancy--a whole week! In this
+terrible town, alone! With so many temptations on all sides. HEDDA. But, my dear Mrs. Elvsted--how does he concern you so much? MRS. ELVSTED. [Looks at her with a startled air, and says rapidly.] He was the
+children's tutor. HEDDA. Your children's? MRS. ELVSTED. My husband's. I have none. HEDDA. Your step-children's, then? MRS. ELVSTED. Yes. TESMAN. [Somewhat hesitatingly.] Then was he--I don't know how to express
+it--was he--regular enough in his habits to be fit for the post? Eh? MRS. ELVSTED. For the last two years his conduct has been irreproachable. TESMAN. Has it indeed? Fancy that, Hedda! HEDDA. I hear it. MRS. ELVSTED. Perfectly irreproachable, I assure you! In every respect. But all the
+same--now that I know he is here--in this great town--and with a large
+sum of money in his hands--I can't help being in mortal fear for him. TESMAN. Why did he not remain where he was? With you and your husband? Eh? MRS. ELVSTED. After his book was published he was too restless and unsettled to remain
+with us. TESMAN. Yes, by-the-bye, Aunt Julia told me he had published a new book. MRS. ELVSTED. Yes, a big book, dealing with the march of civilisation--in broad
+outline, as it were. It came out about a fortnight ago. And since it has
+sold so well, and been so much read--and made such a sensation--
+
+
+TESMAN. Has it indeed? It must be something he has had lying by since his better
+days. MRS. ELVSTED. Long ago, you mean? TESMAN. Yes. MRS. ELVSTED. No, he has written it all since he has been with us--within the last
+year. TESMAN. Isn't that good news, Hedda? Think of that. MRS. ELVSTED. Ah yes, if only it would last! HEDDA. Have you seen him here in town? MRS. ELVSTED. No, not yet. I have had the greatest difficulty in finding out his
+address. But this morning I discovered it at last. HEDDA. [Looks searchingly at her.] Do you know, it seems to me a little odd of
+your husband--h'm--
+
+
+MRS. ELVSTED. [Starting nervously.] Of my husband! What? HEDDA. 

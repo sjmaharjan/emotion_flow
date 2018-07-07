@@ -1,0 +1,1476 @@
+
+
+
+
+Produced by Christopher Hapka
+
+
+
+
+
+CHILD OF STORM
+
+by H. RIDER HAGGARD
+
+
+
+
+Transcriber's Note:
+
+Where italics are used to indicate non-English words, I have silently
+omitted them or replaced them with quotation marks. Haggard's spelling, especially of Zulu terms, is wildly inconsistent;
+likewise his capitalization, especially of Zulu terms. For example,
+Masapo is the chief of the Amansomi until chapter IX; thereafter his
+tribe is consistently referred to as the "Amasomi". In general, I have
+retained Haggard's spellings. DEDICATION
+
+
+Dear Mr. Stuart,
+
+For twenty years, I believe I am right in saying, you, as Assistant
+Secretary for Native Affairs in Natal, and in other offices, have been
+intimately acquainted with the Zulu people. Moreover, you are one of
+the few living men who have made a deep and scientific study of their
+language, their customs and their history. So I confess that I was the
+more pleased after you were so good as to read this tale--the
+second book of the epic of the vengeance of Zikali, "the
+Thing-that-should-never-have-been-born," and of the fall of the House of
+Senzangakona[*]--when you wrote to me that it was animated by the true
+Zulu spirit. [*--"Marie" was the first. The third and final act in the
+     drama is yet to come.]. I must admit that my acquaintance with this people dates from a period
+which closed almost before your day. What I know of them I gathered
+at the time when Cetewayo, of whom my volume tells, was in his glory,
+previous to the evil hour in which he found himself driven by the
+clamour of his regiments, cut off, as they were, through the annexation
+of the Transvaal, from their hereditary trade of war, to match himself
+against the British strength. I learned it all by personal observation
+in the 'seventies, or from the lips of the great Shepstone, my chief and
+friend, and from my colleagues Osborn, Fynney, Clarke and others, every
+one of them long since "gone down." Perhaps it may be as well that this is so, at any rate in the case of
+one who desires to write of the Zulus as a reigning nation, which now
+they have ceased to be, and to try to show them as they were, in all
+their superstitious madness and bloodstained grandeur. Yet then they had virtues as well as vices. To serve their Country in
+arms, to die for it and for the King; such was their primitive ideal. If
+they were fierce they were loyal, and feared neither wounds nor doom; if
+they listened to the dark redes of the witch-doctor, the trumpet-call
+of duty sounded still louder in their ears; if, chanting their terrible
+"Ingoma," at the King's bidding they went forth to slay unsparingly, at
+least they were not mean or vulgar. From those who continually must face
+the last great issues of life or death meanness and vulgarity are
+far removed. These qualities belong to the safe and crowded haunts of
+civilised men, not to the kraals of Bantu savages, where, at any rate of
+old, they might be sought in vain. Now everything is changed, or so I hear, and doubtless in the balance
+this is best. Still we may wonder what are the thoughts that pass
+through the mind of some ancient warrior of Chaka's or Dingaan's time,
+as he suns himself crouched on the ground, for example, where once stood
+the royal kraal, Duguza, and watches men and women of the Zulu blood
+passing homeward from the cities or the mines, bemused, some of them,
+with the white man's smuggled liquor, grotesque with the white man's
+cast-off garments, hiding, perhaps, in their blankets examples of the
+white man's doubtful photographs--and then shuts his sunken eyes and
+remembers the plumed and kilted regiments making that same ground shake
+as, with a thunder of salute, line upon line, company upon company, they
+rushed out to battle. Well, because the latter does not attract me, it is of this former time
+that I have tried to write--the time of the Impis and the witch-finders
+and the rival princes of the royal House--as I am glad to learn from
+you, not quite in vain. Therefore, since you, so great an expert,
+approve of my labours in the seldom-travelled field of Zulu story, I ask
+you to allow me to set your name upon this page and subscribe myself,
+
+Gratefully and sincerely yours,
+
+
+H. RIDER HAGGARD. Ditchingham, 12th October, 1912. To James Stuart, Esq., Late Assistant Secretary for Native Affairs,
+Natal. AUTHOR'S NOTE
+
+Mr. Allan Quatermain's story of the wicked and fascinating Mameena,
+a kind of Zulu Helen, has, it should be stated, a broad foundation in
+historical fact. Leaving Mameena and her wiles on one side, the tale of
+the struggle between the Princes Cetewayo and Umbelazi for succession to
+the throne of Zululand is true. When the differences between these sons of his became intolerable,
+because of the tumult which they were causing in his country, King
+Panda, their father, the son of Senzangakona, and the brother of the
+great Chaka and of Dingaan, who had ruled before him, did say that "when
+two young bulls quarrel they had better fight it out." So, at least, I
+was told by the late Mr. F. B. Fynney, my colleague at the time of the
+annexation of the Transvaal in 1877, who, as Zulu Border Agent, with the
+exceptions of the late Sir Theophilus Shepstone and the late Sir Melmoth
+Osborn, perhaps knew more of that land and people than anyone else of
+his period. As a result of this hint given by a maddened king, the great battle of
+the Tugela was fought at Endondakusuka in December, 1856, between the
+Usutu party, commanded by Cetewayo, and the adherents of Umbelazi
+the Handsome, his brother, who was known among the Zulus as
+"Indhlovu-ene-Sihlonti," or the "Elephant with the tuft of hair," from a
+little lock of hair which grew low down upon his back. My friend, Sir Melmoth Osborn, who died in or about the year 1897, was
+present at this battle, although not as a combatant. Well do I remember
+his thrilling story, told to me over thirty years ago, of the events of
+that awful day. Early in the morning, or during the previous night, I forget which, he
+swam his horse across the Tugela and hid with it in a bush-clad kopje,
+blindfolding the animal with his coat lest it should betray him. As it
+chanced, the great fight of the day, that of the regiment of veterans,
+which Sir Melmoth informed me Panda had sent down at the last moment to
+the assistance of Umbelazi, his favourite son, took place almost at
+the foot of this kopje. Mr. Quatermain, in his narrative, calls this
+regiment the Amawombe, but my recollection is that the name Sir Melmoth
+Osborn gave them was "The Greys" or "Upunga." Whatever their exact title may have been, however, they made a great
+stand. At least, he told me that when Umbelazi's impi, or army, began to
+give before the Usutu onslaught, these "Greys" moved forward above 3,000
+strong, drawn up in a triple line, and were charged by one of Cetewayo's
+regiments. The opposing forces met, and the noise of their clashing shields, said
+Sir Melmoth, was like the roll of heavy thunder. Then, while he watched,
+the veteran "Greys" passed over the opposing regiment "as a wave passes
+over a rock"--these were his exact words--and, leaving about a third of
+their number dead or wounded among the bodies of the annihilated foe,
+charged on to meet a second regiment sent against them by Cetewayo. With
+these the struggle was repeated, but again the "Greys" conquered. Only
+now there were not more than five or six hundred of them left upon their
+feet. These survivors ran to a mound, round which they formed a ring, and
+here for a long while withstood the attack of a third regiment, until
+at length they perished almost to a man, buried beneath heaps of their
+slain assailants, the Usutu. Truly they made a noble end fighting thus against tremendous odds! As for the number who fell at this battle of Endondakusuka, Mr. Fynney,
+in a pamphlet which he wrote, says that six of Umbelazi's brothers died,
+"whilst it is estimated that upwards of 100,000 of the people--men,
+women and children--were slain"--a high and indeed an impossible
+estimate. That curious personage named John Dunn, an Englishman who became a
+Zulu chief, and who actually fought in this battle, as narrated by Mr.
+Quatermain, however, puts the number much lower. What the true total was
+will never be known; but Sir Melmoth Osborn told me that when he swam
+his horse back across the Tugela that night it was black with bodies;
+and Sir Theophilus Shepstone also told me that when he visited the scene
+a day or two later the banks of the river were strewn with multitudes of
+them, male and female. It was from Mr. Fynney that I heard the story of the execution by
+Cetewayo of the man who appeared before him with the ornaments of
+Umbelazi, announcing that he had killed the prince with his own hand. Of course, this tale, as Mr. Quatermain points out, bears a striking
+resemblance to that recorded in the Old Testament in connection with the
+death of King Saul. It by no means follows, however, that it is therefore apocryphal;
+indeed, Mr. Fynney assured me that it was quite true, although, if he
+gave me his authorities, I cannot remember them after a lapse of more
+than thirty years. The exact circumstances of Umbelazi's death are unknown, but the general
+report was that he died, not by the assegais of the Usutu, but of a
+broken heart. Another story declares that he was drowned. His body was
+never found, and it is therefore probable that it sank in the Tugela, as
+is suggested in the following pages. I have only to add that it is quite in accordance with Zulu beliefs
+that a man should be haunted by the ghost of one whom he has murdered
+or betrayed, or, to be more accurate, that the spirit ("umoya") should
+enter into the slayer and drive him mad. Or, in such a case, that spirit
+might bring misfortune upon him, his family, or his tribe. H. RIDER HAGGARD. CONTENTS
+
+     I.    ALLAN QUATERMAIN HEARS OF MAMEENA
+     II. THE MOONSHINE OF ZIKALI
+     III. THE BUFFALO WITH THE CLEFT HORN
+     IV. MAMEENA
+     V.    TWO BUCKS AND THE DOE
+     VI. THE AMBUSH
+     VII. SADUKO BRINGS THE MARRIAGE GIFT
+     VIII. THE KING'S DAUGHTER
+     IX. ALLAN RETURNS TO ZULULAND
+     X. THE SMELLING-OUT
+     XI. THE SIN OF UMBELAZI
+     XII. PANDA'S PRAYER
+     XIII. UMBELAZI THE FALLEN
+     XIV. UMBEZI AND THE BLOOD-ROYAL
+     XV. MAMEENA CLAIMS THE KISS
+     XVI. MAMEENA--MAMEENA--MAMEENA! CHAPTER I. ALLAN QUATERMAIN HEARS OF MAMEENA
+
+
+We white people think that we know everything. For instance, we think
+that we understand human nature. And so we do, as human nature appears
+to us, with all its trappings and accessories seen dimly through the
+glass of our conventions, leaving out those aspects of it which we have
+forgotten or do not think it polite to mention. But I, Allan Quatermain,
+reflecting upon these matters in my ignorant and uneducated fashion,
+have always held that no one really understands human nature who has
+not studied it in the rough. Well, that is the aspect of it with which I
+have been best acquainted. For most of the years of my life I have handled the raw material, the
+virgin ore, not the finished ornament that is smelted out of it--if,
+indeed, it is finished yet, which I greatly doubt. I dare say that a
+time may come when the perfected generations--if Civilisation, as we
+understand it, really has a future and any such should be allowed
+to enjoy their hour on the World--will look back to us as crude,
+half-developed creatures whose only merit was that we handed on the
+flame of life. Maybe, maybe, for everything goes by comparison; and at one end of the
+ladder is the ape-man, and at the other, as we hope, the angel. No, not
+the angel; he belongs to a different sphere, but that last expression
+of humanity upon which I will not speculate. While man is man--that is,
+before he suffers the magical death-change into spirit, if such should
+be his destiny--well, he will remain man. I mean that the same passions
+will sway him; he will aim at the same ambitions; he will know the same
+joys and be oppressed by the same fears, whether he lives in a Kafir
+hut or in a golden palace; whether he walks upon his two feet or, as for
+aught I know he may do one day, flies through the air. This is certain:
+that in the flesh he can never escape from our atmosphere, and while
+he breathes it, in the main with some variations prescribed by climate,
+local law and religion, he will do much as his forefathers did for
+countless ages. That is why I have always found the savage so interesting, for in him,
+nakedly and forcibly expressed, we see those eternal principles which
+direct our human destiny. To descend from these generalities, that is why also I, who hate
+writing, have thought it worth while, at the cost of some labour to
+myself, to occupy my leisure in what to me is a strange land--for
+although I was born in England, it is not my country--in setting down
+various experiences of my life that do, in my opinion, interpret this
+our universal nature. I dare say that no one will ever read them; still,
+perhaps they are worthy of record, and who knows? In days to come they
+may fall into the hands of others and prove of value. At any rate, they
+are true stories of interesting peoples, who, if they should survive in
+the savage competition of the nations, probably are doomed to undergo
+great changes. Therefore I tell of them before they began to change. Now, although I take it out of its strict chronological order, the first
+of these histories that I wish to preserve is in the main that of an
+extremely beautiful woman--with the exception of a certain Nada, called
+"the Lily," of whom I hope to speak some day, I think the most beautiful
+that ever lived among the Zulus. Also she was, I think, the most able,
+the most wicked, and the most ambitious. Her attractive name--for it was
+very attractive as the Zulus said it, especially those of them who were
+in love with her--was Mameena, daughter of Umbezi. Her other name
+was Child of Storm (Ingane-ye-Sipepo, or, more freely and shortly,
+O-we-Zulu), but the word "Ma-mee-na" had its origin in the sound of the
+wind that wailed about the hut when she was born. [*]
+
+     [*--The Zulu word "Meena"--or more correctly "Mina"--means
+     "Come here," and would therefore be a name not unsuitable to
+     one of the heroine's proclivities; but Mr. Quatermain does
+     not seem to accept this interpretation.--EDITOR.] Since I have been settled in England I have read--of course in a
+translation--the story of Helen of Troy, as told by the Greek poet,
+Homer. Well, Mameena reminds me very much of Helen, or, rather, Helen
+reminds me of Mameena. At any rate, there was this in common between
+them, although one of them was black, or, rather, copper-coloured,
+and the other white--they both were lovely; moreover, they both were
+faithless, and brought men by hundreds to their deaths. There, perhaps,
+the resemblance ends, since Mameena had much more fire and grit than
+Helen could boast, who, unless Homer misrepresents her, must have been
+but a poor thing after all. Beauty Itself, which those old rascals of
+Greek gods made use of to bait their snares set for the lives and honour
+of men, such was Helen, no more; that is, as I understand her, who have
+not had the advantage of a classical education. Now, Mameena, although
+she was superstitious--a common weakness of great minds--acknowledging
+no gods in particular, as we understand them, set her own snares, with
+varying success but a very definite object, namely, that of becoming the
+first woman in the world as she knew it--the stormy, bloodstained world
+of the Zulus. But the reader shall judge for himself, if ever such a person should
+chance to cast his eye upon this history. It was in the year 1854 that I first met Mameena, and my acquaintance
+with her continued off and on until 1856, when it came to an end in a
+fashion that shall be told after the fearful battle of the Tugela in
+which Umbelazi, Panda's son and Cetewayo's brother--who, to his sorrow,
+had also met Mameena--lost his life. I was still a youngish man in
+those days, although I had already buried my second wife, as I have told
+elsewhere, after our brief but happy time of marriage. Leaving my boy in charge of some kind people in Durban, I started into
+"the Zulu"--a land with which I had already become well acquainted as a
+youth, there to carry on my wild life of trading and hunting. For the trading I never cared much, as may be guessed from the little
+that ever I made out of it, the art of traffic being in truth repugnant
+to me. But hunting was always the breath of my nostrils--not that I am
+fond of killing creatures, for any humane man soon wearies of slaughter. No, it is the excitement of sport, which, before breechloaders came in,
+was acute enough, I can assure you; the lonely existence in wild places,
+often with only the sun and the stars for companions; the continual
+adventures; the strange tribes with whom I came in contact; in short,
+the change, the danger, the hope always of finding something great and
+new, that attracted and still attracts me, even now when I _have_ found
+the great and the new. There, I must not go on writing like this, or I
+shall throw down my pen and book a passage for Africa, and incidentally
+to the next world, no doubt--that world of the great and new! It was, I think, in the month of May in the year 1854 that I went
+hunting in rough country between the White and Black Umvolosi Rivers, by
+permission of Panda--whom the Boers had made king of Zululand after the
+defeat and death of Dingaan his brother. The district was very feverish,
+and for this reason I had entered it in the winter months. There was so
+much bush that, in the total absence of roads, I thought it wise not
+to attempt to bring my wagons down, and as no horses would live in
+that veld I went on foot. My principal companions were a Kafir of mixed
+origin, called Sikauli, commonly abbreviated into Scowl, the Zulu chief
+Saduko, and a headman of the Undwandwe blood named Umbezi, at whose
+kraal on the high land about thirty miles away I left my wagon and
+certain of my men in charge of the goods and some ivory that I had
+traded. This Umbezi was a stout and genial-mannered man of about sixty years of
+age, and, what is rare among these people, one who loved sport for its
+own sake. Being aware of his tastes, also that he knew the country
+and was skilled in finding game, I had promised him a gun if he would
+accompany me and bring a few hunters. It was a particularly bad gun that
+had seen much service, and one which had an unpleasing habit of going
+off at half-cock; but even after he had seen it, and I in my honesty had
+explained its weaknesses, he jumped at the offer. "O Macumazana" (that is my native name, often abbreviated into
+Macumazahn, which means "One who stands out," or as many interpret it, I
+don't know how, "Watcher-by-Night")--"a gun that goes off sometimes when
+you do not expect it is much better than no gun at all, and you are a
+chief with a great heart to promise it to me, for when I own the White
+Man's weapon I shall be looked up to and feared by everyone between the
+two rivers." Now, while he was speaking he handled the gun, that was loaded,
+observing which I moved behind him. Off it went in due course, its
+recoil knocking him backwards--for that gun was a devil to kick--and its
+bullet cutting the top off the ear of one of his wives. The lady fled
+screaming, leaving a little bit of her ear upon the ground. "What does it matter?" said Umbezi, as he picked himself up, rubbing his
+shoulder with a rueful look. "Would that the evil spirit in the gun had
+cut off her tongue and not her ear! It is the Worn-out-Old-Cow's own
+fault; she is always peeping into everything like a monkey. Now she will
+have something to chatter about and leave my things alone for awhile. I
+thank my ancestral Spirit it was not Mameena, for then her looks would
+have been spoiled." "Who is Mameena?" I asked. "Your last wife?" "No, no, Macumazahn; I wish she were, for then I should have the most
+beautiful wife in the land. She is my daughter, though not that of the
+Worn-out-Old-Cow; her mother died when she was born, on the night of the
+Great Storm. You should ask Saduko there who Mameena is," he added with
+a broad grin, lifting his head from the gun, which he was examining
+gingerly, as though he thought it might go off again while unloaded, and
+nodding towards someone who stood behind him. I turned, and for the first time saw Saduko, whom I recognised at once
+as a person quite out of the ordinary run of natives. He was a tall and magnificently formed young man, who, although his
+breast was scarred with assegai wounds, showing that he was a warrior,
+had not yet attained to the honour of the "ring" of polished wax laid
+over strips of rush bound round with sinew and sewn to the hair, the
+"isicoco" which at a certain age or dignity, determined by the king,
+Zulus are allowed to assume. But his face struck me more even than his
+grace, strength and stature. Undoubtedly it was a very fine face, with
+little or nothing of the negroid type about it; indeed, he might have
+been a rather dark-coloured Arab, to which stock he probably threw back. The eyes, too, were large and rather melancholy, and in his reserved,
+dignified air there was something that showed him to be no common
+fellow, but one of breeding and intellect. "Siyakubona" (that is, "we see you," anglice "good morrow") "Saduko," I
+said, eyeing him curiously. "Tell me, who is Mameena?" "Inkoosi," he answered in his deep voice, lifting his delicately shaped
+hand in salutation, a courtesy that pleased me who, after all, was
+nothing but a white hunter, "Inkoosi, has not her father said that she
+is his daughter?" "Aye," answered the jolly old Umbezi, "but what her father has not said
+is that Saduko is her lover, or, rather, would like to be. Wow! Saduko,"
+he went on, shaking his fat finger at him, "are you mad, man, that you
+think a girl like that is for you? Give me a hundred cattle, not one
+less, and I will begin to think of it. Why, you have not ten, and
+Mameena is my eldest daughter, and must marry a rich man." "She loves me, O Umbezi," answered Saduko, looking down, "and that is
+more than cattle." "For you, perhaps, Saduko, but not for me who am poor and want cows. Also," he added, glancing at him shrewdly, "are you so sure that Mameena
+loves you though you be such a fine man? Now, I should have thought that
+whatever her eyes may say, her heart loves no one but herself, and
+that in the end she will follow her heart and not her eyes. Mameena the
+beautiful does not seek to be a poor man's wife and do all the hoeing. But bring me the hundred cattle and we will see, for, speaking truth
+from my heart, if you were a big chief there is no one I should like
+better as a son-in-law, unless it were Macumazahn here," he said,
+digging me in the ribs with his elbow, "who would lift up my House on
+his white back." Now, at this speech Saduko shifted his feet uneasily; it seemed to me
+as though he felt there was truth in Umbezi's estimate of his daughter's
+character. But he only said:
+
+"Cattle can be acquired." "Or stolen," suggested Umbezi. "Or taken in war," corrected Saduko. "When I have a hundred head I will
+hold you to your word, O father of Mameena." "And then what would you live on, fool, if you gave all your beasts to
+me? There, there, cease talking wind. Before you have a hundred head of
+cattle Mameena will have six children who will not call _you_ father. Ah, don't you like that? Are you going away?" "Yes, I am going," he answered, with a flash of his quiet eyes; "only
+then let the man whom they do call father beware of Saduko." "Beware of how you talk, young man," said Umbezi in a grave voice. "Would you travel your father's road? I hope not, for I like you well;
+but such words are apt to be remembered." Saduko walked away as though he did not hear. "Who is he?" I asked. "One of high blood," answered Umbezi shortly. "He might be a chief
+to-day had not his father been a plotter and a wizard. Dingaan smelt him
+out"--and he made a sideways motion with his hand that among the Zulus
+means much. "Yes, they were killed, almost every one; the chief, his
+wives, his children and his headmen--every one except Chosa
+his brother and his son Saduko, whom Zikali the dwarf, the
+Smeller-out-of-evil-doers, the Ancient, who was old before Senzangakona
+became a father of kings, hid him. There, that is an evil tale to talk
+of," and he shivered. "Come, White Man, and doctor that old Cow of mine,
+or she will give me no peace for months." So I went to see the Worn-out-Old-Cow--not because I had any particular
+interest in her, for, to tell the truth, she was a very disagreeable and
+antique person, the cast-off wife of some chief whom at an unknown date
+in the past the astute Umbezi had married from motives of policy--but
+because I hoped to hear more of Miss Mameena, in whom I had become
+interested. Entering a large hut, I found the lady so impolitely named "the Old Cow"
+in a parlous state. There she lay upon the floor, an unpleasant object
+because of the blood that had escaped from her wound, surrounded by a
+crowd of other women and of children. At regular intervals she announced
+that she was dying, and emitted a fearful yell, whereupon all the
+audience yelled also; in short, the place was a perfect pandemonium. Telling Umbezi to get the hut cleared, I said that I would go to fetch
+my medicines. Meanwhile I ordered my servant, Scowl, a humorous-looking
+fellow, light yellow in hue, for he had a strong dash of Hottentot in
+his composition, to cleanse the wound. When I returned from the wagon
+ten minutes later the screams were more terrible than before, although
+the chorus now stood without the hut. Nor was this altogether wonderful,
+for on entering the place I found Scowl trimming up "the Old Cow's" ear
+with a pair of blunt nail-scissors. "O Macumazana," said Umbezi in a hoarse whisper, "might it not perhaps
+be as well to leave her alone? If she bled to death, at any rate she
+would be quieter." "Are you a man or a hyena?" I answered sternly, and set about the job,
+Scowl holding the poor woman's head between his knees. It was over at length; a simple operation in which I exhibited--I
+believe that is the medical term--a strong solution of caustic applied
+with a feather. "There, Mother," I said, for now we were alone in the hut, whence Scowl
+had fled, badly bitten in the calf, "you won't die now." "No, you vile White Man," she sobbed. "I shan't die, but how about my
+beauty?" "It will be greater than ever," I answered; "no one else will have an
+ear with such a curve in it. But, talking of beauty, where is Mameena?" "I don't know where she is," she replied with fury, "but I very well
+know where she would be if I had my way. That peeled willow-wand of
+a girl"--here she added certain descriptive epithets I will not
+repeat--"has brought this misfortune upon me. We had a slight quarrel
+yesterday, White Man, and, being a witch as she is, she prophesied evil. Yes, when by accident I scratched her ear, she said that before long
+mine should burn, and surely burn it does." (This, no doubt, was true,
+for the caustic had begun to bite.) "O devil of a White Man," she went on, "you have bewitched me; you have
+filled my head with fire." Then she seized an earthenware pot and hurled it at me, saying, "Take
+that for your doctor-fee. Go, crawl after Mameena like the others and
+get her to doctor you." By this time I was half through the bee-hole of the hut, my movements
+being hastened by a vessel of hot water which landed on me behind. "What is the matter, Macumazahn?" asked old Umbezi, who was waiting
+outside. "Nothing at all, friend," I answered with a sweet smile, "except that
+your wife wants to see you at once. She is in pain, and wishes you to
+soothe her. Go in; do not hesitate." After a moment's pause he went in--that is, half of him went in. Then
+came a fearful crash, and he emerged again with the rim of a pot about
+his neck and his countenance veiled in a coating of what I took to be
+honey. "Where is Mameena?" I asked him as he sat up spluttering. "Where I wish I was," he answered in a thick voice; "at a kraal five
+hours' journey away." Well, that was the first I heard of Mameena. That night as I sat smoking my pipe under the flap lean-to attached
+to the wagon, laughing to myself over the adventure of "the Old Cow,"
+falsely described as "worn out," and wondering whether Umbezi had got
+the honey out of his hair, the canvas was lifted, and a Kafir wrapped in
+a kaross crept in and squatted before me. "Who are you?" I asked, for it was too dark to see the man's face. "Inkoosi," answered a deep voice, "I am Saduko." "You are welcome," I answered, handing him a little gourd of snuff in
+token of hospitality. Then I waited while he poured some of the snuff
+into the palm of his hand and took it in the usual fashion. "Inkoosi," he said, when he had scraped away the tears produced by the
+snuff, "I have come to ask you a favour. You heard Umbezi say to-day
+that he will not give me his daughter, Mameena, unless I give him a
+hundred head of cows. Now, I have not got the cattle, and I cannot earn
+them by work in many years. Therefore I must take them from a certain
+tribe I know which is at war with the Zulus. But this I cannot do unless
+I have a gun. If I had a good gun, Inkoosi--one that only goes off
+when it is asked, and not of its own fancy, I who have some name could
+persuade a number of men whom I know, who once were servants of my
+father, or their sons, to be my companions in this venture." "Do I understand that you wish me to give you one of my good guns with
+two mouths to it (i.e. double-barrelled), a gun worth at least twelve
+oxen, for nothing, O Saduko?" I asked in a cold and scandalised voice. "Not so, O Watcher-by-Night," he answered; "not so, O
+He-who-sleeps-with-one-eye-open" (another free and difficult rendering
+of my native name, Macumazahn, or more correctly, Macumazana)--"I should
+never dream of offering such an insult to your high-born intelligence." He paused and took another pinch of snuff, then went on in a meditative
+voice: "Where I propose to get those hundred cattle there are many more;
+I am told not less than a thousand head in all. Now, Inkoosi," he added,
+looking at me sideways, "suppose you gave me the gun I ask for, and
+suppose you accompanied me with your own gun and your armed hunters, it
+would be fair that you should have half the cattle, would it not?" "That's cool," I said. "So, young man, you want to turn me into a
+cow-thief and get my throat cut by Panda for breaking the peace of his
+country?" "Neither, Macumazahn, for these are my own cattle. Listen, now, and
+I will tell you a story. You have heard of Matiwane, the chief of the
+Amangwane?" "Yes," I answered. "His tribe lived near the head of the Umzinyati,
+did they not? Then they were beaten by the Boers or the English, and
+Matiwane came under the Zulus. But afterwards Dingaan wiped him out,
+with his House, and now his people are killed or scattered." "Yes, his people are killed and scattered, but his House still lives. Macumazahn, I am his House, I, the only son of his chief wife, for
+Zikali the Wise Little One, the Ancient, who is of the Amangwane blood,
+and who hated Chaka and Dingaan--yes, and Senzangakona their father
+before them, but whom none of them could kill because he is so great and
+has such mighty spirits for his servants, saved and sheltered me." "If he is so great, why, then, did he not save your father also,
+Saduko?" I asked, as though I knew nothing of this Zikali. "I cannot say, Macumazahn. Perhaps the spirits plant a tree for
+themselves, and to do so cut down many other trees. At least, so it
+happened. It happened thus: Bangu, chief of the Amakoba, whispered into
+Dingaan's ear that Matiwane, my father, was a wizard; also that he was
+very rich. Dingaan listened because he thought a sickness that he had
+came from Matiwane's witchcraft. He said: 'Go, Bangu, and take a company
+with you and pay Matiwane a visit of honour, and in the night, O in the
+night! Afterwards, Bangu, we will divide the cattle, for Matiwane is
+strong and clever, and you shall not risk your life for nothing.'" Saduko paused and looked down at the ground, brooding heavily. "Macumazahn, it was done," he said presently. "They ate my father's
+meat, they drank his beer; they gave him a present from the king, they
+praised him with high names; yes, Bangu took snuff with him and called
+him brother. Then in the night, O in the night--! "My father was in the hut with my mother, and I, so big only"--and he
+held his hand at the height of a boy of ten--"was with them. The cry
+arose, the flames began to eat; my father looked out and saw. 'Break
+through the fence and away, woman,' he said; 'away with Saduko, that he
+may live to avenge me. Begone while I hold the gate! Begone to Zikali,
+for whose witchcrafts I pay with my blood.' "Then he kissed me on the brow, saying but one word, 'Remember,' and
+thrust us from the hut. "My mother broke a way through the fence; yes, she tore at it with her
+nails and teeth like a hyena. I looked back out of the shadow of the hut
+and saw Matiwane my father fighting like a buffalo. Men went down before
+him, one, two, three, although he had no shield: only his spear. Then
+Bangu crept behind him and stabbed him in the back and he threw up his
+arms and fell. I saw no more, for by now we were through the fence. We
+ran, but they perceived us. They hunted us as wild dogs hunt a buck. They killed my mother with a throwing assegai; it entered at her back
+and came out at her heart. I went mad, I drew it from her body, I ran at
+them. I dived beneath the shield of the first, a very tall man, and held
+the spear, so, in both my little hands. His weight came upon its point
+and it went through him as though he were but a bowl of buttermilk. Yes,
+he rolled over, quite dead, and the handle of the spear broke upon the
+ground. Now the others stopped astonished, for never had they seen such
+a thing. That a child should kill a tall warrior, oh! that tale had not
+been told. Some of them would have let me go, but just then Bangu came
+up and saw the dead man, who was his brother. "'Wow!' he said when he knew how the man had died. 'This lion's cub is
+a wizard also, for how else could he have killed a soldier who has known
+war? Hold out his arms that I may finish him slowly.' "So two of them held out my arms, and Bangu came up with his spear." Saduko ceased speaking, not that his tale was done, but because his
+voice choked in his throat. Indeed, seldom have I seen a man so moved. He breathed in great gasps, the sweat poured from him, and his muscles
+worked convulsively. I gave him a pannikin of water and he drank, then
+he went on:
+
+"Already the spear had begun to prick--look, here is the mark of
+it"--and opening his kaross he pointed to a little white line just
+below the breast-bone--"when a strange shadow thrown by the fire of
+the burning huts came between Bangu and me, a shadow as that of a toad
+standing on its hind legs. I looked round and saw that it was the shadow
+of Zikali, whom I had seen once or twice. There he stood, though whence
+he came I know not, wagging his great white head that sits on the top
+of his body like a pumpkin on an ant-heap, rolling his big eyes and
+laughing loudly. "'A merry sight,' he cried in his deep voice that sounded like water
+in a hollow cave. 'A merry sight, O Bangu, Chief of the Amakoba! Blood,
+blood, plenty of blood! Fire, fire, plenty of fire! Wizards dead here,
+there, and everywhere! Oh, a merry sight! I have seen many such; one at
+the kraal of your grandmother, for instance--your grandmother the great
+Inkosikazi, when myself I escaped with my life because I was so old; but
+never do I remember a merrier than that which this moon shines on,' and
+he pointed to the White Lady who just then broke through the clouds. 'But, great Chief Bangu, lord loved by the son of Senzangakona, brother
+of the Black One (Chaka) who has ridden hence on the assegai, what
+is the meaning of _this_ play?' and he pointed to me and to the two
+soldiers who held out my little arms. "'I kill the wizard's cub, Zikali, that is all,' answered Bangu. "'I see, I see,' laughed Zikali. 'A gallant deed! You have butchered the
+father and the mother, and now you would butcher the child who has slain
+one of your grown warriors in fair fight. A very gallant deed, well
+worthy of the chief of the Amakoba! Well, loose his spirit--only--' He
+stopped and took a pinch of snuff from a box which he drew from a slit
+in the lobe of his great ear. "'Only what?' asked Bangu, hesitating. "'Only I wonder, Bangu, what you will think of the world in which you
+will find yourself before to-morrow's moon arises. Come back thence and
+tell me, Bangu, for there are so many worlds beyond the sun, and I would
+learn for certain which of them such a one as you inhabits: a man who
+for hatred and for gain murders the father and the mother and then
+butchers the child--the child that could slay a warrior who has seen
+war--with the spear hot from his mother's heart.' "'Do you mean that I shall die if I kill this lad?' shouted Bangu in a
+great voice. "'What else?' answered Zikali, taking another pinch of snuff. "'This, Wizard; that we will go together.' "'Good, good!' laughed the dwarf. 'Let us go together. Long have I
+wished to die, and what better companion could I find than Bangu, Chief
+of the Amakoba, Slayer of Children, to guard me on a dark and terrible
+road. Come, brave Bangu, come; kill me if you can,' and again he laughed
+at him. "Now, Macumazahn, the people of Bangu fell back muttering, for they
+found this business horrible. Yes, even those who held my arms let go of
+them. "'What will happen to me, Wizard, if I spare the boy?' asked Bangu. "Zikali stretched out his hand and touched the scratch that the assegai
+had made in me here. Then he held up his finger red with my blood,
+and looked at it in the light of the moon; yes, and tasted it with his
+tongue. "'I think this will happen to you, Bangu,' he said. 'If you spare this
+boy he will grow into a man who will kill you and many others one day. But if you do not spare him I think that his spirit, working as spirits
+can do, will kill you to-morrow. Therefore the question is, will
+you live a while or will you die at once, taking me with you as your
+companion? For you must not leave me behind, brother Bangu.' "Now Bangu turned and walked away, stepping over the body of my mother,
+and all his people walked away after him, so that presently Zikali the
+Wise and Little and I were left alone. "'What! have they gone?' said Zikali, lifting up his eyes from the
+ground. 'Then we had better be going also, Son of Matiwane, lest he
+should change his mind and come back. Live on, Son of Matiwane, that you
+may avenge Matiwane.'" "A nice tale," I said. "But what happened afterwards?" "Zikali took me away and nurtured me at his kraal in the Black Kloof,
+where he lived alone save for his servants, for in that kraal he would
+suffer no woman to set foot, Macumazahn. He taught me much wisdom and
+many secret things, and would have made a great doctor of me had I so
+willed. But I willed it not who find spirits ill company, and there are
+many of them about the Black Kloof, Macumazahn. So in the end he said:
+'Go where your heart calls, and be a warrior, Saduko. But know this:
+You have opened a door that can never be shut again, and across the
+threshold of that door spirits will pass in and out for all your life,
+whether you seek them or seek them not.' "'It was you who opened the door, Zikali,' I answered angrily. "'Mayhap,' said Zikali, laughing after his fashion, 'for I open when I
+must and shut when I must. Indeed, in my youth, before the Zulus were a
+people, they named me Opener of Doors; and now, looking through one of
+those doors, I see something about you, O Son of Matiwane.' "'What do you see, my father?' I asked. "'I see two roads, Saduko: the Road of Medicine, that is the spirit
+road, and the Road of Spears, that is the blood road. I see you
+travelling on the Road of Medicine, that is my own road, Saduko, and
+growing wise and great, till at last, far, far away, you vanish over the
+precipice to which it leads, full of years and honour and wealth, feared
+yet beloved by all men, white and black. Only that road you must travel
+alone, since such wisdom may have no friends, and, above all, no woman
+to share its secrets. Then I look at the Road of Spears and see you,
+Saduko, travelling on that road, and your feet are red with blood, and
+women wind their arms about your neck, and one by one your enemies go
+down before you. You love much, and sin much for the sake of the love,
+and she for whom you sin comes and goes and comes again. And the road is
+short, Saduko, and near the end of it are many spirits; and though you
+shut your eyes you see them, and though you fill your ears with clay you
+hear them, for they are the ghosts of your slain. But the end of your
+journeying I see not. Now choose which road you will, Son of Matiwane,
+and choose swiftly, for I speak no more of this matter.' "Then, Macumazahn, I thought a while of the safe and lonely path of
+wisdom, also of the blood-red path of spears where I should find love
+and war, and my youth rose up in me and--I chose the path of spears and
+the love and the sin and the unknown death." "A foolish choice, Saduko, supposing that there is any truth in this
+tale of roads, which there is not." "Nay, a wise one, Macumazahn, for since then I have seen Mameena and
+know why I chose that path." "Ah!" I said. "Mameena--I forgot her. Well, after all, perhaps there is
+some truth in your tale of roads. When _I_ have seen Mameena I will tell
+you what I think." "When you have seen Mameena, Macumazahn, you will say that the choice
+was very wise. Well, Zikali, Opener of Doors, laughed loudly when he
+heard it. 'The ox seeks the fat pasture, but the young bull the rough
+mountainside where the heifers graze,' he said; 'and after all, a
+bull is better than an ox. Now begin to travel your own road, Son of
+Matiwane, and from time to time return to the Black Kloof and tell me
+how it fares with you. I will promise you not to die before I know the
+end of it.' "Now, Macumazahn, I have told you things that hitherto have lived in my
+own heart only. And, Macumazahn, Bangu is in ill favour with Panda, whom
+he defies in his mountain, and I have a promise--never mind how--that he
+who kills him will be called to no account and may keep his cattle. Will
+you come with me and share those cattle, O Watcher-by-Night?" "Get thee behind me, Satan," I said in English, then added in Zulu: "I
+don't know. If your story is true I should have no objection to helping
+to kill Bangu; but I must learn lots more about this business first. Meanwhile I am going on a shooting trip to-morrow with Umbezi the Fat,
+and I like you, O Chooser of the Road of Spears and Blood. Will you be
+my companion and earn the gun with two mouths in payment?" "Inkoosi," he said, lifting his hand in salute with a flash of his dark
+eyes, "you are generous, you honour me. What is there that I should love
+better? Yet," he added, and his face fell, "first I must ask Zikali the
+Little, Zikali my foster-father." "Oh!" I said, "so you are still tied to the Wizard's girdle, are you?" "Not so, Macumazahn; but I promised him not long ago that I would
+undertake no enterprise, save that you know of, until I had spoken with
+him." "How far off does Zikali live?" I asked Saduko. "One day's journeying. Starting at sunrise I can be there by sunset." "Good! Then I will put off the shooting for three days and come with you
+if you think that this wonderful old dwarf will receive me." "I believe that he will, Macumazahn, for this reason--he told me that
+I should meet you and love you, and that you would be mixed up in my
+fortunes." "Then he poured moonshine into your gourd instead of beer," I answered. "Would you keep me here till midnight listening to such foolishness when
+we must start at dawn? Begone now and let me sleep." "I go," he answered with a little smile. "But if this is so, O
+Macumazana, why do you also wish to drink of the moonshine of Zikali?" and he went. Yet I did not sleep very well that night, for Saduko and his strange and
+terrible story had taken a hold of my imagination. Also, for reasons of
+my own, I greatly wished to see this Zikali, of whom I had heard a great
+deal in past years. I wished further to find out if he was a common
+humbug, like so many witch-doctors, this dwarf who announced that my
+fortunes were mixed up with those of his foster-son, and who at least
+could tell me something true or false about the history and position
+of Bangu, a person for whom I had conceived a strong dislike, possibly
+quite unjustified by the facts. But more than all did I wish to see
+Mameena, whose beauty or talents produced so much impression upon the
+native mind. Perhaps if I went to see Zikali she would be back at her
+father's kraal before we started on our shooting trip. Thus it was then that fate wove me and my doings into the web of some
+very strange events; terrible, tragic and complete indeed as those of a
+Greek play, as it has often done both before and since those days. CHAPTER II. THE MOONSHINE OF ZIKALI
+
+
+On the following morning I awoke, as a good hunter always should do,
+just at that time when, on looking out of the wagon, nothing can be seen
+but a little grey glint of light which he knows is reflected from the
+horns of the cattle tied to the trek-tow. Presently, however, I saw
+another glint of light which I guessed came from the spear of Saduko,
+who was seated by the ashes of the cooking fire wrapped in his kaross
+of wildcat skins. Slipping from the voorkisse, or driving-box, I came
+behind him softly and touched him on the shoulder. He leapt up with a
+start which revealed his nervous nature, then recognising me through the
+soft grey gloom, said:
+
+"You are early, Macumazahn." "Of course," I answered; "am I not named Watcher-by-Night? Now let us
+go to Umbezi and tell him that I shall be ready to start on our hunting
+trip on the third morning from to-day." So we went, to find that Umbezi was in a hut with his last wife and
+asleep. Fortunately enough, however, as under the circumstances I did
+not wish to disturb him, outside the hut we found the Old Cow, whose
+sore ear had kept her very wide awake, who, for purposes of her own,
+although etiquette did not allow her to enter the hut, was waiting for
+her husband to emerge. Having examined her wound and rubbed some ointment on it, with her I
+left my message. Next I woke up my servant Scowl, and told him that I
+was going on a short journey, and that he must guard all things until my
+return; and while I did so, took a nip of raw rum and made ready a bag
+of biltong, that is sun-dried flesh, and biscuits. Then, taking with me a single-barrelled gun, that same little Purdey
+rifle with which I shot the vultures on the Hill of Slaughter at
+Dingaan's Kraal,[*] we started on foot, for I would not risk my only
+horse on such a journey. [*--For the story of this shooting of the vultures by Allan
+     Quatermain, see the book called "Marie."--EDITOR.] A rough journey it proved to be indeed, over a series of bush-clad hills
+that at their crests were covered with rugged stones among which no
+horse could have travelled. Up and down these hills we went, and across
+the valleys that divided them, following some path which I could not
+see, for all that live-long day. I have always been held a good walker,
+being by nature very light and active; but I am bound to say that my
+companion taxed my powers to the utmost, for on he marched for hour
+after hour, striding ahead of me at such a rate that at times I was
+forced to break into a run to keep up with him. Although my pride would
+not suffer me to complain, since as a matter of principle I would never
+admit to a Kafir that he was my master at anything, glad enough was I
+when, towards evening, Saduko sat himself down on a stone at the top of
+a hill and said:
+
+"Behold the Black Kloof, Macumazahn," which were almost the first words
+he had uttered since we started. Truly the spot was well named, for there, cut out by water from the
+heart of a mountain in some primeval age, lay one of the most gloomy
+places that ever I had beheld. It was a vast cleft in which granite
+boulders were piled up fantastically, perched one upon another in great
+columns, and upon its sides grew dark trees set sparsely among the
+rocks. It faced towards the west, but the light of the sinking sun that
+flowed up it served only to accentuate its vast loneliness, for it was a
+big cleft, the best part of a mile wide at its mouth. Up this dreary gorge we marched, mocked at by chattering baboons and
+following a little path not a foot wide that led us at length to a large
+hut and several smaller ones set within a reed fence and overhung by a
+gigantic mass of rock that looked as though it might fall at any moment. At the gate of the fence two natives of I know not what tribe, men of
+fierce and forbidding appearance, suddenly sprang out and thrust their
+spears towards my breast. "Whom bring you here, Saduko?" asked one of them sternly. "A white man that I vouch for," he answered. "Tell Zikali that we wait
+on him." "What need to tell Zikali that which he knows already?" said the sentry. "Your food and that of your companion is already cooked in yonder hut. Enter, Saduko, with him for whom you vouch." So we went into the hut and ate, also I washed myself, for it was a
+beautifully clean hut, and the stools, wooden bowls, etc., were finely
+carved out of red ivory wood, this work, Saduko informed me, being done
+by Zikali's own hand. Just as we were finishing our meal a messenger
+came to tell us that Zikali waited our presence. We followed him across
+an open space to a kind of door in the tall reed fence, passing which I
+set eyes for the first time upon the famous old witch-doctor of whom so
+many tales were told. Certainly he was a curious sight in those strange surroundings, for they
+were very strange, and I think their complete simplicity added to the
+effect. In front of us was a kind of courtyard with a black floor made
+of polished ant-heap earth and cow-dung, two-thirds of which at least
+was practically roofed in by the huge over-hanging mass of rock whereof
+I have spoken, its arch bending above at a height of not less than
+sixty or seventy feet from the ground. Into this great, precipice-backed
+cavity poured the fierce light of the setting sun, turning it and all
+within it, even the large straw hut in the background, to the deep hue
+of blood. Seeing the wonderful effect of the sunset in that dark and
+forbidding place, it occurred to me at once that the old wizard must
+have chosen this moment to receive us because of its impressiveness. Then I forgot these scenic accessories in the sight of the man himself. There he sat on a stool in front of his hut, quite unattended, and
+wearing only a cloak of leopard skins open in front, for he was
+unadorned with the usual hideous trappings of a witch-doctor, such as
+snake-skins, human bones, bladders full of unholy compounds, and so
+forth. What a man he was, if indeed he could be called quite human. His
+stature, though stout, was only that of a child; his head was enormous,
+and from it plaited white hair fell down on to his shoulders. His eyes
+were deep and sunken, his face was broad and very stern. Except for this
+snow-white hair, however, he did not look ancient, for his flesh was
+firm and plump, and the skin on his cheeks and neck unwrinkled, which
+suggested to me that the story of his great antiquity was false. A man
+who was over a hundred years old, for instance, surely could not boast
+such a beautiful set of teeth, for even at that distance I could see
+them gleaming. On the other hand, evidently middle age was far behind
+him; indeed, from his appearance it was quite impossible to guess even
+approximately the number of his years. There he sat, red in the red
+light, perfectly still, and staring without a blink of his eyes at the
+furious ball of the setting sun, as an eagle is said to be able to do. Saduko advanced, and I walked after him. My stature is not great, and
+I have never considered myself an imposing person, but somehow I do not
+think that I ever felt more insignificant than on this occasion. The
+tall and splendid native beside, or rather behind whom I walked, the
+gloomy magnificence of the place, the blood-red light in which it was
+bathed, and the solemn, solitary, little figure with wisdom stamped upon
+its face before me, all tended to induce humility in a man not naturally
+vain. I felt myself growing smaller and smaller, both in a moral and a
+physical sense; I wished that my curiosity had not prompted me to seek
+an interview with yonder uncanny being. Well, it was too late to retreat; indeed, Saduko was already standing
+before the dwarf and lifting his right arm above his head as he gave him
+the salute of "Makosi! "[*] whereon, feeling that something was expected
+of me, I took off my shabby cloth hat and bowed, then, remembering my
+white man's pride, replaced it on my head. [*--"Makosi", the plural of "Inkoosi", is the salute given
+     to Zulu wizards, because they are not one but many, since in
+     them (as in the possessed demoniac in the Bible) dwell an
+     unnumbered horde of spirits.--EDITOR.] The wizard suddenly seemed to become aware of our presence, for, ceasing
+his contemplation of the sinking sun, he scanned us both with his slow,
+thoughtful eyes, which somehow reminded me of those of a chameleon,
+although they were not prominent, but, as I have said, sunken. "Greeting, son Saduko!" he said in a deep, rumbling voice. "Why are you
+back here so soon, and why do you bring this flea of a white man with
+you?" Now this was more than I could bear, so without waiting for my
+companion's answer I broke in:
+
+"You give me a poor name, O Zikali. What would you think of me if I
+called you a beetle of a wizard?" "I should think you clever," he answered after reflection, "for after
+all I must look something like a beetle with a white head. But why
+should you mind being compared to a flea? A flea works by night and so
+do you, Macumazahn; a flea is active and so are you; a flea is very hard
+to catch and kill and so are you; and lastly a flea drinks its fill of
+that which it desires, the blood of man and beast, and so you have done,
+do, and will, Macumazahn," and he broke into a great laugh that rolled
+and echoed about the rocky roof above. Once, long years before, I had heard that laugh, when I was a prisoner
+in Dingaan's kraal, after the massacre of Retief and his company, and I
+recognised it again. While I was searching for some answer in the same vein, and not finding
+it, though I thought of plenty afterwards, ceasing of a sudden from his
+unseemly mirth, he went on:
+
+"Do not let us waste time in jests, for it is a precious thing, and
+there is but little of it left for any one of us. Your business, son
+Saduko?" "Baba!" (that is the Zulu for father), said Saduko, "this white Inkoosi,
+for, as you know well enough, he is a chief by nature, a man of a great
+heart and doubtless of high blood [this, I believe, is true, for I have
+been told that my ancestors were more or less distinguished,
+although, if this is so, their talents did not lie in the direction of
+money-making], has offered to take me upon a shooting expedition and to
+give me a good gun with two mouths in payment of my services. But I told
+him I could not engage in any fresh venture without your leave, and--he
+is come to see whether you will grant it, my father." "Indeed," answered the dwarf, nodding his great head. "This clever white
+man has taken the trouble of a long walk in the sun to come here to
+ask me whether he may be allowed the privilege of presenting you with a
+weapon of great value in return for a service that any man of your years
+in Zululand would love to give for nothing in such company? "Son Saduko, because my eye-holes are hollow, do you think it your part
+to try to fill them up with dust? Nay, the white man has come because
+he desires to see him who is named Opener-of-Roads, of whom he heard a
+great deal when he was but a lad, and to judge whether in truth he has
+wisdom, or is but a common cheat. And you have come to learn whether or
+no your friendship with him will be fortunate; whether or no he will aid
+you in a certain enterprise that you have in your mind." "True, O Zikali," I said. "That is so far as I am concerned." But Saduko answered nothing. "Well," went on the dwarf, "since I am in the mood I will try to answer
+both your questions, for I should be a poor Nyanga" [that is doctor]
+"if I did not when you have travelled so far to ask them. Moreover, O
+Macumazana, be happy, for I seek no fee who, having made such fortune
+as I need long ago, before your father was born across the Black Water,
+Macumazahn, no longer work for a reward--unless it be from the hand of
+one of the House of Senzangakona--and therefore, as you may guess, work
+but seldom." Then he clapped his hands, and a servant appeared from somewhere behind
+the hut, one of those fierce-looking men who had stopped us at the gate. He saluted the dwarf and stood before him in silence and with bowed
+head. "Make two fires," said Zikali, "and give me my medicine." The man fetched wood, which he built into two little piles in front of
+Zikali. These piles he fired with a brand brought from behind the hut. Then he handed his master a catskin bag. "Withdraw," said Zikali, "and return no more till I summon you, for I am
+about to prophesy. If, however, I should seem to die, bury me to-morrow
+in the place you know of and give this white man a safe-conduct from my
+kraal." The man saluted again and went without a word. When he had gone the dwarf drew from the bag a bundle of twisted roots,
+also some pebbles, from which he selected two, one white and the other
+black. "Into this stone," he said, holding up the white pebble so that the
+light from the fire shone on it--since, save for the lingering red
+glow, it was now growing dark--"into this stone I am about to draw
+your spirit, O Macumazana; and into this one"--and he held up the black
+pebble--"yours, O Son of Matiwane. Why do you look frightened, O brave
+White Man, who keep saying in your heart, 'He is nothing but an ugly
+old Kafir cheat'? If I am a cheat, why do you look frightened? Is your
+spirit already in your throat, and does it choke you, as this little
+stone might do if you tried to swallow it?" and he burst into one of his
+great, uncanny laughs. I tried to protest that I was not in the least frightened, but failed,
+for, in fact, I suppose my nerves were acted on by his suggestion, and
+I did feel exactly as though that stone were in my throat, only coming
+upwards, not going downwards. "Hysteria," thought I to myself, "the
+result of being overtired," and as I could not speak, sat still as
+though I treated his gibes with silent contempt. "Now," went on the dwarf, "perhaps I shall seem to die; and if so do not
+touch me lest you should really die. Wait till I wake up again and tell
+you what your spirits have told me. Or if I do not wake up--for a time
+must come when I shall go on sleeping--well--for as long as I have
+lived--after the fires are quite out, not before, lay your hands upon
+my breast; and if you find me turning cold, get you gone to some other
+Nyanga as fast as the spirits of this place will let you, O ye who would
+peep into the future." As he spoke he threw a big handful of the roots that I have mentioned
+on to each of the fires, whereon tall flames leapt up from them, very
+unholy-looking flames which were followed by columns of dense, white
+smoke that emitted a most powerful and choking odour quite unlike
+anything that I had ever smelt before. It seemed to penetrate all
+through me, and that accursed stone in my throat grew as large as an
+apple and felt as though someone were poking it upwards with a stick. Next he threw the white pebble into the right-hand fire, that which was
+opposite to me, saying:
+
+"Enter, Macumazahn, and look," and the black pebble he threw into the
+left-hand fire saying: "Enter, Son of Matiwane, and look. Then come back
+both of you and make report to me, your master." Now it is a fact that as he said these words I experienced a sensation
+as though a stone had come out of my throat; so readily do our nerves
+deceive us that I even thought it grated against my teeth as I opened my
+mouth to give it passage. At any rate the choking was gone, only now I
+felt as though I were quite empty and floating on air, as though I were
+not I, in short, but a mere shell of a thing, all of which doubtless was
+caused by the stench of those burning roots. Still I could look and take
+note, for I distinctly saw Zikali thrust his huge head, first into the
+smoke of what I will call my fire, next into that of Saduko's fire, and
+then lean back, blowing the stuff in clouds from his mouth and nostrils. Afterwards I saw him roll over on to his side and lie quite still with
+his arms outstretched; indeed, I noticed that one of his fingers seemed
+to be in the left-hand fire and reflected that it would be burnt off. In
+this, however, I must have been mistaken, since I observed subsequently
+that it was not even scorched. Thus Zikali lay for a long while till I began to wonder whether he were
+not really dead. Dead enough he seemed to be, for no corpse could have
+stayed more stirless. But that night I could not keep my thoughts
+fixed on Zikali or anything. I merely noted these circumstances in a
+mechanical way, as might one with whom they had nothing whatsoever to
+do. They did not interest me at all, for there appeared to be nothing
+in me to be interested, as I gathered according to Zikali, because I was
+not there, but in a warmer place than I hope ever to occupy, namely, in
+the stone in that unpleasant-looking, little right-hand fire. So matters went as they might in a dream. The sun had sunk completely,
+not even an after-glow was left. The only light remaining was that
+from the smouldering fires, which just sufficed to illumine the bulk of
+Zikali, lying on his side, his squat shape looking like that of a dead
+hippopotamus calf. What was left of my consciousness grew heartily sick
+of the whole affair; I was tired of being so empty. At length the dwarf stirred. He sat up, yawned, sneezed, shook himself,
+and began to rake among the burning embers of my fire with his naked
+hand. Presently he found the white stone, which was now red-hot--at any
+rate it glowed as though it were--and after examining it for a moment
+finally popped it into his mouth! Then he hunted in the other fire for
+the black stone, which he treated in a similar fashion. The next thing I
+remember was that the fires, which had died away almost to nothing, were
+burning very brightly again, I suppose because someone had put fuel on
+them, and Zikali was speaking. "Come here, O Macumazana and O Son of Matiwane," he said, "and I will
+repeat to you what your spirits have been telling me." We drew near into the light of the fires, which for some reason or other
+was extremely vivid. Then he spat the white stone from his mouth into
+his big hand, and I saw that now it was covered with lines and patches
+like a bird's egg. "You cannot read the signs?" he said, holding it towards me; and when I
+shook my head went on: "Well, I can, as you white men read a book. All
+your history is written here, Macumazahn; but there is no need to tell
+you that, since you know it, as I do well enough, having learned it in
+other days, the days of Dingaan, Macumazahn. All your future, also, a
+very strange future," and he scanned the stone with interest. "Yes, yes;
+a wonderful life, and a noble death far away. But of these matters you
+have not asked me, and therefore I may not tell them even if I wished,
+nor would you believe if I did. It is of your hunting trip that you have
+asked me, and my answer is that if you seek your own comfort you will do
+well not to go. A pool in a dry river-bed; a buffalo bull with the
+tip of one horn shattered. Yourself and the bull in the pool. Saduko,
+yonder, also in the pool, and a little half-bred man with a gun jumping
+about upon the bank. Then a litter made of boughs and you in it, and the
+father of Mameena walking lamely at your side. Then a hut and you in it,
+and the maiden called Mameena sitting at your side. "Macumazahn, your spirit has written on this stone that you should
+beware of Mameena, since she is more dangerous than any buffalo. If you
+are wise you will not go out hunting with Umbezi, although it is true
+that hunt will not cost you your life. There, away, Stone, and take
+your writings with you!" and as he spoke he jerked his arm and I heard
+something whiz past my face. Next he spat out the black stone and examined it in similar fashion. "Your expedition will be successful, Son of Matiwane," he said. "Together with Macumazahn you will win many cattle at the cost of sundry
+lives. But for the rest--well, you did not ask me of it, did you? Also,
+I have told you something of that story before to-day. Away, Stone!" and
+the black pebble followed the white out into the surrounding gloom. We sat quite still until the dwarf broke the deep silence with one of
+his great laughs. "My witchcraft is done," he said. "A poor tale, was it not? Well, hunt
+for those stones to-morrow and read the rest of it if you can. Why did
+you not ask me to tell you everything while I was about it, White Man? It would have interested you more, but now it has all gone from me back
+into your spirit with the stones. Saduko, get you to sleep. Macumazahn,
+you who are a Watcher-by-Night, come and sit with me awhile in my hut,
+and we will talk of other things. All this business of the stones is
+nothing more than a Kafir trick, is it, Macumazahn? When you meet the
+buffalo with the split horn in the pool of a dried river, remember it is
+but a cheating trick, and now come into my hut and drink a kamba [bowl]
+of beer and let us talk of other things more interesting." So he took me into the hut, which was a fine one, very well lighted by
+a fire in its centre, and gave me Kafir beer to drink, that I swallowed
+gratefully, for my throat was dry and still felt as though it had been
+scraped. "Who are you, Father?" I asked point-blank when I had taken my seat upon
+a low stool, with my back resting against the wall of the hut, and lit
+my pipe. He lifted his big head from the pile of karosses on which he was lying
+and peered at me across the fire. "My name is Zikali, which means 'Weapons,' White Man. You know as much
+as that, don't you?" he answered. "My father 'went down' so long ago
+that his does not matter. I am a dwarf, very ugly, with some learning,
+as we of the Black House understand it, and very old. Is there anything
+else you would like to learn?" "Yes, Zikali; how old?" "There, there, Macumazahn, as you know, we poor Kafirs cannot count very
+well. How old? Well, when I was young I came down towards the coast from
+the Great River, you call it the Zambesi, I think, with Undwandwe, who
+lived in the north in those days. They have forgotten it now because it
+is some time ago, and if I could write I would set down the history of
+that march, for we fought some great battles with the people who used to
+live in this country. Afterwards I was the friend of the Father of the
+Zulus, he whom they still call Inkoosi Umkulu--the mighty chief--you may
+have heard tell of him. I carved that stool on which you sit for him and
+he left it back to me when he died." "Inkoosi Umkulu!" I exclaimed. "Why, they say he lived hundreds of years
+ago." "Do they, Macumazahn? If so, have I not told you that we black people
+cannot count as well as you do? Really it was only the other day. Anyhow, after his death the Zulus began to maltreat us Undwandwe and the
+Quabies and the Tetwas with us--you may remember that they called us
+the Amatefula, making a mock of us. So I quarrelled with the Zulus and
+especially with Chaka, he whom they named 'Uhlanya' [the Mad One]. You see, Macumazahn, it pleased him to laugh at me because
+I am not as other men are. He gave me a name which means
+'The-thing-which-should-never-have-been-born.' I will not speak that
+name, it is secret to me, it may not pass my lips. Yet at times he
+sought my wisdom, and I paid him back for his names, for I gave him very
+ill counsel, and he took it, and I brought him to his death, although
+none ever saw my finger in that business. But when he was dead at the
+hands of his brothers Dingaan and Umhlangana and of Umbopa, Umbopa who
+also had a score to settle with him, and his body was cast out of the
+kraal like that of an evil-doer, why I, who because I was a dwarf was
+not sent with the _men_ against Sotshangana, went and sat on it at
+night and laughed thus," and he broke into one of his hideous peals of
+merriment. "I laughed thrice: once for my wives whom he had taken; once for my
+children whom he had slain; and once for the mocking name that he had
+given me. Then I became the counsellor of Dingaan, whom I hated worse
+than I had hated Chaka, for he was Chaka again without his greatness,
+and you know the end of Dingaan, for you had a share in that war, and of
+Umhlangana, his brother and fellow-murderer, whom I counselled Dingaan
+to slay. This I did through the lips of the old Princess Menkabayi,
+Jama's daughter, Senzangakona's sister, the Oracle before whom all men
+bowed, causing her to say that 'This land of the Zulus cannot be ruled
+by a crimson assegai.' For, Macumazahn, it was Umhlangana who first
+struck Chaka with the spear. Now Panda reigns, the last of the sons of
+Senzangakona, my enemy, Panda the Fool, and I hold my hand from Panda
+because he tried to save the life of a child of mine whom Chaka slew. But Panda has sons who are as Chaka was, and against them I work as I
+worked against those who went before them." "Why?" I asked. "Why? Oh! if I were to tell you _all_ my story you would understand why,
+Macumazahn. Well, perhaps I will one day." (Here I may state that as a
+matter of fact he did, and a very wonderful tale it is, but as it has
+nothing to do with this history I will not write it here.) "I dare say," I answered. "Chaka and Dingaan and Umhlangana and the
+others were not nice people. But another question. Why do you tell
+me all this, O Zikali, seeing that were I but to repeat it to a
+talking-bird you would be smelt out and a single moon would not die
+before you do?" "Oh! I should be smelt out and killed before one moon dies, should I? Then I wonder that this has not happened during all the moons that are
+gone. Well, I tell the story to you, Macumazahn, who have had so much to
+do with the tale of the Zulus since the days of Dingaan, because I wish
+that someone should know it and perhaps write it down when everything
+is finished. Because, too, I have just been reading your spirit and see
+that it is still a white spirit, and that you will not whisper it to a
+'talking-bird.'" Now I leant forward and looked at him. "What is the end at which you aim, O Zikali?" I asked. "You are not one
+who beats the air with a stick; on whom do you wish the stick to fall at
+last?" "On whom?" he answered in a new voice, a low, hissing voice. "Why, on
+these proud Zulus, this little family of men who call themselves the
+'People of Heaven,' and swallow other tribes as the great tree-snake
+swallows kids and small bucks, and when it is fat with them cries to the
+world, 'See how big I am! Everything is inside of me.' I am a Ndwande,
+one of those peoples whom it pleases the Zulus to call 'Amatefula'--poor
+hangers-on who talk with an accent, nothing but bush swine. Therefore I
+would see the swine tusk the hunter. Or, if that may not be, I would
+see the black hunter laid low by the rhinoceros, the white rhinoceros
+of your race, Macumazahn, yes, even if it sets its foot upon the Ndwande
+boar as well. There, I have told you, and this is the reason that I live
+so long, for I will not die until these things have come to pass, as
+come to pass they will. What did Chaka, Senzangakona's son, say when the
+little red assegai, the assegai with which he slew his mother, aye and
+others, some of whom were near to me, was in his liver? What did he say
+to Mbopa and the princes? Did he not say that he heard the feet of a
+great white people running, of a people who should stamp the Zulus flat? Well, I, 'The-thing-who-should-not-have-been-born,' live on until that
+day comes, and when it comes I think that you and I, Macumazahn, shall
+not be far apart, and that is why I have opened out my heart to you, I
+who have knowledge of the future. There, I speak no more of these things
+that are to be, who perchance have already said too much of them. Yet do
+not forget my words. Or forget them if you will, for I shall remind
+you of them, Macumazahn, when the feet of your people have avenged the
+Ndwandes and others whom it pleases the Zulus to treat as dirt." Now, this strange man, who had sat up in his excitement, shook his long
+white hair which, after the fashion of wizards, he wore plaited into
+thin ropes, till it hung like a veil about him, hiding his broad face
+and deep eyes. Presently he spoke again through this veil of hair,
+saying:
+
+"You are wondering, Macumazahn, what Saduko has to do with all these
+great events that are to be. I answer that he must play his part in
+them; not a very great part, but still a part, and it is for this
+purpose that I saved him as a child from Bangu, Dingaan's man, and
+reared him up to be a warrior, although, since I cannot lie, I warned
+him that he would do well to leave spears alone and follow after wisdom. Well, he will slay Bangu, who now has quarrelled with Panda, and a woman
+will come into the story, one Mameena, and that woman will bring about
+war between the sons of Panda, and from this war shall spring the ruin
+of the Zulus, for he who wins will be an evil king to them and
+bring down on them the wrath of a mightier race. And so
+'The-thing-that-should-not-have-been-born' and the Ndwandes and the
+Quabies and Twetwas, whom it has pleased the conquering Zulus to name
+'Amatefula,' shall be avenged. Yes, yes, my Spirit tells me all these
+things, and they are true." "And what of Saduko, my friend and your fosterling?" "Saduko, your friend and my fosterling, will take his appointed road,
+Macumazahn, as I shall and you will. What more could he desire, seeing
+it is that which he has chosen? He will take his road and he will play
+the part which the Great-Great has prepared for him. Seek not to know
+more. Why should you, since Time will tell you the story? And now go to
+rest, Macumazahn, as I must who am old and feeble. And when it pleases
+you to visit me again, we will talk further. Meanwhile, remember always
+that I am nothing but an old Kafir cheat who pretends to a knowledge
+that belongs to no man. Remember it especially, Macumazahn, when you
+meet a buffalo with a split horn in the pool of a dried-up river, and
+afterwards, when a woman named Mameena makes a certain offer to you,
+which you may be tempted to accept. Good night to you, Watcher-by-Night
+with the white heart and the strange destiny, good night to you, and try
+not to think too hardly of the old Kafir cheat who just now is called
+'Opener-of-Roads.' My servant waits without to lead you to your hut,
+and if you wish to be back at Umbezi's kraal by nightfall to-morrow,
+you will do well to start ere sunrise, since, as you found in coming,
+Saduko, although he may be a fool, is a very good walker, and you do not
+like to be left behind, Macumazahn, do you?" So I rose to go, but as I went some impulse seemed to take him and he
+called me back and made me sit down again. "Macumazahn," he said, "I would add a word. When you were quite a lad
+you came into this country with Retief, did you not?" "Yes," I answered slowly, for this matter of the massacre of Retief is
+one of which I have seldom cared to speak, for sundry reasons, although
+I have made a record of it in writing. [*] Even my friends Sir Henry
+Curtis and Captain Good have heard little of the part I played in that
+tragedy. "But what do you know of that business, Zikali?" [*--Published under the title of "Marie."--EDITOR.] "All that there is to know, I think, Macumazahn, seeing that I was at
+the bottom of it, and that Dingaan killed those Boers on my advice--just
+as he killed Chaka and Umhlangana." "You cold-blooded old murderer--" I began, but he interrupted me at
+once. "Why do you throw evil names at me, Macumazahn, as I threw the stone of
+your fate at you just now? Why am I a murderer because I brought about
+the death of some white men that chanced to be your friends, who had
+come here to cheat us black folk of our country?" "Was it for _this_ reason that you brought about their deaths, Zikali?" I asked, staring him in the face, for I felt that he was lying to me. "Not altogether, Macumazahn," he answered, letting his eyes, those
+strange eyes that could look at the sun without blinking, fall before
+my gaze. "Have I not told you that I hate the House of Senzangakona? And when Retief and his companions were killed, did not the spilling of
+their blood mean war to the end between the Zulus and the White Men? Did
+it not mean the death of Dingaan and of thousands of his people, which
+is but a beginning of deaths? Now do you understand?" "I understand that you are a very wicked man," I answered with
+indignation. "At least _you_ should not say so, Macumazahn," he replied in a new
+voice, one with the ring of truth in it. "Why not?" "Because I saved your life on that day. You escaped alone of the White
+Men, did you not? And you never could understand why, could you?" "No, I could not, Zikali. I put it down to what you would call 'the
+spirits.'" "Well, I will tell you. Those spirits of yours wore my kaross," and
+he laughed. "I saw you with the Boers, and saw, too, that you were of
+another people--the people of the English. You may have heard at the
+time that I was doctoring at the Great Place, although I kept out of the
+way and we did not meet, or at least you never knew that we met, for you
+were--asleep. Also I pitied your youth, for, although you do not believe
+it, I had a little bit of heart left in those days. Also I knew that we
+should come together again in the after years, as you see we have done
+to-day and shall often do until the end. So I told Dingaan that whoever
+died you must be spared, or he would bring up the 'people of George'
+[i.e. the English] to avenge you, and your ghost would enter into him
+and pour out a curse upon him. He believed me who did not understand
+that already so many curses were gathered about his head that one more
+or less made no matter. So you see you were spared, Macumazahn, and
+afterwards you helped to pour out a curse upon Dingaan without becoming
+a ghost, which is the reason why Panda likes you so well to-day, Panda,
+the enemy of Dingaan, his brother. You remember the woman who helped
+you? Well, I made her do so. How did it go with you afterwards,
+Macumazahn, with you and the Boer maiden across the Buffalo River, to
+whom you were making love in those days?" "Never mind how it went," I replied, springing up, for the old wizard's
+talk had stirred sad and bitter memories in my heart. "That time is
+dead, Zikali." "Is it, Macumazahn? Now, from the look upon your face I should have said
+that it was still very much alive, as things that happened in our youth
+have a way of keeping alive. But doubtless I am mistaken, and it is all
+as dead as Dingaan, and as Retief, and as the others, your companions. At least, although you do not believe it, I saved your life on that
+red day, for my own purposes, of course, not because one white life was
+anything among so many in my count. And now go to rest, Macumazahn,
+go to rest, for although your heart has been awakened by memories this
+evening, I promise that you shall sleep well to-night," and throwing the
+long hair back off his eyes he looked at me keenly, wagging his big head
+to and fro, and burst into another of his great laughs. So I went. But, ah! as I went I wept. Anyone who knew all that story would understand why. But this is not the
+place to tell it, that tale of my first love and of the terrible events
+which befell us in the time of Dingaan. Still, as I say, I have written
+it down, and perhaps one day it will be read. CHAPTER III. THE BUFFALO WITH THE CLEFT HORN
+
+
+I slept very well that night, I suppose because I was so dog-tired
+I could not help it; but next day, on our long walk back to Umbezi's
+kraal, I thought a great deal. Without doubt I had seen and heard very strange things, both of the
+past and the present--things that I could not in the least understand. Moreover, they were mixed up with all sorts of questions of high Zulu
+policy, and threw a new light upon events that happened to me and others
+in my youth. Now, in the clear sunlight, was the time to analyse these things, and
+this I did in the most logical fashion I could command, although without
+the slightest assistance from Saduko, who, when I asked him questions,
+merely shrugged his shoulders. These questions, he said, did not interest him; I had wished to see the
+magic of Zikali, and Zikali had been pleased to show me some very good
+magic, quite of his best indeed. Also he had conversed alone with me
+afterwards, doubtless on high matters--so high that he, Saduko, was not
+admitted to share the conversation--which was an honour he accorded
+to very few. I could form my own conclusions in the light of the White
+Man's wisdom, which everyone knew was great. I replied shortly that I could, for Saduko's tone irritated me. Of
+course, the truth was that he felt aggrieved at being sent off to
+bed like a little boy while his foster-father, the old dwarf, made
+confidences to me. One of Saduko's faults was that he had always a very
+good opinion of himself. Also he was by nature terribly jealous, even in
+little things, as the readers of his history, if any, will learn. We trudged on for several hours in silence, broken at length by my
+companion. "Do you still mean to go on a shooting expedition with Umbezi, Inkoosi?" he asked, "or are you afraid?" "Of what should I be afraid?" I answered tartly. "Of the buffalo with the split horn, of which Zikali told you. What
+else?" Now, I fear I used strong language about the buffalo with the split
+horn, a beast in which I declared I had no belief whatsoever, either
+with or without its accessories of dried river-beds and water-holes. "If all this old woman's talk has made _you_ afraid, however," I added,
+"you can stop at the kraal with Mameena." "Why should the talk make me afraid, Macumazahn? Zikali did not say that
+this evil spirit of a buffalo would hurt _me_. If I fear, it is for you,
+seeing that if you are hurt you may not be able to go with me to look
+for Bangu's cattle." "Oh!" I replied sarcastically; "it seems that you are somewhat selfish,
+friend Saduko, since it is of your welfare and not of my safety that you
+are thinking." "If I were as selfish as you seem to believe, Inkoosi, should I advise
+you to stop with your wagons, and thereby lose the good gun with two
+mouths that you have promised me? Still, it is true that I should like
+well enough to stay at Umbezi's kraal with Mameena, especially if Umbezi
+were away." Now, as there is nothing more uninteresting than to listen to
+other people's love affairs, and as I saw that with the slightest
+encouragement Saduko was ready to tell me all the history of his
+courtship over again, I did not continue the argument. So we finished
+our journey in silence, and arrived at Umbezi's kraal a little after
+sundown, to find, to the disappointment of both of us, that Mameena was
+still away. Upon the following morning we started on our shooting expedition, the
+party consisting of myself, my servant Scowl, who, as I think I said,
+hailed from the Cape and was half a Hottentot; Saduko; the merry old
+Zulu, Umbezi, and a number of his men to serve as bearers and beaters. It proved a very successful trip--that is, until the end of it--for in
+those days the game in this part of the country was extremely plentiful. Before the end of the second week I killed four elephants, two of them
+with large tusks, while Saduko, who soon developed into a very fair
+shot, bagged another with the double-barrelled gun that I had promised
+him. Also, Umbezi--how, I have never discovered, for the thing partook
+of the nature of a miracle--managed to slay an elephant cow with fair
+ivories, using the old rifle that went off at half-cock. Never have I seen a man, black or white, so delighted as was that
+vainglorious Kafir. For whole hours he danced and sang and took snuff
+and saluted with his hand, telling me the story of his deed over and
+over again, no single version of which tale agreed with the other. He
+took a new title also, that meant "Eater-up-of-Elephants"; he allowed
+one of his men to "bonga"--that is, praise--him all through the night,
+preventing us from getting a wink of sleep, until at last the poor
+fellow dropped in a kind of fit from exhaustion, and so forth. It really
+was very amusing until it became a bore. Besides the elephants we killed lots of other things, including two
+lions, which I got almost with a right and left, and three white
+rhinoceroses, that now, alas! are nearly extinct. At last, towards the
+end of the third week, we had as much as our men could carry in the
+shape of ivory, rhinoceros horns, skins and sun-dried buckflesh, or
+biltong, and determined to start back for Umbezi's kraal next day. Indeed, this could not be long delayed, as our powder and lead were
+running low; for in those days, it will be remembered, breechloaders had
+not come in, and ammunition, therefore, had to be carried in bulk. To tell the truth, I was very glad that our trip had come to such a
+satisfactory conclusion, for, although I would not admit it even to
+myself, I could not get rid of a kind of sneaking dread lest after
+all there might be something in the old dwarf's prophecy about a
+disagreeable adventure with a buffalo which was in store for me. Well,
+as it chanced, we had not so much as seen a buffalo, and as the road
+which we were going to take back to the kraal ran over high, bare
+country that these animals did not frequent, there was now little
+prospect of our doing so--all of which, of course, showed what I already
+knew, that only weak-headed superstitious idiots would put the slightest
+faith in the drivelling nonsense of deceiving or self-deceived Kafir
+medicine-men. These things, indeed, I pointed out with much vigour to
+Saduko before we turned in on the last night of the hunt. Saduko listened in silence and said nothing at all, except that he would
+not keep me up any longer, as I must be tired. Now, whatever may be the reason for it, my experience in life is that it
+is never wise to brag about anything. At any rate, on a hunting trip, to
+come to a particular instance, wait until you are safe at home till you
+begin to do so. Of the truth of this ancient adage I was now destined to
+experience a particularly fine and concrete example. The place where we had camped was in scattered bush overlooking a great
+extent of dry reeds, that in the wet season was doubtless a swamp fed by
+a small river which ran into it on the side opposite to our camp. During
+the night I woke up, thinking that I heard some big beasts moving in
+these reeds; but as no further sounds reached my ears I went to sleep
+again. Shortly after dawn I was awakened by a voice calling me, which in a hazy
+fashion I recognised as that of Umbezi. "Macumazahn," said the voice in a hoarse whisper, "the reeds below us
+are full of buffalo. Get up. Get up at once." "What for?" I answered. "If the buffalo came into the reeds they will go
+out of them. We do not want meat." "No, Macumazahn; but I want their hides. Panda, the King, has demanded
+fifty shields of me, and without killing oxen that I can ill spare I
+have not the skins whereof to make them. Now, these buffalo are in a
+trap. This swamp is like a dish with one mouth. They cannot get out
+at the sides of the dish, and the mouth by which they came in is very
+narrow. If we station ourselves at either side of it we can kill many of
+them." By this time I was thoroughly awake and had arisen from my blankets. Throwing a kaross over my shoulders, I left the hut, made of boughs,
+in which I was sleeping and walked a few paces to the crest of a rocky
+ridge, whence I could see the dry vlei below. Here the mists of dawn
+still clung, but from it rose sounds of grunts, bellows and tramplings
+which I, an old hunter, could not mistake. Evidently a herd of buffalo,
+one or two hundred of them, had established themselves in those reeds. Just then my bastard servant, Scowl, and Saduko joined us, both of them
+full of excitement. It appeared that Scowl, who never seemed to sleep at any natural time,
+had seen the buffalo entering the reeds, and estimated their number at
+two or three hundred. Saduko had examined the cleft through which they
+passed, and reported it to be so narrow that we could kill any number of
+them as they rushed out to escape. "Quite so. I understand," I said. "Well, my opinion is that we had
+better let them escape. Only four of us, counting Umbezi, are armed with
+guns, and assegais are not of much use against buffalo. Let them go, I
+say." Umbezi, thinking of a cheap raw material for the shields which had been
+requisitioned by the King, who would surely be pleased if they were made
+of such a rare and tough hide as that of buffalo, protested
+violently, and Saduko, either to please one whom he hoped might be his
+father-in-law or from sheer love of sport, for which he always had a
+positive passion, backed him up. Only Scowl--whose dash of Hottentot
+blood made him cunning and cautious--took my side, pointing out that we
+were very short of powder and that buffalo "ate up much lead." At last
+Saduko said:
+
+"The lord Macumazana is our captain; we must obey him, although it is a
+pity. But doubtless the prophesying of Zikali weighs upon his mind, so
+there is nothing to be done." "Zikali!" exclaimed Umbezi. "What has the old dwarf to do with this
+matter?" "Never mind what he has or has not to do with it," I broke in, for
+although I do not think that he meant them as a taunt, but merely as a
+statement of fact, Saduko's words stung me to the quick, especially as
+my conscience told me that they were not altogether without foundation. "We will try to kill some of these buffalo," I went on, "although,
+unless the herd should get bogged, which is not likely, as the swamp is
+very dry, I do not think that we can hope for more than eight or ten at
+the most, which won't be of much use for shields. Come, let us make a
+plan. We have no time to lose, for I think they will begin to move again
+before the sun is well up." Half an hour later the four of us who were armed with guns were posted
+behind rocks on either side of the steep, natural roadway cut by water,
+which led down to the vlei, and with us some of Umbezi's men. That chief
+himself was at my side--a post of honour which he had insisted upon
+taking. To tell the truth, I did not dissuade him, for I thought that
+I should be safer so than if he were opposite to me, since, even if the
+old rifle did not go off of its own accord, Umbezi, when excited, was a
+most uncertain shot. The herd of buffalo appeared to have lain down in
+the reeds, so, being careful to post ourselves first, we sent three of
+the native bearers to the farther side of the vlei, with instructions to
+rouse the beasts by shouting. The remainder of the Zulus--there were ten
+or a dozen of them armed with stabbing spears--we kept with us. But what did these scoundrels do? Instead of disturbing the herd
+by making a noise, as we told them, for some reason best known to
+themselves--I expect it was because they were afraid to go into the
+vlei, where they might meet the horn of a buffalo at any moment--they
+fired the dry reeds in three or four places at once, and this, if you
+please, with a strong wind blowing from them to us. In a minute or two
+the farther side of the swamp was a sheet of crackling flame that gave
+off clouds of dense white smoke. Then pandemonium began. The sleeping buffalo leapt to their feet, and, after a few moments of
+indecision, crashed towards us, the whole huge herd of them, snorting
+and bellowing like mad things. Seeing what was about to happen, I nipped
+behind a big boulder, while Scowl shinned up a mimosa with the swiftness
+of a cat and, heedless of its thorns, sat himself in an eagle's nest
+at the top. The Zulus with the spears bolted to take cover where they
+could. What became of Saduko I did not see, but old Umbezi, bewildered
+with excitement, jumped into the exact middle of the roadway, shouting:
+
+"They come! They come! Charge, buffalo folk, if you will. The
+Eater-up-of-Elephants awaits you!" "You etceterad old fool!" I shouted, but got no farther, for just at
+this moment the first of the buffalo, which I could see was an enormous
+bull, probably the leader of the herd, accepted Umbezi's invitation and
+came, with its nose stuck straight out in front of it. Umbezi's gun went
+off, and next instant he went up. Through the smoke I saw his black bulk
+in the air, and then heard it alight with a thud on the top of the rock
+behind which I was crouching. "Exit Umbezi," I said to myself, and by way of a requiem let the bull
+which had hoisted him, as I thought to heaven, have an ounce of lead
+in the ribs as it passed me. After that I did not fire any more, for it
+occurred to me that it was as well not to further advertise my presence. In all my hunting experience I cannot remember ever seeing such a sight
+as that which followed. Out of the vlei rushed the buffalo by dozens,
+every one of them making remarks in its own language as it came. They
+jammed in the narrow roadway, they leapt on to each other's backs. They
+squealed, they kicked, they bellowed. They charged my friendly rock till
+I felt it shake. They knocked over Scowl's mimosa thorn, and would have
+shot him out of his eagle's nest had not its flat top fortunately caught
+in that of another and less accessible tree. And with them came clouds
+of pungent smoke, mixed with bits of burning reed and puffs of hot air. It was over at last. With the exception of some calves, which had been
+trampled to death in the rush, the herd had gone. Now, like the Roman
+emperor--I think he was an emperor--I began to wonder what had become of
+my legions. "Umbezi," I shouted, or, rather, sneezed through the smoke, "are you
+dead, Umbezi?" "Yes, yes, Macumazahn," replied a choking and melancholy voice from the
+top of the rock, "I am dead, quite dead. That evil spirit of a silwana
+[i.e. wild beast] has killed me. Oh! why did I think I was a hunter; why
+did I not stop at my kraal and count my cattle?" "I am sure I don't know, you old lunatic," I answered, as I scrambled up
+the rock to bid him good-bye. It was a rock with a razor top like the ridge of a house, and
+there, hanging across this ridge like a pair of nether garments on a
+clothes-line, I found the "Eater-up-of-Elephants." "Where did he get you, Umbezi?" I asked, for I could not see his wounds
+because of the smoke. "Behind, Macumazahn, behind!" he groaned, "for I had turned to fly, but,
+alas! too late." "On the contrary," I replied, "for one so heavy you flew very well; like
+a bird, Umbezi, like a bird." "Look and see what the evil beast has done to me, Macumazahn. It will be
+easy, for my moocha has gone." So I looked, examining Umbezi's ample proportions with care, but could
+discover nothing except a large smudge of black mud, as though he had
+sat down in a half-dried puddle. Then I guessed the truth. The buffalo's
+horns had missed him. He had been struck only with its muddy nose,
+which, being almost as broad as that portion of Umbezi with which it
+came in contact, had inflicted nothing worse than a bruise. When I was
+sure he had received no serious injury, my temper, already sorely tried,
+gave out, and I administered to him the soundest smacking--his position
+being very convenient--that he had ever received since he was a little
+boy. "Get up, you idiot!" I shouted, "and let us look for the others. This
+is the end of your folly in making me attack a herd of buffalo in reeds. Get up. Am I to stop here till I choke?" "Do you mean to tell me that I have no mortal wound, Macumazahn?" he
+asked, with a return of cheerfulness, accepting the castigation in good
+part, for he was not one who bore malice. "Oh, I am glad to hear it, for
+now I shall live to make those cowards who fired the reeds sorry that
+they are not dead; also to finish off that wild beast, for I hit him,
+Macumazahn, I hit him." "I don't know whether you hit him; I know he hit you," I replied, as I
+shoved him off the rock and ran towards the tilted tree where I had last
+seen Scowl. Here I beheld another strange sight. Scowl was still seated in the
+eagle's nest that he shared with two nearly fledged young birds, one of
+which, having been injured, was uttering piteous cries. Nor did it cry
+in vain, for its parents, which were of that great variety of kite that
+the Boers call "lammefange", or lamb-lifters, had just arrived to its
+assistance, and were giving their new nestling, Scowl, the best doing
+that man ever received at the beak and claws of feathered kind. Seen
+through those rushing smoke wreaths, the combat looked perfectly
+titanic; also it was one of the noisiest to which I ever listened, for
+I don't know which shrieked the more loudly, the infuriated eagles or
+their victim. Seeing how things stood, I burst into a roar of laughter, and just then
+Scowl grabbed the leg of the male bird, that was planted in his breast
+while it removed tufts of his wool with its hooked beak, and leapt
+boldly from the nest, which had become too hot to hold him. The eagle's
+outspread wings broke his fall, for they acted as a parachute; and so
+did Umbezi, upon whom he chanced to land. Springing from the prostrate
+shape of the chief, who now had a bruise in front to match that behind,
+Scowl, covered with pecks and scratches, ran like a lamp-lighter,
+leaving me to collect my second gun, which he had dropped at the bottom
+of the tree, but fortunately without injuring it. The Kafirs
+gave him another name after that encounter, which meant
+"He-who-fights-birds-and-gets-the-worst-of-it." Well, we escaped from the line of the smoke, a dishevelled trio--indeed,
+Umbezi had nothing left on him except his head ring--and shouted for the
+others, if perchance they had not been trodden to death in the rush. The
+first to arrive was Saduko, who looked quite calm and untroubled, but
+stared at us in astonishment, and asked coolly what we had been doing
+to get in such a state. I replied in appropriate language, and asked in
+turn how he had managed to remain so nicely dressed. He did not answer, but I believe the truth was that he had crept into
+a large ant-bear's hole--small blame to him, to be frank. Then the
+remainder of our party turned up one by one, some of them looking very
+blown, as though they had run a long way. None were missing, except
+those who had fired the reeds, and they thought it well to keep clear
+for a good many hours. I believe that afterwards they regretted not
+having taken a longer leave of absence; but when they finally did
+arrive I was in no condition to note what passed between them and their
+outraged chief. Being collected, the question arose what we should do. Of course, I
+wished to return to camp and get out of this ill-omened place as soon
+as possible. But I had reckoned without the vanity of Umbezi. Umbezi
+stretched over the edge of a sharp rock, whither he had been hoisted by
+the nose of a buffalo, and imagining himself to be mortally wounded,
+was one thing; but Umbezi in a borrowed moocha, although, because of
+his bruises, he supported his person with one hand in front and with the
+other behind, knowing his injuries to be purely superficial, was quite
+another. "I am a hunter," he said; "I am named 'Eater-up-of-Elephants';" and
+he rolled his eyes, looking about for someone to contradict him, which
+nobody did. Indeed, his "praiser," a thin, tired-looking person, whose
+voice was worn out with his previous exertions, repeated in a feeble
+way:
+
+"Yes, Black One, 'Eater-up-of-Elephants' is your name;
+'Lifted-up-by-Buffalo' is your name." "Be silent, idiot," roared Umbezi. "As I said, I am a hunter; I have
+wounded the wild beast that subsequently dared to assault me. [As a
+matter of fact, it was I, Allan Quatermain, who had wounded it.] I would
+make it bite the dust, for it cannot be far away. Let us follow it." He glared round him, whereon his obsequious people, or one of them,
+echoed:
+
+"Yes, by all means let us follow it, 'Eater-up-of-Elephants.' Macumazahn, the clever white man, will show us how, for where is the
+buffalo that he fears!" Of course, after this there was nothing else to be done, so, having
+summoned the scratched Scowl, who seemed to have no heart in the
+business, we started on the spoor of the herd, which was as easy to
+track as a wagon road. "Never mind, Baas," said Scowl, "they are two hours' march off by now." "I hope so," I answered; but, as it happened, luck was against me, for
+before we had covered half a mile some over-zealous fellow struck a
+blood spoor. I marched on that spoor for twenty minutes or so, till we came to a
+patch of bush that sloped downwards to a river-bed. Right to this river
+I followed it, till I reached the edge of a big pool that was still full
+of water, although the river itself had gone dry. Here I stood looking
+at the spoor and consulting with Saduko as to whether the beast could
+have swum the pool, for the tracks that went to its very verge had
+become confused and uncertain. Suddenly our doubts were ended, since
+out of a patch of dense bush which we had passed--for it had played the
+common trick of doubling back on its own spoor--appeared the buffalo, a
+huge bull, that halted on three legs, my bullet having broken one of its
+thighs. As to its identity there was no doubt, since on, or rather from,
+its right horn, which was cleft apart at the top, hung the remains of
+Umbezi's moocha. "Oh, beware, Inkoosi," cried Saduko in a frightened voice. _"It is the
+buffalo with the cleft horn! "_
+
+I heard him; I saw. All the scene in the hut of Zikali rose before
+me--the old dwarf, his words, everything. I lifted my rifle and fired at
+the charging beast, but knew that the bullet glanced from its skull. I
+threw down the gun--for the buffalo was right on me--and tried to jump
+aside. Almost I did so, but that cleft horn, to which hung the remains
+of Umbezi's moocha, scooped me up and hurled me off the river bank
+backwards and sideways into the deep pool below. As I departed thither I
+saw Saduko spring forward and heard a shot fired that caused the bull to
+collapse for a moment. Then with a slow, sliding motion it followed me
+into the pool. Now we were together, and there was no room for both, so after a certain
+amount of dodging I went under, as the lighter dog always does in a
+fight. That buffalo seemed to do everything to me which a buffalo
+could do under the circumstances. It tried to horn me, and partially
+succeeded, although I ducked at each swoop. Then it struck me with its
+nose and drove me to the bottom of the pool, although I got hold of its
+lip and twisted it. Then it calmly knelt on me and sank me deeper and
+deeper into the mud. I remember kicking it in the stomach. After this I
+remember no more, except a kind of wild dream in which I rehearsed
+all the scene in the dwarf's hut, and his request that when I met the
+buffalo with the cleft horn in the pool of a dried river, I should
+remember that he was nothing but a "poor old Kafir cheat." After this I saw my mother bending over a little child in my bed in the
+old house in Oxfordshire where I was born, and then--blackness! I came to myself again and saw, instead of my mother, the stately figure
+of Saduko bending over me upon one side, and on the other that of Scowl,
+the half-bred Hottentot, who was weeping, for his hot tears fell upon my
+face. "He is gone," said poor Scowl; "that bewitched beast with the split
+horn has killed him. He is gone who was the best white man in all South
+Africa, whom I loved better than my father and all my relatives." "That you might easily do, Bastard," answered Saduko, "seeing that you
+do not know who they are. But he is not gone, for the 'Opener-of-Roads'
+said that he would live; also I got my spear into the heart of that
+buffalo before he had kneaded the life out of him, as fortunately the
+mud was soft. Yet I fear that his ribs are broken"; and he poked me with
+his finger on the breast. "Take your clumsy hand off me," I gasped. "There!" said Saduko, "I have made him feel. Did I not tell you that he
+would live?" After this I remember little more, except some confused dreams, till I
+found myself lying in a great hut, which I discovered subsequently was
+Umbezi's own, the same, indeed, wherein I had doctored the ear of that
+wife of his who was called "Worn-out-old-Cow." CHAPTER IV. MAMEENA
+
+
+For a while I contemplated the roof and sides of the hut by the light
+which entered it through the smoke-vent and the door-hole, wondering
+whose it might be and how I came there. Then I tried to sit up, and instantly was seized with agony in the
+region of the ribs, which I found were bound about with broad strips of
+soft tanned hide. Clearly they, or some of them, were broken. What had broken them? I asked myself, and in a flash everything
+came back to me. So I had escaped with my life, as the old dwarf,
+"Opener-of-Roads," had told me that I should. Certainly he was an
+excellent prophet; and if he spoke truth in this matter, why not in
+others? What was I to make of it all? How could a black savage, however
+ancient, foresee the future? By induction from the past, I supposed; and yet what amount of induction
+would suffice to show him the details of a forthcoming accident that
+was to happen to me through the agency of a wild beast with a peculiarly
+shaped horn? I gave it up, as before and since that day I have found it
+necessary to do in the case of many other events in life. Indeed,
+the question is one that I often have had cause to ask where Kafir
+"witch-doctors" or prophets are concerned, notably in the instance of a
+certain Mavovo, of whom I hope to tell one day, whose predictions saved
+my life and those of my companions. Just then I heard the sound of someone creeping through the bee-hole
+of the hut, and half-closed my eyes, as I did not feel inclined for
+conversation. The person came and stood over me, and somehow--by
+instinct, I suppose--I became aware that my visitor was a woman. Very
+slowly I lifted my eyelids, just enough to enable me to see her. There, standing in a beam of golden light that, passing through the
+smoke-hole, pierced the soft gloom of the hut, stood the most beautiful
+creature that I had ever seen--that is, if it be admitted that a person
+who is black, or rather copper-coloured, can be beautiful. She was a little above the medium height, not more, with a figure that,
+so far as I am a judge of such matters, was absolutely perfect--that of
+a Greek statue indeed. On this point I had an opportunity of forming an
+opinion, since, except for her little bead apron and a single string
+of large blue beads about her throat, her costume was--well, that of
+a Greek statue. Her features showed no trace of the negro type; on the
+contrary, they were singularly well cut, the nose being straight and
+fine and the pouting mouth that just showed the ivory teeth between,
+very small. Then the eyes, large, dark and liquid, like those of a
+buck, set beneath a smooth, broad forehead on which the curling, but not
+woolly, hair grew low. This hair, by the way, was not dressed up in any
+of the eccentric native fashions, but simply parted in the middle and
+tied in a big knot over the nape of the neck, the little ears peeping
+out through its tresses. The hands, like the feet, were very small and
+delicate, and the curves of the bust soft and full without being coarse,
+or even showing the promise of coarseness. A lovely woman, truly; and yet there was something not quite pleasing
+about that beautiful face; something, notwithstanding its childlike
+outline, which reminded me of a flower breaking into bloom, that one
+does not associate with youth and innocence. I tried to analyse what
+this might be, and came to the conclusion that without being hard, it
+was too clever and, in a sense, too reflective. I felt even then that
+the brain within the shapely head was keen and bright as polished steel;
+that this woman was one made to rule, not to be man's toy, or even his
+loving companion, but to use him for her ends. She dropped her chin till it hid the little, dimple-like depression
+below her throat, which was one of her charms, and began not to look at,
+but to study me, seeing which I shut my eyes tight and waited. Evidently
+she thought that I was still in my swoon, for now she spoke to herself
+in a low voice that was soft and sweet as honey. "A small man," she said; "Saduko would make two of him, and the
+other"--who was he, I wondered--"three. His hair, too, is ugly; he cuts
+it short and it sticks up like that on a cat's back. Iya!" (i.e. Piff! ), and she moved her hand contemptuously, "a feather of a man. But
+white--white, one of those who rule. Why, they all of them know that he
+is their master. They call him 'He-who-never-Sleeps.' They say that he
+has the courage of a lioness with young--he who got away when Dingaan
+killed Piti [Retief] and the Boers; they say that he is quick and
+cunning as a snake, and that Panda and his great indunas think more of
+him than of any white man they know. He is unmarried also, though they
+say, too, that twice he had a wife, who died, and now he does not turn
+to look at women, which is strange in any man, and shows that he will
+escape trouble and succeed. Still, it must be remembered that they are
+all ugly down here in Zululand, cows, or heifers who will be cows. Piff! no more." She paused for a little while, then went on in her dreamy, reflective
+voice:
+
+"Now, if he met a woman who is not merely a cow or a heifer, a woman
+cleverer than himself, even if she were not white, I wonder--"
+
+At this point I thought it well to wake up. Turning my head I yawned,
+opened my eyes and looked at her vaguely, seeing which her expression
+changed in a flash from that of brooding power to one of moved and
+anxious girlhood; in short, it became most sweetly feminine. "You are Mameena?" I said; "is it not so?" "Oh, yes, Inkoosi," she answered, "that is my poor name. But how did you
+hear it, and how do you know me?" "I heard it from one Saduko"--here she frowned a little--"and others,
+and I knew you because you are so beautiful"--an incautious speech at
+which she broke into a dazzling smile and tossed her deer-like head. "Am I?" she asked. "I never knew it, who am only a common Zulu girl to
+whom it pleases the great white chief to say kind things, for which I
+thank him"; and she made a graceful little reverence, just bending
+one knee. "But," she went on quickly, "whatever else I be, I am of no
+knowledge, not fit to tend you who are hurt. Shall I go and send my
+oldest mother?" "Do you mean her whom your father calls the 'Worn-out-old-Cow,' and
+whose ear he shot off?" "Yes, it must be she from the description," she answered with a little
+shake of laughter, "though I never heard him give her that name." "Or if you did, you have forgotten it," I said dryly. "Well, I think
+not, thank you. Why trouble her, when you will do quite as well? If
+there is milk in that gourd, perhaps you will give me a drink of it." She flew to the bowl like a swallow, and next moment was kneeling at my
+side and holding it to my lips with one hand, while with the other she
+supported my head. "I am honoured," she said. "I only came to the hut the moment before
+you woke, and seeing you still lost in swoon, I wept--look, my eyes are
+still wet [they were, though how she made them so I do not know]--for I
+feared lest that sleep should be but the beginning of the last." "Quite so," I said; "it is very good of you. And now, since your fears
+are groundless--thanks be to the heavens--sit down, if you will, and
+tell me the story of how I came here." She sat down, not, I noted, as a Kafir woman ordinarily does, in a kind
+of kneeling position, but on a stool. "You were carried into the kraal, Inkoosi," she said, "on a litter of
+boughs. My heart stood still when I saw that litter coming; it was no
+more heart; it was cold iron, because I thought the dead or injured man
+was--" And she paused. "Saduko?" I suggested. "Not at all, Inkoosi--my father." "Well, it wasn't either of them," I said, "so you must have felt happy." "Happy! Inkoosi, when the guest of our house had been wounded, perhaps
+to death--the guest of whom I have heard so much, although by misfortune
+I was absent when he arrived." "A difference of opinion with your eldest mother?" I suggested. "Yes, Inkoosi; my own is dead, and I am not too well treated here. She
+called me a witch." "Did she?" I answered. "Well, I do not altogether wonder at it; but
+please continue your story." "There is none, Inkoosi. They brought you here, they told me how the
+evil brute of a buffalo had nearly killed you in the pool; that is all." "Yes, yes, Mameena; but how did I get out of the pool?" "Oh, it seems that your servant, Sikauli, the bastard, leapt into the
+water and engaged the attention of the buffalo which was kneading you
+into the mud, while Saduko got on to its back and drove his assegai down
+between its shoulders to the heart, so that it died. Then they pulled
+you out of the mud, crushed and almost drowned with water, and brought
+you to life again. But afterwards you became senseless, and so lay
+wandering in your speech until this hour." "Ah, he is a brave man, is Saduko." "Like others, neither more nor less," she replied with a shrug of her
+rounded shoulders. "Would you have had him let you die? I think the
+brave man was he who got in front of the bull and twisted its nose, not
+he who sat on its back and poked at it with a spear." At this period in our conversation I became suddenly faint and lost
+count of things, even of the interesting Mameena. When I awoke again she
+was gone, and in her place was old Umbezi, who, I noticed, took down
+a mat from the side of the hut and folded it up to serve as a cushion
+before he sat himself upon the stool. 

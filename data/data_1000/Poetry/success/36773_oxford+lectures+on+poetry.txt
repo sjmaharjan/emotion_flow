@@ -1,0 +1,2213 @@
+
+
+
+
+Produced by Marius Masi, Suzanne Shell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+  _BY A. C. BRADLEY, LL.D., LITT.D._
+
+  SHAKESPEAREAN TRAGEDY
+
+  LECTURES ON
+  HAMLET, OTHELLO, KING LEAR, MACBETH
+
+  MACMILLAN & CO LTD.
+
+
+
+
+  OXFORD LECTURES
+  ON POETRY
+
+  BY
+
+  A. C. BRADLEY
+  LL.D., LITT.D. FORMERLY PROFESSOR OF POETRY IN THE UNIVERSITY OF OXFORD
+  AND FELLOW OF BALLIOL COLLEGE
+
+
+  MACMILLAN
+
+  London . Melbourne . Toronto
+
+  ST MARTIN'S PRESS
+  New York
+  1965
+
+
+_This book is copyright in all countries which are signatories of the
+Berne Convention_
+
+First Edition, May 1909. Second Edition, November 1909 Reprinted 1911,
+1914, 1917, 1919, 1920, 1923, 1926, 1934, 1941, 1950, 1955, 1959, 1962,
+1963, 1965
+
+
+  MACMILLAN AND COMPANY LIMITED
+  _St Martin's Street London WC2
+  also Bombay Calcutta Madras Melbourne_
+
+  THE MACMILLAN COMPANY OF CANADA LIMITED
+  _70 Bond Street Toronto 2_
+
+  ST MARTIN'S PRESS INC
+  _175 Fifth Avenue New York 10010 NY_
+
+
+  PRINTED IN GREAT BRITAIN
+
+
+
+
+  TO
+  MY OXFORD FRIENDS
+  1869-1909
+
+_'They have seemed to be together, though absent, shook hands, as over a
+vast; and embraced, as it were, from the ends of opposed winds. '_
+
+
+
+
+PREFACE
+
+
+This volume consists of lectures delivered during my tenure of the Chair
+of Poetry at Oxford and not included in _Shakespearean Tragedy_. Most of
+them have been enlarged, and all have been revised. As they were given
+at intervals, and the majority before the publication of that book, they
+contained repetitions which I have not found it possible wholly to
+remove. Readers of a lecture published by the University of Manchester
+on _English Poetry and German Philosophy in the Age of Wordsworth_ will
+pardon also the restatement of some ideas expressed in it. The several lectures are dated, as I have been unable to take account of
+most of the literature on their subjects published since they were
+delivered. They are arranged in the order that seems best to me, but it is of
+importance only in the case of the four which deal with the poets of
+Wordsworth's time. I am indebted to the Delegates of the University Press, and to the
+proprietors and editors of the _Hibbert Journal_ and the _Albany_,
+_Fortnightly_, and _Quarterly Reviews_, respectively, for permission to
+republish the first, third, fifth, eighth, and ninth lectures. A like
+acknowledgment is due for leave to use some sentences of an article on
+Keats contributed to _Chambers's Cyclopaedia of English Literature_
+(1903). In the revision of the proof-sheets I owed much help to a sister who has
+shared many of my Oxford friendships. NOTE TO THE SECOND EDITION
+
+
+This edition is substantially identical with the first; but it and its
+later impressions contain a few improvements in points of detail, and,
+thanks to criticisms by my brother, F. H. Bradley, I hope to have made
+my meaning clearer in some pages of the second lecture. There was an oversight in the first edition which I regret. In adding
+the note on p. 247 I forgot that I had not referred to Professor Dowden
+in the lecture on "Shakespeare the Man." In everything that I have
+written on Shakespeare I am indebted to Professor Dowden, and certainly
+not least in that lecture. CONTENTS
+
+
+                                         PAGE
+  POETRY FOR POETRY'S SAKE                  3
+
+  THE SUBLIME                              37
+
+  HEGEL'S THEORY OF TRAGEDY                69
+
+  WORDSWORTH                               99
+
+  SHELLEY'S VIEW OF POETRY                151
+
+  THE LONG POEM IN THE AGE OF WORDSWORTH  177
+
+  THE LETTERS OF KEATS                    209
+
+  THE REJECTION OF FALSTAFF               247
+
+  SHAKESPEARE'S 'ANTONY AND CLEOPATRA'    279
+
+  SHAKESPEARE THE MAN                     311
+
+  SHAKESPEARE'S THEATRE AND AUDIENCE      361
+
+
+
+
+POETRY FOR POETRY'S SAKE
+
+
+POETRY FOR POETRY'S SAKE[1]
+
+(INAUGURAL LECTURE)
+
+
+One who, after twenty years, is restored to the University where he was
+taught and first tried to teach, and who has received at the hands of
+his Alma Mater an honour of which he never dreamed, is tempted to speak
+both of himself and of her. But I remember that you have come to listen
+to my thoughts about a great subject, and not to my feelings about
+myself; and of Oxford who that holds this Professorship could dare to
+speak, when he recalls the exquisite verse in which one of his
+predecessors described her beauty, and the prose in which he gently
+touched on her illusions and protested that they were as nothing when
+set against her age-long warfare with the Philistine? How, again,
+remembering him and others, should I venture to praise my predecessors? It would be pleasant to do so, and even pleasanter to me and you if,
+instead of lecturing, I quoted to you some of their best passages. But I
+could not do this for five years. Sooner or later, my own words would
+have to come, and the inevitable contrast. Not to sharpen it now, I
+will be silent concerning them also; and will only assure you that I do
+not forget them, or the greatness of the honour of succeeding them, or
+the responsibility which it entails. The words 'Poetry for poetry's sake' recall the famous phrase 'Art for
+Art.' It is far from my purpose to examine the possible meanings of that
+phrase, or all the questions it involves. I propose to state briefly
+what I understand by 'Poetry for poetry's sake,' and then, after
+guarding against one or two misapprehensions of the formula, to consider
+more fully a single problem connected with it. And I must premise,
+without attempting to justify them, certain explanations. We are to
+consider poetry in its essence, and apart from the flaws which in most
+poems accompany their poetry. We are to include in the idea of poetry
+the metrical form, and not to regard this as a mere accident or a mere
+vehicle. And, finally, poetry being poems, we are to think of a poem as
+it actually exists; and, without aiming here at accuracy, we may say
+that an actual poem is the succession of experiences--sounds, images,
+thoughts, emotions--through which we pass when we are reading as
+poetically as we can. [2] Of course this imaginative experience--if I may
+use the phrase for brevity--differs with every reader and every time of
+reading: a poem exists in innumerable degrees. But that insurmountable
+fact lies in the nature of things and does not concern us now. What then does the formula 'Poetry for poetry's sake' tell us about this
+experience? It says, as I understand it, these things. First, this
+experience is an end in itself, is worth having on its own account, has
+an intrinsic value. Next, its _poetic_ value is this intrinsic worth
+alone. Poetry may have also an ulterior value as a means to culture or
+religion; because it conveys instruction, or softens the passions, or
+furthers a good cause; because it brings the poet fame or money or a
+quiet conscience. So much the better: let it be valued for these reasons
+too. But its ulterior worth neither is nor can directly determine its
+poetic worth as a satisfying imaginative experience; and this is to be
+judged entirely from within. And to these two positions the formula
+would add, though not of necessity, a third. The consideration of
+ulterior ends, whether by the poet in the act of composing or by the
+reader in the act of experiencing, tends to lower poetic value. It does
+so because it tends to change the nature of poetry by taking it out of
+its own atmosphere. For its nature is to be not a part, nor yet a copy,
+of the real world (as we commonly understand that phrase), but to be a
+world by itself, independent, complete, autonomous; and to possess it
+fully you must enter that world, conform to its laws, and ignore for the
+time the beliefs, aims, and particular conditions which belong to you in
+the other world of reality. Of the more serious misapprehensions to which these statements may give
+rise I will glance only at one or two. The offensive consequences often
+drawn from the formula 'Art for Art' will be found to attach not to the
+doctrine that Art is an end in itself, but to the doctrine that Art is
+the whole or supreme end of human life. And as this latter doctrine,
+which seems to me absurd, is in any case quite different from the
+former, its consequences fall outside my subject. The formula 'Poetry is
+an end in itself' has nothing to say on the various questions of moral
+judgment which arise from the fact that poetry has its place in a
+many-sided life. For anything it says, the intrinsic value of poetry
+might be so small, and its ulterior effects so mischievous, that it had
+better not exist. The formula only tells us that we must not place in
+antithesis poetry and human good, for poetry is one kind of human good;
+and that we must not determine the intrinsic value of this kind of good
+by direct reference to another. If we do, we shall find ourselves
+maintaining what we did not expect. If poetic value lies in the
+stimulation of religious feelings, _Lead, kindly Light_ is no better a
+poem than many a tasteless version of a Psalm: if in the excitement of
+patriotism, why is _Scots, wha hae_ superior to _We don't want to
+fight?_ if in the mitigation of the passions, the Odes of Sappho will
+win but little praise: if in instruction, Armstrong's _Art of preserving
+Health_ should win much. Again, our formula may be accused of cutting poetry away from its
+connection with life. And this accusation raises so huge a problem that
+I must ask leave to be dogmatic as well as brief. There is plenty of
+connection between life and poetry, but it is, so to say, a connection
+underground. The two may be called different forms of the same thing:
+one of them having (in the usual sense) reality, but seldom fully
+satisfying imagination; while the other offers something which satisfies
+imagination but has not full 'reality.' They are parallel developments
+which nowhere meet, or, if I may use loosely a word which will be
+serviceable later, they are analogues. Hence we understand one by help
+of the other, and even, in a sense, care for one because of the other;
+but hence also, poetry neither is life, nor, strictly speaking, a copy
+of it. They differ not only because one has more mass and the other a
+more perfect shape, but because they have different _kinds_ of
+existence. The one touches us as beings occupying a given position in
+space and time, and having feelings, desires, and purposes due to that
+position: it appeals to imagination, but appeals to much besides. What
+meets us in poetry has not a position in the same series of time and
+space, or, if it has or had such a position, it is taken apart from much
+that belonged to it there;[3] and therefore it makes no direct appeal
+to those feelings, desires, and purposes, but speaks only to
+contemplative imagination--imagination the reverse of empty or
+emotionless, imagination saturated with the results of 'real'
+experience, but still contemplative. Thus, no doubt, one main reason why
+poetry has poetic value for us is that it presents to us in its own way
+something which we meet in another form in nature or life; and yet the
+test of its poetic value for us lies simply in the question whether it
+satisfies our imagination; the rest of us, our knowledge or conscience,
+for example, judging it only so far as they appear transmuted in our
+imagination. So also Shakespeare's knowledge or his moral insight,
+Milton's greatness of soul, Shelley's 'hate of hate' and 'love of love,'
+and that desire to help men or make them happier which may have
+influenced a poet in hours of meditation--all these have, as such, no
+poetical worth: they have that worth only when, passing through the
+unity of the poet's being, they reappear as qualities of imagination,
+and then are indeed mighty powers in the world of poetry. I come to a third misapprehension, and so to my main subject. This
+formula, it is said, empties poetry of its meaning: it is really a
+doctrine of form for form's sake. 'It is of no consequence what a poet
+says, so long as he says the thing well. The _what_ is poetically
+indifferent: it is the _how_ that counts. Matter, subject, content,
+substance, determines nothing; there is no subject with which poetry may
+not deal: the form, the treatment, is everything. Nay, more: not only is
+the matter indifferent, but it is the secret of Art to "eradicate the
+matter by means of the form,"'--phrases and statements like these meet
+us everywhere in current criticism of literature and the other arts. They are the stock-in-trade of writers who understand of them little
+more than the fact that somehow or other they are not 'bourgeois.' But
+we find them also seriously used by writers whom we must respect,
+whether they are anonymous or not; something like one or another of them
+might be quoted, for example, from Professor Saintsbury, the late R. A.
+M. Stevenson, Schiller, Goethe himself; and they are the watchwords of a
+school in the one country where Aesthetics has flourished. They come, as
+a rule, from men who either practise one of the arts, or, from study of
+it, are interested in its methods. The general reader--a being so
+general that I may say what I will of him--is outraged by them. He feels
+that he is being robbed of almost all that he cares for in a work of
+art. 'You are asking me,' he says, 'to look at the Dresden Madonna as if
+it were a Persian rug. You are telling me that the poetic value of
+_Hamlet_ lies solely in its style and versification, and that my
+interest in the man and his fate is only an intellectual or moral
+interest. You allege that, if I want to enjoy the poetry of _Crossing
+the Bar_, I must not mind what Tennyson says there, but must consider
+solely his way of saying it. But in that case I can care no more for a
+poem than I do for a set of nonsense verses; and I do not believe that
+the authors of _Hamlet_ and _Crossing the Bar_ regarded their poems
+thus.' These antitheses of subject, matter, substance on the one side, form,
+treatment, handling on the other, are the field through which I
+especially want, in this lecture, to indicate a way. It is a field of
+battle; and the battle is waged for no trivial cause; but the cries of
+the combatants are terribly ambiguous. Those phrases of the so-called
+formalist may each mean five or six different things. Taken in one sense
+they seem to me chiefly true; taken as the general reader not
+unnaturally takes them, they seem to me false and mischievous. It would
+be absurd to pretend that I can end in a few minutes a controversy
+which concerns the ultimate nature of Art, and leads perhaps to problems
+not yet soluble; but we can at least draw some plain distinctions which,
+in this controversy, are too often confused. In the first place, then, let us take 'subject' in one particular sense;
+let us understand by it that which we have in view when, looking at the
+title of an un-read poem, we say that the poet has chosen this or that
+for his subject. The subject, in this sense, so far as I can discover,
+is generally something, real or imaginary, as it exists in the minds of
+fairly cultivated people. The subject of _Paradise Lost_ would be the
+story of the Fall as that story exists in the general imagination of a
+Bible-reading people. The subject of Shelley's stanzas _To a Skylark_
+would be the ideas which arise in the mind of an educated person when,
+without knowing the poem, he hears the word 'skylark'. If the title of a
+poem conveys little or nothing to us, the 'subject' appears to be either
+what we should gather by investigating the title in a dictionary or
+other book of the kind, or else such a brief suggestion as might be
+offered by a person who had read the poem, and who said, for example,
+that the subject of _The Ancient Mariner_ was a sailor who killed an
+albatross and suffered for his deed. Now the subject, in this sense (and I intend to use the word in no
+other), is not, as such, inside the poem, but outside it. The contents
+of the stanzas _To a Skylark_ are not the ideas suggested by the work
+'skylark' to the average man; they belong to Shelley just as much as the
+language does. The subject, therefore, is not the matter _of_ the poem
+at all; and its opposite is not the _form_ of the poem, but the whole
+poem. The subject is one thing; the poem, matter and form alike, another
+thing. This being so, it is surely obvious that the poetic value cannot
+lie in the subject, but lies entirely in its opposite, the poem. How
+can the subject determine the value when on one and the same subject
+poems may be written of all degrees of merit and demerit; or when a
+perfect poem may be composed on a subject so slight as a pet sparrow,
+and, if Macaulay may be trusted, a nearly worthless poem on a subject so
+stupendous as the omnipresence of the Deity? The 'formalist' is here
+perfectly right. Nor is he insisting on something unimportant. He is
+fighting against our tendency to take the work of art as a mere copy or
+reminder of something already in our heads, or at the best as a
+suggestion of some idea as little removed as possible from the familiar. The sightseer who promenades a picture-gallery, remarking that this
+portrait is so like his cousin, or that landscape the very image of his
+birthplace, or who, after satisfying himself that one picture is about
+Elijah, passes on rejoicing to discover the subject, and nothing but the
+subject, of the next--what is he but an extreme example of this
+tendency? Well, but the very same tendency vitiates much of our
+criticism, much criticism of Shakespeare, for example, which, with all
+its cleverness and partial truth, still shows that the critic never
+passed from his own mind into Shakespeare's; and it may be traced even
+in so fine a critic as Coleridge, as when he dwarfs the sublime struggle
+of Hamlet into the image of his own unhappy weakness. Hazlitt by no
+means escaped its influence. Only the third of that great trio, Lamb,
+appears almost always to have rendered the conception of the composer. Again, it is surely true that we cannot determine beforehand what
+subjects are fit for Art, or name any subject on which a good poem might
+not possibly be written. To divide subjects into two groups, the
+beautiful or elevating, and the ugly or vicious, and to judge poems
+according as their subjects belong to one of these groups or the other,
+is to fall into the same pit, to confuse with our pre-conceptions the
+meaning of the poet. What the thing is in the poem he is to be judged
+by, not by the thing as it was before he touched it; and how can we
+venture to say beforehand that he cannot make a true poem out of
+something which to us was merely alluring or dull or revolting? The
+question whether, having done so, he ought to publish his poem; whether
+the thing in the poet's work will not be still confused by the
+incompetent Puritan or the incompetent sensualist with the thing in
+_his_ mind, does not touch this point: it is a further question, one of
+ethics, not of art. No doubt the upholders of 'Art for art's sake' will
+generally be in favour of the courageous course, of refusing to
+sacrifice the better or stronger part of the public to the weaker or
+worse; but their maxim in no way binds them to this view. Rossetti
+suppressed one of the best of his sonnets, a sonnet chosen for
+admiration by Tennyson, himself extremely sensitive about the moral
+effect of poetry; suppressed it, I believe, because it was called
+fleshly. One may regret Rossetti's judgment and at the same time respect
+his scrupulousness; but in any case he judged in his capacity of
+citizen, not in his capacity of artist. So far then the 'formalist' appears to be right. But he goes too far, I
+think, if he maintains that the subject is indifferent and that all
+subjects are the same to poetry. And he does not prove his point by
+observing that a good poem might be written on a pin's head, and a bad
+one on the Fall of Man. That truth shows that the subject _settles_
+nothing, but not that it counts for nothing. The Fall of Man is really a
+more favourable subject than a pin's head. The Fall of Man, that is to
+say, offers opportunities of poetic effects wider in range and more
+penetrating in appeal. And the fact is that such a subject, as it exists
+in the general imagination, has some aesthetic value before the poet
+touches it. It is, as you may choose to call it, an inchoate poem or
+the debris of a poem. It is not an abstract idea or a bare isolated
+fact, but an assemblage of figures, scenes, actions, and events, which
+already appeal to emotional imagination; and it is already in some
+degree organized and formed. In spite of this a bad poet would make a
+bad poem on it; but then we should say he was unworthy of the subject. And we should not say this if he wrote a bad poem on a pin's head. Conversely, a good poem on a pin's head would almost certainly transform
+its subject far more than a good poem on the Fall of Man. It might
+revolutionize its subject so completely that we should say, 'The subject
+may be a pin's head, but the substance of the poem has very little to do
+with it.' This brings us to another and a different antithesis. Those figures,
+scenes, events, that form part of the subject called the Fall of Man,
+are not the substance of _Paradise Lost_; but in _Paradise Lost_ there
+are figures, scenes, and events resembling them in some degree. These,
+with much more of the same kind, may be described as its substance, and
+may then be contrasted with the measured language of the poem, which
+will be called its form. Subject is the opposite not of form but of the
+whole poem. Substance is within the poem, and its opposite, form, is
+also within the poem. I am not criticizing this antithesis at present,
+but evidently it is quite different from the other. It is practically
+the distinction used in the old-fashioned criticism of epic and drama,
+and it flows down, not unsullied, from Aristotle. Addison, for example,
+in examining _Paradise Lost_ considers in order the fable, the
+characters, and the sentiments; these will be the substance: then he
+considers the language, that is, the style and numbers; this will be the
+form. In like manner, the substance or meaning of a lyric may be
+distinguished from the form. Now I believe it will be found that a large part of the controversy we
+are dealing with arises from a confusion between these two distinctions
+of substance and form, and of subject and poem. The extreme formalist
+lays his whole weight on the form because he thinks its opposite is the
+mere subject. The general reader is angry, but makes the same mistake,
+and gives to the subject praises that rightly belong to the
+substance[4]. I will read an example of what I mean. I can only explain
+the following words of a good critic by supposing that for the moment he
+has fallen into this confusion: 'The mere matter of all poetry--to wit,
+the appearances of nature and the thoughts and feelings of men--being
+unalterable, it follows that the difference between poet and poet will
+depend upon the manner of each in applying language, metre, rhyme,
+cadence, and what not, to this invariable material.' What has become
+here of the substance of _Paradise Lost_--the story, scenery,
+characters, sentiments, as they are in the poem? They have vanished
+clean away. Nothing is left but the form on one side, and on the other
+not even the subject, but a supposed invariable material, the
+appearances of nature and the thoughts and feelings of men. Is it
+surprising that the whole value should then be found in the form? So far we have assumed that this antithesis of substance and form is
+valid, and that it always has one meaning. In reality it has several,
+but we will leave it in its present shape, and pass to the question of
+its validity. And this question we are compelled to raise, because we
+have to deal with the two contentions that the poetic value lies wholly
+or mainly in the substance, and that it lies wholly or mainly in the
+form. Now these contentions, whether false or true, may seem at least to
+be clear; but we shall find, I think, that they are both of them false,
+or both of them nonsense: false if they concern anything outside the
+poem, nonsense if they apply to something in it. For what do they
+evidently imply? They imply that there are in a poem two parts, factors,
+or components, a substance and a form; and that you can conceive them
+distinctly and separately, so that when you are speaking of the one you
+are not speaking of the other. Otherwise how can you ask the question,
+In which of them does the value lie? But really in a poem, apart from
+defects, there are no such factors or components; and therefore it is
+strictly nonsense to ask in which of them the value lies. And on the
+other hand, if the substance and the form referred to are not in the
+poem, then both the contentions are false, for its poetic value lies in
+itself. What I mean is neither new nor mysterious; and it will be clear, I
+believe, to any one who reads poetry poetically and who closely examines
+his experience. When you are reading a poem, I would ask--not analysing
+it, and much less criticizing it, but allowing it, as it proceeds, to
+make its full impression on you through the exertion of your recreating
+imagination--do you then apprehend and enjoy as one thing a certain
+meaning or substance, and as another thing certain articulate sounds,
+and do you somehow compound these two? Surely you do not, any more than
+you apprehend apart, when you see some one smile, those lines in the
+face which express a feeling, and the feeling that the lines express. Just as there the lines and their meaning are to you one thing, not two,
+so in poetry the meaning and the sounds are one: there is, if I may put
+it so, a resonant meaning, or a meaning resonance. If you read the line,
+'The sun is warm, the sky is clear,' you do not experience separately
+the image of a warm sun and clear sky, on the one side, and certain
+unintelligible rhythmical sounds on the other; nor yet do you experience
+them together, side by side; but you experience the one _in_ the other. And in like manner, when you are really reading _Hamlet_, the action and
+the characters are not something which you conceive apart from the
+words; you apprehend them from point to point _in_ the words, and the
+words as expressions of them. Afterwards, no doubt, when you are out of
+the poetic experience but remember it, you may by analysis decompose
+this unity, and attend to a substance more or less isolated, and a form
+more or less isolated. But these are things in your analytic head, not
+in the poem, which is _poetic_ experience. And if you want to have the
+poem again, you cannot find it by adding together these two products of
+decomposition; you can only find it by passing back into poetic
+experience. And then what you recover is no aggregate of factors, it is
+a unity in which you can no more separate a substance and a form than
+you can separate living blood and the life in the blood. This unity has,
+if you like, various 'aspects' or 'sides,' but they are not factors or
+parts; if you try to examine one, you find it is also the other. Call
+them substance and form if you please, but these are not the
+reciprocally exclusive substance and form to which the two contentions
+_must_ refer. They do not 'agree,' for they are not apart: they are one
+thing from different points of view, and in that sense identical. And
+this identity of content and form, you will say, is no accident; it is
+of the essence of poetry in so far as it is poetry, and of all art in so
+far as it is art. Just as there is in music not sound on one side and a
+meaning on the other, but expressive sound, and if you ask what is the
+meaning you can only answer by pointing to the sounds; just as in
+painting there is not a meaning _plus_ paint, but a meaning _in_ paint,
+or significant paint, and no man can really express the meaning in any
+other way than in paint and in _this_ paint; so in a poem the true
+content and the true form neither exist nor can be imagined apart. When
+then you are asked whether the value of a poem lies in a substance got
+by decomposing the poem, and present, as such, only in reflective
+analysis, or whether the value lies in a form arrived at and existing in
+the same way, you will answer, 'It lies neither in one, nor in the
+other, nor in any addition of them, but in the poem, where they are
+not.' We have then, first, an antithesis of subject and poem. This is clear
+and valid; and the question in which of them does the value lie is
+intelligible; and its answer is, In the poem. We have next a distinction
+of substance and form. If the substance means ideas, images, and the
+like taken alone, and the form means the measured language taken by
+itself, this is a possible distinction, but it is a distinction of
+things not in the poem, and the value lies in neither of them. If
+substance and form mean anything _in_ the poem, then each is involved in
+the other, and the question in which of them the value lies has no
+sense. No doubt you may say, speaking loosely, that in this poet or poem
+the aspect of substance is the more noticeable, and in that the aspect
+of form; and you may pursue interesting discussions on this basis,
+though no principle or ultimate question of value is touched by them. And apart from that question, of course, I am not denying the usefulness
+and necessity of the distinction. We cannot dispense with it. To
+consider separately the action or the characters of a play, and
+separately its style or versification, is both legitimate and valuable,
+so long as we remember what we are doing. But the true critic in
+speaking of these apart does not really think of them apart; the whole,
+the poetic experience, of which they are but aspects, is always in his
+mind; and he is always aiming at a richer, truer, more intense
+repetition of that experience. On the other hand, when the question of
+principle, of poetic value, is raised, these aspects _must_ fall apart
+into components, separately conceivable; and then there arise two
+heresies, equally false, that the value lies in one of two things, both
+of which are outside the poem, and therefore where its value cannot lie. On the heresy of the separable substance a few additional words will
+suffice. This heresy is seldom formulated, but perhaps some unconscious
+holder of it may object: 'Surely the action and the characters of
+_Hamlet_ are in the play; and surely I can retain these, though I have
+forgotten all the words. I admit that I do not possess the whole poem,
+but I possess a part, and the most important part.' And I would answer:
+'If we are not concerned with any question of principle, I accept all
+that you say except the last words, which do raise such a question. Speaking loosely, I agree that the action and characters, as you perhaps
+conceive them, together with a great deal more, are in the poem. Even
+then, however, you must not claim to possess all of this kind that is in
+the poem; for in forgetting the words you must have lost innumerable
+details of the action and the characters. And, when the question of
+value is raised, I must insist that the action and characters, as you
+conceive them, are not in _Hamlet_ at all. If they are, point them out. You cannot do it. What you find at any moment of that succession of
+experiences called _Hamlet_ is words. In these words, to speak loosely
+again, the action and characters (more of them than you can conceive
+apart) are focussed; but your experience is not a combination of them,
+as ideas, on the one side, with certain sounds on the other; it is an
+experience of something in which the two are indissolubly fused. If you
+deny this, to be sure I can make no answer, or can only answer that I
+have reason to believe that you cannot read poetically, or else are
+misinterpreting your experience. But if you do not deny this, then you
+will admit that the action and characters of the poem, as you separately
+imagine them, are no part of it, but a product of it in your reflective
+imagination, a faint analogue of one aspect of it taken in detachment
+from the whole. Well, I do not dispute, I would even insist, that, in
+the case of so long a poem as _Hamlet_, it may be necessary from time to
+time to interrupt the poetic experience, in order to enrich it by
+forming such a product and dwelling on it. Nor, in a wide sense of
+"poetic," do I question the poetic value of this product, as you think
+of it apart from the poem. It resembles our recollections of the heroes
+of history or legend, who move about in our imaginations, "forms more
+real than living man," and are worth much to us though we do not
+remember anything they said. Our ideas and images of the "substance" of
+a poem have this poetic value, and more, if they are at all adequate. But they cannot determine the poetic value of the poem, for (not to
+speak of the competing claims of the "form") nothing that is outside the
+poem can do that, and they, as such, are outside it. '[5]
+
+Let us turn to the so-called form--style and versification. There is no
+such thing as mere form in poetry. All form is expression. Style may
+have indeed a certain aesthetic worth in partial abstraction from the
+particular matter it conveys, as in a well-built sentence you may take
+pleasure in the build almost apart from the meaning. Even so, style is
+expressive--presents to sense, for example, the order, ease, and
+rapidity with which ideas move in the writer's mind--but it is not
+expressive of the meaning of that particular sentence. And it is
+possible, interrupting poetic experience, to decompose it and abstract
+for comparatively separate consideration this nearly formal element of
+style. But the aesthetic value of style so taken is not considerable;[6]
+you could not read with pleasure for an hour a composition which had no
+other merit. And in poetic experience you never apprehend this value by
+itself; the style is here expressive also of a particular meaning, or
+rather is one aspect of that unity whose other aspect is meaning. So
+that what you apprehend may be called indifferently an expressed meaning
+or a significant form. Perhaps on this point I may in Oxford appeal to
+authority, that of Matthew Arnold and Walter Pater, the latter at any
+rate an authority whom the formalist will not despise. What is the gist
+of Pater's teaching about style, if it is not that in the end the one
+virtue of style is truth or adequacy; that the word, phrase, sentence,
+should express perfectly the writer's perception, feeling, image, or
+thought; so that, as we read a descriptive phrase of Keats's, we
+exclaim, 'That is the thing itself'; so that, to quote Arnold, the words
+are 'symbols equivalent with the thing symbolized,' or, in our technical
+language, a form identical with its content? Hence in true poetry it is,
+in strictness, impossible to express the meaning in any but its own
+words, or to change the words without changing the meaning. A
+translation of such poetry is not really the old meaning in a fresh
+dress; it is a new product, something like the poem, though, if one
+chooses to say so, more like it in the aspect of meaning than in the
+aspect of form. No one who understands poetry, it seems to me, would dispute this, were
+it not that, falling away from his experience, or misled by theory, he
+takes the word 'meaning' in a sense almost ludicrously inapplicable to
+poetry. People say, for instance, 'steed' and 'horse' have the same
+meaning; and in bad poetry they have, but not in poetry that _is_
+poetry. 'Bring forth the horse!' The horse was brought:
+  In truth he was a noble steed! says Byron in _Mazeppa_. If the two words mean the same here, transpose
+them:
+
+  'Bring forth the steed!' The steed was brought:
+  In truth he was a noble horse! and ask again if they mean the same. Or let me take a line certainly
+very free from 'poetic diction':
+
+  To be or not to be, that is the question. You may say that this means the same as 'What is just now occupying my
+attention is the comparative disadvantages of continuing to live or
+putting an end to myself.' And for practical purposes--the purpose, for
+example, of a coroner--it does. But as the second version altogether
+misrepresents the speaker at that moment of his existence, while the
+first does represent him, how can they for any but a practical or
+logical purpose be said to have the same sense? Hamlet was well able to
+'unpack his heart with words,' but he will not unpack it with our
+paraphrases. These considerations apply equally to versification. If I take the
+famous line which describes how the souls of the dead stood waiting by
+the river, imploring a passage from Charon:
+
+  Tendebantque manus ripae ulterioris amore;
+
+and if I translate it, 'and were stretching forth their hands in longing
+for the further bank,' the charm of the original has fled. Why has it
+fled? Partly (but we have dealt with that) because I have substituted
+for five words, and those the words of Virgil, twelve words, and those
+my own. In some measure because I have turned into rhythmless prose a
+line of verse which, as mere sound, has unusual beauty. But much more
+because in doing so I have also changed the _meaning_ of Virgil's line. What that meaning is _I_ cannot say: Virgil has said it. But I can see
+this much, that the translation conveys a far less vivid picture of the
+outstretched hands and of their remaining outstretched, and a far less
+poignant sense of the distance of the shore and the longing of the
+souls. And it does so partly because this picture and this sense are
+conveyed not only by the obvious meaning of the words, but through the
+long-drawn sound of 'tendebantque,' through the time occupied by the
+five syllables and therefore by the idea of 'ulterioris,' and through
+the identity of the long sound 'or' in the penultimate syllables of
+'ulterioris amore'--all this, and much more, apprehended not in this
+analytical fashion, nor as _added_ to the beauty of mere sound and to
+the obvious meaning, but in unity with them and so as expressive of the
+poetic meaning of the whole. It is always so in fine poetry. The value of versification, when it is
+indissolubly fused with meaning, can hardly be exaggerated. The gift for
+feeling it, even more perhaps than the gift for feeling the value of
+style, is the _specific_ gift for poetry, as distinguished from other
+arts. But versification, taken, as far as possible, all by itself, has a
+very different worth. Some aesthetic worth it has; how much, you may
+experience by reading poetry in a language of which you do not
+understand a syllable. [7] The pleasure is quite appreciable, but it is
+not great; nor in actual poetic experience do you meet with it, as such,
+at all. For, I repeat, it is not _added_ to the pleasure of the meaning
+when you read poetry that you do understand: by some mystery the music
+is then the music _of_ the meaning, and the two are one. However fond
+of versification you might be, you would tire very soon of reading
+verses in Chinese; and before long of reading Virgil and Dante if you
+were ignorant of their languages. But take the music as it is _in_ the
+poem, and there is a marvellous change. Now
+
+  It gives a very echo to the seat
+  Where love is throned;
+
+or 'carries far into your heart,' almost like music itself, the sound
+
+  Of old, unhappy, far-off things
+      And battles long ago. What then is to be said of the following sentence of the critic quoted
+before: 'But when any one who knows what poetry is reads--
+
+  Our noisy years seem moments in the being
+  Of the eternal silence,
+
+he sees that, quite independently of the meaning, ... there is one note
+added to the articulate music of the world--a note that never will leave
+off resounding till the eternal silence itself gulfs it' must think that
+the writer is deceiving himself. For I could quite understand his
+enthusiasm, if it were an enthusiasm for the music of the meaning; but
+as for the music, 'quite independently of the meaning,' so far as I can
+hear it thus (and I doubt if any one who knows English can quite do so),
+I find it gives some pleasure, but only a trifling pleasure. And indeed
+I venture to doubt whether, considered as mere sound, the words are at
+all exceptionally beautiful, as Virgil's line certainly is. When poetry answers to its idea and is purely or almost purely poetic,
+we find the identity of form and content; and the degree of purity
+attained may be tested by the degree in which we feel it hopeless to
+convey the effect of a poem or passage in any form but its own. Where
+the notion of doing so is simply ludicrous, you have quintessential
+poetry. But a great part even of good poetry, especially in long works,
+is of a mixed nature; and so we find in it no more than a partial
+agreement of a form and substance which remain to some extent distinct. This is so in many passages of Shakespeare (the greatest of poets when
+he chose, but not always a conscientious poet); passages where something
+was wanted for the sake of the plot, but he did not care about it or was
+hurried. The conception of the passage is then distinct from the
+execution, and neither is inspired. This is so also, I think, wherever
+we can truly speak of merely decorative effect. We seem to perceive that
+the poet had a truth or fact--philosophical, agricultural,
+social--distinctly before him, and then, as we say, clothed it in
+metrical and coloured language. Most argumentative, didactic, or satiric
+poems are partly of this kind; and in imaginative poems anything which
+is really a mere 'conceit' is mere decoration. We often deceive
+ourselves in this matter, for what we call decoration has often a new
+and genuinely poetic content of its own; but wherever there is mere
+decoration, we judge the poetry to be not wholly poetic. And so when
+Wordsworth inveighed against poetic diction, though he hurled his darts
+rather wildly, what he was rightly aiming at was a phraseology, not the
+living body of a new content, but the mere worn-out body of an old
+one. [8]
+
+In pure poetry it is otherwise. Pure poetry is not the decoration of a
+preconceived and clearly defined matter: it springs from the creative
+impulse of a vague imaginative mass pressing for development and
+definition. If the poet already knew exactly what he meant to say, why
+should he write the poem? The poem would in fact already be written. For
+only its completion can reveal, even to him, exactly what he wanted. When he began and while he was at work, he did not possess his meaning;
+it possessed him. It was not a fully formed soul asking for a body: it
+was an inchoate soul in the inchoate body of perhaps two or three vague
+ideas and a few scattered phrases. The growing of this body into its
+full stature and perfect shape was the same thing as the gradual
+self-definition of the meaning. [9] And this is the reason why such poems
+strike us as creations, not manufactures, and have the magical effect
+which mere decoration cannot produce. This is also the reason why, if we
+insist on asking for the meaning of such a poem, we can only be answered
+'It means itself.' And so at last I may explain why I have troubled myself and you with
+what may seem an arid controversy about mere words. It is not so. These
+heresies which would make poetry a compound of two factors--a matter
+common to it with the merest prose, _plus_ a poetic form, as the one
+heresy says: a poetical substance _plus_ a negligible form, as the other
+says--are not only untrue, they are injurious to the dignity of poetry. In an age already inclined to shrink from those higher realms where
+poetry touches religion and philosophy, the formalist heresy encourages
+men to taste poetry as they would a fine wine, which has indeed an
+aesthetic value, but a small one. And then the natural man, finding an
+empty form, hurls into it the matter of cheap pathos, rancid sentiment,
+vulgar humour, bare lust, ravenous vanity--everything which, in
+Schiller's phrase,[10] the form should extirpate, but which no mere form
+can extirpate. And the other heresy--which is indeed rather a practice
+than a creed--encourages us in the habit so dear to us of putting our
+own thoughts or fancies into the place of the poet's creation. What he
+meant by _Hamlet_, or the _Ode to a Nightingale_, or _Abt Vogler_, we
+say, is this or that which we knew already; and so we lose what he had
+to tell us. But he meant what he said, and said what he meant. Poetry in this matter is not, as good critics of painting and music
+often affirm, different from the other arts; in all of them the content
+is one thing with the form. What Beethoven meant by his symphony, or
+Turner by his picture, was not something which you can name, but the
+picture and the symphony. Meaning they have, but _what_ meaning can be
+said in no language but their own: and we know this, though some strange
+delusion makes us think the meaning has less worth because we cannot put
+it into words. Well, it is just the same with poetry. But because poetry
+is words, we vainly fancy that some other words than its own will
+express its meaning. And they will do so no more--or, if you like to
+speak loosely, only a trifle more--than words will express the meaning
+of the Dresden Madonna. [11] Something a little like it they may indeed
+express. And we may find analogues of the meaning of poetry outside it,
+which may help us to appropriate it. The other arts, the best ideas of
+philosophy or religion, much that nature and life offer us or force upon
+us, are akin to it. But they are only akin. Nor is it the expression of
+them. Poetry does not present to imagination our highest knowledge or
+belief, and much less our dreams and opinions; but it, content and form
+in unity, embodies in its own irreplaceable way something which embodies
+itself also in other irreplaceable ways, such as philosophy or religion. And just as each of these gives a satisfaction which the other cannot
+possibly give, so we find in poetry, which cannot satisfy the needs they
+meet, that which by their natures they cannot afford us. But we shall
+not find it fully if we look for something else. And now, when all is said, the question will still recur, though now in
+quite another sense, What does poetry mean? [12] This unique expression,
+which cannot be replaced by any other, still seems to be trying to
+express something beyond itself. And this, we feel, is also what the
+other arts, and religion, and philosophy are trying to express: and that
+is what impels us to seek in vain to translate the one into the other. About the best poetry, and not only the best, there floats an atmosphere
+of infinite suggestion. The poet speaks to us of one thing, but in this
+one thing there seems to lurk the secret of all. He said what he meant,
+but his meaning seems to beckon away beyond itself, or rather to expand
+into something boundless which is only focussed in it; something also
+which, we feel, would satisfy not only the imagination, but the whole of
+us; that something within us, and without, which everywhere
+
+                  makes us seem
+  To patch up fragments of a dream,
+  Part of which comes true, and part
+  Beats and trembles in the heart. Those who are susceptible to this effect of poetry find it not only,
+perhaps not most, in the ideals which she has sometimes described, but
+in a child's song by Christina Rossetti about a mere crown of
+wind-flowers, and in tragedies like _Lear_, where the sun seems to have
+set for ever. They hear this spirit murmuring its undertone through the
+_Aeneid_, and catch its voice in the song of Keats's nightingale, and
+its light upon the figures on the Urn, and it pierces them no less in
+Shelley's hopeless lament, _O world, O life, O time_, than in the
+rapturous ecstasy of his _Life of Life_. This all-embracing perfection
+cannot be expressed in poetic words or words of any kind, nor yet in
+music or in colour, but the suggestion of it is in much poetry, if not
+all, and poetry has in this suggestion, this 'meaning,' a great part of
+its value. We do it wrong, and we defeat our own purposes, when we try
+to bend it to them:
+
+  We do it wrong, being so majestical,
+  To offer it the show of violence;
+  For it is as the air invulnerable,
+  And our vain blows malicious mockery. It is a spirit. It comes we know not whence. It will not speak at our
+bidding, nor answer in our language. It is not our servant; it is our
+master. 1901
+
+
+  NOTE A
+
+The purpose of this sentence was not, as has been supposed, to give a
+definition of poetry. To define poetry as something that goes on in us
+when we read poetically would be absurd indeed. My object was to suggest
+to my hearers in passing that it is futile to ask questions about the
+end, or substance, or form of poetry, if we forget that a poem is
+neither a mere number of black marks on a white page, nor such
+experience as is evoked in us when we read these marks as we read, let
+us say, a newspaper article; and I suppose my hearers to know,
+sufficiently for the purpose of the lecture, how that sort of reading
+differs from poetical reading. The truths thus suggested are so obvious, when stated, that I thought a
+bare reminder of them would be enough. But in fact the mistakes we make
+about 'subject,' 'substance,' 'form,' and the like, are due not solely
+to misapprehension of our poetic experience, but to our examining what
+is not this experience. The whole lecture may be called an expansion of
+this statement. The passage to which the present note refers raises difficult questions
+which any attempt at a 'Poetics' ought to discuss. I will mention three. (1) If the experience called a poem varies 'with every reader and every
+time of reading' and 'exists in innumerable degrees,' what is the poem
+itself, if there is such a thing? (2) How does a series of successive
+experiences form _one_ poem? (3) If the object in the case of poetry and
+music ('arts of hearing') is a succession somehow and to some extent
+unified, how does it differ in this respect from the object in 'arts of
+sight'--a building, a statue, a picture? NOTE B
+
+A lyric, for example, may arise from 'real' emotions due to transitory
+conditions peculiar to the poet. But these emotions and conditions,
+however interesting biographically, are poetically irrelevant. The poem,
+what the poet _says_, is universal, and is appropriated by people who
+live centuries after him and perhaps know nothing of him and his life;
+and if it arose from mere imagination it is none the worse (or the
+better) for that. So far as it cannot be appropriated without a
+knowledge of the circumstances in which it arose, it is probably, so
+far, faulty (probably, because the difficulty _may_ come from our
+distance from the whole mental world of the poet's time and country). What is said in the text applies equally to all the arts. It applies
+also to such aesthetic apprehension as does not issue in a work of art. And it applies to this apprehension whether the object belongs to
+'Nature' or to 'Man.' A beautiful landscape is not a 'real' landscape. Much that belongs to the 'real' landscape is ignored when it is
+apprehended aesthetically; and the painter only carries this unconscious
+idealisation further when he deliberately alters the 'real' landscape in
+further ways. All this does not in the least imply that the 'real' thing, where there
+is one (personal emotion, landscape, historical event, etc. ), is of
+small importance to the aesthetic apprehension or the work of art. But
+it is relevant only as it appears _in_ that apprehension or work. If an artist alters a reality (_e.g._ a well-known scene or historical
+character) so much that his product clashes violently with our familiar
+ideas, he may be making a mistake: not because his product is untrue to
+the reality (this by itself is perfectly irrelevant), but because the
+'untruth' may make it difficult or impossible for others to appropriate
+his product, or because this product may be aesthetically inferior to
+the reality even as it exists in the general imagination. NOTE C
+
+For the purpose of the experiment you must, of course, know the sounds
+denoted by the letters, and you must be able to make out the rhythmical
+scheme. But the experiment will be vitiated if you get some one who
+understands the language to read or recite to you poems written in it,
+for he will certainly so read or recite as to convey to you something of
+the meaning through the sound (I do not refer of course to the logical
+meaning). Hence it is clear that, if by 'versification taken by itself' one means
+the versification of a _poem_, it is impossible under the requisite
+conditions to get at this versification by itself. The versification of
+a poem is always, to speak loosely, influenced by the sense. The bare
+metrical scheme, to go no further, is practically never followed by the
+poet. Suppose yourself to know no English, and to perceive merely that
+in its general scheme
+
+  It gives a very echo to the seat
+
+is an iambic line of five feet; and then read the line as you would have
+to read it; and then ask if _that_ noise is the sound of the line _in
+the poem_. In the text, therefore, more is admitted than in strictness should be
+admitted. For I have assumed for the moment that you can hear the sound
+of poetry if you read poetry which you do not in the least understand,
+whereas in fact that sound cannot be produced at all except by a person
+who knows something of the meaning. NOTE D
+
+This paragraph has not, to my knowledge, been adversely criticised, but
+it now appears to me seriously misleading. It refers to certain kinds of
+poetry, and again to certain passages in poems, which we feel to be less
+poetical than some other kinds or passages. But this difference of
+degree in poeticalness (if I may use the word) is put as a difference
+between 'mixed' and 'pure' poetry; and that distinction is, I think,
+unreal and mischievous. Further, it is implied that in less poetical
+poetry there necessarily is only a partial unity of content and form. This (unless I am now mistaken) is a mistake, and a mistake due to
+failure to hold fast the main idea of the lecture. Naturally it would be
+most agreeable to me to re-write the paragraph, but if I reprint it and
+expose my errors the reader will perhaps be helped to a firmer grasp of
+that idea. It is true that where poetry is most poetic we feel most decidedly how
+impossible it is to separate content and form. But where poetry is less
+poetic and does not make us feel this unity so decidedly, it does not
+follow that the unity is imperfect. Failure or partial failure in this
+unity is always (as in the case of Shakespeare referred to) a failure on
+the part of the _poet_ (though it is not always due to the same causes). It does not lie of necessity in the nature of a particular kind of
+poetry (_e.g._ satire) or in the nature of a particular passage. All
+poetry cannot be equally poetic, but _all_ poetry ought to maintain the
+unity of content and form, and, in that sense, to be 'pure.' Only in
+certain kinds, and in certain passages, it is more difficult for the
+poet to maintain it than in others. Let us take first the 'passages' and suppose them to occur in one of the
+more poetic kinds of poetry. In certain parts of any epic or tragedy
+matter has to be treated which, though necessary to the whole, is not in
+itself favourable to poetry, or would not in itself be a good 'subject.' But it is the business of the poet to do his best to make this matter
+poetry, and pure poetry. And, if he succeeds, the passage, though it
+will probably be less poetic than the bulk of the poem, will exhibit the
+complete unity of content and form. It will not strike us as a mere
+bridge between other passages; it will be enjoyable for itself; and it
+will not occur to us to think that the poet was dealing with an
+un-poetic 'matter' and found his task difficult or irksome. Shakespeare
+frequently does not trouble himself to face this problem and leaves an
+imperfect unity. The conscientious artists, like Virgil, Milton,
+Tennyson, habitually face, it and frequently solve it. [13] And when they
+wholly or partially fail, the fault is still _theirs_. It is, in one
+sense, due to the 'matter,' which set a hard problem; but they would be
+the first to declare that _nothing_ in the poem ought to be only mixedly
+poetic. In the same way, satire is not in its nature a highly poetic kind of
+poetry, but it ought, in its own kind, to be poetry throughout, and
+therefore ought not to show a merely partial unity of content and form. If the satirist makes us exclaim 'This is sheer prose wonderfully well
+disguised,' that is a fault, and _his_ fault (unless it happens to be
+ours). The idea that a tragedy or lyric could really be reproduced in a
+form not its own strikes us as ridiculous; the idea that a satire could
+so be reproduced seems much less ridiculous; but if it were true the
+satire would not be poetry at all. The reader will now see where, in my judgment, the paragraph is wrong. Elsewhere it is, I think, right, though it deals with a subject far too
+large for a paragraph. This is also true of the next paragraph, which
+uses the false distinction of 'pure' and 'mixed,' and which will hold in
+various degrees of poetry in various degrees poetical. It is of course possible to use a distinction of 'pure' and 'mixed' in
+another sense. Poetry, whatever its kind, would be pure as far as it
+preserved the unity of content and form; mixed, so far as it failed to
+do so--in other words, failed to be poetry and was partly prosaic. NOTE E
+
+It is possible therefore that the poem, as it existed at certain stages
+in its growth, may correspond roughly with the poem as it exists in the
+memories of various readers. A reader who is fond of the poem and often
+thinks of it, but remembers only half the words and perhaps fills up the
+gaps with his own words, may possess something like the poem as it was
+when half-made. There are readers again who retain only what they would
+call the 'idea' of the poem; and the poem _may_ have begun from such an
+idea. Others will forget all the words, and will not profess to remember
+even the 'meaning,' but believe that they possess the 'spirit' of the
+poem. And what they possess may have, I think, an immense value. The
+poem, of course, it is not; but it may answer to the state of
+imaginative feeling or emotional imagination which was the germ of the
+poem. This is, in one sense, quite definite: it would not be the germ of
+a decidedly different poem: but in another sense it is indefinite,
+comparatively structureless, more a 'stimmung' than an idea. Such correspondences, naturally, must be very rough, if only because the
+readers have been at one time in contact with the fully grown poem. NOTE F
+
+I should be sorry if what is said here and elsewhere were taken to imply
+depreciation of all attempts at the interpretation of works of art. As
+regards poetry, such attempts, though they cannot possibly express the
+whole meaning of a poem, may do much to facilitate the poetic
+apprehension of that meaning. And, although the attempt is still more
+hazardous in the case of music and painting, I believe it may have a
+similar value. That its results _may_ be absurd or disgusting goes
+without saying, and whether they are ever of use to musicians or the
+musically educated I do not know. But I see no reason why an exceedingly
+competent person should not try to indicate the emotional tone of a
+composition, movement, or passage, or the changes of feeling within it,
+or even, very roughly, the 'idea' he may suppose it to embody (though he
+need not imply that the composer had any of this before his mind). And I
+believe that such indications, however inadequate they must be, may
+greatly help the uneducated lover of music to hear more truly the music
+itself. NOTE G
+
+This new question has 'quite another sense' than that of the question,
+What is the meaning or content expressed by the form of a poem? The new
+question asks, What is it that the _poem_, the unity of this content and
+form, is trying to express? This 'beyond' is beyond the content as well
+as the form. Of course, I should add, it is not _merely_ beyond them or outside of
+them. If it were, they (the poem) could not 'suggest' it. They are a
+partial manifestation of it, and point beyond themselves to it, both
+because they _are_ a manifestation and because this is partial. The same thing is true, not only (as is remarked in the text) of the
+other arts and of religion and philosophy, but also of what is commonly
+called reality. This reality is a manifestation of a different order
+from poetry, and in certain important respects a much more imperfect
+manifestation. Hence, as was pointed out (pp. 6, 7, note B), poetry is
+not a copy of it, but in dealing with it idealises it, and in doing so
+produces in certain respects a fuller manifestation. On the other hand,
+that imperfect 'reality' has for us a character in which poetry is
+deficient,--the character in virtue of which we call it 'reality.' It
+is, we feel, thrust upon us, not made by us or by any other man. And in
+this respect it seems more akin than poetry to that 'beyond,' or
+absolute, or perfection, which we want, which partially expresses itself
+in both, and which could not be perfection and could not satisfy us if
+it were not real (though it cannot be real in the same sense as that
+imperfect 'reality'). This seems the ultimate ground of the requirement
+that poetry, though no copy of 'reality,' should not be mere 'fancy,'
+but should refer to, and interpret, that 'reality.' For that reality,
+however imperfectly it reveals perfection, is at least no mere fancy. (Not that the merest fancy can fail to reveal something of perfection.) The lines quoted on p. 26 are from a fragment of Shelley's beginning 'Is
+it that in some brighter sphere.' FOOTNOTES:
+
+  [1] The lecture, as printed in 1901, was preceded by the following
+    note: "This Lecture is printed almost as it was delivered. I am aware
+    that, especially in the earlier pages, difficult subjects are treated
+    in a manner far too summary, but they require an exposition so full
+    that it would destroy the original form of the Lecture, while a
+    slight expansion would do little to provide against
+    misunderstandings." A few verbal changes have now been made, some
+    notes have been added, and some of the introductory remarks omitted. [2] Note A. [3] Note B. [4] What is here called 'substance' is what people generally mean
+    when they use the word 'subject' and insist on the value of the
+    subject. I am not arguing against this usage, or in favour of the
+    usage which I have adopted for the sake of clearness. It does not
+    matter which we employ, so long as we and others know what we mean. (I use 'substance' and 'content' indifferently.) [5] These remarks will hold good, _mutatis mutandis_, if by
+    'substance' is understood the 'moral' or the 'idea' of a poem,
+    although perhaps in one instance out of five thousand this may be
+    found in so many words in the poem. [6] On the other hand, the absence, or worse than absence, of style,
+    in this sense, is a serious matter. [7] Note C.
+
+  [8] This paragraph is criticized in Note D.
+
+  [9]: Note E.
+
+  [10] Not that to Schiller 'form' meant mere style and versification. [11] Note F.
+
+  [12] Note G.
+
+  [13] In Schiller's phrase, they have extirpated the mere 'matter.' We
+    often say that they do this by dint of style. This is roughly true,
+    but in strictness it means, as we have seen, not that they decorate
+    the mere 'matter' with a mere 'form,' but that they produce a new
+    content-form. THE SUBLIME
+
+
+THE SUBLIME[1]
+
+
+Coleridge used to tell a story about his visit to the Falls of Clyde;
+but he told it with such variations that the details are uncertain, and
+without regard to truth I shall change it to the shape that suits my
+purpose best. After gazing at the Falls for some time, he began to
+consider what adjective would answer most precisely to the impression he
+had received; and he came to the conclusion that the proper word was
+'sublime.' Two other tourists arrived, and, standing by him, looked in
+silence at the spectacle. Then, to Coleridge's high satisfaction, the
+gentleman exclaimed, 'It is sublime.' To which the lady responded, 'Yes,
+it is the prettiest thing I ever saw.' This poor lady's incapacity (for I assume that Coleridge and her husband
+were in the right) is ludicrous, but it is also a little painful. Sublimity and prettiness are qualities separated by so great a distance
+that our sudden attempt to unite them has a comically incongruous
+effect. At the same time the first of these qualities is so exalted that
+the exhibition of entire inability to perceive it is distressing. Astonishment, rapture, awe, even self-abasement, are among the emotions
+evoked by sublimity. Many would be inclined to pronounce it the very
+highest of all the forms assumed by beauty, whether in nature or in
+works of imagination. I propose to make some remarks on this quality, and even to attempt some
+sort of answer to the question what sublimity is. I say 'some sort of
+answer,' because the question is large and difficult, and I can deal
+with it only in outline and by drawing artificial limits round it and
+refusing to discuss certain presuppositions on which the answer rests. What I mean by these last words will be evident if I begin by referring
+to a term which will often recur in this lecture--the term 'beauty.' When we call sublimity a form of beauty, as I did just now, the word
+'beauty' is obviously being used in the widest sense. It is the sense
+which the word bears when we distinguish beauty from goodness and from
+truth, or when 'beautiful' is taken to signify anything and everything
+that gives aesthetic satisfaction, or when 'Aesthetics' and 'Philosophy
+of the Beautiful' are used as equivalent expressions. Of beauty, thus
+understood, sublimity is one particular kind among a number of others,
+for instance prettiness. But 'beauty' and 'beautiful' have also another
+meaning, narrower and more specific, as when we say that a thing is
+pretty but not beautiful, or that it is beautiful but not sublime. The
+beauty we have in view here is evidently not the same as beauty in the
+wider sense; it is only, like sublimity or prettiness, a particular kind
+or mode of that beauty. This ambiguity of the words 'beauty' and
+'beautiful' is a great inconvenience, and especially so in a lecture,
+where it forces us to add some qualification to the words whenever they
+occur: but it cannot be helped. (Now that the lecture is printed I am
+able to avoid these qualifications by printing the words in inverted
+commas where they bear the narrower sense. )[2]
+
+Now, obviously, all the particular kinds or modes of beauty must have,
+up to a certain point, the same nature. They must all possess that
+character in virtue of which they are called beautiful rather than good
+or true. And so a philosopher, investigating one of these kinds, would
+first have to determine this common nature or character; and then he
+would go on to ascertain what it is that distinguishes the particular
+kind from its companions. But here we cannot follow such a method. The
+nature of beauty in general is so much disputed and so variously defined
+that to discuss it here by way of preface would be absurd; and on the
+other hand it would be both presumptuous and useless to assume the truth
+of any one account of it. Our only plan, therefore, must be to leave it
+entirely alone, and to consider merely the distinctive character of
+sublimity. Let beauty in general be what it may, what is it that marks
+off _this_ kind of beauty from others, and what is there peculiar in our
+state of mind when we are moved to apply to anything the specific
+epithet 'sublime'?--such is our question. And this plan is not merely
+the only possible one, but it is, I believe, quite justifiable, since,
+so far as I can see, the answer to our particular question, unless it is
+pushed further than I propose to go, is unaffected by the differences
+among theories of repute concerning beauty in general. At the same time,
+it is essential to realise and always to bear in mind one consequence of
+this plan; which is that our account of what is peculiar to sublimity
+will not be an account of sublimity in its full nature. For sublimity is
+not those peculiar characteristics alone, it is that _beauty_ which is
+distinguished by them, and a large part of its effect is due to that
+general nature of beauty which it shares with other kinds, and which we
+leave unexamined. In considering the question thus defined I propose to start from our
+common aesthetic experience and to attempt to arrive at an answer by
+degrees. It will be understood, therefore, that our first results may
+have to be modified as we proceed. And I will venture to ask my hearers,
+further, to ignore for the time any doubts they may feel whether I am
+right in saying, by way of illustration, that this or that thing is
+sublime. Such differences of opinion scarcely affect our question, which
+is not whether in a given case the epithet is rightly applied, but what
+the epithet signifies. And it has to be borne in mind that, while no two
+kinds of beauty can be quite the same, a _thing_ may very well possess
+beauty of two different kinds. Let us begin by placing side by side five terms which represent five of
+the many modes of beauty--sublime, grand, 'beautiful,' graceful, pretty. 'Beautiful' is here placed in the middle. Before it come two terms,
+sublime and grand; and beyond it lie two others, graceful and pretty. Now is it not the case that the first two, though not identical, still
+seem to be allied in some respect; that the last two also seem to be
+allied in some respect; that in this respect, whatever it may be, these
+two pairs seem to stand apart from one another, and even to stand in
+contrast; that 'beauty,' in this respect, seems to hold a neutral
+position, though perhaps inclining rather to grace than to grandeur; and
+that the extreme terms, sublime and pretty, seem in this respect to be
+the most widely removed; so that this series of five constitutes, in a
+sense, a descending series,--descending not necessarily in value, but in
+some particular respect not yet assigned? If, for example, in the lady's
+answer, 'Yes, it is the prettiest thing I ever saw,' you substitute for
+'prettiest' first 'most graceful,' and then 'most beautiful,' and then
+'grandest,' you will find that your astonishment at her diminishes at
+each step, and that at the last, when she identifies sublimity and
+grandeur, she is guilty no longer of an absurdity, but only of a slight
+anti-climax. If, I may add, she had said 'majestic,' the anti-climax
+would have been slighter still, and, in fact, in one version of the
+story Coleridge says that 'majestic' was the word he himself chose. What then is the 'respect' in question here,--the something or other in
+regard to which sublimity and grandeur seemed to be allied with one
+another, and to differ decidedly from grace and prettiness? It appears
+to be greatness. Thousands of things are 'beautiful,' graceful, or
+pretty, and yet make no impression of greatness, nay, this impression in
+many cases appears to collide with, and even to destroy, that of grace
+or prettiness, so that if a pretty thing produced it you would cease to
+call it pretty. But whatever strikes us as sublime produces an
+impression of greatness, and more--of exceeding or even overwhelming
+greatness. And this greatness, further, is apparently no mere
+accompaniment of sublimity, but essential to it: remove the greatness in
+imagination, and the sublimity vanishes. Grandeur, too, seems always to
+possess greatness, though not in this superlative degree; while 'beauty'
+neither invariably possesses it nor tends, like prettiness and grace, to
+exclude it. I will try, not to defend these statements by argument, but
+to develop their meaning by help of illustrations, dismissing from view
+the minor differences between these modes of beauty, and, for the most
+part, leaving grandeur out of account. We need not ask here what is the exact meaning of that 'greatness' of
+which I have spoken: but we must observe at once that the greatness in
+question is of more than one kind. Let us understand by the term, to
+begin with, greatness of extent,--of size, number, or duration; and let
+us ask whether sublime things are, in this sense, exceedingly great. Some certainly are. The vault of heaven, one expanse of blue, or dark
+and studded with countless and prodigiously distant stars; the sea that
+stretches to the horizon and beyond it, a surface smooth as glass or
+breaking into innumerable waves; time, to which we can imagine no
+beginning and no end,--these furnish favourite examples of sublimity;
+and to call them great seems almost mockery, for they are images of
+immeasurable magnitude. When we turn from them to living beings, of
+course our standard of greatness changes;[3] but, using the standard
+appropriate to the sphere, we find again that the sublime things have,
+for the most part, great magnitude. A graceful tree need not be a large
+one; a pretty tree is almost always small; but a sublime tree is almost
+always large. If you were asked to mention sublime animals, you would
+perhaps suggest, among birds, the eagle; among fishes, if any, the
+whale; among beasts, the lion or the tiger, the python or the elephant. But you would find it hard to name a sublime insect; and indeed it is
+not easy, perhaps not possible, to feel sublimity in any animal smaller
+than oneself, unless one goes beyond the special kind of greatness at
+present under review. Consider again such facts as these: that a human
+being of average, or even of less than average, stature and build may be
+graceful and even 'beautiful,' but can hardly, in respect of stature and
+build, be grand or sublime; that we most commonly think of flowers as
+little things, and also most commonly think of them as 'beautiful,'
+graceful, pretty, but rarely as grand, and still more rarely as
+sublime, and that in these latter cases we do not think of them as
+small; that a mighty river may well be sublime, but hardly a stream; a
+towering or far-stretching mountain, but hardly a low hill; a vast
+bridge, but hardly one of moderate span; a great cathedral, but hardly a
+village church; that a model of a sublime building is not sublime,
+unless in imagination you expand it to the dimensions of its original;
+that a plain, though flat, may be sublime if its extent is immense; that
+while we constantly say 'a pretty little thing,' or even 'a beautiful
+little thing,' nobody ever says 'a sublime little thing.' Examples like
+these seem to show clearly--not that bigness is sublimity, for bigness
+need have no beauty, while sublimity is a mode of beauty--but that this
+particular mode of beauty is frequently connected with, and dependent
+on, exceeding greatness of extent. Let us now take a further step. Can there be sublimity when such
+greatness is absent? And, if there can, is greatness of some other sort
+always present in such cases, and essential to the sublime effect? The
+answer to the first of these questions is beyond doubt. Children have no
+great extension, and what Wordsworth calls 'a six-years' darling of a
+pigmy size' is (if a darling) generally called pretty but not sublime;
+for it _is_ 'of a pigmy size.' Yet it certainly _may_ be sublime, and it
+is so to the poet who addresses it thus:
+
+  Thou whose exterior semblance doth belie
+    Thy soul's immensity.... Mighty prophet! Seer blest! On whom those truths do rest
+  Which we are toiling all our lives to find. A baby is still smaller, but a baby too may be sublime. The starry sky
+is not more sublime than the babe on the arm of the Madonna di San
+Sisto. A sparrow is more diminutive still; but that it is possible for a
+sparrow to be sublime is not difficult to show. This is a translation
+of a prose poem by Tourgenieff:
+
+  I was on my way home from hunting, and was walking up the garden
+  avenue. My dog was running on in front of me. Suddenly he slackened his pace, and began to steal forward as though
+  he scented game ahead. I looked along the avenue; and I saw on the ground a young sparrow,
+  its beak edged with yellow, and its head covered with soft down. It
+  had fallen from the nest (a strong wind was blowing, and shaking the
+  birches of the avenue); and there it sat and never stirred, except to
+  stretch out its little half-grown wings in a helpless flutter. My dog was slowly approaching it, when suddenly, darting from the tree
+  overhead, an old black-throated sparrow dropt like a stone right
+  before his nose, and, all rumpled and flustered, with a plaintive
+  desperate cry flung itself, once, twice, at his open jaws with their
+  great teeth. It would save its young one; it screened it with its own body; the
+  tiny frame quivered with terror; the little cries grew wild and
+  hoarse; it sank and died. It had sacrificed itself. What a huge monster the dog must have seemed to it! And yet it could
+  not stay up there on its safe bough. A power stronger than its own
+  will tore it away. My dog stood still, and then slunk back disconcerted. Plainly he too
+  had to recognise that power. I called him to me; and a feeling of
+  reverence came over me as I passed on. Yes, do not laugh. It was really reverence I felt before that little
+  heroic bird and the passionate outburst of its love. Love, I thought, is verily stronger than death and the terror of
+  death. By love, only by love, is life sustained and moved. This sparrow, it will be agreed, is sublime. What, then, makes it so? Not largeness of size, assuredly, but, we answer, its love and courage. Yes; but what do we mean by '_its_ love and courage'? We often meet with
+love and courage, and always admire and approve them; but we do not
+always find them sublime. Why, then, are they sublime in the sparrow? From their extraordinary greatness. It is not in the quality alone, but
+in the quantity of the quality, that the sublimity lies. And this may be
+readily seen if we imagine the quantity to be considerably reduced,--if
+we imagine the parent bird, after its first brave effort, flinching and
+flying away, or if we suppose the bird that sacrifices itself to be no
+sparrow but a turkey. In either case love and courage would remain, but
+sublimity would recede or vanish, simply because the love and courage
+would no longer possess the required immensity. [4]
+
+The sublimity of the sparrow, then, no less than that of the sky or sea,
+depends on exceeding or overwhelming greatness--a greatness, however,
+not of extension but rather of strength or power, and in this case of
+spiritual power. 'Love is _stronger_ than death,' quotes the poet; 'a
+power _stronger_ than its own tore it away.' So it is with the dog of
+whom Scott and Wordsworth sang, whose master had perished among the
+crags of Helvellyn, and who was found three months after by his master's
+body,
+
+  How nourished here through such long time
+  He knows who gave that love sublime,
+  And gave that strength of feeling, great
+  Above all human estimate. [5]
+
+And if we look further we shall find that these cases of sublimity are,
+in this respect, far from being exceptions: 'thy soul's _immensity_,'
+says Wordsworth to the child; '_mighty_ prophet' he calls it. We shall
+find, in fact, that in the sublime, when there is not greatness of
+extent, there is another greatness, which (without saying that the
+phrase is invariably the most appropriate) we may call greatness of
+power and which in these cases is essential. We must develop this statement a little. Naturally the power, and
+therefore the sublimity, will differ in its character in different
+instances, and therefore will affect us variously. It may be--to
+classify very roughly--physical, or vital, or (in the old wide sense of
+the word) moral, like that of the sparrow and the dog. And physical
+force will appeal to the imagination in one way, and vital in another,
+and moral or spiritual in another. But it is still power of some kind
+that makes a thing sublime rather than graceful, and immensity of power
+that makes it sublime rather than merely grand. For example, the lines
+of the water in a thin cascade may be exquisitely graceful, but such a
+cascade has not power enough to be sublime. Flickering fire in a grate
+is often 'beautiful,' but it is not sublime; the fire of a big bonfire
+is on the way to be so; a 'great fire' frequently is so, because it
+gives the impression of tremendous power. The ocean, in those stanzas of
+_Childe Harold_ which no amount of familiarity or of defect can deprive
+of their sublimity, is the untameable monster which engulfs men as
+lightly as rain-drops and shatters fleets like toys. The sublimity of
+Behemoth and Leviathan in the _Book of Job_ lies in the contrast of
+their enormous might with the puny power of man; that of the horse in
+the fiery energy of his courage and strength. Think of sublime figures
+or ideas in the world of fiction or of history, and you find that,
+whether they are radiant or gloomy, violent or peaceful, terrible or
+adorable, they all impress the imagination by their immense or even
+irresistible might. It is so with Achilles, standing alone beyond the
+wall, with the light of the divine flame soaring from his head, while he
+sends across the trench that shout at whose far-off sound the hearts of
+the Trojans die within them; or with Odysseus, when the moment of his
+vengeance has come, and he casts off his rags, and leaps onto the
+threshold with his bow, and pours his arrows down at his feet, and looks
+down the long hall at the doomed faces of his feasting enemies. Milton's
+Satan is sublime when he refuses to accept defeat from an omnipotent
+foe; he ceases to be so in tempting Eve, because here he shows not power
+but cunning, and we feel not the strength of his cunning but the
+weakness of his victim. In the bust of Zeus in the Vatican, in some of
+the figures of the Medici Chapel, in 'The horse and his rider,' we feel
+again sublimity, because we feel gigantic power, put forth or held in
+reserve. Fate or Death, imagined as a lurking assassin, is not sublime,
+but may become so when imagined as inevitable, irresistible,
+_ineluctabile fatum_. The eternal laws to which Antigone appeals, like
+that Duty which preserves the strength and freshness of the most ancient
+heavens, are sublime. Prometheus, the saviour of mankind, opposing a
+boundless power of enduring pain to a boundless power of inflicting it;
+Regulus returning unmoved to his doom; Socrates, serene and even joyous
+in the presence of injury and death and the lamentations of his friends,
+are sublime. The words 'I have overcome the world' are among the most
+sublime on record, and they are also the expression of the absolute
+power of the spirit. [6]
+
+It seems clear, then, that sublimity very often arises from an
+overwhelming greatness of power. So abundant, indeed, are the instances
+that one begins to wonder whether it ever arises from any other kind of
+greatness, and whether we were right in supposing that mere magnitude of
+extension can produce it. Would such magnitude, however prodigious, seem
+to us sublime unless we insensibly construed it as the sign of power? In
+the case of living things, at any rate, this doubt seems to be well
+founded. A tree is sublime not because it occupies a large extent of
+empty space or time, but from the power in it which raises aloft and
+spreads abroad a thousand branches and a million leaves, or which has
+battled for centuries with buffeting storms and has seen summers and
+winters arise and pass like the hours of our day. It is not the mere
+bulk of the lion or the eagle that wins them their title as king of
+beasts or of birds, but the power exhibited in the gigantic head and arm
+or the stretch of wing and the piercing eye. And even when we pass from
+the realm of life our doubt remains. Would a mountain, a river, or a
+building be sublime to us if we did not read their masses and lines as
+symbols of force? Would even the illimitable extent of sea or sky, the
+endlessness of time, or the countlessness of stars or sands or waves,
+bring us anything but fatigue or depression if we did not apprehend
+them, in some way and however vaguely, as expressions of immeasurable
+power--power that created them, or lives in them, or _can_ count them;
+so that what impresses us is not the mere absence of limits, but the
+presence of something that overpowers any imaginable limit? If these
+doubts are justified (as in my opinion they are), the conclusion will
+follow that the exceeding greatness required for sublimity is _always_
+greatness of some kind of power, though in one class of cases the
+impression of this greatness can only be conveyed through immensity of
+extent. However this question may be decided, our result so far seems to be that
+the peculiarity of the sublime lies in some exceeding and overwhelming
+greatness. But before this result can be considered safe, two obstacles
+must be removed. In the first place, are there no negative instances? Is
+it impossible to find anything sublime which does _not_ show this
+greatness? Naturally I can say no more than that I have conscientiously
+searched for exceptions to the rule and have searched in vain. I can
+find only apparent exceptions which in reality confirm the rule; and I
+will mention only those which look the most formidable. They are cases
+where at first sight there seems to be not merely an inconsiderable
+amount of power or other greatness, but actually the negation of it. For
+example, the silence of night, or the sudden pause in a storm or in
+stormy music, or again the silence and movelessness of death, may
+undoubtedly be sublime; and how, it may be asked, can a mere absence of
+sound and motion be an exhibition of immense greatness? It cannot, I
+answer; but neither can it be sublime. If you apprehend the silence in
+these cases as a mere absence, no feeling of sublimity will arise in
+your mind; and if you do apprehend the silence as sublime, it is to you
+the sign of immense power, put forth or held in reserve. The 'dead pause
+abrupt of mighty winds' is the pause _of_ mighty winds and not of gentle
+breezes; and it is not the absence of mighty winds, but their _pause_
+before they burst into renewed fury; or if their silence is not their
+will, it is a silence imposed on them by something mightier even than
+they. In either case there may be sublimity, but then there is the
+impression of immense power. In the same way the silence of night, when
+it seems sublime, is apprehended not as the absence but as the subdual
+of sound,--the stillness wrought by a power so mighty that at its touch
+all the restless noises of the day fall dumb,--or the brooding of an
+omnipotent peace over the world. And such a peace it is, an unassailable
+peace, that may make the face of death sublime, a stillness which is not
+moveless but immovable. [7]
+
+At present, then, our result seems to stand firm. But another danger
+remains. Granted that in the sublime there is always some exceeding and
+overwhelming greatness, is that _all_ there is? Is there not in every
+case some further characteristic? This question, premising that the
+phrase 'overwhelming greatness' contains important implications which
+have yet to be considered, I can only answer like the last. I do not
+find any other peculiarity that is _always_ present. Several have been
+alleged, and one or two of these will be mentioned later, but none of
+them appears to show itself indubitably wherever sublimity is found. It
+is easy to give a much fuller account of the sublime if you include in
+it everything that impresses you in a sublime baby while you omit to
+consider Behemoth, or if you build upon Socrates and ignore Satan, or if
+you confine yourself to the sublime thunderstorm and forget the sublime
+rainbow or sunrise. But then your account will not answer to the
+instances you have ignored; and when you take them in you will have to
+pare it down until perhaps you end in a result like ours. At any rate we
+had better be content with it for the present, and turn to another
+aspect of the matter. [8]
+
+So far, on the whole, we have been regarding the sublime object as if
+its sublimity were independent of our state of mind in feeling and
+apprehending it. Yet the adjective in the phrase 'overwhelming
+greatness' should at once suggest the truth that this state of mind is
+essential to sublimity. Let us now therefore look inward, and ask how
+this state differs from our state in perceiving or imagining what is
+graceful or 'beautiful.' Since Kant dealt with the subject, most writers
+who have thought about it have agreed that there is a decided
+difference, which I will try to describe broadly, and without pledging
+myself to the entire accuracy of the description. When, on seeing or hearing something, we exclaim, How graceful! or How
+lovely! or How 'beautiful'! there is in us an immediate outflow of
+pleasure, an unchecked expansion, a delightful sense of harmony between
+the thing and ourselves. The air
+  Nimbly and sweetly recommends itself
+  Unto our gentle senses.... The heaven's breath
+  Smells wooingly here. The thing wins us and draws us towards itself without resistance. Something in us hastens to meet it in sympathy or love. Our feeling, we
+may say, is entirely affirmative. For though it is not always untouched
+by pain (for the thing may have sadness in it),[9] this touch of pain or
+sadness does not mean any disharmony between the thing and us, or
+involve any check in our acceptance of it. In the case of sublimity, on the other hand, this acceptance does not
+seem to be so simple or immediate. There seem, in fact, to be two
+'aspects' or stages in it. [10] First--if only for a fraction of a
+second--there is a sense of being checked, or baffled, or even
+stupefied, or possibly even repelled or menaced, as though something
+were affecting us which we could not receive, or grasp, or stand up to. In certain cases we appear to shrink away from it, as though it thrust
+upon us a sense of our own feebleness or insignificance. This we may
+call by the convenient but too strong name of the negative stage. It is
+essential to sublimity; and nothing seems to correspond to it in our
+perception of loveliness or grace except sometimes a sense of surprise
+or wonder, which is wholly pleasant, and which does not necessarily
+qualify the lovely or graceful thing. But this first stage or aspect clearly does not by itself suffice for
+sublimity. To it there succeeds, it may be instantaneously or more
+gradually, another: a powerful reaction, a rush of self-expansion, or an
+uplifting, or a sense of being borne out of the self that was checked,
+or even of being carried away beyond all checks and limits. These
+feelings, even when the sublime thing might be called forbidding,
+menacing, or terrible, are always positive,--feelings of union with it;
+and, when its nature permits of this, they may amount to rapture or
+adoration. But the mark of the negation from which they have issued, the
+'smell of the fire,' usually remains on them. The union, we may say
+perhaps, has required a self-surrender, and the rapture or adoration is
+often strongly tinged with awe. Now, this peculiar doubleness in our apprehension of sublimity, this
+presence of two equally necessary stages or phases, a negative and a
+positive, seems to correspond with the peculiarity which we found in the
+sublime object when we were provisionally regarding it by itself. It is
+its overwhelming greatness which for a moment checks, baffles, subdues,
+even repels us or makes us feel our littleness, and which then, forcing
+its way into the imagination and emotions, distends or uplifts them to
+its own dimensions. We burst our own limits, go out to the sublime thing,
+identify ourselves ideally with it, and share its immense greatness. But
+if, and in so far as, we remain conscious of our difference from it, we
+still feel the insignificance of our actual selves, and our glory is
+mingled with awe or even with self-abasement. [11]
+
+In writing thus I was endeavouring simply and without any _arriere
+pensee_ to describe a mode of aesthetic experience. But it must have
+occurred to some of my hearers that the description recalls other kinds
+of experience. And if they find it accurate in the main, they will
+appreciate, even if they do not accept, the exalted claim which
+philosophers, in various forms, have made for the sublime. It awakes in
+us, they say, through the check or shock which it gives to our finitude,
+the consciousness of an infinite or absolute; and this is the reason of
+the kinship we feel between this particular mode of aesthetic experience
+on the one side, and, on the other, morality or religion. For there, by
+the denial of our merely finite or individual selves, we rise into union
+with the law which imposes on us an unconditional demand, or with the
+infinite source and end of our spiritual life. These are ideas much too large to be considered now, and even later I
+can but touch on them. But the mere mention of them may carry us to the
+last enquiries with which we can deal. For it suggests this question:
+Supposing that high claim to be justified at all, can it really be made
+for _all_ sublimity, or must it not be confined to the very highest
+forms? A similar question must be raised as to various other statements
+regarding the sublime; and I go on to speak of some of these. (1) Burke asserted that the sublime is always founded on fear; indeed he
+considered this to be its distinguishing characteristic. Setting aside,
+then, the connection of this statement with Burke's general doctrine (a
+doctrine impossible to accept), we may ask, Is it true that the 'check'
+administered by the sublime object is always one of fear? We must
+answer, first, that if this check is part of an aesthetic experience and
+not a mere preliminary to it, it can _never_ be fear in the common
+meaning of that word, or what may be called practical or real fear. So
+far as we are _practically_ afraid of a storm or a mountain, afraid, for
+instance, for ourselves as bodily beings in this particular spatial and
+temporal position, the storm or mountain is not sublime to us, it is
+simply terrible. _That_ fear must be absent, or must not engage
+attention, or must be changed in character, if the object is to be for
+us _sublimely_ terrible, something with which we identify ourselves in
+imaginative sympathy, and which so causes a great self-expansion. But,
+secondly, even if 'fear' is understood rightly as indicating a feature
+in an aesthetic and not a practical experience, our question must
+obviously be answered in the negative. There is fear in the apprehension
+of some sublimity, but by no means in that of all. If there is a
+momentary check, for example, in the case of a rainbow, a glorious
+sunrise, the starry night, Socrates, or Tourgenieff's sparrow, 'fear,'
+unless the meaning of the word is unnaturally extended, is surely not
+the name for this check. Burke's mistake, however, implies a recognition of the 'negative aspect'
+in sublimity, and it may remind us of a truth. Instances of the sublime
+differ greatly in regard to the prominence and tone of this aspect. It
+is less marked, for example, and less obvious, in the case of a sublime
+rainbow or sunrise than in that of a sublime and 'terrible'
+thunderstorm. And in general we may say that the _distinctive_ nature of
+sublimity appears most clearly where this aspect is most prominent,--so
+prominent, perhaps, that we have a more or less explicit sense of the
+littleness and powerlessness of ourselves, and indeed of the whole
+world of our usual experience. It is here that the object is most
+decidedly more than 'glorious,' or even 'majestic,' and that sublimity
+appears in antithesis to grace. Only we must not give an account of the
+sublime which fully applies to these cases _alone_, or suppose that the
+negative aspect is absent in other cases. If a rainbow or sunrise is
+really sublime, it is overwhelming as well as uplifting. Nor must we
+assume that the most distinctively sublime must also be the most
+sublime. The sunrise witnessed from an immense snowfield in the high
+Alps may be as sublime as an Alpine thunderstorm, though its sublimity
+is different. (2) Grace and 'beauty,' it has been said, though not of course merely
+sensuous, are yet friendly to sense. It is their essence, in fact, to be
+a harmonious unity of sense and spirit, and so to reconcile powers which
+in much of our experience are conflicting and dissonant. But sublimity
+is harsh and hostile to sense. It makes us feel in ourselves and in the
+world the presence of something irresistibly superior to sense. And this
+is the reason why it does not soothe or delight, but uplifts us. This statement recalls some of the ideas we have been considering, but
+it may easily mislead. For one thing, it is impossible for any sublimity
+whatever to be _merely_ hostile to 'sense,' since everything aesthetic
+must appeal to sense or sensuous imagination, so that the sublime must
+at least express its hostility to sense by means of sense. And if we
+take the phrase in another meaning, the statement may mislead still, for
+it attributes to sublimity in general what is a characteristic only of
+certain forms of the sublime. Scores of examples could easily be quoted
+which show no hostility to sense: _e.g._ a sublime lion, or bull, or
+tree. And if we think of our old examples of the rainbow and the
+sunrise, or, better still, of a thunderstorm, or 'The horse and his
+rider,' or the 'Sanctus' in Bach's Mass, we find the sublime thing
+actually making a powerful appeal to sense and depending for its
+sublimity on the vehemence or volume of this appeal. Diminish at all
+markedly in these cases the amount of light, colour, or sound, and the
+sublimity would vanish. Of course the appeal here is not merely to
+sense, but it _is_ to sense. But undoubtedly there is another kind of sublimity; and it is
+particularly interesting. Here, it is true, a sort of despite is done to
+the senses and what speaks to them. As we have seen, the greatness of
+soul in the sparrow is enhanced by contrast with the smallness and
+feebleness of its body, and pours contempt on the visible magnitude of
+the hound; and the stillness of night or death is sublime from its
+active negation of sound and motion. Again, there is a famous passage
+which depends for its effect on this, that, first, sublime things are
+introduced which appeal powerfully to sense, and then something else,
+which does not so appeal, is made to appear even more sublime and to put
+them to shame: first a great and strong wind, an earthquake, a fire; and
+after the fire a still small voice. Sometimes, again, as Burke observed,
+sublimity depends on, or is increased by, darkness, obscurity,
+vagueness,--refusal of satisfaction to the sense of sight. Often in
+these cases the sublime object is terrible, and its terror is increased
+by inability to see or distinguish it. Examples are the image of 'the
+pestilence that walketh in darkness,' or Milton's description of Death,
+or the lines in the _Book of Job_:
+
+  In thoughts from the visions of the night
+  When deep sleep falleth on men,
+  Fear came upon me and trembling,
+  Which made all my bones to shake. Then a spirit passed before my face;
+  The hair of my flesh stood up. It stood still, but I could not discern the form thereof. An image was before mine eyes. There was silence, and I heard a voice. It has been observed that attempts to illustrate such passages as these
+dissipate their sublimity by diminishing the obscurity of the object. Blake's illustrations of the lines in Milton and in _Job_[12] show this,
+while his design of the morning-stars singing together is worthy even of
+the words. We may trace this severity towards sense, again, in examples already
+mentioned, the ideas of Fate, of the eternal laws to which Antigone
+appeals, of Duty in Wordsworth's ode. We imagine these powers as removed
+from sight, and indeed wholly immaterial, and yet as exercising
+sovereign dominion over the visible and material world. And their
+sublimity would be endangered if we tried to bring them nearer to sense
+by picturing the means by which they exercise their control. I will take a last example. It has probably been mentioned in almost
+every account of the sublime since Longinus quoted it in his work on
+Elevation of Style. And it is of special interest here because it
+illustrates at one and the same time the two kinds of sublimity which we
+are engaged in distinguishing. 'God said, Let there be light, and there
+was light.' The idea of the first and instantaneous appearance of light,
+and that the whole light of the whole world, is already sublime; and its
+primary appeal is to sense. The further idea that this transcendently
+glorious apparition is due to mere words, to a breath--our symbol of
+tenuity, evanescence, impotence to influence material bulk--heightens
+enormously the impression of absolutely immeasurable power. To sum up, then, on this matter. It is not safe to distinguish the
+sublime from the 'beautiful' by its hostility to sense. The sublime may
+impress its overwhelming greatness in either of two ways, by an appeal
+to sense, or by a kind of despite done to it. Nor can we assert, if we
+think of the sunrise, the thunderstorm, or of sublime music, that the
+second of these ways is more distinctive of the sublime than the first. But perhaps we may say this. In 'beauty' that which appears in a
+sensuous form seems to rest in it, to be perfectly embodied in it, and
+to have no tendency to pass beyond it. In the sublime, even where no
+such tendency is felt and sublimity is nearest to 'beauty,' we still
+feel the presence of a power held in reserve, which could with ease
+exceed its present expression. In _some_ forms of sublimity, again, the
+sensuous embodiment seems threatening to break in its effort to express
+what appears in it. And in others we definitely feel that the power
+which for a moment intimates its presence to sense is infinite and
+utterly uncontainable by any or all vehicles of its manifestation. Here
+we are furthest (in a way) from sense, and furthest also from 'beauty.' (3) I come finally and, as it will at first seem, needlessly to an idea
+which has already been touched on. The words 'boundless,' 'illimitable,'
+'infinite,' constantly recur in discussions of sublimity, and it cannot
+be denied that our experience constantly provokes them. The sublime has
+been said to awake in us the consciousness of our own infinity. It has
+been said, again, to represent in all cases the inadequacy of all finite
+forms to express the infinite. And so we may be told that, even if we do
+not adopt some such formula, but continue to speak of 'greatness,' we
+ought at least to go beyond the adjective 'exceeding' or 'overwhelming,'
+and to substitute 'immeasurable' or 'incomparable' or 'infinite.' Now, at the point we have reached, it would seem we might at once answer
+that a claim is here being made for the sublime in general which really
+holds good only of one kind of sublimity. Sometimes the sublime object
+_is_ apprehended as the Infinite, or again as an expression of it. This
+is, for example, a point of view frequent in Hebrew poetry. Sometimes,
+again, the object (_e.g._ time or the heavens) is apprehended, not
+indeed as _the_ Infinite, but still as infinite or immeasurable. But how
+are we to say that a sublime lion or mountain, or Satan or Lady Macbeth,
+is apprehended as the Infinite, or as infinite, or (usually) as even an
+expression of the Infinite? And how are we to say that the greatness of
+most sublime objects is apprehended as incomparable or immeasurable? It
+is only failure to observe these distinctions that leads to errors like
+one recorded in Coleridge's Table-talk (July 25, 1832): 'Could you ever
+discover anything sublime, in our sense of the word, in the classic
+Greek literature? I never could. Sublimity is Hebrew by birth.' This reply, however, though sound so far as it goes, does not settle the
+question raised. It may still be maintained that sublimity in all cases,
+and even when we have no idea of infinity before us, does represent the
+inadequacy of all finite forms to express the infinite. And it is
+unfortunately impossible for us to deal fully with this contention. It
+would carry us into the region of metaphysics; and, while believing that
+no theory of the sublime can be complete which stops short of that
+region, I am aiming in this lecture at no such theory, but only at a
+result which may hold good without regard to further developments. All
+that I can do is to add a few words on the question whether, going
+beyond the adjective 'exceeding' or 'overwhelming,' we can say that the
+sublime is the beautiful which has immeasurable, incomparable, or
+infinite greatness. And the answer which I suggest and will go on to
+explain may be put thus: the greatness is only sometimes immeasurable,
+but it is _always_ unmeasured. We cannot apprehend an object as sublime while we apprehend it as
+comparably, measurably, or finitely great. Let the thing be what it
+may--physical, vital, or spiritual--the moment we say to ourselves, 'It
+is very great, but I know _how_ great,' or 'It is very great, but
+something else is as great or greater,' at that moment it has ceased to
+be sublime. Outside the consciousness of its sublimity we may be
+perfectly well aware that a thing is limited, measurable, equal or
+inferior to something else. But then we are _not_ finding it sublime. And when we _are_ so finding it, we are absorbed in _its_ greatness, and
+have no thought either of the limits of that or of its equality or
+inferiority to anything else. The lion of whom we are thinking, 'An
+elephant could kill him,' is no sublime lion. The Falls of Schaffhausen
+are sublime when you are lost in astonishment at them, but not when you
+are saying to yourself 'What must Niagara be!' This seems indubitable,
+and hence we may say that, in one sense, all sublimity has unmeasured
+greatness, and that no greatness is sublime which we apprehend as
+finite. But the absence of a consciousness of measure or finitude is one thing;
+the presence of a consciousness of immeasurableness or infinity is
+another. The first belongs to all sublimity, the second only to one kind
+of it,--to that where we _attempt_ to measure, or find limits to, the
+greatness of the thing. _If_ we make this attempt, as when we try in
+imagination to number the stars or to find an end to time, then it is
+essential to sublimity that we should fail, and so fail that the idea of
+immeasurability or endlessness emerges. In like manner, _if_ we compare
+things, nothing will appear sublime whose greatness is surpassed or even
+equalled by that of something else; and, if this process of comparison
+is pursued, in the end nothing will be found sublime except the absolute
+totality (however it may be imagined). And this kind of sublimity,
+which arises from attempts to measure or compare, is often exceedingly
+striking. But it is only one kind. For it is an entire delusion--though
+a very common one in theories of the sublime--to suppose that we _must_
+attempt to measure or compare. On the contrary, in the majority of cases
+our impression of overwhelming greatness is accompanied neither by any
+idea that this greatness has a measure, nor by the idea that it is
+immeasurable or infinite. [13]
+
+It will not do, then, to lay it down that the sublime is the beautiful
+which has immeasurable, incomparable, or infinite greatness. But I
+suggest that, after the explanations given, we may conveniently use the
+adjective 'unmeasured,' so long as we remember that this means one thing
+where we do not measure at all, and another thing where we try to
+measure and fail. And, this being so, it seems that we may say that
+_all_ sublimity, and not only that in which the idea of infinite
+greatness or of the Infinite emerges, is an image of infinity; for in
+all, through a certain check or limitation and the overcoming of it, we
+reach the perception or the imaginative idea of something which, on the
+one hand, has a positive nature, and, on the other, is either _not_
+determined as finite or _is_ determined as infinite. But we must not add
+that this makes the sublime superior to the 'beautiful.' For the
+'beautiful' too, though in a different way, is an image of infinity. In
+'beauty,' as we said, that which appears in a sensuous form seems to
+rest in that form, to be wholly embodied in it; it shows no tendency to
+pass beyond it, and intimates no reserve of force that might strain or
+break it. So that the 'beautiful' thing is a whole complete in itself,
+and in moments when beauty fills our souls we know what Wordsworth meant
+when he said 'the least of things seemed infinite,' though each thing,
+being but one of many, must from another point of view, here suppressed,
+be finite. 'Beauty,' then, we may perhaps say, is the image of the total
+presence of the Infinite within any limits it may choose to assume;
+sublimity the image of its boundlessness, and of its rejection of any
+pretension to independence or absoluteness on the part of its finite
+forms; the one the image of its immanence, the other of its
+transcendence. Within an hour I could attempt no more than an outline of our subject. That is inevitable; and so is another defect, which I regret more. In
+analysing any kind of aesthetic experience we have to begin by
+disentangling the threads that meet in it; and when we can only make a
+beginning, no time is left for the further task of showing how they are
+interwoven. We distinguish, for example, one kind of sublimity from
+another, and we must do so; but in the actual experience, the single
+instance, these kinds often melt together. I take one case of this. Trying to overlook the field in which sublimity appears, we say that
+there is a sublimity of inorganic things, and of things vital, and of
+things spiritual, and that these kinds differ. And this is true; and
+perhaps it is also true that sometimes we experience one of these kinds,
+so to say, quite pure and unmixed with others. But it is not always,
+perhaps not usually so. More frequently kind mingles with kind, and we
+mutilate the experience when we name it after one of them. In life the
+imagination, touched at one point, tingles all over and responds at all
+points. It is offered an impression of physical or vital greatness, but
+at once it brings from the other end of its world reminiscences of
+quite another order, and fuses the impression with them. Or an appeal is
+made to the sense of spiritual greatness, but there rises before the
+imagination a vision with the outlines and hues of material Nature. Offer it a sunset--a mere collection of coloured lines and spots--and
+they become to it regrets and hopes and longings too deep for tears. Tell it of souls made perfect in bliss, and it sees an immeasurable
+rose, or city-walls that flash with the light of all the gems on earth. The truth that a sparrow and a mountain are different, and that Socrates
+is not Satan, interests it but little. What it cares for is the truth
+that, when they are sublime, they are all the same; for each becomes
+infinite, and it feels in each its own infinity. 1903. NOTES[14]
+
+I add here a few remarks on some points which it was not convenient to
+discuss in the lecture. 1. We have seen that in the apprehension of sublimity we do not always
+employ comparison or attempt to measure. To feel a thing overwhelmingly
+great it is not necessary to have before the mind either the idea of
+something less great, or any standard of greatness. To argue that this
+must be necessary because 'great' means nothing except as opposed to
+'small,' is like arguing that I cannot have a perception of pride
+without thinking of humility. This point seems to me quite clear. But a question remains. If we go
+below consciousness, what is it that happens in us? The apprehension of
+sublimity implies that we have received an exceedingly strong
+impression. This as a matter of fact must mean an impression very much
+stronger than something else; and this something else must be, so to
+say, a standard with which the impression is unconsciously compared. What then is it? Stated in the most general terms, it must apparently be the usual or
+average strength of impressions. But this unconscious standard takes particular concrete forms in various
+classes of cases. Not seldom it seems to be our sense of our own power
+or of average human power. This is especially so where the thing felt to
+be sublime is, in the relevant respect, _in eodem genere_ with
+ourselves. A sublime lion, for example, is immensely superior to us, or
+to the average man, in muscular force and so in dangerousness,
+Tourgenieff's sparrow in courage and love, a god in all sorts of ways. And the use of this unconscious standard is probably the reason of the
+fact, noted in the lecture, that it is difficult to feel sublimity, as
+regards vital force, in a creature smaller than ourselves. But this is not the only standard. A sublime lion is not only immensely
+stronger than we are, but is generally also exceptional among lions; and
+so with a sublime tree or bridge or thunderstorm. So that we seem also
+to use as unconscious standard the idea of the average of the kind to
+which the thing belongs. An average thunderstorm hardly seems sublime,
+and yet it is overwhelmingly superior to us in power. [15]
+
+What, again, is the psychical machinery employed when we attempt to
+measure the shoreless sea, or time, and find them immeasurable? Is there
+any standard of the 'usual' here? I will leave this question to more
+skilled psychologists than myself. 2. Since the impression produced by sublimity is one of very exceptional
+strength, we are not able to feel it continuously for long, though we
+can repeat it after a pause. In this the sublime differs from the
+'beautiful,' on which we like to _dwell_ after our first surprise is
+over. A tragedy or symphony that was sublime from beginning to end could
+not be so experienced. Living among mountains, we feel their beauty more
+or less constantly, their sublimity only by flashes. 3. If our account of the impression produced by sublimity is true, why
+should not any sensation whatever produce this impression merely by
+gaining extraordinary strength? It seems to me it would, supposing at
+its normal strength it conformed to the general requirements of
+aesthetic experience, and supposing the requisite accession of strength
+did not remove this conformity. But this, in one respect at least, it
+would do. It would make the light, sound, smell, physiologically
+painful, and we should feel it as painful or even dangerous. We find
+this in the case of lightning. If it is to be felt as aesthetic it must
+not pass a certain degree of brightness; or, as we sometimes say, it
+must not be too 'near.' FOOTNOTES:
+
+  [1] I have learned something from many discussions of this subject. In its outline the view I have taken is perhaps nearer to Hartmann's
+    than to any other. [2] Popular usage coincides roughly with this sense. Indeed, it can
+    hardly be said to recognise the wider one at all. 'Beauty' and
+    'beautiful,' in that wider sense, are technical terms of Aesthetics. It is a misfortune that the language of Aesthetics should thus differ
+    from the ordinary language of speech and literature; but the
+    misfortune seems to be unavoidable, for there is no word in the
+    ordinary language which means 'whatever gives aesthetic
+    satisfaction,' and yet that idea _must_ have a name in Aesthetics. [3] I do not mean to imply that in aesthetic apprehension itself we
+    always, or generally, make conscious use of a standard or, indeed,
+    think of greatness. But here we are _reflecting_ on this
+    apprehension. [4] Thus, it may be noticed, the sparrow's size, which is the reverse
+    of sublime, is yet indirectly essential to the sublimity of the
+    sparrow. [5] The poet's language here has done our analysis for us. [6] A word may be added here on a disputed point as to 'spiritual'
+    sublimity. It has been held that intellect cannot be sublime; but
+    surely in the teeth of facts. Not to speak of intellect as it appears
+    in the sphere of practice, how can it be denied that the intellect of
+    Aristotle or Shakespeare or Newton may produce the impression of
+    sublimity? All that is true is, first, that the intellect must be
+    apprehended imaginatively and not thought abstractly (otherwise it
+    can produce _no_ aesthetic impression), and, secondly, that it
+    appears sublime in virtue not of its quality alone but of the
+    quantity, or force, of that quality. [7] The same principle applies to other cases. If, for example, the
+    desolation of a landscape is felt to be sublime, it is so not as the
+    mere negation of life, verdure, etc., but as their _active_ negation. [8] The reader will remember that in one sense of the question, Is
+    there no more in the sublime than overwhelming greatness? this
+    question must of course be answered in the affirmative. Sublimity is
+    a mode of beauty: the sublime is not the overwhelmingly great, it is
+    the beautiful which has overwhelming greatness; and it affects us
+    through its whole nature, not by mere greatness. [9] I am warning the reader against a mistake which may arise from
+    the complexity of aesthetic experience. We may make a broad
+    distinction between 'glad' and 'sad' modes of beauty; but that does
+    not coincide with the distinction of modes with which we are
+    concerned in this lecture. What is lovely or 'beautiful' may be glad
+    or sad, and so may what is grand or sublime. [10] In what follows I have spoken as if the two were always
+    successive stages, and as if these always came in the same order. It
+    is easier to make the matter quickly clear by taking this view, which
+    also seemed to answer to my own experience. But I do not wish to
+    commit myself to an opinion on the point, which is of minor
+    importance. What is essential is to recognise the presence of the two
+    'aspects' or 'stages,' and to see that both are requisite to
+    sublimity. [11] 'Ich fuehlte mich so klein, so gross,' says Faust, remembering
+    the vision of the Erdgeist, whom he addresses as 'Erhabener Geist.' He was at once overwhelmed and uplifted. [12] At least if the 'Vision' is sublime its sublimity is not that of
+    the original. We can 'discern the form thereof' distinctly enough. [13] To avoid complication I have passed by the case where we compare
+    the sublime thing with another thing and find it much greater without
+    finding it immeasurably great. Here the greatness, it appears to me,
+    is still unmeasured. That is to say, we do not attempt to determine
+    its amount, and if we did we should lose the impression of sublimity. We may _say_, perhaps, that it is ten, fifty, or a million times, as
+    great; but these words no more represent mathematical calculations
+    than Hamlet's 'forty thousand brothers.' [14] I am far from being satisfied with the ideas imperfectly
+    expressed in the first and third of these Notes, but they require
+    more consideration than I can give to them during the printing of the
+    Second Edition. The reader is requested to take them as mere
+    suggestions. [15] Hence a creature much less powerful than ourselves _may_, I
+    suppose, be sublime, even from the mere point of view of vital
+    energy. But I doubt if this is so in my own case. I have seen
+    'magnificent' or 'glorious' cocks and cats, but if I called them
+    'sublime' I should say rather more than I feel. I mention cocks,
+    because Ruskin somewhere mentions a sublime cock; but I cannot find
+    the passage, and this cock may have been sublime (if it really was so
+    to Ruskin) from some other than 'vital' greatness. HEGEL'S THEORY OF TRAGEDY
+
+
+HEGEL'S THEORY OF TRAGEDY[1]
+
+
+Since Aristotle dealt with tragedy, and, as usual, drew the main
+features of his subject with those sure and simple strokes which no
+later hand has rivalled, the only philosopher who has treated it in a
+manner both original and searching is Hegel. I propose here to give a
+sketch of Hegel's theory, and to add some remarks upon it. But I cannot
+possibly do justice in a sketch to a theory which fills many pages of
+the _Aesthetik_; which I must tear from its connections with the
+author's general view of poetry, and with the rest of his philosophy[2];
+and which I must try to exhibit as far as possible in the language of
+ordinary literature. To estimate this theory, therefore, from my sketch
+would be neither safe nor just--all the more because, in the interest of
+immediate clearness, I have not scrupled to insert without warning
+various remarks and illustrations for which Hegel is not responsible. On certain characteristics of tragedy the briefest reminder will
+suffice. A large part of the nature of this form of drama is common to
+the drama in all its forms; and of this nothing need be said. It will be
+agreed, further, that in all tragedy there is some sort of collision or
+conflict--conflict of feelings, modes of thought, desires, wills,
+purposes; conflict of persons with one another, or with circumstances,
+or with themselves; one, several, or all of these kinds of conflict, as
+the case may be. Again, it may be taken for granted that a tragedy is a
+story of unhappiness or suffering, and excites such feelings as pity and
+fear. To this, if we followed the present usage of the term, we should
+add that the story of unhappiness must have an unhappy end; by which we
+mean in effect that the conflict must close with the death of one or
+more of the principal characters. But this usage of the word 'tragedy'
+is comparatively recent; it leaves us without a name for many plays, in
+many languages, which deal with unhappiness without ending unhappily;
+and Hegel takes the word in its older and wider sense. Passing on from these admitted characteristics of tragedy, we may best
+approach Hegel's peculiar view by observing that he lays particular
+stress on one of them. That a tragedy is a story of suffering is
+probably to many people the most obvious fact about it. Hegel says very
+little of this; partly, perhaps, because it is obvious, but more because
+the essential point to him is not the suffering but its cause, namely,
+the action or conflict. Mere suffering, he would say, is not tragic, but
+only the suffering that comes of a special kind of action. Pity for mere
+misfortune, like fear of it, is not tragic pity or fear. These are due
+to the spectacle of the conflict and its attendant suffering, which do
+not appeal simply to our sensibilities or our instinct of
+self-preservation, but also to our deeper mind or spirit (_Geist_, a
+word which, with its adjective, I shall translate 'spirit,' 'spiritual,'
+because our words 'mind' and 'mental' suggest something merely
+intellectual). The reason why the tragic conflict thus appeals to the spirit is that it
+is itself a conflict of the spirit. It is a conflict, that is to say,
+between powers that rule the world of man's will and action--his
+'ethical substance.' The family and the state, the bond of parent and
+child, of brother and sister, of husband and wife, of citizen and ruler,
+or citizen and citizen, with the obligations and feelings appropriate to
+these bonds; and again the powers of personal love and honour, or of
+devotion to a great cause or an ideal interest like religion or science
+or some kind of social welfare--such are the forces exhibited in tragic
+action; not indeed alone, not without others less affirmative and
+perhaps even evil, but still in preponderating mass. And as they form
+the substance of man, are common to all civilised men, and are
+acknowledged as powers rightfully claiming human allegiance, their
+exhibition in tragedy has that interest, at once deep and universal,
+which is essential to a great work of art. In many a work of art, in many a statue, picture, tale, or song, such
+powers are shown in solitary peace or harmonious co-operation. Tragedy
+shows them in collision. Their nature is divine, and in religion they
+appear as gods; but, as seen in the world of tragic action, they have
+left the repose of Olympus, have entered into human wills, and now meet
+as foes. And this spectacle, if sublime, is also terrible. The
+essentially tragic fact is the self-division and intestinal warfare of
+the ethical substance, not so much the war of good with evil as the war
+of good with good. Two of these isolated powers face each other, making
+incompatible demands. The family claims what the state refuses, love
+requires what honour forbids. The competing forces are both in
+themselves rightful, and so far the claim of each is equally justified;
+but the right of each is pushed into a wrong, because it ignores the
+right of the other, and demands that absolute sway which belongs to
+neither alone, but to the whole of which each is but a part. And one reason why this happens lies in the nature of the characters
+through whom these claims are made. It is the nature of the tragic hero,
+at once his greatness and his doom, that he knows no shrinking or
+half-heartedness, but identifies himself wholly with the power that
+moves him, and will admit the justification of no other power. However
+varied and rich his inner life and character may be, in the conflict it
+is all concentrated in one point. Antigone _is_ the determination to do
+her duty to her dead brother; Romeo is not a son or a citizen as well as
+a lover, he is lover pure and simple, and his love is the whole of him. The end of the tragic conflict is the denial of both the exclusive
+claims. It is not the work of chance or blank fate; it is the act of the
+ethical substance itself, asserting its absoluteness against the
+excessive pretensions of its particular powers. In that sense, as
+proceeding from an absolute right which cancels claims based on right
+but pushed into wrong, it may be called the act of 'eternal justice.' Sometimes it can end the conflict peacefully, and the tragedy closes
+with a solution. Appearing as a divine being, the spiritual unity
+reconciles by some adjustment the claims of the contending powers
+(_Eumenides_); or at its bidding one of them softens its demand
+(_Philoctetes_); or again, as in the more beautiful solution of the
+_Oedipus Coloneus_, the hero by his own self-condemnation and inward
+purification reconciles himself with the supreme justice, and is
+accepted by it. But sometimes the quarrel is pressed to extremes; the
+denial of the one-sided claims involves the death of one or more of the
+persons concerned; and we have a catastrophe. The ultimate power thus
+appears as a destructive force. Yet even here, as Hegel insists, the end
+is not without an aspect of reconciliation. For that which is denied is
+not the rightful powers with which the combatants have identified
+themselves. On the contrary, those powers, and with them the only thing
+for which the combatants cared, are affirmed. What is denied is the
+exclusive and therefore wrongful assertion of their right. Such in outline is Hegel's main view. It may be illustrated more fully
+by two examples, favourites of his, taken from Aeschylus and Sophocles. Clytemnestra has murdered Agamemnon, her husband and king. Orestes,
+their son, is impelled by filial piety to avenge his father, and is
+ordered by Apollo to do so. But to kill a mother is to sin against
+filial piety. The spiritual substance is divided against itself. The
+sacred bond of father and son demands what the equally sacred bond of
+son and mother forbids. When, therefore, Orestes has done the deed, the
+Furies of his murdered mother claim him for their prey. He appeals to
+Apollo, who resists their claim. A solution is arrived at without a
+catastrophe. The cause is referred to Athene, who institutes at Athens a
+court of sworn judges. The votes of this court being equally divided,
+Athene gives her casting-vote for Orestes; while the Furies are at last
+appeased by a promise of everlasting honour at Athens. In the _Antigone_, on the other hand, to Hegel the 'perfect exemplar of
+tragedy,' the solution is negative. The brother of Antigone has brought
+against his native city an army of foreigners bent on destroying it. He
+has been killed in the battle, and Creon, the ruler of the city, has
+issued an edict forbidding anyone on pain of death to bury the corpse. In so doing he not only dishonours the dead man, but violates the rights
+of the gods of the dead. Antigone without hesitation disobeys the
+edict, and Creon, despite the remonstrance of his son, who is affianced
+to her, persists in exacting the penalty. Warned by the prophet
+Teiresias, he gives way, but too late. Antigone, immured in a rocky
+chamber to starve, has anticipated her death. Her lover follows her
+example, and his mother refuses to survive him. Thus Antigone has lost
+her life through her absolute assertion of the family against the state;
+Creon has violated the sanctity of the family, and in return sees his
+own home laid in ruins. But in this catastrophe neither the right of the
+family nor that of the state is denied; what is denied is the
+absoluteness of the claim of each. The danger of illustrations like these is that they divert attention
+from the principle illustrated to questions about the interpretation of
+particular works. So it will be here. I cannot stay to discuss these
+questions, which do not affect Hegel's principle; but it will be well,
+before going further, to remove a misunderstanding of it which is
+generally to be found in criticisms of his treatment of the _Eumenides_
+and the _Antigone_. The main objection may be put thus: 'Hegel talks of
+equally justified powers or claims. But Aeschylus never meant that
+Orestes and the Furies were equally justified; for Orestes was
+acquitted. Nor did Sophocles mean that Antigone and Creon were equally
+right. And how can it have been equally the duty of Orestes to kill his
+mother and not to kill her?' But, in the first place, it is most
+important to observe that Hegel is not discussing at all what we should
+generally call the moral quality of the acts and persons concerned, or,
+in the ordinary sense, what it was their duty to do. And, in the second
+place, when he speaks of 'equally justified' powers, what he means, and,
+indeed, sometimes says, is that these powers are _in themselves_ equally
+justified. The family and the state, the bond of father and son, the
+bond of mother and son, the bond of citizenship, these are each and all,
+one as much as another, powers rightfully claiming human allegiance. It
+is tragic that observance of one should involve the violation of
+another. These are Hegel's propositions, and surely they are true. Their
+truth is quite unaffected by the fact (assuming it is one) that in the
+circumstances the act combining this observance of one and violation of
+another was morally right, or by the fact (if so it is) that one such
+act (say Antigone's) was morally right, and another (say Creon's) was
+morally wrong. It is sufficient for Hegel's principle that the violation
+should take place, and that we should feel its weight. We do feel it. We
+may approve the act of Antigone or Orestes, but in approving it we still
+feel that it is no light matter to disobey the law or to murder a
+mother, that (as we might say) there is much justice in the pleas of the
+Furies and of Creon, and that the _tragic_ effect depends upon these
+facts. If, again, it is objected that the underlying conflict in the
+_Antigone_ is not between the family and the state, but between divine
+and human law, that objection, if sound, might touch Hegel's
+interpretation,[3] but it would not affect his principle, except for
+those who recognise no obligation in human law; and it will scarcely be
+contended that Sophocles is to be numbered among them. On the other
+hand, it is, I think, a matter for regret that Hegel employed such words
+as 'right,' 'justified,' and 'justice.' They do not mislead readers
+familiar with his writings, but to others they suggest associations with
+criminal law, or our everyday moral judgments, or perhaps the theory of
+'poetic justice'; and these are all out of place in a discussion on
+tragedy. Having determined in outline the idea or principle of tragedy, Hegel
+proceeds to give an account of some differences between ancient and
+modern works. In the limited time at our disposal we shall do best to
+confine ourselves to a selection from his remarks on the latter. For in
+speaking of ancient tragedy Hegel, who finds something modern in
+Euripides, makes accordingly but little use of him for purposes of
+contrast, while his main point of view as to Aeschylus and Sophocles has
+already appeared in the illustrations we have given of the general
+principle. I will only add, by way of preface, that the pages about to
+be summarised leave on one, rightly or wrongly, the impression that to
+his mind the principle is more adequately realised in the best classical
+tragedies than in modern works. But the question whether this really was
+his deliberate opinion would detain us too long from weightier
+matters. [4]
+
+Hegel considers first the cases where modern tragedy resembles ancient
+in dealing with conflicts arising from the pursuit of ends which may be
+called substantial or objective and not merely personal. And he points
+out that modern tragedy here shows a much greater variety. Subjects are
+taken, for example, from the quarrels of dynasties, of rivals for the
+throne, of kings and nobles, of state and church. Calderon shows the
+conflict of love and honour regarded as powers imposing obligations. Schiller in his early works makes his characters defend the rights of
+nature against convention, or of freedom of thought against
+prescription--rights in their essence universal. Wallenstein aims at the
+unity and peace of Germany; Karl Moor attacks the whole arrangement of
+society; Faust seeks to attain in thought and action union with the
+Absolute. In such cases the end is more than personal; it represents a
+power claiming the allegiance of the individual; but, on the other
+hand, it does not always or generally represent a great _ethical_
+institution or bond like the family or the state. We have passed into a
+wider world. But, secondly, he observes, in regard to modern tragedy, that in a
+larger number of instances such public or universal interests either do
+not appear at all, or, if they appear, are scarcely more than a
+background for the real subject. The real subject, the impelling end or
+passion, and the ensuing conflict, is personal,--these particular
+characters with their struggle and their fate. The importance given to
+subjectivity--this is the distinctive mark of modern sentiment, and so
+of modern art; and such tragedies bear its impress. A part at least of
+Hegel's meaning may be illustrated thus. We are interested in the
+personality of Orestes or Antigone, but chiefly as it shows itself in
+one aspect, as identifying itself with a certain ethical relation; and
+our interest in the personality is inseparable and indistinguishable
+from our interest in the power it represents. This is not so with
+Hamlet, whose position so closely resembles that of Orestes. What
+engrosses our attention is the whole personality of Hamlet in his
+conflict, not with an opposing spiritual power, but with circumstances
+and, still more, with difficulties in his own nature. No one could think
+of describing Othello as the representative of an ethical family
+relation. His passion, however much nobility he may show in it, is
+personal. So is Romeo's love. It is not pursued, like Posa's freedom of
+thought, as something universal, a right of man. Its right, if it could
+occur to us to use the term at all, is Romeo's right. On this main characteristic of modern tragedy others depend. For
+instance, that variety of subject to which reference has just been made
+depends on it. For when so much weight is attached to personality,
+almost any fatal collision in which a sufficiently striking character is
+involved may yield material for tragedy. Naturally, again,
+characterisation has become fuller and more subtle, except in dramas
+which are more or less an imitation of the antique. The characters in
+Greek tragedy are far from being types or personified abstractions, as
+those of classical French tragedy tend to be: they are genuine
+individuals. But still they are comparatively simple and easy to
+understand, and have not the intricacy of the characters in Shakespeare. These, for the most part, represent simply themselves; and the loss of
+that interest which attached to the Greek characters from their
+identification with an ethical power, is compensated by an extraordinary
+subtlety in their portrayal, and also by their possession of some
+peculiar charm or some commanding superiority. Finally, the interest in
+personality explains the freedom with which characters more or less
+definitely evil are introduced in modern tragedy. Mephistopheles is as
+essentially modern as Faust. The passion of Richard or Macbeth is not
+only personal, like that of Othello; it is egoistic and anarchic, and
+leads to crimes done with a full knowledge of their wickedness; but to
+the modern mind the greatness of the personality justifies its
+appearance in the position of hero. Such beings as Iago and Goneril,
+almost portents of evil, are not indeed made the heroes of tragedies;
+but, according to Hegel, they would not have been admitted in Greek
+tragedy at all. If Clytemnestra had been cited in objection as a
+parallel to Lady Macbeth, he would have replied that Lady Macbeth had
+not the faintest ground of complaint against Duncan, while in reading
+the _Agamemnon_ we are frequently reminded that Clytemnestra's husband
+was the sacrificer of their child. He might have added that Clytemnestra
+is herself an example of the necessity, where one of the principal
+characters inspires hatred or horror, of increasing the subtlety of the
+drawing or adding grandeur to the evil will. It remains to compare ancient and modern tragedy in regard to the issue
+of the conflict. We have seen that Hegel attributes this issue in the
+former to the ethical substance or eternal justice, and so accounts for
+such reconciliation as we feel to be present even where the end is a
+catastrophe. Now, in the catastrophe of modern tragedy, he says, a
+certain justice is sometimes felt to be present; but even then it
+differs from the antique justice. It is in some cases more 'abstract':
+the end pursued by the hero, though it is not egoistic, is still
+presented rather as his particular end than as something rightful though
+partial; and hence the catastrophe appears as the reaction, not of an
+undivided ethical totality, but merely of the universal turning against
+a too assertive particular. [5] In cases, again, where the hero (Richard
+or Macbeth) openly attacks an ethical power and plunges into evil, we
+feel that he meets with justice, and only gets what he deserves; but
+then this justice is colder and more 'criminalistic' than that of
+ancient tragedy. Thus even when the modern work seems to resemble the
+ancient in its issue, the sense of reconciliation is imperfect. And
+partly for this reason, partly from the concentration of our interest on
+individuality as such, we desire to see in the individual himself some
+sort of reconciliation with his fate. What shape this will take depends,
+of course, on the story and the character of the hero. It may appear in
+a religious form, as his feeling that he is exchanging his earthly being
+for an indestructible happiness; or again, in his recognition of the
+justice of his fall; or at least he may show us that, in face of the
+forces that crush him to death, he maintains untouched the freedom and
+strength of his own will. But there remain, says Hegel, many modern tragedies where we have to
+attribute the catastrophe not to any kind of justice, but to unhappy
+circumstances and outward accidents. And then we can only feel that the
+individual whose merely personal ends are thwarted by mere particular
+circumstances and chances, pays the penalty that awaits existence in a
+scene of contingency and finitude. Such a feeling cannot rise above
+sadness, and, if the hero is a noble soul, it may become the impression
+of a dreadful external necessity. This impression can be avoided only
+when circumstance and accident are so depicted that they are felt to
+coincide with something in the hero himself, so that he is not simply
+destroyed by an outward force. So it is with Hamlet. 'This bank and
+shoal of time' is too narrow for his soul, and the death that seems to
+fall on him by chance is also within him. And so in _Romeo and Juliet_
+we feel that the rose of a love so beautiful is too tender to bloom in
+the storm-swept valley of its birth. But such a feeling of
+reconciliation is still one of pain, an unhappy blessedness. [6] And if
+the situation displayed in a drama is of such a kind that we feel the
+issue to depend _simply_ on the turn the dramatist may choose to give to
+the course of events, we are fully justified in our preference for a
+happy ending. In this last remark (or rather in the pages misrepresented by it) Hegel,
+of course, is not criticising Shakespeare. He is objecting to the
+destiny-dramas of his own time, and to the fashionable indulgence in
+sentimental melancholy. Strongly as he asserted the essential function
+of negation throughout the universe, the affirmative power of the
+spirit, even in its profoundest divisions, was for him the deepest truth
+and the most inspiring theme. And one may see this even in his
+references to Shakespeare. He appreciated Shakespeare's representation
+of extreme forms of evil, but, even if he was fully satisfied of its
+justification, his personal preference lay in another direction, and
+while I do not doubt that he thought _Hamlet_ a greater work than
+_Iphigenie_, I suspect he loved Goethe's play the best. Most of those who have thought about this subject will agree that the
+ideas I have tried to sketch are interesting and valuable; but they
+suggest scores of questions. Alike in the account of tragedy in general,
+and in that of the differences between ancient and modern tragedy,
+everyone will find statements to doubt and omissions to regret; and
+scarcely one of Hegel's interpretations of particular plays will escape
+objection. It is impossible for me to touch on more than a few points;
+and to the main ideas I owe so much that I am more inclined to dwell on
+their truth than to criticise what seem to be defects. But perhaps after
+all an attempt to supplement and amend may be the best way of throwing
+some part of Hegel's meaning more into relief. And I will begin with the
+attempt to supplement. He seems to be right in laying emphasis on the action and conflict in
+tragedy rather than on the suffering and misfortune. No mere suffering
+or misfortune, no suffering that does not spring in great part from
+human agency, and in some degree from the agency of the sufferer, is
+tragic, however pitiful or dreadful it may be. But, sufficient
+connection with these agencies being present, misfortune, the fall from
+prosperity to adversity, with the suffering attending it, at once
+becomes tragic; and in many tragedies it forms a large ingredient, as
+does the pity for it in the tragic feeling. Hegel, I think, certainly
+takes too little notice of it; and by this omission he also withdraws
+attention from something the importance of which he would have admitted
+at once; I mean the way in which suffering is borne. Physical pain, to
+take an extreme instance, is one thing: Philoctetes, bearing it, is
+another. And the noble endurance of pain that rends the heart is the
+source of much that is best worth having in tragedy. Again, there is one particular kind of misfortune _not_ obviously due to
+human agency, which undoubtedly may affect us in a tragic way. I mean
+that kind which suggests the idea of fate. Tragedies which represent man
+as the mere plaything of chance or a blank fate or a malicious fate, are
+never really deep: it is satisfactory to see that Maeterlinck, a man of
+true genius, has now risen above these ideas. But, where those factors
+of tragedy are present which Hegel emphasises, the impression of
+something fateful in what we call accident, the impression that the hero
+not only invites misfortune by his exceptional stature and exceptional
+daring, but is also, if I may so put it, strangely and terribly unlucky,
+is in many plays a genuine ingredient in tragic effect. It is so, for
+example, in the _Oedipus Tyrannus_. It is so even in dramas like
+Shakespeare's, which exemplify the saying that character is destiny. Hegel's own reference to the prominence of accident in the plot of
+_Hamlet_ proves it. Othello would not have become Iago's victim if his
+own character had been different; but still, as we say, it is an
+extraordinary fatality which makes him the companion of the one man in
+the world who is at once able enough, brave enough, and vile enough to
+ensnare him. In the _Antigone_ itself, and in the very catastrophe of
+it, accident plays its part: we can hardly say that it depends solely on
+the characters of Creon and Antigone that the one yields just too late
+to save the life of the other. Now, it may be said with truth that
+Hegel's whole account of the ultimate power in tragedy is a
+rationalisation of the idea of fate, but his remarks on this particular
+aspect of fate are neither sufficient nor satisfactory. His insistence on the need for some element of reconciliation in a
+tragic catastrophe, and his remarks on the various forms it assumes,
+have the greatest value; but one result of the omissions just noticed is
+that he sometimes exaggerates it, and at other times rates it too low. When he is speaking of the kind of tragedy he most approves, his
+language almost suggests that our feeling at the close of the conflict
+is, or should be, one of complete reconciliation. This it surely neither
+is nor can be. Not to mention the suffering and death we have witnessed,
+the very existence of the conflict, even if a supreme ethical power is
+felt to be asserted in its close, remains a painful fact, and, in large
+measure, a fact not understood. For, though we may be said to see, in
+one sense, how the opposition of spiritual powers arises, something in
+us, and that the best, still cries out against it. And even the
+perception or belief that it must needs be that offences come would not
+abolish our feeling that the necessity is terrible, or our pain in the
+woe of the guilty and the innocent. Nay, one may conjecture, the feeling
+and the pain would not vanish if we fully understood that the conflict
+and catastrophe were by a rational necessity involved in the divine and
+eternally accomplished purpose of the world. But this exaggeration in
+Hegel's language, if partly due to his enthusiasm for the affirmative,
+may be mainly, like some other defects, an accident of lecturing. In the
+_Philosophy of Religion_, I may add, he plainly states that in the
+solution even of tragedies like the _Antigone_ something remains
+unresolved (ii. 135). On the other hand, his treatment of the aspect of reconciliation in
+modern tragedy is in several respects insufficient. I will mention only
+one. He does not notice that in the conclusion of not a few tragedies
+pain is mingled not merely with acquiescence, but with something like
+exultation. Is there not such a feeling at the close of _Hamlet_,
+_Othello_, and _King Lear_; and that although the end in the last two
+cases touches the limit of legitimate pathos? This exultation appears to
+be connected with our sense that the hero has never shown himself so
+great or noble as in the death which seals his failure. A rush of
+passionate admiration, and a glory in the greatness of the soul, mingle
+with our grief; and the coming of death, so far from destroying these
+feelings, appears to leave them untouched, or even to be entirely in
+harmony with them. If in such dramas we may be said to feel that the
+ultimate power is no mere fate, but a spiritual power, then we also feel
+that the hero was never so near to this power as in the moment when it
+required his life. The last omission I would notice in Hegel's theory is that he underrates
+the action in tragedy of what may be called by a rough distinction moral
+evil rather than defect. Certainly the part played by evil differs
+greatly in different cases, but it is never absent, not even from
+tragedies of Hegel's favourite type. If it does not appear in the main
+conflict, it appears in its occasion. You may say that, while Iago and
+Macbeth have evil purposes, neither the act of Orestes nor the vengeance
+of the Furies, neither Antigone's breach of the edict nor even Creon's
+insistence on her punishment, springs from evil in them; but the
+situation with which Orestes or Antigone has to deal, and so in a sense
+the whole tragedy, arises from evil, the murder of Agamemnon, and the
+attempt of Polyneices to bring ruin on his native city. In fact, if we
+confine the title 'tragedy' to plays ending with a catastrophe, it will
+be found difficult to name great tragedies, ancient or modern, in which
+evil has not directly or indirectly a prominent part. And its presence
+has an important bearing on the effect produced by the catastrophe. On
+the one hand, it deepens the sense of painful awe. The question why
+affirmative spiritual forces should collide is hard enough; but the
+question why, together with them, there should be generated violent evil
+and extreme depravity is harder and more painful still. But, on the
+other hand, the element of reconciliation in the catastrophe is
+strengthened by recognition of the part played by evil in bringing it
+about; because our sense that the ultimate power cannot endure the
+presence of such evil is implicitly the sense that this power is at
+least more closely allied with good. If it rejects the exaggerated
+claims of its own isolated powers, that which provokes from it a much
+more vehement reaction must be still more alien to its nature. This
+feeling is forcibly evoked by Shakespeare's tragedies, and in many Greek
+dramas it is directly appealed to by repeated reminders that what is at
+work in the disasters is the unsleeping Ate which follows an ancestral
+sin. If Aristotle did not in some lost part of the _Poetics_ discuss
+ideas like this, he failed to give a complete rationale of Greek
+tragedy. I come lastly to the matter I have most at heart. What I take to be the
+central idea in Hegel's theory seems to me to touch the essence of
+tragedy. And I will not assert that his own statement of it fails to
+cover the whole field of instances. For he does not teach, as he is
+often said to do, that tragedy portrays only the conflict of such
+ethical powers as the family and the state. He adds to these, as we have
+seen, others, such as love and honour, together with various universal
+ends; and it may even be maintained that he has provided in his general
+statement for those numerous cases where, according to himself, no
+substantial or universal ends collide, but the interest is centred on
+'personalities.' Nevertheless, when these cases come to be considered
+more fully--and, in Hegel's view, they are the most characteristically
+modern cases--we are not satisfied. They naturally tend to appear as
+declensions from the more ideal ancient form; for how can a personality
+which represents only itself claim the interest of one which represents
+something universal? And further, they are sometimes described in a
+manner which strikes the reader, let us say, of Shakespeare, as both
+insufficient and misleading. Without raising, then, unprofitable
+questions about the comparative merits of ancient and modern tragedy, I
+should like to propose a restatement of Hegel's general principle which
+would make it more obviously apply to both. If we omit all reference to ethical or substantial powers and interests,
+what have we left? 

@@ -1,0 +1,835 @@
+
+
+
+
+Produced by Tapio Riikonen and David Widger
+
+
+
+
+
+                THE PICCOLOMINI
+
+             By Frederich Schiller
+
+
+
+          Translated by S. T. Coleridge. "Upon the whole there can be no doubt that this trilogy forms, in its
+original tongue, one of the most splendid specimens of tragic art the
+world has witnessed; and none at all, that the execution of the version
+from which we have quoted so largely, places Mr. Coleridge in the very
+first rank of poetical translators. He is, perhaps, the solitary example
+of a man of very great original genius submitting to all the labors, and
+reaping all the honors of this species of literary exertion." --Blackwood,
+1823. PREFACE. The two dramas,--PICCOLOMINI, or the first part of WALLENSTEIN, and the
+DEATH OF WALLENSTEIN, are introduced in the original manuscript by a
+prelude in one act, entitled WALLENSTEIN'S CAMP. This is written in
+rhyme, and in nine-syllable verse, in the same lilting metre (if that
+expression may be permitted), with the second Eclogue of Spenser's
+Shepherd's Calendar. This prelude possesses a sort of broad humor, and is not deficient in
+character: but to have translated it into prose, or into any other metre
+than that of the original, would have given a false idea both of its
+style and purport; to have translated it into the same metre would have
+been incompatible with a faithful adherence to the sense of the German
+from the comparative poverty of our language in rhymes; and it would have
+been unadvisable, from the incongruity of those lax verses with the
+present taste of the English public. Schiller's intention seems to have
+been merely to have prepared his reader for the tragedies by a lively
+picture of laxity of discipline and the mutinous dispositions of
+Wallenstein's soldiery. It is not necessary as a preliminary
+explanation. For these reasons it has been thought expedient not to
+translate it. The admirers of Schiller, who have abstracted their idea of that author
+from the Robbers, and the Cabal and Love, plays in which the main
+interest is produced by the excitement of curiosity, and in which the
+curiosity is excited by terrible and extraordinary incident, will not
+have perused without some portion of disappointment the dramas, which it
+has been my employment to translate. They should, however, reflect that
+these are historical dramas taken from a popular German history; that we
+must, therefore, judge of them in some measure with the feelings of
+Germans; or, by analogy, with the interest excited in us by similar
+dramas in our own language. Few, I trust, would be rash or ignorant
+enough to compare Schiller with Shakspeare; yet, merely as illustration,
+I would say that we should proceed to the perusal of Wallenstein, not
+from Lear or Othello, but from Richard II., or the three parts of Henry
+VI. We scarcely expect rapidity in an historical drama; and many prolix
+speeches are pardoned from characters whose names and actions have formed
+the most amusing tales of our early life. On the other hand, there exist
+in these plays more individual beauties, more passages whose excellence
+will bear reflection than in the former productions of Schiller. The
+description of the Astrological Tower, and the reflections of the Young
+Lover, which follow it, form in the original a fine poem; and my
+translation must have been wretched indeed if it can have wholly
+overclouded the beauties of the scene in the first act of the first play
+between Questenberg, Max, and Octavio Piccolomini. If we except the
+scene of the setting sun in the Robbers, I know of no part in Schiller's
+plays which equals the first scene of the fifth act of the concluding
+plays. [In this edition, scene iii., act v.] It would be unbecoming in
+me to be more diffuse on this subject. A translator stands connected
+with the original author by a certain law of subordination which makes it
+more decorous to point out excellences than defects; indeed, he is not
+likely to be a fair judge of either. The pleasure or disgust from his
+own labor will mingle with the feelings that arise from an afterview of
+the original. Even in the first perusal of a work in any foreign
+language which we understand, we are apt to attribute to it more
+excellence than it really possesses from our own pleasurable sense of
+difficulty overcome without effort. Translation of poetry into poetry is
+difficult, because the translator must give a brilliancy to his language
+without that warmth of original conception from which such brilliancy
+would follow of its own accord. But the translator of a living author is
+incumbered with additional inconveniences. If he render his original
+faithfully as to the sense of each passage, he must necessarily destroy a
+considerable portion of the spirit; if he endeavor to give a work
+executed according to laws of compensation he subjects himself to
+imputations of vanity or misrepresentation. I have thought it my duty to
+remain bound by the sense of my original with as few exceptions as the
+nature of the languages rendered possible. S. T. C.
+
+
+
+THE PICCOLOMINI. DRAMATIS PERSONAE. WALLENSTEIN, Duke of Friedland, Generalissimo of the Imperial Forces
+   in the Thirty Years' War. OCTAVIO PICCOLOMINI, Lieutenant-General. MAX. PICCOLOMINI, his Son, Colonel of a Regiment of Cuirassiers. COUNT TERZKY, the Commander of several Regiments, and Brother-in-law
+   of Wallenstein. ILLO, Field-Marshal, Wallenstein's Confidant. ISOLANI, General of the Croats. BUTLER, an Irishman, Commander of a Regiment of Dragoons. TIEFENBACH,  |
+DON MARADAS, | Generals under Wallenstein. GOETZ,       |
+KOLATTO,     |
+NEUMANN, Captain of Cavalry, Aide-de-Camp to Terzky. VON QUESTENBERG, the War Commissioner, Imperial Envoy. BAPTISTA SENI, an Astrologer. DUCHESS OF FRIEDLAND, Wife of Wallenstein. THEKLA, her Daughter, Princess of Friedland. THE COUNTESS TERZRY, Sister of the Duchess. A CORNET. COLONELS and GENERALS (several). PAGES and ATTENDANTS belonging to Wallenstein. ATTENDANTS and HOBOISTS belonging to Terzky. MASTER OF THE CELLAR to Count Terzky. VALET DE CHAMBRE of Count Piccolomini. ACT I. SCENE I. An old Gothic Chamber in the Council-House at Pilsen,
+   decorated with Colors and other War Insignia. ILLO, with BUTLER and ISOLANI. ILLO. Ye have come too late-but ye are come! The distance,
+Count Isolani, excuses your delay. ISOLANI. Add this too, that we come not empty-handed. At Donauwerth [1] it was reported to us,
+A Swedish caravan was on its way,
+Transporting a rich cargo of provision,
+Almost six hundreds wagons. This my Croats
+Plunged down upon and seized, this weighty prize!--
+We bring it hither----
+
+ILLO. Just in time to banquet
+The illustrious company assembled here. BUTLER. 'Tis all alive! a stirring scene here! ISOLANI. Ay! The very churches are full of soldiers. [Casts his eye round. And in the council-house, too, I observe,
+You're settled quite at home! Well, well! we soldiers
+Must shift and suit us in what way we can. ILLO. We have the colonels here of thirty regiments. You'll find Count Terzky here, and Tiefenbach,
+Kolatto, Goetz, Maradas, Hinnersam,
+The Piccolomini, both son and father--
+You'll meet with many an unexpected greeting
+From many an old friend and acquaintance. Only
+Gallas is wanting still, and Altringer. BUTLER. Expect not Gallas. ILLO (hesitating). How so? Do you know----
+
+ISOLANI (interrupting him). Max. Piccolomini here? O bring me to him. I see him yet ('tis now ten years ago,
+We were engaged with Mansfeldt hard by Dessau),
+I see the youth, in my mind's eye I see him,
+Leap his black war-horse from the bridge adown,
+And t'ward his father, then in extreme peril,
+Beat up against the strong tide of the Elbe. The down was scarce upon his chin! I hear
+He has made good the promise of his youth,
+And the full hero now is finished in him. ILLO. You'll see him yet ere evening. He conducts
+The Duchess Friedland hither, and the princess [2]
+From Caernthen [3]. We expect them here at noon. BUTLER. Both wife and daughter does the duke call hither? He crowds in visitants from all sides. ISOLANI. Hm! So much the better! I had framed my mind
+To hear of naught but warlike circumstance,
+Of marches and attacks, and batteries;
+And lo! the duke provides, and something too
+Of gentler sort and lovely, should be present
+To feast our eyes. ILLO (who has been standing in the attitude of meditation, to BUTLER,
+   whom he leads a little on one side). And how came you to know
+That the Count Gallas joins us not? BUTLER. Because
+He importuned me to remain behind. ILLO (with warmth). And you? You hold out firmly! [Grasping his hand with affection. Noble Butler! BUTLER. After the obligation which the duke
+Had laid so newly on me----
+
+ILLO. I had forgotten
+A pleasant duty--major-general,
+I wish you joy! ISOLANI. What, you mean, of this regiment? I hear, too, that to make the gift still sweeter,
+The duke has given him the very same
+In which he first saw service, and since then
+Worked himself step by step, through each preferment,
+From the ranks upwards. And verily, it gives
+A precedent of hope, a spur of action
+To the whole corps, if once in their remembrance
+An old deserving soldier makes his way. BUTLER. I am perplexed and doubtful whether or no
+I dare accept this your congratulation. The emperor has not yet confirmed the appointment. ISOLANI. Seize it, friend, seize it! The hand which in that post
+Placed you is strong enough to keep you there,
+Spite of the emperor and his ministers! ILLO. Ay, if we would but so consider it!--
+If we would all of us consider it so! The emperor gives us nothing; from the duke
+Comes all--whate'er we hope, whate'er we have. ISOLANI (to ILLO). My noble brother! did I tell you how
+The duke will satisfy my creditors? Will be himself my bankers for the future,
+Make me once more a creditable man! And this is now the third time, think of that! This kingly-minded man has rescued me
+From absolute ruin and restored my honor. ILLO. Oh that his power but kept pace with his wishes! Why, friend! he'd give the whole world to his soldiers. But at Vienna, brother!--here's the grievance,--
+What politic schemes do they not lay to shorten
+His arm, and where they can to clip his pinions. Then these new dainty requisitions! these
+Which this same Questenberg brings hither! BUTLER. Ay! Those requisitions of the emperor--
+I too have heard about them; but I hope
+The duke will not draw back a single inch! ILLO. Not from his right most surely, unless first
+From office! BUTLER (shocked and confused). Know you aught then? You alarm me. ISOLANI (at the same time with BUTLER, and in a hurrying voice). We should be ruined, every one of us! ILLO. Yonder I see our worthy friend [spoken with a sneer] approaching
+With the Lieutenant-General Piccolomini. BUTLER (shaking his head significantly). I fear we shall not go hence as we came. SCENE II. Enter OCTAVIO PICCOLOMINI and QUESTENBERG. OCTAVIO (still in the distance). Ay! ah! more still! Still more new visitors! Acknowledge, friend! that never was a camp,
+Which held at once so many heads of heroes. QUESTENBERG. Let none approach a camp of Friedland's troops
+Who dares to think unworthily of war;
+E'en I myself had nigh forgot its evils
+When I surveyed that lofty soul of order,
+By which, while it destroys the world--itself
+Maintains the greatness which itself created. OCTAVIO (approaching nearer). Welcome, Count Isolani! ISOLANI. My noble brother! Even now am I arrived; it has been else my duty----
+
+OCTAVIO. And Colonel Butler--trust me, I rejoice
+Thus to renew acquaintance with a man
+Whose worth and services I know and honor. See, see, my friend! There might we place at once before our eyes
+The sum of war's whole trade and mystery--
+
+   [To QUESTENBERG, presenting BUTLER and ISOLANI at the same time
+   to him. These two the total sum--strength and despatch. QUESTENBERG (to OCTAVIO). And lo! betwixt them both, experienced prudence! OCTAVIO (presenting QUESTENBERG to BUTLER and ISOLANI). The Chamberlain and War-Commissioner Questenberg. The bearer of the emperor's behests,--
+The long-tried friend and patron of all soldiers,
+We honor in this noble visitor. [Universal silence. ILLO (moving towards QUESTENBERG). 'Tis not the first time, noble minister,
+You've shown our camp this honor. QUESTENBERG. Once before
+I stood beside these colors. ILLO. Perchance too you remember where that was;
+It was at Znaeim [4] in Moravia, where
+You did present yourself upon the part
+Of the emperor to supplicate our duke
+That he would straight assume the chief command. QUESTENBURG. To supplicate? Nay, bold general! So far extended neither my commission
+(At least to my own knowledge) nor my zeal. ILLO. Well, well, then--to compel him, if you choose,
+I can remember me right well, Count Tilly
+Had suffered total rout upon the Lech. Bavaria lay all open to the enemy,
+Whom there was nothing to delay from pressing
+Onwards into the very heart of Austria. At that time you and Werdenberg appeared
+Before our general, storming him with prayers,
+And menacing the emperor's displeasure,
+Unless he took compassion on this wretchedness. ISOLANI (steps up to them). Yes, yes, 'tis comprehensible enough,
+Wherefore with your commission of to-day,
+You were not all too willing to remember
+Your former one. QUESTENBERG. Why not, Count Isolani? No contradiction sure exists between them. It was the urgent business of that time
+To snatch Bavaria from her enemy's hand;
+And my commission of to-day instructs me
+To free her from her good friends and protectors. ILLO. A worthy office! After with our blood
+We have wrested this Bohemia from the Saxon,
+To be swept out of it is all our thanks,
+The sole reward of all our hard-won victories. QUESTENBERG. Unless that wretched land be doomed to suffer
+Only a change of evils, it must be
+Freed from the scourge alike of friend or foe. ILLO. What? 'Twas a favorable year; the boors
+Can answer fresh demands already. QUESTENBERG. Nay,
+If you discourse of herds and meadow-grounds----
+
+ISOLANI. The war maintains the war. Are the boors ruined
+The emperor gains so many more new soldiers. QUESTENBERG. And is the poorer by even so many subjects. ISOLANI. Poh! we are all his subjects. QUESTENBERG. Yet with a difference, general! The one fill
+With profitable industry the purse,
+The others are well skilled to empty it. The sword has made the emperor poor; the plough
+Must reinvigorate his resources. ISOLANI. Sure! Times are not yet so bad. Methinks I see
+   [Examining with his eye the dress and ornaments of QUESTENBERG. Good store of gold that still remains uncoined. QUESTENBERG. Thank Heaven! that means have been found out to hide
+Some little from the fingers of the Croats. ILLO. There! The Stawata and the Martinitz,
+On whom the emperor heaps his gifts and graces,
+To the heart-burning of all good Bohemians--
+Those minions of court favor, those court harpies,
+Who fatten on the wrecks of citizens
+Driven from their house and home--who reap no harvests
+Save in the general calamity--
+Who now, with kingly pomp, insult and mock
+The desolation of their country--these,
+Let these, and such as these, support the war,
+The fatal war, which they alone enkindled! BUTLER. And those state-parasites, who have their feet
+So constantly beneath the emperor's table,
+Who cannot let a benefice fall, but they
+Snap at it with dogs' hunger--they, forsooth,
+Would pare the soldiers bread and cross his reckoning! ISOLANI. My life long will it anger me to think,
+How when I went to court seven years ago,
+To see about new horses for our regiment,
+How from one antechamber to another
+They dragged me on and left me by the hour
+To kick my heels among a crowd of simpering
+Feast-fattened slaves, as if I had come thither
+A mendicant suitor for the crumbs of favor
+That fell beneath their tables. And, at last,
+Whom should they send me but a Capuchin! Straight I began to muster up my sins
+For absolution--but no such luck for me! This was the man, this Capuchin, with whom
+I was to treat concerning the army horses! And I was forced at last to quit the field,
+The business unaccomplished. Afterwards
+The duke procured me in three days what I
+Could not obtain in thirty at Vienna. QUESTENBERG. Yes, yes! your travelling bills soon found their way to us! Too well I know we have still accounts to settle. ILLO. War is violent trade; one cannot always
+Finish one's work by soft means; every trifle
+Must not be blackened into sacrilege. If we should wait till you, in solemn council,
+With due deliberation had selected
+The smallest out of four-and-twenty evils,
+I' faith we should wait long--
+"Dash! and through with it!" That's the better watchword. Then after come what may come. 'Tis man's nature
+To make the best of a bad thing once past. A bitter and perplexed "what shall I do?" Is worse to man than worst necessity. QUESTENBERG. Ay, doubtless, it is true; the duke does spare us
+The troublesome task of choosing. BUTLER. Yes, the duke
+Cares with a father's feelings for his troops;
+But how the emperor feels for us, we see. QUESTENBERG. His cares and feelings all ranks share alike,
+Nor will he offer one up to another. ISOLANI. And therefore thrusts he us into the deserts
+As beasts of prey, that so he may preserve
+His dear sheep fattening in his fields at home. QUESTENBERG (with a sneer). Count! this comparison you make, not I.
+
+ILLO. Why, were we all the court supposes us
+'Twere dangerous, sure, to give us liberty. QUESTENBERG (gravely). You have taken liberty--it was not given you,
+And therefore it becomes an urgent duty
+To rein it in with the curbs. ILLO. Expect to find a restive steed in us. QUESTENBERG. A better rider may be found to rule it. ILLO. He only brooks the rider who has tamed him. QUESTENBERG. Ay, tame him once, and then a child may lead him. ILLO. The child, we know, is found for him already. QUESTENBERG. Be duty, sir, your study, not a name. BUTLER (who has stood aside with PICCOLOMINI, but with visible interest
+    in the conversation, advances). Sir president, the emperor has in Germany
+A splendid host assembled; in this kingdom
+Full twenty thousand soldiers are cantoned,
+With sixteen thousand in Silesia;
+Ten regiments are posted on the Weser,
+The Rhine, and Maine; in Swabia there are six,
+And in Bavaria twelve, to face the Swedes;
+Without including in the account the garrisons
+Who on the frontiers hold the fortresses. This vast and mighty host is all obedient
+To Friedland's captains; and its brave commanders,
+Bred in one school, and nurtured with one milk,
+Are all excited by one heart and soul;
+They are as strangers on the soil they tread,
+The service is their only house and home. No zeal inspires then for their country's cause,
+For thousands like myself were born abroad;
+Nor care they for the emperor, for one half
+Deserting other service fled to ours,
+Indifferent what their banner, whether 'twere,
+The Double Eagle, Lily, or the Lion. Yet one sole man can rein this fiery host
+By equal rule, by equal love and fear;
+Blending the many-nationed whole in one;
+And like the lightning's fires securely led
+Down the conducting rod, e'en thus his power
+Rules all the mass, from guarded post to post,
+From where the sentry hears the Baltic roar,
+Or views the fertile vales of the Adige,
+E'en to the body-guard, who holds his watch
+Within the precincts of the imperial palace! QUESTENBERG. What's the short meaning of this long harangue? BUTLER. That the respect, the love, the confidence,
+Which makes us willing subjects of Duke Friedland,
+Are not to be transferred to the first comer
+That Austria's court may please to send to us. We have not yet so readily forgotten
+How the command came into Friedland's hands. Was it, forsooth, the emperor's majesty
+That gave the army ready to his hand,
+And only sought a leader for it? No. The army then had no existence. He,
+Friedland, it was who called it into being,
+And gave it to his sovereign--but receiving
+No army at his hand; nor did the emperor
+Give Wallenstein to us as general. No,
+It was from Wallenstein we first received
+The emperor as our master and our sovereign;
+And he, he only, binds us to our banners! OCTAVIO (interposing and addressing QUESTENBERG). My noble friend,
+This is no more than a remembrancing
+That you are now in camp, and among warriors;
+The soldier's boldness constitutes his freedom. Could he act daringly, unless he dared
+Talk even so? One runs into the other. The boldness of this worthy officer,
+                [Pointing to BUTLER. Which now is but mistaken in its mark,
+Preserved, when naught but boldness could preserve it,
+To the emperor, his capital city, Prague,
+In a most formidable mutiny
+Of the whole garrison. [Military music at a distance. Hah! here they come! ILLO. The sentries are saluting them: this signal
+Announces the arrival of the duchess. OCTAVIO (to QUESTENBERG). Then my son Max., too, has returned. 'Twas he
+Fetched and attended them from Caernthen hither. ISOLANI (to ILLO). Shall we not go in company to greet them? ILLO. Well, let us go--Ho! Colonel Butler, come. [To OCTAVIO. You'll not forget that yet ere noon we meet
+The noble envoy at the general's palace. [Exeunt all but QUESTENBERG and OCTAVIO. SCENE III. QUESTENBERG and OCTAVIO. QUESTENBERG (with signs of aversion and astonishment). What have I not been forced to hear, Octavio! What sentiments! what fierce, uncurbed defiance! And were this spirit universal----
+
+OCTAVIO. Hm! You're now acquainted with three-fourths of the army. QUESTENBERG. Where must we seek, then, for a second host
+To have the custody of this? That Illo
+Thinks worse, I fear me, than he speaks. And then
+This Butler, too--he cannot even conceal
+The passionate workings of his ill intentions. OCTAVIO. Quickness of temper--irritated pride;
+'Twas nothing more. I cannot give up Butler. I know a spell that will soon dispossess
+The evil spirit in him. QUESTENBERG (walking up and down in evident disquiet). Friend, friend! O! this is worse, far worse, than we had suffered
+Ourselves to dream of at Vienna. There
+We saw it only with a courtier's eyes,
+Eyes dazzled by the splendor of the throne. We had not seen the war-chief, the commander,
+The man all-powerful in his camp. Here, here,
+'Tis quite another thing. Here is no emperor more--the duke is emperor. Alas, my friend! alas, my noble friend! This walk which you have ta'en me through the camp
+Strikes my hopes prostrate. OCTAVIO. Now you see yourself
+Of what a perilous kind the office is,
+Which you deliver to me from the court. The least suspicion of the general
+Costs me my freedom and my life, and would
+But hasten his most desperate enterprise. QUESTENBERG. Where was our reason sleeping when we trusted
+This madman with the sword, and placed such power
+In such a hand? I tell you, he'll refuse,
+Flatly refuse to obey the imperial orders. Friend, he can do it, and what he can, he will. And then the impunity of his defiance--
+Oh! what a proclamation of our weakness! OCTAVIO. D'ye think, too, he has brought his wife and daughter
+Without a purpose hither? Here in camp! And at the very point of time in which
+We're arming for the war? That he has taken
+These, the last pledges of his loyalty,
+Away from out the emperor's dominions--
+This is no doubtful token of the nearness
+Of some eruption. QUESTENBERG. How shall we hold footing
+Beneath this tempest, which collects itself
+And threats us from all quarters? The enemy
+Of the empire on our borders, now already
+The master of the Danube, and still farther,
+And farther still, extending every hour! In our interior the alarum-bells
+Of insurrection--peasantry in arms--
+All orders discontented--and the army,
+Just in the moment of our expectation
+Of aidance from it--lo! this very army
+Seduced, run wild, lost to all discipline,
+Loosened, and rent asunder from the state
+And from their sovereign, the blind instrument
+Of the most daring of mankind, a weapon
+Of fearful power, which at his will he wields. OCTAVIO. Nay, nay, friend! let us not despair too soon
+Men's words are even bolder than their deeds;
+And many a resolute, who now appears
+Made up to all extremes, will, on a sudden,
+Find in his breast a heart he wot not of,
+Let but a single honest man speak out
+The true name of his crime! Remember, too,
+We stand not yet so wholly unprotected. Counts Altringer and Gallas have maintained
+Their little army faithful to its duty,
+And daily it becomes more numerous. Nor can he take us by surprise; you know
+I hold him all encompassed by my listeners. What'er he does, is mine, even while 'tis doing--
+No step so small, but instantly I hear it;
+Yea, his own mouth discloses it. QUESTENBERG. 'Tis quite
+Incomprehensible, that he detects not
+The foe so near! OCTAVIO. Beware, you do not think,
+That I, by lying arts, and complaisant
+Hypocrisy, have sulked into his graces,
+Or with the substance of smooth professions
+Nourish his all-confiding friendship! No--
+Compelled alike by prudence, and that duty
+Which we all owe our country and our sovereign,
+To hide my genuine feelings from him, yet
+Ne'er have I duped him with base counterfeits! QUESTENBERG. It is the visible ordinance of heaven. OCTAVIO. I know not what it is that so attracts
+And links him both to me and to my son. Comrades and friends we always were--long habit,
+Adventurous deeds performed in company,
+And all those many and various incidents
+Which stores a soldier's memory with affections,
+Had bound us long and early to each other--
+Yet I can name the day, when all at once
+His heart rose on me, and his confidence
+Shot out into sudden growth. It was the morning
+Before the memorable fight at Luetzen. Urged by an ugly dream, I sought him out,
+To press him to accept another charger. At a distance from the tents, beneath a tree,
+I found him in a sleep. When I had waked him
+And had related all my bodings to him,
+Long time he stared upon me, like a man
+Astounded: thereon fell upon my neck,
+And manifested to me an emotion
+That far outstripped the worth of that small service. Since then his confidence has followed me
+With the same pace that mine has fled from him. QUESTENBERG. You lead your son into the secret? OCTAVIO. No! QUESTENBERG. What! and not warn him either, what bad hands
+His lot has placed him in? OCTAVIO. I must perforce
+Leave him in wardship to his innocence. His young and open soul--dissimulation
+Is foreign to its habits! Ignorance
+Alone can keep alive the cheerful air,
+The unembarrassed sense and light free spirit,
+That makes the duke secure. QUESTENBERG (anxiously). My honored friend! most highly do I deem
+Of Colonel Piccolomini--yet--if--
+Reflect a little----
+
+OCTAVIO. I must venture it. Hush! There he comes! SCENE IV. MAX. PICCOLOMINI, OCTAVIO PICCOLOMINI, QUESTENBERG. MAX. Ha! there he is himself. Welcome, my father! [He embraces his father. As he turns round, he observes
+   QUESTENBERG, and draws back with a cold and reserved air. You are engaged, I see. I'll not disturb you. OCTAVIO. How, Max.? Look closer at this visitor. Attention, Max., an old friend merits--reverence
+Belongs of right to the envoy of your sovereign. MAX. (drily). Von Questenberg!--welcome--if you bring with you
+Aught good to our headquarters. QUESTENBERG (seizing his hand). Nay, draw not
+Your hand away, Count Piccolimini! Not on my own account alone I seized it,
+And nothing common will I say therewith. [Taking the hands of both. Octavio--Max. Piccolomini! O savior names, and full of happy omen! Ne'er will her prosperous genius turn from Austria,
+While two such stars, with blessed influences
+Beaming protection, shine above her hosts. MAX. Heh! Noble minister! You miss your part. You come not here to act a panegyric. You're sent, I know, to find fault and to scold us--
+I must not be beforehand with my comrades. OCTAVIO (to MAX.). He comes from court, where people are not quite
+So well contented with the duke as here. MAX. What now have they contrived to find out in him? That he alone determines for himself
+What he himself alone doth understand! Well, therein he does right, and will persist in't
+Heaven never meant him for that passive thing
+That can be struck and hammered out to suit
+Another's taste and fancy. He'll not dance
+To every tune of every minister. It goes against his nature--he can't do it,
+He is possessed by a commanding spirit,
+And his, too, is the station of command. And well for us it is so! There exist
+Few fit to rule themselves, but few that use
+Their intellects intelligently. Then
+Well for the whole, if there be found a man
+Who makes himself what nature destined him,
+The pause, the central point, to thousand thousands
+Stands fixed and stately, like a firm-built column,
+Where all may press with joy and confidence--
+Now such a man is Wallenstein; and if
+Another better suits the court--no other
+But such a one as he can serve the army. QUESTENBERG. The army? Doubtless! MAX. What delight to observe
+How he incites and strengthens all around him,
+Infusing life and vigor. Every power
+Seems as it were redoubled by his presence
+He draws forth every latent energy,
+Showing to each his own peculiar talent,
+Yet leaving all to be what nature made them,
+And watching only that they be naught else
+In the right place and time; and he has skill
+To mould the power's of all to his own end. QUESTENBERG. But who denies his knowledge of mankind,
+And skill to use it? Our complaint is this:
+That in the master he forgets the servant,
+As if he claimed by birth his present honors. MAX. And does he not so? Is he not endowed
+With every gift and power to carry out
+The high intents of nature, and to win
+A ruler's station by a ruler's talent? QUESTENBERG. So then it seems to rest with him alone
+What is the worth of all mankind beside! MAX. Uncommon men require no common trust;
+Give him but scope and he will set the bounds. QUESTENBERG. The proof is yet to come. MAX. Thus are ye ever. Ye shrink from every thing of depth, and think
+Yourselves are only safe while ye're in shallows. OCTAVIO (to QUESTENBERG). 'Twere best to yield with a good grace, my friend;
+Of him there you'll make nothing. MAX. (continuing). In their fear
+They call a spirit up, and when he comes,
+Straight their flesh creeps and quivers, and they dread him
+More than the ills for which they called him up. The uncommon, the sublime, must seem and be
+Like things of every day. But in the field,
+Ay, there the Present Being makes itself felt. The personal must command, the actual eye
+Examine. If to be the chieftain asks
+All that is great in nature, let it be
+Likewise his privilege to move and act
+In all the correspondences of greatness. The oracle within him, that which lives,
+He must invoke and question--not dead books,
+Not ordinances, not mould-rotted papers. OCTAVIO. My son! of those old narrow ordinances
+Let us not hold too lightly. They are weights
+Of priceless value, which oppressed mankind,
+Tied to the volatile will of their oppressors. For always formidable was the League
+And partnership of free power with free will. The way of ancient ordinance, though it winds,
+Is yet no devious path. Straight forward goes
+The lightning's path, and straight the fearful path
+Of the cannon-ball. Direct it flies, and rapid;
+Shattering that it may reach, and shattering what it reaches,
+My son, the road the human being travels,
+That, on which blessing comes and goes, doth follow
+The river's course, the valley's playful windings,
+Curves round the cornfield and the hill of vines,
+Honoring the holy bounds of property! And thus secure, though late, leads to its end. QUESTENBERG. Oh, hear your father, noble youth! hear him
+Who is at once the hero and the man. OCTAVIO. My son, the nursling of the camp spoke in thee! A war of fifteen years
+Hath been thy education and thy school. Peace hast thou never witnessed! There exists
+An higher than the warrior's excellence. In war itself war is no ultimate purpose,
+The vast and sudden deeds of violence,
+Adventures wild, and wonders of the moment,
+These are not they, my son, that generate
+The calm, the blissful, and the enduring mighty! Lo there! the soldier, rapid architect! Builds his light town of canvas, and at once
+The whole scene moves and bustles momently. With arms, and neighing steeds, and mirth and quarrel
+The motley market fills; the roads, the streams
+Are crowded with new freights; trade stirs and hurries,
+But on some morrow morn, all suddenly,
+The tents drop down, the horde renews its march. Dreary, and solitary as a churchyard;
+The meadow and down-trodden seed-plot lie,
+And the year's harvest is gone utterly. MAX. Oh, let the emperor make peace, my father! Most gladly would I give the blood-stained laurel
+For the first violet [5] of the leafless spring,
+Plucked in those quiet fields where I have journeyed. OCTAVIO. What ails thee? What so moves thee all at once? MAX. Peace have I ne'er beheld? I have beheld it. From thence am I come hither: oh, that sight,
+It glimmers still before me, like some landscape
+Left in the distance,--some delicious landscape! My road conducted me through countries where
+The war has not yet reached. Life, life, my father--
+My venerable father, life has charms
+Which we have never experienced. We have been
+But voyaging along its barren coasts,
+Like some poor ever-roaming horde of pirates,
+That, crowded in the rank and narrow ship,
+House on the wild sea with wild usages,
+Nor know aught of the mainland, but the bays
+Where safeliest they may venture a thieves' landing. Whate'er in the inland dales the land conceals
+Of fair and exquisite, oh, nothing, nothing,
+Do we behold of that in our rude voyage. OCTAVIO (attentive, with an appearance of uneasiness). And so your journey has revealed this to you? MAX. 'Twas the first leisure of my life. O tell me,
+What is the meed and purpose of the toil,
+The painful toil which robbed me of my youth,
+Left me a heart unsouled and solitary,
+A spirit uninformed, unornamented! For the camp's stir, and crowd, and ceaseless larum,
+The neighing war-horse, the air-shattering trumpet,
+The unvaried, still returning hour of duty,
+Word of command, and exercise of arms--
+There's nothing here, there's nothing in all this,
+To satisfy the heart, the gasping heart! Mere bustling nothingness, where the soul is not--
+This cannot be the sole felicity,
+These cannot be man's best and only pleasures! OCTAVIO. Much hast thou learnt, my son, in this short journey. MAX. Oh day, thrice lovely! when at length the soldier
+Returns home into life; when he becomes
+A fellow-man among his fellow-men. The colors are unfurled, the cavalcade
+Mashals, and now the buzz is hushed, and hark! Now the soft peace-march beats, home, brothers, home! The caps and helmet are all garlanded
+With green boughs, the last plundering of the fields. The city gates fly open of themselves,
+They need no longer the petard to tear them. The ramparts are all filled with men and women,
+With peaceful men and women, that send onwards. Kisses and welcomings upon the air,
+Which they make breezy with affectionate gestures. From all the towers rings out the merry peal,
+The joyous vespers of a bloody day. O happy man, O fortunate! for whom
+The well-known door, the faithful arms are open,
+The faithful tender arms with mute embracing. QUESTENBERG (apparently much affected). O that you should speak
+Of such a distant, distant time, and not
+Of the to-morrow, not of this to-day. MAX. (turning round to him quick and vehement). Where lies the fault but on you in Vienna! I will deal openly with you, Questenberg. Just now, as first I saw you standing here
+(I'll own it to you freely), indignation
+Crowded and pressed my inmost soul together. 'Tis ye that hinder peace, ye!--and the warrior,
+It is the warrior that must force it from you. Ye fret the general's life out, blacken him,
+Hold him up as a rebel, and heaven knows
+What else still worse, because he spares the Saxons,
+And tries to awaken confidence in the enemy;
+Which yet's the only way to peace: for if
+War intermit not during war, how then
+And whence can peace come? Your own plagues fall on you! Even as I love what's virtuous, hate I you. And here I make this vow, here pledge myself,
+My blood shall spurt out for this Wallenstein,
+And my heart drain off, drop by drop, ere ye
+Shall revel and dance jubilee o'er his ruin. [Exit. SCENE V.
+
+   QUESTENBERG, OCTAVIO PICCOLOMINI. QUESTENBERG. Alas! alas! and stands it so? [Then in pressing and impatient tones. What friend! and do we let him go away
+In this delusion--let him go away? Not call him back immediately, not open
+His eyes, upon the spot? OCTAVIO (recovering himself out of a deep study). He has now opened mine,
+And I see more than pleases me. QUESTENBERG. What is it? OCTAVIO. Curse on this journey! QUESTENBERG. But why so? What is it? OCTAVIO. Come, come along, friend! I must follow up
+The ominous track immediately. Mine eyes
+Are opened now, and I must use them. Come! [Draws QUESTENBERG on with him. QUESTENBERG. What now? Where go you then? OCTAVIO. To her herself. QUESTENBERG. To----
+
+OCTAVIO (interrupting him and correcting himself). To the duke. Come, let us go 'Tis done, 'tis done,
+I see the net that is thrown over him. Oh! he returns not to me as he went. QUESTENBERG. Nay, but explain yourself. OCTAVIO. And that I should not
+Foresee it, not prevent this journey! Wherefore
+Did I keep it from him? You were in the right. I should have warned him. Now it is too late. QUESTENBERG. But what's too late? Bethink yourself, my friend,
+That you are talking absolute riddles to me. OCTAVIO (more collected). Come I to the duke's. 'Tis close upon the hour
+Which he appointed you for audience. Come! A curse, a threefold curse, upon this journey! [He leads QUESTENBERG off. ACT II. SCENE I. Changes to a spacious chamber in the house of the Duke of
+   Friedland. Servants employed in putting the tables and chairs
+   in order. During this enters SENI, like an old Italian doctor,
+   in black, and clothed somewhat fantastically. He carries a white
+   staff, with which he marks out the quarters of the heavens. FIRST SERVANT. Come--to it, lads, to it! Make an end of it. I hear the
+sentry call out, "Stand to your arms!" They will be here in a minute. SECOND SERVANT. Why were we not told before that the audience would be
+held here? Nothing prepared--no orders--no instructions. THIRD SERVANT. Ay, and why was the balcony chamber countermanded, that
+with the great worked carpet? There one can look about one. FIRST SERVANT. Nay, that you must ask the mathematician there. He says
+it is an unlucky chamber. SECOND SERVANT. Poh! stuff and nonsense! that's what I call a hum. A
+chamber is a chamber; what much can the place signify in the affair? SENI (with gravity). My son, there's nothing insignificant,
+Nothing! But yet in every earthly thing,
+First and most principal is place and time. FIRST SERVANT (to the second). Say nothing to him, Nat. The duke
+himself must let him have his own will. SENI (counts the chairs, half in a loud, half in a low voice, till
+   he comes to eleven, which he repeats). Eleven! an evil number! Set twelve chairs. Twelve! twelve signs hath the zodiac: five and seven,
+The holy numbers, include themselves in twelve. SECOND SERVANT. And what may you have to object against eleven? I
+should like to know that now. SENI. Eleven is transgression; eleven oversteps
+The ten commandments. SECOND SERVANT. That's good? and why do you call five a holy number? SENI. Five is the soul of man: for even as man
+Is mingled up of good and evil, so
+The five is the first number that's made up
+Of even and odd. SECOND SERVANT. The foolish old coxcomb! FIRST SERVANT. Ay! let him alone though. I like to hear him; there is
+more in his words than can be seen at first sight. THIRD SERVANT. Off, they come. SECOND SERVANT. There! Out at the side-door. [They hurry off: SENI follows slowly. A page brings the staff
+   of command on a red cushion, and places it on the table, near the
+   duke's chair. They are announced from without, and the wings of
+   the door fly open. SCENE II. WALLENSTEIN, DUCHESS. WALLENSTEIN. You went, then, through Vienna, were presented
+To the Queen of Hungary? DUCHESS. Yes; and to the empress, too,
+And by both majesties were we admitted
+To kiss the hand. WALLENSTEIN. And how was it received,
+That I had sent for wife and daughter hither
+To the camp, in winter-time? DUCHESS. I did even that
+Which you commissioned me to do. I told them
+You had determined on our daughter's marriage,
+And wished, ere yet you went into the field,
+To show the elected husband his betrothed. WALLENSTEIN. And did they guess the choice which I had made? DUCHESS. They only hoped and wished it may have fallen
+Upon no foreign nor yet Lutheran noble. WALLENSTEIN. And you--what do you wish, Elizabeth? DUCHESS. Your will, you know, was always mine. WALLENSTEIN (after a pause). Well, then,--
+And in all else, of what kind and complexion
+Was your reception at the court? [The DUCHESS casts her eyes on the ground, and remains silent. Hide nothing from me. How were you received? DUCHESS. O! my dear lord, all is not what it was. A canker-worm, my lord, a canker-worm
+Has stolen into the bud. WALLENSTEIN. Ay! is it so? What, they were lax? they failed of the old respect? DUCHESS. Not of respect. No honors were omitted,
+No outward courtesy; but in the place
+Of condescending, confidential kindness,
+Familiar and endearing, there were given me
+Only these honors and that solemn courtesy. Ah! and the tenderness which was put on,
+It was the guise of pity, not of favor. No! Albrecht's wife, Duke Albrecht's princely wife,
+Count Harrach's noble daughter, should not so--
+Not wholly so should she have been received. WALLENSTEIN. Yes, yes; they have taken offence. My latest conduct
+They railed at it, no doubt. DUCHESS. O that they had! I have been long accustomed to defend you,
+To heal and pacify distempered spirits. No; no one railed at you. They wrapped them up,
+O Heaven! in such oppressive, solemn silence! Here is no every-day misunderstanding,
+No transient pique, no cloud that passes over;
+Something most luckless, most unhealable,
+Has taken place. The Queen of Hungary
+Used formerly to call me her dear aunt,
+And ever at departure to embrace me----
+
+WALLENSTEIN. Now she omitted it? DUCHESS (wiping away her tears after a pause). She did embrace me,
+But then first when I had already taken
+My formal leave, and when the door already
+Had closed upon me, then did she come out
+In haste, as she had suddenly bethought herself,
+And pressed me to her bosom, more with anguish
+Than tenderness. WALLENSTEIN (seizes her hand soothingly). Nay, now collect yourself. And what of Eggenberg and Lichtenstein,
+And of our other friends there? DUCHESS (shaking her head). I saw none. WALLENSTEIN. The ambassador from Spain, who once was wont
+To plead so warmly for me? DUCHESS. Silent, silent! WALLENSTEIN. These suns then are eclipsed for us. Henceforward
+Must we roll on, our own fire, our own light. DUCHESS. And were it--were it, my dear lord, in that
+Which moved about the court in buzz and whisper,
+But in the country let itself be heard
+Aloud--in that which Father Lanormain
+In sundry hints and----
+
+WALLENSTEIN (eagerly). Lanormain! what said he? DUCHESS. That you're accused of having daringly
+O'erstepped the powers intrusted to you, charged
+With traitorous contempt of the emperor
+And his supreme behests. The proud Bavarian,
+He and the Spaniards stand up your accusers--
+That there's a storm collecting over you
+Of far more fearful menace than the former one
+Which whirled you headlong down at Regensburg. And people talk, said he, of----Ah! [Stifling extreme emotion. WALLENSTEIN. Proceed! DUCHESS. I cannot utter it! WALLENSTEIN. Proceed! DUCHESS. They talk----
+
+WALLENSTEIN. Well! DUCHESS. Of a second----
+       (catches her voice and hesitates.) WALLENSTEIN. Second----
+
+DUCHESS. Most disgraceful
+Dismission. WALLENSTEIN. Talk they? [Strides across the chamber in vehement agitation. Oh! they force, they thrust me
+With violence, against my own will, onward! DUCHESS (presses near him in entreaty). Oh! if there yet be time, my husband, if
+By giving way and by submission, this
+Can be averted--my dear Lord, give way! Win down your proud heart to it! Tell the heart,
+It is your sovereign lord, your emperor,
+Before whom you retreat. Oh! no longer
+Low trickling malice blacken your good meaning
+With abhorred venomous glosses. Stand you up
+Shielded and helmed and weaponed with the truth,
+And drive before you into uttermost shame
+These slanderous liars! Few firm friends have we--
+You know it! The swift growth of our good fortune
+It hath but set us up a mark for hatred. What are we, if the sovereign's grace and favor
+Stand not before us! SCENE III. Enter the Countess TERZKY, leading in her hand the Princess THEKLA,
+   richly adorned with brilliants. COUNTESS, TEKLA, WALLENSTEIN, DUCHESS. COUNTESS. How sister? What, already upon business? [Observing the countenance of the DUCHESS. And business of no pleasing kind I see,
+Ere he has gladdened at his child. The first
+Moment belongs to joy. Here, Friedland! father! This is thy daughter. [THEKLA approaches with a shy and timid air, and bends herself as
+   about to kiss his hand. He receives her in his arms, and remains
+   standing for some time lost in the feeling of her presence. WALLENSTEIN. Yes! pure and lovely hath hope risen on me,
+I take her as the pledge of greater fortune. DUCHESS. 'Twas but a little child when you departed
+To raise up that great army for the emperor
+And after, at the close of the campaign,
+When you returned home out of Pomerania,
+Your daughter was already in the convent,
+Wherein she has remained till now. WALLENSTEIN. The while
+We in the field here gave our cares and toils
+To make her great, and fight her a free way
+To the loftiest earthly good; lo! mother Nature
+Within the peaceful, silent convent walls,
+Has done her part, and out of her free grace
+Hath she bestowed on the beloved child
+The god-like; and now leads her thus adorned
+To meet her splendid fortune, and my hope. DUCHESS (to THEKLA). Thou wouldst not now have recognized thy father,
+Wouldst thou, my child? She counted scarce eight years
+When last she saw your face. THEKLA. O yes, yes, mother! At the first glance! My father has not altered. The form that stands before me falsifies
+No feature of the image that hath lived
+So long within me! WALLENSTEIN. The voice of my child! [Then after a pause. I was indignant at my destiny,
+That it denied me a man-child, to be
+Heir of my name and of my prosperous fortune,
+And re-illume my soon-extinguished being
+In a proud line of princes. I wronged my destiny. Here upon this head,
+So lovely in its maiden bloom, will I
+Let fall the garland of a life of war,
+Nor deem it lost, if only I can wreath it,
+Transmuted to a regal ornament,
+Around these beauteous brows. [He clasps her in his arms as PICCOLOMINI enters. SCENE IV. Enter MAX. PICCOLOMINI, and some time after COUNT TERZKY, the
+   others remaining as before. COUNTESS. There comes the Paladin who protected us. WALLENSTEIN. Max.! Welcome, ever welcome! Always wert thou
+The morning star of my best joys! MAX. My general----
+
+WALLENSTEIN. Till now it was the emperor who rewarded thee,
+I but the instrument. This day thou hast bound
+The father to thee, Max.! the fortunate father,
+And this debt Friedland's self must pay. MAX. My prince! You made no common hurry to transfer it. I come with shame: yea, not without a pang! For scarce have I arrived here, scarce delivered
+The mother and the daughter to your arms,
+But there is brought to me from your equerry [6]
+A splendid richly-plated hunting dress
+So to remunerate me for my troubles--
+Yes, yes, remunerate me,--since a trouble
+It must be, a mere office, not a favor
+Which I leaped forward to receive, and which
+I came with grateful heart to thank you for. No! 'twas not so intended, that my business
+Should be my highest best good fortune! [TERZKY enters; and delivers letters to the DUKE, which he
+   breaks open hurriedly. COUNTESS (to MAX.). Remunerate your trouble! For his joy,
+He makes you recompense. 'Tis not unfitting
+For you, Count Piccolomini, to feel
+So tenderly--my brother it beseems
+To show himself forever great and princely. THEKLA. Then I too must have scruples of his love:
+For his munificent hands did ornament me
+Ere yet the father's heart had spoken to me. MAX
+Yes; 'tis his nature ever to be giving
+And making happy. [He grasps the hand of the DUCHESS with still increasing warmth. How my heart pours out
+Its all of thanks to him! O! how I seem
+To utter all things in the dear name--Friedland. While I shall live, so long will I remain
+The captive of this name: in it shall bloom
+My every fortune, every lovely hope. Inextricably as in some magic ring
+In this name hath my destiny charm-bound me! COUNTESS (who during this time has been anxiously watching the DUKE,
+   and remarks that he is lost in thought over the letters). My brother wishes us to leave him. Come. WALLENSTEIN (turns himself round quick, collects himself, and speaks
+   with cheerfulness to the DUCHESS). Once more I bid thee welcome to the camp,
+Thou art the hostess of this court. You, Max.,
+Will now again administer your old office,
+While we perform the sovereign's business here. [MAX. PICCOLOMINI offers the DUCHESS his arm; the COUNTESS
+   accompanies the PRINCESS. TERZKY (calling after him). Max., we depend on seeing you at the meeting. SCENE V.
+
+   WALLENSTEIN, COUNT TERZKY. WALLENSTEIN (in deep thought, to himself). She has seen all things as they are--it is so,
+And squares completely with my other notices,
+They have determined finally in Vienna,
+Have given me my successor already;
+It is the King of Hungary, Ferdinand,
+The emperor's delicate son! he's now their savior,
+He's the new star that's rising now! Of us
+They think themselves already fairly rid,
+And as we were deceased, the heir already
+Is entering on possession--Therefore--despatch! [As he turns round he observes TERZKY, and gives him a letter. Count Altringer will have himself excused,
+And Gallas too--I like not this! TERZKY. And if
+Thou loiterest longer, all will fall away,
+One following the other. WALLENSTEIN. Altringer
+Is master of the Tyrol passes. I must forthwith
+Send some one to him, that he let not in
+The Spaniards on me from the Milanese. --Well, and the old Sesin, that ancient trader
+In contraband negotiations, he
+Has shown himself again of late. What brings he
+From the Count Thur? TERZKY. The count communicates
+He has found out the Swedish chancellor
+At Halberstadt, where the convention's held,
+Who says, you've tired him out, and that he'll have
+No further dealings with you. WALLENSTEIN. And why so? TERZKY. He says, you are never in earnest in your speeches;
+That you decoy the Swedes--to make fools of them;
+Will league yourself with Saxony against them,
+And at last make yourself a riddance of them
+With a paltry sum of money. WALLENSTEIN. So then, doubtless,
+Yes, doubtless, this same modest Swede expects
+That I shall yield him some fair German tract
+For his prey and booty, that ourselves at last
+On our own soil and native territory
+May be no longer our own lords and masters! An excellent scheme! No, no! They must be off,
+Off, off! away! we want no such neighbors. TERZKY. Nay, yield them up that dot, that speck of land--
+It goes not from your portion. If you win
+The game, what matters it to you who pays it? WALLENSTEIN. Off with them, off! Thou understand'st not this. Never shall it be said of me, I parcelled
+My native land away, dismembered Germany,
+Betrayed it to a foreigner, in order
+To come with stealthy tread, and filch away
+My own share of the plunder--Never! never! No foreign power shall strike root in the empire,
+And least of all these Goths! these hungry wolves! Who send such envious, hot, and greedy glances
+Toward the rich blessings of our German lands! I'll have their aid to cast and draw my nets,
+But not a single fish of all the draught
+Shall they come in for. TERZKY. You will deal, however,
+More fairly with the Saxons? they lose patience
+While you shift round and make so many curves. Say, to what purpose all these masks? Your friends
+Are plunged in doubts, baffled, and led astray in you. There's Oxenstiern, there's Arnheim--neither knows
+What he should think of your procrastinations,
+And in the end I prove the liar; all
+Passes through me. I've not even your handwriting. WALLENSTEIN. I never give handwriting; and thou knowest it. TERZKY. But how can it be known that you are in earnest,
+If the act follows not upon the word? You must yourself acknowledge, that in all
+Your intercourses hitherto with the enemy,
+You might have done with safety all you have done. Had you meant nothing further than to gull him
+For the emperor's service. WALLENSTEIN (after a pause, during which he looks narrowly on TERZKY). And from whence dost thou know
+That I'm not gulling him for the emperor's service? Whence knowest thou that I'm not gulling all of you? Dost thou know me so well? When made I thee
+The intendant of my secret purposes? I am not conscious that I ever opened
+My inmost thoughts to thee. The emperor, it is true,
+Hath dealt with me amiss; and if I would
+I could repay him with usurious interest
+For the evil he hath done me. It delights me
+To know my power; but whether I shall use it,
+Of that I should have thought that thou couldst speak
+No wiser than thy fellows. TERZKY. So hast thou always played thy game with us. [Enter ILLO. SCENE VI. ILLO, WALLENSTEIN, TERZKY. WALLENSTEIN. How stand affairs without? Are they prepared? ILLO. You'll find them in the very mood you wish. They know about the emperor's requisition,
+And are tumultuous. WALLENSTEIN. How hath Isolani
+declared himself? ILLO. He's yours, both soul and body,
+Since you built up again his faro-bank. WALLENSTEIN. And which way doth Kolatto bend? Hast thou
+Made sure of Tiefenbach and Deodati? ILLO. What Piccolomini does that they do too. WALLENSTEIN. You mean, then, I may venture somewhat with them? ILLO. If you are assured of the Piccolomini. WALLENSTEIN. Not more assured of mine own self. TERZKY. And yet
+I would you trusted not so much to Octavio,
+The fox! WALLENSTEIN. Thou teachest me to know my man? Sixteen campaigns I have made with that old warrior. Besides, I have his horoscope;
+We both are born beneath like stars--in short,
+           [With an air of mystery. To this belongs its own peculiar aspect,
+If therefore thou canst warrant me the rest----
+
+ILLO. There is among them all but this one voice,
+You must not lay down the command. I hear
+They mean to send a deputation to you. WALLENSTEIN. If I'm in aught to bind myself to them
+They too must bind themselves to me. ILLO. Of course. WALLENSTEIN. Their words of honor they must give, their oaths,
+Give them in writing to me, promising
+Devotion to my service unconditional. ILLO. Why not? TERZKY. Devotion unconditional? The exception of their duties towards Austria
+They'll always place among the premises. With this reserve----
+
+WALLENSTEIN (shaking his head). All unconditional;
+No premises, no reserves. ILLO. A thought has struck me. Does not Count Terzky give us a set banquet
+This evening? TERZKY. Yes; and all the generals
+Have been invited. ILLO (to WALLENSTEIN). Say, will you here fully
+Commission me to use my own discretion? I'll gain for you the generals' word of honor,
+Even as you wish. WALLENSTEIN. Gain me their signatures! How you come by them that is your concern. ILLO. And if I bring it to you in black on white,
+That all the leaders who are present here
+Give themselves up to you, without condition;
+Say, will you then--then will you show yourself
+In earnest, and with some decisive action
+Try your fortune. WALLENSTEIN. Get but the signatures! ILLO. Think what thou dost, thou canst not execute
+The emperor's orders, nor reduce thine army,
+Nor send the regiments to the Spaniards' aid,
+Unless thou wouldst resign thy power forever. Think on the other hand--thou canst not spurn
+The emperor's high commands and solemn orders,
+Nor longer temporize, nor seek evasion,
+Wouldst thou avoid a rupture with the court. Resolve then! Wilt thou now by one bold act
+Anticipate their ends, or, doubting still,
+Await the extremity? WALLENSTEIN. There's time before
+The extremity arrives. ILLO. Seize, seize the hour,
+Ere it slips from you. Seldom comes the moment
+In life, which is indeed sublime and weighty. To make a great decision possible,
+O! many things, all transient and all rapid,
+Must meet at once: and, haply, they thus met
+May by that confluence be enforced to pause
+Time long-enough for wisdom, though too short,
+Far, far too short a time for doubt and scruple! This is that moment. See, our army chieftains,
+Our best, our noblest, are assembled round you,
+Their king-like leader! On your nod they wait. The single threads, which here your prosperous fortune
+Hath woven together in one potent web
+Instinct with destiny, O! let them not
+Unravel of themselves. If you permit
+These chiefs to separate, so unanimous
+Bring you them not a second time together. 'Tis the high tide that heaves the stranded ship,
+And every individual's spirit waxes
+In the great stream of multitudes. Behold
+They are still here, here still! But soon the war
+Bursts them once more asunder, and in small
+Particular anxieties and interests
+Scatters their spirit, and the sympathy
+Of each man with the whole. He who to-day
+Forgets himself, forced onward with the stream,
+Will become sober, seeing but himself. Feel only his own weakness, and with speed
+Will face about, and march on in the old
+High road of duty, the old broad-trodden road,
+And seek but to make shelter in good plight. WALLENSTEIN. The time is not yet come. TERZKY. So you say always. But when will it be time? WALLENSTEIN. When I shall say it. ILLO. You'll wait upon the stars, and on their hours,
+Till the earthly hour escapes you. 

@@ -1,0 +1,3028 @@
+
+
+
+
+Produced by Douglas B. Killings. The Fall of Troy
+
+
+by
+
+Quintus Smyrnaeus
+
+
+("Quintus of Smyrna")
+
+Fl. 4th Century A.D. Originally written in Greek, sometime about the middle of the 4th
+Century A.D. Translation by A.S. Way, 1913. *****************************************************************
+
+SELECTED BIBLIOGRAPHY:
+
+ORIGINAL TEXT--
+
+Way, A.S. (Ed. & Trans. ): "Quintus Smyrnaeus: The Fall of Troy"
+(Loeb Classics #19; Harvard University Press, Cambridge MA,
+1913). Greek text with side-by-side English translation. OTHER TRANSLATIONS--
+
+Combellack, Frederick M. (Trans. ): "The War at Troy: What Homer
+Didn't Tell" (University of Oklahoma Press, Norman OK, 1968). RECOMMENDED READING--
+
+Fitzgerald, Robert (Trans. ): "Homer: The Iliad" (Viking Press,
+New York, 1968). *****************************************************************
+
+
+INTRODUCTION
+
+Homer's "Iliad" begins towards the close of the last of the ten
+years of the Trojan War: its incidents extend over some fifty
+days only, and it ends with the burial of Hector. The things
+which came before and after were told by other bards, who between
+them narrated the whole "cycle" of the events of the war, and so
+were called the Cyclic Poets. Of their works none have survived;
+but the story of what befell between Hector's funeral and the
+taking of Troy is told in detail, and well told, in a poem about
+half as long as the "Iliad". Some four hundred years after
+Christ there lived at Smyrna a poet of whom we know scarce
+anything, save that his first name was Quintus. He had saturated
+himself with the spirit of Homer, he had caught the ring of his
+music, and he perhaps had before him the works of those Cyclic
+Poets whose stars had paled before the sun. We have practically no external evidence as to the date or place
+of birth of Quintus of Smyrna, or for the sources whence he drew
+his materials. His date is approximately settled by two passages
+in the poem, viz. vi. 531 sqq., in which occurs an illustration
+drawn from the man-and-beast fights of the amphitheatre, which
+were suppressed by Theodosius I. (379-395 A.D.); and xiii. 335
+sqq., which contains a prophecy, the special particularity of
+which, it is maintained by Koechly, limits its applicability to
+the middle of the fourth century A.D.
+
+His place of birth, and the precise locality, is given by himself
+in xii. 308-313, and confirmatory evidence is afforded by his
+familiarity, of which he gives numerous instances, with many
+natural features of the western part of Asia Minor. With respect to his authorities, and the use he made of their
+writings, there has been more difference of opinion. Since his
+narrative covers the same ground as the "Aethiopis" ("Coming of
+Memnon") and the "Iliupersis" ("Destruction of Troy") of Arctinus
+(circ. 776 B.C. ), and the "Little Iliad" of Lesches (circ. 700
+B.C. ), it has been assumed that the work of Quintus "is little
+more than an amplification or remodelling of the works of these
+two Cyclic Poets." This, however, must needs be pure conjecture,
+as the only remains of these poets consist of fragments amounting
+to no more than a very few lines from each, and of the "summaries
+of contents" made by the grammarian Proclus (circ. 140 A.D.),
+which, again, we but get at second-hand through the "Bibliotheca"
+of Photius (ninth century). Now, not merely do the only
+descriptions of incident that are found in the fragments differ
+essentially from the corresponding incidents as described by
+Quintus, but even in the summaries, meagre as they are, we find,
+as German critics have shown by exhaustive investigation, serious
+discrepancies enough to justify us in the conclusion that, even
+if Quintus had the works of the Cyclic poets before him, which is
+far from certain, his poem was no mere remodelling of theirs, but
+an independent and practically original work. Not that this
+conclusion disposes by any means of all difficulties. If Quintus
+did not follow the Cyclic poets, from what source did he draw his
+materials? The German critic unhesitatingly answers, "from
+Homer." As regards language, versification, and general spirit,
+the matter is beyond controversy; but when we come to consider
+the incidents of the story, we find deviations from Homer even
+more serious than any of those from the Cyclic poets. And the
+strange thing is, that each of these deviations is a manifest
+detriment to the perfection of his poem; in each of them the
+writer has missed, or has rejected, a magnificent opportunity. With regard to the slaying of Achilles by the hand of Apollo
+only, and not by those of Apollo and Paris, he might have pleaded
+that Homer himself here speaks with an uncertain voice (cf. "Iliad" xv. 416-17, xxii. 355-60, and xxi. 277-78). But, in
+describing the fight for the body of Achilles ("Odyssey" xxiv. 36
+sqq. ), Homer makes Agamemnon say:
+
+     "So we grappled the livelong day, and we had not refrained
+          us then,
+     But Zeus sent a hurricane, stilling the storm of the battle
+          of men." Now, it is just in describing such natural phenomena, and in
+blending them with the turmoil of battle, that Quintus is in his
+element; yet for such a scene he substitutes what is, by
+comparison, a lame and impotent conclusion. Of that awful cry
+that rang over the sea heralding the coming of Thetis and the
+Nymphs to the death-rites of her son, and the panic with which it
+filled the host, Quintus is silent. Again, Homer ("Odyssey" iv. 274-89) describes how Helen came in the night with Deiphobus, and
+stood by the Wooden Horse, and called to each of the hidden
+warriors with the voice of his own wife. This thrilling scene
+Quintus omits, and substitutes nothing of his own. Later on, he
+makes Menelaus slay Deiphobus unresisting, "heavy with wine,"
+whereas Homer ("Odyssey" viii. 517-20) makes him offer such a
+magnificent resistance, that Odysseus and Menelaus together could
+not kill him without the help of Athena. In fact, we may say
+that, though there are echoes of the "Iliad" all through the
+poem, yet, wherever Homer has, in the "Odyssey", given the
+outline-sketch of an effective scene, Quintus has uniformly
+neglected to develop it, has sometimes substituted something much
+weaker--as though he had not the "Odyssey" before him! For this we have no satisfactory explanation to offer. He may
+have set his own judgment above Homer--a most unlikely hypothesis:
+he may have been consistently following, in the framework of his
+story, some original now lost to us: there may be more, and longer,
+lacunae in the text than any editors have ventured to indicate: but,
+whatever theory we adopt, it must be based on mere conjecture. The Greek text here given is that of Koechly (1850) with many of
+Zimmermann's emendations, which are acknowledged in the notes. Passages enclosed in square brackets are suggestions of Koechly
+for supplying the general sense of lacunae. Where he has made no
+such suggestion, or none that seemed to the editors to be
+adequate, the lacuna has been indicated by asterisks, though here
+too a few words have been added in the translation, sufficient to
+connect the sense. --A. S. Way
+
+
+
+CONTENTS
+
+
+BOOK
+
+    I  How died for Troy the Queen of the Amazons,
+       Penthesileia. II  How Memnon, Son of the Dawn, for Troy's sake fell
+       in the Battle. III  How by the shaft of a God laid low was Hero Achilles. IV  How in the Funeral Games of Achilles heroes contended. V  How the Arms of Achilles were cause of madness and
+       death unto Aias. VI  How came for the helping of Troy Eurypylus,
+       Hercules' grandson. VII  How the Son of Achilles was brought to the War
+       from the Isle of Scyros. VIII  How Hercules' Grandson perished in fight with the
+       Son of Achilles. IX  How from his long lone exile returned to the war
+       Philoctetes. X  How Paris was stricken to death, and in vain sought
+       help of Oenone. XI  How the sons of Troy for the last time fought from
+       her walls and her towers. XII  How the Wooden Horse was fashioned, and brought
+       into Troy by her people. XIII  How Troy in the night was taken and sacked with fire
+       and slaughter. XIV  How the conquerors sailed from Troy unto judgment
+       of tempest and shipwreck. BOOK I:
+
+How died for Troy the Queen of the Amazons, Penthesileia. When godlike Hector by Peleides slain
+  Passed, and the pyre had ravined up his flesh,
+  And earth had veiled his bones, the Trojans then
+  Tarried in Priam's city, sore afraid
+  Before the might of stout-heart Aeacus' son:
+  As kine they were, that midst the copses shrink
+  From faring forth to meet a lion grim,
+  But in dense thickets terror-huddled cower;
+  So in their fortress shivered these to see
+  That mighty man. Of those already dead
+  They thought of all whose lives he reft away
+  As by Scamander's outfall on he rushed,
+  And all that in mid-flight to that high wall
+  He slew, how he quelled Hector, how he haled
+  His corse round Troy;--yea, and of all beside
+  Laid low by him since that first day whereon
+  O'er restless seas he brought the Trojans doom. Ay, all these they remembered, while they stayed
+  Thus in their town, and o'er them anguished grief
+  Hovered dark-winged, as though that very day
+  All Troy with shrieks were crumbling down in fire. Then from Thermodon, from broad-sweeping streams,
+  Came, clothed upon with beauty of Goddesses,
+  Penthesileia--came athirst indeed
+  For groan-resounding battle, but yet more
+  Fleeing abhorred reproach and evil fame,
+  Lest they of her own folk should rail on her
+  Because of her own sister's death, for whom
+  Ever her sorrows waxed, Hippolyte,
+  Whom she had struck dead with her mighty spear,
+  Not of her will--'twas at a stag she hurled. So came she to the far-famed land of Troy. Yea, and her warrior spirit pricked her on,
+  Of murder's dread pollution thus to cleanse
+  Her soul, and with such sacrifice to appease
+  The Awful Ones, the Erinnyes, who in wrath
+  For her slain sister straightway haunted her
+  Unseen: for ever round the sinner's steps
+  They hover; none may 'scape those Goddesses. And with her followed twelve beside, each one
+  A princess, hot for war and battle grim,
+  Far-famous each, yet handmaids unto her:
+  Penthesileia far outshone them all. As when in the broad sky amidst the stars
+  The moon rides over all pre-eminent,
+  When through the thunderclouds the cleaving heavens
+  Open, when sleep the fury-breathing winds;
+  So peerless was she mid that charging host. Clonie was there, Polemusa, Derinoe,
+  Evandre, and Antandre, and Bremusa,
+  Hippothoe, dark-eyed Harmothoe,
+  Alcibie, Derimacheia, Antibrote,
+  And Thermodosa glorying with the spear. All these to battle fared with warrior-souled
+  Penthesileia: even as when descends
+  Dawn from Olympus' crest of adamant,
+  Dawn, heart-exultant in her radiant steeds
+  Amidst the bright-haired Hours; and o'er them all,
+  How flawless-fair soever these may be,
+  Her splendour of beauty glows pre-eminent;
+  So peerless amid all the Amazons Unto
+  Troy-town Penthesileia came. To right, to left, from all sides hurrying thronged
+  The Trojans, greatly marvelling, when they saw
+  The tireless War-god's child, the mailed maid,
+  Like to the Blessed Gods; for in her face
+  Glowed beauty glorious and terrible. Her smile was ravishing: beneath her brows
+  Her love-enkindling eyes shone like to stars,
+  And with the crimson rose of shamefastness
+  Bright were her cheeks, and mantled over them
+  Unearthly grace with battle-prowess clad. Then joyed Troy's folk, despite past agonies,
+  As when, far-gazing from a height, the hinds
+  Behold a rainbow spanning the wide sea,
+  When they be yearning for the heaven-sent shower,
+  When the parched fields be craving for the rain;
+  Then the great sky at last is overgloomed,
+  And men see that fair sign of coming wind
+  And imminent rain, and seeing, they are glad,
+  Who for their corn-fields' plight sore sighed before;
+  Even so the sons of Troy when they beheld
+  There in their land Penthesileia dread
+  Afire for battle, were exceeding glad;
+  For when the heart is thrilled with hope of good,
+  All smart of evils past is wiped away:
+  So, after all his sighing and his pain,
+  Gladdened a little while was Priam's soul. As when a man who hath suffered many a pang
+  From blinded eyes, sore longing to behold
+  The light, and, if he may not, fain would die,
+  Then at the last, by a cunning leech's skill,
+  Or by a God's grace, sees the dawn-rose flush,
+  Sees the mist rolled back from before his eyes,--
+  Yea, though clear vision come not as of old,
+  Yet, after all his anguish, joys to have
+  Some small relief, albeit the stings of pain
+  Prick sharply yet beneath his eyelids;--so
+  Joyed the old king to see that terrible queen--
+  The shadowy joy of one in anguish whelmed
+  For slain sons. Into his halls he led the Maid,
+  And with glad welcome honoured her, as one
+  Who greets a daughter to her home returned
+  From a far country in the twentieth year;
+  And set a feast before her, sumptuous
+  As battle-glorious kings, who have brought low
+  Nations of foes, array in splendour of pomp,
+  With hearts in pride of victory triumphing. And gifts he gave her costly and fair to see,
+  And pledged him to give many more, so she
+  Would save the Trojans from the imminent doom. And she such deeds she promised as no man
+  Had hoped for, even to lay Achilles low,
+  To smite the wide host of the Argive men,
+  And cast the brands red-flaming on the ships. Ah fool!--but little knew she him, the lord
+  Of ashen spears, how far Achilles' might
+  In warrior-wasting strife o'erpassed her own! But when Andromache, the stately child
+  Of king Eetion, heard the wild queen's vaunt,
+  Low to her own soul bitterly murmured she:
+  "Ah hapless! why with arrogant heart dost thou
+  Speak such great swelling words? No strength is thine
+  To grapple in fight with Peleus' aweless son. Nay, doom and swift death shall he deal to thee. Alas for thee! What madness thrills thy soul? Fate and the end of death stand hard by thee! Hector was mightier far to wield the spear
+  Than thou, yet was for all his prowess slain,
+  Slain for the bitter grief of Troy, whose folk
+  The city through looked on him as a God. My glory and his noble parents' glory
+  Was he while yet he lived--O that the earth
+  Over my dead face had been mounded high,
+  Or ever through his throat the breath of life
+  Followed the cleaving spear! But now have I
+  Looked--woe is me!--on grief unutterable,
+  When round the city those fleet-footed steeds
+  Haled him, steeds of Achilles, who had made
+  Me widowed of mine hero-husband, made
+  My portion bitterness through all my days." So spake Eetion's lovely-ankled child
+  Low to her own soul, thinking on her lord. So evermore the faithful-hearted wife
+  Nurseth for her lost love undying grief. Then in swift revolution sweeping round
+  Into the Ocean's deep stream sank the sun,
+  And daylight died. So when the banqueters
+  Ceased from the wine-cup and the goodly feast,
+  Then did the handmaids spread in Priam's halls
+  For Penthesileia dauntless-souled the couch
+  Heart-cheering, and she laid her down to rest;
+  And slumber mist-like overveiled her eyes [depths
+  Like sweet dew dropping round. From heavens' blue
+  Slid down the might of a deceitful dream
+  At Pallas' hest, that so the warrior-maid
+  Might see it, and become a curse to Troy
+  And to herself, when strained her soul to meet;
+  The whirlwind of the battle. In this wise
+  The Trito-born, the subtle-souled, contrived:
+  Stood o'er the maiden's head that baleful dream
+  In likeness of her father, kindling her
+  Fearlessly front to front to meet in fight
+  Fleetfoot Achilles. And she heard the voice,
+  And all her heart exulted, for she weened
+  That she should on that dawning day achieve
+  A mighty deed in battle's deadly toil
+  Ah, fool, who trusted for her sorrow a dream
+  Out of the sunless land, such as beguiles
+  Full oft the travail-burdened tribes of men,
+  Whispering mocking lies in sleeping ears,
+  And to the battle's travail lured her then! But when the Dawn, the rosy-ankled, leapt
+  Up from her bed, then, clad in mighty strength
+  Of spirit, suddenly from her couch uprose
+  Penthesileia. Then did she array
+  Her shoulders in those wondrous-fashioned arms
+  Given her of the War-god. First she laid
+  Beneath her silver-gleaming knees the greaves
+  Fashioned of gold, close-clipping the strong limbs. Her rainbow-radiant corslet clasped she then
+  About her, and around her shoulders slung,
+  With glory in her heart, the massy brand
+  Whose shining length was in a scabbard sheathed
+  Of ivory and silver. Next, her shield
+  Unearthly splendid, caught she up, whose rim
+  Swelled like the young moon's arching chariot-rail
+  When high o'er Ocean's fathomless-flowing stream
+  She rises, with the space half filled with light
+  Betwixt her bowing horns. So did it shine
+  Unutterably fair. Then on her head
+  She settled the bright helmet overstreamed
+  With a wild mane of golden-glistering hairs. So stood she, lapped about with flaming mail,
+  In semblance like the lightning, which the might,
+  The never-wearied might of Zeus, to earth
+  Hurleth, what time he showeth forth to men
+  Fury of thunderous-roaring rain, or swoop
+  Resistless of his shouting host of winds. Then in hot haste forth of her bower to pass
+  Caught she two javelins in the hand that grasped
+  Her shield-band; but her strong right hand laid hold
+  On a huge halberd, sharp of either blade,
+  Which terrible Eris gave to Ares' child
+  To be her Titan weapon in the strife
+  That raveneth souls of men. Laughing for glee
+  Thereover, swiftly flashed she forth the ring
+  Of towers. Her coming kindled all the sons
+  Of Troy to rush into the battle forth
+  Which crowneth men with glory. Swiftly all
+  Hearkened her gathering-ery, and thronging came,
+  Champions, yea, even such as theretofore
+  Shrank back from standing in the ranks of war
+  Against Achilles the all-ravager. But she in pride of triumph on she rode
+  Throned on a goodly steed and fleet, the gift
+  Of Oreithyia, the wild North-wind's bride,
+  Given to her guest the warrior-maid, what time
+  She came to Thrace, a steed whose flying feet
+  Could match the Harpies' wings. Riding thereon
+  Penthesileia in her goodlihead
+  Left the tall palaces of Troy behind. And ever were the ghastly-visaged Fates
+  Thrusting her on into the battle, doomed
+  To be her first against the Greeks--and last! To right, to left, with unreturning feet
+  The Trojan thousands followed to the fray,
+  The pitiless fray, that death-doomed warrior-maid,
+  Followed in throngs, as follow sheep the ram
+  That by the shepherd's art strides before all. So followed they, with battle-fury filled,
+  Strong Trojans and wild-hearted Amazons. And like Tritonis seemed she, as she went
+  To meet the Giants, or as flasheth far
+  Through war-hosts Eris, waker of onset-shouts. So mighty in the Trojans' midst she seemed,
+  Penthesileia of the flying feet. Then unto Cronos' Son Laomedon's child
+  Upraised his hands, his sorrow-burdened hands,
+  Turning him toward the sky-encountering fane
+  Of Zeus of Ida, who with sleepless eyes
+  Looks ever down on Ilium; and he prayed:
+  "Father, give ear! Vouchsafe that on this day
+  Achaea's host may fall before the hands
+  Of this our warrior-queen, the War-god's child;
+  And do thou bring her back unscathed again
+  Unto mine halls: we pray thee by the love
+  Thou bear'st to Ares of the fiery heart
+  Thy son, yea, to her also! is she not
+  Most wondrous like the heavenly Goddesses? And is she not the child of thine own seed? Pity my stricken heart withal! Thou know'st
+  All agonies I have suffered in the deaths
+  Of dear sons whom the Fates have torn from me
+  By Argive hands in the devouring fight. Compassionate us, while a remnant yet
+  Remains of noble Dardanus' blood, while yet
+  This city stands unwasted! Let us know
+  From ghastly slaughter and strife one breathing-space!" In passionate prayer he spake:--lo, with shrill scream
+  Swiftly to left an eagle darted by
+  And in his talons bare a gasping dove. Then round the heart of Priam all the blood
+  Was chilled with fear. Low to his soul he said:
+  "Ne'er shall I see return alive from war
+  Penthesileia!" On that selfsame day
+  The Fates prepared his boding to fulfil;
+  And his heart brake with anguish of despair. Marvelled the Argives, far across the plain
+  Seeing the hosts of Troy charge down on them,
+  And midst them Penthesileia, Ares' child. These seemed like ravening beasts that mid the hills
+  Bring grimly slaughter to the fleecy flocks;
+  And she, as a rushing blast of flame she seemed
+  That maddeneth through the copses summer-scorched,
+  When the wind drives it on; and in this wise
+  Spake one to other in their mustering host:
+  "Who shall this be who thus can rouse to war
+  The Trojans, now that Hector hath been slain--
+  These who, we said, would never more find heart
+  To stand against us? Lo now, suddenly
+  Forth are they rushing, madly afire for fight! Sure, in their midst some great one kindleth them
+  To battle's toil! Thou verily wouldst say
+  This were a God, of such great deeds he dreams! Go to, with aweless courage let us arm
+  Our own breasts: let us summon up our might
+  In battle-fury. We shall lack not help
+  Of Gods this day to close in fight with Troy." So cried they; and their flashing battle-gear
+  Cast they about them: forth the ships they poured
+  Clad in the rage of fight as with a cloak. Then front to front their battles closed, like beasts
+  Of ravin, locked in tangle of gory strife. Clanged their bright mail together, clashed the spears,
+  The corslets, and the stubborn-welded shields
+  And adamant helms. Each stabbed at other's flesh
+  With the fierce brass: was neither ruth nor rest,
+  And all the Trojan soil was crimson-red. Then first Penthesileia smote and slew
+  Molion; now Persinous falls, and now
+  Eilissus; reeled Antitheus 'neath her spear
+  The pride of Lernus quelled she: down she bore
+  Hippalmus 'neath her horse-hoofs; Haemon's son
+  Died; withered stalwart Elasippus' strength. And Derinoe laid low Laogonus,
+  And Clonie Menippus, him who sailed
+  Long since from Phylace, led by his lord
+  Protesilaus to the war with Troy. Then was Podarces, son of Iphiclus,
+  Heart-wrung with ruth and wrath to see him lie
+  Dead, of all battle-comrades best-beloved. Swiftly at Clonie he hurled, the maid
+  Fair as a Goddess: plunged the unswerving lance
+  'Twixt hip and hip, and rushed the dark blood forth
+  After the spear, and all her bowels gushed out. Then wroth was Penthesileia; through the brawn
+  Of his right arm she drave the long spear's point,
+  She shore atwain the great blood-brimming veins,
+  And through the wide gash of the wound the gore
+  Spirted, a crimson fountain. With a groan
+  Backward he sprang, his courage wholly quelled
+  By bitter pain; and sorrow and dismay
+  Thrilled, as he fled, his men of Phylace. A short way from the fight he reeled aside,
+  And in his friends' arms died in little space. Then with his lance Idomeneus thrust out,
+  And by the right breast stabbed Bremusa. Stilled
+  For ever was the beating of her heart. She fell, as falls a graceful-shafted pine
+  Hewn mid the hills by woodmen: heavily,
+  Sighing through all its boughs, it crashes down. So with a wailing shriek she fell, and death
+  Unstrung her every limb: her breathing soul
+  Mingled with multitudinous-sighing winds. Then, as Evandre through the murderous fray
+  With Thermodosa rushed, stood Meriones,
+  A lion in the path, and slew: his spear
+  Right to the heart of one he drave, and one
+  Stabbed with a lightning sword-thrust 'twixt the hips:
+  Leapt through the wounds the life, and fled away. Oileus' fiery son smote Derinoe
+  'Twixt throat and shoulder with his ruthless spear;
+  And on Alcibie Tydeus' terrible son
+  Swooped, and on Derimacheia: head with neck
+  Clean from the shoulders of these twain he shore
+  With ruin-wreaking brand. Together down
+  Fell they, as young calves by the massy axe
+  Of brawny flesher felled, that, shearing through
+  The sinews of the neck, lops life away. So, by the hands of Tydeus' son laid low
+  Upon the Trojan plain, far, far away
+  From their own highland-home, they fell. Nor these
+  Alone died; for the might of Sthenelus
+  Down on them hurled Cabeirus' corse, who came
+  From Sestos, keen to fight the Argive foe,
+  But never saw his fatherland again. Then was the heart of Paris filled with wrath
+  For a friend slain. Full upon Sthenelus
+  Aimed he a shaft death-winged, yet touched him not,
+  Despite his thirst for vengeance: otherwhere
+  The arrow glanced aside, and carried death
+  Whither the stern Fates guided its fierce wing,
+  And slew Evenor brazen-tasleted,
+  Who from Dulichium came to war with Troy. For his death fury-kindled was the son
+  Of haughty Phyleus: as a lion leaps
+  Upon the flock, so swiftly rushed he: all
+  Shrank huddling back before that terrible man. Itymoneus he slew, and Hippasus' son
+  Agelaus: from Miletus brought they war
+  Against the Danaan men by Nastes led,
+  The god-like, and Amphimachus mighty-souled. On Mycale they dwelt; beside their home
+  Rose Latmus' snowy crests, stretched the long glens
+  Of Branchus, and Panormus' water-meads. Maeander's flood deep-rolling swept thereby,
+  Which from the Phrygian uplands, pastured o'er
+  By myriad flocks, around a thousand forelands
+  Curls, swirls, and drives his hurrying ripples on
+  Down to the vine-clad land of Carian men
+  These mid the storm of battle Meges slew,
+  Nor these alone, but whomsoe'er his lance
+  Black-shafted touched, were dead men; for his breast
+  The glorious Trito-born with courage thrilled
+  To bring to all his foes the day of doom. And Polypoetes, dear to Ares, slew
+  Dresaeus, whom the Nymph Neaera bare
+  To passing-wise Theiodamas for these
+  Spread was the bed of love beside the foot
+  Of Sipylus the Mountain, where the Gods
+  Made Niobe a stony rock, wherefrom
+  Tears ever stream: high up, the rugged crag
+  Bows as one weeping, weeping, waterfalls
+  Cry from far-echoing Hermus, wailing moan
+  Of sympathy: the sky-encountering crests
+  Of Sipylus, where alway floats a mist
+  Hated of shepherds, echo back the cry. Weird marvel seems that Rock of Niobe
+  To men that pass with feet fear-goaded: there
+  They see the likeness of a woman bowed,
+  In depths of anguish sobbing, and her tears
+  Drop, as she mourns grief-stricken, endlessly. Yea, thou wouldst say that verily so it was,
+  Viewing it from afar; but when hard by
+  Thou standest, all the illusion vanishes;
+  And lo, a steep-browed rock, a fragment rent
+  From Sipylus--yet Niobe is there,
+  Dreeing her weird, the debt of wrath divine,
+  A broken heart in guise of shattered stone. All through the tangle of that desperate fray
+  Stalked slaughter and doom. The incarnate Onset-shout
+  Raved through the rolling battle; at her side
+  Paced Death the ruthless, and the Fearful Faces,
+  The Fates, beside them strode, and in red hands
+  Bare murder and the groans of dying men. That day the beating of full many a heart,
+  Trojan and Argive, was for ever stilled,
+  While roared the battle round them, while the fury
+  Of Penthesileia fainted not nor failed;
+  But as amid long ridges of lone hills
+  A lioness, stealing down a deep ravine,
+  Springs on the kine with lightning leap, athirst
+  For blood wherein her fierce heart revelleth;
+  So on the Danaans leapt that warrior-maid. And they, their souls were cowed: backward they shrank,
+  And fast she followed, as a towering surge
+  Chases across the thunder-booming sea
+  A flying bark, whose white sails strain beneath
+  The wind's wild buffering, and all the air
+  Maddens with roaring, as the rollers crash
+  On a black foreland looming on the lee
+  Where long reefs fringe the surf-tormented shores. So chased she, and so dashed the ranks asunder
+  Triumphant-souled, and hurled fierce threats before:
+  "Ye dogs, this day for evil outrage done
+  To Priam shall ye pay! No man of you
+  Shall from mine hands deliver his own life,
+  And win back home, to gladden parents eyes,
+  Or comfort wife or children. Ye shall lie
+  Dead, ravined on by vultures and by wolves,
+  And none shall heap the earth-mound o'er your clay. Where skulketh now the strength of Tydeus' son,
+  And where the might of Aeacus' scion? Where is Aias' bulk? Ye vaunt them mightiest men
+  Of all your rabble. Ha! they will not dare
+  With me to close in battle, lest I drag
+  Forth from their fainting frames their craven souls!" Then heart-uplifted leapt she on the foe,
+  Resistless as a tigress, crashing through
+  Ranks upon ranks of Argives, smiting now
+  With that huge halberd massy-headed, now
+  Hurling the keen dart, while her battle-horse
+  Flashed through the fight, and on his shoulder bare
+  Quiver and bow death-speeding, close to her hand,
+  If mid that revel of blood she willed to speed
+  The bitter-biting shaft. Behind her swept
+  The charging lines of men fleet-footed, friends
+  And brethren of the man who never flinched
+  From close death-grapple, Hector, panting all
+  The hot breath of the War-god from their breasts,
+  All slaying Danaans with the ashen spear,
+  Who fell as frost-touched leaves in autumn fall
+  One after other, or as drops of rain. And aye went up a moaning from earth's breast
+  All blood-bedrenched, and heaped with corse on corse. Horses pierced through with arrows, or impaled
+  On spears, were snorting forth their last of strength
+  With screaming neighings. Men, with gnashing teeth
+  Biting the dust, lay gasping, while the steeds
+  Of Trojan charioteers stormed in pursuit,
+  Trampling the dying mingled with the dead
+  As oxen trample corn in threshing-floors. Then one exulting boasted mid the host
+  Of Troy, beholding Penthesileia rush
+  On through the foes' array, like the black storm
+  That maddens o'er the sea, what time the sun
+  Allies his might with winter's Goat-horned Star;
+  And thus, puffed up with vain hope, shouted he:
+  "O friends, in manifest presence down from heaven
+  One of the deathless Gods this day hath come
+  To fight the Argives, all of love for us,
+  Yea, and with sanction of almighty Zeus,
+  He whose compassion now remembereth
+  Haply strong-hearted Priam, who may boast
+  For his a lineage of immortal blood. For this, I trow, no mortal woman seems,
+  Who is so aweless-daring, who is clad
+  In splendour-flashing arms: nay, surely she
+  Shall be Athene, or the mighty-souled
+  Enyo--haply Eris, or the Child
+  Of Leto world-renowned. O yea, I look
+  To see her hurl amid yon Argive men
+  Mad-shrieking slaughter, see her set aflame
+  Yon ships wherein they came long years agone
+  Bringing us many sorrows, yea, they came
+  Bringing us woes of war intolerable. Ha! to the home-land Hellas ne'er shall these
+  With joy return, since Gods on our side fight." In overweening exultation so
+  Vaunted a Trojan. Fool!--he had no vision
+  Of ruin onward rushing upon himself
+  And Troy, and Penthesileia's self withal. For not as yet had any tidings come
+  Of that wild fray to Aias stormy-souled,
+  Nor to Achilles, waster of tower and town. But on the grave-mound of Menoetius' son
+  They twain were lying, with sad memories
+  Of a dear comrade crushed, and echoing
+  Each one the other's groaning. One it was
+  Of the Blest Gods who still was holding back
+  These from the battle-tumult far away,
+  Till many Greeks should fill the measure up
+  Of woeful havoc, slain by Trojan foes
+  And glorious Penthesileia, who pursued
+  With murderous intent their rifled ranks,
+  While ever waxed her valour more and more,
+  And waxed her might within her: never in vain
+  She aimed the unswerving spear-thrust: aye she pierced
+  The backs of them that fled, the breasts of such
+  As charged to meet her. All the long shaft dripped
+  With steaming blood. Swift were her feet as wind
+  As down she swooped. Her aweless spirit failed
+  For weariness nor fainted, but her might
+  Was adamantine. The impending Doom,
+  Which roused unto the terrible strife not yet
+  Achilles, clothed her still with glory; still
+  Aloof the dread Power stood, and still would shed
+  Splendour of triumph o'er the death-ordained
+  But for a little space, ere it should quell
+  That Maiden 'neath the hands of Aeaeus' son. In darkness ambushed, with invisible hand
+  Ever it thrust her on, and drew her feet
+  Destruction-ward, and lit her path to death
+  With glory, while she slew foe after foe. As when within a dewy garden-close,
+  Longing for its green springtide freshness, leaps
+  A heifer, and there rangeth to and fro,
+  When none is by to stay her, treading down
+  All its green herbs, and all its wealth of bloom,
+  Devouring greedily this, and marring that
+  With trampling feet; so ranged she, Ares' child,
+  Through reeling squadrons of Achaea's sons,
+  Slew these, and hunted those in panic rout. From Troy afar the women marvelling gazed
+  At the Maid's battle-prowess. Suddenly
+  A fiery passion for the fray hath seized
+  Antimachus' daughter, Meneptolemus' wife,
+  Tisiphone. Her heart waxed strong, and filled
+  With lust of fight she cried to her fellows all,
+  With desperate-daring words, to spur them on
+  To woeful war, by recklessness made strong. "Friends, let a heart of valour in our breasts
+  Awake! Let us be like our lords, who fight
+  With foes for fatherland, for babes, for us,
+  And never pause for breath in that stern strife! Let us too throne war's spirit in our hearts! Let us too face the fight which favoureth none! For we, we women, be not creatures cast
+  In diverse mould from men: to us is given
+  Such energy of life as stirs in them. Eyes have we like to theirs, and limbs: throughout
+  Fashioned we are alike: one common light
+  We look on, and one common air we breathe:
+  With like food are we nourished--nay, wherein
+  Have we been dowered of God more niggardly
+  Than men? Then let us shrink not from the fray
+  See ye not yonder a woman far excelling
+  Men in the grapple of fight? Yet is her blood
+  Nowise akin to ours, nor fighteth she
+  For her own city. For an alien king
+  She warreth of her own heart's prompting, fears
+  The face of no man; for her soul is thrilled
+  With valour and with spirit invincible. But we--to right, to left, lie woes on woes
+  About our feet: this mourns beloved sons,
+  And that a husband who for hearth and home
+  Hath died; some wail for fathers now no more;
+  Some grieve for brethren and for kinsmen lost. Not one but hath some share in sorrow's cup. Behind all this a fearful shadow looms,
+  The day of bondage! Therefore flinch not ye
+  From war, O sorrow-laden! Better far
+  To die in battle now, than afterwards
+  Hence to be haled into captivity
+  To alien folk, we and our little ones,
+  In the stern grip of fate leaving behind
+  A burning city, and our husbands' graves." So cried she, and with passion for stern war
+  Thrilled all those women; and with eager speed
+  They hasted to go forth without the wall
+  Mail-clad, afire to battle for their town
+  And people: all their spirit was aflame. As when within a hive, when winter-tide
+  Is over and gone, loud hum the swarming bees
+  What time they make them ready forth to fare
+  To bright flower-pastures, and no more endure
+  To linger therewithin, but each to other
+  Crieth the challenge-cry to sally forth;
+  Even so bestirred themselves the women of Troy,
+  And kindled each her sister to the fray. The weaving-wool, the distaff far they flung,
+  And to grim weapons stretched their eager hands. And now without the city these had died
+  In that wild battle, as their husbands died
+  And the strong Amazons died, had not one voice
+  Of wisdom cried to stay their maddened feet,
+  When with dissuading words Theano spake:
+  "Wherefore, ah wherefore for the toil and strain
+  Of battle's fearful tumult do ye yearn,
+  Infatuate ones? Never your limbs have toiled
+  In conflict yet. In utter ignorance
+  Panting for labour unendurable,
+  Ye rush on all-unthinking; for your strength
+  Can never be as that of Danaan men,
+  Men trained in daily battle. Amazons
+  Have joyed in ruthless fight, in charging steeds,
+  From the beginning: all the toil of men
+  Do they endure; and therefore evermore
+  The spirit of the War-god thrills them through. 'They fall not short of men in anything:
+  Their labour-hardened frames make great their hearts
+  For all achievement: never faint their knees
+  Nor tremble. Rumour speaks their queen to be
+  A daughter of the mighty Lord of War. Therefore no woman may compare with her
+  In prowess--if she be a woman, not
+  A God come down in answer to our prayers. Yea, of one blood be all the race of men,
+  Yet unto diverse labours still they turn;
+  And that for each is evermore the best
+  Whereto he bringeth skill of use and wont. Therefore do ye from tumult of the fray
+  Hold you aloof, and in your women's bowers
+  Before the loom still pace ye to and fro;
+  And war shall be the business of our lords. Lo, of fair issue is there hope: we see
+  The Achaeans falling fast: we see the might
+  Of our men waxing ever: fear is none
+  Of evil issue now: the pitiless foe
+  Beleaguer not the town: no desperate need
+  There is that women should go forth to war." So cried she, and they hearkened to the words
+  Of her who had garnered wisdom from the years;
+  So from afar they watched the fight. But still
+  Penthesileia brake the ranks, and still
+  Before her quailed the Achaeans: still they found
+  Nor screen nor hiding-place from imminent death. As bleating goats are by the blood-stained jaws
+  Of a grim panther torn, so slain were they. In each man's heart all lust of battle died,
+  And fear alone lived. This way, that way fled
+  The panic-stricken: some to earth had flung
+  The armour from their shoulders; some in dust
+  Grovelled in terror 'neath their shields: the steeds
+  Fled through the rout unreined of charioteers. In rapture of triumph charged the Amazons,
+  With groan and scream of agony died the Greeks. Withered their manhood was in that sore strait;
+  Brief was the span of all whom that fierce maid
+  Mid the grim jaws of battle overtook. As when with mighty roaring bursteth down
+  A storm upon the forest-trees, and some
+  Uprendeth by the roots, and on the earth
+  Dashes them down, the tail stems blossom-crowned,
+  And snappeth some athwart the trunk, and high
+  Whirls them through air, till all confused they lie
+  A ruin of splintered stems and shattered sprays;
+  So the great Danaan host lay, dashed to dust
+  By doom of Fate, by Penthesileia's spear. But when the very ships were now at point
+  To be by hands of Trojans set aflame,
+  Then battle-bider Aias heard afar
+  The panic-cries, and spake to Aeacus' son:
+  "Achilles, all the air about mine ears
+  Is full of multitudinous eries, is full
+  Of thunder of battle rolling nearer aye. Let us go forth then, ere the Trojans win
+  Unto the ships, and make great slaughter there
+  Of Argive men, and set the ships aflame. Foulest reproach such thing on thee and me
+  Should bring; for it beseems not that the seed
+  Of mighty Zeus should shame the sacred blood
+  Of hero-fathers, who themselves of old
+  With Hercules the battle-eager sailed
+  To Troy, and smote her even at her height
+  Of glory, when Laomedon was king. Ay, and I ween that our hands even now
+  Shall do the like: we too are mighty men." He spake: the aweless strength of Aeacus' son
+  Hearkened thereto, for also to his ears
+  By this the roar of bitter battle came. Then hasted both, and donned their warrior-gear
+  All splendour-gleaming: now, in these arrayed
+  Facing that stormy-tossing rout they stand. Loud clashed their glorious armour: in their souls
+  A battle-fury like the War-god's wrath
+  Maddened; such might was breathed into these twain
+  By Atrytone, Shaker of the Shield,
+  As on they pressed. With joy the Argives saw
+  The coming of that mighty twain: they seemed
+  In semblance like Aloeus' giant sons
+  Who in the old time made that haughty vaunt
+  Of piling on Olympus' brow the height
+  Of Ossa steeply-towering, and the crest
+  Of sky-encountering Pelion, so to rear
+  A mountain-stair for their rebellious rage
+  To scale the highest heaven. Huge as these
+  The sons of Aeacus seemed, as forth they strode
+  To stem the tide of war. A gladsome sight
+  To friends who have fainted for their coming, now
+  Onward they press to crush triumphant foes. Many they slew with their resistless spears;
+  As when two herd-destroying lions come
+  On sheep amid the copses feeding, far
+  From help of shepherds, and in heaps on heaps
+  Slay them, till they have drunken to the full
+  Of blood, and filled their maws insatiate
+  With flesh, so those destroyers twain slew on,
+  Spreading wide havoc through the hosts of Troy. There Deiochus and gallant Hyllus fell
+  By Alas slain, and fell Eurynomus
+  Lover of war, and goodly Enyeus died. But Peleus' son burst on the Amazons
+  Smiting Antandre, Polemusa then,
+  Antibrote, fierce-souled Hippothoe,
+  Hurling Harmothoe down on sisters slain. Then hard on all their-reeling ranks he pressed
+  With Telamon's mighty-hearted son; and now
+  Before their hands battalions dense and strong
+  Crumbled as weakly and as suddenly
+  As when in mountain-folds the forest-brakes
+  Shrivel before a tempest-driven fire. When battle-eager Penthesileia saw
+  These twain, as through the scourging storm of war
+  Like ravening beasts they rushed, to meet them there
+  She sped, as when a leopard grim, whose mood
+  Is deadly, leaps from forest-coverts forth,
+  Lashing her tail, on hunters closing round,
+  While these, in armour clad, and putting trust
+  In their long spears, await her lightning leap;
+  So did those warriors twain with spears upswung
+  Wait Penthesileia. Clanged the brazen plates
+  About their shoulders as they moved. And first
+  Leapt the long-shafted lance sped from the hand
+  Of goodly Penthesileia. Straight it flew
+  To the shield of Aeacus' son, but glancing thence
+  This way and that the shivered fragments sprang
+  As from a rock-face: of such temper were
+  The cunning-hearted Fire-god's gifts divine. Then in her hand the warrior-maid swung up
+  A second javelin fury-winged, against
+  Aias, and with fierce words defied the twain:
+  "Ha, from mine hand in vain one lance hath leapt! But with this second look I suddenly
+  To quell the strength and courage of two foes,--
+  Ay, though ye vaunt you mighty men of war
+  Amid your Danaans! Die ye shall, and so
+  Lighter shall be the load of war's affliction
+  That lies upon the Trojan chariot-lords. Draw nigh, come through the press to grips with me,
+  So shall ye learn what might wells up in breasts
+  Of Amazons. With my blood is mingled war! No mortal man begat me, but the Lord
+  Of War, insatiate of the battle-cry. Therefore my might is more than any man's." With scornful laughter spake she: then she hurled
+  Her second lance; but they in utter scorn
+  Laughed now, as swiftly flew the shaft, and smote
+  The silver greave of Aias, and was foiled
+  Thereby, and all its fury could not scar
+  The flesh within; for fate had ordered not
+  That any blade of foes should taste the blood
+  Of Aias in the bitter war. But he
+  Recked of the Amazon naught, but turned him thence
+  To rush upon the Trojan host, and left
+  Penthesileia unto Peleus' son
+  Alone, for well he knew his heart within
+  That she, for all her prowess, none the less
+  Would cost Achilles battle-toil as light,
+  As effortless, as doth the dove the hawk. Then groaned she an angry groan that she had sped
+  Her shafts in vain; and now with scoffing speech
+  To her in turn the son of Peleus spake:
+  "Woman, with what vain vauntings triumphing
+  Hast thou come forth against us, all athirst
+  To battle with us, who be mightier far
+  Than earthborn heroes? We from Cronos' Son,
+  The Thunder-roller, boast our high descent. Ay, even Hector quailed, the battle-swift,
+  Before us, e'en though far away he saw
+  Our onrush to grim battle. Yea, my spear
+  Slew him, for all his might. But thou--thine heart
+  Is utterly mad, that thou hast greatly dared
+  To threaten us with death this day! On thee
+  Thy latest hour shall swiftly come--is come! Thee not thy sire the War-god now shall pluck
+  Out of mine hand, but thou the debt shalt pay
+  Of a dark doom, as when mid mountain-folds
+  A pricket meets a lion, waster of herds. What, woman, hast thou heard not of the heaps
+  Of slain, that into Xanthus' rushing stream
+  Were thrust by these mine hands?--or hast thou heard
+  In vain, because the Blessed Ones have stol'n
+  Wit and discretion from thee, to the end
+  That Doom's relentless gulf might gape for thee?" He spake; he swung up in his mighty hand
+  And sped the long spear warrior-slaying, wrought
+  By Chiron, and above the right breast pierced
+  The battle-eager maid. The red blood leapt
+  Forth, as a fountain wells, and all at once
+  Fainted the strength of Penthesileia's limbs;
+  Dropped the great battle-axe from her nerveless hand;
+  A mist of darkness overveiled her eyes,
+  And anguish thrilled her soul. Yet even so
+  Still drew she difficult breath, still dimly saw
+  The hero, even now in act to drag
+  Her from the swift steed's back. Confusedly
+  She thought: "Or shall I draw my mighty sword,
+  And bide Achilles' fiery onrush, or
+  Hastily cast me from my fleet horse down
+  To earth, and kneel unto this godlike man,
+  And with wild breath promise for ransoming
+  Great heaps of brass and gold, which pacify
+  The hearts of victors never so athirst
+  For blood, if haply so the murderous might
+  Of Aeacus' son may hearken and may spare,
+  Or peradventure may compassionate
+  My youth, and so vouchsafe me to behold
+  Mine home again?--for O, I long to live!" So surged the wild thoughts in her; but the Gods
+  Ordained it otherwise. Even now rushed on
+  In terrible anger Peleus' son: he thrust
+  With sudden spear, and on its shaft impaled
+  The body of her tempest-footed steed,
+  Even as a man in haste to sup might pierce
+  Flesh with the spit, above the glowing hearth
+  To roast it, or as in a mountain-glade
+  A hunter sends the shaft of death clear through
+  The body of a stag with such winged speed
+  That the fierce dart leaps forth beyond, to plunge
+  Into the tall stem of an oak or pine. So that death-ravening spear of Peleus' son
+  Clear through the goodly steed rushed on, and pierced
+  Penthesileia. Straightway fell she down
+  Into the dust of earth, the arms of death,
+  In grace and comeliness fell, for naught of shame
+  Dishonoured her fair form. Face down she lay
+  On the long spear outgasping her last breath,
+  Stretched upon that fleet horse as on a couch;
+  Like some tall pine snapped by the icy mace
+  Of Boreas, earth's forest-fosterling
+  Reared by a spring to stately height, amidst
+  Long mountain-glens, a glory of mother earth;
+  So from the once fleet steed low fallen lay
+  Penthesileia, all her shattered strength
+  Brought down to this, and all her loveliness. Now when the Trojans saw the Warrior-queen
+  Struck down in battle, ran through all their lines
+  A shiver of panic. Straightway to their walls
+  Turned they in flight, heart-agonized with grief. As when on the wide sea, 'neath buffetings
+  Of storm-blasts, castaways whose ship is wrecked
+  Escape, a remnant of a crew, forspent
+  With desperate conflict with the cruel sea:
+  Late and at last appears the land hard by,
+  Appears a city: faint and weary-limbed
+  With that grim struggle, through the surf they strain
+  To land, sore grieving for the good ship lost,
+  And shipmates whom the terrible surge dragged down
+  To nether gloom; so, Troyward as they fled
+  From battle, all those Trojans wept for her,
+  The Child of the resistless War-god, wept
+  For friends who died in groan-resounding fight. Then over her with scornful laugh the son
+  Of Peleus vaunted: "In the dust lie there
+  A prey to teeth of dogs, to ravens' beaks,
+  Thou wretched thing! Who cozened thee to come
+  Forth against me? And thoughtest thou to fare
+  Home from the war alive, to bear with thee
+  Right royal gifts from Priam the old king,
+  Thy guerdon for slain Argives? Ha, 'twas not
+  The Immortals who inspired thee with this thought,
+  Who know that I of heroes mightiest am,
+  The Danaans' light of safety, but a woe
+  To Trojans and to thee, O evil-starred! Nay, but it was the darkness-shrouded Fates
+  And thine own folly of soul that pricked thee on
+  To leave the works of women, and to fare
+  To war, from which strong men shrink shuddering back." So spake he, and his ashen spear the son
+  Of Peleus drew from that swift horse, and from
+  Penthesileia in death's agony. Then steed and rider gasped their lives away
+  Slain by one spear. Now from her head he plucked
+  The helmet splendour-flashing like the beams
+  Of the great sun, or Zeus' own glory-light. Then, there as fallen in dust and blood she lay,
+  Rose, like the breaking of the dawn, to view
+  'Neath dainty-pencilled brows a lovely face,
+  Lovely in death. The Argives thronged around,
+  And all they saw and marvelled, for she seemed
+  Like an Immortal. In her armour there
+  Upon the earth she lay, and seemed the Child
+  Of Zeus, the tireless Huntress Artemis
+  Sleeping, what time her feet forwearied are
+  With following lions with her flying shafts
+  Over the hills far-stretching. She was made
+  A wonder of beauty even in her death
+  By Aphrodite glorious-crowned, the Bride
+  Of the strong War-god, to the end that he,
+  The son of noble Peleus, might be pierced
+  With the sharp arrow of repentant love. The warriors gazed, and in their hearts they prayed
+  That fair and sweet like her their wives might seem,
+  Laid on the bed of love, when home they won. Yea, and Achilles' very heart was wrung
+  With love's remorse to have slain a thing so sweet,
+  Who might have borne her home, his queenly bride,
+  To chariot-glorious Phthia; for she was
+  Flawless, a very daughter of the Gods,
+  Divinely tall, and most divinely fair. Then Ares' heart was thrilled with grief and rage
+  For his child slain. Straight from Olympus down
+  He darted, swift and bright as thunderbolt
+  Terribly flashing from the mighty hand Of
+  Zeus, far leaping o'er the trackless sea,
+  Or flaming o'er the land, while shuddereth
+  All wide Olympus as it passeth by. So through the quivering air with heart aflame
+  Swooped Ares armour-clad, soon as he heard
+  The dread doom of his daughter. For the Gales,
+  The North-wind's fleet-winged daughters, bare to him,
+  As through the wide halls of the sky he strode,
+  The tidings of the maiden's woeful end. Soon as he heard it, like a tempest-blast
+  Down to the ridges of Ida leapt he: quaked
+  Under his feet the long glens and ravines
+  Deep-scored, all Ida's torrent-beds, and all
+  Far-stretching foot-hills. Now had Ares brought
+  A day of mourning on the Myrmidons,
+  But Zeus himself from far Olympus sent
+  Mid shattering thunders terror of levin-bolts
+  Which thick and fast leapt through the welkin down
+  Before his feet, blazing with fearful flames. And Ares saw, and knew the stormy threat
+  Of the mighty-thundering Father, and he stayed
+  His eager feet, now on the very brink
+  Of battle's turmoil. As when some huge crag
+  Thrust from a beetling cliff-brow by the winds
+  And torrent rains, or lightning-lance of Zeus,
+  Leaps like a wild beast, and the mountain-glens
+  Fling back their crashing echoes as it rolls
+  In mad speed on, as with resistless swoop
+  Of bound on bound it rushes down, until
+  It cometh to the levels of the plain,
+  And there perforce its stormy flight is stayed;
+
+  So Ares, battle-eager Son of Zeus,
+  Was stayed, how loth soe'er; for all the Gods
+  To the Ruler of the Blessed needs must yield,
+  Seeing he sits high-throned above them all,
+  Clothed in his might unspeakable. Yet still
+  Many a wild thought surged through Ares' soul,
+  Urging him now to dread the terrible threat
+  Of Cronos' wrathful Son, and to return
+  Heavenward, and now to reck not of his Sire,
+  But with Achilles' blood to stain those hands,
+  The battle-tireless. At the last his heart
+  Remembered how that many and many a son
+  Of Zeus himself in many a war had died,
+  Nor in their fall had Zeus availed them aught. Therefore he turned him from the Argives--else,
+  Down smitten by the blasting thunderbolt,
+  With Titans in the nether gloom he had lain,
+  Who dared defy the eternal will of Zeus. Then did the warrior sons of Argos strip
+  With eager haste from corpses strown all round
+  The blood-stained spoils. But ever Peleus' son
+  Gazed, wild with all regret, still gazed on her,
+  The strong, the beautiful, laid in the dust;
+  And all his heart was wrung, was broken down
+  With sorrowing love, deep, strong as he had known
+  When that beloved friend Patroclus died. Loud jeered Thersites, mocking to his face:
+  "Thou sorry-souled Achilles! art not shamed
+  To let some evil Power beguile thine heart
+  To pity of a pitiful Amazon
+  Whose furious spirit purposed naught but ill
+  To us and ours? Ha, woman-mad art thou,
+  And thy soul lusts for this thing, as she were
+  Some lady wise in household ways, with gifts
+  And pure intent for honoured wedlock wooed! Good had it been had her spear reached thine heart,
+  The heart that sighs for woman-creatures still! Thou carest not, unmanly-souled, not thou,
+  For valour's glorious path, when once thine eye
+  Lights on a woman! Sorry wretch, where now
+  Is all thy goodly prowess? where thy wit? And where the might that should beseem a king
+  All-stainless? Dost not know what misery
+  This self-same woman-madness wrought for Troy? Nothing there is to men more ruinous
+  Than lust for woman's beauty; it maketh fools
+  Of wise men. But the toil of war attains
+  Renown. To him that is a hero indeed
+  Glory of victory and the War-god's works
+  Are sweet. 'Tis but the battle-blencher craves
+  The beauty and the bed of such as she!" So railed he long and loud: the mighty heart
+  Of Peleus' son leapt into flame of wrath. A sudden buffet of his resistless hand
+  Smote 'neath the railer's ear, and all his teeth
+  Were dashed to the earth: he fell upon his face:
+  Forth of his lips the blood in torrent gushed:
+  Swift from his body fled the dastard soul
+  Of that vile niddering. Achaea's sons
+  Rejoiced thereat, for aye he wont to rail
+  On each and all with venomous gibes, himself
+  A scandal and the shame of all the host. Then mid the warrior Argives cried a voice:
+  "Not good it is for baser men to rail
+  On kings, or secretly or openly;
+  For wrathful retribution swiftly comes. The Lady of Justice sits on high; and she
+  Who heapeth woe on woe on humankind,
+  Even Ate, punisheth the shameless tongue." So mid the Danaans cried a voice: nor yet
+  Within the mighty soul of Peleus' son
+  Lulled was the storm of wrath, but fiercely he spake:
+  "Lie there in dust, thy follies all forgot! 'Tis not for knaves to beard their betters: once
+  Thou didst provoke Odysseus' steadfast soul,
+  Babbling with venomous tongue a thousand gibes,
+  And didst escape with life; but thou hast found
+  The son of Peleus not so patient-souled,
+  Who with one only buffet from his hand
+  Unkennels thy dog's soul! A bitter doom
+  Hath swallowed thee: by thine own rascalry
+  Thy life is sped. Hence from Achaean men,
+  And mouth out thy revilings midst the dead!" So spake the valiant-hearted aweless son
+  Of Aeacus. But Tydeus' son alone
+  Of all the Argives was with anger stirred
+  Against Achilles for Thersites slain,
+  Seeing these twain were of the self-same blood,
+  The one, proud Tydeus' battle-eager son,
+  The other, seed of godlike Agrius:
+  Brother of noble Oeneus Agrius was;
+  And Oeneus in the Danaan land begat
+  Tydeus the battle-eager, son to whom
+  Was stalwart Diomedes. Therefore wroth
+  Was he for slain Thersites, yea, had raised
+  Against the son of Peleus vengeful hands,
+  Except the noblest of Aehaea's sons
+  Had thronged around him, and besought him sore,
+  And held him back therefrom. With Peleus' son
+  Also they pleaded; else those mighty twain,
+  The mightiest of all Argives, were at point
+  To close with clash of swords, so stung were they
+  With bitter wrath; yet hearkened they at last
+  To prayers of comrades, and were reconciled. Then of their pity did the Atreid kings--
+  For these too at the imperial loveliness
+  Of Penthesileia marvelled--render up
+  Her body to the men of Troy, to bear
+  Unto the burg of Ilus far-renowned
+  With all her armour. For a herald came
+  Asking this boon for Priam; for the king
+  Longed with deep yearning of the heart to lay
+  That battle-eager maiden, with her arms,
+  And with her war-horse, in the great earth-mound
+  Of old Laomedon. And so he heaped
+  A high broad pyre without the city wall:
+  Upon the height thereof that warrior-queen
+  They laid, and costly treasures did they heap
+  Around her, all that well beseems to burn
+  Around a mighty queen in battle slain. And so the Fire-god's swift-upleaping might,
+  The ravening flame, consumed her. All around
+  The people stood on every hand, and quenched
+  The pyre with odorous wine. Then gathered they
+  The bones, and poured sweet ointment over them,
+  And laid them in a casket: over all
+  Shed they the rich fat of a heifer, chief
+  Among the herds that grazed on Ida's slope. And, as for a beloved daughter, rang
+  All round the Trojan men's heart-stricken wail,
+  As by the stately wall they buried her
+  On an outstanding tower, beside the bones
+  Of old Laomedon, a queen beside
+  A king. This honour for the War-god's sake
+  They rendered, and for Penthesileia's own. And in the plain beside her buried they
+  The Amazons, even all that followed her
+  To battle, and by Argive spears were slain. For Atreus' sons begrudged not these the boon
+  Of tear-besprinkled graves, but let their friends,
+  The warrior Trojans, draw their corpses forth,
+  Yea, and their own slain also, from amidst
+  The swath of darts o'er that grim harvest-field. Wrath strikes not at the dead: pitied are foes
+  When life has fled, and left them foes no more. Far off across the plain the while uprose
+  Smoke from the pyres whereon the Argives laid
+  The many heroes overthrown and slain
+  By Trojan hands what time the sword devoured;
+  And multitudinous lamentation wailed
+  Over the perished. But above the rest
+  Mourned they o'er brave Podarces, who in fight
+  Was no less mighty than his hero-brother
+  Protesilaus, he who long ago
+  Fell, slain of Hector: so Podarces now,
+  Struck down by Penthesileia's spear, hath cast
+  Over all Argive hearts the pall of grief. Wherefore apart from him they laid in clay
+  The common throng of slain; but over him
+  Toiling they heaped an earth-mound far-descried
+  In memory of a warrior aweless-souled. And in a several pit withal they thrust
+  The niddering Thersites' wretched corse. Then to the ships, acclaiming Aeacus' son,
+  Returned they all. But when the radiant day
+  Had plunged beneath the Ocean-stream, and night,
+  The holy, overspread the face of earth,
+  Then in the rich king Agamemnon's tent
+  Feasted the might of Peleus' son, and there
+  Sat at the feast those other mighty ones
+  All through the dark, till rose the dawn divine. BOOK II
+
+How Memnon, Son of the Dawn, for Troy's sake fell in the Battle. When o'er the crests of the far-echoing hills
+  The splendour of the tireless-racing sun
+  Poured o'er the land, still in their tents rejoiced
+  Achaea's stalwart sons, and still acclaimed
+  Achilles the resistless. But in Troy
+  Still mourned her people, still from all her towers
+  Seaward they strained their gaze; for one great fear
+  Gripped all their hearts--to see that terrible man
+  At one bound overleap their high-built wall,
+  Then smite with the sword all people therewithin,
+  And burn with fire fanes, palaces, and homes. And old Thymoetes spake to the anguished ones:
+  "Friends, I have lost hope: mine heart seeth not
+  Or help, or bulwark from the storm of war,
+  Now that the aweless Hector, who was once
+  Troy's mighty champion, is in dust laid low. Not all his might availed to escape the Fates,
+  But overborne he was by Achilles' hands,
+  The hands that would, I verily deem, bear down
+  A God, if he defied him to the fight,
+  Even as he overthrew this warrior-queen
+  Penthesileia battle-revelling,
+  From whom all other Argives shrank in fear. Ah, she was marvellous! When at the first
+  I looked on her, meseemed a Blessed One
+  From heaven had come down hitherward to bring
+  Light to our darkness--ah, vain hope, vain dream! Go to, let us take counsel, what to do
+  Were best for us. Or shall we still maintain
+  A hopeless fight against these ruthless foes,
+  Or shall we straightway flee a city doomed? Ay, doomed!--for never more may we withstand
+  Argives in fighting field, when in the front
+  Of battle pitiless Achilles storms." Then spake Laomedon's son, the ancient king:
+  "Nay, friend, and all ye other sons of Troy,
+  And ye our strong war-helpers, flinch we not
+  Faint-hearted from defence of fatherland! Yet let us go not forth the city-gates
+  To battle with yon foe. Nay, from our towers
+  And from our ramparts let us make defence,
+  Till our new champion come, the stormy heart
+  Of Memnon. Lo, he cometh, leading on
+  Hosts numberless, Aethiopia's swarthy sons. By this, I trow, he is nigh unto our gates;
+  For long ago, in sore distress of soul,
+  I sent him urgent summons. Yea, and he
+  Promised me, gladly promised me, to come
+  To Troy, and make all end of all our woes. And now, I trust, he is nigh. Let us endure
+  A little longer then; for better far
+  It is like brave men in the fight to die
+  Than flee, and live in shame mid alien folk." So spake the old king; but Polydamas,
+  The prudent-hearted, thought not good to war
+  Thus endlessly, and spake his patriot rede:
+  "If Memnon have beyond all shadow of doubt
+  Pledged him to thrust dire ruin far from us,
+  Then do I gainsay not that we await
+  The coming of that godlike man within
+  Our walls--yet, ah, mine heart misgives me, lest,
+  Though he with all his warriors come, he come
+  But to his death, and unto thousands more,
+  Our people, nought but misery come thereof;
+  For terribly against us leaps the storm
+  Of the Achaeans' might. But now, go to,
+  Let us not flee afar from this our Troy
+  To wander to some alien land, and there,
+  In the exile's pitiful helplessness, endure
+  All flouts and outrage; nor in our own land
+  Abide we till the storm of Argive war
+  O'erwhelm us. Nay, even now, late though it be,
+  Better it were for us to render back
+  Unto the Danaans Helen and her wealth,
+  Even all that glory of women brought with her
+  From Sparta, and add other treasure--yea,
+  Repay it twofold, so to save our Troy
+  And our own souls, while yet the spoiler's hand
+  Is laid not on our substance, and while yet
+  Troy hath not sunk in gulfs of ravening flame. I pray you, take to heart my counsel! None
+  Shall, well I wot, be given to Trojan men
+  Better than this. Ah, would that long ago
+  Hector had hearkened to my pleading, when
+  I fain had kept him in the ancient home!" So spake Polydamas the noble and strong,
+  And all the listening Trojans in their hearts
+  Approved; yet none dared utter openly
+  The word, for all with trembling held in awe
+  Their prince and Helen, though for her sole sake
+  Daily they died. But on that noble man
+  Turned Paris, and reviled him to his face:
+  "Thou dastard battle-blencher Polydamas! Not in thy craven bosom beats a heart
+  That bides the fight, but only fear and panic. Yet dost thou vaunt thee--quotha!--still our best
+  In counsel!--no man's soul is base as thine! Go to, thyself shrink shivering from the strife! Cower, coward, in thine halls! But all the rest,
+  We men, will still go armour-girt, until
+  We wrest from this our truceless war a peace
+  That shall not shame us! 'Tis with travail and toil
+  Of strenuous war that brave men win renown;
+  But flight?--weak women choose it, and young babes! Thy spirit is like to theirs. No whit I trust
+  Thee in the day of battle--thee, the man
+  Who maketh faint the hearts of all the host!" So fiercely he reviled: Polydamas
+  Wrathfully answered; for he shrank not, he,
+  From answering to his face. A caitiff hound,
+  A reptile fool, is he who fawns on men
+  Before their faces, while his heart is black
+  With malice, and, when they be gone, his tongue
+  Backbites them. Openly Polydamas
+  Flung back upon the prince his taunt and scoff:
+  "O thou of living men most mischievous! Thy valour--quotha!--brings us misery! Thine heart endures, and will endure, that strife
+  Should have no limit, save in utter ruin
+  Of fatherland and people for thy sake! Ne'er may such wantwit valour craze my soul! Be mine to cherish wise discretion aye,
+  A warder that shall keep mine house in peace." Indignantly he spake, and Paris found
+  No word to answer him, for conscience woke
+  Remembrance of all woes he had brought on Troy,
+  And should bring; for his passion-fevered heart
+  Would rather hail quick death than severance
+  From Helen the divinely fair, although
+  For her sake was it that the sons of Troy
+  Even then were gazing from their towers to see
+  The Argives and Achilles drawing nigh. But no long time thereafter came to them
+  Memnon the warrior-king, and brought with him
+  A countless host of swarthy Aethiops. From all the streets of Troy the Trojans flocked
+  Glad-eyed to gaze on him, as seafarers,
+  With ruining tempest utterly forspent,
+  See through wide-parting clouds the radiance
+  Of the eternal-wheeling Northern Wain;
+  So joyed the Troyfolk as they thronged around,
+  And more than all Laomedon's son, for now
+  Leapt in his heart a hope, that yet the ships
+  Might by those Aethiop men be burned with fire;
+  So giantlike their king was, and themselves
+  So huge a host, and so athirst for fight. Therefore with all observance welcomed he
+  The strong son of the Lady of the Dawn
+  With goodly gifts and with abundant cheer. So at the banquet King and Hero sat
+  And talked, this telling of the Danaan chiefs,
+  And all the woes himself had suffered, that
+  Telling of that strange immortality
+  By the Dawn-goddess given to his sire,
+  Telling of the unending flow and ebb
+  Of the Sea-mother, of the sacred flood
+  Of Ocean fathomless-rolling, of the bounds
+  Of Earth that wearieth never of her travail,
+  Of where the Sun-steeds leap from orient waves,
+  Telling withal of all his wayfaring
+  From Ocean's verge to Priam's wall, and spurs
+  Of Ida. Yea, he told how his strong hands
+  Smote the great army of the Solymi
+  Who barred his way, whose deed presumptuous brought
+  Upon their own heads crushing ruin and woe. So told he all that marvellous tale, and told
+  Of countless tribes and nations seen of him. And Priam heard, and ever glowed his heart
+  Within him; and the old lips answering spake:
+  "Memnon, the Gods are good, who have vouchsafed
+  To me to look upon thine host, and thee
+  Here in mine halls. O that their grace would so
+  Crown this their boon, that I might see my foes
+  All thrust to one destruction by thy spears. That well may be, for marvellous-like art thou
+  To some invincible Deathless One, yea, more
+  Than any earthly hero. Wherefore thou,
+  I trust, shalt hurl wild havoc through their host. But now, I pray thee, for this day do thou
+  Cheer at my feast thine heart, and with the morn
+  Shalt thou go forth to battle worthy of thee." Then in his hands a chalice deep and wide
+  He raised, and Memnon in all love he pledged
+  In that huge golden cup, a gift of Gods;
+  For this the cunning God-smith brought to Zeus,
+  His masterpiece, what time the Mighty in Power
+  To Hephaestus gave for bride the Cyprian Queen;
+  And Zeus on Dardanus his godlike son
+  Bestowed it, he on Erichthonius;
+  Erichthonius to Tros the great of heart
+  Gave it, and he with all his treasure-store
+  Bequeathed it unto Ilus, and he gave
+  That wonder to Laomedon, and he
+  To Priam, who had thought to leave the same
+  To his own son. Fate ordered otherwise. And Memnon clasped his hands about that cup
+  So peerless-beautiful, and all his heart
+  Marvelled; and thus he spake unto the King:
+  "Beseems not with great swelling words to vaunt
+  Amidst the feast, and lavish promises,
+  But rather quietly to eat in hall,
+  And to devise deeds worthy. Whether I
+  Be brave and strong, or whether I be not,
+  Battle, wherein a man's true might is seen,
+  Shall prove to thee. Now would I rest, nor drink
+  The long night through. The battle-eager spirit
+  By measureless wine and lack of sleep is dulled." Marvelled at him the old King, and he said:
+  "As seems thee good touching the banquet, do
+  After thy pleasure. I, when thou art loth,
+  Will not constrain thee. Yea, unmeet it is
+  To hold back him who fain would leave the board,
+  Or hurry from one's halls who fain would stay. So is the good old law with all true men." Then rose that champion from the board, and passed
+  Thence to his sleep--his last! And with him went
+  All others from the banquet to their rest:
+  And gentle sleep slid down upon them soon. But in the halls of Zeus, the Lightning-lord,
+  Feasted the gods the while, and Cronos' son,
+  All-father, of his deep foreknowledge spake
+  Amidst them of the issue of the strife:
+  "Be it known unto you all, to-morn shall bring
+  By yonder war affliction swift and sore;
+  For many mighty horses shall ye see
+  In either host beside their chariots slain,
+  And many heroes perishing. Therefore ye
+  Remember these my words, howe'er ye grieve
+  For dear ones. Let none clasp my knees in prayer,
+  Since even to us relentless are the fates." So warned he them, which knew before, that all
+  Should from the battle stand aside, howe'er
+  Heart-wrung; that none, petitioning for a son
+  Or dear one, should to Olympus vainly come. So, at that warning of the Thunderer,
+  The Son of Cronos, all they steeled their hearts
+  To bear, and spake no word against their king;
+  For in exceeding awe they stood of him. Yet to their several mansions and their rest
+  With sore hearts went they. O'er their deathless eyes
+  The blessing-bringer Sleep his light veils spread. When o'er precipitous crests of mountain-walls
+  Leapt up broad heaven the bright morning-star
+  Who rouseth to their toils from slumber sweet
+  The binders of the sheaf, then his last sleep
+  Unclasped the warrior-son of her who brings
+  Light to the world, the Child of Mists of Night. Now swelled his mighty heart with eagerness
+  To battle with the foe forthright. And Dawn
+  With most reluctant feet began to climb
+  Heaven's broad highway. Then did the Trojans gird
+  Their battle-harness on; then armed themselves
+  The Aethiop men, and all the mingled tribes
+  Of those war-helpers that from many lands
+  To Priam's aid were gathered. Forth the gates
+  Swiftly they rushed, like darkly lowering clouds
+  Which Cronos' Son, when storm is rolling up,
+  Herdeth together through the welkin wide. Swiftly the whole plain filled. Onward they streamed
+  Like harvest-ravaging locusts drifting on
+  In fashion of heavy-brooding rain-clouds o'er
+  Wide plains of earth, an irresistible host
+  Bringing wan famine on the sons of men;
+  So in their might and multitude they went. The city streets were all too strait for them
+  Marching: upsoared the dust from underfoot. From far the Argives gazed, and marvelling saw
+  Their onrush, but with speed arrayed their limbs
+  In brass, and in the might of Peleus' son
+  Put their glad trust. Amidst them rode he on
+  Like to a giant Titan, glorying
+  In steeds and chariot, while his armour flashed
+  Splendour around in sudden lightning-gleams. It was as when the sun from utmost bounds
+  Of earth-encompassing ocean comes, and brings
+  Light to the world, and flings his splendour wide
+  Through heaven, and earth and air laugh all around. So glorious, mid the Argives Peleus' son
+  Rode onward. Mid the Trojans rode the while
+  Memnon the hero, even such to see
+  As Ares furious-hearted. Onward swept
+  The eager host arrayed about their lord. Then in the grapple of war on either side
+  Closed the long lines, Trojan and Danaan;
+  But chief in prowess still the Aethiops were. Crashed they together as when surges meet
+  On the wild sea, when, in a day of storm,
+  From every quarter winds to battle rush. Foe hurled at foe the ashen spear, and slew:
+  Screams and death-groans went up like roaring fire. As when down-thundering torrents shout and rave
+  On-pouring seaward, when the madding rains
+  Stream from God's cisterns, when the huddling clouds
+  Are hurled against each other ceaselessly,
+  And leaps their fiery breath in flashes forth;
+  So 'neath the fighters' trampling feet the earth
+  Thundered, and leapt the terrible battle-yell
+  Through frenzied air, for mad the war-cries were. For firstfruits of death's harvest Peleus' son
+  Slew Thalius and Mentes nobly born,
+  Men of renown, and many a head beside
+  Dashed he to dust. As in its furious swoop
+  A whirlwind shakes dark chasms underground,
+  And earth's foundations crumble and melt away
+  Around the deep roots of the shuddering world,
+  So the ranks crumbled in swift doom to the dust
+  Before the spear and fury of Peleus's son. But on the other side the hero child
+  Of the Dawn-goddess slew the Argive men,
+  Like to a baleful Doom which bringeth down
+  On men a grim and ghastly pestilence. First slew he Pheron; for the bitter spear
+  Plunged through his breast, and down on him he hurled
+  Goodly Ereuthus, battle-revellers both,
+  Dwellers in Thryus by Alpheus' streams,
+  Which followed Nestor to the god-built burg
+  Of Ilium. But when he had laid these low,
+  Against the son of Neleus pressed he on
+  Eager to slay. Godlike Antilochus
+  Strode forth to meet him, sped the long spear's flight,
+  Yet missed him, for a little he swerved, but slew
+  His Aethiop comrade, son of Pyrrhasus. Wroth for his fall, against Antilochus
+  He leapt, as leaps a lion mad of mood
+  Upon a boar, the beast that flincheth not
+  From fight with man or brute, whose charge is a flash
+  Of lightning; so was his swift leap. His foe
+  Antilochus caught a huge stone from the ground,
+  Hurled, smote him; but unshaken abode his strength,
+  For the strong helm-crest fenced his head from death;
+  But rang the morion round his brows. His heart
+  Kindled with terrible fury at the blow
+  More than before against Antilochus. Like seething cauldron boiled his maddened might. He stabbed, for all his cunning of fence, the son
+  Of Nestor above the breast; the crashing spear
+  Plunged to the heart, the spot of speediest death. Then upon all the Danaans at his fall
+  Came grief; but anguish-stricken was the heart
+  Of Nestor most of all, to see his child
+  Slain in his sight; for no more bitter pang
+  Smiteth the heart of man than when a son
+  Perishes, and his father sees him die. Therefore, albeit unused to melting mood,
+  His soul was torn with agony for the son
+  By black death slain. A wild cry hastily
+  To Thrasymedes did he send afar:
+  "Hither to me, Thrasymedes war-renowned! Help me to thrust back from thy brother's corse,
+  Yea, from mine hapless son, his murderer,
+  That so ourselves may render to our dead
+  All dues of mourning. If thou flinch for fear,
+  No son of mine art thou, nor of the line
+  Of Periclymenus, who dared withstand
+  Hercules' self. Come, to the battle-toil! For grim necessity oftentimes inspires
+  The very coward with courage of despair." Then at his cry that brother's heart was stung
+  With bitter grief. Swift for his help drew nigh
+  Phereus, on whom for his great prince's fall
+  Came anguish. Charged these warriors twain to face
+  Strong Memnon in the gory strife. As when
+  Two hunters 'mid a forest's mountain-folds,
+  Eager to take the prey, rush on to meet
+  A wild boar or a bear, with hearts afire
+  To slay him, but in furious mood he leaps
+  On them, and holds at bay the might of men;
+  So swelled the heart of Memnon. Nigh drew they,
+  Yet vainly essayed to slay him, as they hurled
+  The long spears, but the lances glanced aside
+  Far from his flesh: the Dawn-queen turned them thence. Yet fell their spears not vainly to the ground:
+  The lance of fiery-hearted Phereus, winged
+  With eager speed, dealt death to Meges' son,
+  Polymnius: Laomedon was slain
+  By the wrath of Nestor's son for a brother dead,
+  The dear one Memnon slew in battle-rout,
+  And whom the slayer's war-unwearied hands
+  Now stripped of his all-brazen battle-gear,
+  Nought recking, he, of Thrasymedes' might,
+  Nor of stout Phereus, who were unto him
+  But weaklings. A great lion seemed he there
+  Standing above a hart, as jackals they,
+  That, howso hungry, dare not come too nigh. But hard thereby the father gazed thereon
+  In agony, and cried the rescue-cry
+  To other his war-comrades for their aid
+  Against the foe. Himself too burned to fight
+  From his war-car; for yearning for the dead
+  Goaded him to the fray beyond his strength. Ay, and himself had been on his dear son
+  Laid, numbered with the dead, had not the voice
+  Of Memnon stayed him even in act to rush
+  Upon him, for he reverenced in his heart
+  The white hairs of an age-mate of his sire:
+  "Ancient," he cried, "it were my shame to fight. With one so much mine elder: I am not
+  Blind unto honour. Verily I weened
+  That this was some young warrior, when I saw
+  Thee facing thus the foe. My bold heart hoped
+  For contest worthy of mine hand and spear. Nay, draw thou back afar from battle-toil
+  And bitter death. Go, lest, how loth soe'er,
+  I smite thee of sore need. Nay, fall not thou
+  Beside thy son, against a mightier man
+  Fighting, lest men with folly thee should charge,
+  For folly it is that braves o'ermastering might." He spake, and answered him that warrior old:
+  "Nay, Memnon, vain was that last word of thine. None would name fool the father who essayed,
+  Battling with foes for his son's sake, to thrust
+  The ruthless slayer back from that dear corpse,
+  But ah that yet my strength were whole in me,
+  That thou might'st know my spear! Now canst thou vaunt
+  Proudly enow: a young man's heart is bold
+  And light his wit. Uplifted is thy soul
+  And vain thy speech. If in my strength of youth
+  Thou hadst met me--ha, thy friends had not rejoiced,
+  For all thy might! But me the grievous weight
+  Of age bows down, like an old lion whom
+  A cur may boldly drive back from the fold,
+  For that he cannot, in his wrath's despite,
+  Maintain his own cause, being toothless now,
+  And strengthless, and his strong heart tamed by time. So well the springs of olden strength no more
+  Now in my breast. Yet am I stronger still
+  Than many men; my grey hairs yield to few
+  That have within them all the strength of youth." So drew he back a little space, and left
+  Lying in dust his son, since now no more
+  Lived in the once lithe limbs the olden strength,
+  For the years' weight lay heavy on his head. Back leapt Thrasymedes likewise, spearman good,
+  And battle-eager Phereus, and the rest
+  Their comrades; for that slaughter-dealing man
+  Pressed hard on them. As when from mountains high
+  A shouting river with wide-echoing din
+  Sweeps down its fathomless whirlpools through the gloom,
+  When God with tumult of a mighty storm
+  Hath palled the sky in cloud from verge to verge,
+  When thunders crash all round, when thick and fast
+  Gleam lightnings from the huddling clouds, when fields
+  Are flooded as the hissing rain descends,
+  And all the air is filled with awful roar
+  Of torrents pouring down the hill-ravines;
+  So Memnon toward the shores of Hellespont
+  Before him hurled the Argives, following hard
+  Behind them, slaughtering ever. Many a man
+  Fell in the dust, and left his life in blood
+  'Neath Aethiop hands. Stained was the earth with gore
+  As Danaans died. Exulted Memnon's soul
+  As on the ranks of foemen ever he rushed,
+  And heaped with dead was all the plain of Troy. And still from fight refrained he not; he hoped
+  To be a light of safety unto Troy
+  And bane to Danaans. But all the while
+  Stood baleful Doom beside him, and spurred on
+  To strife, with flattering smile. To right, to left
+  His stalwart helpers wrought in battle-toil,
+  Alcyoneus and Nychius, and the son
+  Of Asius furious-souled; Meneclus' spear,
+  Clydon and Alexippus, yea, a host
+  Eager to chase the foe, men who in fight
+  Quit them like men, exulting in their king. Then, as Meneclus on the Danaans charged,
+  The son of Neleus slew him. Wroth for his friend,
+  Whole throngs of foes fierce-hearted Memnon slew. As when a hunter midst the mountains drives
+  Swift deer within the dark lines of his toils--
+  The eager ring of beaters closing in
+  Presses the huddled throng into the snares
+  Of death: the dogs are wild with joy of the chase
+  Ceaselessly giving tongue, the while his darts
+  Leap winged with death on brocket and on hind;
+  So Memnon slew and ever slew: his men
+  Rejoiced, the while in panic stricken rout
+  Before that glorious man the Argives fled. As when from a steep mountain's precipice-brow
+  Leaps a huge crag, which all-resistless Zeus
+  By stroke of thunderbolt hath hurled from the crest;
+  Crash oakwood copses, echo long ravines,
+  Shudders the forest to its rattle and roar,
+  And flocks therein and herds and wild things flee
+  Scattering, as bounding, whirling, it descends
+  With deadly pitiless onrush; so his foes
+  Fled from the lightning-flash of Memnon's spear. Then to the side of Aeacus' mighty son
+  Came Nestor. Anguished for his son he cried:
+  "Achilles, thou great bulwark of the Greeks,
+  Slain is my child! The armour of my dead
+  Hath Memnon, and I fear me lest his corse
+  Be cast a prey to dogs. Haste to his help! True friend is he who still remembereth
+  A friend though slain, and grieves for one no more." Achilles heard; his heart was thrilled with grief:
+  He glanced across the rolling battle, saw
+  Memnon, saw where in throngs the Argives fell
+  Beneath his spear. Forthright he turned away
+  From where the rifted ranks of Troy fell fast
+  Before his hands, and, thirsting for the fight,
+  Wroth for Antilochus and the others slain,
+  Came face to face with Memnon. In his hands
+  That godlike hero caught up from the ground
+  A stone, a boundary-mark 'twixt fields of wheat,
+  And hurled. Down on the shield of Peleus' son
+  It crashed. But he, the invincible, shrank not
+  Before the huge rock-shard, but, thrusting out
+  His long lance, rushed to close with him, afoot,
+  For his steeds stayed behind the battle-rout. On the right shoulder above the shield he smote
+  And staggered him; but he, despite the wound,
+  Fought on with heart unquailing. Swiftly he thrust
+  And pricked with his strong spear Achilles' arm. Forth gushed the blood: rejoicing with vain joy
+  To Aeacus' son with arrogant words he cried:
+  "Now shalt thou in thy death fill up, I trow,
+  Thy dark doom, overmastered by mine hands. Thou shalt not from this fray escape alive! Fool, wherefore hast thou ruthlessly destroyed
+  Trojans, and vaunted thee the mightiest man
+  Of men, a deathless Nereid's son? Ha, now
+  Thy doom hath found thee! Of birth divine am I,
+  The Dawn-queen's mighty son, nurtured afar
+  By lily-slender Hesperid Maids, beside
+  The Ocean-river. Therefore not from thee
+  Nor from grim battle shrink I, knowing well
+  How far my goddess-mother doth transcend
+  A Nereid, whose child thou vauntest thee. To Gods and men my mother bringeth light;
+  On her depends the issue of all things,
+  Works great and glorious in Olympus wrought
+  Whereof comes blessing unto men. But thine--
+  She sits in barren crypts of brine: she dwells
+  Glorying mid dumb sea-monsters and mid fish,
+  Deedless, unseen! Nothing I reck of her,
+  Nor rank her with the immortal Heavenly Ones." In stern rebuke spake Aeacus' aweless son:
+  "Memnon, how wast thou so distraught of wit
+  That thou shouldst face me, and to fight defy
+  Me, who in might, in blood, in stature far
+  Surpass thee? From supremest Zeus I trace
+  My glorious birth; and from the strong Sea-god
+  Nereus, begetter of the Maids of the Sea,
+  The Nereids, honoured of the Olympian Gods. And chiefest of them all is Thetis, wise
+  With wisdom world-renowned; for in her bowers
+  She sheltered Dionysus, chased by might
+  Of murderous Lycurgus from the earth. Yea, and the cunning God-smith welcomed she
+  Within her mansion, when from heaven he fell. Ay, and the Lightning-lord she once released
+  From bonds. The all-seeing Dwellers in the Sky
+  Remember all these things, and reverence
+  My mother Thetis in divine Olympus. Ay, that she is a Goddess shalt thou know
+  When to thine heart the brazen spear shall pierce
+  Sped by my might. Patroclus' death I avenged
+  On Hector, and Antilochus on thee
+  Will I avenge. No weakling's friend thou hast slain! But why like witless children stand we here
+  Babbling our parents' fame and our own deeds? Now is the hour when prowess shall decide." Then from the sheath he flashed his long keen sword,
+  And Memnon his; and swiftly in fiery fight
+  Closed they, and rained the never-ceasing blows
+  Upon the bucklers which with craft divine
+  Hephaestus' self had fashioned. Once and again
+  Clashed they together, and their cloudy crests
+  Touched, mingling all their tossing storm of hair. And Zeus, for that he loved them both, inspired
+  With prowess each, and mightier than their wont
+  He made them, made them tireless, nothing like
+  To men, but Gods: and gloated o'er the twain
+  The Queen of Strife. In eager fury these
+  Thrust swiftly out the spear, with fell intent
+  To reach the throat 'twixt buckler-rim and helm,
+  Thrust many a time and oft, and now would aim
+  The point beneath the shield, above the greave,
+  Now close beneath the corslet curious-wrought
+  That lapped the stalwart frame: hard, fast they lunged,
+  And on their shoulders clashed the arms divine. Roared to the very heavens the battle-shout
+  Of warring men, of Trojans, Aethiops,
+  And Argives mighty-hearted, while the dust
+  Rolled up from 'neath their feet, tossed to the sky
+  In stress of battle-travail great and strong. As when a mist enshrouds the hills, what time
+  Roll up the rain-clouds, and the torrent-beds
+  Roar as they fill with rushing floods, and howls
+  Each gorge with fearful voices; shepherds quake
+  To see the waters' downrush and the mist,
+  Screen dear to wolves and all the wild fierce things
+  Nursed in the wide arms of the forest; so
+  Around the fighters' feet the choking dust
+  Hung, hiding the fair splendour of the sun
+  And darkening all the heaven. Sore distressed
+  With dust and deadly conflict were the folk. Then with a sudden hand some Blessed One
+  Swept the dust-pall aside; and the Gods saw
+  The deadly Fates hurling the charging lines
+  Together, in the unending wrestle locked
+  Of that grim conflict, saw where never ceased
+  Ares from hideous slaughter, saw the earth
+  Crimsoned all round with rushing streams of blood,
+  Saw where dark Havoc gloated o'er the scene,
+  Saw the wide plain with corpses heaped, even all
+  Bounded 'twixt Simois and Xanthus, where
+  They sweep from Ida down to Hellespont. But when long lengthened out the conflict was
+  Of those two champions, and the might of both
+  In that strong tug and strain was equal-matched,
+  Then, gazing from Olympus' far-off heights,
+  The Gods joyed, some in the invincible son
+  Of Peleus, others in the goodly child
+  Of old Tithonus and the Queen of Dawn. Thundered the heavens on high from east to west,
+  And roared the sea from verge to verge, and rocked
+  The dark earth 'neath the heroes' feet, and quaked
+  Proud Nereus' daughters all round Thetis thronged
+  In grievous fear for mighty Achilles' sake;
+  And trembled for her son the Child of the Mist
+  As in her chariot through the sky she rode. Marvelled the Daughters of the Sun, who stood
+  Near her, around that wondrous splendour-ring
+  Traced for the race-course of the tireless sun
+  By Zeus, the limit of all Nature's life
+  And death, the dally round that maketh up
+  The eternal circuit of the rolling years. And now amongst the Blessed bitter feud
+  Had broken out; but by behest of Zeus
+  The twin Fates suddenly stood beside these twain,
+  One dark--her shadow fell on Memnon's heart;
+  One bright--her radiance haloed Peleus' son. And with a great cry the Immortals saw,
+  And filled with sorrow they of the one part were,
+  They of the other with triumphant joy. Still in the midst of blood-stained battle-rout
+  Those heroes fought, unknowing of the Fates
+  Now drawn so nigh, but each at other hurled
+  His whole heart's courage, all his bodily might. Thou hadst said that in the strife of that dread day
+  Huge tireless Giants or strong Titans warred,
+  So fiercely blazed the wildfire of their strife,
+  Now, when they clashed with swords, now when they leapt
+  Hurling huge stones. Nor either would give back
+  Before the hail of blows, nor quailed. They stood
+  Like storm-tormented headlands steadfast, clothed
+  With might past words, unearthly; for the twain
+  Alike could boast their lineage of high Zeus. Therefore 'twixt these Enyo lengthened out
+  The even-balanced strife, while ever they
+  In that grim wrestle strained their uttermost,
+  They and their dauntless comrades, round their kings
+  With ceaseless fury toiling, till their spears
+  Stood shivered all in shields of warriors slain,
+  And of the fighters woundless none remained;
+  But from all limbs streamed down into the dust
+  The blood and sweat of that unresting strain
+  Of fight, and earth was hidden with the dead,
+  As heaven is hidden with clouds when meets the sun
+  The Goat-star, and the shipman dreads the deep. As charged the lines, the snorting chariot-steeds
+  Trampled the dead, as on the myriad leaves
+  Ye trample in the woods at entering-in
+  Of winter, when the autumn-tide is past. Still mid the corpses and the blood fought on
+  Those glorious sons of Gods, nor ever ceased
+  From wrath of fight. But Eris now inclined
+  The fatal scales of battle, which no more
+  Were equal-poised. Beneath the breast-bone then
+  Of godlike Memnon plunged Achilles' sword;
+  Clear through his body all the dark-blue blade
+  Leapt: suddenly snapped the silver cord of life. Down in a pool of blood he fell, and clashed
+  His massy armour, and earth rang again. Then turned to flight his comrades panic-struck,
+  And of his arms the Myrmidons stripped the dead,
+  While fled the Trojans, and Achilles chased,
+  As whirlwind swift and mighty to destroy. Then groaned the Dawn, and palled herself in clouds,
+  And earth was darkened. At their mother's hest
+  All the light Breathings of the Dawn took hands,
+  And slid down one long stream of sighing wind
+  To Priam's plain, and floated round the dead,
+  And softly, swiftly caught they up, and bare
+  Through silver mists the Dawn-queen's son, with hearts
+  Sore aching for their brother's fall, while moaned
+  Around them all the air. As on they passed,
+  Fell many blood-gouts from those pierced limbs
+  Down to the earth, and these were made a sign
+  To generations yet to be. The Gods
+  Gathered them up from many lands, and made
+  Thereof a far-resounding river, named
+  Of all that dwell beneath long Ida's flanks
+  Paphlagoneion. As its waters flow
+  'Twixt fertile acres, once a year they turn
+  To blood, when comes the woeful day whereon
+  Died Memnon. Thence a sick and choking reek
+  Steams: thou wouldst say that from a wound unhealed
+  Corrupting humours breathed an evil stench. Ay, so the Gods ordained: but now flew on
+  Bearing Dawn's mighty son the rushing winds
+  Skimming earth's face and palled about with night. Nor were his Aethiopian comrades left
+  To wander of their King forlorn: a God
+  Suddenly winged those eager souls with speed
+  Such as should soon be theirs for ever, changed
+  To flying fowl, the children of the air. Wailing their King in the winds' track they sped. As when a hunter mid the forest-brakes
+  Is by a boar or grim-jawed lion slain,
+  And now his sorrowing friends take up the corse,
+  And bear it heavy-hearted; and the hounds
+  Follow low-whimpering, pining for their lord
+  In that disastrous hunting lost; so they
+  Left far behind that stricken field of blood,
+  And fast they followed after those swift winds
+
+  With multitudinous moaning, veiled in mist
+  Unearthly. Trojans over all the plain
+  And Danaans marvelled, seeing that great host
+  Vanishing with their King. All hearts stood still
+  In dumb amazement. But the tireless winds
+  Sighing set hero Memnon's giant corpse
+  Down by the deep flow of Aesopus' stream,
+  Where is a fair grove of the bright-haired Nymphs,
+  The which round his long barrow afterward
+  Aesopus' daughters planted, screening it
+  With many and manifold trees: and long and loud
+  Wailed those Immortals, chanting his renown,
+  The son of the Dawn-goddess splendour-throned. Now sank the sun: the Lady of the Morn
+  Wailing her dear child from the heavens came down. Twelve maidens shining-tressed attended her,
+  The warders of the high paths of the sun
+  For ever circling, warders of the night
+  And dawn, and each world-ordinance framed of Zeus,
+  Around whose mansion's everlasting doors
+  From east to west they dance, from west to east,
+  Whirling the wheels of harvest-laden years,
+  While rolls the endless round of winter's cold,
+  And flowery spring, and lovely summer-tide,
+  And heavy-clustered autumn. These came down
+  From heaven, for Memnon wailing wild and high;
+  And mourned with these the Pleiads. Echoed round
+  Far-stretching mountains, and Aesopus' stream. Ceaseless uprose the keen, and in their midst,
+  Fallen on her son and clasping, wailed the Dawn;
+  "Dead art thou, dear, dear child, and thou hast clad
+  Thy mother with a pall of grief. Oh, I,
+  Now thou art slain, will not endure to light
+  The Immortal Heavenly Ones! No, I will plunge
+  Down to the dread depths of the underworld,
+  Where thy lone spirit flitteth to and fro,
+  And will to blind night leave earth, sky, and sea,
+  Till Chaos and formless darkness brood o'er all,
+  That Cronos' Son may also learn what means
+  Anguish of heart. For not less worship-worthy
+  Than Nereus' Child, by Zeus's ordinance,
+  Am I, who look on all things, I, who bring
+  All to their consummation. Recklessly
+  My light Zeus now despiseth! Therefore I
+  Will pass into the darkness. Let him bring
+  Up to Olympus Thetis from the sea
+  To hold for him light forth to Gods and men! My sad soul loveth darkness more than day,
+  Lest I pour light upon thy slayer's head:
+
+  Thus as she cried, the tears ran down her face
+  Immortal, like a river brimming aye:
+  Drenched was the dark earth round the corse. The Night
+  Grieved in her daughter's anguish, and the heaven
+  Drew over all his stars a veil of mist
+  And cloud, of love unto the Lady of Light. Meanwhile within their walls the Trojan folk
+  For Memnon sorrowed sore, with vain regret
+  Yearning for that lost king and all his host. Nor greatly joyed the Argives, where they lay
+  Camped in the open plain amidst the dead. There, mingled with Achilles' praise, uprose
+  Wails for Antilochus: joy clasped hands with grief. All night in groans and sighs most pitiful
+  The Dawn-queen lay: a sea of darkness moaned
+  Around her. Of the dayspring nought she recked:
+  She loathed Olympus' spaces. At her side
+  Fretted and whinnied still her fleetfoot steeds,
+  Trampling the strange earth, gazing at their Queen
+  Grief-stricken, yearning for the fiery course. Suddenly crashed the thunder of the wrath
+  Of Zeus; rocked round her all the shuddering earth,
+  And on immortal Eos trembling came. Swiftly the dark-skinned Aethiops from her sight
+  Buried their lord lamenting. As they wailed
+  Unceasingly, the Dawn-queen lovely-eyed
+  Changed them to birds sweeping through air around
+  The barrow of the mighty dead. And these
+  Still do the tribes of men "The Memnons" call;
+  And still with wailing cries they dart and wheel
+  Above their king's tomb, and they scatter dust
+  Down on his grave, still shrill the battle-cry,
+  In memory of Memnon, each to each. But he in Hades' mansions, or perchance
+  Amid the Blessed on the Elysian Plain,
+  Laugheth. Divine Dawn comforteth her heart
+  Beholding them: but theirs is toil of strife
+  Unending, till the weary victors strike
+  The vanquished dead, or one and all fill up
+  The measure of their doom around his grave. So by command of Eos, Lady of Light,
+  The swift birds dree their weird. But Dawn divine
+  Now heavenward soared with the all-fostering Hours,
+  Who drew her to Zeus' threshold, sorely loth,
+  Yet conquered by their gentle pleadings, such
+  As salve the bitterest grief of broken hearts. Nor the Dawn-queen forgat her daily course,
+  But quailed before the unbending threat of Zeus,
+  Of whom are all things, even all comprised
+  Within the encircling sweep of Ocean's stream,
+  Earth and the palace-dome of burning stars. Before her went her Pleiad-harbingers,
+  Then she herself flung wide the ethereal gates,
+  And, scattering spray of splendour, flashed there-through. BOOK III
+
+How by the shaft of a God laid low was Hero Achilles. When shone the light of Dawn the splendour-throned,
+  Then to the ships the Pylian spearmen bore
+  Antilochus' corpse, sore sighing for their prince,
+  And by the Hellespont they buried him
+  With aching hearts. Around him groaning stood
+  The battle-eager sons of Argives, all,
+  Of love for Nestor, shrouded o'er with grief. But that grey hero's heart was nowise crushed
+  By sorrow; for the wise man's soul endures
+  Bravely, and cowers not under affliction's stroke. But Peleus' son, wroth for Antilochus
+  His dear friend, armed for vengeance terrible
+  Upon the Trojans. Yea, and these withal,
+  Despite their dread of mighty Achilles' spear,
+  Poured battle-eager forth their gates, for now
+  The Fates with courage filled their breasts, of whom
+  Many were doomed to Hades to descend,
+  Whence there is no return, thrust down by hands
+  Of Aeacus' son, who also was foredoomed
+  To perish that same day by Priam's wall. Swift met the fronts of conflict: all the tribes
+  Of Troy's host, and the battle-biding Greeks,
+  Afire with that new-kindled fury of war. Then through the foe the son of Peleus made
+  Wide havoc: all around the earth was drenched
+  With gore, and choked with corpses were the streams
+  Of Simois and Xanthus. Still he chased,
+  Still slaughtered, even to the city's walls;
+  For panic fell on all the host. And now
+  All had he slain, had dashed the gates to earth,
+  Rending them from their hinges, or the bolts,
+  Hurling himself against them, had he snapped,
+  And for the Danaans into Priam's burg
+  Had made a way, had utterly destroyed
+  That goodly town--but now was Phoebus wroth
+  Against him with grim fury, when he saw
+  Those countless troops of heroes slain of him. Down from Olympus with a lion-leap
+  He came: his quiver on his shoulders lay,
+  And shafts that deal the wounds incurable. Facing Achilles stood he; round him clashed
+  Quiver and arrows; blazed with quenchless flame
+  His eyes, and shook the earth beneath his feet. Then with a terrible shout the great God cried,
+  So to turn back from war Achilles awed
+  By the voice divine, and save from death the Trojans:
+  "Back from the Trojans, Peleus' son! Beseems not
+  That longer thou deal death unto thy foes,
+  Lest an Olympian God abase thy pride." But nothing quailed the hero at the voice
+  Immortal, for that round him even now
+  Hovered the unrelenting Fates. He recked
+  Naught of the God, and shouted his defiance. "Phoebus, why dost thou in mine own despite
+  Stir me to fight with Gods, and wouldst protect
+  The arrogant Trojans? Heretofore hast thou
+  By thy beguiling turned me from the fray,
+  When from destruction thou at the first didst save
+  Hector, whereat the Trojans all through Troy
+  Exulted. Nay, thou get thee back: return
+  Unto the mansion of the Blessed, lest
+  I smite thee--ay, immortal though thou be!" Then on the God he turned his back, and sped
+  After the Trojans fleeing cityward,
+  And harried still their flight; but wroth at heart
+  Thus Phoebus spake to his indignant soul:
+  "Out on this man! he is sense-bereft! But now
+  Not Zeus himself nor any other Power
+  Shall save this madman who defies the Gods!" From mortal sight he vanished into cloud,
+  And cloaked with mist a baleful shaft he shot
+  Which leapt to Achilles' ankle: sudden pangs
+  With mortal sickness made his whole heart faint. He reeled, and like a tower he fell, that falls
+  Smit by a whirlwind when an earthquake cleaves
+  A chasm for rushing blasts from underground;
+  So fell the goodly form of Aeacus' son. He glared, a murderous glance, to right, to left,
+  [Upon the Trojans, and a terrible threat]
+  Shouted, a threat that could not be fulfilled:
+  "Who shot at me a stealthy-smiting shaft? Let him but dare to meet me face to face! So shall his blood and all his bowels gush out
+  About my spear, and he be hellward sped! I know that none can meet me man to man
+  And quell in fight--of earth-born heroes none,
+  Though such an one should bear within his breast
+  A heart unquailing, and have thews of brass. But dastards still in stealthy ambush lurk
+  For lives of heroes. Let him face me then!--
+  Ay! though he be a God whose anger burns
+  Against the Danaans! Yea, mine heart forebodes
+  That this my smiter was Apollo, cloaked
+  In deadly darkness. So in days gone by
+  My mother told me how that by his shafts
+  I was to die before the Scaean Gates
+  A piteous death. Her words were not vain words." Then with unflinching hands from out the wound
+  Incurable he drew the deadly shaft
+  In agonized pain. Forth gushed the blood; his heart
+  Waxed faint beneath the shadow of coming doom. Then in indignant wrath he hurled from him
+  The arrow: a sudden gust of wind swept by,
+  And caught it up, and, even as he trod
+  Zeus' threshold, to Apollo gave it back;
+  For it beseemed not that a shaft divine,
+  Sped forth by an Immortal, should be lost. He unto high Olympus swiftly came,
+  To the great gathering of immortal Gods,
+  Where all assembled watched the war of men,
+  These longing for the Trojans' triumph, those
+  For Danaan victory; so with diverse wills
+  Watched they the strife, the slayers and the slain. Him did the Bride of Zeus behold, and straight
+  Upbraided with exceeding bitter words:
+  "What deed of outrage, Phoebus, hast thou done
+  This day, forgetful of that day whereon
+  To godlike Peleus' spousals gathered all
+  The Immortals? Yea, amidst the feasters thou
+  Sangest how Thetis silver-footed left
+  The sea's abysses to be Peleus' bride;
+  And as thou harpedst all earth's children came
+  To hearken, beasts and birds, high craggy hills,
+  Rivers, and all deep-shadowed forests came. All this hast thou forgotten, and hast wrought
+  A ruthless deed, hast slain a godlike man,
+  Albeit thou with other Gods didst pour
+  The nectar, praying that he might be the son
+  By Thetis given to Peleus. But that prayer
+  Hast thou forgotten, favouring the folk
+  Of tyrannous Laomedon, whose kine
+  Thou keptest. He, a mortal, did despite
+  To thee, the deathless! O, thou art wit-bereft! Thou favourest Troy, thy sufferings all forgot. Thou wretch, and doth thy false heart know not this,
+  What man is an offence, and meriteth
+  Suffering, and who is honoured of the Gods? Ever Achilles showed us reverence--yea,
+  Was of our race. Ha, but the punishment
+  Of Troy, I ween, shall not be lighter, though
+  Aeacus' son have fallen; for his son
+  Right soon shall come from Scyros to the war
+  To help the Argive men, no less in might
+  Than was his sire, a bane to many a foe. But thou--thou for the Trojans dost not care,
+  But for his valour enviedst Peleus' son,
+  Seeing he was the mightest of all men. Thou fool! how wilt thou meet the Nereid's eyes,
+  When she shall stand in Zeus' hall midst the Gods,
+  Who praised thee once, and loved as her own son?" So Hera spake, in bitterness of soul
+  Upbraiding, but he answered her not a word,
+  Of reverence for his mighty Father's bride;
+  Nor could he lift his eyes to meet her eyes,
+  But sat abashed, aloof from all the Gods
+  Eternal, while in unforgiving wrath
+  Scowled on him all the Immortals who maintained
+  The Danaans' cause; but such as fain would bring
+  Triumph to Troy, these with exultant hearts
+  Extolled him, hiding it from Hera's eyes,
+  Before whose wrath all Heaven-abiders shrank. But Peleus' son the while forgat not yet
+  War's fury: still in his invincible limbs
+  The hot blood throbbed, and still he longed for fight. Was none of all the Trojans dared draw nigh
+  The stricken hero, but at distance stood,
+  As round a wounded lion hunters stand
+  Mid forest-brakes afraid, and, though the shaft
+  Stands in his heart, yet faileth not in him
+  His royal courage, but with terrible glare
+  Roll his fierce eyes, and roar his grimly jaws;
+  So wrath and anguish of his deadly hurt
+  To fury stung Peleides' soul; but aye
+  His strength ebbed through the god-envenomed wound. Yet leapt he up, and rushed upon the foe,
+  And flashed the lightning of his lance; it slew
+  The goodly Orythaon, comrade stout
+  Of Hector, through his temples crashing clear:
+  His helm stayed not the long lance fury-sped
+  Which leapt therethrough, and won within the bones
+  The heart of the brain, and spilt his lusty life. Then stabbed he 'neath the brow Hipponous
+  Even to the eye-roots, that the eyeball fell
+  To earth: his soul to Hades flitted forth. Then through the jaw he pierced Alcathous,
+  And shore away his tongue: in dust he fell
+  Gasping his life out, and the spear-head shot
+  Out through his ear. These, as they rushed on him,
+  That hero slew; but many a fleer's life
+  He spilt, for in his heart still leapt the blood. But when his limbs grew chill, and ebbed away
+  His spirit, leaning on his spear he stood,
+  While still the Trojans fled in huddled rout
+  Of panic, and he shouted unto them:
+  "Trojan and Dardan cravens, ye shall not
+  Even in my death, escape my merciless spear,
+  But unto mine Avenging Spirits ye
+  Shall pay--ay, one and all--destruction's debt!" He spake; they heard and quailed: as mid the hills
+  Fawns tremble at a lion's deep-mouthed roar,
+  And terror-stricken flee the monster, so
+  The ranks of Trojan chariot-lords, the lines
+  Of battle-helpers drawn from alien lands,
+  Quailed at the last shout of Achilles, deemed
+  That he was woundless yet. But 'neath the weight
+  Of doom his aweless heart, his mighty limbs,
+  At last were overborne. Down midst the dead
+  He fell, as fails a beetling mountain-cliff. Earth rang beneath him: clanged with a thundercrash
+  His arms, as Peleus' son the princely fell. And still his foes with most exceeding dread
+  Stared at him, even as, when some murderous beast
+  Lies slain by shepherds, tremble still the sheep
+  Eyeing him, as beside the fold he lies,
+  And shrinking, as they pass him, far aloof
+  And, even as he were living, fear him dead;
+  So feared they him, Achilles now no more. Yet Paris strove to kindle those faint hearts;
+  For his own heart exulted, and he hoped,
+  Now Peleus' son, the Danaans' strength, had fallen,
+  Wholly to quench the Argive battle-fire:
+  "Friends, if ye help me truly and loyally,
+  Let us this day die, slain by Argive men,
+  Or live, and hale to Troy with Hector's steeds
+  In triumph Peleus' son thus fallen dead,
+  The steeds that, grieving, yearning for their lord
+  To fight have borne me since my brother died. Might we with these but hale Achilles slain,
+  Glory were this for Hector's horses, yea,
+  For Hector--if in Hades men have sense
+  Of righteous retribution. This man aye
+  Devised but mischief for the sons of Troy;
+  And now Troy's daughters with exultant hearts
+  From all the city streets shall gather round,
+  As pantheresses wroth for stolen cubs,
+  Or lionesses, might stand around a man
+  Whose craft in hunting vexed them while he lived. So round Achilles--a dead corpse at last!--
+  In hurrying throngs Troy's daughters then shall come
+  In unforgiving, unforgetting hate,
+  For parents wroth, for husbands slain, for sons,
+  For noble kinsmen. Most of all shall joy
+  My father, and the ancient men, whose feet
+  Unwillingly are chained within the walls
+  By eld, if we shall hale him through our gates,
+  And give our foe to fowls of the air for meat." Then they, which feared him theretofore, in haste
+  Closed round the corpse of strong-heart Aeacus' son,
+  Glaucus, Aeneas, battle-fain Agenor,
+  And other cunning men in deadly fight,
+  Eager to hale him thence to Ilium
+  The god-built burg. But Aias failed him not. Swiftly that godlike man bestrode the dead:
+  Back from the corpse his long lance thrust them all. Yet ceased they not from onslaught; thronging round,
+  Still with swift rushes fought they for the prize,
+  One following other, like to long-lipped bees
+  Which hover round their hive in swarms on swarms
+  To drive a man thence; but he, recking naught
+  Of all their fury, carveth out the combs
+  Of nectarous honey: harassed sore are they
+  By smoke-reek and the robber; spite of all
+  Ever they dart against him; naught cares he;
+  So naught of all their onsets Aias recked;
+  But first he stabbed Agelaus in the breast,
+  And slew that son of Maion: Thestor next:
+  Ocythous he smote, Agestratus,
+  Aganippus, Zorus, Nessus, Erymas
+  The war-renowned, who came from Lycia-land
+  With mighty-hearted Glaucus, from his home
+  In Melanippion on the mountain-ridge,
+  Athena's fane, which Massikyton fronts
+  Anigh Chelidonia's headland, dreaded sore
+  Of scared seafarers, when its lowering crags
+  Must needs be doubled. For his death the blood
+  Of famed Hippolochus' son was horror-chilled;
+  For this was his dear friend. With one swift thrust
+  He pierced the sevenfold hides of Aias' shield,
+  Yet touched his flesh not; stayed the spear-head was
+  By those thick hides and by the corset-plate
+  Which lapped his battle-tireless limbs. But still
+  From that stern conflict Glaucus drew not back,
+  Burning to vanquish Aias, Aeacus' son,
+  And in his folly vaunting threatened him:
+  "Aias, men name thee mightiest man of all
+  The Argives, hold thee in passing-high esteem
+  Even as Achilles: therefore thou, I wot,
+  By that dead warrior dead this day shalt lie!" So hurled he forth a vain word, knowing not
+  How far in might above him was the man
+  Whom his spear threatened. Battle-bider Aias
+  Darkly and scornfully glaring on him, said
+  "Thou craven wretch, and knowest thou not this,
+  How much was Hector mightier than thou
+  In war-craft? yet before my might, my spear,
+  He shrank. Ay, with his valour was there blent
+  Discretion. Thou thy thoughts are deathward set,
+  Who dar'st defy me to the battle, me,
+  A mightier far than thou! Thou canst not say
+  That friendship of our fathers thee shall screen;
+  Nor me thy gifts shall wile to let thee pass
+  Scatheless from war, as once did Tydeus' son. Though thou didst 'scape his fury, will not I
+  Suffer thee to return alive from war. Ha, in thy many helpers dost thou trust
+  Who with thee, like so many worthless flies,
+  Flit round the noble Achilles' corpse? To these
+  Death and black doom shall my swift onset deal." Then on the Trojans this way and that he turned,
+  As mid long forest-glens a lion turns
+  On hounds, and Trojans many and Lycians slew
+  That came for honour hungry, till he stood
+  Mid a wide ring of flinchers; like a shoal
+  Of darting fish when sails into their midst
+  Dolphin or shark, a huge sea-fosterling;
+  So shrank they from the might of Telamon's son,
+  As aye he charged amidst the rout. But still
+  Swarmed fighters up, till round Achilles' corse
+  To right, to left, lay in the dust the slain
+  Countless, as boars around a lion at bay;
+  And evermore the strife waxed deadlier. Then too Hippolochus' war-wise son was slain
+  By Aias of the heart of fire. He fell
+  Backward upon Achilles, even as falls
+  A sapling on a sturdy mountain-oak;
+  So quelled by the spear on Peleus' son he fell. But for his rescue Anchises' stalwart son
+  Strove hard, with all his comrades battle-fain,
+  And haled the corse forth, and to sorrowing friends
+  Gave it, to bear to Ilium's hallowed burg. Himself to spoil Achilles still fought on,
+  Till warrior Aias pierced him with the spear
+  Through the right forearm. Swiftly leapt he back
+  From murderous war, and hasted thence to Troy. There for his healing cunning leeches wrought,
+  Who stanched the blood-rush, and laid on the gash
+  Balms, such as salve war-stricken warriors' pangs. But Aias still fought on: here, there he slew
+  With thrusts like lightning-flashes. His great heart
+  Ached sorely for his mighty cousin slain. And now the warrior-king Laertes' son
+  Fought at his side: before him blenched the foe,
+  As he smote down Peisander's fleetfoot son,
+  The warrior Maenalus, who left his home
+  In far-renowned Abydos: down on him
+  He hurled Atymnius, the goodly son
+  Whom Pegasis the bright-haired Nymph had borne
+  To strong Emathion by Granicus' stream. Dead by his side he laid Orestius' son,
+  Proteus, who dwelt 'neath lofty Ida's folds. Ah, never did his mother welcome home
+  That son from war, Panaceia beauty-famed! He fell by Odysseus' hands, who spilt the lives
+  Of many more whom his death-hungering spear
+  Reached in that fight around the mighty dead. Yet Alcon, son of Megacles battle-swift,
+  Hard by Odysseus' right knee drave the spear
+  Home, and about the glittering greave the blood
+  Dark-crimson welled. He recked not of the wound,
+  But was unto his smiter sudden death;
+  For clear through his shield he stabbed him with his spear
+  Amidst his battle-fury: to the earth
+  Backward he dashed him by his giant might
+  And strength of hand: clashed round him in the dust
+  His armour, and his corslet was distained
+  With crimson life-blood. Forth from flesh and shield
+  The hero plucked the spear of death: the soul
+  Followed the lance-head from the body forth,
+  And life forsook its mortal mansion. Then
+  Rushed on his comrades, in his wound's despite,
+  Odysseus, nor from that stern battle-toil
+  Refrained him. And by this a mingled host
+  Of Danaans eager-hearted fought around
+  The mighty dead, and many and many a foe
+  Slew they with those smooth-shafted ashen spears. Even as the winds strew down upon the ground
+  The flying leaves, when through the forest-glades
+  Sweep the wild gusts, as waneth autumn-tide,
+  And the old year is dying; so the spears
+  Of dauntless Danaans strewed the earth with slain,
+  For loyal to dead Achilles were they all,
+  And loyal to hero Aias to the death. For like black Doom he blasted the ranks of Troy. Then against Aias Paris strained his bow;
+  But he was ware thereof, and sped a stone
+  Swift to the archer's head: that bolt of death
+  Crashed through his crested helm, and darkness closed
+  Round him. In dust down fell he: naught availed
+  His shafts their eager lord, this way and that
+  Scattered in dust: empty his quiver lay,
+  Flew from his hand the bow. In haste his friends
+  Upcaught him from the earth, and Hector's steeds
+  Hurried him thence to Troy, scarce drawing breath,
+  And moaning in his pain. Nor left his men
+  The weapons of their lord, but gathered up
+  All from the plain, and bare them to the prince;
+  While Aias after him sent a wrathful shout:
+  "Dog, thou hast 'scaped the heavy hand of death
+  To-day! But swiftly thy last hour shall come
+  By some strong Argive's hands, or by mine own,
+  But now have I a nobler task in hand,
+  From murder's grip to rescue Achilles' corse." Then turned he on the foe, hurling swift doom
+  On such as fought around Peleides yet. 'These saw how many yielded up the ghost
+  Neath his strong hands, and, with hearts failing them
+  For fear, against him could they stand no more. As rascal vultures were they, which the swoop
+  Of an eagle, king of birds, scares far away
+  From carcasses of sheep that wolves have torn;
+  So this way, that way scattered they before
+  The hurtling stones, the sword, the might of Aias. In utter panic from the war they fled,
+  In huddled rout, like starlings from the swoop
+  Of a death-dealing hawk, when, fleeing bane,
+  One drives against another, as they dart
+  All terror-huddled in tumultuous flight. So from the war to Priam's burg they fled
+  Wretchedly clad with terror as a cloak,
+  Quailing from mighty Aias' battle-shout,
+  As with hands dripping blood-gouts he pursued. Yea, all, one after other, had he slain,
+  Had they not streamed through city-gates flung wide
+  Hard-panting, pierced to the very heart with fear. Pent therewithin he left them, as a shepherd
+  Leaves folded sheep, and strode back o'er the plain;
+  Yet never touched he with his feet the ground,
+  But aye he trod on dead men, arms, and blood;
+  For countless corpses lay o'er that wide stretch
+  Even from broad-wayed Troy to Hellespont,
+  Bodies of strong men slain, the spoil of Doom. As when the dense stalks of sun-ripened corn
+  Fall 'neath the reapers' hands, and the long swaths,
+  Heavy with full ears, overspread the field,
+  And joys the heart of him who oversees
+  The toil, lord of the harvest; even so,
+  By baleful havoc overmastered, lay
+  All round face-downward men remembering not
+  The death-denouncing war-shout. But the sons
+  Of fair Achaea left their slaughtered foes
+  In dust and blood unstripped of arms awhile
+  Till they should lay upon the pyre the son
+  Of Peleus, who in battle-shock had been
+  Their banner of victory, charging in his might. So the kings drew him from that stricken field
+  Straining beneath the weight of giant limbs,
+  And with all loving care they bore him on,
+  And laid him in his tent before the ships. And round him gathered that great host, and wailed
+  Heart-anguished him who had been the Achaeans' strength,
+  And now, forgotten all the splendour of spears,
+  Lay mid the tents by moaning Hellespont,
+  In stature more than human, even as lay
+  Tityos, who sought to force Queen Leto, when
+  She fared to Pytho: swiftly in his wrath
+  Apollo shot, and laid him low, who seemed
+  Invincible: in a foul lake of gore
+  There lay he, covering many a rood of ground,
+  On the broad earth, his mother; and she moaned
+  Over her son, of blessed Gods abhorred;
+  But Lady Leto laughed. So grand of mould
+  There in the foemen's land lay Aeacus' son,
+  For joy to Trojans, but for endless grief
+  To Achaean men lamenting. Moaned the air
+  With sighing from the abysses of the sea;
+  And passing heavy grew the hearts of all,
+  Thinking: "Now shall we perish by the hands
+  Of Trojans!" Then by those dark ships they thought
+  Of white-haired fathers left in halls afar,
+  Of wives new-wedded, who by couches cold
+  Mourned, waiting, waiting, with their tender babes
+  For husbands unreturning; and they groaned
+  In bitterness of soul. A passion of grief
+  Came o'er their hearts; they fell upon their faces
+  On the deep sand flung down, and wept as men
+  All comfortless round Peleus' mighty son,
+  And clutched and plucked out by the roots their hair,
+  And east upon their heads defiling sand. Their cry was like the cry that goeth up
+  From folk that after battle by their walls
+  Are slaughtered, when their maddened foes set fire
+  To a great city, and slay in heaps on heaps
+  Her people, and make spoil of all her wealth;
+  So wild and high they wailed beside the sea,
+  Because the Danaans' champion, Aeacus' son,
+  Lay, grand in death, by a God's arrow slain,
+  As Ares lay, when She of the Mighty Father
+  With that huge stone down dashed him on Troy's plain. Ceaselessly wailed the Myrmidons Achilles,
+  A ring of mourners round the kingly dead,
+  That kind heart, friend alike to each and all,
+  To no man arrogant nor hard of mood,
+  But ever tempering strength with courtesy. Then Aias first, deep-groaning, uttered forth
+  His yearning o'er his father's brother's son
+  God-stricken--ay, no man had smitten him
+  Of all upon the wide-wayed earth that dwell! Him glorious Aias heavy-hearted mourned,
+  Now wandering to the tent of Peleus' son,
+  Now cast down all his length, a giant form,
+  On the sea-sands; and thus lamented he:
+  "Achilles, shield and sword of Argive men,
+  Thou hast died in Troy, from Phthia's plains afar,
+  Smitten unwares by that accursed shaft,
+  Such thing as weakling dastards aim in fight! For none who trusts in wielding the great shield,
+  None who for war can skill to set the helm
+  Upon his brows, and sway the spear in grip,
+  And cleave the brass about the breasts of foes,
+  Warreth with arrows, shrinking from the fray. Not man to man he met thee, whoso smote;
+  Else woundless never had he 'scaped thy lance! But haply Zeus purposed to ruin all,
+  And maketh all our toil and travail vain--
+  Ay, now will grant the Trojans victory
+  Who from Achaea now hath reft her shield! Ah me! how shall old Peleus in his halls
+  Take up the burden of a mighty grief
+  Now in his joyless age! His heart shall break
+  At the mere rumour of it. Better so,
+  Thus in a moment to forget all pain. But if these evil tidings slay him not,
+  Ah, laden with sore sorrow eld shall come
+  Upon him, eating out his heart with grief
+  By a lone hearth Peleus so passing dear
+  Once to the Blessed! But the Gods vouchsafe
+  No perfect happiness to hapless men." So he in grief lamented Peleus' son. Then ancient Phoenix made heart-stricken moan,
+  Clasping the noble form of Aeacus' seed,
+  And in wild anguish wailed the wise of heart:
+  "Thou art reft from me, dear child, and cureless pain
+  Hast left to me! Oh that upon my face
+  The veiling earth had fallen, ere I saw
+  Thy bitter doom! No pang more terrible
+  Hath ever stabbed mine heart no, not that hour
+  Of exile, when I fled from fatherland
+  And noble parents, fleeing Hellas through,
+  Till Peleus welcomed me with gifts, and lord
+  Of his Dolopians made me. In his arms
+  Thee through his halls one day he bare, and set
+  Upon my knees, and bade me foster thee,
+  His babe, with all love, as mine own dear child:
+  I hearkened to him: blithely didst thou cling
+  About mine heart, and, babbling wordless speech,
+  Didst call me `father' oft, and didst bedew
+  My breast and tunic with thy baby lips. Ofttimes with soul that laughed for glee I held
+  Thee in mine arms; for mine heart whispered me
+  `This fosterling through life shall care for thee,
+  Staff of thine age shall be.' And that mine hope
+  Was for a little while fulfilled; but now
+  Thou hast vanished into darkness, and to me
+  Is left long heart-ache wild with all regret. Ah, might my sorrow slay me, ere the tale
+  To noble Peleus come! When on his ears
+  Falleth the heavy tidings, he shall weep
+  And wail without surcease. Most piteous grief
+  We twain for thy sake shall inherit aye,
+  Thy sire and I, who, ere our day of doom,
+  Mourning shall go down to the grave for thee--
+  Ay, better this than life unholpen of thee!" So moaned his ever-swelling tide of grief. And Atreus' son beside him mourned and wept
+  With heart on fire with inly smouldering pain:
+  "Thou hast perished, chiefest of the Danaan men,
+  Hast perished, and hast left the Achaean host
+  Fenceless! Now thou art fallen, are they left
+  An easier prey to foes. Thou hast given joy
+  To Trojans by thy fall, who dreaded thee
+  As sheep a lion. These with eager hearts
+  Even to the ships will bring the battle now. Zeus, Father, thou too with deceitful words
+  Beguilest mortals! Thou didst promise me
+  That Priam's burg should be destroyed; but now
+  That promise given dost thou not fulfil,
+  But thou didst cheat mine heart: I shall not win
+  The war's goal, now Achilles is no more." So did he cry heart-anguished. Mourned all round
+  Wails multitudinous for Peleus' son:
+  The dark ships echoed back the voice of grief,
+  And sighed and sobbed the immeasurable air. And as when long sea-rollers, onward driven
+  By a great wind, heave up far out at sea,
+  And strandward sweep with terrible rush, and aye
+  Headland and beach with shattered spray are scourged,
+  And roar unceasing; so a dread sound rose
+  Of moaning of the Danaans round the corse,
+  Ceaselessly wailing Peleus' aweless son. And on their mourning soon black night had come,
+  But spake unto Atreides Neleus' son,
+  Nestor, whose own heart bare its load of grief
+  Remembering his own son Antilochus:
+  "O mighty Agamemnon, sceptre-lord
+  Of Argives, from wide-shrilling lamentation
+  Refrain we for this day. None shall withhold
+  Hereafter these from all their heart's desire
+  Of weeping and lamenting many days. But now go to, from aweless Aeacus' son
+  Wash we the foul blood-gouts, and lay we him
+  Upon a couch: unseemly it is to shame
+  The dead by leaving them untended long." So counselled Neleus' son, the passing-wise. Then hasted he his men, and bade them set
+  Caldrons of cold spring-water o'er the flames,
+  And wash the corse, and clothe in vesture fair,
+  Sea-purple, which his mother gave her son
+  At his first sailing against Troy. With speed
+  They did their lord's command: with loving care,
+  All service meetly rendered, on a couch
+  Laid they the mighty fallen, Peleus' son. The Trito-born, the passing-wise, beheld
+  And pitied him, and showered upon his head
+  Ambrosia, which hath virtue aye to keep
+  Taintless, men say, the flesh of warriors slain. Like softly-breathing sleeper dewy-fresh
+  She made him: over that dead face she drew
+  A stern frown, even as when he lay, with wrath
+  Darkening his grim face, clasping his slain friend
+  Patroclus; and she made his frame to be
+  More massive, like a war-god to behold. And wonder seized the Argives, as they thronged
+  And saw the image of a living man,
+  Where all the stately length of Peleus' son
+  Lay on the couch, and seemed as though he slept. Around him all the woeful captive-maids,
+  Whom he had taken for a prey, what time
+  He had ravaged hallowed Lemnos, and had scaled
+  The towered crags of Thebes, Eetion's town,
+  Wailed, as they stood and rent their fair young flesh,
+  And smote their breasts, and from their hearts bemoaned
+  That lord of gentleness and courtesy,
+  Who honoured even the daughters of his foes. And stricken most of all with heart-sick pain
+  Briseis, hero Achilles' couchmate, bowed
+  Over the dead, and tore her fair young flesh
+  With ruthless fingers, shrieking: her soft breast
+  Was ridged with gory weals, so cruelly
+  She smote it thou hadst said that crimson blood
+  Had dripped on milk. Yet, in her griefs despite,
+  Her winsome loveliness shone out, and grace
+  Hung like a veil about her, as she wailed:
+  "Woe for this grief passing all griefs beside! Never on me came anguish like to this
+  Not when my brethren died, my fatherland
+  Was wasted--like this anguish for thy death! Thou wast my day, my sunlight, my sweet life,
+  Mine hope of good, my strong defence from harm,
+  Dearer than all my beauty--yea, more dear
+  Than my lost parents! Thou wast all in all
+  To me, thou only, captive though I be. Thou tookest from me every bondmaid's task
+  And like a wife didst hold me. Ah, but now
+  Me shall some new Achaean master bear
+  To fertile Sparta, or to thirsty Argos. The bitter cup of thraldom shall I drain,
+  Severed, ah me, from thee! Oh that the earth
+  Had veiled my dead face ere I saw thy doom!" So for slain Peleus' son did she lament
+  With woeful handmaids and heart-anguished Greeks,
+  Mourning a king, a husband. Never dried
+  Her tears were: ever to the earth they streamed
+  Like sunless water trickling from a rock
+  While rime and snow yet mantle o'er the earth
+  Above it; yet the frost melts down before
+  The east-wind and the flame-shafts of the sun. Now came the sound of that upringing wail
+  To Nereus' Daughters, dwellers in the depths
+  Unfathomed. With sore anguish all their hearts
+  Were smitten: piteously they moaned: their cry
+  Shivered along the waves of Hellespont. Then with dark mantles overpalled they sped
+  Swiftly to where the Argive men were thronged. As rushed their troop up silver paths of sea,
+  The flood disported round them as they came. With one wild cry they floated up; it rang,
+  A sound as when fleet-flying cranes forebode
+  A great storm. Moaned the monsters of the deep
+  Plaintively round that train of mourners. Fast
+  On sped they to their goal, with awesome cry
+  Wailing the while their sister's mighty son. Swiftly from Helicon the Muses came
+  Heart-burdened with undying grief, for love
+  And honour to the Nereid starry-eyed. Then Zeus with courage filled the Argive men,
+  That-eyes of flesh might undismayed behold
+  That glorious gathering of Goddesses. Then those Divine Ones round Achilles' corse
+  Pealed forth with one voice from immortal lips
+  A lamentation. Rang again the shores
+  Of Hellespont. As rain upon the earth
+  Their tears fell round the dead man, Aeacus' son;
+  For out of depths of sorrow rose their moan. And all the armour, yea, the tents, the ships
+  Of that great sorrowing multitude were wet
+  With tears from ever-welling springs of grief. His mother cast her on him, clasping him,
+  And kissed her son's lips, crying through her tears:
+  "Now let the rosy-vestured Dawn in heaven
+  Exult! Now let broad-flowing Axius
+  Exult, and for Asteropaeus dead
+  Put by his wrath! Let Priam's seed be glad
+  But I unto Olympus will ascend,
+  And at the feet of everlasting Zeus
+  Will cast me, bitterly planning that he gave
+  Me, an unwilling bride, unto a man--
+  A man whom joyless eld soon overtook,
+  To whom the Fates are near, with death for gift. Yet not so much for his lot do I grieve
+  As for Achilles; for Zeus promised me
+  To make him glorious in the Aeacid halls,
+  In recompense for the bridal I so loathed
+  That into wild wind now I changed me, now
+  To water, now in fashion as a bird
+  I was, now as the blast of flame; nor might
+  A mortal win me for his bride, who seemed
+  All shapes in turn that earth and heaven contain,
+  Until the Olympian pledged him to bestow
+  A godlike son on me, a lord of war. Yea, in a manner this did he fulfil
+  Faithfully; for my son was mightiest
+  Of men. But Zeus made brief his span of life
+  Unto my sorrow. Therefore up to heaven
+  Will I: to Zeus's mansion will I go
+  And wail my son, and will put Zeus in mind
+  Of all my travail for him and his sons
+  In their sore stress, and sting his soul with shame." So in her wild lament the Sea-queen cried. But now to Thetis spake Calliope,
+  She in whose heart was steadfast wisdom throned:
+  "From lamentation, Thetis, now forbear,
+  And do not, in the frenzy of thy grief
+  For thy lost son, provoke to wrath the Lord
+  Of Gods and men. Lo, even sons of Zeus,
+  The Thunder-king, have perished, overborne
+  By evil fate. Immortal though I be,
+  Mine own son Orpheus died, whose magic song
+  Drew all the forest-trees to follow him,
+  And every craggy rock and river-stream,
+  And blasts of winds shrill-piping stormy-breathed,
+  And birds that dart through air on rushing wings. Yet I endured mine heavy sorrow: Gods
+  Ought not with anguished grief to vex their souls. Therefore make end of sorrow-stricken wail
+  For thy brave child; for to the sons of earth
+  Minstrels shall chant his glory and his might,
+  By mine and by my sisters' inspiration,
+  Unto the end of time. Let not thy soul
+  Be crushed by dark grief, nor do thou lament
+  Like those frail mortal women. Know'st thou not
+  That round all men which dwell upon the earth
+  Hovereth irresistible deadly Fate,
+  Who recks not even of the Gods? Such power
+  She only hath for heritage. Yea, she
+  Soon shall destroy gold-wealthy Priam's town,
+  And Trojans many and Argives doom to death,
+  Whomso she will. No God can stay her hand." So in her wisdom spake Calliope. Then plunged the sun down into Ocean's stream,
+  And sable-vestured Night came floating up
+  O'er the wide firmament, and brought her boon
+  Of sleep to sorrowing mortals. On the sands
+  There slept they, all the Achaean host, with heads
+  Bowed 'neath the burden of calamity. But upon Thetis sleep laid not his hand:
+  Still with the deathless Nereids by the sea
+  She sate; on either side the Muses spake
+  One after other comfortable words
+  To make that sorrowing heart forget its pain. But when with a triumphant laugh the Dawn
+  Soared up the sky, and her most radiant light
+  Shed over all the Trojans and their king,
+  Then, sorrowing sorely for Achilles still,
+  The Danaans woke to weep. Day after day,
+  For many days they wept. Around them moaned
+  Far-stretching beaches of the sea, and mourned
+  Great Nereus for his daughter Thetis' sake;
+  And mourned with him the other Sea-gods all
+  For dead Achilles. Then the Argives gave
+  The corpse of great Peleides to the flame. A pyre of countless tree-trunks built they up
+  Which, all with one mind toiling, from the heights
+  Of Ida they brought down; for Atreus' sons
+  Sped on the work, and charged them to bring thence
+  Wood without measure, that consumed with speed
+  Might be Achilles' body. All around
+  Piled they about the pyre much battle-gear
+  Of strong men slain; and slew and cast thereon
+  Full many goodly sons of Trojan men,
+  And snorting steeds, and mighty bulls withal,
+  And sheep and fatling swine thereon they cast. And wailing captive maids from coffers brought
+  Mantles untold; all cast they on the pyre:
+  Gold heaped they there and amber. All their hair
+  The Myrmidons shore, and shrouded with the same
+  The body of their king. Briseis laid
+  Her own shorn tresses on the corpse, her gift,
+  Her last, unto her lord. Great jars of oil
+  Full many poured they out thereon, with jars
+  Of honey and of wine, rich blood of the grape
+  That breathed an odour as of nectar, yea,
+  Cast incense-breathing perfumes manifold
+  Marvellous sweet, the precious things put forth
+  By earth, and treasures of the sea divine. Then, when all things were set in readiness
+  About the pyre, all, footmen, charioteers,
+  Compassed that woeful bale, clashing their arms,
+  While, from the viewless heights Olympian, Zeus
+  Rained down ambrosia on dead Aeacus' son. For honour to the Goddess, Nereus' child,
+  He sent to Aeolus Hermes, bidding him
+  Summon the sacred might of his swift winds,
+  For that the corpse of Aeacus' son must now
+  Be burned. With speed he went, and Aeolus
+  Refused not: the tempestuous North in haste
+  He summoned, and the wild blast of the West;
+  And to Troy sped they on their whirlwind wings. Fast in mad onrush, fast across the deep
+  They darted; roared beneath them as they flew
+  The sea, the land; above crashed thunder-voiced
+  Clouds headlong hurtling through the firmament. Then by decree of Zeus down on the pyre
+  Of slain Achilles, like a charging host
+  Swooped they; upleapt the Fire-god's madding breath:
+  Uprose a long wail from the Myrmidons. Then, though with whirlwind rushes toiled the winds,
+  All day, all night, they needs must fan the flames
+  Ere that death-pyre burned out. Up to the heavens
+  Vast-volumed rolled the smoke. The huge tree-trunks
+  Groaned, writhing, bursting, in the heat, and dropped
+  The dark-grey ash all round. So when the winds
+  Had tirelessly fulfilled their mighty task,
+  Back to their cave they rode cloud-charioted. Then, when the fire had last of all consumed
+  That hero-king, when all the steeds, the men
+  Slain round the pyre had first been ravined up,
+  With all the costly offerings laid around
+  The mighty dead by Achaia's weeping sons,
+  The glowing embers did the Myrmidons quench
+  With wine. Then clear to be discerned were seen
+  His bones; for nowise like the rest were they,
+  But like an ancient Giant's; none beside
+  With these were blent; for bulls and steeds, and sons
+  Of Troy, with all that mingled hecatomb,
+  Lay in a wide ring round his corse, and he
+  Amidst them, flame-devoured, lay there alone. So his companions groaning gathered up
+  His bones, and in a silver casket laid
+  Massy and deep, and banded and bestarred
+  With flashing gold; and Nereus' daughters shed
+  Ambrosia over them, and precious nards
+  For honour to Achilles: fat of kine
+  And amber honey poured they over all. A golden vase his mother gave, the gift
+  In old time of the Wine-god, glorious work
+  Of the craft-master Fire-god, in the which
+  They laid the casket that enclosed the bones
+  Of mighty-souled Achilles. All around
+  The Argives heaped a barrow, a giant sign,
+  Upon a foreland's uttermost end, beside
+  The Hellespont's deep waters, wailing loud
+  Farewells unto the Myrmidons' hero-king. Nor stayed the immortal steeds of Aeacus' son
+  Tearless beside the ships; they also mourned
+  Their slain king: sorely loth were they to abide
+  Longer mid mortal men or Argive steeds
+  Bearing a burden of consuming grief;
+  But fain were they to soar through air, afar
+  From wretched men, over the Ocean's streams,
+  Over the Sea-queen's caverns, unto where
+  Divine Podarge bare that storm-foot twain
+  Begotten of the West-wind clarion-voiced
+  Yea, and they had accomplished their desire,
+  But the Gods' purpose held them back, until
+  From Scyros' isle Achilles' fleetfoot son
+  Should come. Him waited they to welcome, when
+  He came unto the war-host; for the Fates,
+  Daughters of holy Chaos, at their birth
+  Had spun the life-threads of those deathless foals,
+  Even to serve Poseidon first, and next
+  Peleus the dauntless king, Achilles then
+  The invincible, and, after these, the fourth,
+  The mighty-hearted Neoptolemus,
+  Whom after death to the Elysian Plain
+  They were to bear, unto the Blessed Land,
+  By Zeus' decree. For which cause, though their hearts
+  Were pierced with bitter anguish, they abode
+  Still by the ships, with spirits sorrowing
+  For their old lord, and yearning for the new. Then from the surge of heavy-plunging seas
+  Rose the Earth-shaker. No man saw his feet
+  Pace up the strand, but suddenly he stood
+  Beside the Nereid Goddesses, and spake
+  To Thetis, yet for Achilles bowed with grief:
+  "Refrain from endless mourning for thy son. Not with the dead shall he abide, but dwell
+  With Gods, as doth the might of Herakles,
+  And Dionysus ever fair. Not him
+  Dread doom shall prison in darkness evermore,
+  Nor Hades keep him. To the light of Zeus
+  Soon shall he rise; and I will give to him
+  A holy island for my gift: it lies
+  Within the Euxine Sea: there evermore
+  A God thy son shall be. The tribes that dwell
+  Around shall as mine own self honour him
+  With incense and with steam of sacrifice. Hush thy laments, vex not thine heart with grief." Then like a wind-breath had he passed away
+  Over the sea, when that consoling word
+  Was spoken; and a little in her breast
+  Revived the spirit of Thetis: and the God
+  Brought this to pass thereafter. All the host
+  Moved moaning thence, and came unto the ships
+  That brought them o'er from Hellas. Then returned
+  To Helicon the Muses: 'neath the sea,
+  Wailing the dear dead, Nereus' Daughters sank,
+
+
+
+BOOK IV
+
+How in the Funeral Games of Achilles heroes contended. Nor did the hapless Trojans leave unwept
+  The warrior-king Hippolochus' hero-son,
+  But laid, in front of the Dardanian gate,
+  Upon the pyre that captain war-renowned. But him Apollo's self caught swiftly up
+  Out of the blazing fire, and to the winds
+  Gave him, to bear away to Lycia-land;
+  And fast and far they bare him, 'neath the glens
+  Of high Telandrus, to a lovely glade;
+  And for a monument above his grave
+  Upheaved a granite rock. The Nymphs therefrom
+  Made gush the hallowed water of a stream
+  For ever flowing, which the tribes of men
+  Still call fair-fleeting Glaucus. This the gods
+  Wrought for an honour to the Lycian king. But for Achilles still the Argives mourned
+  Beside the swift ships: heart-sick were they all
+  With dolorous pain and grief. Each yearned for him
+  As for a son; no eye in that wide host
+  Was tearless. But the Trojans with great joy
+  Exulted, seeing their sorrow from afar,
+  And the great fire that spake their foe consumed. And thus a vaunting voice amidst them cried:
+  "Now hath Cronion from his heaven vouchsafed
+  A joy past hope unto our longing eyes,
+  To see Achilles fallen before Troy. Now he is smitten down, the glorious hosts
+  Of Troy, I trow, shall win a breathing-space
+  From blood of death and from the murderous fray. Ever his heart devised the Trojans' bane;
+  In his hands maddened aye the spear of doom
+  With gore besprent, and none of us that faced
+  Him in the fight beheld another dawn. But now, I wot, Achaea's valorous sons
+  Shall flee unto their galleys shapely-prowed,
+  Since slain Achilles lies. Ah that the might
+  Of Hector still were here, that he might slay
+  The Argives one and all amidst their tents!" So in unbridled joy a Trojan cried;
+  But one more wise and prudent answered him:
+  "Thou deemest that yon murderous Danaan host
+  Will straightway get them to the ships, to flee
+  Over the misty sea. Nay, still their lust
+  Is hot for fight: us will they nowise fear,
+  Still are there left strong battle-eager men,
+  As Aias, as Tydeides, Atreus' sons:
+  Though dead Achilles be, I still fear these. Oh that Apollo Silverbow would end them! Then in that day were given to our prayers
+  A breathing-space from war and ghastly death." In heaven was dole among the Immortal Ones,
+  Even all that helped the stalwart Danaans' cause. In clouds like mountains piled they veiled their heads
+  For grief of soul. But glad those others were
+  Who fain would speed Troy to a happy goal. Then unto Cronos' Son great Hera spake:
+  "Zeus, Lightning-father, wherefore helpest thou
+  Troy, all forgetful of the fair-haired bride
+  Whom once to Peleus thou didst give to wife
+  Midst Pelion's glens? Thyself didst bring to pass
+  Those spousals of a Goddess: on that day
+  All we Immortals feasted there, and gave
+  Gifts passing-fair. All this dost thou forget,
+  And hast devised for Hellas heaviest woe." So spake she; but Zeus answered not a word;
+  For pondering there he sat with burdened breast,
+  Thinking how soon the Argives should destroy
+  The city of Priam, thinking how himself
+  Would visit on the victors ruin dread
+  In war and on the great sea thunder-voiced. Such thoughts were his, ere long to be fulfilled. Now sank the sun to Ocean's fathomless flood:
+  O'er the dim land the infinite darkness stole,
+  Wherein men gain a little rest from toil. Then by the ships, despite their sorrow, supped
+  The Argives, for ye cannot thrust aside
+  Hunger's importunate craving, when it comes
+  Upon the breast, but straightway heavy and faint
+  Lithe limbs become; nor is there remedy
+  Until one satisfy this clamorous guest
+  Therefore these ate the meat of eventide
+  In grief for Achilles' hard necessity
+  Constrained them all. And, when they had broken bread,
+  Sweet sleep came on them, loosening from their frames
+  Care's heavy chain, and quickening strength anew
+
+  But when the starry Bears had eastward turned
+  Their heads, expectant of the uprushing light
+  Of Helios, and when woke the Queen of Dawn,
+  Then rose from sleep the stalwart Argive men
+  Purposing for the Trojans death and doom. Stirred were they like the roughly-ridging sea
+  Icarian, or as sudden-rippling corn
+  In harvest field, what time the rushing wings
+  Of the cloud-gathering West sweep over it;
+  So upon Hellespont's strand the folk were stirred. And to those eager hearts cried Tydeus' son:
+  "If we be battle-biders, friends, indeed,
+  More fiercely fight we now the hated foe,
+  Lest they take heart because Achilles lives
+  No longer. Come, with armour, car, and steed
+  Let us beset them. Glory waits our toil?" But battle-eager Aias answering spake
+  "Brave be thy words, and nowise idle talk,
+  Kindling the dauntless Argive men, whose hearts
+  Before were battle-eager, to the fight
+  Against the Trojan men, O Tydeus' son. But we must needs abide amidst the ships
+  Till Goddess Thetis come forth of the sea;
+  For that her heart is purposed to set here
+  Fair athlete-prizes for the funeral-games. This yesterday she told me, ere she plunged
+  Into sea-depths, yea, spake to me apart
+  From other Danaans; and, I trow, by this
+  Her haste hath brought her nigh. Yon Trojan men,
+  Though Peleus' son hath died, shall have small heart
+  For battle, while myself am yet alive,
+  And thou, and noble Atreus' son, the king." So spake the mighty son of Telamon,
+  But knew not that a dark and bitter doom
+  For him should follow hard upon those games
+  By Fate's contrivance. Answered Tydeus' son
+  "O friend, if Thetis comes indeed this day
+  With goodly gifts for her son's funeral-games,
+  Then bide we by the ships, and keep we here
+  All others. Meet it is to do the will
+  Of the Immortals: yea, to Achilles too,
+  Though the Immortals willed it not, ourselves
+  Must render honour grateful to the dead." So spake the battle-eager Tydeus' son. And lo, the Bride of Peleus gliding came
+  Forth of the sea, like the still breath of dawn,
+  And suddenly was with the Argive throng
+  Where eager-faced they waited, some, that looked
+  Soon to contend in that great athlete-strife,
+  And some, to joy in seeing the mighty strive. Amidst that gathering Thetis sable-stoled
+  Set down her prizes, and she summoned forth
+  Achaea's champions: at her best they came. But first amidst them all rose Neleus' son,
+  Not as desiring in the strife of fists
+  To toil, nor strain of wrestling; for his arms
+  And all his sinews were with grievous eld
+  Outworn, but still his heart and brain were strong. Of all the Achaeans none could match himself
+  Against him in the folkmote's war of words;
+  Yea, even Laertes' glorious son to him
+  Ever gave place when men for speech were met;
+  Nor he alone, but even the kingliest
+  Of Argives, Agamemnon, lord of spears. Now in their midst he sang the gracious Queen
+  Of Nereids, sang how she in willsomeness
+  Of beauty was of all the Sea-maids chief. Well-pleased she hearkened. Yet again he sang,
+  Singing of Peleus' Bridal of Delight,
+  Which all the blest Immortals brought to pass
+  By Pelion's crests; sang of the ambrosial feast
+  When the swift Hours brought in immortal hands
+  Meats not of earth, and heaped in golden maunds;
+  Sang how the silver tables were set forth
+  In haste by Themis blithely laughing; sang
+  How breathed Hephaestus purest flame of fire;
+  Sang how the Nymphs in golden chalices
+  Mingled ambrosia; sang the ravishing dance
+  Twined by the Graces' feet; sang of the chant
+  The Muses raised, and how its spell enthralled
+  All mountains, rivers, all the forest brood;
+  How raptured was the infinite firmament,
+  Cheiron's fair caverns, yea, the very Gods. Such noble strain did Neleus' son pour out
+  Into the Argives' eager ears; and they
+  Hearkened with ravished souls. Then in their midst
+  He sang once more the imperishable deeds
+  Of princely Achilles. All the mighty throng
+  Acclaimed him with delight. From that beginning
+  With fitly chosen words did he extol
+  The glorious hero; how he voyaged and smote
+  Twelve cities; how he marched o'er leagues on leagues
+  Of land, and spoiled eleven; how he slew
+  Telephus and Eetion's might renowned
+  In Thebe; how his spear laid Cyenus low,
+  Poseidon's son, and godlike Polydorus,
+  Troilus the goodly, princely Asteropaeus;
+  And how he dyed with blood the river-streams
+  Of Xanthus, and with countless corpses choked
+  His murmuring flow, when from the limbs he tore
+  Lycaon's life beside the sounding river;
+  And how he smote down Hector; how he slew
+  Penthesileia, and the godlike son
+  Of splendour-throned Dawn;--all this he sang
+  To Argives which already knew the tale;
+  Sang of his giant mould, how no man's strength
+  In fight could stand against him, nor in games
+  Where strong men strive for mastery, where the swift
+  Contend with flying feet or hurrying wheels
+  Of chariots, nor in combat panoplied;
+  And how in goodlihead he far outshone
+  All Danaans, and how his bodily might
+  Was measureless in the stormy clash of war. Last, he prayed Heaven that he might see a son
+  Like that great sire from sea-washed Scyros come. That noble song acclaiming Argives praised;
+  Yea, silver-looted Thetis smiled, and gave
+  The singer fleetfoot horses, given of old
+  Beside Caicus' mouth by Telephus
+  To Achilles, when he healed the torturing wound
+  With that same spear wherewith himself had pierced
+  Telephus' thigh, and thrust the point clear through. These Nestor Neleus' son to his comrades gave,
+  And, glorying in their godlike lord, they led
+  The steeds unto his ships. Then Thetis set
+  Amidst the athlete-ring ten kine, to be
+  Her prizes for the footrace, and by each
+  Ran a fair suckling calf. These the bold might
+  Of Peleus' tireless son had driven down
+  From slopes of Ida, prizes of his spear. To strive for these rose up two victory-fain,
+  Teucer the first, the son of Telamon,
+  And Aias, of the Locrian archers chief. These twain with swift hands girded them about
+  With loin-cloths, reverencing the Goddess-bride
+  Of Peleus, and the Sea-maids, who with her
+  Came to behold the Argives' athlete-sport. And Atreus' son, lord of all Argive men,
+  Showed them the turning-goal of that swift course. Then these the Queen of Rivalry spurred on,
+  As from the starting-line like falcons swift
+  They sped away. Long doubtful was the race:
+  Now, as the Argives gazed, would Aias' friends
+  Shout, now rang out the answering cheer from friends
+  Of Teucer. But when in their eager speed
+  Close on the end they were, then Teucer's feet
+  Were trammelled by unearthly powers: some god
+  Or demon dashed his foot against the stock
+  Of a deep-rooted tamarisk. Sorely wrenched
+  Was his left ankle: round the joint upswelled
+  The veins high-ridged. A great shout rang from all
+  That watched the contest. Aias darted past
+  Exultant: ran his Locrian folk to hail
+  Their lord, with sudden joy in all their souls. Then to his ships they drave the kine, and cast
+  Fodder before them. Eager-helpful friends
+  Led Teucer halting thence. The leeches drew
+  Blood from his foot: then over it they laid
+  Soft-shredded linen ointment-smeared, and swathed
+  With smooth bands round, and charmed away the pain. Then swiftly rose two mighty-hearted ones
+  Eager to match their strength in wrestling strain,
+  The son of Tydeus and the giant Aias. Into the midst they strode, and marvelling gazed
+  The Argives on men shapen like to gods. Then grappled they, like lions famine-stung
+  Fighting amidst the mountains o'er a stag,
+  Whose strength is even-balanced; no whit less
+  Is one than other in their deadly rage;
+  So these long time in might were even-matched,
+  Till Aias locked his strong hands round the son
+  Of Tydeus, straining hard to break his back;
+  But he, with wrestling-craft and strength combined,
+  Shifted his hip 'neath Telamon's son, and heaved
+  The giant up; with a side-twist wrenched free
+  From Aias' ankle-lock his thigh, and so
+  With one huge shoulder-heave to earth he threw
+  That mighty champion, and himself came down
+  Astride him: then a mighty shout went up. But battle-stormer Aias, chafed in mind,
+  Sprang up, hot-eager to essay again
+  That grim encounter. From his terrible hands
+  He dashed the dust, and challenged furiously
+  With a great voice Tydeides: not a whit
+  That other quailed, but rushed to close with him. Rolled up the dust in clouds from 'neath their feet:
+  Hurtling they met like battling mountain-bulls
+  That clash to prove their dauntless strength, and spurn
+  The dust, while with their roaring all the hills
+  Re-echo: in their desperate fury these
+  Dash their strong heads together, straining long
+  Against each other with their massive strength,
+  Hard-panting in the fierce rage of their strife,
+  While from their mouths drip foam-flakes to the ground;
+  So strained they twain with grapple of brawny hands. 'Neath that hard grip their backs and sinewy necks
+  Cracked, even as when in mountain-glades the trees
+  Dash storm-tormented boughs together. Oft
+  Tydeides clutched at Aias' brawny thighs,
+  But could not stir his steadfast-rooted feet. Oft Aias hurled his whole weight on him, bowed
+  His shoulders backward, strove to press him down;
+  And to new grips their hands were shifting aye. All round the gazing people shouted, some
+  Cheering on glorious Tydeus' son, and some
+  The might of Aias. Then the giant swung
+  The shoulders of his foe to right, to left;
+  Then gripped him 'neath the waist; with one fierce heave
+  And giant effort hurled him like a stone
+  To earth. The floor of Troyland rang again
+  As fell Tydeides: shouted all the folk. Yet leapt he up all eager to contend
+  With giant Aias for the third last fall:
+  But Nestor rose and spake unto the twain:
+  "From grapple of wrestling, noble sons, forbear;
+  For all we know that ye be mightiest
+  Of Argives since the great Achilles died." Then these from toil refrained, and from their brows
+  Wiped with their hands the plenteous-streaming sweat:
+  They kissed each other, and forgat their strife. Then Thetis, queen of Goddesses, gave to them
+  Four handmaids; and those strong and aweless ones
+  Marvelled beholding them, for these surpassed
+  All captive-maids in beauty and household-skill,
+  Save only lovely-tressed Briseis. These
+  Achilles captive brought from Lesbos' Isle,
+  And in their service joyed. The first was made
+  Stewardess of the feast and lady of meats;
+  The second to the feasters poured the wine;
+  The third shed water on their hands thereafter;
+  The fourth bare all away, the banquet done. These Tydeus' son and giant Aias shared,
+  And, parted two and two, unto their ships
+  Sent they those fair and serviceable ones. Next, for the play of fists Idomeneus rose,
+  For cunning was he in all athlete-lore;
+  But none came forth to meet him, yielding all
+  To him, the elder-born, with reverent awe. So in their midst gave Thetis unto him
+  A chariot and fleet steeds, which theretofore
+  Mighty Patroclus from the ranks of Troy
+  Drave, when he slew Sarpedon, seed of Zeus,
+  These to his henchmen gave Idomeneus
+  To drive unto the ships: himself remained
+  Still sitting in the glorious athlete-ring. Then Phoenix to the stalwart Argives cried:
+  "Now to Idomeneus the Gods have given
+  A fair prize uncontested, free of toil
+  Of mighty arms and shoulders, honouring
+  The elder-born with bloodless victory. But lo, ye younger men, another prize
+  Awaiteth the swift play of cunning hands. Step forth then: gladden great Peleides' soul." He spake, they heard; but each on other looked,
+  And, loth to essay the contest, all sat still,
+  Till Neleus' son rebuked those laggard souls:
+  "Friends, it were shame that men should shun the play
+  Of clenched hands, who in that noble sport
+  Have skill, wherein young men delight, which links
+  Glory to toil. Ah that my thews were strong
+  As when we held King Pelias' funeral-feast,
+  I and Acastus, kinsmen joining hands,
+  When I with godlike Polydeuces stood
+  In gauntlet-strife, in even-balanced fray,
+  And when Ancaeus in the wrestlers' ring
+  Mightier than all beside, yet feared and shrank
+  From me, and dared not strive with me that day,
+  For that ere then amidst the Epeian men--
+  No battle-blenchers they!--I had vanquished him,
+  For all his might, and dashed him to the dust
+  By dead Amaryncus' tomb, and thousands round
+  Sat marvelling at my prowess and my strength. Therefore against me not a second time
+  Raised he his hands, strong wrestler though he were;
+  And so I won an uncontested prize. But now old age is on me, and many griefs. Therefore I bid you, whom it well beseems,
+  To win the prize; for glory crowns the youth
+  Who bears away the meed of athlete-strife." Stirred by his gallant chiding, a brave man
+  Rose, son of haughty godlike Panopeus,
+  The man who framed the Horse, the bane of Troy,
+  Not long thereafter. None dared meet him now
+  In play of fists, albeit in deadly craft
+  Of war, when Ares rusheth through the field,
+  He was not cunning. But for strife of hands
+  The fair prize uncontested had been won
+  By stout Epeius--yea, he was at point
+  To bear it thence unto the Achaean ships;
+  But one strode forth to meet him, Theseus' son,
+  The spearman Acamas, the mighty of heart,
+  Bearing already on his swift hands girt
+  The hard hide-gauntlets, which Evenor's son
+  Agelaus on his prince's hands had drawn
+  With courage-kindling words. The comrades then
+  Of Panopeus' princely son for Epeius raised
+  A heartening cheer. He like a lion stood
+  Forth in the midst, his strong hands gauntleted
+  With bull's hide hard as horn. Loud rang the cheers
+  From side to side of that great throng, to fire
+  The courage of the mighty ones to clash
+  Hands in the gory play. Sooth, little spur
+  Needed they for their eagerness for fight. But, ere they closed, they flashed out proving blows
+  To wot if still, as theretofore, their arms
+  Were limber and lithe, unclogged by toil of war;
+  Then faced each other, and upraised their hands
+  With ever-watching eyes, and short quick steps
+  A-tiptoe, and with ever-shifting feet,
+  Each still eluding other's crushing might. Then with a rush they closed like thunder-clouds
+  Hurled on each other by the tempest-blast,
+  Flashing forth lightnings, while the welkin thrills
+  As clash the clouds and hollow roar the winds;
+  So 'neath the hard hide-gauntlets clashed their jaws. Down streamed the blood, and from their brows the sweat
+  Blood-streaked made on the flushed cheeks crimson bars. Fierce without pause they fought, and never flagged
+  Epeius, but threw all his stormy strength
+  Into his onrush. Yet did Theseus' son
+  Never lose heart, but baffled the straight blows
+  Of those strong hands, and by his fighting-craft
+  Flinging them right and left, leapt in, brought home
+  A blow to his eyebrow, cutting to the bone. Even then with counter-stroke Epeius reached
+  Acamas' temple, and hurled him to the ground. Swift he sprang up, and on his stalwart foe
+  Rushed, smote his head: as he rushed in again,
+  The other, slightly swerving, sent his left
+  Clean to his brow; his right, with all his might
+  Behind it, to his nose. Yet Acamas still
+  Warded and struck with all the manifold shifts
+  Of fighting-craft. But now the Achaeans all
+  Bade stop the fight, though eager still were both
+  To strive for coveted victory. Then came
+  Their henchmen, and the gory gauntlets loosed
+  In haste from those strong hands. Now drew they breath
+  From that great labour, as they bathed their brows
+  With sponges myriad-pored. Comrades and friends
+  With pleading words then drew them face to face,
+  And prayed, "In friendship straight forget your wrath." So to their comrades' suasion hearkened they;
+  For wise men ever bear a placable mind. They kissed each other, and their hearts forgat
+  That bitter strife. Then Thetis sable-stoled
+  Gave to their glad hands two great silver bowls
+  The which Euneus, Jason's warrior son
+  In sea-washed Lemnos to Achilles gave
+  To ransom strong Lycaon from his hands. These had Hephaestus fashioned for his gift
+  To glorious Dionysus, when he brought
+  His bride divine to Olympus, Minos' child
+  Far-famous, whom in sea-washed Dia's isle
+  Theseus unwitting left. The Wine-god brimmed
+  With nectar these, and gave them to his son;
+  And Thoas at his death to Hypsipyle
+  With great possessions left them. She bequeathed
+  The bowls to her godlike son, who gave them up
+  Unto Achilles for Lycaon's life. The one the son of lordly Theseus took,
+  And goodly Epeius sent to his ship with joy
+  The other. Then their bruises and their scars
+  Did Podaleirius tend with loving care. First pressed he out black humours, then his hands
+  Deftly knit up the gashes: salves he laid
+  Thereover, given him by his sire of old,
+  Such as had virtue in one day to heal
+  The deadliest hurts, yea, seeming-cureless wounds. Straight was the smart assuaged, and healed the scars
+  Upon their brows and 'neath their clustering hair
+
+  Then for the archery-test Oileus' son
+  Stood forth with Teucer, they which in the race
+  Erewhile contended. Far away from these
+  Agamemnon, lord of spears, set up a helm
+  Crested with plumes, and spake: "The master-shot
+  Is that which shears the hair-crest clean away." Then straightway Aias shot his arrow first,
+  And smote the helm-ridge: sharply rang the brass. Then Teucer second with most earnest heed
+  Shot: the swift shaft hath shorn the plume away. Loud shouted all the people as they gazed,
+  And praised him without stint, for still his foot
+  Halted in pain, yet nowise marred his aim
+  When with his hands he sped the flying shaft. Then Peleus' bride gave unto him the arms
+  Of godlike Troilus, the goodliest
+  Of all fair sons whom Hecuba had borne
+  In hallowed Troy; yet of his goodlihead
+  No joy she had; the prowess and the spear
+  Of fell Achilles reft his life from him. As when a gardener with new-whetted scythe
+  Mows down, ere it may seed, a blade of corn
+  Or poppy, in a garden dewy-fresh
+  And blossom-flushed, which by a water-course
+  Crowdeth its blooms--mows it ere it may reach
+  Its goal of bringing offspring to the birth,
+  And with his scythe-sweep makes its life-work vain
+  And barren of all issue, nevermore
+  Now to be fostered by the dews of spring;
+  So did Peleides cut down Priam's son
+  The god-like beautiful, the beardless yet
+  And virgin of a bride, almost a child! Yet the Destroyer Fate had lured him on
+  To war, upon the threshold of glad youth,
+  When youth is bold, and the heart feels no void. Forthwith a bar of iron massy and long
+  From the swift-speeding hand did many essay
+  To hurl; but not an Argive could prevail
+  To cast that ponderous mass. Aias alone
+  Sped it from his strong hand, as in the time
+  Of harvest might a reaper fling from him
+  A dry oak-bough, when all the fields are parched. And all men marvelled to behold how far
+  Flew from his hand the bronze which scarce two men
+  Hard-straining had uplifted from the ground. Even this Antaeus' might was wont to hurl
+  Erstwhile, ere the strong hands of Hercules
+  O'ermastered him. This, with much spoil beside,
+  Hercules took, and kept it to make sport
+  For his invincible hand; but afterward
+  Gave it to valiant Peleus, who with him
+  Had smitten fair-towered Ilium's burg renowned;
+  And he to Achilles gave it, whose swift ships
+  Bare it to Troy, to put him aye in mind
+  Of his own father, as with eager will
+  He fought with stalwart Trojans, and to be
+  A worthy test wherewith to prove his strength. Even this did Aias from his brawny hand
+  Fling far. So then the Nereid gave to him
+  The glorious arms from godlike Memnon stripped. Marvelling the Argives gazed on them: they were
+  A giant's war-gear. 

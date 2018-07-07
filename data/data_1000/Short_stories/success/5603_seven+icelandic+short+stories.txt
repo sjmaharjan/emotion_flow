@@ -1,0 +1,1334 @@
+
+
+
+
+Produced by Nicole Apostola, Charles Franks and the Online
+Distributed Proofreading Team. SEVEN ICELANDIC SHORT STORIES
+
+REYKJAVIK
+
+THE MINISTRY OF EDUCATION
+
+
+
+
+CONTENTS
+
+INTRODUCTION BY STEINGRIMUR J. PORSTEINSSON
+
+ANONYMOUS (13TH CENTURY)
+THE STORY OF AUDUNN AND THE BEAR
+TRANSLATED BY G. TURVILLE-PEIRE
+
+EINAR H. KVARAN
+A DRY SPELL (1905)
+TRANSLATED BY JAKOBINA JOHNSON
+
+GUEthMUNDUR FRIEthJONSSON
+THE OLD HAY (1909)
+TRANSLATED BY MEKKIN SVEINSON PERKINS
+
+JON TRAUSTI
+WHEN I WAS ON THE FRIGATE (1910)
+TRANSLATED BY ARNOLD R. TAYLOR
+
+GUNNAR GUNNARSSON
+FATHER AND SON (1916)
+TRANSLATED BY PETER FOOTE
+
+GUEthMUNDUR G. HAGALIN
+THE FOX SKIN (1923)
+TRANSLATED BY MEKKIN SVEINSON PERKINS
+
+HALLDOR KILJAN LAXNESS
+NEW ICELAND (1927)
+TRANSLATED BY AXEL EYBERG AND JOHN WATKINS
+
+
+
+
+INTRODUCTION
+
+I
+
+
+Of the seven Icelandic short stories which appear here, the first
+was probably written early in the thirteenth century, while the rest
+all date from the early twentieth century. It might therefore be
+supposed that the earliest of these stories was written in a
+language more or less unintelligible to modern Icelanders, and that
+there was a gap of many centuries in the literary production of the
+nation. This, however, is not the case. The Norsemen who colonized Iceland in the last quarter of the ninth
+century brought with than the language then spoken throughout the
+whole of Scandinavia. This ancestor of the modern Scandinavian
+tongues has been preserved in Iceland so little changed that every
+Icelander still understands, without the aid of explanatory
+commentaries, the oldest preserved prose written in their country
+850 years ago. The principal reasons for this were probably limited
+communications between Iceland and other countries, frequent
+migrations inside the island, and, not least important, a long and
+uninterrupted literary tradition. As a consequence, Icelandic has
+not developed any dialects in the ordinary sense. It is to their language and literature, as well as to the island
+separateness of their country, that the 175 thousand inhabitants of
+this North-Atlantic state of a little more than a hundred thousand
+square kilometres owe their existence as an independent and separate
+nation. The Icelanders established a democratic legislative assembly, the
+Althingi (Alþingi) in 930 A.D., and in the year 1000 embraced
+Christianity. Hence there soon arose the necessity of writing down
+the law and translations of sacred works. Such matter, along with
+historical knowledge, may well have constituted the earliest
+writings in Icelandic, probably dating as far back as the eleventh
+century, while the oldest preserved texts were composed early in the
+twelfth century. This was the beginning of the so-called saga-
+writing. The important thing was that most of what was written down
+was in the vernacular, Latin being used but sparingly. Thus a
+literary style was evolved which soon reached a high standard. This
+style, so forceful in its perspicuity, was effectively simple, yet
+rich in the variety of its classical structure. There were different categories of sagas. Among the most important
+were the sagas of the Norwegian kings and the family sagas. The
+latter tell us about the first generations of native Icelanders. They are all anonymous and the majority of them were written in the
+thirteenth century. Most of them contain a more or less historical
+core. Above all, however, they are fine literature, at times
+realistic, whose excellence is clearly seen in their descriptions of
+events and character, their dialogue and structure. Most of them are
+in fact in the nature of historical novels. The Viking view of life
+pervading them is characteristically heroic, but with frequent
+traces of the influence of Christian writing. Besides these there were short stories (þaettir) about Icelanders,
+of which THE STORY OF AUDUNN AND THE BEAR (Auethunar þattr vestfirzka)
+is one of the best known. [Footnote: In this edition, the specially-
+Icelandic consonants þ and eth are printed as th and d respectively,
+and the superstressed vowels a,i,o, and u, are given without the
+acute accent, when they occur in proper names in the stories, e. g.
+Porethur: Thordur.] These may be regarded as a preliminary stage in the development of
+the longer family saga, simpler, yet having essentially the same
+characteristics. Both types then continued to be written side by
+side. Although the geographical isolation of the country was stated
+above as one of the reasons for the preservation of the language,
+too great a stress should not be laid on this factor, especially not
+during the early centuries of the settlement. The Icelanders were
+great and active navigators who discovered Greenland (shortly after
+980) and North America (Leifr Eiriksson, about 1000). Thus THE STORY
+OF AUDUNN AND THE BEAR recounts travels to Greenland, Norway,
+Denmark and Italy. It was then fashionable for young Icelanders to
+go abroad and spend some time at the courts of the Norwegian kings,
+where the skalds recited poems of praise dedicated to the king. In
+this story the occasion of the voyage is a less common one, the
+bringing of a polar bear as a gift to the Danish king. In several
+other Icelandic stories, and in some of other countries, we read of
+such gifts, and of how European potentates prized these rare
+creatures from Greenland. In Scandinavia, Germany, and elsewhere, there have been legends
+similar to the story of Audunn, where a man, after having been to
+the Norwegian king with a tame bear, decides to present it to the
+king of Denmark. However, we know of no earlier source for this
+motif than the story of Audunn. Whatever its value as historical
+fact, it could well be the model to which the other versions might
+be traced. This story is preserved in the Morkinskinna, an Icelandic
+manuscript written in the second half of the thirteenth century, as
+well as in several later manuscripts. [Footnote: The most valuable
+edition of THE STORY OF ADUNN AND THE BEAR is that of Guethni Jonsson
+in the series Islenzk fornrit (vol. VI. Reykjavik 1943). The text of
+this edition is followed in the present translation, except in a few
+cases where reference has been made to the texts of Fornmannasoegur
+VI, Copenhagen 1831, and Flateyjarbok III, Oslo 1868.] The story had
+probably been written down by 1220, if not earlier. It is given a
+historical background in so far as it is set in the time of Haraldr
+the Hard-ruler, King of Norway (1046-66), and Sveinn Ulfsson, King
+of Denmark (1047-76), when the two countries were at war (c. 1062-
+64). Both monarchs are depicted as generous, magnanimous men, but
+Audunn was shrewd enough to see which would give the greater reward
+for his precious bear. For all his generosity, King Haraldr was
+known to be ruthless and grasping. What the writer had in mind may
+have been a character-comparison of the two kings and the
+description of "one of the luckiest of men", about whom the
+translator, G. Turville-Petre says: "Audunn himself, in spite of his
+shrewd and purposeful character, is shown as a pious man, thoughtful
+of salvation, and richly endowed with human qualities, affection for
+his patron and especially for his mother. The story is an optimistic
+one, suggesting that good luck may attend those who have good
+morals." II
+
+
+The Icelanders have never waged war against any nation. But in the
+thirteenth century they were engaged in a civil war which ended in
+their submitting to the authority of the Norwegian king in the
+sixties (this authority was transferred to the King of the Danes in
+1380). It is interesting that, during the next few decades after
+this capitulation, saga-writing seems to reach a climax as an art,
+in family sagas like Njals saga, "one of the great prose works of
+the world" (W. P. Ker). It is as if the dangers of civil war and the
+experiences gained in times of surrender had created in the authors
+a kind of inner tension--as if their maturity had found full
+expression in the security of peace. However, with the first
+generation born in Iceland in subjection, the decline of saga-
+writing seems to begin. This can hardly be a mere coincidence. On
+the contrary it was brought about by a number of different factors. Subsequently, in the fourteenth century, saga-writing becomes for
+the most part extinct. From c. 1400-1800 there is hardly any prose
+fiction at all. Hence the fact that several centuries remain
+unrepresented in this work (though the gap might have been reduced
+to four or five centuries had literary-historical considerations
+alone been allowed to influence the present selection). But the sagas continued to be copied and read. After the setting up
+of the first printing press (c. 1530), and after the Reformation (c.
+1550), religious literature grew much in bulk, both translations
+(that of the Bible was printed in 1584) and original works, and a
+new kind of historical writing came into being. Side by side with
+scholars, we have self-educated commoners who wrote both prose and,
+especially, poetry. In Iceland, being a "poet" has never been considered out of the
+ordinary. On the contrary, a person unable to make up a verse or two
+would almost be considered exceptional. Yet, this requires
+considerable skill as the Icelanders are the only nation that has
+preserved the ancient common Germanic alliteration (found in all
+Germanic poetry till late medieval times). We frequently find this
+device accompanied by highly complicated rhyme schemes. Despite this
+rather rigid form, restrictive perhaps, yet disciplinary in its
+effect, exquisite poetry has nevertheless been produced. This
+poetry, however, is not within the scope of this introduction. Suffice it to say that from what exists of their verse it is clear
+that poets have been active at all times since the colonization of
+the country. It is this uninterrupted flow of poetry that above all
+has helped to preserve the language and the continuity of the
+literary tradition. During the centuries we have been discussing--especially, however,
+the seventeenth--the Icelanders probably wrote more verse than any
+other nation has ever done--ranging in quality, to be sure, from the
+lowest to the highest. When, in the sixteenth century, they had got
+paper to take the place of the more expensive parchment, they could
+universally indulge in copying old literature and writing new, an
+opportunity which they certainly made use of. It was their only
+luxury--and, at the same time, a vital need. We have said that the Icelanders had never waged war against any
+other people. But they have had to struggle against foreign rulers,
+and against hardships caused by the nature of their country. After
+the Reformation, the intervention of the Crown greatly increased,
+and, at the same time, its revenues from the country. A Crown
+monopoly of all trade was imposed (in 1602). Nature joined forces
+with mismanagement by the authorities; on the seas surrounding the
+island pack-ice frequently became a menace to shipping, and there
+also occurred unusually long and vicious series of volcanic
+eruptions. These culminated in the late eighteenth century (1783),
+when the world's most extensive lava fields of historical times were
+formed, and the mist from the eruption was carried all over Europe
+and far into the continent of Asia. Directly or indirectly as a
+consequence of this eruption, the greater part of the live-stock,
+and a fifth of the human population of the country perished. Still the people continued to tell stories and to compose poems. No
+doubt the Icelanders have thus wasted on poetical fantasies and
+visionary daydreams much of the energy that they might otherwise
+have used in life's real battle. But the greyness of commonplace
+existence became more bearable when they listened to tales of the
+heroic deeds of the past. In the evening, the living-room
+(baethstofa), built of turf and stone, became a little more cheerful,
+and hunger was forgotten, while a member of the household read, or
+sang, about far-away knights and heroes, and the banquets they gave
+in splendid halls. In their imagination people thus tended to make
+their environment seem larger, and better, than life, as did Hrolfur
+with his fishing-boat in the story When I was on the Frigate. III
+
+
+About 1800, things began to improve. The monopoly of trade, which
+had been relaxed in 1787, was finally abolished in 1854. In the year
+1874 Iceland got self-government in its internal affairs, and in
+1904 its first minister of state with residence in the country. It
+became a sovereign kingdom in union with Denmark in 1918, and an
+independent republic in 1944. The climate of the country has improved during the last hundred and
+fifty years, though there were a number of severe years in the
+eighteen eighties. It was at this time that emigration to the North-
+American Continent reached a peak, especially to Canada, where one
+of the settlements came to be called New Iceland--the title given to
+the last story in this book. Many of these emigrants suffered great
+hardships, and, as the story tells, several of them became
+disillusioned with the land of promise. Their descendants, however,
+have on the whole done well in the New World. Until recently, the Icelanders were almost entirely a nation of
+farmers, and the majority of the stories in this collection contain
+sketches of country life. A certain amount of perseverance and even
+obstinacy was needed for a farmer's life on an island skirting the
+Arctic Circle (The Old Hay). Only about a quarter of the country is
+fit for human habitation, mainly the districts along the coast. The
+uplands, for the most part made up of mountains, glaciers, sand-
+deserts, and lava, are often awe-inspiring in their grandeur. Nevertheless it would be wrong to exaggerate the severity of the
+land. In many places the soil is fertile, as is often the case in
+volcanic countries, and--thanks to the Gulf Stream, which flows up
+to the shores of the island--the climate is a good deal more
+temperate than one might suppose (the average annual temperatures in
+Reykjavik are 4-5 deg. Centigrade). Besides, the surrounding sea makes up for the barrenness of the
+country by having some of the richest fishing banks in the world. Hence, in addition to being farmers, the Icelanders have always been
+fishermen who brought means of sustenance from the sea--usually in
+primitive open boats like those described in When I was on the
+Frigate and Father and Son. In the late nineteenth century decked
+vessels came into use besides the open boats, succeeded by steam
+trawlers at the beginning of the present century. For the last few
+decades, the Icelanders have been employing a modern fishing fleet,
+and, at the time of writing, fishery products constitute more than
+ninety per cent of the country's exports. With the growth of the fisheries and commerce there began to spring
+up towards the end of the nineteenth century a number of trading
+villages in different parts of the country. Reykjavik, the only
+municipality of fairly long standing and by far the biggest one, had
+at the turn of the present century a population of only between six
+and seven thousand--now about eleven times that number. We catch
+glimpses of these small trading stations at the beginning of the
+twentieth century in A Dry Spell and Father and Son. Nowadays, four fifths of the population live in villages and
+townships--where some light industry has sprung up--and, in
+Reykjavik alone, more than two fifths of the population are
+concentrated. In the last fifty years, the occupations of the people and their
+culture have changed from being in many respects medieval, and have
+assumed modern forms. The earlier turfbuilt farmhouses have now been
+replaced by comfortable concrete buildings which get their
+electricity from a source of water power virtually inexhaustible. Many of these,--e. g. the majority of houses in Reykjavik--are
+heated by water from hot springs, so that the purity of the northern
+air is seldom spoilt by smoke from coal-fires. The reliable
+Icelandic pony--so dear to the farmer in New Iceland, and for long
+known as "a man's best friend"--has now for the most part come to
+serve the well-to-do who can afford to use it for their joy-rides,
+its place in farmwork being taken by modern agricultural machinery. As a means of travel it has been replaced by a host of motorcars,
+and by aeroplanes, which in Iceland are as commonly used in going
+from one part of the country to another as railway trains in other
+countries. In fact, it has not been found feasible to build railways
+in Iceland. Besides this, a large number of airliners make daily use
+of Icelandic airfields on transatlantic flights. What with most
+other nations has been a slow and gradual process lasting several
+centuries, has in Iceland come about in more or less a revolutionary
+way. It is therefore not to be wondered at that there should have
+been a certain instability in the development of the urban and
+economic life of the country. In this field, however, there appear
+to be signs of consolidation. Foreigners who come to this country in search of the old saga-island
+are sometimes a little disappointed at finding here, in place of
+saga-tellers and bards, a modern community, with its own university,
+a national theatre, and a symphony orchestra. Be this as it may,
+literature still holds first place among the arts and cultures. A
+collection of books is indeed considered as essential a part of a
+home as the furniture itself. For such visitors, there may be some
+consolation in the fact that in some places they may have quite a
+job in spotting the grocer's among the bookshops. IV
+
+
+In literature there had, especially in poetry, been a continuity
+from the very beginnings. Yet, in the field also, the early
+nineteenth century saw the dawn of a new age. The Romantic Movement
+was here, as elsewhere, accompanied by a national awakening, so that
+literature became the herald and the principal motive force of
+social improvement. There was at the same time a new drive for an
+increased beauty of language and refinement of style, where the
+classical, cultivated, literary language and the living speech of
+the time merged. With Romanticism there also emerged poets of so
+great merit that only a few such had come forward since the end of
+the saga period. But henceforward--let's take as our point of
+departure the second quarter of the nineteenth century--each
+generation in the country has indeed produced some outstanding
+literary works, comparable in quality with the accomplishments of
+the ancient classical Edda and saga periods. During this new golden age, several literary tendencies and genres
+may be observed. But Romanticism remained the most lasting and
+potent literary force for about a century. However, one of the
+characteristics of the Icelandic literature of later ages is the
+infrequent manifestation of literary trends in their purest and most
+extreme forms. Here the stabilizing and moderating influence of the
+ancient sagas has, without doubt, been at work. In most cases this
+middle course may be said to have been beneficial to the literature. But the saga-literature may also well have had a restraining
+influence on later authors in so far as it set a difficult standard
+to be emulated. It is probably here that the principal explanation
+of the late re-emergence of prose fiction is to be sought. It was
+not until about the middle of the nineteenth century that modern
+short stories, novels and plays began to be written on anything like
+a scale worthy of note. The earliest of these were romantic in
+spirit, though most of them had a realistic tinge. With Realism, the
+short story came into its own in the eighties and nineties of the
+last century. This trend came like a fresh current to take its place
+side by side with Romanticism, without, however, ousting it from the
+literary scene. But owing to the realistic technique and the tragic
+endings of much in the ancient literature--Eddaic poetry and sagas
+alike--Realism was never the novel force it generally was felt to be
+elsewhere. Still, it brought social criticism into our literature. This was introduced through the activity of young literary-minded
+students who, while studying at the University of Copenhagen, had
+become full of enthusiasm for Georg Brandes and his school. One of these young men was Einar H. Kvaran (1859-1938), a
+clergyman's son from the North, who, after beginning as a student of
+politics, soon turned his attention to literature and journalism. He
+became editor of Icelandic newspapers in Canada (1885-95), and,
+later, in Iceland, mainly in Reykjavik. His chief preoccupation,
+however, became the composition of short stories and novels, and
+besides these he also wrote some plays and poetry. The delicacy and
+the religious bent of his nature could not for long remain the soil
+for the satirical asperity and materialism of the realist school,
+though his art was always marked by its technique. As he advanced in
+years, brotherhood and forgiveness became an evergrowing element in
+his idealism, and he became the first bearer of the spiritualist
+message in this country. With his stories he had a humanizing
+influence on his times, especially in the education of children, and
+in the field of culture he remained actively interested right up to
+a ripe old age. If somewhat lacking in creative fervour and
+colourful raciness of style, he made up for it by the abundance of
+his intelligence, his humanity and culture. He wrote A Dry Spell (Ethurrkur) at the beginning of the present
+century, when he had disengaged himself from the strongest influence
+of Realism, but before moral preaching and the belief in the life
+hereafter had become the leading elements in his stories. He had
+then, for a few years, been living in the north-country town of
+Akureyri, which obviously provides the model for the setting of the
+story. It was first printed in the 1905 issue of the periodical
+Skirnir. In addition to the travelled, academic realists, there appeared a
+group of self-educated popular writers, some of whom had come into
+direct contact with this foreign school. They were farmers, even in
+the more remote country districts, who had read the latest
+Scandinavian literature in the original, and who wrote stories
+containing radical social satire. Guethmundur Friethjonsson, for
+instance, had begun his career in this way. In many of these
+authors, however, we find rather a sort of native realism, where
+there is not necessarily a question of the influence of any
+particular literary tendency. Their works sprang out of the native
+environment of the authors, whose vision, despite a limited horizon,
+was often vivid. They convey true impressions of real life. Of this kind are most of the works of Guethmundur Friethjonsson
+(1869-1944), a radical who later turned to conservatism--and the
+best works of Jon Trausti (1873-1918). These, who had their debut as
+writers about the turn of the century, are the authors of the next
+two stories in our collection. Both were North-countrymen. The
+former, a farmer's son from a district enjoying a high standard of
+culture, himself settled down as a farmer in his native locality in
+order to earn a living for his large family. In his youth he had
+attended a secondary school in the neighbourhood for a couple of
+winters, but he never had his experiences enriched by foreign travel
+and was during the whole of his life anchored to his native region. Jon Trausti, the son of a farm labourer and his wife, who had been
+born on one of the northernmost farms in Iceland in a barren and
+outlying district, was brought up in dire poverty. From an early age
+he had had to fend for himself as a farmhand and fisherman, finally
+settling in Reykjavik as a printer. Apart from his apprenticeship
+with the printers, he never went to any sort of school (school
+education was first made compulsory by law in Iceland in 1907); but
+on two occasions he had travelled abroad. These energetic persons became widely read, especially in Icelandic
+literature, and wrote extensively under difficult circumstances:--in
+fact all the modern authors represented in the present book may be
+said to have been prolific as writers. Guethmundur Friethjonsson was
+equally versatile as a writer of short stories and poems. He has a
+rich command of imagery and diction, and his style, at times a
+little pompous, is often powerful though slightly archaic in
+flavour. The ancient heroic literature doubtless fostered his manly
+ideas, which, however, sprang from his own experience in life. One
+must, he felt, be hard on oneself, and on one's guard against the
+vanity of newfangled ideas and against the enervating effect of
+civilization. It is in the nature of things that with this farmer
+and father of a family of twelve, assiduity, prudence, and self-
+discipline should be among the highest virtues. This is notably
+apparent in The Old Hay (Gamla heyieth), which he wrote in 1909, and
+which was published in Tolf soegur (Twelve stories) in 1915. Jon Trausti (pseudonym of Guethmundur Magnusson) is best known as
+the author of novels and short stories on contemporary and
+historical themes, but he also wrote plays and poems. He was endowed
+with fertile creative powers and the ability to draw vivid sketches
+of environment and character. At times, however, he lacks restraint,
+especially in his longer novels. Still, his principal work, The
+Mountain Cot (Heietharbylieth)--one of the longest cycles in
+Icelandic fiction--is his greatest. The little outlying mountain cot
+becomes a separate world in its own right, a coign of vantage
+affording a clear view of the surrounding countryside where we get
+profound insight into human nature. Like the bulk of his best work,
+this novel has a foundation in his own experiences. In reading the
+story by him included in this volume, the reader may find it helpful
+to bear in mind Trausti's early life as a fisherman. What he
+attempts to show us there is a kind of inner reality--an offset to
+reality. When I was on the Frigate (Þegar eg var a fregatunni)
+first published in Skirnir for 1910. Jon Trausti and Einar H. Kvaran--who between them form an
+interesting contrast--were the most prolific novelists at the
+beginning of the present century. By that time prose was becoming an
+increasingly important part of Icelandic literature. It would be
+more or less true to say that in the first thirty years of the
+century it had gained an equal footing with poetry. For the last
+thirty years, however, prose has taken first place, after poetry had
+constituted the backbone of Icelandic literature for six hundred
+years, or since the end of saga-writing. But there were several writers who felt that the small reading
+public at home in Iceland gave them too little scope. So they
+emigrated, mostly to Denmark, and in the early decades of the
+century began to write in foreign languages, though the majority
+continued simultaneously to write in the vernacular. Pioneers in
+this field were the dramatist Johann Sigurjonsson (1880-1919), and
+the novelist Gunnar Gunnarsson (b. 1889). Both of these wrote in
+Danish as well as in Icelandic. Early in the second decade of the
+century three of this overseas group produced works that were
+accorded immediate acclaim, and which have since become classics,
+being widely translated into foreign languages. These were Eyvind of
+the Hills (Fjalla-Eyvindur) by Johann Sigurjonsson; The Borg Family
+(Borgaraettin, in English Guest the One-eyed) by Gunnar Gunnarsson;
+and Nonni, Erlebnisse eines jungen Islaenders, the first of the
+famous children's books by the Jesuit monk Jon Sveinsson (Jon
+Svensson, 1857-1944). With these works modern Icelandic literature
+won for the first time a place for itself among the living
+contemporary literatures of the world. Since then, Iceland's
+contribution has been steady, not only in the works of those who
+wrote in foreign languages, but equally--and during the last couple
+of decades exclusively--in vernacular writing. In fact, with the
+return to his native country of Gunnar Gunnarsson in 1939, the vogue
+of writing in foreign languages virtually came to an end. On his arrival in Iceland Gunnarsson had settled in his native east-
+country district though he afterwards moved to Reykjavik, where he
+now lives. Indeed he possesses many of the best qualities of the
+gentleman-farmer--firmness, tenacity of purpose, and a craving for
+freedom in his domain,--combined with a writer's imaginative and
+narrative powers and understanding of humanity. He often describes
+human determination and man's struggle with destiny, especially in
+his historical novels, which are set in most periods of Icelandic
+history. More moving, perhaps, are his novels on contemporary
+themes. The greatest among these is the cycle The Church on the
+Mountain (Fjallkirkjan; of the five novels making up this sequence,
+three have been translated into English under two titles, Ships in
+the Sky and The Night and the Dream). This is one of the major works
+of Icelandic literature--containing a fascinating world of fancy,
+invention, and reality. It is the story of the development of a
+writer who leaves home in order to seek the world. One of the best
+known stories in all Icelandic literature is his masterly short
+novel Advent or The good Shepherd (Aethventa).--Father and Sam
+Feethgarnir) was first published in the periodical Eimreiethin in
+1916. The present version, with slight changes, is that found in the
+author's collected works, Rit XI, 1951. Most Icelandic writers have, of course, written in the vernacular
+only, in spite of longer or shorter stay abroad. This applies to the
+last two authors represented here, both of whom appeared on the
+literary scene about 1920. Guethmundur G. Hagalin (b. 1898) comes from the sea-girt Western
+Fiords, where he was a fisherman before attending secondary school. Later, he lectured on Iceland in Norway for a few years (1924-27),
+and is now a superintendent of public libraries. His home is in the
+neighbourhood of Reykjavik. In his novels, and more particularly in
+his short stories, he is at his best in his portrayals of the simple
+sturdy seamen and countryfolk of his native region, which are often
+refreshingly arch in manner. Hagalin, who is a talented narrator,
+frequently succeeds in catching the living speech and characteristic
+mode of expression of his characters. The Fox Skin (Tofuskinnieth)
+first appeared in 1923, in one of his collections of short stories
+(Strandbuar).--He has also been successful as a recorder and editor
+of the biographies of greatly different people, based on first-hand
+accounts of their own lives. He is at present continuing with the
+writing of his autobiography--a long and interesting work. Halldor Kiljan Laxness was born in 1902 in Reykjavik. Shortly
+afterwards his parents established themselves on a farm in the
+neighbourhood where he was brought up, and where he has now built
+himself a home. He is a patriot and, at the same time, a
+cosmopolitan who has probably travelled more extensively abroad than
+any other of his fellow-countrymen. After becoming a Catholic at the
+age of twenty, he spent a year in monasteries abroad, but had
+already begun to waver in his Catholicism when he first visited
+America, where he stayed from 1927 to 1930. During those years he
+became more and more radical in his social beliefs. Already in his
+first year there, he wrote the short story New Iceland (Nyja
+Island), which was immediately published in Heimskringla, an
+Icelandic weekly in Winnipeg. The story thus dates from an early
+period, when his art was in process of great development. Indeed, the nineteen twenties saw important changes in our
+literature. The last of the great nineteenth century poets were
+vanishing from the literary scene, their places being taken by
+others, whose poetry, though hardly as profound and lofty in
+conception, was more lyrical and simple in manner, with greater
+delicacy and refinement of form. Especially in the prose-writing of
+the period, there were signs of flourishing growth. Gunnar
+Gunnarsson wrote The Church on the Mountain, and Laxness was
+becoming known. In the early thirties he appears as a fully mature
+writer in Salka Valka, a political love story from a fishing
+village, and Independent People (Sjalfstaett folk), a heroic novel
+about the stubbornness and the lot of the Icelandic mountain farmer,
+both of which have appeared in English translations. Laxness has
+devoted less attention to the writing of plays and poetry than
+novels and short stories. Two among his greatest works are the novel
+sequences The Light of the World (Heimsljos)--about a poet-genius
+who never reaches maturity--, and The Bell of Iceland
+(Islandsklukkan), a historical novel describing a political,
+cultural and human struggle. On the whole, the subject-matter of his
+stories is extremely varied, equally as regards time, place and
+human types. However, the greatest variety will probably be found in
+his style, which he constantly adapts to suit the subject. Behind
+all this lies a fertile creativeness which rarely leaves the reader
+untouched. No matter where in the wide world his stories may be set,
+they always stand in some relation to his people--though, at the
+same time, he usually succeeds in endowing them with universal
+values shared by common humanity. To achieve this has from early on
+been Laxness' aim; thus the first printed version of New Iceland
+contains the sub-heading: "An international proletarian story." When this introduction was being written, a new novel by him, Heaven
+Reclaimed (Paradisarheimt) was published (1960), which, like his
+early short story, is set partly in America--this time among the
+Icelandic Mormons of Utah. Here, the man who goes out across half
+the world in quest of the millennium is in the end led back to his
+origins. Laxness was awarded the Nobel Prize in 1955. Tke University of Iceland, Reykjavik. Steingrimur J. Þorsteinsson. ANONYMOUS
+
+THE STORY OF AUDUNN AND THE BEAR
+
+EARLY 13TH CENTURY
+
+I
+
+
+There was a man called Audunn; he came of a family of the Western
+Firths, and was not well off. Audunn left Iceland from the Western
+Firths with the assistance of Thorsteinn, a substantial farmer, and
+of Thorir, a ship's captain, who had stayed with Thorsteinn during
+the winter. Audunn had been on the same farm, working for Thorir,
+and as his reward he got his passage to Norway under Thorir's care. Audunn had set aside the greater part of his property, such as it
+was, for his mother, before he took ship, and it was determined that
+this should support her for three years. Now they sailed to Norway and had a prosperous voyage, and Audunn
+spent the following winter with the skipper Thorir, who had a farm
+in Moerr. The summer after that, they sailed out to Greenland,
+where they stayed for the winter. It is told that in Greenland, Audunn bought a white bear, a
+magnificent beast, and paid for him all he had. Next summer they
+returned to Norway, and their voyage was without mishap. Audunn
+brought his bear with him, intending to go south to Denmark to visit
+King Sveinn, and to present the beast to him. When he reached die
+south of Norway and came to the place where the King was in
+residence, Audunn went ashore, leading his bear, and hired lodgings. King Haraldr was soon told that a bear had been brought to the
+place, a magnificent creature, belonging to an Icelander. The King
+immediately sent men to fetch Audunn, and when he entered the King's
+presence, Audunn saluted him as was proper. The King acknowledged
+the salute suitably and then asked:
+
+Is it true that you have a great treasure, a white bear? Audunn answered and said that he had got a bear of some sort. The King said: Will you sell him to us for the price you paid for
+him? Audunn answered: I would not care to do that, my Lord. Will you then, said the King, have me pay twice the price? That
+would be fairer if you gave all you had for him. I would not care to do that, my Lord, answered Audunn, but the King
+said:
+
+Will you give him to me then? No, my Lord, answered Audunn. The King asked: What do you mean to do with him then?--and Audunn
+answered: I mean to go south to Denmark and give him to King Sveinn. Can it be that you are such a fool, said King Haraldr, that you have
+not heard about the war between these two countries? Or do you think
+your luck so good that you will be able to bring valuable
+possessions to Denmark, while others cannot get there unmolested,
+even though they have pressing business? Audunn answered: My Lord, that is for you to decide, but I shall
+agree to nothing other than that which I had already planned. Then the King said: Why should we not have it like this, that you go
+your own way, just as you choose, and then visit me on your way
+back, and tell me how King Sveinn rewards you for the bear? It may
+be that luck will go with you. I will promise you to do that, said Audunn. Audunn now followed the coast southward and eastward into the Vik,
+and from there to Denmark, and by that time every penny of his money
+had been spent, and he had to beg food for himself as well as for
+the bear. He called on one of King Sveinn's stewards, a man named
+Aki, and asked him for some provisions, both for himself and for his
+bear.--I intend, said he, to give the bear to King Sveinn. Aki said that he would sell him some provisions if he liked, but
+Audunn answered that he had nothing to pay for them,--but yet, said
+he, I would like to carry out my plan, and to take the beast to the
+King. Aki answered: I will supply such provisions as the two of you need
+until you go before the King, but in exchange I will have half the
+bear. You can look at it in this way: the beast will die on your
+hands, since you need a lot of provisions and your money is spent,
+and it will come to this, that you will have nothing out of the
+bear. When Audunn considered this, it seemed to him that there was some
+truth in what the steward had said, and they agreed on these terms:
+he gave Aki half the bear, and the King was then to set a value on
+the whole. Now they were both to visit the King, and so they did. They went
+into his presence and stood before his table. The King wondered who
+this man could be, whom he did not recognize, and then said to
+Audunn: Who are you? Audunn answered: I am an Icelander, my Lord, and I came lately from
+Greenland, and now from Norway, intending to bring you this white
+bear. I gave all I had for him, but I have had a serious setback, so
+now I only own half of the beast.--Then Audunn told the King what
+had happened between him and the steward, Aki. The King asked: Is that true, what he says, Aki? True it is, said Aki. The King said: And did you think it proper, seeing that I had placed
+you in a high position, to let and hinder a man who had taken it on
+himself to bring me a precious gift, for which he had given all he
+had? King Haraldr saw fit to let him go his way in peace, and he is
+no friend of ours. Think, then, how far this was honest on your
+part. It would be just to have you put to death, but I will not do
+that now; you must rather leave this land at once, and never come
+into my sight again. But to you, Audunn, I owe the same gratitude as
+if you were giving me the whole of the bear, so now stay here with
+me. Audunn accepted the invitation and stayed with King Sveinn for a
+while. II
+
+
+After some time had passed Audunn said to the King: I desire to go
+away now, my Lord. The King answered rather coldly: What do you want to do then, since
+you do not wish to stay with us? Audunn answered: I wish to go south on a pilgrimage. If you had not such a good end before you, said the King, I should
+be vexed at your desire to go away. Now the King gave Audunn a large sum of silver, and he travelled
+south with pilgrims bound for Rome. The King arranged for his
+journey, asking him to visit him when he came
+
+Audunn went on his way until he reached the city of Rome in the
+south. When he had stayed there as long as he wished, he turned
+back, and a severe illness attacked him, and he grew terribly
+emaciated. All the money which the King had given him for his
+pilgrimage was now spent, and so he took up his staff and begged his
+food. By now his hair had fallen out and he looked in a bad way. He
+got back to Denmark at Easter, and went to the place where the King
+was stationed. He dared not let the King see him, but stayed in a
+side-aisle of the church, intending to approach the King when he
+went to church for Nones. But when Audunn beheld the King and his
+courtiers splendidly arrayed, he did not dare to show himself. When the King went to drink in his hall, Audunn ate his meal out of
+doors, as is the custom of Rome pilgrims, so long as they have not
+laid aside their staff and scrip. In the evening, when the King went
+to Vespers, Audunn intended to meet him, but shy as he was before,
+he was much more so now that the courtiers were merry with drink. As
+they were going back, the King noticed a man, and thought he could
+see that he had not the confidence to come forward and meet him. But
+as the courtiers walked in, the King turned back and said:
+
+Let the man who wants to meet me come forward; I think there must be
+someone who does. Then Audunn came forward and fell at the feet of the King, but the
+King hardly recognized him. As soon as he knew who he was, he took
+Audunn by the hand and welcomed him:--You have changed a lot since
+we met last,--he said, and then he led Audunn into the hall after
+him. When the courtiers saw Audunn they laughed at him, but the King
+said:
+
+There is no need for you to laugh at this man, for he has provided
+better for his soul than you have. The King had a bath prepared for Audunn and then gave him clothes,
+and now he stayed with the King. III
+
+
+It is told that one day in the spring the King invited Audunn to
+stay with him for good, and said he would make him his cup-bearer,
+and do him great honour. Audunn answered: May God reward you, my Lord, for all the favours
+you would show me, but my heart is set on sailing out to Iceland. The King said: This seems a strange choice to me,--but Audunn
+answered: My Lord, I cannot bear to think that I should be enjoying
+high honour here with you, while my mother is living the life of a
+beggar out in Iceland. For by now, all that I contributed for her
+subsistence before I left Iceland, has been used up. The King answered: That is well spoken and like a man, and good
+fortune will go with you. This was the one reason for your departure
+which would not have offended me. So stay with me until the ships
+are made ready for sea.--And this Audunn did. One day towards the end of spring King Sveinn walked down to the
+quay, where men were getting ships ready to sail to various lands,
+to the Baltic lands and Germany, to Sweden and Norway. The King and
+Audunn came to a fine vessel, and there were some men busy fitting
+her out. The King asked:
+
+How do you like this ship, Audunn? Audunn answered: I like her well, my Lord. The King said: I will give you this ship and reward you for the
+white bear. Audunn thanked the King for his gift as well as he knew how. After a time, when the ship was quite ready to sail, King Sveinn
+said to Audunn:
+
+If you wish to go now, I shall not hinder you, but I have heard that
+you are badly off for harbours in your country, and that there are
+many shelterless coasts, dangerous to shipping. Now, supposing you
+are wrecked, and lose your ship and your goods, there will be little
+to show that you have visited King Sveinn and brought him a precious
+gift. Then the King handed him a leather purse full of silver: You will
+not be altogether penniless, said he, even if you wreck your ship,
+so long as you can hold on to this. But yet it may be, said the
+King, that you will lose this money, and then it will be of little
+use to you that you have been to see King Sveinn and given him a
+precious gift. Then the King drew a ring from his arm and gave it to Audunn,
+saying: Even if it turns out so badly that you wreck your ship and
+lose your money, you will still not be a pauper if you reach land,
+for many men have gold about them in a shipwreck, and if you keep
+this ring there will be something to show that you have been to see
+King Sveinn. But I will give you this advice, said the King, do not
+give this ring away, unless you should feel yourself so much
+indebted to some distinguished man--then give the ring to him, for
+it is a fitting gift for a man of rank. And now farewell. IV
+
+
+After this Audunn put to sea and made Norway, and had his
+merchandise brought ashore, and that was a more laborious task than
+it had been last time he was in Norway. Then he went into the
+presence of King Haraldr, wishing to fulfil the promise he had given
+him before he went to Denmark. Audunn gave the King a friendly
+greeting, which he accepted warmly. Sit down, said the King, and drink with us, and so Audunn did. Then
+King Haraldr asked: What reward did King Sveinn give you for the
+bear? Audunn answered: This, my Lord, that he accepted him from me. I would have given you that, said the King, but what else did he
+give you? Audunn said: He gave me silver to make a pilgrimage to Rome, but
+King Haraldr said:
+
+King Sveinn gives many people silver for pilgrimages and for other
+things, even if they do not bring him valuable gifts. What more did
+he do for you? He offered to make me his cup-bearer and to give me great honours. That was a good offer, said the King, but he must have given you
+still more. Audunn said: He gave me a merchantman with a cargo of wares most
+profitable for the Norway trade. That was generous, said the King, but I would have rewarded you as
+well as that. Did he give you anything else? Audunn said: He gave me a leather purse full of silver, and said
+that I would still not be penniless if I kept it, even if my ship
+were wrecked off Iceland. The King said: That was magnificent, and more than I should have
+done. I would have thought my debt discharged if I had given you the
+ship. Did he give you anything else? Certainly he gave me something else, my Lord, said Audunn; he gave
+me this ring which I am wearing on my arm, and said that I might
+chance to lose all my property, and yet not be destitute if I had
+this ring. But he advised me not to part with it unless I were under
+such an obligation to some noble man that I wished to give it to
+him. And now I have come to the right man, for it was in your power
+to take from me both my bear and my life, but you allowed me to go
+to Denmark in peace when others could not go there. The King received the gift graciously and gave Audunn fine presents
+in exchange before they parted. Audunn laid out his merchandise on
+his voyage to Iceland, and sailed out that same summer, and people
+thought him the luckiest of men. From this man Audunn was descended Thorsteinn Gyduson. [Footnote:
+Thorsteinn Gyduson was drowned in the year 1190. Unless
+interpolated, the allusion to him shows that the story was written
+after that date.] EINAR H. KVARAN
+
+A DRY SPELL
+
+
+It had rained for a fortnight--not all the time heavily, but a fog
+had sullenly hung about the mountain tops, clinging to the
+atmosphere and rendering the whole of existence a dull gray colour. Every little while it would discharge a fine drizzle of rain or a
+heavy shower down upon the hay and everything else on earth, so that
+only the stones would occasionally be dry--but the grass never. We were tired of the store--indeed, I should like to know who would
+have enjoyed it. It dated back to the beginning of the last century,
+a tarred, coal-black, ramshackle hut. The windows were low and
+small, the windowpanes diminutive. The ceiling was low. Everything
+was arranged in such a way as to exclude the possibility of lofty
+flights of thought or vision. Just now, not a living soul looked in--not even those thriftless
+fellows who lived by chance jobs in the village and met in daily
+conclave at the store. We had often cursed their lengthy visits, but
+now that they had hired themselves out during the haymaking, we
+suddenly realized that they had often been entertaining. They had
+made many amusing remarks and brought us news of the neighbourhood. And now we cursed them for their absence. We sat there and smoked, staring vacantly at the half-empty shelves,
+and all but shivering in the damp room. There was no heater in the
+store at any season, and the one in the office, if used, emitted
+spurts of smoke through every aperture except the chimney. It had
+not been cleaned since sometime during winter, and we were not
+ambitious enough for such an undertaking in the middle of the
+summer. We tried to transfer our thoughts from the store to the world
+outside. We made clever comments to the effect that the farmers were
+now getting plenty of moisture for the hay-fields, and that it would
+be a pity if rain should set in now, right at the beginning of the
+haying season. We had nothing further to say on the subject, but
+this we repeated from day to day. In short, we were depressed and at
+odds with things in general. Until the dry spell. One morning, about nine o'clock, the bank of fog began to move. First, there appeared an opening about the size of your hand, and
+through it the eastern sky showed a bright blue. Then another
+opening, and through it shone the sun. We knew what this was called, and we said to each other: Merely a
+'morning promise'--implying, nothing reliable. But it was more. The
+fog began to show thinner and move faster along the mountain ridge
+opposite. Then it gathered in a deep pass and lay there heaped up
+like newly carded, snowy wool. On either side, the mountains loomed
+a lovely blue, and in their triumph ignored the fog almost
+completely. When we ventured a look through the doorway of the
+store, there was nothing to be seen overhead save the clear, blue
+sky and the sunshine. On the opposite shore of the fjord, the people looked to us like the
+cairns out on the moorlands, only these tiny cairns moved in single
+file about the hay-fields. I seemed to smell the sweet hay in the
+homefields, but of course this was only my imagination. I also
+fancied I could hear the maids laughing, especially one of them. I
+would willingly have sacrificed a good deal to be over there helping
+her dry the hay. But of this subject no more; I did not intend to
+write a love story--at least, not in the ordinary sense of the word. The dry spell lasted. We, the clerks, took turns at staying out of
+doors as much as possible, and 'drinking deeply of the golden fount
+of sunshine'. In the afternoon of the third day, I dropped in at the doctor's. I
+felt somewhat weary with walking--and idleness--and looked forward
+to the doctor's couch and conversation. A cigar? asked the doctor. Yes, a cigar, I answered. I have smoked only six today. Beer or whisky and water? queried the doctor. A small whisky, I replied. I lit my cigar, inhaling deeply of its fragrance--then exhaling
+through mouth and nostrils. I sighed with contentment; the cigar was
+excellent. Then we began to drink the whisky and water at our leisure. I
+reclined against the head of the couch, stretched out my feet, was
+conscious of a luxurious sensation--and sent my thoughts for a
+moment across the fjord, where they preferred to remain. The doctor was in high spirits. He talked about the Japanese and
+Russians, the most recently discovered rays, and the latest
+disclosures on how is felt to die. My favourite pastime is to listen to others speaking. I never seem
+able to think of any topics worthy of conversation myself, but I am
+almost inclined to say that my ability to listen amounts to an art. I can remain silent with an air of absorbing interest, and once in a
+while offer brief comment, not to set forth an opinion or display
+any knowledge--for I have none to spare--but merely to suggest new
+channels to the speaker and introduce variety, that he may not tire
+of hearing himself speak. I felt extremely comfortable on the couch. I thought it particularly
+entertaining to hear the doctor tell how it felt to die. There is
+always something pleasantly exciting about death--when it is
+reasonably far away from you. It seemed so beautifully far away from
+the perfume of the tobacco-smoke, the flavour of whisky, and the
+restfulness of the couch, and when my mind wandered to her across
+the fjord--as wander it would in spite of my studied attention--then
+death seemed so far off shore that I could scarcely follow the
+description of how it felt to others to die. In the midst of this dreamy contentment and deluge of information
+from the doctor, the door was somewhat hastily thrown open. I was
+looking the other way and thought it must be one of the doctor's
+children. But it was old man Thordur from the Bend. I knew him well. He was over fifty, tall and large-limbed, with a
+hoary shock of hair and a snub nose. I knew he had a host of
+children--I had been at his door once, and they had run, pattered,
+waddled, crept, and rolled through the doorway to gape at me. It had
+seemed as hopeless to try to count them as a large flock of sheep. I
+knew there was no income except what the old man and woman--and
+possibly the elder children--managed to earn from day to day. My
+employer in Copenhagen had strictly forbidden us to give credit to
+such--and of course he now owed us more than he would ever be able
+to pay. He does not even knock--the old ruffian, I said to myself. From his appearance, something was wrong. His face was unnaturally
+purplish, his eyes strangely shiny--yet dull withal. It even seemed
+to me that his legs shook under him. Can it be that the old devil is tipsy--at the height of the haying
+season--and dry weather at that? I mentally queried. The doctor evidently could not recall who he was. Good-day to you, my man, he said, and what matter have you in hand? I merely came to get those four crowns. Which four crowns? asked the doctor. Thordur raised his voice: The four crowns you owe me. It was now evident that it was difficult for him to remain standing. I felt assured that the old rascal had been drinking like a fish. I
+was surprised. I had never heard he was inclined that way. He lived
+out there on the hillside a short distance above the village. I
+began to wonder where he had been able to obtain so much liquor--
+certainly not from us at the store. What is your name? asked the doctor. My name? Don't you know my name? Don't you know me?--Thordur--
+Thordur of the Bend. I should best of all like to get the money at
+once. Yes, that's so--you are Thordur of the Bend, said the doctor. And
+you are up? But listen, my good man, I owe you nothing. You owe me a
+small sum--but that does not matter in the least. I care nothing about that, but I should best of all like to get the
+money at once, repeated Thordur. May I feel your hand for a minute? said the doctor. Thordur extended his hand, but it seemed to me that he did not know
+it. He looked off into space, as if thinking of other things--or
+rather as if he had no thoughts whatever. I saw the doctor's fingers
+on his wrist. You are a sick man, he said. Sick?--Yes--of course I am sick. Am I then to pay you four crowns? I
+haven't got them now. It makes no difference about those four crowns, but why did you get
+up like this? Have you forgotten that I ordered you to remain in bed
+when I saw you the other day? In bed?--How the devil am I to remain in bed? Tell me that! You must not get up in this condition. Why, you are delirious! What a fool you are--don't you know that there is a dry spell. Yes, I AM aware of the dry spell.--It was evidently not quite clear
+to him what that had to do with the case.--Have a chair, and we will
+talk it over. A chair? No!--Who, then, should dry the hay in the homefield? I had
+some of it cut when I was taken down--why do you contradict me? And
+the youngsters have made some attempts at it--but who is to see
+about drying it?--Not Gudrun--she can't do everything. The
+youngsters?--what do they know about drying hay?--Who, then, is to
+do it?--Are YOU going to do it? Something will turn up for you, said the doctor, somewhat at a loss. Something will turn up? Nothing has ever turned up for ME. Cold shivers passed through me. His remark rang true: I knew that
+nothing had ever turned up for him. I felt faint at looking into
+such an abyss of hopelessness. Instantly I saw that the truth of
+this delirious statement concerned me more than all the wisdom of
+the ages. Do I get those four crowns you owe me?--Thordur asked. He was now
+trembling so that his teeth chattered. The doctor produced four crowns from his purse and handed them to
+him. Thordur laid them on the table and staggered towards the door.-
+-You are leaving your crowns behind, man, said the doctor. I haven't got them now, said Thordur, without looking back and still
+making his way towards the door.--But I'll pay them as soon as I
+can. Isn't there a vacant bed upstairs at the store? inquired the doctor. Yes, I answered. We will walk with you down to the store, Thordur. Walk with me?--Be damned!--I am off for the hay-field. We followed him outside and watched him start out. After a short
+distance he tumbled down. We got him upstairs in the store. A few days later he could have told us, if anyone had been able to
+communicate with him, whether they are right or wrong, those latest
+theories on how it feels to die. --But who dries the hay in his homefield now? Guethmundur Friethjonsson
+
+THE OLD HAY
+
+
+During the latter part of the reign of King Christian the Ninth,
+there lived at Holl in the Tunga District a farmer named Brandur. By
+the time the events narrated here transpired, Brandur had grown
+prosperous and very old--old in years and old in ways. The
+neighbours thought he must have money hidden away somewhere. But no
+one knew anything definitely, for Brandur had always been reserved
+and uncommunicative, and permitted no prying in his house or on his
+possessions. There was, however, one thing every settler in those
+parts knew: Brandur had accumulated large stores of various kinds. Anyone passing along the highway could see that. Brandur usually had some hay remaining in lofts and yards when
+spring came, and, besides, there was the immense stack that stood on
+a knoll out in the homefield before the house. It had been there for
+many years and was well protected against wind and weather by a
+covering of sod. Brandur had replenished the hay, a little at a
+time, by using up that from one end only and filling in with fresh
+hay the following summer. Brandur was hospitable to such guests as had business with him, and
+refused to accept payment for food or lodging; but very few people
+ever came to see him, and these were mostly old friends with whom he
+had financial dealings. Brandur was willing to make loans against
+promissory notes and the payment of interest. There were not many to
+whom he would entrust his money, however, and he never lost a penny. Whenever these callers came, he would bring out the brandy bottle. The buildings at Holl were all in a tumble-down state; the furniture
+was no better. There wasn't a chair in the whole house; even the
+baethstofa had only a dirt floor, and it was entirely unsheathed on
+the inside except for a few planks nailed on the wall from the bed
+up as far as the rafters. The clock was the sole manufactured
+article in the room. But friends of the old man knew that underneath
+his bed he kept a fairly large carved wooden chest, bearing the
+inscription anno 1670. The chest was heavy and was always kept
+locked. Only the nearest of kin had ever seen its contents. Brandur was not considered obliging; it was very difficult to get to
+see him. Yet he was willing to sell food at any time for cash; hay,
+too, as long as there was still some remaining in his lofts. He
+would also sell hay against promises of lambs, especially wethers,
+once it was certain that the cold of winter was past. But his old
+haystack he refused to touch for anyone. In this way Brandur stumbled down the pathway of life until he lost
+his sight. Even then, he was still sound in mind and body. While his
+vision remained unimpaired, it had been his habit to walk out to the
+old haystack every day and stroll around it slowly, examining it
+carefully from top to bottom and patting it with his hands. This
+habit he kept up as long as the weather permitted him to be
+outdoors, and he did not give it up even after his sight was gone. He would still take his daily walk out to the haystack on the knoll,
+drag himself slowly around it, groping with his hands to feel it, as
+if he wished to make sure that it still stood there, firm as a rock
+and untouched. He would stretch out his hands and touch its face and
+count the strips of turf to himself in a whisper. Brandur still tilled the land, though he kept but little help and
+was living chiefly on the fruits of his former labours. He had fine
+winter pastures, and good meadows quite near the house, from which
+the hay could easily be brought in. The old man steadfastly refused
+to adopt modern farming methods; he had never levelled off the
+hummocks, nor drained or irrigated the land. But he did hire a few
+harvest hands in the middle of the season, paying them in butter,
+tallow, and the flesh of sheep bellies. The wages he paid were never
+high, yet he always paid whatever had been agreed upon. Old Brandur had been blessed with only one child, a daughter named
+Gudrun. who had married a farmer in the district. Since his
+daughter's marriage, Brandur kept a housekeeper and one farm hand, a
+young man whom Brandur had reared and who, it was rumoured, was his
+natural son. But that has nothing to do with the story. When Brandur had reached a ripe old age, there came a winter with
+much frost and snow. Time and again, some of the snow and ice would
+thaw, but then a hard frost would come, glazing everything in an icy
+coating. This went on until late in April. By that time, almost
+every farmer in the district had used up his hay; every one of them
+was at the end of his store, and nowhere was there a blade of grass
+to feed the live-stock, for the land still lay frozen under its
+blanket of hard-packed snow and ice. When things had come to this
+pass, a general district meeting was called to discuss the situation
+and decide what should be done. Brandur's son-in-law Jon was made
+chairman of the meeting. During the discussion it was brought to light that many of the
+flocks would die of hunger unless 'God Almighty vouchsafed a turn in
+the weather very soon', or Old Brandur could be induced to part with
+his old hay. That stack would help, if properly divided among those
+who were in greatest need. The quantity of hay it contained was
+estimated, and the general opinion expressed that, if it were
+divided, the flocks of every farmer in the district could be fed for
+at least two weeks, even if they could not in that time be put out
+to pasture. Jon being chairman of the District Council, as well as Brandur's
+son-in-law, it fell to his lot to go to the old man and ask for the
+hay. So it came about that, on his way home from the meeting, Jon stopped
+at Holl. The day was cold and clear, the afternoon sun shining down
+upon the snow-covered landscape. The icy blanket turned back the
+rays of warmth as if it would have nothing to do with the sun. But
+wherever rocks and gravelly banks protruded, the ice appeared to be
+peeled off, for in those spots the sun's rays had melted it, though
+only at mid-day and on the south. All streams and waterfalls
+slumbered in silence under the snowy blanket. A chill silence
+reigned over the whole valley. Not a bird was to be seen, not even a
+snow bunting, only two ravens which kept flying from farmhouse to
+farmhouse, and even their cawing had a hungry note. When Jon rode up to the house at Holl, he found Brandur out by the
+haystack. The old man was carefully groping his way around the
+stack, feeling it on all sides and counting the strips of turf in so
+loud a voice that Jon could hear him: O-n-e, t-w-o, three. Jon dismounted and, going over to Brandur, saluted him with a kiss. How are you? God bless you, said Brandur. And who may this be? Jon of Bakki, replied the visitor.--Gudrun sends greetings. Ah, yes. And how is my Gunna? Is she well? She was well when I left home this morning. Now I am on my way back
+from the meeting that was held to discuss the desperate situation--
+you must have heard about it. Yes, certainly. I've heard about it. I should say so! One can't get
+away from talk of hay shortage and hard times. That is quite true. Any other news? Nothing worth mentioning, answered Jon. Nothing but the general hard
+times and hay shortage. Every farmer at the end of his tether, or
+almost there, no one with as much as a wisp of hay to spare, and
+only a few likely to make out till Crouchmas without aid. Too bad! said Brandur. Too bad! And he blew out his breath, as
+though suffocating from strong smoke or bad air. For a while there was silence, as if each mistrusted the other and
+wondered what was in the air. Brandur stood there with one hand
+resting on the haystack, while he thrust the other into his trousers
+pocket, or underneath the flap of his trousers. He always wore the
+old-fashioned trousers with a flap, in fact had never possessed any
+other kind. Meanwhile, holding the reins, Jon stood there gazing at
+the hay and making a mental estimate of it. Then he turned to his
+father-in-law and spoke:
+
+The purpose of my visit to you, my dear Brandur, is to ask that you
+let us have this hay--this fine old hay that you have here. The
+District Council will, of course, pay you; the parish will guarantee
+payment. We have discussed that matter fully. When Jon ceased speaking, Brandur blew the air from his mouth in
+great puffs, as though deeply stabbed by a sharp pain in the heart. For a while he held his peace. Then he spoke:
+
+Not another word! Not another word! What's this I hear? My hay for
+the district? My hay to supply all the farmers in the district? Do
+you think for one moment that this little haystack is enough to feed
+all the flocks in the whole district? Do you think this tiny haycock
+will be enough for a whole parish? I think not! But we have calculated it, protested Jon. We have estimated that the
+hay in this stack will be enough to feed the flocks in the district
+for about two weeks, if a little grain is used with it, and if the
+hay is distributed equally among the farmers who need it most. There
+may be enough for three weeks, should it turn to be as much as or
+more than I expect. By that time, we surely hope, the season will be
+so far advanced that the weather will have changed for the better. So! You have already estimated the amount of hay in my stack! said
+Brandur. You have already divided this miserable haycock among
+yourselves, divided it down to the very last straw. And you have
+weighed it almost to a gram. Then why speak to me about it? Why not
+take it just as it is and scatter it to the four winds? Why not?--
+The voice of the old man shook with anger. No, said Jon. We will not do that. We want to ask your permission
+first. We had no intention of doing otherwise; we intended to ask
+you for the hay. And we did not mean to vex you, but rather to
+honour you in this manner. Is it not an honour to be asked to save a
+whole district from ruin? Oh, so all this is being done to honour me! said the old man,
+roaring with laughter. Perhaps you believe me to be in my second
+childhood. Not at all! Old Brandur can still see beyond the tip of
+his nose. The cold-heartedness shown by the old man's laughter at the distress
+of his fellowmen roused Jon's ire. He could see nothing laughable
+about the desperate situation in the district. Are you then going to refuse to let us have the hay, refuse to sell
+it at full price, with the Parish Council guaranteeing payment? he
+asked in a tone that was angry, yet under perfect control?--Is that
+your final answer? Yes, responded Brandur. That is my final answer. I will not let the
+tiny mouthful of hay I have here go while there is still life in my
+body, even though you mean to insure payment, and even though you
+actually do guarantee payment. After all, who among you will be in a
+position to guarantee payment if all the flocks die? The cold
+weather may not let up until the first of June or even later. In
+that case the sheep will all die. It won't go very far, this tiny
+haycock, not for so many. It will not, I tell you. But what are you going to do with the hay? If everyone else loses
+his flocks, everyone but you, what enjoyment will there be in owning
+it? And what benefit? asked Jon. That does not concern me! replied the old man. That concerns them. It was they who decided the size of the flocks they undertook to
+feed this winter, not I. Besides, they could have cut as much hay as
+I did, even more, for they still have their eyesight. Their failure
+is due to their own laziness and bad judgment. That's what ails
+them! Ruins them! But you won't be able to take this great big haystack with you into
+the life eternal, said Jon. The time is coming when you will have to
+part with it. Then it will be used as the needs require. And what
+good will it do you? What are you going to do with it? I am going to keep it, answered Brandur. I intend to keep it right
+here on the knoll, keep it in case the haying should be poor next
+summer. There may be a poor growth of grass and a small hay crop;
+there may be a volcanic eruption and the ashes may poison the grass,
+as they have done in former years. Now, do you understand me? So saying, Brandur tottered off towards the house to indicate that
+the conversation was at an end. His countenance was as cold as the
+sky in the evening after the sun has set, and the hard lines in it
+resembled the streaks in the ice on rocks and ledges where the sun's
+rays had shone that day and laid bare the frozen ground. Brandur entered the house, while Jon mounted again. They scarcely
+said a word of farewell, so angry were they both. Jon's horse set off at a brisk pace, eager to reach home, and
+galloped swiftly over the hard, frozen ground. After the sun had
+gone down, the wind rose and a searing cold settled over the valley,
+whitening Jon's moustache where his breath passed over it. Jon's anger grew as he sped along. Naturally hightempered, he had
+lately had many reasons for anger since he took over his official
+duties. The people in his district were like people the world over:
+they blamed the Board constantly, accusing it of stupidity and
+favouritism. Yet most of them paid their taxes reluctantly and only
+when long overdue. Sometimes they were almost a year in arrears. Jon reviewed the matter of the hay in his mind, also the other
+vexations of the past. He was sick and tired of all the trouble. And
+now the life of the whole district hung on a thin thread, the fate
+of which depended upon the whims of the weather. Jon's nose and
+cheekbones smarted from the cold; his shoes were frozen stiff, and
+pinched his feet, and his throat burned with the heat of anger
+rising from his breast. Jon was rather quiet when he reached home that evening, although he
+did tell his wife of his attempt to deal with her father. Yes, said Gudrun, papa sets great store by that hay. He cannot bear
+to part with it at any price. That is his nature. Tomorrow you must go, Jon told her, and try to win the old man over
+in some way. I'd hate to be obliged to take the hay from him by
+force, but that will be necessary if everything else fails. The following day Gudrun went to see her father. The weather still
+remained cold. When Gudrun dismounted before the house at Holl,
+there was no one outside to greet her or announce her arrival, and
+so she entered, going straight into the baethstofa. There she found
+her father sitting on his bed, knitting a seaman's mitten, crooning
+an old ditty the while:
+
+     Far from out the wilderness
+      Comes raging the cold wind;
+      And the bonds of heaven's king
+      It doth still tighter bind. Gudrun leaned over her father and kissed him. Is that you, Gunna dear? he asked. Yes papa, she said, at the same time slipping a flask of brandy into
+the bosom of his shirt. This greatly pleased the old man. Gunna dear, he said, you always bring me something to cheer me up. Not many nowadays take the trouble to cheer the old man. No indeed. Any news? It's so long since you have been to see me, a year or
+more. No news everyone hasn't heard: hard times, shortage of hay, and
+worry everywhere. That is only to be expected. It's been a hard
+winter, the stock stall-fed for so long, at least sixteen weeks, on
+some farms twenty. Quite true, said Brandur. It's been a cold winter, and the end is
+not yet. The cold weather may not break up before the first of June,
+or even Midsummer Day. The summer will be cold, the hay crop small,
+and the cold weather will probably set in again by the end of
+August, then another cold hard winter, and ... He meant to go on, foretelling yet worse things to come, but Gudrun
+broke in: Enough of that, father. Things can't be as bad as that It
+would be altogether too much. I hope for a change for the better
+with the new moon next week, and mark you, the new moon rises in the
+southwest and on a Monday; if I remember right, you always thought a
+new moon coming on a Monday brought good weather. I did, conceded Brandur. When I was a young man, a new moon coming
+on a Monday was generally the very best kind of moon. But like
+everything else, that has changed with the times. Now a Monday new
+moon is the worst of all, no matter in what quarter of the heavens
+it appears, if the weather is like this--raging sad carrying on so;
+that is true. But things are in a pitiful state, said Gudrun, what with the hay
+shortage, almost everyone is badly off, and not a single farmer with
+a scrap of hay to spare, except you, papa. Yes, I! answered Brandur. I, a poor, blind, decrepit old man! But
+what of you? Jon has enough hay, hasn't he? How is that? Doesn't he
+have enough? Yes, we do have enough for ourselves, admitted Gudrun. But we can't
+hold onto it. Jon lends it to those in need until it is all gone and
+there is none left for us. He thinks of others as well as of
+himself. What nonsense! What sense is there in acting like that? Every man
+for himself, said the old man. That's right. But for us that is not enough. Jon is in a position
+where he must think of others; he has to think of all the farmers in
+the district--and small thanks he gets for his pains. He is so
+upset, almost always on tenterhooks. He didn't sleep a wink last
+night--was almost beside himself. He takes it so hard. So Jon couldn't sleep a wink last night! repeated Brandur. Why be so
+upset? Why lie awake nights worrying about this? That doesn't help
+matters any. It isn't his fault that they are all on the brink of
+ruin. Quite true, answered Gudrun. He is not to blame for that, and lying
+awake nights doesn't help matters, but that is Jon's disposition. He's tired to death of all the work for the Council and the
+everlasting fault-finding. He has had to neglect his own farm since
+he took up these public duties--and nothing for his time and
+trouble. Now this is too much. He is dead tired of it all, and so am
+I. In fact, I know it was worry about all this that kept Jon awake
+last night. We have been thinking of getting away from it all when
+spring comes and going to America. Do you side with him in this? asked Brandur, grasping his daughter
+by the arm. Do you, too, agree to his giving away the hay you need
+for your own flocks, giving it away until you haven't enough for
+yourselves? Do you, too, want to go to America, away from your
+father who now has one foot in the grave? Yes, I do, Gudrun replied. As a matter of fact, the plan was
+originally mine. If our flocks die, there will be no alternative;
+but if our sheep live and those of the neighbours die, our life will
+not be worth living because of the poverty and want round about us. Yes, papa, it was I suggested our going. I could see no other way
+out. On hearing this, Brandur's mood softened somewhat. I expected to be
+allowed to pass my last days with you and your children, he said. I
+cannot go on living in this fashion any longer. Pass your last days with us! exclaimed Gudrun. Have you, then,
+thought of leaving Holl? Have you planned to come and live with us? You've never said a word of this to me. I have no intention of leaving Holl. That I have never meant to do. But that is not necessary. I thought you might perhaps be willing to
+move over here and live with me. I could then let you have what
+miserable little property I have left, Gunna, my dear. And what about the hay, papa? Will you turn the hay over to us, the
+hay in the old stack? Everything depends on that. The hay! The hay! the old man said. Still harping on the hay--the
+hay which doesn't amount to anything and cannot be of any real help. It's sheer nonsense to think that the hay in that stack is enough to
+feed the flocks of a whole district. There is no use talking about
+it I will not throw that tiny mouthful to all the four winds. It
+will do no good if divided among so many, but it is a comfort to me,
+to me alone. No, I will not part with it as long as there is a spark
+of life in me. That I will not, my love. Brandur turned pale and the lines in his face became hard and rigid. Looking at him, Gudrun knew from experience that he was not to be
+shaken in his determination when in this mood. His face was like a
+sky over the wilderness streaked with threatening storm clouds. Gudrun gave up. The tears rushed to her eyes, as she twined her arms
+around her father's neck and said: Goodbye, papa. Forgive me if I
+have angered you. I shall not come here again. The old man felt the teardrops on his face, the heavy woman's tears,
+hot with anger and sorrow. Gudrun dashed out of the room and mounted. Brandur was left alone in
+the darkness at mid-day. Yet in his mind's eye he could see the
+haystack out on the knoll. He rose and went out to feel it. It was
+still there. Gudrun had not ridden away with it. Brandur could hear
+the horseshoes crunching the hard, frozen ground as Gudrun rode off. He stood motionless for a long time, listening to the hoof beats. Then he went into the house. Brandur felt restless. He paced the floor awhile, stopped for a
+moment to raise to his lips the flask his daughter had brought him,
+and drained it at one gulp. All that day he walked the floor,
+fighting with himself until night fell. Then he sent his foster-son with a message to his daughter. Jon, he
+said, had his permission to haul the hay away the very next day, but
+it was all to be removed in one day; there was not to be a scrap of
+hay or a lump of sod left by evening. But the weather changes quickly, says an old Icelandic adage. By
+morning, the weather had turned its spindle and the wind shifted to
+the south. Jon sent no message to anyone, nor did he proclaim that
+the old hay was available. He first wished to see what the thaw
+would amount to. By the following day, the whole valley was
+impassable because of slush and water, and the patches of earth
+appearing through the snowy blanket grew larger almost hourly. Meanwhile, Brandur roamed through the house all day long, asking if
+anyone had come.--Aren't they going to take away these miserable hay
+scraps? About time they came and got them!--He seemed eager that the
+hay be removed at once. That day he did not take his usual walk out to the stack to feel the
+hay. In fact, after that no one ever saw him show attachment to the
+old hay. His love of it seemed to have died the moment he granted
+his son-in-law permission to take it away. That spring Brandur gave up housekeeping and of his own volition
+turned over the farm to his daughter and son-in-law. With them he
+lived to enjoy many years of good health. Never again did he take
+his daily walk out to the haystack to feel the hay. But he was able
+to take his sip of brandy to his dying day and repeat to himself the
+word of God--hymns and verses from the Bible. Now he has passed on to eternity. But his memory lives like a stone-
+-a large, moss-covered stone by the wayside. Jon TRAUSTI
+
+WHEN I WAS ON THE FRIGATE
+
+
+I was stormbound in the fishing village. I had come there by
+steamer, but now the steamer was gone and I was left behind there, a
+stranger, at a loss what to do. My idea was to continue my journey overland, and my route lay for
+the most part through the mountainous country on the other side of
+the fjord. I hadn't managed to hire horses or a guide, and it was no
+easy matter to find one's own way in such stormy weather when the
+rivers were running in full flood. This was in the spring-time,
+round about the beginning of May. I was staying at the home of the local doctor, who had given me
+shelter and who was now trying to help me in every way he could. He
+was in my room with me, and we were both sitting there, smoking
+cigars and chatting together. I had given up all hope of continuing
+my journey that day and was making myself comfortable on the
+doctor's sofa. But when we least expected it, we heard the sound of
+heavy sea-boots clumping along the corridor, and there was a knock
+at the door. Come in, said the doctor. The door opened slowly, and a young man in
+seamen's clothes stood in the doorway. I was asked to tell you that old Hrolfur from Weir will take that
+chap over there across in his boat, if he likes, said the man,
+addressing himself to the doctor. We both stood up, the doctor and I, and walked towards the door. That possibility hadn't occurred to either of us. Is old Hrolfur going fishing then? asked the doctor. Yes, he's going out to the islands and staying there about a week. It won't make any difference to him to slip ashore at Muladalir, if
+it would be any help. That's fine, said the doctor, turning to me. It's worth thinking
+over, unless you really need to go round the end of the fjord. It'll
+save you at least a day on your journey, and it'll be easier to get
+horses and a man in Muladalir than it is here. This was all so unexpected that I didn't quite know what to say. I
+looked at the doctor and the stranger in turn, and my first thought
+was that the doctor was trying to get rid of me. Then it occurred to
+me what a fine thing it would be to avoid having to cross all those
+rivers which flow into the head of the fjord. Finally I decided that
+the doctor had no ulterior motive and that his advice was prompted
+by sheer goodwill. Is old Hrolfur all right at the moment? the doctor asked the man in
+the doorway. Yes, of course he is, said the man. All right? I said, looking at them questioningly. I thought that was
+a funny thing to ask. The doctor smiled. He's just a bit queer--up here, he said, pointing to his forehead. The thought of having to set out on a long sea journey with a man
+who was half crazy made me shudder. I am certain, too, that the
+doctor could see what I was thinking, for he smiled good-naturedly. Is it safe to go with him then? I asked. Oh yes, quite safe. He's not mad, far from it. He's just a bit
+queer--he's got 'bats in the belfry', as men say. He gets these
+attacks when he's at home in the dark winter days and has nothing to
+occupy him. But there's little sign of it in the summer. And he's a
+first-class seaman. Yes, a first-class seaman who never fails, said the man in the
+doorway. It's quite safe to go on board with him now. You can take
+my word for that. Are you going with him? asked the doctor. Yes, there's a crew of three with him. There'll be four of us in the
+boat altogether. I looked at the man in the doorway--he was a young man of about
+twenty, promising and assured. I liked the look of him, very much. Secretly I began to be ashamed of not daring to cross the fjord with
+three men such as he, even though the skipper was 'a bit queer in
+the head'. Are you going to-day? said the doctor. Don't you think it's blowing
+a bit hard? I don't think old Hrolfur'll let that bother him, said the man and
+smiled. Can you use your sails? Yes, I think so--there's a fair wind. It was decided that I should go with them. I went to get ready as
+quickly as possible, and my luggage, saddle and bridle, were carried
+down to the boat. The doctor walked to the jetty with us. There, in the shelter of the breakwater, was old Hrolfur's boat, its
+mast already stepped, with the sail wrapped round it. It was a four-
+oared boat, rather bigger than usual, tarred all over except for the
+top plank, which was painted light blue. In the boat were the
+various bits of equipment needed for shark-fishing, including a
+thick wooden beam to which were attached four hooks of wrought iron,
+a keg of shark-bait which stank vilely, and barrels for the shark's
+liver. There were shark knives under the thwarts and huge gaffs
+hooked under the rib-boards. The crew had put the boxes containing
+their food and provisions in the prow. In the stern could be seen the back of a man bending down. He was
+arranging stones in the well of the boat. He was dressed in overalls
+made of skin, which reached up to his armpits and which were
+fastened by pieces of thin rope crossing over his shoulders. Further
+forward there was a second man, and a third was up on the jetty. Good day to you, Hrolfur, said the doctor. Good day to you, grunted Hrolfur as he straightened himself up and
+spat a stream of yellowish-brown liquid from his mouth. Hand me that
+stone over there. These last words were addressed not to the doctor or me, but to the
+man on the jetty. Hrolfur vouchsafed me one quick, unfriendly
+glance, but apart from that scarcely seemed to notice me. The look
+in those sharp, haunting eyes went through me like a knife. Never
+before had anyone looked at me with a glance so piercing and so full
+of misgiving. He was a small man, and lively, though ageing fast. The face was
+thin, rather wrinkled, dark and weather-beaten, with light untidy
+wisps of hair round the mouth. I was immediately struck by a curious
+twitching in his features, perhaps a relic of former bouts of
+drinking. Otherwise his expression was harsh and melancholy. His
+hands were red, swollen and calloused as if by years of rowing. Don't you think it's blowing rather hard, Hrolfur? asked the doctor
+after a long silence. Oh, so-so, answered Hrolfur, without looking up. Again there was silence. It was as if Hrolfur had neither time nor
+inclination for gossiping, even though it was the district medical
+officer talking to him. The doctor looked at me and smiled. I was meant to understand that
+this was exactly what he had expected. After another interval the doctor said: You are going to do this
+traveller a favour then, Hrolfur? Oh, well, the boat won't mind taking him. In other words, I was to be nothing but so much ballast. Don't you think it's going to be tricky landing there in Mular
+Creek? Hrolfur straightened up, putting his hand to his back. Oh, no, damn it, he said. There's an offshore wind and the sea's not
+bad, and anyway we'll probably get there with the incoming tide. It isn't going to take you out of your way? I asked. We won't argue about that. We'll get there all the same. We often
+give ourselves a rest in the old creek when we have to row. Immediately afterwards I said good-bye to the doctor and slid down
+into the boat. The man on the jetty cast off, threw the rope down
+into the boat and jumped in after it. One of the crew thrust the handle of an oar against the breakwater
+and pushed off. Then they rowed for a short spell to get into the
+wind, whilst old Hrolfur fixed the rudder. The sail filled out; the boat heeled gently over and ran in a long
+curve. The islets at the harbour mouth rushed past us. We were
+making straight for the open bay. On the horizon before us the mountainous cliffs, dark blue with a
+thick, ragged patch of mist at the top, towered steeply over the
+waves. In between, the sea stretched out, seemingly for miles. Hrolfur was at the rudder. He sat back in the stern on a crossbeam
+flush with the gunwale, his feet braced against the ribs on either
+side and in his hands the rudder lines, one on each side, close to
+his thighs. I was up with the crew near the mast. We all knew from experience
+that Icelandic boats sailed better when well-loaded forward. All
+four of us were lying down on the windward side, but to leeward the
+foam still bubbled up over the rowlocks. If you think we're not going fast enough, lads, you'd better start
+rowing--but no extra pay, said old Hrolfur, grinning. We all took his joke well, and I felt that it brought me nearer to
+the old man; up to then I'd been just a little scared of him. A joke
+is always like an outstretched hand. For a long time we hardly spoke. In front of the mast we lay in
+silence, whilst old Hrolfur was at the stern with the whole length
+of the boat between us. The crew did all they could to make me comfortable. I lay on some
+soft sacking just in front of the thwart and kept my head under the
+gunwale for protection. The spray from the sea went right over me
+and splashed down into the boat on the far side. The boy who had come for me to the doctor's settled himself down in
+the bows in front of me. His name was Eric Ericsson, and the more I
+saw of him the more I liked him. The second member of the crew sat crosswise over the thwart with his
+back to the mast. He too was young, his beard just beginning to
+grow, red-faced, quiet and rather indolent-looking. He seemed
+completely indifferent, even though showers of spray blew, one after
+another, straight into his face. The third member of the crew lay down across the boat behind the
+thwart; he put a folded oilskin jacket under his head and fell
+asleep. For a long time, almost an hour, I lay in silence, thinking only of
+what I saw and heard around me. There was more than enough to keep
+me awake. I noticed how the sail billowed out, full of wind, pulling hard at
+the clew-line, which was made fast to the gunwhale beside Hrolfur. The fore-sail resembled a beautifully curved sheet of steel, stiff
+and unyielding. Both sails were snow-white, semi-transparent and
+supple in movement, like the ivory sails on the model ships in
+Rosenborg Palace. The mast seemed to bend slightly and the stays
+were as taut as fiddle-strings. The boat quivered like a leaf. The
+waves pounded hard against the thin strakes of the boat's side. I
+could feel them on my cheek, though their dampness never penetrated;
+but in between these hammer blows their little pats were wonderfully
+friendly. Every now and then I could see the white frothing of the
+wave-crests above the gunwale, and sometimes under the sail the
+horizon was visible but, more often, there was nothing to be seen
+but the broad back of a wave, on which, for a time, the boat tossed
+before sinking down once more. The roll was scarcely noticeable, for
+the boat kept at the same angle all the time and cleft her way
+through the waves. The motion was comfortable and soothing to the
+mind; quite unlike the violent lunging of bigger ships. Gradually the conversation came to life again. It was Eric who
+proved to be the most talkative, though the man on the thwart also
+threw in a word here and there. We began to talk about old Hrolfur. We spoke in a low voice so that he shouldn't hear what we said. There was, indeed, little danger of his doing so--the distance was
+too great and the storm was bound to carry our words away; but men
+always lower their voices when they speak of those they can see,
+even though they are speaking well of them. My eyes scarcely left old Hrolfur, and as the men told me more, my
+picture of him became clearer and clearer. He sat there silent, holding on to the steering ropes and staring
+straight ahead, not deigning us a single glance. The crew's story was roughly this. He was born and bred in the village, and he had never left it. The
+croft which he lived in was just opposite the weir in the river
+which flowed through the village, and was named after it. He went to sea whenever possible; fished for shark in the spring and
+for cod and haddock in the other seasons. He never felt so happy as
+when he was on the sea; and if he couldn't go to sea, he sat alone
+at home in the croft mending his gear. He never went down to the
+harbour for work like the other fishermen and never worked on the
+land. Humming away and talking to himself he fiddled about in his
+shed, around his boat-house or his croft, his hands all grubby with
+tar and grease. If addressed, he was abrupt and curt in his answers,
+sometimes even abusive. Hardly anyone dared go near him. Yet everyone liked him really. Everyone who got to know him said
+that he improved on acquaintance. His eccentricity increased as he
+grew older, but particularly after he had lost his son. His son was already grown-up and had been a most promising young
+fellow. He was thought to be the most daring of all the skippers in
+the village and always went furthest out to sea; he was also the
+most successful fisherman of them all. But one day a sudden storm
+had caught them far out to sea, well outside the mouth of the fjord. Rowing hard, in the teeth of wind and tide, they managed to reach
+the cliffs, but by that time they were quite exhausted. Their idea
+had been to land at Mular Creek, but unfortunately their boat
+overturned as they tried to enter. Hrolfur's son and one other on
+board had been drowned, though the rest were saved. After the disaster Hrolfur ignored everybody for a long time. It
+wasn't that he wept or lost heart. Perhaps he had done so for the
+first few days, but not afterwards. He just kept to himself. He took
+not the slightest notice of his wife and his other children, just as
+if they were no longer his concern. It was as though he felt he'd
+lost everything. He lived all alone with his sorrow and talked of it
+to no one. Nobody tried to question him; no one dared try to comfort
+him. Then, one winter, he started talking to himself. Day and night, for a long time, he talked to himself, talked as
+though two or more men were chatting together, changing his tone of
+voice and acting in every way as though he were taking part in a
+lively and interesting conversation. There was nothing silly in what
+he said, although the subject matter was often difficult to follow. He would always answer if anyone spoke to him, slowly to be sure,
+but always sensibly and agreeably. Often, before he could answer, it
+was as though he had to wake up as from a sleep, and yet his work
+never suffered from these bouts of absentmindedness. He never talked about his son. The conversations he held with
+himself were mostly concerned with various adventures he thought had
+befallen him; some were exaggerated, others pure invention. Sometimes he would talk of things he was going to do in the future,
+or things he would have done or ought to have in the past, but never
+about the present. It wasn't long before the rumour spread that old Hrolfur was crazy,
+and for a long time hardly anyone dared to go to sea with him. Now, that's all a thing of the past, said Eric and smiled. Nowadays
+there are always more who would like to go with him than he can
+take. And does he catch plenty of fish? Yes, he rarely fails. Isn't he quite well-off then? I don't know. At any rate he's not dependent on anyone else, and
+he's the sole owner of his boat and tackle. He's rolling in money, the old devil, said the man at the mast,
+wiping the spray from his face with his hand. Then they began to tell me about Mular Island and the life they
+would lead there in the coming week. The island was a barren rock beyond the cliffs, and, in the autumn
+storms, was almost covered by the waves. The first thing they'd have
+to do, when they arrived, was to rebuild their refuge from the year
+before, roof it over with bits of driftwood and cover them with
+seaweed. That was to be their shelter at night, no matter what the
+weather. Nature had provided a landing-place, so that they'd no
+trouble with that, though the spot was so treacherous that one of
+them would have to stand watch over the boat every night. Each evening they would row off from the island with their lines to
+some well-known fishing bank, for it was after midnight that the
+shark was most eager to take the bait. Savouring in his nostrils the
+smell of horse flesh soaked in rum and of rotten seal blubber, he
+would rush on the scent and greedily swallow whatever was offered. When he realised the sad truth that a huge hook with a strong barb
+was hidden inside this tempting dish and that it was no easy matter
+to disgorge the tasty morsel, he would try to gnaw through the shaft
+of the hook with his teeth. Very occasionally he might succeed, but
+usually his efforts failed. Attached to the hook was a length of
+strong iron chain; and sometimes, though defeated by the hook, he
+would manage to snip through the chain. 

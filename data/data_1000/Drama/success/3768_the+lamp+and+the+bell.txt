@@ -1,0 +1,583 @@
+
+
+
+
+Produced by David Starner and the Distributed Proofreaders Team
+
+
+
+
+
+THE LAMP AND THE BELL
+
+A Drama In Five Acts
+
+By Edna St. Vincent Millay
+
+
+
+Written on the occasion of the Fiftieth Anniversary of the Founding
+of the Vassar College Alumnae Association
+
+Dedicated to '1917'
+
+
+
+
+  Lorenzo, King of Fiori           Julia Lovejoy Cuniberti '11
+  Mario, King of Lagoverde         Valerie Knapp '20
+  Guido, Duke of Versilia,
+  Illegitimate nephew to Lorenzo   Louisa Brook Jones '07
+
+  Giovanni                         Katherine Jones '20
+  Luigi                            Muriel Izard '17
+  Anselmo                          Lucia Cole Waram '01
+  Raffaele                         Eleanor Kissan '20
+  Gentlemen at the court of Lorenzo
+
+  Fidelio                          Geneva Harrison '20
+  Jester at the court of Lorenzo
+
+  Giuseppe                         Eleanor Fatman Morgenthau '13
+  Agent for the Duke's estates
+
+  Cesco                            Gertrude Taylow Watkins '07
+  Horatio                          Lucille Stimson Harbey '09
+  Townsmen of Fiori
+
+  Beppo                            Marcell Furman Newburg '19
+  A little boy, son to Guiliana
+
+  Rigo                             Ruth Delepenha '17
+  Louis                            Emily Gallagher '21
+  Little boys, sons to Leonora
+
+  Clerk                            Lucy Madeira Wing '96
+
+  Messenger                        Esther Saville Davis '06
+
+  Octavia, Lorenzo's second wife   Montgomery Cooper '09
+
+  Beatrice, "Rose-Red,"            Clifford Sellers '21
+  Daughter to Lorenzo by a former marriage
+
+  Bianca, "Snow-White,"            Lois Duffie '20
+  Daughter to Octavia by a former marriage
+
+  Laura                           Frances Stout Kellman '17
+  Carlotta                        Kathleen Millay Young ex-'21
+  Francesca                       Dorothy Comstock '19
+  Viola                           Lillian White '18
+  Lilina                          Caroline Goodrich '16
+  Lela                            Sylvia Brockway '20
+  Arianna                         Margaret Hughes '18
+  Claudia                         Janet Lane '18
+  Clara                           Jeanette Baker '18
+  Lucia                           Ellen Hasbrouck '15
+  Ladies at the Court of Lorenzo
+
+  Grazia                          Eleanor Ray Broeniman '99
+  Nurse to Beatrice and Bianca
+
+  Giulietta, servant to Bianca    Virginia Archibold '17
+  "Little Snow-White"             Gretchen Tonks
+  "Little Rose-Red"               Joy Macracken '36
+
+  Leonora                         Catherine Barr '20
+  Giuliana                        Mabel Hastings Humpstone '94
+  Clara                           Olive Remington '19
+  Giovanitta                      Caroline Curtis Johnson '83
+  Anna                            Frances Haldeman Sidwell '84
+  Eugenia                         Helen Hoy Greeley '99
+  Townsmen of Fiori
+
+  Eleanora
+  A little girl, daughter to Leonora
+
+  Gilda                           Ruth Benedict '20
+  A little girl, sister to Beppo
+
+  Adelina, another little girl    Maiserie MacCracken '31
+  Nurse                           Edith Ward
+
+  Pierrot
+  Harlequin
+  Pant Aloon
+  Polichinello
+  Colombine
+  Strolling players
+
+  Courtiers, Ladies-in-Waiting, Soldiers, Pages, Musicians,
+  Towns-people, Children
+
+
+
+
+PROLOGUE
+
+      [Anselmo and Luigi]
+
+  ANSELMO. What think you,--lies there any truth in the tale
+  The King will wed again? LUIGI. Why not, Anselmo? A king is no less lonely than a collier
+  When his wife dies, And his young daughter there,
+  For all her being a princess, is no less
+  A motherless child, and cries herself to sleep
+  Night after night, as noisily as any,
+  You may be sure. ANSELMO. A motherless child loves not,
+  They say, the second mother. Though the King
+  May find him comfort in another face,--
+  As it is well he should--the child, I fancy,
+  Is not so lonely as she is distraught
+  With grief for the dead Queen, and will not lightly
+  Be parted from her tears. LUIGI. If tales be true,
+  The woman hath a daughter, near the age
+  Of his, will be a playmate for the Princess. CURTAIN
+
+
+
+
+ACT I
+
+  Scene 1
+
+      [Scene: A garden of the palace at Fiori; four years later.] [Discovered seated Laura, Francesca and Fidelio, Laura embroidering,
+      Fidelio strumming his flute, Francesca lost in thought.] LAURA. You,--Fool! If there be two chords to your lute,
+  Give us the other for a time! FRANCESCA. And yet, Laura,
+  I somewhat fancied that soft sound he made. 'Twas all on the same tone,--but 'twas a sweet tone. LAURA. 'Tis like you. As for myself, let music change
+  From time to time, or have done altogether. Sing us the song, Fidelio, that you made
+  Last night,--a song of flowers, and fair skies,
+  And nightingales, and love. FIDELIO. I know the song. It is a song of winter. LAURA. How is that? FIDELIO. Because it is a song of summer set
+  To a sad tune. FRANCESCA. [Sadly] Ah, well,--so that it be not
+  A song of autumn, I can bear to hear it. LAURA. In any case, music. I am in a mood for music. I am in a mood where if something be not done
+  To startle me, I shall confess my sins. [Enter Carlotta.] CARLOTTA. Ha! I will have that woman yet by the hair! LAURA. What woman, pray, Carlotta? CAR. Ho! What woman! Who but that scullery-wench, that onion-monger,
+  That slatternly, pale bakress, that foul witch,
+  The coroneted Fish-Wife of Fiori,
+  Her Majesty, the Queen! FRA. Hush--hush--Carlotta! You could be put to death for less than that! CAR. Not I, my duck. When I am put to death
+  'Twill be for more! Oh, I will have her yet
+  By the hair! [For the first time noticing Fidelio.] Fidelio, if you breathe one word
+  Of this, I will scratch the Princess into ribbons,
+  Whom you love better than your wit. FID. I' faith,
+  I did but hear you say you are a fish-wife,
+  And all the world knows that. LAU. Fear not, Carlotta,
+  He is as dumb as a prophet. Every second word
+  He utters, eats the one before it. Speak,
+  But softly. CAR. Nay,'tis nothing.--Nay, by my head,
+  It is a townful! 'Tis the way she has
+  Of saying "that should be done like this, and this
+  Like that!" The woman stirs me to that point
+  I feel like a carrot in a stew,--I boil so
+  I bump the kettle on all sides! LAU. My dear,
+  Were you as plump as I you would not dare
+  Become so angry. It would make your stays creak. CAR. Well, I am done. Fidelio, play me a dirge
+  To put me in good spirits. Merry music
+  Is sure to make me sad. [Fidelio plays. Pause.] CAR. 'Tis curious
+  A woman like her should have a child like that--
+  So gentle and so pretty-mannered. Faith,--
+
+  FID. Hush! Hush! Here come the prettiest pair of birds
+  That ever sat together on a bough so close
+  You could not see the sky between. How now,
+  Snow-White and Rose-Red! Are you reconciled
+  One to another? [Enter Beatrice and Bianca, with their arms about one another.] BIA. Reconciled, Fidelio? We had not quarrelled! [Laughter from Fidelio and the ladies.] BEA. Do not listen to him,
+  Bianca, 'tis but the jingling of his bells. FIDELIO. Do you make a better jest than that
+  At once, or have the clappers cut from them. FID. Alas, alas,--all the good jests are made. I made them yesterday. CAR. If that be true,
+  You would best become a wise man for a time,
+  My friend,--there are plenty of wise words not yet said! FID. I shall say them all tomorrow. LAU. If you do,
+  You will be stoned to death. FID. Not I. No one
+  Will hear me.--Well, I am off.--I know an old man
+  Who does not know the road runs past his house;
+  And yet his bees make honey. [Exit Fidelio.] CAR. [Looking after him.] 'Tis the one wise fool
+  We have among us. [Enter Grazia.] GRA. Oh, here you are, my ducklings! Always together, like a beggar and a flea! I looked for you at lunch-time; I forget now
+  What for; but then 'twas a matter of more weight
+  Than laying siege to a city,--la, how time
+  Does carry one on! An hour is like an ocean,
+  The way it separates you from yourself!--
+  [To Bianca and Beatrice.] What do you find to talk about all day? BEA. We do not talk all day. CAR. Nay, tis you, Grazia,
+  That talk all day. BEA. We ride, and play at tennis,
+  And row on the lake--
+
+  GRA. I know who does the rowing! BEA. Nay, not by any means! Bianca rows
+  Nearly as well as I. CAR. And do you ride
+  Nearly as well as she, Bianca? [All smile.] BIA. [Ruefully.] Nay. GRA. 'Tis an unkind question. There be few in Fiori
+  Might answer, "Aye." Her Highness rides like a centaur. BIA. I'd never dare to mount the horse she rides. BEA. What, Harlequin?--La, he's gentle as a kitten! Though he's a little young, 'tis true, not settled yet
+  In his mind. LAU. As to his mind, 'twere a small matter,
+  Were he a bit more settled in his legs! BIA. I'm afraid of horses, anyway, they are so much
+  Bigger than I am. BEA. Oh, Bianca, horses
+  Are just like people! Are you afraid of father?--
+  He is bigger than you. BIA. Nay. But I'd never dare
+  Prod him which way to go! BEA. Oh, la, I would! Father, this ditch! This four-foot wall now, father! And swim the brook beyond! FRA. And is there naught
+  In which Bianca carries off the trophies? BEA. [Ruefully.] Ay, there is tennis. LAU. She wins from you at tennis? BEA. She flays me, Laura. She drags me at her racket
+  Nine times around the court! CAR. Why, how is that?--
+  She is not quicker. BEA. Nay, but she grows cool
+  Whilst I grow hot, Carlotta, and freezes me
+  Ere I can melt her! FRA. Is it true, Bianca? BIA. 'Tis true I win from her.--Although not always. GRA. What did I come here for?--I must go back
+  To where I started, and think of it again! [Exit Grazia.] CAR. [Calling after her.] Are you sure that you remember where you started? --The woman hath a head like a sieve. LAU. And yet,
+  You may be sure 'tis nothing more than the thimble
+  Of the matter she's forgotten. I never knew her
+  Mislay the thread or the needle of a thing. BIA. We must study now, Beatrice, we really must. We have not opened a book since yesterday. LAU. La, as for me, I have not opened a book
+  Since yesteryear,--I'd rather open a vein! CAR. Lessons,--troth, I remember well those lessons. As for what I learned,--troth, that's a different matter,
+
+  FRA. 'Tis curious; the things that one remembers
+  Are foolish things. One does not know at all
+  Why one remembers them. There was a blackbird
+  With a broken foot somebody found and tamed
+  And named Euripides!--I can see it now. CAR. Some of the silly rhymes we used to write
+  In the margins of our books, I still remember! LAU. And eating sweets behind the covers of them! FRA. And faces--faces--faces--and a little game
+  We used to play, all marching in a row
+  And singing!--I wish I were a child again. BEA. You are not old, Francesca. You are very young. And very beautiful! FRA. I have been beautiful
+  Too many years to be so very young. CAR. How now, Francesca! Would you have it said
+  You are enamoured of some beardless youth,
+  That so you see the wrinkles suddenly? Have done! Have done! BIA. Where shall we study, Bice? BEA. Indoors. I cannot study out of doors. [Exeunt Beatrice and Bianca.] LAU. I vow I never knew a pair of lovers
+  More constant than those two. CAR. A pair of lovers? Marry, I find your figure lacking force! Since when were lovers true? FRA. Oh, peace, Carlotta! You bear too sharp a weapon against the world,--
+  A split tongue full of poison, in a head
+  That darts at every heel!--I'm going in. [Exit Francesca.] LAU. You should not say such things when she is with us, Carlotto. CAR. Is the woman in love? LAU. In love! She is so far gone she does not know which way
+  To sail,--all shores are equally out of sight. [Exeunt Laura and Carlotta.] [Music off stage. Enter Fidelio, singing.] FID. "What was I doing when the moon stood above? What did I do? What did I do? I lied to a lady that had given me her love,--
+  I swore to be true! I swore to be true!" [He picks up from the grass a white scarf which Beatrice was
+      wearing, and which slipped from her shoulders unnoticed as she
+      went out.] FID. My mistress! [He thrusts the scarf under his cloak and continues his song,
+      just as Guido enters from another direction.] FID. "And what was I doing when the sun stood above? What did I do? What did I do?--"
+
+  GUI. By my sacred word, Fidelio, I do not like your song. FID. Faith, and small wonder!--It is a song that sets the evil eye
+  To staring in upon itself. GUI. [Stopping in his walk.] What mean you by that, my throaty friend? FID. I mean to say
+  That, taking it all in all and by and large,
+  You do not care for music. GUI. I do not care
+  For yours, but it is possible Apollo
+  Had a better tenor. I never heard him sing. FID. Nay, and how could you?--He died when you were born! GUI. He died, that is, in giving birth to me? FID. Aye, if you like,--you bear as much resemblance
+  To him as to your mother's husband, surely. GUI. Take care, Fidelio! FID. [Lightly] So! Then it angers you
+  Apollo should be deemed your sire! I told you
+  [Sadly.] You did not care for music! GUI. You are a sly fool,
+  My merry friend. What hide you under the cloak? FID. Why, 'tis a little patch of snow the sun
+  Would lay too hot a hand on. GUI. By my life,--
+  And what are you that you can keep the sun
+  From shining where it will? FID. Why, by your life,--
+  And a foul oath it is!--why, by your life,
+  I am a cloud,--that is an easy riddle. Scene 2
+
+      [Scene: A garden with a fountain, at Fiori. Beatrice
+      and Bianca sitting side by side on a low step. Evening.] BEA. How beautiful it is to sit like this,
+  Snow-White,--to think of much, and to say little. BIA. Ay, it is beautiful. I shall remember
+  All my life long these evenings that we spent
+  Sitting just here, thinking together. [Pause.] Rose-Red,
+  It is four years today since first we met. Did you know that? BEA. Nay, is it? BIA. Four years today. I liked you from the moment that I saw you,
+  Beatrice! BEA. I you, Bianca. From the very moment! I thought you were the prettiest little girl
+  That I had ever seen. BIA. I was afraid
+  Of you, a little, at first,--you were a Princess,
+  You see. But you explained that being a Princess
+  Was much the same as anything else. 'Twas nice,
+  You  said, when people were nice, and when they were not nice
+  'Twas hateful, just the same as everything else. And then I saw your dolls, and they had noses
+  All scratched, and wigs all matted, just like mine,
+  Which reassured me even more!--I still, though,
+  Think of you as a Princess; the way you do things
+  Is much more wonderful than the way I do them!--
+  The way you speak to the servants, even the way
+  You pick up something that you drop. BEA. You goose! 'Tis not because I'm a princess you feel that way--
+  I've always thought the same thing about you!--
+  The way you draw your gloves on is to me
+  More marvelous than the way the sun comes up! [They both burst out laughing.] BEA. Oh, lud,--how droll we are! BIA. Oh, I shall die
+  Of laughing! Think you anyone else, Rose-Red,
+  Was ever half so silly? BEA. I dare wager
+  There be a thousand, in this realm alone,
+  Some even sillier! BIA. Here comes Fidelio! [Enter Fidelio.] BEA. Fidelio, sing to us,--there is no nightingale
+  Abroad tonight, save you. And the night cries
+  For music! BIA. Sing, Fidelio! FID. I have no thorn
+  To lean my breast on. I've been happy all day,
+  And happiness ever made a crow of me. BEA. Sing, none the less,--unless you have a cold,
+  Which is a singer's only rock of refuge. You have no cold, or you would not be happy. So sing. FID. [Singing.] "Oh, little rose-tree, bloom! Summer is nearly over. The dahlias bleed and the phlox is seed,
+  Nothing's left of the clover,
+  And the path of the poppy no one knows,--
+  I would blossom if I were a rose! Summer for all your guile
+  Will brown in a week to autumn,
+  And launched leaves throw a shadow below
+  Over the brook's clear bottom,
+  And the chariest bud the year can boast
+  Be brought to bloom by the chastening frost! Oh, little rose-tree, bloom!" [As he finishes the song Fidelio goes out, softly strumming
+      the last chords. Bianca and Beatrice did sit quite
+      still for a moment.] BIA. Do you know what I am thinking, Bice? BEA. You're wondering where we'll be ten years from now,
+  Or something of that nature. BIA. Ay, I was wondering
+  Which would be married first, and go away,
+  And would we still be friends. BEA. Oh, do you doubt it,
+  Snow-White? BIA. Nay, nay,--I doubt it not, my dear,--
+  But I was wondering. I am suddenly sad,
+  I know not why. I do not wish to leave you
+  Ever. BEA. I know. I cannot bear
+  To think of parting. We have been happy these four years
+  Together, have we not? BIA. Oh, Beatrice! [She weeps.] BEA. Nay, do not weep!--Come, you must go to bed. You are tired tonight. We rode too far today. [She draws Bianca's head down to her shoulder.] Oh, you are tired, tired, you are very tired. You must be rocked to sleep, and tucked in bed,
+  And have your eyelids kissed to make you dream
+  Of fairies! Come, dear, come. BIA. Oh, I do love you,
+  Rose-Red! You are so sweet! Oh, I do love you
+  So much!--so much! I never loved anyone
+  The way that I love you! There is nobody
+  In all the world so wonderful as you! [She throws her arms about Beatrice and clings to her.] Scene 3
+
+      [A room in the palace at Fiori. Lorenzo and Beatrice playing
+      chess. Twilight.] LOR. You'll not be able to get out of that,
+  I think, my girl, with both your castles gone. BEA. Be not so sure!--I have a horse still, father,
+  And in a strong position: if I move him here,
+  You lose your bishop; and if you take my bishop,
+  You lose your queen. LOR. True, but with my two rooks
+  Set here, where I can push them back and forth,
+  My king is safe till worms come in and eat him. BEA. What say you then to this?--Will you take this pawn,
+  Or will you not? LOR. [Studying the board.] Od's bones!--where did that come from? [Enter Octavia.] OCT. La, would you lose your eyesight, both of you?--
+  Fumbling about those chessmen in the dark? You, Beatrice, at least, should have more wit! LOR. "At least"--hm!--Did you hear her say, "at least,"
+  Bice, my daughter? BEA. Ay. But it is true
+  The twilight comes before one knows it. LOR. Ay. 'Tis true, but unimportant. Nevertheless,
+  I am a tractable old fellow.--Look you,
+  I will but stay to map the lay of the pieces
+  Upon this bit of letter. 'Tis from a king
+  Who could not tell the bishop from the board,--
+  And yet went blind at forty.--A little chess
+  By twilight, mark you, and all might have been well. [Enter Bianca.] BIA. Oh,--I've been looking everywhere for you? OCT. [Drily.] For me? BIA. Nay, mother,--for Beatrice. Bice,
+  The rose is out at last upon that bush
+  That never blossomed before,--and it is white
+  As linen, just as I said 'twould be! BEA. Why, the bud
+  Was redder than a radish! BIA. Ay, I know. But the blossom's white, pure white. Come out and see! [Politely.] Would you like to see it, mother? OCT. Nay, not now, child. Some other time. BEA. Father, we'll end the game
+  Tomorrow; and do you not be scheming at it
+  All night! LOR. Nay, I will not unfold the chart. BEA. But you remember well enough without;
+  Promise me not to think of it. LOR. I' faith,
+  You are a desperate woman. Ay, I promise. [Exeunt Bianca and Beatrice. Octavia seats herself. Pause.] OCT. I tell you, as I've told you often before,
+  Lorenzo, 'tis not good for two young girls
+  To be so much together! LOR. As you say,
+  Octavia. For myself, I must confess
+  It seems a natural thing, enough, that youth
+  Should seek out youth. And if they are better pleased
+  Talking together than listening to us,
+  I find it not unnatural. What have we
+  To say to children?--They are as different
+  From older folk as fairies are from them. OCT. "Talking together," Lorenzo! What have they
+  To talk about, save things they might much better
+  Leave undiscussed?--you know what I mean,--lovers,
+  And marriage, and all that--if that is all! One never knows--it is impossible
+  To hear what they are saying; they either speak
+  In whispers, or burst out in fits of laughter
+  At some incredible nonsense. There is nothing
+  So silly as young girls at just that age.--
+  At just Bianca's age, that is to say. As for the other,--as for Beatrice,
+  She's older than Bianca, and I'll not have her
+  Putting ideas into my daughter's head! LOR. Fear not, my love. Your daughter's head will doubtless,
+  In its good time, put up its pretty hair,
+  Chatter, fall dumb, go moping in the rain,
+  Be turned by flattery, be bowed with weeping,
+  Grow grey, and shake with palsy over a staff,--
+  All this, my love, as empty of ideas
+  As even the fondest mother's heart could wish. OCT. You mock me, sir? LOR. I am but musing aloud,
+  As is my fashion.--And indeed, my dear,
+  What is the harm in lovers-and-all-that
+  That virtuous maidens may not pass the time
+  With pretty tales about them?--After all,
+  Were it not for the years of looking forward to it
+  And looking back upon it, love would be
+  Only the commonest bird-song in the hedge,--
+  And men would have more time to think,--and less
+  To think about. OCT. That may be. But young girls
+  Should not be left alone too much together. They grow too much attached. They grow to feel
+  They cannot breathe apart. It is unhealthy. LOR. It may be true. But as for me, whom youth
+  Abandoned long ago, I look on youth
+  As something fresh and sweet, like a young green tree,
+  Though the wind bend it double.--'Tis you, 'tis I,
+  'Tis middle age the fungus settles on. OCT. Your head is full of images. You have
+  No answers. I shall do as I spoke of doing,
+  And separate them for a little while,
+  Six months, maybe a year. I shall send Bianca
+  Away within a fortnight. That will cure them. I know. I know. Such friendships do not last. CURTAIN
+
+
+
+
+ACT II
+
+  Scene 1--Four months later. [Scene: A garden, near the palace at Fiori. The young Duke
+      Guido is discovered standing with one foot resting on a
+      garden-bench, looking off, lost in thought. Enter Giovanni.] GIO. That is a merry face you wear, my Guido! Now that the young King Mario visits the court
+  And walks all morning in the woods with the Princess,
+  Or gives her fencing lessons,--upon my word,
+  You are as gay as a gallows! GUI. She is never
+  Alone with him. Laura--Carlotta--someone
+  Is always there. GIO. Ah--ah--but even so,
+  No matter who is there, I tell you, lovers
+  Are always alone! GUI. Why do you say these things,
+  Giovanni? GIO. Because I love you, you lean wolf,
+  And love to watch you snuff the air. My friend,
+  There was a time I thought it all ambition
+  With you, a secret itching to be king--
+  And not so secret, either--an open plot
+  To marry a girl who will be Queen some morning. But now at times I wonder. You have a look
+  As of a man that's nightly gnawed by rats,
+  The very visage of a man in love. Is it not so? GUI. I do not know, Giovanni. I know I have a passion in my stomach
+  So bitter I can taste it on my tongue. She hates me. And her hatred draws me to her
+  As the moon draws the tide. GIO. You are like a cat--
+  There never was a woman yet that feared you
+  And shunned you, but you leapt upon her shoulder! Well, I'll be off. The prettiest girl in Fiori,--
+  Unless it be Her Highness, waits for me
+  By a fountain. All day long she sells blue plums,
+  And in the evening what she has left of them
+  She gives to me! You should love simply, Guido,
+  As I do. [Exit Giovanni.] [Guido sits on the bench and drops his head in hand. Enter Francesca.] FRA. [Softly.] Guido! Guido! GUI. Who calls me? FRA. Guido! GUI. Francesca! Why do you follow me here? You know I do not wish to see you! FRA. Do not be angry. 'Tis half a week since you have spoken to me,
+  And over a week since you have so much as laid
+  Your hand upon my arm! And do you think,
+  Loving you as I do, I can do without you,
+  Forever, Guido, and make no sign at all? I know you said you did not wish to see me
+  Ever again,--but it was only a quarrel--
+  And we have quarreled before! GUI. It was not a quarrel. I am tired of you, Francesca. You are too soft. You weep too much. FRA. I do not weep the less
+  For having known you. GUI. So;--it will save you tears, then
+  To know me less. FRA. Oh, Guido, how your face
+  Is changed,--I cannot think those are the eyes
+  That looked into my eyes a month ago! What's come between us? GUI. Nothing has come between us. It is the simple snapping of a string
+  Too often played upon. FRA. Ah!--but I know
+  Who snapped it! It will do you little good
+  To look at her,--she'll never look at you! GUI. Be silent a moment!--Unless you would be silent
+  Longer! FRA. Indeed! I shall speak out my mind! You go beyond yourself! There is proportion
+  Even in a nature like my own, that's twisted
+  From too much clinging to a crooked tree! And this is sure: if you no longer love me,
+  You shall no longer strike me! MARIO. [Off stage.] Beatrice! Wait for me! Wait! BEA. [Off stage.] Not I! Who does not run? As fast as I run, shall be left behind me! GUI. They are coming here! I do not wish to see them! FRA. Oh, Guido! [She follows him off. Exeunt Guido and Francesca.] [Enter Beatrice, running, followed by Mario.] MAR. Beatrice, you run like a boy! You whistle like a boy! And upon my word,
+  You are the only girl I ever played
+  At jousting with, that did not hold her sword
+  As if it were a needle! Which of us,
+  Think you, when we are married, will be King? BEA. When we are married! Sir, I'll have you know
+  There's an ogre to be tamed, a gem to be pried
+  From out a dragon's forehead, and three riddles
+  To be solved, each tighter than the last, before
+  A Princess may be wed! MAR. Even by a King? BEA. For Kings the rules are sterner!--One more riddle,
+  And a mirror that will show her always young. MAR. And if I do these things, then, will you have me,
+  Rose-Red? BEA. Maybe. And if you do not do them,
+  Maybe. Come--I will race you to the bridge! MAR. [Catching her hand,] Nay, not so fast!--Have you no wish to be
+  Beside me, ever, that you are forever running
+  Ahead? BEA. Indeed, if you would have the truth
+  It has come into my mind more times than once
+  It would be sweet to be beside you often. MAR. Rose-Red! BEA. Come--I will race you to the bridge! [Exeunt Beatrice and Mario.] Scene 2
+
+      [Court-yard of the palace at Fiori. Entire court assembled. A band of strolling players, with a little stage
+      on wheels, are doing a Harlequinade pantomime to amuse
+      the young King Mario, the guest of honor. Beatrice sits
+      beside him. In this scene the two people who are oblivious
+      to the pantomime are Guido and Octavia. Guido is
+      apparently brooding over something. From time to time
+      he looks at Beatrice and Mario. Once, having gazed for
+      some moments at the pair, he looks at Octavia and sees
+      that she, too, is looking at them, which seems to satisfy
+      him. The Queen does not take her eyes from the two during
+      the entire scene. Beatrice and Mario do not conduct
+      themselves precisely as lovers, but they are very gay and
+      happy to be in each other's company, apparently. Lorenzo
+      watches the show with a benign, almost childish
+      interest.] [Pantomime begins.] GIO. You, Pierrot, are you not a little thick
+  For such a sorrowful fellow? PIERROT. Nay, indeed! Sorrow may come to all. And 'tis amazing
+  How much a man may live through and keep fat. [Pantomime continues]
+
+  CAR. Ho! Now he stumbles! Look you, Pantaloon,
+  If you were not so learned i' the head
+  You might know better where to put your feet! LAU. [To Carlotta.] 'Tis curious how it addles a man's bones
+  To think too much. CAR. Nay, truth. Wise men were ever
+  Awkward in the legs. [Pantomime continues.] RAFFAELE. Have at him, Polichinello. GIO. Lay on! Lay on! ANS. Leave not a nail of him! GIO. Dog! Would you have him write a book about you? LUIG. Spit him i' the liver! It is his only organ! BEA. [To Mario.] Nay, it is cruel. I cannot look at it. MAR. It is but play. BEA. Ay, but 'tis cruel play. To be so mocked at!--Come, take heart, good Doctor! 'Tis a noisy fellow, but light withal!--Blow at him! GIO. [To Guido.] She has the softest heart that ever
+  I saw
+  In a hard woman. It may be, seeing she has pity
+  For one rogue, she has pity for another! Mark you, my Guido, there is hope yet! GUI. Nay,
+  There's not. I have opened up my mind to her,
+  And she will none of me. GIO. [Jestingly.] That was the last thing
+  You should have done!--Speak,--did she give for answer
+  She loves the King? GUI. Not she. She gave for answer
+  She does not love the Duke. [Pantomime continues.] ANS. [To Colombine.] Ah, pretty lady! CAR. La, she is fickle! How she turns from one face
+  To another face,--and smiles into them all! FRAN. Oh, ay, but' tis the Pierrot that she loves. [Pantomime continues and comes to a close.] [All applaud.] LUIGI. Well done! ANS. Bravo! GIO. A monstrous lively play! BEA. Oh, is it over?--I would it were not over! MAR. And yet it pleased you not! BEA. When it pleased me not,
+  I looked at you. MAR. And when I pleased you not--? BEA. I looked at Harlequin. However, I saw him
+  But fleetingly. Pray, was he dark or fair? LUIGI. Laura! LAU. Who calls? La, it is only Luigi! LUIGI. Laura, there'll be a moon tonight. LAU. I' faith,
+  There was a moon last night. [She sighs.] LUIGI. At ten o'clock,
+  Were I by a certain gate, would you be there? What say you? LAU. Ay,--if weariness overtook me,
+  And I could not get further! CAR. La, 'tis sun-down! [In the meantime the crowd has been breaking up and  dispersing. The curtain falls on the disappearing spectators and on Pierrot
+      and his troupe packing up their wagon to go to the next town.] Scene 3
+
+      [Fiori. A garden with a fountain. Evening.] [Enter Octavia and Ladies.] OCT. It would amuse me if I had a lily
+  To carry in my hand. You there, Carlotta! You have a long arm,--plunge it in the pool
+  And fish me forth a lily! CLAUDIA. Majesty,
+  They close at night. OCT. Well--we will open them. CAR. [Going to pool and scanning it.] Go to--I am not a frog! OCT. What did you say? ARIANNA. She says she sees a frog, Your Majesty. FRAN. [Aside to Carlotta.] You are mad! Can you not keep your tongue in your head? CAR. Ay, I can keep it in my cheek.--There's one. God grant it have an eel at the end of it,--
+  I'll give the dame good measure. [While the ladies are at the pool enter Guido.] GUIDO. Greeting, madam! OCT. Who greets me?--Ah, it is the Duke. Good even, Guido. You seek an audience with me? GUIDO. Nay--nay--but if you send away your women,--
+  We shall be more alone. OCT. [After considering him a moment.] You may leave me now,
+  Laura, Francesca--all of you--and you would best go in
+  At an early hour, instead of walking the gardens
+  All night; I would have you with your wits
+  About you in the morning. LAU. [Aside.] Oh, indeed? You would best go in yourself, lest the dew rust you,
+  You sauce-pan! [Exeunt ladies.] OCT. Now, my good sir,--you may speak. GUI. [As if by way of conversation.] It is a long time, is it not, your daughter
+  Is absent from the court? OCT. Why say you that? GUI. Why but to pass the time, till she returns? OCT. Nay, Guido. That is well enough for some,
+  But not for me. I know the slant of your fancy;
+  'Tis not in that direction. GUI. Yet me thinks
+  The sooner she is back again at court
+  The happier for us both. OCT. "Us both?" What "both?" GUI. You Madam, and myself. OCT. And why for me? GUI. [Carefully.] Why, are you not her mother? OCT. Hah! [Pause.] Guido,
+  What festers in your mind? Do you speak out now,
+  If you await some aid from me. GUI. Madam,
+  I have but this to say: if I were a woman
+  With a marriageable daughter, and a King rode by,
+  I'd have her at the window. OCT. So. I thought so. [With an entire change of manner.] Guido, what think you,--does she love the King,--
+  I mean Lorenzo's daughter? GUI. [Between his teeth.] Ay, she loves him. OCT. And loves he her? GUI. Oh, ay. He loves the moon,
+  The wind in the cypress trees, his mother's portrait
+  At seventeen, himself, his future children--
+  He loves her well enough. But had she blue eyes
+  And yellow hair, and were afraid of snakes,
+  He yet might love her more. OCT. You think so, Guido? I am content to learn you of that mind. There had occurred to me--some time ago,
+  In fact--a similar fancy. And already
+  My daughter is well on her way home. [Exeunt Guido and Octavia.] [Music, Enter Beatrice and Fidelio. Fidelio strums his lute
+      softly throughout the next conversation, up to the words
+      "and cease to mock me."] BEA. Fidelio,
+  Were you ever in love? FID. I was never out of it. BEA. But truly? FID. Well. I was only out of it
+  What time it takes a man to right himself
+  And once again lose balance. Ah, indeed,
+  'Tis good to be in love, I have often noticed,
+  The moment I fall out of love, that moment
+  I catch a cold. BEA. Are you in love, then, now? FID. Ay, to be sure. BEA. Oh! Oh! With whom, Fidelio? Tell me with whom! FID. Why, marry, with yourself,--
+  That are the nearest to me,--and by the same troth,
+  The farthest away. BEA. Go to, Fidelio! I am in earnest, and you trifle with me
+  As if I were a child. FID. Are you not a child, then? BEA. Not any more. FID, How so? BEA. I am in love. FID. Oh--oh--oh, misery, misery, misery, misery! BEA. Why do you say that? FID. Say what? BEA. "Misery, misery." FID. It is a song. BEA. A song? FID. Ay, 'tis a love-song. Oh, misery, misery, misery, misery, oh! BEA. Nay, sweet Fidelio, be not so unkind! I tell you, for the first time in my life
+  I am in love! Do you be mannerly now,
+  And cease to mock me,
+
+  FID. What would you have me do? BEA. I would have you shake your head, and pat my shoulder,
+  And smile and say, "Godspeed." FID. [Doing so very tenderly.] Godspeed. BEA. [Bursting into tears.] I do not know if I am happy or sad. But I am greatly moved. I would Bianca
+  Were here. I never lacked her near so much
+  As tonight I do, although I lack her always. She is a long time gone.--If I tell you something,
+  Will you promise not to tell. FID. Nay, I'll not promise, But I'll not tell. BEA. Fidelio, I do love so
+  The King from Lagoverde! I do so love him! FID. Godspeed, Godspeed. BEA. Ay, it is passing strange;
+  Last week I was a child, but now I am not. And I begin my womanhood with weeping;
+  I know not why.--La, what a fool I am! 'Tis over. Sing, Fidelio. FID. Would you a gay song, My Princess? BEA. Ay.--And yet--nay, not so gay. A simple song, such as a country-boy
+  Might sing his country-sweetheart.--Is it the moon
+  Hath struck me, do you think? I swear by the moon
+  I am most melancholy soft, and most
+  Outrageous sentimental! Sing, dear fool. FID. [Singing.] "Butterflies are white and blue
+  In this field we wander through. Suffer me to take your hand. Death comes in a day or two. All the things we ever knew
+  Will be ashes in that hour. Mark the transient butterfly,
+  How he hangs upon the flower. Suffer me to take your hand. Suffer me to cherish you
+  Till the dawn is in the sky. Whether I be false or true,
+  Death comes in a day or two." CURTAIN
+
+
+
+
+ACT III
+
+  Scene 1--The following summer,
+
+      [A field or meadow near Fiori. As the curtain rises voices are heard
+      off-stage singing a bridal song.] SONG: Strew we flowers on their pathway! Bride and bride-groom, go you sweetly. There are roses on your pathway. Bride and bride-groom, go you sweetly. Sweetly live together. [Enter Viola, Lilina, Lela, Arianna and Claudia, laden with
+      garlands, flowering boughs and baskets of flowers. They met
+      Anselmo coming from another direction, also bearing flowers.] VIO. How beautiful, Anselmo! Where did you find them? ANS. Close by the brook. LIL. You gathered all there were? ANS. Not by one hundredth part. LEL. Nay, is it true? We must have more of them! ARI. And are they fragrant
+  As well? ANS. Ay, by my heart, they are so sweet
+  I near to fainted climbing the bank with them. [The ladies cluster about Anselmo and smell the flowers.] LIL. Oh! VIO. Ah! CLA. How drowsily sweet! LEL. Oh, sweet! ARI. What fragrance! [Enter Laura and Giovanna, followed by Carlotta and Raffaele.] LAU. La, by my lung! I am as out of breath
+  As a babe new-born! Whew! Let me catch the air! [She drops her flowers and seats herself beside them.] CAR. [to the younger ladies and Anselmo, by way of greeting.] How hot the sun is getting. ANS. 'Tis nigh noon, I think. GIO. 'Tis noon. CLA. We must be starting back. LAU. Not till I get my breath. RAF. Come,--I will fan you. [He fans her with a branch,]
+
+  LAU. Tis good--'tis very good--oh, peace--oh, slumber--
+  Oh, all good things! You are a proper youth. You are a zephyr. I would have you fan me
+  Till you fall dead. CAR. I tell you when it comes
+  To gathering flowers, much is to be said
+  For spreading sheets on the grass,--it gives you less
+  The backache. LAU. Nobly uttered, my sweet bird. GIO. Yet brides must have bouquets. CAR. And sit at home,
+  Nursing complexions, whilst I gather them,
+
+  LIL. [Running to Carlotta, along, with Lela and Viola, and throwing her
+       arms about her.] Nay, out upon you now, Carlotta! Cease now
+  To grumble so,--'tis such a pretty day! VIO. And weddings mean a ball! LEL. And one may dance all night
+  At weddings! LIL. Till one needs must dance to bed,
+  Because one cannot walk there! GIO. And one eats
+  Such excellent food! ANS. And drinks such excellent wine! CLA. And seldom will you see a bride and bridegroom
+  More beautiful and gracious, or whom garlands
+  Do more become. GIO. 'Tis so,--upon my sword!--
+  Which I neglected to bring with me--'tis so,
+  Upon Anselmo's sword! CAR. Nay, look you, Laura! You must not fall asleep! [to Raffaele] Have done, you devil! Is it a poppy that you have there? [to Laura] Look you,
+  We must be starting back! [Laura rouses, then falls back again.] LAU. Ay, that we must. ARI. Where are the others? ANS. Scattered all about. I will call to them. Hola! You fauns and dryads! Where are you? VOICES. Here! Here! Is it time to go? ANS. Come this way! We are starting back! VOICES. We are coming! We'll come in a moment! I cannot bear to leave
+  This place! GIO. [As they enter] A thousand greetings, Clara! Lucia, a thousand greetings! How now, Luigi! 

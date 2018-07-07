@@ -1,0 +1,2922 @@
+LORD DUNSAY***
+
+
+E-text prepared by S. R. Ellison, David Starner, and the Project Gutenberg
+Online Distributed Proofreading Team
+
+
+
+Transcriber's Note:
+
+     Two names are accented with Macrons (a short horizontal bar over
+     the letter), for which there is no ASCII character. They are usually
+     marked as [=e], as in Argim[=e]n[=e]s. For legibility, they have been
+     replaced here by the bare letter. To restore the original accents,
+
+         change Oonrana to Oonr[=a]na
+         change Argimenes to Argim[=e]n[=e]s
+
+
+
+
+
+SELECTIONS FROM THE WRITINGS OF LORD DUNSANY
+
+MCMXII
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+CONTENTS
+
+  The Gods of the Mountain
+  The First Act of King Argimenes and the Unknown Warrior
+  The Fall of Babbulkund
+  The Sphinx at Gizeh
+  Idle Days on the Yann
+  A Miracle
+  The Castle of Time
+
+
+
+
+INTRODUCTION
+
+I
+
+Lady Wilde once told me that when she was a young girl she was stopped
+in some Dublin street by a great crowd and turned into a shop to
+escape from it. She stayed there some time and the crowd still passed.
+She asked the shopman what it was, and he said, 'the funeral of Thomas
+Davis, a poet.' She had never heard of Davis; but because she thought
+a country that so honoured a poet must be worth something, she became
+interested in Ireland and was soon a famous patriotic poet herself,
+being, as she once said to me half in mockery, an eagle in her youth.
+
+That age will be an age of romance for an hundred years to come.
+Its poetry slid into men's ears so smoothly that a man still living,
+though a very old man now, heard men singing at the railway stations
+he passed upon a journey into the country the verses he had published
+but that morning in a Dublin newspaper; and yet we should not regret
+too often that it has vanished, and left us poets even more unpopular
+than are our kind elsewhere in Europe; for now that we are unpopular
+we escape from crowds, from noises in the street, from voices that
+sing out of tune, from bad paper made one knows not from what refuse,
+from evil-smelling gum, from covers of emerald green, from that ideal
+of reliable, invariable men and women, which would forbid saint
+and connoisseur who always, the one in his simple, the other in his
+elaborate way, do what is unaccountable, and forbid life itself which,
+being, as the definition says, the only thing that moves itself,
+is always without precedent. When our age too has passed, when its
+moments also, that are so common and many, seem scarce and precious,
+students will perhaps open these books, printed by village girls at
+Dundrum, as curiously as at twenty years I opened the books of history
+and ballad verse of the old 'Library of Ireland.' They will notice
+that this new 'Library,' where I have gathered so much that seems to
+me representative or beautiful, unlike the old, is intended for few
+people, and written by men and women with that ideal condemned by
+'Mary of the Nation', who wished, as she said, to make no elaborate
+beauty and to write nothing but what a peasant could understand. If
+they are philosophic or phantastic, it may even amuse them to find
+some analogy of the old with O'Connell's hearty eloquence, his winged
+dart shot always into the midst of the people, his mood of comedy;
+and of the new, with that lonely and haughty person below whose tragic
+shadow we of modern Ireland began to write.
+
+
+II
+
+The melancholy, the philosophic irony, the elaborate music of a play
+by John Synge, the simplicity, the sense of splendour of living in
+Lady Gregory's lamentation of Emer, Mr. James Stephens when he makes
+the sea waves 'Tramp with banners on the shore' are as much typical
+of our thoughts and day, as was 'She dwelt beside the Anner with mild
+eyes like the dawn,' or any stanza of the 'Pretty girl of Lough Dan,'
+or any novel of Charles Lever's of a time that sought to bring Irish
+men and women into one nation by means of simple patriotism and a
+genial taste for oratory and anecdotes. A like change passed over
+Ferrara's brick and stone when its great Duke, where there had been
+but narrow medieval streets, made many palaces and threw out one
+straight and wide street, as Carducci said, to meet the Muses.
+Doubtless the men of 'Perdondaris that famous city' have such
+antiquity of manners and of culture that it is of small moment should
+they please themselves with some tavern humour; but we must needs
+cling to 'our foolish Irish pride' and form an etiquette, if we would
+not have our people crunch their chicken bones with too convenient
+teeth, and make our intellect architectural that we may not see them
+turn domestic and effusive nor nag at one another in narrow streets.
+
+
+III
+
+Some of the writers of our school have intended, so far as any
+creative art can have deliberate intention, to make this change, a
+change having more meaning and implications than a few sentences can
+define. When I was first moved by Lord Dunsany's work I thought that
+he would more help this change if he could bring his imagination into
+the old Irish legendary world instead of those magic lands of his with
+their vague Eastern air; but even as I urged him I knew that he could
+not, without losing his rich beauty of careless suggestion, and the
+persons and images that for ancestry have all those romantic ideas
+that are somewhere in the background of all our minds. He could not
+have made Slieve-na-Mon nor Slieve Fua incredible and phantastic
+enough, because that prolonged study of a past age, necessary before
+he could separate them from modern association, would have changed
+the spontaneity of his mood to something learned, premeditated, and
+scientific.
+
+When we approach subtle elaborate emotions we can but give our minds
+up to play or become as superstitious as an old woman, for we cannot
+hope to understand. It is one of my superstitions that we became
+entangled in a dream some twenty years ago; but I do not know whether
+this dream was born in Ireland from the beliefs of the country men and
+women, or whether we but gave ourselves up to a foreign habit as our
+spirited Georgian fathers did to gambling, sometimes lying, as their
+history has it, on the roadside naked, but for the heap of straw they
+had pulled over them, till they could wager a lock of hair or the
+paring of a nail against what might set them up in clothes again.
+Whether it came from Slieve-na-Mon or Mount Abora, AE. found it with
+his gods and I in my 'Land of Heart's Desire,' which no longer
+pleases me much. And then it seemed far enough till Mr. Edward Martyn
+discovered his ragged Peg Inerney, who for all that was a queen in
+faery; but soon John Synge was to see all the world as a withered and
+witless place in comparison with the dazzle of that dream; and now
+Lord Dunsany has seen it once more and as simply as if he were a child
+imagining adventures for the knights and ladies that rode out over the
+drawbridges in the piece of old tapestry in its mother's room. But to
+persuade others that it is all but one dream, or to persuade them that
+Lord Dunsany has his part in that change I have described I have but
+my superstition and this series of little books where I have set his
+tender, pathetic, haughty fancies among books by Lady Gregory, by
+AE., by Dr. Douglas Hyde, by John Synge, and by myself. His work which
+seems today so much on the outside, as it were, of life and daily
+interest, may yet seem to those students I have imagined rooted in
+both. Did not the Maeterlinck of 'Pelleas and Melisande' seem to be
+outside life? and now he has so influenced other writers, he has been
+so much written about, he has been associated with so much celebrated
+music, he has been talked about by so many charming ladies, that he is
+less a vapour than that Dumas _fils_ who wrote of such a living
+Paris. And has not Edgar Allen Poe, having entered the imagination of
+Baudelaire, touched that of Europe? for there are seeds still carried
+upon a tree, and seeds so light they drift upon the wind and yet can
+prove that they, give them but time, carry a big tree. Had I read
+'The Fall of Babbulkund' or 'Idle Days on the Yann' when a boy I had
+perhaps been changed for better or worse, and looked to that first
+reading as the creation of my world; for when we are young the less
+circumstantial, the further from common life a book is, the more
+does it touch our hearts and make us dream. We are idle, unhappy and
+exorbitant, and like the young Blake admit no city beautiful that is
+not paved with gold and silver.
+
+
+IV
+
+These plays and stories have for their continual theme the passing
+away of gods and men and cities before the mysterious power which is
+sometimes called by some great god's name but more often 'Time.' His
+travellers, who travel by so many rivers and deserts and listen to
+sounding names none heard before, come back with no tale that does
+not tell of vague rebellion against that power, and all the beautiful
+things they have seen get something of their charm from the pathos
+of fragility. This poet who has imagined colours, ceremonies and
+incredible processions that never passed before the eyes of Edgar
+Allen Poe or of De Quincey, and remembered as much fabulous beauty as
+Sir John Mandeville, has yet never wearied of the most universal of
+emotions and the one most constantly associated with the sense of
+beauty; and when we come to examine those astonishments that seemed
+so alien we find that he has but transfigured with beauty the common
+sights of the world. He describes the dance in the air of large
+butterflies as we have seen it in the sun-steeped air of noon. 'And
+they danced but danced idly, on the wings of the air, as some haughty
+queen of distant conquered lands might in her poverty and exile dance
+in some encampment of the gipsies for the mere bread to live by, but
+beyond this would never abate her pride to dance for one fragment
+more.' He can show us the movement of sand, as we have seen it where
+the sea shore meets the grass, but so changed that it becomes the
+deserts of the world: 'and all that night the desert said many things
+softly and in a whisper but I knew not what he said. Only the sand
+knew and arose and was troubled and lay down again and the wind knew.
+Then, as the hours of the night went by, these two discovered the
+foot-tracks wherewith we had disturbed the holy desert and they
+troubled over them and covered them up; and then the wind lay down and
+the sand rested.' Or he will invent some incredible sound that will
+yet call before us the strange sounds of the night, as when he says,
+'sometimes some monster of the river coughed.' And how he can play
+upon our fears with that great gate of his carved from a single ivory
+tusk dropped by some terrible beast; or with his tribe of wanderers
+that pass about the city telling one another tales that we know to
+be terrible from the blanched faces of the listeners though they tell
+them in an unknown tongue; or with his stone gods of the mountain, for
+'when we see rock walking it is terrible' 'rock should not walk in the
+evening.'
+
+Yet say what I will, so strange is the pleasure that they give, so
+hard to analyse and describe, I do not know why these stories and
+plays delight me. Now they set me thinking of some old Irish jewel
+work, now of a sword covered with Indian Arabesques that hangs in a
+friend's hall, now of St. Mark's at Venice, now of cloud palaces at
+the sundown; but more often still of a strange country or state of the
+soul that once for a few weeks I entered in deep sleep and after lost
+and have ever mourned and desired.
+
+
+V
+
+Not all Lord Dunsany's moods delight me, for he writes out of a
+careless abundance; and from the moment I first read him I have wished
+to have between two covers something of all the moods that do. I
+believe that I have it in this book, which I have just been reading
+aloud to an imaginative young girl more French than English, whose
+understanding, that of a child and of a woman, and expressed not in
+words but in her face, has doubled my own. Some of my selections,
+those that I have called 'A Miracle' and 'The Castle of Time' are
+passages from stories of some length, and I give but the first act of
+'Argimenes,' a play in the repertory of the Abbey Theatre, but each
+selection can be read I think with no thoughts but of itself. If 'Idle
+Days on the Yann' is a fragment it was left so by its author, and if
+I am moved to complain I shall remember that perhaps not even his
+imagination could have found adventures worthy of a traveller who had
+passed 'memorable, holy Golnuz, and heard the pilgrims praying,' and
+smelt burned poppies in Mandaroon.
+
+  Normandy 1912.
+
+  W. B. Yeats.
+
+
+
+
+THE GODS OF THE MOUNTAIN
+
+ACT I
+
+SCENE: The East. Outside a city wall; three beggars seated on the
+ground.
+
+
+OOGNO These days are bad for beggary.
+
+THAHN They are bad.
+
+ULF (an older beggar but not grey) Some evil has befallen the rich
+ones of this city. They take no joy any longer in benevolence, but are
+become sour and miserly at heart. Alas for them! I sometimes sigh for
+them when I think of this.
+
+OOGNO Alas for them. A miserly heart must be a sore affliction.
+
+THAHN A sore affliction indeed, and bad for our calling.
+
+OOGNO (reflectively) They have been thus for many months. What thing
+has befallen them?
+
+THAHN Some evil thing.
+
+ULF There has been a comet come near to the earth of late and the
+earth has been parched and sultry so that the gods are drowsy and all
+those things that are divine in man, such as benevolence, drunkenness,
+extravagance and song, have faded and died and have not been
+replenished by the gods.
+
+OOGNO It has indeed been sultry.
+
+THAHN I have seen the comet o' nights.
+
+ULF The gods are drowsy.
+
+OOGNO If they awake not soon and make this city worthy again of our
+order, I for one shall forsake the calling and buy a shop and sit at
+ease in the shade and barter for gain.
+
+THAHN You will keep a shop? (Enter Agmar and Slag. Agmar, though
+poorly dressed, is tall, imperious, and older than Ulf. Slag follows
+behind him.)
+
+AGMAR Is this a beggar who speaks?
+
+OOGNO Yes, master, a poor beggar.
+
+AGMAR How long has the calling of beggary existed?
+
+OOGNO Since the building of the first city, Master.
+
+AGMAR And when has a beggar ever followed a trade? When has he ever
+haggled and bartered and sat in a shop?
+
+OOGNO Why, he has never done so.
+
+AGMAR Are you he that shall be first to forsake the calling?
+
+OOGNO Times are bad for the calling here.
+
+THAHN They are bad.
+
+AGMAR So you would forsake the calling.
+
+OOGNO The city is unworthy of our calling. The gods are drowsy, and
+all that is divine in man is dead. (To third Beggar) Are not the gods
+drowsy?
+
+ULF They are drowsy in their mountains away at Marma. The seven green
+idols are drowsy. Who is this that rebukes us?
+
+THAHN Are you some great merchant, Master? Perhaps you will help a
+poor man that is starving.
+
+SLAG My Master a Merchant! No, no. He is no merchant. My Master is no
+merchant.
+
+OOGNO I perceive that he is some lord in disguise. The gods have woken
+and have sent him to save us.
+
+SLAG No, no. You do not know my Master. You do not know him.
+
+THAHN Is he the Soldan's self that has come to rebuke us?
+
+AGMAR (with great pride) I am a beggar, and an old beggar.
+
+SLAG There is none like my Master. No traveller has met with cunning
+like to his, not even those that come from Aethiopia.
+
+ULF We make you welcome to our town, upon which an evil has fallen,
+the days being bad for beggary.
+
+AGMAR Let none that has known the mystery of roads, or has felt the
+wind arising new in the morning, or who has called forth out of the
+souls of men divine benevolence, ever speak any more of any trade or
+of the miserable gains of shops and the trading men.
+
+OOGNO I but spoke hastily, the times being bad.
+
+AGMAR I will put right the times.
+
+SLAG There is nothing that my Master cannot do.
+
+AGMAR (to Slag) Be silent and attend to me. I do not know this city, I
+have travelled from far, having somewhat exhausted the city of Ackara.
+
+SLAG My Master was three times knocked down and injured by carriages
+there, once he was killed and seven times beaten and robbed, and every
+time he was generously compensated. He had nine diseases, many of them
+mortal....
+
+AGMAR Be silent, Slag.... Have you any thieves among the calling here?
+
+ULF We have a few that we call thieves here, Master, but they would
+scarcely seem thieves to you. They are not good thieves.
+
+AGMAR I shall need the best thief you have.
+
+(Enter two citizens richly clad, Illanaun and Oorander)
+
+ILLANAUN Therefore we will send galleons to Ardaspes.
+
+OORANDER Right to Ardaspes through the silver gates.
+
+(Agmar transfers the thick handle of his long staff to his left
+armpit, he droops on to it and it supports his weight, he is upright
+no longer. His right arm hangs limp and useless. He hobbles up to the
+citizens imploring alms.)
+
+ILLANAUN I am sorry. I cannot help you. There have been too many
+beggars here, and we must decline alms for the good of the town.
+
+AGMAR (sitting down and weeping) I have come from far. (Illanaun
+presently returns and gives Agmar a coin. Exit Illanaun. Agmar, erect
+again, walks back to the others.)
+
+AGMAR We shall need fine raiment, let the thief start at once. Let it
+rather be green raiment.
+
+BEGGAR I will go and fetch the thief. (Exit)
+
+ULF We will dress ourselves as lords and impose upon the city.
+
+OOGNO Yes, yes; we will say we are ambassadors from a far land.
+
+ULF And there will be good eating.
+
+SLAG (in an undertone to Ulf) But you do not know my Master. Now that
+you have suggested that we shall go as lords, he will make a better
+suggestion. He will suggest that we should go as kings.
+
+ULF (incredulous) Beggars as kings!
+
+SLAG Ay. You do not know my Master.
+
+ULF (to Agmar) What do you bid us do?
+
+AGMAR You shall first come by the fine raiment in the manner I have
+mentioned.
+
+ULF And what then, Master?
+
+AGMAR Why then we shall go as gods.
+
+BEGGARS As gods?
+
+AGMAR As gods. Know you the land through which I have lately come in
+my wanderings? Marma, where the gods are carved from green stone in
+the mountains. They sit all seven of them against the hills. They sit
+there motionless and travellers worship them.
+
+ULF Yes, yes, we know those gods. They are much reverenced here; but
+they are drowsy and send us nothing beautiful.
+
+AGMAR They are of green jade. They sit cross-legged with their right
+elbows resting on their left hands, the right forefinger pointing
+upwards. We will come into the city disguised, from the direction of
+Marma, and will claim to be these gods. We must be seven as they are.
+And when we sit, we must sit cross-legged as they do, with the right
+hand uplifted.
+
+ULF This is a bad city in which to fall into the hands of oppressors,
+for the judges lack amiability here as the merchants lack benevolence
+ever since the gods forgot them.
+
+AGMAR In our ancient calling a man may sit at one street corner for
+fifty years doing the one thing, and yet a day may come when it is
+well for him to rise up and to do another thing, while the timorous
+man starves.
+
+ULF Also it were well not to anger the gods.
+
+AGMAR Is not all life a beggary to the gods? Do they not see all men
+always begging of them and asking alms with incense, and bells, and
+subtle devices?
+
+OOGNO Yes, all men indeed are beggars before the gods.
+
+AGMAR Does not the mighty Soldan often sit by the agate altar in his
+royal temple as we sit at a street corner or by a palace gate?
+
+ULF It is even so.
+
+AGMAR Then will the gods be glad when we follow the holy calling with
+new devices and with subtlety, as they are glad when the priests sing
+a new song.
+
+ULF Yet I have a fear.
+
+AGMAR (to Slag) Go you into the city before us, and let there be a
+prophecy there which saith that the gods who are carven from green
+rock in the mountain shall one day arise in Marma and come here in the
+guise of men.
+
+SLAG Yes, Master. Shall I make the prophecy myself? Or shall it be
+found in some old document?
+
+AGMAR Let someone have seen it once in some rare document. Let it be
+spoken of in the market-place.
+
+SLAG It shall be spoken of, Master. (Slag lingers. Enter thief and
+Thahn)
+
+OOGNO This is our thief.
+
+AGMAR (encouragingly) Ah, he is a quick thief.
+
+THIEF I could only procure you three green raiments, Master. The city
+is not now well supplied with them; moreover it is a very suspicious
+city, and without shame for the baseness of its suspicions.
+
+SLAG (to a beggar) This is not thieving.
+
+THIEF I could do no more, Master. I have not practised thieving all my
+life.
+
+AGMAR You have got something: it may serve our purpose. How long have
+you been thieving?
+
+THIEF I stole first when I was ten.
+
+SLAG When he was ten!
+
+AGMAR We must tear them up and divide them amongst the seven. (to
+Thahn) Bring me another beggar.
+
+SLAG When my Master was ten he had already had to slip by night out of
+two cities.
+
+OOGNO (admiringly) Out of two cities!
+
+SLAG (nodding his head) In his native city they do not now know what
+became of the golden cup that stood in the Lunar Temple.
+
+AGMAR Yes, into seven pieces.
+
+ULF We will each wear a piece of it over our rags.
+
+OOGNO Yes, yes, we shall look fine.
+
+AGMAR That is not the way that we shall disguise ourselves.
+
+OOGNO Not cover our rags?
+
+AGMAR No, no. The first who looked closely would say 'These are only
+beggars. They have disguised themselves.'
+
+ULF What shall we do?
+
+AGMAR Each of the seven shall wear a piece of the green raiment
+underneath his rags. And peradventure here and there a little shall
+show through; and men shall say 'These seven have disguised themselves
+as beggars. But we know not what they be.'
+
+SLAG Hear my wise Master.
+
+OOGNO (in admiration) _He_ is a beggar.
+
+ULF He is an _old_ beggar.
+
+
+
+ACT II
+
+SCENE: The Metropolitan Hall of the city of Kongros. Citizens, etc.
+Enter the seven beggars with green silk under their rags.
+
+
+OORANDER Who are you and whence come you?
+
+AGMAR Who may say what we are or whence we come?
+
+OORANDER What are these beggars and why do they come here?
+
+AGMAR Who said to you that we were beggars?
+
+OORANDER Why do these men come here?
+
+AGMAR Who said to you that we were men?
+
+ILLANAUN Now, by the moon!
+
+AGMAR My sister.
+
+ILLANAUN What?
+
+AGMAR My little sister.
+
+SLAG Our little sister the Moon. She comes to us at evenings away in
+the mountain of Marma. She trips over the mountains when she is young:
+when she is young and slender she comes and dances before us: and when
+she is old and unshapely she hobbles away from the hills.
+
+AGMAR Yet she is young again and forever nimble with youth: yet she
+comes dancing back. The years are not able to curb her nor to bring
+grey hairs to her brethren.
+
+OORANDER This is not wonted.
+
+ILLANAUN It is not in accordance with custom.
+
+AKMOS Prophecy hath not thought it.
+
+SLAG She comes to us new and nimble remembering olden loves.
+
+OORANDER It were well that prophets should come and speak to us.
+
+ILLANAUN This hath not been in the past. Let prophets come; let
+prophets speak to us of future things. (The beggars seat themselves
+upon the floor in the attitude of the seven gods of Marma.)
+
+CITIZEN I heard men speak to-day in the market-place. They speak of a
+prophecy read somewhere of old. It says the seven gods shall come from
+Marma in the guise of men.
+
+ILLANAUN Is this a true prophecy?
+
+OORANDER It is all the prophecy we have. Man without prophecy is like
+a sailor going by night over uncharted seas. He knows not where are
+the rocks nor where the havens. To the man on watch all things ahead
+are black and the stars guide him not, for he knows not what they are.
+
+ILLANAUN Should we not investigate this prophecy?
+
+OORANDER Let us accept it. It is as the small uncertain light of a
+lantern, carried it may be by a drunkard but along the shore of some
+haven. Let us be guided.
+
+AKMOS It may be that they are but benevolent gods.
+
+AGMAR There is no benevolence greater than our benevolence.
+
+ILLANAUN _Then_ we need do little: they portend no danger to us.
+
+AGMAR There is no anger greater than our anger.
+
+OORANDER Let us make sacrifice to them, if they be gods.
+
+AKMOS We humbly worship you, if ye be gods.
+
+ILLANAUN (kneeling too) You are mightier than all men and hold high
+rank among other gods and are lords of this our city, and have the
+thunder as your plaything and the whirlwind and the eclipse and all
+the destinies of human tribes, if ye be gods.
+
+AGMAR Let the pestilence not fall at once upon this city, as it had
+indeed designed to; let not the earthquake swallow it all immediately
+up amid the howls of the thunder; let not infuriate armies overwhelm
+those that escape if we be gods.
+
+POPULACE (in horror) If we be gods!
+
+OORANDER Come let us sacrifice.
+
+ILLANAUN Bring lambs.
+
+AKMOS Quick, quick. (Exit some.)
+
+SLAG (with solemn air) This god is a very divine god.
+
+THAHN He is no common god.
+
+MLAN Indeed he has made us.
+
+CITIZEN (A WOMAN) (to Slag) He will not punish us, Master? None of the
+gods will punish us? We will make a sacrifice, a good sacrifice.
+
+ANOTHER We will sacrifice a lamb that the priests have blessed.
+
+FIRST CITIZEN Master, you are not wroth with us?
+
+SLAG Who may say what cloudy dooms are rolling up in the mind of the
+eldest of the gods. He is no common god like us. Once a shepherd went
+by him in the mountains and doubted as he went. He sent a doom after
+that shepherd.
+
+CITIZEN Master, we have not doubted.
+
+SLAG _And the doom found him on the hills at evening._
+
+SECOND CITIZEN It shall be a good sacrifice, Master. (Re-enter with a
+dead lamb and fruits. They offer the lamb on an altar where there is
+fire, and fruits before the altar.)
+
+THAHN (stretching out a hand to a lamb upon an altar.) That leg is not
+being cooked at all.
+
+ILLANAUN It is strange that gods should be thus anxious about the
+cooking of a leg of lamb.
+
+OORANDER It is strange certainly.
+
+ILLANAUN Almost I had said that it was a man spoke then.
+
+OORANDER (Stroking his beard and regarding the second beggar.)
+Strange. Strange certainly.
+
+AGMAR Is it then strange that the gods love roasted flesh? For this
+purpose they keep the lightning. When the lightning flickers about the
+limbs of men there comes to the gods in Marma a pleasant smell, even
+a smell of roasting. Sometimes the gods, being pacific, are pleased to
+have roasted instead the flesh of lamb. It is all one to the gods: let
+the roasting stop.
+
+OORANDER No, no, gods of the mountain!
+
+OTHERS No, no.
+
+OORANDER Quick, let us offer the flesh to them. If they eat all is
+well. (They offer it, the beggars eat, all but Agmar who watches.)
+
+ILLANAUN One who was ignorant, one who did not know, had almost said
+that they ate like hungry men.
+
+OTHERS Hush.
+
+AKMOS Yet they look as though they had not had a meal like this for a
+long time.
+
+OORANDER They _have_ a hungry look.
+
+AGMAR (who has not eaten) I have not eaten since the world was very
+new and the flesh of men was tenderer than now. These younger gods
+have learned the habit of eating from the lions.
+
+OORANDER O oldest of divinities, partake, partake.
+
+AGMAR It is not fitting that such as I should eat. None eat but beasts
+and men and the younger gods. The Sun and the Moon and the nimble
+Lightning and I, we may kill, and we may madden, but we do not eat.
+
+AKMOS If he but eat of our offering he cannot overwhelm us.
+
+ALL O ancient deity, partake, partake.
+
+AGMAR Enough. Let it be enough that these have condescended to this
+bestial and human habit.
+
+ILLANAUN (to Akmos) And yet he is not unlike a beggar whom I saw not
+so long since.
+
+OORANDER But beggars eat.
+
+ILLANAUN Now I never knew a beggar yet who would refuse a bowl of
+Woldery wine.
+
+AKMOS This is no beggar.
+
+ILLANAUN Nevertheless let us offer him a bowl of Woldery wine.
+
+AKMOS You do wrong to doubt him.
+
+ILLANAUN I do but wish to prove his divinity. I will fetch the Woldery
+wine. (Exit)
+
+AKMOS He will not drink. Yet if he does, then he will not overwhelm
+us. Let us offer him the wine.
+
+(Re-enter Illanaun with a goblet.)
+
+FIRST BEGGAR It is Woldery wine!
+
+SECOND BEGGAR It is Woldery!
+
+THIRD BEGGAR A goblet of Woldery wine!
+
+FOURTH BEGGAR O blessed day!
+
+MLAN O happy times!
+
+SLAG O my wise Master! (All the Beggars stretch out their hands,
+including Agmar. Illanaun gives it to Agmar. Agmar takes it solemnly,
+and very carefully pours it upon the ground.)
+
+FIRST BEGGAR He has spilt it.
+
+SECOND BEGGAR He has spilt it. (Agmar sniffs the fumes.)
+
+AGMAR It is a fitting libation. Our anger is somewhat appeased.
+
+ANOTHER BEGGAR But it was Woldery!
+
+AKMOS (kneeling to Agmar) Master, I am childless, and I....
+
+AGMAR Trouble us not now. It is the hour at which the gods are
+accustomed to speak to the gods in the language of the gods, and if
+Man heard us he would guess the futility of his destiny, which were
+not well for Man. Begone! Begone! (Exeunt all but one who lingers.)
+
+ONE Master....
+
+AGMAR Begone! (exit one) (Agmar takes up a piece of meat and begins to
+eat it: the beggars rise and stretch themselves: they laugh, but Agmar
+eats hungrily.)
+
+OOGNO Ah, now we have come into our own.
+
+THAHN Now we have alms.
+
+SLAG Master! My wise Master!
+
+ULF These are the good days, the good days; and yet I have a fear.
+
+SLAG What do you fear? There is nothing to fear. No man is as wise as
+my Master.
+
+ULF I fear the gods whom we pretend to be.
+
+SLAG The gods?
+
+AGMAR (taking a chunk of meat from his lips) Come hither, Slag.
+
+SLAG (going up to him) Yes, Master.
+
+AGMAR Watch in the doorway while I eat. (Slag goes to the doorway)
+Sit in the attitude of a god. Warn me if any of the citizens approach.
+(Slag sits in the doorway in the attitude of a god, back to the
+audience)
+
+OOGNO (to Agmar) But, Master, shall we not have Woldery wine?
+
+AGMAR We shall have all things if only we are wise at first for a
+little.
+
+THAHN Master, do any suspect us?
+
+AGMAR We must be _very_ wise.
+
+THAHN But if we are not wise, Master?
+
+AGMAR Why then death may come to us ...
+
+THAHN O Master!
+
+AGMAR ... slowly. (All stir uneasily except Slag motionless in the
+doorway.)
+
+OOGNO Do they believe us, master?
+
+SLAG (half turning his head) Someone comes. (Slag resumes his
+position.)
+
+AGMAR (putting away his meat) We shall soon know now. (All take up the
+attitude. Enter one.)
+
+ONE Master, I want the god that does not eat.
+
+AGMAR I am he.
+
+ONE Master, my child was bitten in the throat by a death-adder at
+noon. Spare him, Master; he still breathes, but slowly.
+
+AGMAR Is he indeed your child?
+
+ONE He is surely my child, Master.
+
+AGMAR Was it your wont to thwart him in his play, while he was strong
+and well?
+
+ONE I never thwarted him, Master.
+
+AGMAR Whose child is Death?
+
+ONE Death is the child of the gods.
+
+AGMAR Do you that never thwarted your child in his play ask this of
+the gods?
+
+ONE (with some horror, perceiving Agmar's meaning) Master!
+
+AGMAR Weep not. For all the houses that men have builded are the
+play-fields of this child of the gods. (The man goes away in silence
+not weeping.)
+
+OOGNO (Taking Thahn by the wrist) Is this indeed a man?
+
+AGMAR A man, a man, and until just now a hungry one.
+
+
+
+ACT III
+
+Same room. A few days have elapsed. Seven thrones shaped like
+mountain-crags stand along the back of the stage. On these the beggars
+are lounging. The Thief is absent.
+
+
+MLAN Never had beggars such a time.
+
+OOGNO Ah, the fruits and tender lamb!
+
+THAHN The Woldery wine!
+
+SLAG It was better to see my Master's wise devices than to have fruit
+and lamb and Woldery wine.
+
+MLAN Ah, when they spied on him to see if he would eat when they went
+away!
+
+OOGNO When they questioned him concerning the gods and Man!
+
+THAHN When they asked him why the gods permitted cancer!
+
+SLAG Ah! My wise Master.
+
+MLAN How well his scheme has succeeded.
+
+OOGNO How far away is hunger!
+
+THAHN It is even like to one of last year's dreams, the trouble of a
+brief night long ago.
+
+MLAN Ho, ho, ho, to see them pray to us!
+
+AGMAR (sternly) When we were beggars did we not speak as beggars? Did
+we not whine as they? Was not our mien beggarly?
+
+MLAN We were the pride of our calling.
+
+AGMAR (sternly) Then now that we are gods let us _be_ as gods, and not
+mock our worshippers.
+
+ULF I think the gods _do_ mock their worshippers.
+
+AGMAR The gods have never mocked _us_. We are above all pinnacles that
+we have ever gazed at in dreams.
+
+ULF I think that when Man is high then most of all are the gods wont
+to mock him. (Enter Thief)
+
+THIEF Master, I have been with those that see all and know all, I have
+been with the thieves, Master. They know me for one of the craft, but
+they do not know me as being one of us.
+
+AGMAR Well, well ...
+
+THIEF There is danger, Master, there is great danger.
+
+AGMAR You mean that they suspect that we are men?
+
+THIEF That they have long done, Master. I mean that they will know it.
+Then we are lost.
+
+AGMAR Then they do not know it?
+
+THIEF They do not know it yet, but they will know it, and we are lost.
+
+AGMAR When will they know it?
+
+THIEF Three days ago they suspected us.
+
+AGMAR More than you think suspected us, but have any dared to say so?
+
+THIEF No, Master.
+
+AGMAR Then forget your fears, my thief.
+
+THIEF Two men went on dromedaries three days ago to see if the gods
+were still at Marma.
+
+AGMAR They went to Marma!
+
+THIEF Yes, three days ago.
+
+OOGNO We are lost.
+
+AGMAR They went three days ago?
+
+THIEF Yes, on dromedaries.
+
+AGMAR They should be back to-day.
+
+OOGNO We are lost.
+
+THAHN We are lost.
+
+THIEF They must have seen the green jade idols sitting against the
+mountains. They will say, 'The gods are still at Marma.' And we shall
+be burnt.
+
+SLAG My Master will yet devise a plan.
+
+AGMAR (to the Thief) Slip away to some high place and look towards the
+desert and see how long we have to devise a plan. (Exit Thief.)
+
+SLAG My Master will devise a plan.
+
+OOGNO He has taken us into a trap.
+
+THAHN His wisdom is our doom.
+
+SLAG He will find a wise plan yet. (Re-enter Thief.)
+
+THIEF It is too late.
+
+AGMAR It is too late?
+
+THIEF The dromedary men are here.
+
+OOGNO We are lost.
+
+AGMAR Be silent! I must think. (They all sit still. Citizens enter and
+prostrate themselves. Agmar sits deep in thought.)
+
+ILLANAUN (to Agmar) Two holy pilgrims have gone to your sacred
+shrines, wherein you were wont to sit before you left the mountains.
+(Agmar says nothing) They return even now.
+
+AGMAR They left us here and went to find the gods. A fish once took a
+journey into a far country to find the sea.
+
+ILLANAUN Most reverend Deity, their piety is so great that they have
+gone to worship even your shrines.
+
+AGMAR I know these men that have great piety. Such men have often
+prayed to me before, but their prayers are not acceptable. They little
+love the gods, their only care is their piety. I know these pious
+ones. They will say that the seven gods were still at Marma. So shall
+they seem more pious to you all, pretending that they alone have seen
+the gods. Fools shall believe them and share in their damnation.
+
+OORANDER (to Illanaun) Hush. You anger the gods.
+
+ILLANAUN I am not sure whom I anger.
+
+OORANDER It may be they are the gods.
+
+ILLANAUN Where are these men from Marma?
+
+CITIZEN Here are the dromedary men, they are coming now.
+
+ILLANAUN (to Agmar) The holy pilgrims from your shrine are come to
+worship you.
+
+AGMAR The men are doubters. How the gods hate the word! Doubt ever
+contaminated virtue. Let them be cast into prison and not besmirch
+your purity, (rising) Let them not enter here.
+
+ILLANAUN But O most reverened Deity from the mountain, we also doubt,
+most reverend Deity.
+
+AGMAR You have chosen. You have chosen. And yet it is not too late.
+Repent and cast these men in prison and it may not be too late. _The
+gods have never wept_. And yet when they think upon damnation and the
+dooms that are withering a myriad bones, then almost, were they not
+divine, they _could_ weep. Be quick. Repent of your doubt.
+
+ILLANAUN Most reverend Deity, it is a mighty doubt.
+
+CITIZENS _Nothing has killed him! They are not the gods_!
+
+SLAG (to Agmar) You have a plan, my Master. You have a plan?
+
+AGMAR Not yet, Slag. (Enter the dromedary men.)
+
+ILLANAUN (to Oorander) These are the men that went to the shrines at
+Marma.
+
+OORANDER (in a loud, clear voice) Were the gods of the mountain seated
+still at Marma, or were they not there? (The beggars get up hurriedly
+from their thrones.)
+
+DROMEDARY MAN They were not there.
+
+ILLANAUN They were not there?
+
+DROMEDARY MAN Their shrines were empty.
+
+OORANDER Behold the gods of the mountain!
+
+AKMOS They have indeed come from Marma.
+
+OORANDER Come. Let us go away to prepare a sacrifice, a mighty
+sacrifice to atone for our doubting. (Exeunt.)
+
+SLAG My most wise Master!
+
+AGMAR No, no, Slag. I do not know what has befallen. When I went by
+Marma only two weeks ago the idols of green jade were still seated
+there.
+
+OOGNO We are saved now.
+
+THAHN Aye, we are saved.
+
+AGMAR We are saved, but I know not how.
+
+OOGNO _Never_ had beggars such a time.
+
+THIEF I will go out and watch. (He creeps out.)
+
+ULF Yet I have a fear.
+
+OOGNO A fear? Why, we are saved.
+
+ULF Last night I dreamed.
+
+OOGNO What was your dream?
+
+ULF It was nothing. I dreamed that I was thirsty and one gave me
+Woldery wine; yet there was a fear in my dream.
+
+THAHN When I drink Woldery wine I am afraid of nothing. (Re-enter
+Thief.)
+
+THIEF They are making a pleasant banquet ready for us; they are
+killing lambs, and girls are there with fruits, and there is to be
+much Woldery wine.
+
+MLAN Never had beggars such a time.
+
+AGMAR Do any doubt us now?
+
+THIEF I do not know.
+
+MLAN When will the banquet be?
+
+THIEF When the stars come out.
+
+OOGNO Ah. It is sunset already. There will be good eating.
+
+THAHN We shall see the girls come in with baskets upon their heads.
+
+OOGNO There will be fruits in the baskets.
+
+THAHN All the fruits of the valley.
+
+MLAN Ah, how long we have wandered along the ways of the world.
+
+SLAG Ah, how hard they were.
+
+THAHN And how dusty.
+
+OOGNO And how little wine.
+
+MLAN How long we have asked and asked, and for how much!
+
+AGMAR We to whom all things are coming now at last.
+
+THIEF I fear lest my art forsake me now that good things come without
+stealing.
+
+AGMAR You will need your art no longer.
+
+SLAG The wisdom of my Master shall suffice us all our days. (Enter a
+frightened man. He kneels before Agmar and abases his forehead.)
+
+MAN Master, we implore you, the people beseech you. (Agmar and the
+beggars in the attitude of the gods sit silent.)
+
+MAN Master, it is terrible. (The beggars maintain silence) It is
+terrible when you wander in the evening. It is terrible on the edge of
+the desert in the evening. Children die when they see you.
+
+AGMAR In the desert? When did you see us?
+
+MAN Last night, Master. You were terrible last night. You were
+terrible in the gloaming. When your hands were stretched out and
+groping. You were feeling for the city.
+
+AGMAR Last night do you say?
+
+MAN You were terrible in the gloaming!
+
+AGMAR You yourself saw us?
+
+MAN Yes, Master, you were terrible. Children too saw you and they
+died.
+
+AGMAR You say you saw us?
+
+MAN Yes, Master. Not as you are now, but otherwise. We implore you,
+Master, not to wander at evening. You are terrible in the gloaming.
+You are....
+
+AGMAR You say we appeared not as we are now. How did we appear to you?
+
+MAN Otherwise, Master, otherwise.
+
+AGMAR But how _did_ we appear to you?
+
+MAN You were all green, Master, all green in the gloaming, all of rock
+again as you used to be in the mountains. Master, we can bear to see
+you in flesh like men, but when we see rock walking it is terrible, it
+is terrible.
+
+AGMAR That is how we appeared to you?
+
+MAN Yes, Master. Rock should not walk. When children see it they do
+not understand. Rock should not walk in the evening.
+
+AGMAR There have been doubters of late. Are they satisfied?
+
+MAN Master, they are terrified. Spare us, Master.
+
+AGMAR It is wrong to doubt. Go, and be faithful. (Exit Man.)
+
+SLAG What have they seen, Master?
+
+AGMAR They have seen their own fears dancing in the desert. They have
+seen something green after the light was gone, and some child has told
+them a tale that it was us. I do not know what they have seen. What
+should they have seen?
+
+ULF Something was coming this way from the desert, he said.
+
+SLAG What should come from the desert?
+
+AGMAR They are a foolish people.
+
+ULF That man's white face has seen some frightful thing.
+
+SLAG A frightful thing?
+
+ULF That man's face has been near to some frightful thing.
+
+AGMAR It is only we that have frightened them, and their fears have
+made them foolish. (Enter an attendant with a torch or lantern which
+he places in a receptacle. Exit.)
+
+THAHN Now we shall see the faces of the girls when they come to the
+banquet.
+
+MLAN Never had beggars such a time.
+
+AGMAR Hark! They are coming. I hear footsteps.
+
+THAHN The dancing girls. They are coming.
+
+THIEF There is no sound of flutes; they said they would come with
+music.
+
+OOGNO What heavy boots they have, they sound like feet of stone.
+
+THAHN I do not like to hear their heavy tread; those that would dance
+to _us_ must be light of foot.
+
+AGMAR I shall not smile at them if they are not airy.
+
+MLAN They are coming very slowly. They should come nimbly to us.
+
+THAHN They should dance as they come. But the footfall is like the
+footfall of heavy crabs.
+
+ULF (in a loud voice, almost chaunting) I have a fear, an old fear and
+a boding. We have done ill in the sight of the seven gods; beggars we
+were and beggars we should have remained; we have given up our calling
+and come in sight of our doom: I will no longer let my fear be silent:
+it shall run about and cry: it shall go from me crying, like a dog
+from out of a doomed city; for my fear has seen calamity and has known
+an evil thing.
+
+SLAG (hoarsely) Master!
+
+AGMAR (rising) Come, come! (They listen. No one speaks. The stony
+boots come on. Enter in single file a procession of seven green men,
+even hands and faces are green; they wear greenstone sandals, they
+walk with knees extremely wide apart, as having sat cross-legged for
+centuries, their right arms and right forefingers point upwards, right
+elbows resting on left hands: they stoop grotesquely: halfway to the
+footlights they wheel left. They pass in front of the seven beggars,
+now in terrified attitudes and six of them sit down in the attitude
+described, with their backs to the audience. The leader stands, still
+stooping. Just as they wheel left, OOGNO cries out.) The gods of the
+mountain!
+
+AGMAR (hoarsely) Be still. They are dazzled by the light, they may not
+see us. (The leading green thing points his forefinger at the lantern,
+the flame turns green. When the six are seated the leader points one
+by one at each of the seven beggars, shooting out his forefinger at
+them. As he does this each beggar in his turn gathers himself back on
+to his throne and crosses his legs, his right arm goes stiffly upwards
+with forefinger erect, and a staring look of horror comes into his
+eyes. In this attitude the beggars sit motionless while a green light
+falls upon their faces. The gods go out.
+
+Presently enter the Citizens, some with victuals and fruit. One
+touches a beggar's arm and then another's.)
+
+CITIZEN They are cold; they have turned to stone. (All abase
+themselves foreheads to the floor.)
+
+ONE We have doubted them. We have doubted them. They have turned to
+stone because we have doubted them.
+
+ANOTHER They were the true gods.
+
+ALL They were the true gods.
+
+
+
+
+THE FIRST ACT OF KING ARGIMENES AND THE UNKNOWN WARRIOR
+
+
+  King Argimenes
+  Zarb (a slave born of slaves)
+  An Old Slave                       Slaves of King Darniak
+  A Young Slave
+  Slaves
+
+  King Darniak
+  The King's Overseer
+  A Prophet
+  The Idol-Guard
+  The Servant of the King's Dog
+
+  Queen Otharlia
+  Queen Oxara
+  Queen Cahafra                       Queens of King Darniak
+  Queen Thragolind
+  Guards and Attendants
+
+
+
+ACT I
+
+Time: A long time ago. SCENE: The dinner-hour on the slave-fields of
+King Darniak.
+
+
+(The Curtain rises upon King Argimenes, sitting upon the ground,
+bowed, ragged, and dirty, gnawing a bone. He has uncouth hair and a
+dishevelled beard. A battered spade lies near him. Two or three slaves
+sit at back of stage eating raw cabbage-leaves. The tear-song, the
+chaunt of the low-born, rises at intervals, monotonous and mournful,
+coming from distant slave-fields.)
+
+KING ARGIMENES This is a good bone; there is juice in this bone.
+
+ZARB I wish I were you, Argimenes.
+
+KING ARGIMENES I am not to be envied any longer. I have eaten up my
+bone.
+
+ZARB I wish I were you, because you have been a King. Because men
+have prostrated themselves before your feet. Because you have ridden a
+horse and worn a crown and have been called Majesty.
+
+KING ARGIMENES When I remember that I have been a king it is very
+terrible.
+
+ZARB But you are lucky to have such things in your memory as you have.
+I have nothing in my memory--Once I went for a year without being
+flogged, and I remember my cleverness in contriving it--I have nothing
+else to remember.
+
+KING ARGIMENES It is very terrible to have been a king.
+
+ZARB But we have nothing who have no good memories in the past. It is
+not easy for us to hope for the future here.
+
+KING ARGIMENES Have you any god?
+
+ZARB We may not have a god because he might make us brave and we might
+kill our guards. He might make a miracle and give us swords.
+
+KING ARGIMENES Ah, you have no hope then.
+
+ZARB I have a little hope. Hush, and I will tell you a secret--The
+King's great dog is ill and like to die. They will throw him to us. We
+shall have beautiful bones then.
+
+KING ARGIMENES Ah! Bones.
+
+ZARB Yes. That is what _I_ hope for. And have _you_ no other hope? Do
+you not hope that your nation will arise some day and rescue you
+and cast off the king and hang him up by his thumbs from the palace
+gateway?
+
+KING ARGIMENES No. I have no other hope, for my god was cast down in
+the temple and broken into three pieces on the day that they surprised
+us and took me sleeping. But will they throw him to us? Will so
+honourable a brute as the King's dog be thrown to us?
+
+ZARB When he is dead his honours are taken away. Even the King when he
+is dead is given to the worms. Then why should not his dog be thrown
+to us?
+
+KING ARGIMENES We are not worms!
+
+ZARB You do not understand, Argimenes. The worms are little and free,
+while we are big and enslaved. I did not say we were worms, but we are
+_like_ worms, and if they have the King when he is dead, why then--
+
+KING ARGIMENES Tell me more of the King's dog. Are there big bones on
+him?
+
+ZARB Ay, he is a big dog--a high, big, black one.
+
+KING ARGIMENES You know him then?
+
+ZARB O yes, I know him. I know him well. I was beaten once because of
+him, twenty-five strokes from the treble whips, two men beating me.
+
+KING ARGIMENES How did they beat you because of the King's dog?
+
+ZARB They beat me because I spoke to him without making obeisance. He
+was coming dancing alone over the slave-fields and I spoke to him. He
+was a friendly great dog, and I spoke to him and patted his head, and
+did not make obeisance.
+
+KING ARGIMENES And they saw you do it?
+
+ZARB Yes, the slave-guard saw me. They came and seized me at once and
+bound my arms. The great dog wanted me to speak to him again, but I
+was hurried away.
+
+KING ARGIMENES You should have made obeisance.
+
+ZARB The great dog seemed so friendly that I forgot he was the King's
+great dog.
+
+KING ARGIMENES But tell me more. Was he hurt, or is it a sickness?
+
+ZARB They say that it is a sickness.
+
+KING ARGIMENES Ah. Then he will grow thin if he does not die soon. If
+it had been a hurt!--but we should not complain. I complain more often
+than you do because I had not learned to submit while I was yet young.
+
+ZARB If your beautiful memories do not please you, you should hope
+more. I wish I had your memories. I should not trouble to hope then.
+It is very hard to hope.
+
+KING ARGIMENES There will be nothing more to hope for when we have
+eaten the King's dog.
+
+ZARB Why you might find gold in the earth while you were digging. Then
+you might bribe the commander of the guard to lend you his sword; we
+would all follow you if you had a sword. Then we might take the King
+and bind him and lay him on the ground and fasten his tongue outside
+his mouth with thorns and put honey on it and sprinkle honey near.
+Then the grey ants would come from one of their big mounds. My father
+found gold once when he was digging.
+
+KING ARGIMENES (pointedly) Did your father free himself?
+
+ZARB No. Because the King's Overseer found him looking at the gold and
+killed him. But he would have freed himself if he could have bribed
+the guard. (A prophet walks across the stage attended by two guards.)
+
+SLAVES He is going to the King. He is going to the King.
+
+ZARB He is going to the King.
+
+KING ARGIMENES Going to prophesy good things to the King. It is easy
+to prophesy good things to a king, and be rewarded when the good
+things come. What else should come to a king? A prophet! a prophet! (A
+deep bell tolls slowly. King Argimenes and Zarb pick up their spades
+at once, and the old slaves at the back of the stage go down on their
+knees immediately and grub in the soil with their hands. The white
+beard of the oldest trails in the dirt as he works. King Argimenes
+digs.)
+
+KING ARGIMENES What is the name of that song that we always sing? I
+like the song.
+
+ZARB It has no name. It is our song. There is no other song.
+
+KING ARGIMENES Once there were other songs. Has this no name?
+
+ZARB I think the soldiers have a name for it.
+
+KING ARGIMENES What do the soldiers call it?
+
+ZARB The soldiers call it the tear-song, the chaunt of the low-born.
+
+KING ARGIMENES It is a good song. I could sing no other now. (Zarb
+moves away digging.)
+
+KING ARGIMENES (to himself as his spade touches something in the
+earth.) Metal! (Feels with his spade again.) Gold perhaps!--It is of
+no use here. (uncovers earth leisurely. Suddenly he drops on his knees
+and works excitedly in the earth with his hands. Then very slowly,
+still kneeling, he lifts, lying flat on his hands, a long greenish
+sword, his eyes intent on it. About the level of his uplifted forehead
+he holds it, still flat on both hands, and addresses it thus:)
+
+O holy and blessed thing. (Then he lowers it slowly till his hands
+rest on his knees, and looking all the while at the sword.)
+
+KING ARGIMENES Three years ago tomorrow King Darniak spat at me,
+having taken my kingdom from me. Three times in that year I was
+flogged, with twelve stripes, with seventeen stripes, and with twenty
+stripes. A year and eleven months ago, come Moon-day, the King's
+Overseer struck me in the face, and nine times in that year he called
+me dog. For one month two weeks and a day I was yoked with a bullock
+and pulled a rounded stone all day over the paths, except while we
+were fed. I was flogged twice that year--with eighteen stripes and
+with ten stripes. This year the roof of the slave-sty has fallen in
+and King Darniak will not repair it. Five weeks ago one of his queens
+laughed at me as she came across the slave-fields. I was flogged again
+this year and with thirteen stripes, and twelve times they have called
+me dog. And these things they have done to a king, and a king of the
+house of Ithara. (He listens attentively for a moment, then buries
+the sword again and pats the earth over it with his hands, then digs
+again. The old slaves do not see him: their faces are to the earth.)
+(Enter the King's Overseer carrying a whip. The slaves and King
+Argimenes kneel with their foreheads to the ground as he passes across
+the stage. Exit the King's Overseer.)
+
+KING ARGIMENES (kneeling, hands outspread downwards.) O warrior
+spirit, wherever thou wanderest, whoever be thy gods; whether they
+punish thee or whether they bless thee; O kingly spirit that once laid
+here this sword, behold I pray to thee having no gods to pray to, for
+the god of my nation was broken in three by night. Mine arm is stiff
+with three years' slavery and remembers not the sword. But guide thy
+sword till I have slain six men and armed the strongest slaves, and
+thou shalt have the sacrifice every year of a hundred goodly oxen. And
+I will build in Ithara a temple to thy memory wherein all that enter
+in shall remember thee, so shalt thou be honoured and envied among the
+dead, for the dead are very jealous of remembrance. Aye, though thou
+wert a robber that took men's lives unrighteously, yet shall rare
+spices smoulder in thy temple and little maidens sing and new-plucked
+flowers deck the solemn aisles; and priests shall go about it ringing
+bells that thy soul shall find repose. O but it has a good blade this
+old green sword; thou wouldst not like to see it miss its mark (if the
+dead see at all, as wise men teach,) thou wouldst not like to see it
+go thirsting into the air; so huge a sword should find its marrowy
+bone. (Extending his right hand upward.) Come into my right arm, O
+ancient spirit, O unknown warrior's soul. And if thou hast the ear of
+any gods, speak there against Illuriel, god of King Darniak. (He rises
+and goes on digging. Re-enter the King's Overseer.)
+
+THE KING'S OVERSEER So you have been praying.
+
+KING ARGIMENES (kneeling) No, Master.
+
+THE KING'S OVERSEER The slave-guard saw you. (Strikes him) It is not
+lawful for a slave to pray.
+
+KING ARGIMENES I did but pray to Illuriel to make me a good slave, to
+teach me to dig well and to pull the rounded stone, and to make me not
+to die when the food is scarce, but to be a good slave to my master,
+the great King.
+
+THE KING'S OVERSEER Who art thou to pray to Illuriel? Dogs may not
+pray to an immortal god. (Exit. Zarb comes back, digging.)
+
+KING ARGIMENES (digging) Zarb.
+
+ZARB (also digging) Do not look at me when you speak. The guards are
+watching us. Look at your digging.
+
+KING ARGIMENES How do the guards know we are speaking because we look
+at one another?
+
+ZARB You are very witless. Of course they know.
+
+KING ARGIMENES Zarb.
+
+ZARB What is it?
+
+KING ARGIMENES How many guards are there in sight?
+
+ZARB There are six of them over there. They are watching us.
+
+KING ARGIMENES Are there other guards in sight of these six guards?
+
+ZARB No.
+
+KING ARGIMENES How do you know?
+
+ZARB Because whenever their officer leaves them they sit upon the
+ground and play with dice.
+
+KING ARGIMENES How does that show that there are not another six in
+sight of them?
+
+ZARB How witless you are, Argimenes. Of course it shows there are
+not. Because, if there were, another officer would see them, and their
+thumbs would be cut off.
+
+KING ARGIMENES Ah. (a pause.) Zarb. (a pause) Would the slaves follow
+me if I tried to kill the guards?
+
+ZARB No, Argimenes.
+
+KING ARGIMENES Why would they not follow me?
+
+ZARB Because you look like a slave. They will never follow a slave,
+because they are slaves themselves, and know how mean a creature is a
+slave. If you looked like a king they would follow you.
+
+KING ARGIMENES But I am a king. They know that I am a king.
+
+ZARB It is better to look like a king. It is looks that they would go
+by.
+
+KING ARGIMENES If I had a sword would they follow me? A beautiful huge
+sword of bronze.
+
+ZARB I wish I could think of things like that. It is because you were
+once a king that you can think of a sword of bronze. I tried to hope
+once that I should some day fight the guards, but I couldn't picture a
+sword, I couldn't imagine it; I could only picture whips.
+
+KING ARGIMENES Dig a little nearer, Zarb. (They both edge closer.) I
+have found a very old sword in the earth. It is not a sword such as
+common soldiers wear. A king must have worn it, and an angry king. It
+must have done fearful things; there are little dints in it. Perhaps
+there was a battle here long ago where all were slain, and perhaps
+that king died last and buried his sword, but the great birds
+swallowed him.
+
+ZARB You have been thinking too much of the King's dog, Argimenes, and
+that has made you hungry, and hunger has driven you mad.
+
+KING ARGIMENES I _have_ found such a sword. (A pause.)
+
+ZARB Why--then you will wear a purple cloak again, and sit on a great
+throne, and ride a prancing horse, and we shall call you Majesty.
+
+KING ARGIMENES I shall break a long fast first and drink much water,
+and sleep. But will the slaves follow me?
+
+ZARB You will _make_ them follow you if you have a sword. Yet is
+Illuriel a very potent god. They say that none have prevailed against
+King Darniak's dynasty so long as Illuriel stood. Once an enemy cast
+Illuriel into the river and overthrew the dynasty, but a fisherman
+found him again and set him up, and the enemy was driven out and the
+dynasty returned.
+
+KING ARGIMENES If Illuriel could be cast down as my god was cast down
+perhaps King Darniak could be overcome as I was overcome in my sleep?
+
+ZARB If Illuriel were cast down all the people would utter a cry and
+flee away. It would be a fearful portent.
+
+KING ARGIMENES How many men are there in the armoury at the palace?
+
+ZARB There are ten men in the palace armoury when all the slave-guards
+are out. (They dig awhile in silence.)
+
+ZARB The officer of the slave-guard has gone away--they are playing
+with dice now. (Zarb throws down his spade and stretches his
+arms)--The man with the big beard has won again, he is very nimble
+with his thumbs--They are playing again, but it is getting dark, I
+cannot clearly see.
+
+(King Argimenes furtively uncovers the sword, he picks it up and grips
+it in his hand.)
+
+ZARB Majesty! (King Argimenes crouches and steals away towards the
+slave-guard.)
+
+ZARB (to the other slaves) Argimenes has found a terrible sword and
+has gone to slay the slave-guard. It is not a common sword, it is some
+king's sword.
+
+AN OLD SLAVE Argimenes will be dreadfully flogged. We shall hear him
+cry all night. His cries will frighten us, and we shall not sleep.
+
+ZARB No! no! The guards flog poor slaves, but Argimenes had an angry
+look. The guards will be afraid when they see him look so angry and
+see his terrible sword. It was a huge sword, and he looked very angry.
+He will bring us the swords of the slave-guard. We must prostrate
+ourselves before him and kiss his feet or he will be angry with us
+too.
+
+OLD SLAVE Will Argimenes give me a sword?
+
+ZARB He will have swords for six of us if he slays the slave-guard.
+Yes, he will give you a sword.
+
+SLAVE A sword! No, no, I must not; the King would kill me if he found
+that I had a sword.
+
+SECOND SLAVE (slowly, as one who develops an idea) If the King found
+that I had a sword, why then it would be an evil day for the King.
+(They all look off left.)
+
+ZARB I think that they are playing at dice again.
+
+FIRST SLAVE I do not see Argimenes.
+
+ZARB No, because he was crouching as he walked. The slave-guard is on
+the sky-line.
+
+SECOND SLAVE What is that dark shadow behind the slave-guard?
+
+ZARB It is too still to be Argimenes.
+
+SECOND SLAVE Look! It moves.
+
+ZARB The evening is too dark, I cannot see. (They continue to gaze
+into the gathering darkness. They raise themselves on their knees and
+crane their necks. Nobody speaks. Then from their lips and from others
+further off goes up a long deep Oh! It is like the sound that goes up
+from the grand stand when a horse falls at a fence, or in England like
+the first exclamation of the crowd at a great cricket match when a man
+is caught in the slips.)
+
+
+
+
+THE FALL OF BABBULKUND
+
+
+I said: 'I will arise now and see Babbulkund, City of Marvel. She is
+of one age with the earth; the stars are her sisters. Pharaohs of
+the old time coming conquering from Araby first saw her, a solitary
+mountain in the desert, and cut the mountain into towers and terraces.
+They destroyed one of the hills of God, but they made Babbulkund. She
+is carven, not built; her palaces are one with her terraces, there is
+neither join nor cleft. Hers is the beauty of the youth of the world.
+She deemeth herself to be the middle of Earth, and hath four gates
+facing outward to the Nations. There sits outside her eastern gate a
+colossal god of stone. His face flushes with the lights of dawn. When
+the morning sunlight warms his lips they part a little, and he giveth
+utterance to the words 'Oon Oom,' and the language is long since dead
+in which he speaks, and all his worshippers are gathered to their
+tombs, so that none knoweth what the words portend that he uttereth at
+dawn. Some say that he greets the sun as one god greets another in the
+language thereof, and others say that he proclaims the day, and others
+that he uttereth warning. And at every gate is a marvel not credible
+until beholden.'
+
+And I gathered three friends and said to them: 'We are what we have
+seen and known. Let us journey now and behold Babbulkund, that our
+minds may be beautified with it and our spirits made holier.'
+
+So we took ship and travelled over the lifting sea, and remembered not
+things done in the towns we knew, but laid away the thoughts of them
+like soiled linen and put them by, and dreamed of Babbulkund.
+
+But when we came to the land of which Babbulkund is the abiding glory,
+we hired a caravan of camels and Arab guides, and passed southwards
+in the afternoon on the three days' journey through the desert that
+should bring us to the white walls of Babbulkund. And the heat of
+the sun shone upon us out of the bright grey sky, and the heat of the
+desert beat up at us from below.
+
+About sunset we halted and tethered our horses, while the Arabs
+unloaded the provisions from the camels and prepared a fire out of
+the dry scrub, for at sunset the heat of the desert departs from it
+suddenly, like a bird. Then we saw a traveller approaching us on a
+camel coming from the south. When he was come near we said to him:
+
+'Come and encamp among us, for in the desert all men are brothers, and
+we will give thee meat to eat and wine, or, if thou art bound by thy
+faith, we will give thee some other drink that is not accursed by the
+prophet.'
+
+The traveller seated himself beside us on the sand, and crossed his
+legs and answered:
+
+'Hearken, and I will tell you of Babbulkund, City of Marvel.
+Babbulkund stands just below the meeting of the rivers, where Oonrana,
+River of Myth, flows into the Waters of Fable, even the old stream
+Plegathanees. These, together, enter her northern gate rejoicing. Of
+old they flowed in the dark through the Hill that Nehemoth, the first
+of Pharaohs, carved into the City of Marvel. Sterile and desolate they
+float far through the desert, each in the appointed cleft, with life
+upon neither bank, but give birth in Babbulkund to the sacred purple
+garden whereof all nations sing. Thither all the bees come on a
+pilgrimage at evening by a secret way of the air. Once, from his
+twilit kingdom, which he rules equally with the sun, the moon saw
+and loved Babbulkund, clad with her purple garden; and the moon wooed
+Babbulkund, and she sent him weeping away, for she is more beautiful
+than all her sisters the stars. Her sisters come to her at night into
+her maiden chamber. Even the gods speak sometimes of Babbulkund, clad
+with her purple garden. Listen, for I perceive by your eyes that
+ye have not seen Babbulkund; there is a restlessness in them and an
+unappeased wonder. Listen. In the garden whereof I spoke there is a
+lake that hath no twin or fellow in the world; there is no companion
+for it among all the lakes. The shores of it are of glass, and the
+bottom of it. In it are great fish having golden and scarlet scales,
+and they swim to and fro. Here it is the wont of the eighty-second
+Nehemoth (who rules in the city to-day) to come, after the dusk has
+fallen, and sit by the lake alone, and at this hour eight hundred
+slaves go down by steps through caverns into vaults beneath the lake.
+Four hundred of them carrying purple lights march one behind the
+other, from east to west, and four hundred carrying green lights
+march one behind the other, from west to east. The two lines cross and
+re-cross each other in and out as the slaves go round and round, and
+the fearful fish flash up and down and to and fro.'
+
+But upon that traveller speaking night descended, solemn and cold, and
+we wrapped ourselves in our blankets and lay down upon the sand in
+the sight of the astral sisters of Babbulkund. And all that night the
+desert said many things, softly and in a whisper, but I knew not what
+he said. Only the sand knew and arose and was troubled and lay down
+again, and the wind knew. Then, as the hours of the night went by,
+these two discovered the foot-tracks wherewith we had disturbed the
+holy desert, and they troubled over them and covered them up; and then
+the wind lay down and the sand rested. Then the wind rose again and
+the sand danced. This they did many times. And all the while the
+desert whispered what I shall not know.
+
+Then I slept awhile and awoke just before sunrise, very cold. Suddenly
+the sun leapt up and flamed upon our faces; we all threw off our
+blankets and stood up. Then we took food, and afterwards started
+southwards, and in the heat of the day rested, and afterwards pushed
+on again. And all the while the desert remained the same, like a dream
+that will not cease to trouble a tired sleeper.
+
+And often travellers passed us in the desert, coming from the City of
+Marvel, and there was a light and a glory in their eyes from having
+seen Babbulkund. That evening, at sunset, another traveller neared us,
+and we hailed him, saying:
+
+'Wilt thou eat and drink with us, seeing that all men are brothers in
+the desert?'
+
+And he descended from his camel and sat by us and said:
+
+'When morning shines on the colossus Neb and Neb speaks, at once the
+musicians of King Nehemoth in Babbulkund awake.
+
+'At first their fingers wander over their golden harps, or they stroke
+idly their violins. Clearer and clearer the note of each instrument
+ascends like larks arising from the dew, till suddenly they all blend
+together and a new melody is born. Thus, every morning, the musicians
+of King Nehemoth make a new marvel in the City of Marvel; for these
+are no common musicians, but masters of melody, raided by conquest
+long since, and carried away in ships from the Isles of Song. And, at
+the sound of the music, Nehemoth awakes in the eastern chamber of his
+palace, which is carved in the form of a great crescent, four miles
+long, on the northern side of the city. Full in the windows of its
+eastern chamber the sun rises, and full in the windows of its western
+chamber the sun sets.
+
+'When Nehemoth awakes he summons slaves who bring a palanquin with
+bells, which the King enters, having lightly robed. Then the slaves
+run and bear him to the onyx Chamber of the Bath, with the sound of
+small bells ringing as they run. And when Nehemoth emerges thence,
+bathed and annointed, the slaves run on with their ringing palanquin
+and bear him to the Orient Chamber of Banquets, where the King takes
+the first meal of the day. Thence, through the great white corridor
+whose windows all face sunwards, Nehemoth, in his palanquin, passes
+on to the Audience Chamber of Embassies from the North, which is all
+decked with Northern wares.
+
+'All about it are ornaments of amber from the North and carven
+chalices of the dark brown Northern crystal, and on its floors lie
+furs from Baltic shores.
+
+'In adjoining chambers are stored the wonted food of the hardy
+Northern men, and the strong wine of the North, pale but terrible.
+Therein the King receives barbarian princes from the frigid lands.
+Thence the slaves bear him swiftly to the Audience Chamber of
+Embassies from the East, where the walls are of turquoise, studded
+with the rubies of Ceylon, where the gods are the gods of the East,
+where all the hangings have been devised in the gorgeous heart of Ind,
+and where all the carvings have been wrought with the cunning of the
+isles. Here, if a caravan hath chanced to have come in from Ind or
+from Cathay, it is the King's wont to converse awhile with Moguls or
+Mandarins, for from the East come the arts and knowledge of the world,
+and the converse of their people is polite. Thus Nehemoth passes on
+through the other Audience Chambers & receives, perhaps, some Sheihks
+of the Arab folk who have crossed the great desert from the West, or
+receives an embassy sent to do him homage from the shy jungle people
+to the South. And all the while the slaves with the ringing palanquin
+run westwards, following the sun, and ever the sun shines straight
+into the chamber where Nehemoth sits, and all the while the music from
+one or other of his bands of musicians comes tinkling to his ears.
+But when the middle of the day draws near, the slaves run to the
+cool grooves that lie along the verandahs on the northern side of the
+palace, forsaking the sun, and as the heat overcomes the genius of the
+musicians, one by one their hands fall from their instruments, till at
+last all melody ceases. At this moment Nehemoth falls asleep, and the
+slaves put the palanquin down and lie down beside it. At this hour the
+city becomes quite still, and the palace of Nehemoth and the tombs of
+the Pharaohs of old face to the sunlight, all alike in silence. Even
+the jewellers in the market-place, selling gems to princes, cease from
+their bargaining and cease to sing; for in Babbulkund the vendor of
+rubies sings the song of the ruby, and the vendor of sapphires sings
+the song of the sapphire, and each stone hath its song, so that a man,
+by his song, proclaims and makes known his wares.
+
+'But all these sounds cease at the meridian hour, the jewellers in the
+market-place lie down in what shadow they can find, and the princes
+go back to the cool places in their palaces, and a great hush in
+the gleaming air hangs over Babbulkund. But in the cool of the late
+afternoon, one of the King's musicians will awake from dreaming of his
+home and will pass his fingers, perhaps, over the strings of his harp
+and, with the music, some memory may arise of the wind in the glens of
+the mountains that stand in the Isles of Song. Then the musician will
+wrench great cries out of the soul of his harp for the sake of the old
+memory, and his fellows will awake and all make a song of home, woven
+of sayings told in the harbour when the ships came in, and of tales in
+the cottages about the people of old time. One by one the other bands
+of musicians will take up the song, and Babbulkund, City of Marvel,
+will throb with this marvel anew. Just now Nehemoth awakes, the slaves
+leap to their feet and bear the palanquin to the outer side of the
+great crescent palace between the south and the west, to behold the
+sun again. The palanquin, with its ringing bells, goes round once
+more; the voices of the jewellers sing again in the market-place
+the song of the emerald, the song of the sapphire; men talk on the
+housetops, beggars wail in the streets, the musicians bend to their
+work, all the sounds blend together into one murmur, the voice of
+Babbulkund speaking at evening. Lower and lower sinks the sun, till
+Nehemoth, following it, comes with his panting slaves to the great
+purple garden of which surely thine own country has its songs, from
+wherever thou art come.
+
+'There he alights from his palanquin and goes up to a throne of ivory
+set in the garden's midst, facing full westwards, and sits there
+alone, long regarding the sunlight until it is quite gone. At this
+hour trouble comes into the face of Nehemoth. Men have heard him
+muttering at the time of sunset: 'Even I too, even I too.' Thus do
+King Nehemoth and the sun make their glorious ambits about Babbulkund.
+
+'A little later, when the stars come out to envy the beauty of the
+City of Marvel, the King walks to another part of the garden and sits
+in an alcove of opal all alone by the marge of the sacred lake. This
+is the lake whose shores and floors are of glass, which is lit
+from beneath by slaves with purple lights and with green lights
+intermingling, and is one of the seven wonders of Babbulkund. Three of
+the wonders are in the city's midst and four are at her gates. There
+is the lake, of which I tell thee, and the purple garden of which I
+have told thee and which is a wonder even to the stars, and there is
+Ong Zwarba, of which I shall tell thee also. And the wonders at the
+gates are these. At the eastern gate Neb. And at the northern gate
+the wonder of the river and the arches, for the River of Myth, which
+becomes one with the Waters of Fable in the desert outside the city,
+floats under a gate of pure gold, rejoicing, and under many arches
+fantastically carven that are one with either bank. The marvel at the
+western gate is the marvel of Annolith and the dog Voth. Annolith sits
+outside the western gate facing towards the city. He is higher than
+any of the towers or palaces, for his head was carved from the summit
+of the old hill; he hath two eyes of sapphire wherewith he regards
+Babbulkund, and the wonder of the eyes is that they are to-day in the
+same sockets wherein they glowed when first the world began, only the
+marble that covered them has been carven away and the light of day let
+in and the sight of the envious stars. Larger than a lion is the dog
+Voth beside him; every hair is carven upon the back of Voth, his war
+hackles are erected and his teeth are bared. All the Nehemoths have
+worshipped the god Annolith, but all their people pray to the dog
+Voth, for the law of the land is that none but a Nehemoth may worship
+the god Annolith. The marvel at the southern gate is the marvel of the
+jungle, for he comes with all his wild untravelled sea of darkness and
+trees and tigers and sunward-aspiring orchids right through a marble
+gate in the city wall and enters the city, and there widens and holds
+a space in its midst of many miles across. Moreover, he is older than
+the City of Marvel, for he dwelt long since in one of the valleys
+of the mountain which Nehemoth, first of Pharaohs, carved into
+Babbulkund.
+
+'Now the opal alcove in which the King sits at evening by the lake
+stands at the edge of the jungle, and the climbing orchids of the
+jungle have long since crept from their homes through clefts of the
+opal alcove, lured by the lights of the lake, and now bloom there
+exultingly. Near to this alcove are the hareems of Nehemoth.
+
+'The King hath four hareems--one for the stalwart women from the
+mountains to the north, one for the dark and furtive jungle women, one
+for the desert women that have wandering souls and pine in Babbulkund,
+and one for the princesses of his own kith, whose brown cheeks blush
+with the blood of ancient Pharaohs and who exult with Babbulkund in
+her surpassing beauty, and who know nought of the desert or the jungle
+or the bleak hills to the north. Quite unadorned and clad in simple
+garments go all the kith of Nehemoth, for they know well that he grows
+weary of pomp. Unadorned all save one, the Princess Linderith, who
+weareth Ong Zwarba and the three lesser gems of the sea. Such a
+stone is Ong Zwarba that there are none like it even in the turban of
+Nehemoth nor in all the sanctuaries of the sea. The same god that made
+Linderith made long ago Ong Zwarba; she and Ong Zwarba shine together
+with one light, and beside this marvellous stone gleam the three
+lesser ones of the sea.
+
+'Now when the King sitteth in his opal alcove by the sacred lake with
+the orchids blooming around him all sounds are become still. The sound
+of the tramping of the weary slaves as they go round and round never
+comes to the surface. Long since the musicians sleep, and their hands
+have fallen dumb upon their instruments, and the voices in the city
+have died away. Perhaps a sigh of one of the desert women has become
+half a song, or on a hot night in summer one of the women of the hills
+sings softly a song of snow; all night long in the midst of the purple
+garden sings one nightingale; all else is still; the stars that look
+on Babbulkund arise and set, the cold unhappy moon drifts lonely
+through them, the night wears on; at last the dark figure of Nehemoth,
+eighty-second of his line, rises and moves stealthily away.'
+
+The traveller ceased to speak. For a long time the clear stars,
+sisters of Babbulkund, had shone upon him speaking, the desert wind
+had arisen and whispered to the sand, and the sand had long gone
+secretly to and fro; none of us had moved, none of us had fallen
+asleep, not so much from wonder at his tale as from the thought that
+we ourselves in two days' time should see that wondrous city. Then we
+wrapped our blankets around us and lay down with our feet towards the
+embers of our fire and instantly were asleep, and in our dreams we
+multiplied the fame of the City of Marvel.
+
+The sun arose and flamed upon our faces, and all the desert glinted
+with its light. Then we stood up and prepared the morning meal, and,
+when we had eaten, the traveller departed. And we commended his soul
+to the god of the land whereto he went, of the land of his home to the
+northward, and he commended our souls to the god of the people of
+the land wherefrom we had come. Then a traveller overtook us going on
+foot; he wore a brown cloak that was all in rags and he seemed to have
+been walking all night, and he walked hurriedly but appeared weary, so
+we offered him food and drink, of which he partook thankfully. When
+we asked him where he was going, he answered 'Babbulkund.' Then we
+offered him a camel upon which to ride, for we said, 'We also go to
+Babbulkund.' But he answered strangely: 'Nay, pass on before me, for
+it is a sore thing never to have seen Babbulkund, having lived while
+yet she stood. Pass on before me and behold her, and then flee away at
+once, returning northward.'
+
+Then, though we understood him not, we left him, for he was insistent,
+and passed on our journey southwards through the desert, and we came
+before the middle of the day to an oasis of palm trees standing by a
+well and there we gave water to the haughty camels and replenished our
+water-bottles and soothed our eyes with the sight of green things and
+tarried for many hours in the shade. Some of the men slept, but of
+those that remained awake each man sang softly the songs of his own
+country, telling of Babbulkund. When the afternoon was far spent
+we travelled a little way southwards, and went on through the cool
+evening until the sun fell low and we encamped, and as we sat in our
+encampment the man in rags overtook us, having travelled all the day,
+and we gave him food and drink again, and in the twilight he spoke,
+saying:
+
+'I am the servant of the Lord the God of my people and I go to do his
+work on Babbulkund. She is the most beautiful city in the world;
+there hath been none like her, even the stars of God go envious of her
+beauty. She is all white, yet with streaks of pink that pass through
+her streets and houses like flames in the white mind of a sculptor,
+like desire in Paradise. She hath been carved of old out of a holy
+hill, no slaves wrought the City of Marvel, but artists toiling at the
+work they loved. They took no pattern from the houses of men, but
+each man wrought what his inner eye had seen and carved in marble the
+visions of his dream. All over the roof of one of the palace chambers
+winged lions flit like bats, the size of every one is the size of the
+lions of God, and the wings are larger than any wing created; they are
+one above the other more than a man can number, they are all carven
+out of one block of marble, the chamber itself is hollowed from it,
+and it is borne aloft upon the carven branches of a grove of clustered
+tree-ferns wrought by the hand of some jungle mason that loved the
+tall fern well. Over the River of Myth, which is one with the Waters
+of Fable, go bridges, fashioned like the wisteria tree and like the
+drooping laburnum, and a hundred others of wonderful devices, the
+desire of the souls of masons a long while dead. Oh! very beautiful is
+white Babbulkund, very beautiful she is, but proud; and the Lord the
+God of my people hath seen her in her pride, and looking towards
+her hath seen the prayers of Nehemoth going up to the abomination
+Annolith, and all the people following after Voth. She is very
+beautiful, Babbulkund; alas that I may not bless her. I could live
+always on one of her inner terraces looking on the mysterious jungle
+in her midst and the heavenward faces of the orchids that, clambering
+from the darkness, behold the sun. I could love Babbulkund with a
+great love, yet am I the servant of the Lord the God of my people,
+and the King hath sinned unto the abomination Annolith, and the people
+lust exceedingly for Voth. Alas for thee, Babbulkund, alas that I may
+not even now turn back, for to-morrow I must prophesy against thee
+and cry out against thee, Babbulkund. But ye travellers that have
+entreated me hospitably, rise and pass on with your camels, for I can
+tarry no longer, and I go to do the work on Babbulkund of the Lord the
+God of my people. Go now and see the beauty of Babbulkund before I cry
+out against her, and then flee swiftly northwards.'
+
+A smouldering fragment fell in upon our camp fire and sent a strange
+light into the eyes of the man in rags. He rose at once, and his
+tattered cloak swirled up with him like a great wing; he said no more,
+but turned round from us instantly southwards, and strode away into
+the darkness towards Babbulkund. Then a hush fell upon our encampment,
+and the smell of the tobacco of those lands arose. When the last flame
+died down in our camp fire I fell asleep, but my rest was troubled by
+shifting dreams of doom.
+
+Morning came, and our guides told us that we should come to the city
+ere nightfall. Again we passed southwards through the changeless
+desert; sometimes we met travellers coming from Babbulkund, with the
+beauty of its marvels still fresh in their eyes.
+
+When we encamped near the middle of the day we saw a great number of
+people on foot coming towards us running, from the southwards. These
+we hailed when they were come near, saying, 'What of Babbulkund?'
+
+They answered: 'We are not of the race of the people of Babbulkund,
+but were captured in youth and taken away from the hills that are to
+the northward. Now we have all seen in visions of the stillness the
+Lord the God of our people calling to us from His hills, and therefore
+we all flee northward. But in Babbulkund King Nehemoth hath been
+troubled in the nights by unkingly dreams of doom, and none may
+interpret what the dreams portend. Now this is the dream that King
+Nehemoth dreamed on the first night of his dreaming. He saw move
+through the stillness a bird all black, and beneath the beatings of
+his wings Babbulkund gloomed and darkened; and after him flew a bird
+all white, beneath the beatings of whose wings Babbulkund gleamed and
+shone; and there flew by four more birds alternately black and white.
+And, as the black ones passed Babbulkund darkened, and when the white
+ones appeared her streets and houses shone. But after the sixth bird
+there came no more, and Babbulkund vanished from her place, and there
+was only the empty desert where she had stood, and the rivers Oonrana
+and Plegathanees mourning alone. Next morning all the prophets of the
+King gathered before their abominations and questioned them of the
+dream, and the abominations spake not. But when the second night
+stepped down from the halls of God, dowered with many stars, King
+Nehemoth dreamed again; and in this dream King Nehemoth saw four birds
+only, black and white alternately as before. And Babbulkund darkened
+again as the black ones passed, and shone when the white came by; only
+after the four birds came no more, and Babbulkund vanished from her
+place, leaving only the forgetful desert and the mourning rivers.
+
+'Still the abominations spake not, and none could interpret the dream.
+And when the third night came forth from the divine halls of her home
+dowered like her sisters, again King Nehemoth dreamed. And he saw a
+bird all black go by again, beneath whom Babbulkund darkened, and then
+a white bird and Babbulkund shone; and after them came no more,
+and Babbulkund passed away. And the golden day appeared, dispelling
+dreams, and still the abominations were silent, and the King's
+prophets answered not to portend the omen of the dream. One prophet
+only spake before the King, saying: 'The sable birds, O King, are the
+nights, and the white birds are the days,...' This thing the King had
+feared, and he arose and smote the prophet with his sword, whose soul
+went crying away and had to do no more with nights and days.
+
+'It was last night that the King dreamed his third dream, and this
+morning we fled away from Babbulkund. A great heat lies over it, and
+the orchids of the jungle droop their heads. All night long the women
+in the hareem of the North have wailed horribly for their hills. A
+fear hath fallen upon the city, and a boding. Twice hath Nehemoth gone
+to worship Annolith, and all the people have prostrated themselves
+before Voth. Thrice the horologers have looked into the great crystal
+globe wherein are foretold all happenings to be, and thrice the globe
+was blank. Yea, though they went a fourth time yet was no vision
+revealed; and the people's voice is hushed in Babbulkund.'
+
+Soon the travellers arose and pushed on northwards again, leaving us
+wondering. Through the heat of the day we rested as well as we might,
+but the air was motionless and sultry and the camels ill at ease. The
+Arabs said that it boded a desert storm, and that a great wind would
+arise full of sand. So we arose in the afternoon, and travelled
+swiftly, hoping to come to shelter before the storm. And the air
+burned in the stillness between the baked desert and the glaring sky.
+
+Suddenly a wind arose out of the South, blowing from Babbulkund, and
+the sand lifted and went by in great shapes, all whispering. And the
+wind blew violently, and wailed as it blew, and hundreds of sandy
+shapes went towering by, and there were little cries among them and
+the sounds of a passing away. Soon the wind sank quite suddenly, and
+its cries died, and the panic ceased among the driven sands. And when
+the storm departed the air was cool, and the terrible sultriness and
+the boding were passed away, and the camels had ease among them. And
+the Arabs said that the storm which was to be had been, as was willed
+of old by God.
+
+The sun set and the gloaming came, and we neared the junction
+of Oonrana and Plegathanees, but in the darkness discerned not
+Babbulkund. We pushed on hurriedly to reach the city ere nightfall,
+and came to the junction of the River of Myth where he meets with the
+Waters of Fable, and still saw not Babbulkund. All round us lay the
+sand and rocks of the unchanging desert, save to the southwards where
+the jungle stood with its orchids facing skywards. Then we perceived
+that we had arrived too late, and that her doom had come to
+Babbulkund; and by the river in the empty desert on the sand the
+man in rags was seated, with his face hidden in his hands, weeping
+bitterly.
+
+       *       *       *       *       *
+
+Thus passed away in the hour of her iniquities before Annolith, in the
+two thousand and thirty-second year of her being, in the six thousand
+and fiftieth year of the building of the World, Babbulkund, City of
+Marvel, sometime called by those that hated her City of the Dog, but
+hourly mourned in Araby and Ind and wide through jungle and desert;
+leaving no memorial in stone to show that she had been, but remembered
+with an abiding love, in spite of the anger of God, by all that knew
+her beauty, whereof still they sing.
+
+
+
+
+THE SPHINX AT GIZEH
+
+
+I saw the other day the Sphinx's painted face.
+
+She had painted her face in order to ogle Time.
+
+And he has spared no other painted face in all the world but hers.
+
+Delilah was younger than she, and Delilah is dust.
+
+Time hath loved nothing but this worthless painted face.
+
+I do not care that she is ugly, nor that she has painted her face, so
+that she only lure his secret from Time.
+
+Time dallies like a fool at her feet when he should be smiting cities.
+
+Time never wearies of her silly smile.
+
+There are temples all about her that he has forgotten to spoil.
+
+I saw an old man go by and Time never touched him.
+
+Time that has carried away the seven gates of Thebes!
+
+She has tried to bind him with ropes of eternal sand, she had hoped to
+oppress him with the Pyramids.
+
+He lies there in the sun with his foolish hair all spread about her
+paws.
+
+If she ever learns his secret we will put out his eyes, so that he
+shall find no more our beautiful things--there are lovely gates in
+Florence that I fear he will carry away.
+
+We have tried to bind him with song and with old customs, but they
+only held him for a little while, and he has always smitten us and
+mocked us.
+
+When he is blind he shall dance to us and make sport.
+
+Great clumsy Time shall stumble and dance, who liked to kill little
+children and can hurt even the daisies no longer.
+
+Then shall our children laugh at him who slew Babylon's winged bulls
+and smote great numbers of the elves and fairies, when he is shorn of
+his hours and his years.
+
+We will shut him up in the Pyramid of Cheops, in the great chamber
+where the sarcophagus is. Thence we will lead him out when we give our
+feasts. He shall ripen our corn for us and do menial work.
+
+We will kiss thy painted face, O Sphinx, if thou wilt betray to us
+Time.
+
+And yet I fear that in his ultimate anguish he may take hold blindly
+of the world and the moon and slowly pull down upon him the House of
+Man.
+
+
+
+
+IDLE DAYS ON THE YANN
+
+
+So I came down through the wood to the bank of Yann and found, as
+had been prophesied, the ship _Bird of the River_ about to loose her
+cable.
+
+The captain sate cross-legged upon the white deck with his scimitar
+lying beside him in its jewelled scabbard, and the sailors toiled to
+spread the nimble sails to bring the ship into the central stream of
+Yann, and all the while sang ancient soothing songs. And the wind of
+the evening descending cool from the snowfields of some mountainous
+abode of distant gods came suddenly, like glad tidings to an anxious
+city, into the wing-like sails.
+
+And so we came into the central stream, whereat the sailors lowered
+the greater sails. But I had gone to bow before the captain, and to
+inquire concerning the miracles, and appearances among men, of the
+most holy gods of whatever land he had come from. And the captain
+answered that he came from fair Belzoond, and worshipped gods that
+were the least and humblest, who seldom sent the famine or the
+thunder, and were easily appeased with little battles. And I told how
+I came from Ireland, which is of Europe, whereat the captain and all
+the sailors laughed, for they said, 'There are no such places in all
+the land of dreams.' When they had ceased to mock me, I explained that
+my fancy mostly dwelt in the desert of Cuppar-Nombo, about a beautiful
+blue city called Golthoth the Damned, which was sentinelled all round
+by wolves and their shadows, and had been utterly desolate for years
+and years because of a curse which the gods once spoke in anger and
+could never since recall. And sometimes my dreams took me as far as
+Pungar Vees, the red-walled city where the fountains are, which trades
+with the Isles and Thul. When I said this they complimented me upon
+the abode of my fancy, saying that, though they had never seen these
+cities, such places might well be imagined. For the rest of that
+evening I bargained with the captain over the sum that I should pay
+him for my fare if God and the tide of Yann should bring us safely as
+far as the cliffs by the sea, which are named Bar-Wul-Yann, the Gate
+of Yann.
+
+And now the sun had set, and all the colours of the world and heaven
+had held a festival with him, and slipped one by one away before the
+imminent approach of night. The parrots had all flown home to the
+jungle on either bank, the monkeys in rows in safety on high branches
+of the trees were silent and asleep, the fireflies in the deeps of the
+forest were going up and down, and the great stars came gleaming out
+to look on the face of Yann. Then the sailors lighted lanterns and
+hung them round the ship, and the light flashed out on a sudden
+and dazzled Yann, and the ducks that fed along his marshy banks all
+suddenly arose, and made wide circles in the upper air, and saw the
+distant reaches of the Yann and the white mist that softly cloaked the
+jungle, before they returned again into their marshes.
+
+And then the sailors knelt on the decks and prayed, not all together,
+but five or six at a time. Side by side there kneeled down together
+five or six, for there only prayed at the same time men of different
+faiths, so that no god should hear two men praying to him at once.
+As soon as any one had finished his prayer, another of the same faith
+took his place. Thus knelt the row of five or six with bended heads
+under the fluttering sail, while the central stream of the River Yann
+took them on towards the sea, and their prayers rose up from among the
+lanterns and went towards the stars. And behind them in the after end
+of the ship the helmsman prayed aloud the helmsman's prayer, which is
+prayed by all who follow his trade upon the River Yann, of whatever
+faith they be. And the captain prayed to his little lesser gods, to
+the gods that bless Belzoond.
+
+And I too felt that I would pray. Yet I liked not to pray to a jealous
+God there where the frail affectionate gods whom the heathen love were
+being humbly invoked; so I bethought me, instead, of Sheol Nugganoth,
+whom the men of the jungle have long since deserted, who is now
+unworshipped and alone; and to him I prayed.
+
+And upon us praying the night came suddenly down, as it comes upon all
+men who pray at evening and upon all men who do not; yet our prayers
+comforted our own souls when we thought of the Great Night to come.
+
+And so Yann bore us magnificently onwards, for he was elate with
+molten snow that the Poltiades had brought him from the Hills of Hap,
+and the Marn and Migris were swollen full with floods; and he bore us
+in his might past Kyph and Pir, and we saw the lights of Goolunza.
+
+Soon we all slept except the helmsman, who kept the ship in the
+mid-stream of Yann.
+
+When the sun rose the helmsman ceased to sing, for by song he cheered
+himself in the lonely night. When the song ceased we suddenly all
+awoke, and another took the helm, and the helmsman slept.
+
+We knew that soon we should come to Mandaroon. We made a meal, and
+Mandaroon appeared. Then the captain commanded, and the sailors loosed
+again the greater sails, and the ship turned and left the stream of
+Yann and came into a harbour beneath the ruddy walls of Mandaroon.
+Then while the sailors went and gathered fruits I came alone to the
+gate of Mandaroon. A few huts were outside it, in which lived the
+guard. A sentinel with a long white beard was standing in the gate,
+armed with a rusty pike. He wore large spectacles, which were covered
+with dust. Through the gate I saw the city. A deathly stillness was
+over all of it. The ways seemed untrodden, and moss was thick on
+doorsteps; in the market-place huddled figures lay asleep. A scent
+of incense came wafted through the gateway, of incense and burned
+poppies, and there was a hum of the echoes of distant bells. I said
+to the sentinel in the tongue of the region of Yann, 'Why are they all
+asleep in this still city?'
+
+He answered: 'None may ask questions in this gate for fear they wake
+the people of the city. For when the people of this city wake the gods
+will die. And when the gods die men may dream no more.' And I began to
+ask him what gods that city worshipped, but he lifted his pike because
+none might ask questions there. So I left him and went back to the
+_Bird of the River_.
+
+Certainly Mandaroon was beautiful with her white pinnacles peering
+over her ruddy walls and the green of her copper roofs.
+
+When I came back again to the _Bird of the River_, I found the sailors
+were returned to the ship. Soon we weighed anchor, and sailed out
+again, and so came once more to the middle of the river. And now the
+sun was moving towards his heights, and there had reached us on the
+River Yann the song of those countless myriads of choirs that attend
+him in his progress round the world. For the little creatures that
+have many legs had spread their gauze wings easily on the air, as
+a man rests his elbows on a balcony, and gave jubilant, ceremonial
+praises to the sun, or else they moved together on the air in wavering
+dances intricate and swift, or turned aside to avoid the onrush of
+some drop of water that a breeze had shaken from a jungle orchid,
+chilling the air and driving it before it, as it fell whirring in its
+rush to the earth; but all the while they sang triumphantly. 'For the
+day is for us,' they said, 'whether our great and sacred father the
+Sun shall bring up more life like us from the marshes, or whether all
+the world shall end to-night.' And there sang all those whose notes
+are known to human ears, as well as those whose far more numerous
+notes have been never heard by man.
+
+To these a rainy day had been as an era of war that should desolate
+continents during all the lifetime of a man.
+
+And there came out also from the dark and steaming jungle to behold
+and rejoice in the Sun the huge and lazy butterflies. And they danced,
+but danced idly, on the ways of the air, as some haughty queen of
+distant conquered lands might in her poverty and exile dance, in some
+encampment of the gipsies, for the mere bread to live by, but beyond
+that would never abate her pride to dance for a fragment more.
+
+And the butterflies sung of strange and painted things, of purple
+orchids and of lost pink cities and the monstrous colours of the
+jungle's decay. And they, too, were among those whose voices are not
+discernible by human ears. And as they floated above the river, going
+from forest to forest, their splendour was matched by the inimical
+beauty of the birds who darted out to pursue them. Or sometimes they
+settled on the white and wax-like blooms of the plant that creeps and
+clambers about the trees of the forest; and their purple wings flashed
+out on the great blossoms as, when the caravans go from Nurl to Thace,
+the gleaming silks flash out upon the snow, where the crafty merchants
+spread them one by one to astonish the mountaineers of the Hills of
+Noor.
+
+But upon men and beasts the sun sent a drowsiness. The river monsters
+along the river's marge lay dormant in the slime. The sailors pitched
+a pavilion, with golden tassels, for the captain upon the deck, and
+then went, all but the helmsman, under a sail that they had hung as an
+awning between two masts. Then they told tales to one another, each
+of his own city or of the miracles of his god, until all were fallen
+asleep. The captain offered me the shade of his pavilion with the gold
+tassels, and there we talked for awhile, he telling me that he was
+taking merchandise to Perdondaris, and that he would take back to fair
+Belzoond things appertaining to the affairs of the sea. Then, as
+I watched through the pavilion's opening the brilliant birds and
+butterflies that crossed and recrossed over the river, I fell asleep,
+and dreamed that I was a monarch entering his capital underneath
+arches of flags, and all the musicians of the world were there,
+playing melodiously their instruments; but no one cheered.
+
+In the afternoon, as the day grew cooler again, I awoke and found the
+captain buckling on his scimitar, which he had taken off him while he
+rested.
+
+And now we were approaching the wide court of Astahahn, which opens
+upon the river. Strange boats of antique design were chained there
+to the steps. As we neared it we saw the open marble court, on three
+sides of which stood the city fronting on colonnades. And in the court
+and along the colonnades the people of that city walked with solemnity
+and care according to the rites of ancient ceremony. All in that city
+was of ancient device; the carving on the houses, which, when age
+had broken it, remained unrepaired, was of the remotest times, and
+everywhere were represented in stone beasts that have long since
+passed away from Earth--the dragon, the griffin, and the hippogriffin,
+and the different species of gargoyle. Nothing was to be found,
+whether material or custom, that was new in Astahahn. Now they took no
+notice at all of us as we went by, but continued their processions and
+ceremonies in the ancient city, and the sailors, knowing their custom,
+took no notice of them. But I called, as we came near, to one who
+stood beside the water's edge, asking him what men did in Astahahn and
+what their merchandise was, and with whom they traded. He said, 'Here
+we have fettered and manacled Time, who would otherwise slay the
+gods.'
+
+I asked him what gods they worshipped in that city, and he said, 'All
+those gods whom Time has not yet slain.' Then he turned from me and
+would say no more, but busied himself in behaving in accordance with
+ancient custom. And so, according to the will of Yann, we drifted
+onwards and left Astahahn.
+
+The river widened below Astahahn, and we found in greater quantities
+such birds as prey on fishes. And they were very wonderful in their
+plumage, and they came not out of the jungle, but flew, with their
+long necks stretched out before them, and their legs lying on the wind
+behind, straight up the river over the mid-stream.
+
+And now the evening began to gather in. A thick white mist had
+appeared over the river, and was softly rising higher. It clutched
+at the trees with long impalpable arms, it rose higher and higher,
+chilling the air; and white shapes moved away into the jungle as
+though the ghosts of shipwrecked mariners were searching stealthily in
+the darkness for the spirits of evil that long ago had wrecked them on
+the Yann.
+
+As the sun sank behind the field of orchids that grew on the matted
+summit of the jungle, the river monsters came wallowing out of the
+slime in which they had reclined during the heat of the day, and the
+great beasts of the jungle came down to drink. The butterflies a while
+since were gone to rest. In little narrow tributaries that we
+passed night seemed already to have fallen, though the sun which had
+disappeared from us had not yet set.
+
+And now the birds of the jungle came flying home far over us, with the
+sunlight glistening pink upon their breasts, and lowered their pinions
+as soon as they saw the Yann, and dropped into the trees. And the
+widgeon began to go up the river in great companies, all whistling,
+and then would suddenly wheel and all go down again. And there shot by
+us the small and arrow-like teal; and we heard the manifold cries of
+flocks of geese, which the sailors told me had recently come in from
+crossing over the Lispasian ranges; every year they come by the same
+way, close by the peak of Mluna, leaving it to the left, and the
+mountain eagles know the way they come and--men say--the very hour,
+and every year they expect them by the same way as soon as the snows
+have fallen upon the Northern Plains.
+
+But soon it grew so dark that we saw these birds no more, and only
+heard the whirring of their wings, and of countless others besides,
+until they all settled down along the banks of the river, and it was
+the hour when the birds of the night went forth. Then the sailors lit
+the lanterns for the night, and huge moths appeared, flapping about
+the ship, and at moments their gorgeous colours would be revealed by
+the lanterns, then they would pass into the night again, where all
+was black. And again the sailors prayed, and thereafter we supped and
+slept, and the helmsman took our lives into his care.
+
+When I awoke I found that we had indeed come to Perdondaris, that
+famous city. For there it stood upon the left of us, a city fair
+and notable, and all the more pleasant for our eyes to see after
+the jungle that was so long with us. And we were anchored by the
+market-place, and the captain's merchandise was all displayed, and a
+merchant of Perdondaris stood looking at it. And the captain had his
+scimitar in his hand, and was beating with it in anger upon the
+deck, and the splinters were flying up from the white planks; for the
+merchant had offered him a price for his merchandise that the captain
+declared to be an insult to himself and his country's gods, whom
+he now said to be great and terrible gods, whose curses were to
+be dreaded. But the merchant waved his hands, which were of great
+fatness, showing the pink palms, and swore that of himself he thought
+not at all, but only of the poor folk in the huts beyond the city to
+whom he wished to sell the merchandise for as low a price as possible,
+leaving no remuneration for himself. For the merchandise was mostly
+the thick toomarund carpets that in the winter keep the wind from
+the floor, and tollub which the people smoke in pipes. Therefore
+the merchant said if he offered a piffek more the poor folk must
+go without their toomarunds when the winter came, and without their
+tollub in the evenings, or else he and his aged father must starve
+together. Thereat the captain lifted his scimitar to his own throat,
+saying that he was now a ruined man, and that nothing remained to him
+but death. And while he was carefully lifting his beard with his left
+hand, the merchant eyed the merchandise again, and said that rather
+than see so worthy a captain die, a man for whom he had conceived an
+especial love when first he saw the manner in which he handled his
+ship, he and his aged father should starve together and therefore he
+offered fifteen piffeks more.
+
+When he said this the captain prostrated himself and prayed to his
+gods that they might yet sweeten this merchant's bitter heart--to his
+little lesser gods, to the gods that bless Belzoond.
+
+At last the merchant offered yet five piffeks more. Then the captain
+wept, for he said that he was deserted of his gods; and the merchant
+also wept, for he said that he was thinking of his aged father, and
+of how he soon would starve, and he hid his weeping face with both
+his hands, and eyed the tollub again between his fingers. And so the
+bargain was concluded, and the merchant took the toomarund and tollub,
+paying for them out of a great clinking purse. And these were packed
+up into bales again, and three of the merchant's slaves carried them
+upon their heads into the city. And all the while the sailors had sat
+silent, cross-legged in a crescent upon the deck, eagerly watching the
+bargain, and now a murmur of satisfaction arose among them, and they
+began to compare it among themselves with other bargains that they
+had known. And I found out from them that there are seven merchants
+in Perdondaris, and that they had all come to the captain one by one
+before the bargaining began, and each had warned him privately against
+the others. And to all the merchants the captain had offered the wine
+of his own country, that they make in fair Belzoond, but could in no
+wise persuade them to it. But now that the bargain was over, and the
+sailors were seated at the first meal of the day, the captain appeared
+among them with a cask of that wine, and we broached it with care and
+all made merry together. And the captain was glad in his heart because
+he knew that he had much honour in the eyes of his men because of
+the bargain that he had made. So the sailors drank the wine of their
+native land, and soon their thoughts were back in fair Belzoond and
+the little neighbouring cities of Durl and Duz.
+
+But for me the captain poured into a little glass some heavy yellow
+wine from a small jar which he kept apart among his sacred things.
+Thick and sweet it was, even like honey, yet there was in its heart
+a mighty, ardent fire which had authority over souls of men. It was
+made, the captain told me, with great subtlety by the secret craft of
+a family of six who lived in a hut on the mountains of Hian Min. Once
+in these mountains, he said, he followed the spoor of a bear, and he
+came suddenly on a man of that family who had hunted the same bear,
+and he was at the end of a narrow way with precipice all about him,
+and his spear was sticking in the bear, and the wound not fatal, and
+he had no other weapon. And the bear was walking towards the man, very
+slowly because his wound irked him--yet he was now very close. And
+what the captain did he would not say; but every year as soon as the
+snows are hard, and travelling is easy on the Hian Min, that man comes
+down to the market in the plains, and always leaves for the captain in
+the gate of fair Belzoond a vessel of that priceless secret wine.
+
+And as I sipped the wine and the captain talked, I remembered me of
+stalwart noble things that I had long since resolutely planned, and my
+soul seemed to grow mightier within me and to dominate the whole tide
+of the Yann. It may be that I then slept. Or, if I did not, I do not
+now minutely recollect every detail of that morning's occupations.
+Towards evening, I awoke and wishing to see Perdondaris before we left
+in the morning, and being unable to wake the captain, I went ashore
+alone. Certainly Perdondaris was a powerful city; it was encompassed
+by a wall of great strength and altitude, having in it hollow ways for
+troops to walk in, and battlements along it all the way, and fifteen
+strong towers on it in every mile, and copper plaques low down where
+men could read them, telling in all the languages of those parts of
+the Earth--one language on each plaque--the tale of how an army
+once attacked Perdondaris and what befel that army. Then I entered
+Perdondaris and found all the people dancing, clad in brilliant silks,
+and playing on the tambang as they danced. For a fearful thunderstorm
+had terrified them while I slept, and the fires of death, they said,
+had danced over Perdondaris, and now the thunder had gone leaping away
+large and black and hideous, they said, over the distant hills, and
+had turned round snarling at them, showing his gleaming teeth, and had
+stamped, as he went, upon the hill-tops until they rang as though
+they had been bronze. And often and again they stopped in their merry
+dances and prayed to the God they knew not, saying, 'O, God that we
+know not, we thank Thee for sending the thunder back to his hills.'
+And I went on and came to the market-place, and lying there upon the
+marble pavement I saw the merchant fast asleep and breathing heavily,
+with his face and the palms of his hands towards the sky, and slaves
+were fanning him to keep away the flies. And from the market-place I
+came to a silver temple and then to a palace of onyx, and there were
+many wonders in Perdondaris, and I would have stayed and seen them
+all, but as I came to the outer wall of the city I suddenly saw in it
+a huge ivory gate. For a while I paused and admired it, then I came
+nearer and perceived the dreadful truth. The gate was carved out of
+one solid piece!
+
+I fled at once through the gateway and down to the ship, and even as I
+ran I thought that I heard far off on the hills behind me the tramp of
+the fearful beast by whom that mass of ivory was shed, who was perhaps
+even then looking for his other tusk. When I was on the ship again I
+felt safer, and I said nothing to the sailors of what I had seen.
+
+And now the captain was gradually awakening.
+
+Now night was rolling up from the East and North, and only the
+pinnacles of the towers of Perdondaris still took the fallen sunlight.
+Then I went to the captain and told him quietly of the thing I had
+seen. And he questioned me at once about the gate, in a low voice,
+that the sailors might not know; and I told him how the weight of the
+thing was such that it could not have been brought from afar, and the
+captain knew that it had not been there a year ago. We agreed that
+such a beast could never have been killed by any assault of man, and
+that the gate must have been a fallen tusk, and one fallen near and
+recently. Therefore he decided that it were better to flee at once; so
+he commanded, and the sailors went to the sails, and others raised the
+anchor to the deck, and just as the highest pinnacle of marble lost
+the last rays of the sun we left Perdondaris, that famous city. And
+night came down and cloaked Perdondaris and hid it from our eyes,
+which as things have happened will never see it again; for I have
+heard since that something swift and wonderful has suddenly wrecked
+Perdondaris in a day--towers, and walls, and people.
+
+And the night deepened over the River Yann, a night all white with
+stars. And with the night there rose the helmsman's song. As soon as
+he had prayed he began to sing to cheer himself all through the lonely
+night. But first he prayed, praying the helmsman's prayer. And this
+is what I remember of it, rendered into English with a very feeble
+equivalent of the rhythm that seemed so resonant in those tropic
+nights.
+
+To whatever god may hear.
+
+Wherever there be sailors whether of river or sea: whether their way
+be dark or whether through storm: whether their peril be of beast or
+of rock: or from enemy lurking on land or pursuing on sea: wherever
+the tiller is cold or the helmsman stiff: wherever sailors sleep or
+helmsmen watch: guard, guide, and return us to the old land that has
+known us: to the far homes that we know.
+
+To all the gods that are.
+
+To whatever god may hear.
+
+       *       *       *       *       *
+
+So he prayed, and there was silence. And the sailors laid them down to
+rest for the night. The silence deepened, and was only broken by the
+ripples of Yann that lightly touched our prow. Sometimes some monster
+of the river coughed.
+
+Silence and ripples, ripples and silence again.
+
+And then his loneliness came upon the helmsman, and he began to
+sing. And he sang the market songs of Durl and Duz, and the old
+dragon-legends of Belzoond.
+
+Many a song he sang, telling to spacious and exotic Yann the little
+tales and trifles of his city of Durl. And the songs welled up over
+the black jungle and came into the clear cold air above, and the great
+bands of stars that look on Yann began to know the affairs of Durl and
+Duz, and of the shepherds that dwelt in the fields between, and the
+flocks that they had, and the loves that they had loved, and all the
+little things that they hoped to do. And as I lay wrapped up in skins
+and blankets, listening to those songs, and watching the fantastic
+shapes of the great trees like to black giants stalking through the
+night, I suddenly fell asleep.
+
+When I awoke great mists were trailing away from the Yann. And the
+flow of the river was tumbling now tumultuously, and little waves
+appeared; for Yann had scented from afar the ancient crags of Glorm,
+and knew that their ravines lay cool before him wherein he should meet
+the merry wild Irillion rejoicing from fields of snow. So he shook
+off from him the torpid sleep that had come upon him in the hot and
+scented jungle, and forgot its orchids and its butterflies, and swept
+on turbulent, expectant, strong; and soon the snowy peaks of the Hills
+of Glorm came glittering into view. And now the sailors were waking
+up from sleep. Soon we all eat, and then the helmsman laid him down
+to sleep while a comrade took his place, and they all spread over him
+their choicest furs.
+
+And in a while we heard the sound that the Irillion made as she came
+down dancing from the fields of snow.
+
+And then we saw the ravine in the Hills of Glorm lying precipitous and
+smooth before us, into which we were carried by the leaps of Yann.
+And now we left the steamy jungle and breathed the mountain air; the
+sailors stood up and took deep breaths of it, and thought of their own
+far-off Acroctian hills on which were Durl and Duz--below them in the
+plains stands fair Belzoond.
+
+A great shadow brooded between the cliffs of Glorm, but the crags were
+shining above us like gnarled moons, and almost lit the gloom. Louder
+and louder came the Irillion's song, and the sound of her dancing down
+from the fields of snow. And soon we saw her white and full of mists,
+and wreathed with rainbows delicate and small that she had plucked up
+near the mountain's summit from some celestial garden of the Sun. Then
+she went away seawards with the huge grey Yann and the ravine widened,
+and opened upon the world, and our rocking ship came through to the
+light of the day.
+
+And all that morning and all the afternoon we passed through the
+marshes of Pondoovery; and Yann widened there, and flowed solemnly and
+slowly, and the captain bade the sailors beat on bells to overcome the
+dreariness of the marches.
+
+At last the Irusian mountains came in sight, nursing the villages
+of Pen-Kai and Blut, and the wandering streets of Mlo, where priests
+propitiate the avalanche with wine and maize. Then night came down
+over the plains of Tlun, and we saw the lights of Cappadarnia.
+We heard the Pathnites beating upon drums as we passed Imaut and
+Golzunda, then all but the helmsman slept. And villages scattered
+along the banks of the Yann heard all that night in the helmsman's
+unknown tongue the little songs of cities that they knew not.
+
+I awoke before dawn with a feeling that I was unhappy before I
+remembered why. Then I recalled that by the evening of the approaching
+day, according to all foreseen probabilities, we should come to
+Bar-Wul-Yann, and I should part from the captain and his sailors. And
+I had liked the man because he had given me of his yellow wine that
+was set apart among his sacred things, and many a story he had told me
+about his fair Belzoond between the Acroctian hills and the Hian Min.
+And I had liked the ways that his sailors had, and the prayers that
+they prayed at evening side by side, grudging not one another their
+alien gods. And I had a liking too for the tender way in which they
+often spoke of Durl and Duz, for it is good that men should love their
+native cities and the little hills that hold those cities up.
+
+And I had come to know who would meet them when they returned to their
+homes, and where they thought the meetings would take place, some in
+a valley of the Acroctian hills where the road comes up from Yann,
+others in the gateway of one or another of the three cities, and
+others by the fireside in the home. And I thought of the danger that
+had menaced us all alike outside Perdondaris, a danger that, as things
+have happened, was very real.
+
+And I thought too of the helmsman's cheery song in the cold and lonely
+night, and how he had held our lives in his careful hands. And as I
+thought of this the helmsman ceased to sing, and I looked up and saw
+a pale light had appeared in the sky, and the lonely night had passed;
+and the dawn widened, and the sailors awoke.
+
+And soon we saw the tide of the Sea himself advancing resolute between
+Yann's borders, and Yann sprang lithely at him and they struggled
+awhile; then Yann and all that was his were pushed back northward,
+so that the sailors had to hoist the sails and, the wind being
+favourable, we still held onwards.
+
+And we passed Gondara and Narl and Haz. And we saw memorable, holy
+Golnuz, and heard the pilgrims praying.
+
+When we awoke after the midday rest we were coming near to Nen, the
+last of the cities on the River Yann. And the jungle was all about us
+once again, and about Nen; but the great Mloon ranges stood up over
+all things, and watched the city from beyond the jungle.
+
+Here we anchored, and the captain and I went up into the city and
+found that the Wanderers had come into Nen.
+
+And the Wanderers were a weird, dark tribe, that once in every seven
+years came down from the peaks of Mloon, having crossed by a pass that
+is known to them from some fantastic land that lies beyond. And the
+people of Nen were all outside their houses, and all stood wondering
+at their own streets. For the men and women of the Wanderers had
+crowded all the ways, and every one was doing some strange thing. Some
+danced astounding dances that they had learned from the desert wind,
+rapidly curving and swirling till the eye could follow no longer.
+Others played upon instruments beautiful wailing tunes that were full
+of horror, which souls had taught them lost by night in the desert,
+that strange far desert from which the Wanderers came.
+
+None of their instruments were such as were known in Nen nor in any
+part of the region of the Yann; even the horns out of which some were
+made were of beasts that none had seen along the river, for they were
+barbed at the tips. And they sang, in the language of none, songs that
+seemed to be akin to the mysteries of night and to the unreasoned fear
+that haunts dark places.
+
+Bitterly all the dogs of Nen distrusted them. And the Wanderers told
+one another fearful tales; for though no one in Nen knew ought of
+their language yet they could see the fear on the listeners' faces,
+and as the tale wound on the whites of their eyes showed vividly in
+terror as the eyes of some little beast whom the hawk has seized. Then
+the teller of the tale would smile and stop, and another would tell
+his story, and the teller of the first tale's lips would chatter with
+fear. And if some deadly snake chanced to appear the Wanderers would
+greet him as a brother, and the snake would seem to give his greetings
+to them before he passed on again. Once that most fierce and lethal of
+tropic snakes, the giant lythra, came out of the jungle and all down
+the street, the central street of Nen, and none of the Wanderers moved
+away from him, but they all played sonorously on drums, as though
+he had been a person of much honour; and the snake moved through the
+midst of them and smote none.
+
+Even the Wanderers' children could do strange things, for if any one
+of them met with a child of Nen the two would stare at each other in
+silence with large grave eyes; then the Wanderer's child would slowly
+draw from his turban a live fish or snake. And the children of Nen
+could do nothing of that kind at all.
+
+Much I should have wished to stay and hear the hymn with which they
+greet the night, that is answered by the wolves on the heights of
+Mloon, but it was now time to raise the anchor again that the captain
+might return from Bar-Wul-Yann upon the landward tide. So we went on
+board and continued down the Yann. And the captain and I spoke little,
+for we were thinking of our parting, which should be for long, and we
+watched instead the splendour of the westering sun. For the sun was a
+ruddy gold, but a faint mist cloaked the jungle, lying low, and into
+it poured the smoke of the little jungle cities; and the smoke of
+them met together in the mist and joined into one haze, which became
+purple, and was lit by the sun, as the thoughts of men become hallowed
+by some great and sacred thing. Sometimes one column from a lonely
+house would rise up higher than the cities' smoke, and gleam by itself
+in the sun.
+
+And now as the sun's last rays were nearly level, we saw the sight
+that I had come to see; for from two mountains that stood on either
+shore two cliffs of pink marble came out into the river, all glowing
+in the light of the low sun, and they were quite smooth and of
+mountainous altitude, and they nearly met, and Yann went tumbling
+between them and found the sea.
+
+And this was Bar-Wul-Yann, the gate of Yann, and in the distance
+through that barrier's gap I saw the azure indescribable sea, where
+little fishing-boats went gleaming by.
+
+And the sun set, and the brief twilight came, and the exultation of
+the glory of Bar-Wul-Yann was gone, yet still the pink cliffs glowed,
+the fairest marvel that the eye beheld--and this in a land of wonders.
+And soon the twilight gave place to the coming out of stars, and the
+colours of Bar-Wul-Yann went dwindling away. And the sight of those
+cliffs was to me as some chord of music that a master's hand had
+launched from the violin, and which carries to Heaven or Faery the
+tremulous spirits of men.
+
+And now by the shore they anchored and went no further, for they were
+sailors of the river and not of the sea, and knew the Yann but not the
+tides beyond.
+
+And the time was come when the captain and I must part, he to go back
+again to his fair Belzoond in sight of the distant peaks of the Hian
+Min, and I to find my way by strange means back to those hazy fields
+that all poets know, wherein stand small mysterious cottages through
+whose windows, looking westwards, you may see the fields of men, and
+looking eastwards see glittering elfin mountains, tipped with snow,
+going range on range into the region of Myth, and beyond it into the
+kingdom of Fantasy, which pertain to the Lands of Dream.
+
+Long we regarded one another, knowing that we should meet no more, for
+my fancy is weakening as the years slip by, and I go ever more seldom
+into the Lands of Dream. Then we clasped hands, uncouthly on his part,
+for it is not the method of greeting in his country, and he commended
+my soul to the care of his own gods, to his little lesser gods, the
+humble ones, to the gods that bless Belzoond.
+
+
+
+
+A MIRACLE
+
+
+There is a road in Rome that runs through an ancient temple that once
+the gods had loved; it runs along the top of a great wall, and the
+floor of the temple lies far down beneath it, of marble, pink and
+white.
+
+Upon the temple floor I counted to the number of thirteen hungry cats.
+
+'Sometimes,' they said among themselves, 'it was the gods that lived
+here, sometimes it was men, and now it's cats. So let us enjoy the sun
+on the hot marble before another people comes.'
+
+For it was at that hour of a warm afternoon when my fancy is able to
+hear the silent voices.
+
+And the fearful leanness of all those thirteen cats moved me to go
+into a neighbouring fish shop, and there to buy a quantity of fishes.
+Then I returned and threw them all over the railing at the top of the
+great wall, and they fell for thirty feet, and hit the sacred marble
+with a smack.
+
+Now, in any other town but Rome, or in the minds of any other cats,
+the sight of fishes falling out of heaven had surely excited wonder.
+They rose slowly, and all stretched themselves; then they came
+leisurely towards the fishes. 'It is only a miracle,' they said in
+their hearts.
+
+
+
+
+THE CASTLE OF TIME
+
+
+Presently there was a stir in one of the houses, and a bat flew out
+of the door into the daylight, and three mice came running out of the
+doorway down the step, an old stone cracked in two and held together
+by moss; and there followed an old man bending on a stick with a white
+beard coming to the ground, wearing clothes that were glossed with
+use, and presently there came others out of the other houses, all of
+them as old, and all hobbling on sticks. These were the oldest people
+that the King had ever beheld, and he asked them the name of the
+village and who they were; and one of them answered: 'This is the City
+of the Aged in the Territory of Time.'
+
+And the King said; 'Is Time then here?'
+
+And one of the old men pointed to a great castle standing on a steep
+hill and said: 'Therein dwells Time, and we are his people;' and
+they all looked curiously at King Karnith Zo, and the eldest of the
+villagers spoke again and said: 'Whence do you come, you that are so
+young?' and Karnith Zo told him how he had come to conquer Time, to
+save the world and the gods, and asked them whence they came.
+
+And the villagers said:
+
+'We are older than always, and know not whence we came, but we are the
+people of Time, and here from the Edge of Everything he sends out his
+hours to assail the world, and you may never conquer Time.' But the
+King went back to his armies, and pointed toward the castle on the
+hill and told them that at last they had found the Enemy of the Earth;
+and they that were older than always went back slowly into their
+houses with the creaking of olden doors. And they went across the
+fields and passed the village. From one of his towers Time eyed them
+all the while, and in battle order they closed in on the steep hill as
+Time sat still in his great tower and watched.
+
+But as the feet of the foremost touched the edge of the hill Time
+hurled five years against them, and the years passed over their heads
+and the army still came on, an army of older men. But the slope seemed
+steeper to the King and to every man in his army, and they breathed
+more heavily. And Time summoned up more years, and one by one he
+hurled them at Karnith Zo and at all his men. And the knees of the
+army stiffened, and their beards grew and turned grey, and the hours
+and days and the months went singing over their heads, and their hair
+turned whiter and whiter, and the conquering hours bore down, and the
+years rushed on and swept the youth of that army clear away till they
+came face to face under the walls of the castle of Time with a mass of
+howling years, and found the top of the slope too steep for aged men.
+Slowly and painfully, harassed with agues and chills, the King rallied
+his aged army that tottered down the slope. Slowly the King led back
+his warriors over whose heads had shrieked the triumphant years. Year
+in, year out, they straggled southwards, always towards Zoon; they
+came, with rust upon their spears and long beards flowing, again into
+Astarma, and none knew them there.
+
+
+HERE ENDS 'SELECTIONS FROM THE WRITINGS OF LORD DUNSANY.'
+FINISHED ON LADY DAY, IN THE YEAR NINETEEN HUNDRED AND TWELVE.
+
+
+

@@ -1,0 +1,1539 @@
+
+
+E-text prepared by Roger Frank, Betty Reynolds, and the Project
+Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net/)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations. See 18310-h.htm or 18310-h.zip:
+      (http://www.gutenberg.net/dirs/1/8/3/1/18310/18310-h/18310-h.htm)
+      or
+      (http://www.gutenberg.net/dirs/1/8/3/1/18310/18310-h.zip)
+
+
+Transcriber's note:
+
+      The symbol [=a] is used to denote the sound of a in "hare,"
+      which was originally represented in the text using the
+      letter "a" with a macron. Other punctuation has been normalized to contemporary standards. THE DELIGHT MAKERS
+
+by
+
+ADOLF F. BANDELIER
+
+With an Introduction by Charles F. Lummis
+
+Illustrated
+
+
+
+
+
+
+
+[Illustration: Portrait of the Author]
+
+
+
+
+New York Dodd, Mead and Company
+Publishers
+Copyright, 1890
+by Dodd, Mead and Company
+Copyright, 1916
+by Dodd, Mead and Company, Inc. Copyright, 1918
+by Mrs. Fanny R. Bandelier
+Printed In U. S. A. PREFACE
+
+This story is the result of eight years spent in ethnological and
+archaeological study among the Pueblo Indians of New Mexico. The first
+chapters were written more than six years ago at the Pueblo of Cochiti. The greater part was composed in 1885, at Santa Fe, after I had bestowed
+upon the Tehuas the same interest and attention I had previously paid to
+their neighbours the Queres. I was prompted to perform the work by a
+conviction that however scientific works may tell the truth about the
+Indian, they exercise always a limited influence upon the general
+public; and to that public, in our country as well as abroad, the Indian
+has remained as good as unknown. By clothing sober facts in the garb of
+romance I have hoped to make the "Truth about the Pueblo Indians" more
+accessible and perhaps more acceptable to the public in general. The sober facts which I desire to convey may be divided into three
+classes,--geographical, ethnological, and archaeological. The
+descriptions of the country and of its nature are real. The descriptions
+of manners and customs, of creed and rites, are from actual observations
+by myself and other ethnologists, from the statements of trustworthy
+Indians, and from a great number of Spanish sources of old date, in
+which the Pueblo Indian is represented as he lived when still unchanged
+by contact with European civilization. The descriptions of architecture are based upon investigations of ruins
+still in existence on the sites where they are placed in the story. The plot is my own. But most of the scenes described I have witnessed;
+and there is a basis for it in a dim tradition preserved by the Queres
+of Cochiti that their ancestors dwelt on the Rito de los Frijoles a
+number of centuries ago, and in a similar tradition among the Tehuas of
+the Pueblo of Santa Clara in regard to the cave-dwellings of the Puye. A word to the linguist. The dialect spoken by the actors is that of
+Cochiti for the Queres, that of San Juan for the Tehuas. In order to
+avoid the complicated orthography latterly adopted by scientists for
+Indian dialects, I have written Indian words and phrases as they would
+be pronounced in continental languages. The letter [=a] is used to
+denote the sound of a in "hare." To those who have so kindly assisted me,--in particular to Rev. E. W.
+Meany of Santa Fe, and to Dr. Norton B. Strong, of the United States
+Army,--I herewith tender my heartfelt thanks. AD. F. BANDELIER
+
+SANTA FE, NEW MEXICO. *       *       *       *       *
+
+
+PREFACE TO THE SECOND EDITION
+
+The aim of our good and lamented friend in writing this book was to
+place before the public, in novelistic garb, an account of the life and
+activities of the Pueblo Indians before the coming of white men. The
+information on which it is based was the result of his personal
+observations during many years of study among the sedentary tribes of
+New Mexico and in Spanish archives pertaining thereto in connection with
+his researches for the Archaeological Institute of America. He spent
+months in continuous study at the Tehua pueblo of San Juan and the
+Queres pueblo of Cochiti, and the regard in which he was held by the
+simple folk of those and other native villages was sincerely
+affectionate. Bandelier's labors in his chosen field were commenced at a
+time when a battle with hardship was a part of the daily routine, and
+his method of performing the tasks before him was of the kind that
+produced important results often at the expense of great suffering,
+which on more than one occasion almost shut out his life. Because not understood, _The Delight Makers_ was not received at first
+with enthusiastic favor. It seemed unlike the great student of technical
+problems deliberately to write a book the layman might read with
+interest and profit; but his object once comprehended, the volume was
+received in the spirit in which the venture was initiated and for a long
+while search for a copy has often been in vain. Bandelier has come unto his own. More than one serious student of the
+ethno-history of our Southwest has frankly declared that the basis of
+future investigation of the kind that Bandelier inaugurated will always
+be the writings of that eminent man. Had he been permitted to live and
+labor, nothing would have given him greater satisfaction than the
+knowledge that the people among whom he spent so many years are of those
+who fully appreciate the breadth of his learning and who have been
+instrumental in the creation, by proclamation of the President, of the
+"Bandelier National Monument," for the purpose of preserving for future
+generations some of the archaeological remains he was the first to
+observe and describe. F. W. HODGE. SMITHSONIAN INSTITUTION,
+             WASHINGTON, D. C.,
+           _September 25, 1916._
+
+       *       *       *       *       *
+
+
+NOTE
+
+A SPECIAL interest attaches to the illustrations, now first included in
+this edition. Many of them are from photographs made by Chas. F. Lummis
+in 1890, under the supervision of Bandelier, and with special reference
+to "The Delight Makers," then being written. These two friends were the
+first students to explore the Tyuonyi and its neighborhood. In rain and
+shine, afoot, without blankets or overcoats, with no more provision than
+a little _atole_ (popcorn meal) and sweet chocolate, they climbed the
+cliffs, threaded the canons, slept in caves or under trees, measured,
+mapped and photographed the ruins and landscapes with a 40-pound camera,
+and laid the basis-notes for part of Bandelier's monumental "Final
+Report" to the Archaeological Institute of America. A few later photographs from the same hand show part of the excavation
+done in the Tyuonyi by the School of American Archaeology--through whose
+loving and grateful efforts this canon has been set apart as a National
+Monument bearing the name of its discoverer and chronicler,
+
+                        ADOLF F. BANDELIER. Thanks are due also to Hon. Frederick C. Hicks, M.C., for six very
+interesting photographs of the Zunis and their country. *       *       *       *       *
+
+
+IN MEMORY
+
+One day of August, 1888, in the teeth of a particular New Mexico
+sand-storm that whipped pebbles the size of a bean straight to your
+face, a ruddy, bronzed, middle-aged man, dusty but unweary with his
+sixty-mile tramp from Zuni, walked into my solitary camp at Los
+Alamitos. Within the afternoon I knew that here was the most
+extraordinary mind I had met. There and then began the uncommon
+friendship which lasted till his death, a quarter of a century later;
+and a love and admiration which will be of my dearest memories so long
+as I shall live. I was at first suspicious of the "pigeon-hole memory"
+which could not only tell me some Queres word I was searching for, but
+add: "Policarpio explained that to me in Cochiti, November 23, 1881." But I discovered that this classified memory was an integral part of
+this extraordinary genius. The acid tests of life-long collaboration
+proved not only this but the judicial poise, the marvelous insight and
+the intellectual chastity of Bandelier's mind. I cannot conceive of
+anything in the world which would have made him trim his sails as a
+historian or a student for any advantage here or hereafter. Aside from keen mutual interests of documentary and ethnologic study, we
+came to know one another humanly by the hard proof of the Frontier. Thousands of miles of wilderness and desert we trudged side by
+side--camped, starved, shivered, learned and were Glad together. Our
+joint pursuits in comfort at our homes (in Santa Fe and Isleta,
+respectively) will always be memorable to me; but never so wonderful as
+that companioning in the hardships of what was, in our day, the really
+difficult fringe of the Southwest. There was not a decent road. We had
+no endowment, no vehicles. Bandelier was once loaned a horse; and after
+riding two miles, led it the rest of the thirty. So we went always by
+foot; my big camera and glass plates in the knapsack on my back, the
+heavy tripod under my arm; his aneroid, surveying instruments, and
+satchel of the almost microscopic notes which he kept fully and
+precisely every night by the camp-fire (even when I had to crouch over
+him and the precious paper with my water-proof focusing cloth) somehow
+bestowed about him. Up and down pathless cliffs, through tangled canons,
+fording icy streams and ankle-deep sands, we travailed; no blankets,
+overcoats, or other shelter; and the only commissary a few cakes of
+sweet chocolate, and a small sack of parched popcorn meal. Our "lodging
+was the cold ground." When we could find a cave, a tree, or anything to
+temper the wind or keep off part of the rain, all right. If not, the
+Open. So I came to love him as well as revere. I had known many
+"scientists" and what happened when they really got Outdoors. He was in
+no way an athlete--nor even muscular. I was both--and not very long
+before had completed my thirty-five-hundred-mile "Tramp Across the
+Continent." But I never had to "slow down" for him. Sometimes it was
+necessary to use laughing force to detain him at dark where we had water
+and a leaning cliff, instead of stumbling on through the trackless night
+to an unknown "Somewheres." He has always reminded me of John Muir, the
+only other man I have known intimately who was as insatiate a climber
+and inspiring a talker. But Bandelier had one advantage. He could find
+common ground with _anyone_. I have seen him with Presidents, diplomats,
+Irish section-hands, Mexican peons, Indians, authors, scientists and
+"society." Within an hour or so he was easily the Center. Not
+unconscious of his power, he had an extraordinary and sensitive modesty,
+which handicapped him through life among those who had the "gift of
+push." He never put himself forward either in person or in his writing. But something about him fascinated all these far-apart classes of
+people, when he spoke. His command of English, French, Spanish, and
+German might have been expected; but his facility in acquiring the
+"dialects" of railroad men and cowboys, or the language of an Indian
+tribe, was almost uncanny. When he first visited me, in Isleta, he knew
+just three words of Tigua. In ten days he could make himself understood
+by the hour with the Principales in their own unwritten tongue. Of
+course, this was one secret of his extraordinary success in learning the
+inner heart of the Indians. I saw it proved again in our contact with the Quichua and Aymara and
+other tribes of Peru and Bolivia. I have known many scholars and some heroes--but they seldom come in the
+same original package. As I remember Bandelier with smallpox alone in
+the two-foot snows of the Manzanos; his tens of thousands of miles of
+tramping, exploring, measuring, describing, in the Southwest; his year
+afoot and alone in Northern Mexico, with no more weapon than a
+pen-knife, on the trails of raiding Apaches (where "scientific
+expeditions" ten years later, when the Apache was eliminated, needed
+armed convoys and pack-trains enough for a punitive expedition, and
+wrote pretentious books about what every scholar has known for three
+hundred years) I deeply wonder at the dual quality of his intellect. Among them all, I have never known such student and such explorer lodged
+in one tenement. We were knit not only thus but in the very intimacies of life--sharing
+hopes and bereavements. My first son, named for him, should now be
+twenty-two. The old home in Santa Fe was as my own. The truly wonderful
+little woman he found in Peru for mate--who shared his hardships among
+the cannibals of the Amazonas and elsewhere, and so aided and still
+carries on his work--I met in her maiden home, and am glad I may still
+call her friend. Naturally, among my dearest memories of our trampings together is that
+of the Rito, the Tyuonyi. It had never in any way been pictured before. We were the first students that ever explored it. He had discovered it,
+and was writing "The Delight Makers." What days those were! The weather
+was no friend of ours, nor of the camera's. We were wet and half-fed,
+and cold by night, even in the ancient tiny caves. But the unforgettable
+glory of it all! To-day thousands of people annually visit the Tyuonyi at ease, and camp
+for weeks in comfort. The School of American Archaeology has a summer
+session there; and its excavations verify Bandelier's surmises. Normal
+students and budding archaeologists sleep in the very caves (identified)
+of the Eagle People, the Turquoise, Snake and other clans. And in that
+enchanted valley we remember not only the Ancients, but the man who gave
+all this to the world. During the six years I was Librarian of the Los Angeles Public Library,
+far later, no other out-of-print book on the Southwest was so eagerly
+sought as "The Delight Makers." We had great trouble in getting our own
+copy, which slept in the safe. The many students who wished copies of
+their very own were referred to dealers in Americana, who searched for
+this already rare volume; and many were proud to get it, at last, at
+ten, fifteen and even twenty times its original price. It will always be
+a standard--the most photographic story yet printed of the life of the
+prehistoric Americans. CHARLES F. LUMMIS. *       *       *       *       *
+
+
+ILLUSTRATIONS
+
+Portrait of the Author                          _Frontispiece_
+                                                   FACING PAGE
+The East End of the Canon of the Tyuonyi                     8
+A Modern Indian Dance                                       18
+An Estufa                                                   18
+Rito de los Frijoles: Cavate Rooms in Cliff; Ruins
+of Talus Pueblo at the Foot of Cliff                        38
+A Westerly Cliff of the Habitations of the Tyuonyi,
+Showing Second and Third Story Caves, and
+Some High Lookout Caves                                     70
+A Navajo Hogan                                              88
+The Heart of the Tyuonyi: The Excavated Lower
+Story of the Great Terraced Communal House                  88
+Rito de los Frijoles: A Cliff Estufa of the Snake-Clan     116
+The Dance of the Ayash Tyucotz                             140
+Indian Pueblo Dances of To-day: Lining Up for the
+Dance; The "Clowns"                                        164
+Type of Old Indian Woman                                   186
+Juanico: A Member of the Modern Village-Council            224
+The Hishtanyi Chayan, or Chief Medicine Man                256
+Looking Out from One of the Weathered Cave-Rooms
+of the Snake-Clan                                          320
+Rito de los Frijoles: Looking Out from the Ceremonial
+Cave                                                       384
+Ruins of an Ancient Pueblo                                 472
+A Modern Pueblo                                            486
+
+       *       *       *       *       *
+
+
+
+
+THE DELIGHT MAKERS
+
+CHAPTER I. The mountain ranges skirting the Rio Grande del Norte on the west,
+nearly opposite the town of Santa Fe, in the Territory of New Mexico,
+are to-day but little known. The interior of the chain, the Sierra de
+los Valles, is as yet imperfectly explored. Still, these bald-crested
+mountains, dark and forbidding as they appear from a distance, conceal
+and shelter in their deep gorges and clefts many a spot of great natural
+beauty, surprisingly picturesque, but difficult of access. From the
+river these canons, as they are called in New Mexico, can be reached
+only by dint of toilsome climbing and clambering; for their western
+openings are either narrow gaps, or access to them is barred by colossal
+walls and pillars of volcanic rocks. The entire formation of the chain,
+as far as it faces the Rio Grande, is volcanic, the walls of the gorges
+consisting generally of a friable white or yellowish tufa containing
+nodules of black, translucent obsidian. The rock is so soft that in many
+places it can be scooped out or detached with the most primitive tools,
+or even with the fingers alone. Owing to this peculiarity the slopes
+exposed to the south and east, whence most of the heavy rains strike
+them, are invariably abrupt, and often even perpendicular; whereas the
+opposite declivities, though steep, still afford room for scanty
+vegetation. The gorges run from west to east,--that is, they descend
+from the mountain crests to the Rio Grande, cutting the long and narrow
+pedestal on which the high summits are resting. Through some but not all of these gorges run never-failing streams of
+clear water. In a few instances the gorge expands and takes the
+proportions of a narrow vale. Then the high timber that usually skirts
+the rivulets shrinks to detached groves, and patches of clear land
+appear, which, if cultivated, would afford scanty support to one or two
+modern families. To the village Indian such tillable spots were of the
+greatest value. The deep ravine afforded shelter not only against the
+climate but against roving enemies, and the land was sufficient for his
+modest crops; since his wants were limited, and game was abundant. The material of which the walls of these canons are composed, suggested
+in times past to the house-building Indian the idea of using them as a
+home. The tufa and pumice-stone are so friable that, as we have said,
+the rock can be dug or burrowed with the most primitive implements. It
+was easier, in fact, to excavate dwellings than to pile up walls in the
+open air. Therefore the northern sides of these secluded gorges are perforated in
+many places by openings similar in appearance to pigeon-holes. These
+openings are the points of exit and entrance of artificial caves, dug
+out by sedentary aborigines in times long past. They are met with in
+clusters of as many as several hundred; more frequently, however, the
+groups are small. Sometimes two or more tiers of caves are superimposed. From the objects scattered about and in the cells, and from the size and
+disposition of the latter, it becomes evident that the people who
+excavated and inhabited them were on the same level of culture as the
+so-called Pueblo Indians of New Mexico. It is not surprising, therefore, that some traditions and myths are
+preserved to-day among the Pueblos concerning these cave-villages. Thus
+the Tehua Indians of the pueblo of Santa Clara assert that the
+artificial grottos of what they call the Puiye and the Shufinne, west of
+their present abodes, were the homes of their ancestors at one time. The
+Queres of Cochiti in turn declare that the tribe to which they belong,
+occupied, many centuries before the first coming of Europeans to New
+Mexico, the cluster of cave-dwellings, visible at this day although
+abandoned and in ruins, in that romantic and picturesquely secluded
+gorge called in the Queres dialect Tyuonyi, and in Spanish "El Rito de
+los Frijoles." The Rito is a beautiful spot. Situated in a direct line not over twenty
+miles west of Santa Fe, it can still be reached only after a long day's
+tedious travel. It is a narrow valley, nowhere broader than half a mile;
+and from where it begins in the west to where it closes in a dark and
+gloomy entrance, scarcely wide enough for two men to pass abreast, in
+the east, its length does not exceed six miles. Its southern rim is
+formed by the slope of a timbered mesa, and that slope is partly
+overgrown by shrubbery. The northern border constitutes a line of
+vertical cliffs of yellowish and white pumice, projecting and
+re-entering like decorations of a stage,--now perpendicular and smooth
+for some distance, now sweeping back in the shape of an arched segment. These cliffs vary in height, although nowhere are they less than two
+hundred feet. Their tops rise in huge pillars, in crags and pinnacles. Brushwood and pine timber crown the mesa of which these fantastic
+projections are but the shaggy border. Through the vale itself rustles the clear and cool brook to which the
+name of Rito de los Frijoles is applied. It meanders on, hugging the
+southern slope, partly through open spaces, partly through groves of
+timber, and again past tall stately pine-trees standing isolated in the
+valley willows, cherry-trees, cottonwoods, and elders form small
+thickets along its banks. The Rito is a permanent streamlet
+notwithstanding its small size. Its water freezes in winter, but it
+never dries up completely during the summer months. Bunches of tall grass, low shrubbery, and cactus grow in the open spaces
+between rocky debris fallen from above. They also cover in part low
+mounds of rubbish, and ruins of a large pentagonal building erected
+formerly at the foot of a slope leading to the cliffs. In the cliffs
+themselves, for a distance of about two miles, numerous caves dug out by
+the hand of man are visible. Some of these are yet perfect; others have
+wholly crumbled away except the rear wall. From a distance the
+port-holes and indentations appear like so many pigeons' nests in the
+naked rock. Together with the cavities formed by amygdaloid chambers and
+crevices caused by erosion, they give the cliffs the appearance of a
+huge, irregular honeycomb. These ruins, inside as well as outside the northern walls of the canon
+of the Rito, bear testimony to the tradition still current among the
+Queres Indians of New Mexico that the Rito, or Tyuonyi, was once
+inhabited by people of their kind, nay, even of their own stock. But the
+time when those people wooed and wed, lived and died, in that secluded
+vale is past long, long ago. Centuries previous to the advent of the
+Spaniards, the Rito was already deserted. Nothing remains but the ruins
+of former abodes and the memory of their inhabitants among their
+descendants. These ancient people of the Rito are the actors in the
+story which is now to be told; the stage in the main is the Rito itself. The language of the actors is the Queres dialect, and the time when the
+events occurred is much anterior to the discovery of America, to the
+invention of gunpowder and the printing-press in Europe. Still the Rito
+must have appeared then much as it appears now,--a quiet, lovely,
+picturesque retreat, peaceful when basking in the sunlight, wonderfully
+quiet when the stars sparkled over it, or the moon shed its floods of
+silver on the cliffs and on the murmuring brook below. In the lower or western part of its course the Tyuonyi rushes in places
+through thickets and small groves, out of which rise tall pine-trees. It
+is very still on the banks of the brook when, on a warm June day,
+noon-time is just past and no breeze fans the air; not a sound is heard
+beyond the rippling of the water; the birds are asleep, and the noise of
+human activity does not reach there from the cliffs. Still, on the day
+of which we are now speaking, a voice arose from the thicket, calling
+aloud,--
+
+"Umo,--'grandfather! '"[1]
+
+"To ima satyumishe,--'come hither, my brother,'" another voice replied
+in the same dialect, adding, "See what a big fish I have caught." It sounded as though this second voice had issued from the very waters
+of the streamlet. Pine boughs rustled, branches bent, and leaves shook. A step scarcely
+audible was followed by a noiseless leap. On a boulder around which
+flowed streams of limpid water there alighted a young Indian. He was of medium height and well-proportioned. His hands and feet were
+rather small and delicate. He carried his head erect with ease and
+freedom. Jet-black hair, slightly waving, streamed loose over temples
+and cheeks, and was gathered at the back in a short thick knot. In front
+it parted naturally, leaving exposed a narrow strip of the brow. The
+features of the face, though not regular, were still attractive, for
+large black eyes, almond-shaped, shone bright from underneath heavy
+lashes. The complexion was dusky, and the skin had a velvety gloss. Form, carriage, and face together betokened a youth of about eighteen
+years. His costume was very plain. A garment of unbleached cotton, coarsely
+woven, covered the body as low as the knee. This garment, sleeveless and
+soiled by wear, was tied over the right shoulder. A reddish-brown scarf
+or belt of the same material fastened it around the waist. Feet, arms,
+and the left shoulder were bare. Primitive as was this costume, there
+was, nevertheless, an attempt here and there at decoration. The belt was
+ornamented with black and white stitches; from each ear hung a turquoise
+suspended by a cotton thread, and a necklace of coloured pebbles strung
+on yucca fibre encircled the neck. Like a statue of light-coloured bronze decked with scanty drapery, and
+adorned with crude trinkets, holding a bow in the right hand, while the
+left clenched a few untipped arrows, the youth stood on the boulder
+outlined against the shrubbery, immovable above the running brook. His
+gaze was fixed on the opposite bank, where a youngster was kneeling. The latter was a boy of perhaps nine years. A dirty wrap hung loosely
+over shoulders and back, and no necklace or ear-pendants decorated his
+body. But the childish features were enlivened by a broad grin of
+satisfaction, and his eyes sparkled like coals just igniting, while he
+pointed to a large mountain trout which he pressed against a stone with
+both hands. He looked at the older youth with an expression not merely
+of pleasure, but of familiar intimacy also. It was clear that both boys
+were children of the same parents. The younger one spoke first,--
+
+"See here, Okoya," he began, grinning; "while you are older than I, and
+bigger and stronger, I am more cunning than you. Ever since the sun came
+out you have followed the turkeys, and what have you? Nothing! Your
+hands are empty! I have just come down from the field, and look! I
+caught this fish in the water. Shall we fry and eat it here, or carry it
+home to the mother?" The older brother did not relish the taunt; his lips curled. He replied
+scornfully,--
+
+"Any child may catch a fish, but only men can follow turkeys. The tzina
+is shy and wary; it knows how sure my aim is, therefore it hides when I
+go out to hunt." The little one replied to this pompous explanation with a clear mocking
+laugh. "Turkeys care nothing about you," he retorted. "It is nothing to them
+whether you go out or not!" "Shyuote," his brother scolded, "stop prating about things of which you
+do not know. It is true I am not one of the order of hunters, Shyayak,
+but I may become so soon." He stopped, as if a sudden thought had struck
+him, and then exclaimed: "Now I know why luck has failed me this
+morning! When I left our houses I should have scattered meal, and placed
+a pebble on the heap beside the trail, and offered a plume to our Mother
+Above. All this I neglected. Now I am punished for it by the birds
+concealing themselves. For had they come out--"
+
+"You would have missed them," tauntingly replied the other. "If you want
+to kill turkeys join the Koshare. Then you will catch them with roots
+and flowers." Okoya grew angry. "Hush! foolish boy," he retorted, "what are the Koshare to me? Don't
+speak about such things here. Come, take your fish, and let us go home." With this Okoya leaped over the brook. Shyuote whispered audibly to him,
+"Yes; you are very fond of the Koshare." But the sarcastic remark was
+not heeded by the elder lad, who turned to go, Shyuote following him. Proudly the little boy tossed his fish from one hand to the other. Beyond the straight and lofty pine trunks a whitish glare soon appeared. Brilliant sunlight broke through the tree-tops, and played around the
+dark needles, turning them into a brighter, lighter, emerald green. A
+background of yellow and cream-coloured rocks, visible now through
+openings in the shrubbery, showed that the boys were approaching a clear
+space. Here the elder one suddenly stopped, turned to his brother, looked
+straight at him, and asked,--
+
+"Shyuote, what have you heard about the Koshare?" Instead of answering the child looked down, indifferent and silent, as
+if he had not heard the query. "What have you heard, boy?" continued the other. Shyuote shrugged his shoulders. He had no inclination to reply. "Why don't you answer?" Okoya persisted. His brother looked up, cast a furtive glance at the interlocutor, then
+stared vacantly, but with head erect, before him. His eyes were glassy
+and without any expression. [Illustration: The east end of the Canon of the Tyuonyi]
+
+Whenever the Indian does not wish to speak on any subject, whatever it
+be, no power on earth can compel him to break silence. Okoya, as an
+Indian, felt rather than understood this; and the child's refusal to
+answer a very simple question aroused his suspicions. He looked at the
+stubborn boy for a moment, undecided whether he would not resort to
+force. The child's taunts had mortified his pride in the first place;
+now that child's reticence bred misgivings. He nevertheless restrained
+both anger and curiosity for the present, not because of indifference
+but for policy's sake, and turned to go. Shyuote looked for a moment as
+if he wished to confess to his brother all that the latter inquired
+about, but soon pouted, shrugged his shoulders, and set out after Okoya
+in a lively fox-trot again. The valley lay before them; they had reached the end of the grove. Smiling in the warm glow of a June day, with a sky of deepest azure, the
+vale of the Rito expanded between the spot which the boys had reached
+and the rocky gateways in the west, where that valley seemed to begin. Fields, small and covered with young, bushy maize-plants, skirted the
+brook, whose silvery thread was seen here and there as its meanderings
+carried it beneath the shadow of shrubs and trees, or exposed it to the
+full light of the dazzling sun. In the plantations human forms appeared,
+now erect, now bent down over their work. A ditch of medium size
+bordered the fields on the north, carrying water from the brook for
+purposes of irrigation. Still north of the ditch, and between it and the
+cliffs, arose a tall building, which from a distance looked like a high
+clumsy pile of clay or reddish earth. This pile was irregularly terraced. Human beings stood on the terraces
+or moved along them. Now and then one was seen to rise from the interior
+of the pile to one of the terraced roofs, or another slowly sank from
+sight, as if descending into the interior of the earthy heap. On the
+outside, beams leaned against it, and on them people went up and down,
+as if climbing ladders. Thin films of smoke quivered in the air from
+imperceptible flues. The cliffs themselves extended north of this building and east and west
+as far as the range of view permitted, like a yellowish ribbon of
+towering height with innumerable flexures and alternations of light and
+shade. Their base was enlivened by the bustle of those who dwelt in
+caves all along the foot of the imposing rocky wall. Where to-day only
+vacant holes stare at the visitor, at the hour on the day when our story
+begins, human eyes peered through. Other doors were closed by deer-hides
+or robes. Sometimes a man, a woman, or a child, would creep out of one
+of these openings, and climbing upward, disappear in the entrance of an
+upper tier of cave-dwellings. Others would descend the slope from the
+cliffs to the fields, while still others returned from the banks of the
+ditch or of the brook. At the distance from which the boys viewed the
+landscape all passed noiselessly; no human voice, no clamour disturbed
+the stillness of the scene. Peaceful as Nature appeared, neither of the youth were in the least
+struck by its charms or influenced by the spell which such a tranquil
+and cheerful landscape is likely to exercise upon thinking and feeling
+man. With both it was indifference; for the Indian views Nature with the
+eyes of a materially interested spectator only. But the elder brother
+had another reason for not noticing the beauty of the scene. He was not
+only troubled, he was seriously embarrassed. The hint thrown out by his
+little brother about the Koshare had struck him; for it led to the
+inference that the child had knowledge of secret arts and occult
+practices of which even he, Okoya, although on the verge of manhood, had
+never received any intimation. Far more yet than this knowledge, which
+Shyuote might have obtained through mere accident, the hint at
+unpleasant relations between Okoya and the Koshare startled the latter. It was perfectly true that he not only disliked but even hated the
+cluster of men to which the name of Koshare was given in the tribe; but
+he had concealed his feelings as carefully as possible until now. Only
+once, as far as he could remember, had he spoken of his aversion; and
+then it was during an absolutely confidential conversation with his own
+mother, who seemed to entertain like sentiments. To his father he had never uttered a word; because his father was
+himself a Koshare. Whatever Shyuote knew, he could only have gathered by
+overhearing a conversation of the Koshare among themselves, in which it
+was mentioned that he, Okoya, harboured ill-feelings toward that
+brotherhood. In that case he might be exposed to serious danger, since,
+as he believed, those people were in possession of knowledge of a higher
+order, and practised arts of an occult nature. Against danger arising
+from such a source, Okoya considered himself utterly defenceless. The more he tried to think over these matters, the more troubled his
+mind became. Only one thought appeared logical and probable and that was
+that the boy had overheard one or other of the Koshare's intimate
+conversations. But how came it that the Koshare knew about Okoya's
+aversion toward them? Who could have told them? Only his mother knew the
+secret! Had she, perhaps, she--The thought was like a spark which glowed
+for a while, grew to a flame, flared and flickered unsteadily within his
+heart, then began to shrink. No, no; it was impossible! it could not be! His mother would never betray her child! The flame died out, the spark
+remained fast dying. Suddenly it blazed up again as if some breath had
+fanned it. With renewed insistence, it struck Okoya that even if Shyuote had merely
+overheard a conversation and the child's knowledge was derived from that
+source, the most extraordinary part of the information could only have
+come from one source,--the person in whom he had confided, his mother! She alone could have told the Koshare that Okoya hated them. The spark
+flared up anew; it burst out in a wild flame of suspicion. It singed
+the heart and smothered feeling as well as reason. It so completely
+absorbed his thoughts, that Okoya forgot everything else. Instead of
+walking along at a quiet easy gait, he rushed fast and faster, wrapped
+in dismal despair and in wild impotent wrath. Heedless of his little
+companion he ran, panting with agitation, until Shyuote, unable to keep
+pace and startled at his wild gait, pulled his garment and begged him to
+stop. "Brother," he cried, "why do you go so fast? I cannot follow you!" Okoya came to a sudden halt, and turned toward the boy like one aroused
+from a sinister dream. Shyuote stared at him with surprise akin to
+fright. How changed was his appearance! Never before had he seen him
+with a countenance so haggard, with eyes hollow and yet burning with a
+lurid glow. Loose hair hung down over forehead and cheeks, perspiration
+stood on the brow in big drops. The child involuntarily shrunk back, and
+Okoya, noticing it, gasped,--
+
+"You are right, the day is long yet and the houses near. We will go
+slower." Bowing his head again he went on at a slower gait. Shyuote followed in silence. Although surprised at the change in his
+brother's looks, he did not for a moment entertain the thought or desire
+of inquiring into the cause of it. He was fully satisfied that as long
+as Okoya did not see fit to speak of the matter, he had no right to ask
+about it: in short, that it was none of his business. Meanwhile dark and dismal thoughts were chasing each other within the
+elder brother's soul. Doubt and suspicion became more and more crushing. He was tempted to break the spell and interrogate Shyuote once more,
+even to wrench from him, if needs be, a full explanation. The boy was
+old enough to enjoy that great and often disagreeable quality of the
+American Indian, reticence. Furthermore, he might have been forbidden to
+speak. If the Indian is not an ideal being, he is still less a stolid mentally
+squalid brute. He is not reticent out of imbecility or mental weakness. He fails properly to understand much of what takes place around him,
+especially what happens within the circle of our modern civilization,
+but withal he is far from indifferent toward his surroundings. He
+observes, compares, thinks, reasons, upon whatever he sees or hears, and
+forms opinions from the basis of his own peculiar culture. His senses
+are very acute for natural phenomena; his memory is excellent, as often
+as he sees fit to make use of it. There is no difference between him and
+the Caucasian in original faculties, and the reticence peculiar to him
+under certain circumstances is not due to lack of mental aptitude. He does not practise that reticence alike toward all. A great number of
+examples seems to establish the fact that the Indian has developed a
+system of casuistry, based upon a remarkably thorough knowledge of human
+nature. Certain matters are kept concealed from some people, whereas
+they are freely discussed with others, and _vice versa_. The Indian
+hardly ever keeps a secret to himself alone; it is nearly always shared
+by others whom the matter directly concerns. It may be said of the red
+man that he keeps secrets in the same manner that he lives,--namely, in
+groups or clusters. The reason is that with him individualism, or the
+mental and moral independence of the individual, has not attained the
+high degree of development which prevails among white races. When Europeans began to colonize America in the fifteenth and sixteenth
+centuries, the social organization of its inhabitants presented a
+picture such as had disappeared long before on the continent of Europe. Everywhere there prevailed linguistic segregation,--divisions into
+autonomous groups called tribes or stocks, and within each of these,
+equally autonomous clusters, whose mutual alliance for purposes of
+sustenance and defence constituted the basis of tribal society. The
+latter clusters were the clans, and they originated during the
+beginnings of the human family. Every clan formed a group of supposed
+blood-relatives, looking back to a mythical or traditional common
+ancestor. Descent from the mother being always plain, the clan claimed
+descent in the female line even if every recollection of the female
+ancestor were lost, and theoretically all the members of one clan were
+so many brothers and sisters. This organization still exists in the
+majority of tribes; the members of one clan cannot intermarry, and, if
+all the women of a clan die, that clan dies out also, since there is
+nobody left to perpetuate it. The tribe is in reality but a league; the
+clan is the unit. At the time we speak of, the affairs of each tribe
+were administered by an assembly of delegates from all its clans who at
+the same time arbitrated inevitable disputes between the several
+blood-relations. Each clan managed its own affairs, of which no one outside of its
+members needed to know anything. Since the husbands always belonged to a
+different consanguine group from their wives, and the children followed
+their mother's line of descent, the family was permanently divided. There was really no family in our sense of the word. The Indian has an
+individual name only. He is, in addition, distinguished by the name of
+his clan, which in turn has its proper cognomen. The affairs of the
+father's clan did not concern his wife or his children, whereas a
+neighbour might be his confidant on such matters. The mother, son, and
+daughter spoke among themselves of matters of which the father was not
+entitled to know, and about which he scarcely ever felt enough curiosity
+to inquire. Consequently there grew a habit of not caring about other
+people's affairs unless they affected one's own, and of confiding
+secrets to those only whom they could concern, and who were entitled to
+know them. In the course of time the habit became a rule of education. Reticence, secrecy, discretion, are therefore no virtues with the
+Indian; they are simply the result of training. Okoya too had been under the influence of such training, and he knew
+that Shyuote, young as he was, had already similar seeds planted within
+him. But uncertainty was insufferable; it weighed too heavily upon him,
+he could no longer bear it. "Umo," he burst out, turning abruptly and looking at the boy in an
+almost threatening manner, "how do you know that I dislike the Koshare?" Shyuote cast his eyes to the ground, and remained silent. His brother
+repeated the query; the little fellow only shrugged his shoulders. With
+greater insistence the elder proceeded,--
+
+"Shyuote Tihua, who told you that the Delight Makers are not precious to
+me, nor I to them?" Shyuote shook his head, pouted, and stared vacantly to one side. He
+manifestly refused to answer. Cold perspiration stood on the brow of the elder brother; his body
+quivered in anguish; he realized the truth of his suspicions. Unable any
+longer to control himself he cried,--
+
+"It is my mother who told them!" Trembling, with clenched hands and gnashing teeth, he gazed at the child
+unconsciously. Shyuote, frightened at his wild and menacing attitude,
+and ignorant of the real cause of his brother's excitement, raised his
+hand to his forehead and began to sob. A shout coming from the immediate vicinity aroused and startled Okoya. A
+voice called out to him,--
+
+"Umo!" He looked around in surprise. They were standing close to the cultivated
+plots, and a man loomed up from between the maize-plants. He it was who
+called, and as soon as Okoya turned toward him he beckoned the youth to
+come nearer. Okoya's face darkened; he reluctantly complied, leaped over
+the ditch, walked up to the interlocutor, and stood still before him in
+the attitude of quiet expectancy with downcast eyes. Shyuote had dropped
+to the ground; the call did not interfere with his sobs; he pouted
+rather than grieved. Okoya's interlocutor was a man of strong build, apparently in the
+forties. His features, although somewhat flat and broad, created a
+favourable impression at first; upon closer scrutiny, however, the eyes
+modified that impression. They were small, and their look piercing
+rather than bright. His costume was limited to a tattered breech-clout of
+buckskin. A collar of small white shells encircled the neck, and from
+this necklace dangled a triangular piece of alabaster, flat, and with a
+carving on it suggesting the shape of a dragon-fly. His hair streamed
+loose over the left ear, where there was fastened to the black coarse
+strands a tuft of grayish down. This individual eyed Okoya in silence for a moment, as if inspecting his
+person; then he inquired,--
+
+"Where do you come from?" The young fellow looked up and replied,--
+
+"From below," pointing to the lower end of the gorge. "What did you hunt?" the other continued, glancing at the bow and arrows
+of the boy. "Tzina;" and with perceptible embarrassment Okoya added, "but I killed
+nothing." The man seemed not to heed the humiliation which this confession
+entailed, and asked,--
+
+"Have you seen tracks of the mountain-sheep down yonder?" "Not one; but I saw at a distance on the slope two bears very large and
+strong." The other shook his head. "Then there are no mountain sheep toward that end of the Tyuonyi," he
+said, waving his left hand toward the southeast, "thank you, boy," at
+the same time extending his right to the youth. Okoya grasped it, and
+breathed on the outside of the hand. Then he said, "hoa umo," and turned
+and sauntered back to where his little brother was still squatting and
+pouting, morose and silent. The man had also turned around, bent down, and gone on weeding the corn. Withal he did not lose sight of the boys; on the contrary, an occasional
+stealthy glance from his half-closed eyes shot over where they met. Shyuote rose from the ground. His eyes were dry, but he glanced at his
+brother with misgivings as well as with curiosity. The latter felt a
+sudden pang upon beholding the childish features. The short
+interruption, though annoying at first, had diverted him from gloomy
+thoughts. Now, everything came back to his mind with renewed force,--the
+same anguish, the feeling of utter helplessness in case of impending
+danger, indignation at what he believed to have been base treason on the
+part of his mother,--all this rushed upon him with fearful force, and he
+stood again motionless, a picture of wild perplexity. His face betokened
+the state of his mind. Shyuote did not dare to inquire of him further
+than to ask a very insignificant question,--namely, who the man was that
+had called. Okoya answered readily, for this query was almost a relief,--a diversion
+which enabled him to subdue his agitation. "Tyope Tihua," he said
+hastily, "wanted to know if I had seen any mountain sheep. I told him
+that I had only seen bear-tracks. Let him follow those," he growled. "Come on, satyumishe, it is getting late." While this conversation had been carried on, the boys, now hurrying and
+now slackening their pace, had arrived within a short distance of the
+tall clay-pile, which was seen to be a high polygonal building,
+apparently closed on all sides. Between them and this edifice there was
+still another lower one, not unlike an irregular honeycomb. About forty
+cells, separated from each other by walls of earth, carried up from the
+ground to a few inches above the terraced roof, constituted a
+ground-floor on which rested a group of not more than a dozen similar
+cells. The walls of this structure were of stones, irregularly broken
+and clumsily piled, but they were covered by a thick coating of clay so
+that nothing of the rough core remained visible. Instead of doors or
+entrances, air-holes, round or oval, perforated these walls. The house appeared empty. No smoke flitted over the flat roof; the
+coating was so recent that many places were hardly dry. [Illustration: (Upper picture) A modern Indian Dance]
+
+[Illustration: (Lower picture) An estufa]
+
+North of this building, a circular structure thirty feet in diameter
+rose a few feet only above the soil, like the upper part of a sunken
+cylinder. Its top was flat, and large flags of stone formed a rough
+staircase leading to its roof. In the centre, a square opening appeared,
+out of which a tall beam, notched at regular intervals like a primitive
+ladder, protruded, and down which also the beam disappeared as if
+extended into the bowels of the earth. This edifice, half underground,
+half above the soil, was what to-day is called in New Mexico an
+_estufa_. [2] This Spanish word has become a technical term, and we shall
+hereafter use it in the course of the story as well as the designations
+_tshikia_ and _kaaptsh_ of the Queres Indians. The estufas were more numerous in a single pueblo formerly than they are
+now. Nor are they always sunken. At the Rito there were at least ten,
+five of which were circular chambers in the rock of the cliffs. These
+chambers or halls were, in the times we speak of, gathering places for
+men exclusively. No woman was permitted to enter, unless for the purpose
+of carrying food to the inmates. Each clan had its own estufa, and the
+young men slept in it under the surveillance of one or more of the aged
+principals, until they married, and frequently even afterward. There the young men became acquainted with the affairs of their
+individual connections, and little by little also with the business of
+the tribe. There, during the long evenings of winter, old men taught
+them the songs and prayers embodying traditions and myths, first of
+their own clan, then of the tribe. [3] The estufa was school, club-house,
+nay, armory to a certain extent. It was more. Many of the prominent
+religious exercises took place in it. The estufa on special occasions
+became transformed into a temple for the clan who had reared it. From the depths of this structure there came a series of
+dull sounds like beats of a drum. The youngsters stopped short, and
+looked at each other in surprise. "The new house," whispered Okoya, "which the Corn clan have built here
+is empty, yet there is somebody in its estufa. What may this mean?" "Let us look into it," eagerly suggested Shyuote. "Go you alone!" directed the elder brother. "I will walk on, and you can
+overtake me by-and-by." That suited Shyuote. He crept stealthily toward the round building. There was an air-hole in the rim which rose above the ground. Crouching
+like a cat, the boy cautiously peered through this opening, but quickly
+withdrew with an expression of disappointment. The underground chamber
+was not even finished; its walls were dark and raw, the floor rough, and
+on this floor a half-dozen young fellows in every stage of dress or
+undress were lounging. One of them mechanically touched a small drum
+with a stick, while two or three of the others were humming a monotonous
+tune to the rhythm of his rappings. Shyuote stole away in evident
+discontent; his curiosity was satisfied, but at the expense of his
+expectations. Loud laughter, screams, and animated talking diverted his attention, and
+caused him to run in the direction of the new house of the Corn clan. He
+heard the voice of his brother, but at the same time women's voices
+also, and as soon as he turned the farther corner of the building, he
+saw what was plainly a playful encounter between Okoya and a pair of
+young girls. The former had his bow in hand ready to shoot, and he pointed the arrow
+at the maidens alternately; they, utterly unconcerned about his weapon,
+were pressing him with weapons of their own, which he was much more
+anxious to avoid than they his missiles. These were two pairs of very
+dirty hands filled and covered with liquid mud with which the damsels
+attempted to decorate his person. Okoya was clearly on the defensive,
+and the advantage so far seemed on the side of his aggressors. Shyuote
+flew to his assistance. Rushing to a large vessel of burnt clay,
+standing alongside the wall and filled with water, he plunged both hands
+into it, and began to bespatter the assailants with the not very clean
+liquid. Forthwith one of the girls turned against the new enemy. She was
+older and taller than Shyuote. Seizing his raven locks she pulled him to
+the ground on his face, knelt on the prostrate form, and then and there
+gave the boy a series of energetic cuffs against which the youngster
+struggled and wriggled in the most desperate but absolutely ineffectual
+manner. The fair sex held the balance of power and wielded it. At every
+attempt of Shyuote to rise or to roll over, she pushed his face back
+into the moist ground, she pulled his hair, thumped his shoulders, and
+boxed his ears. She was in earnest, and Shyuote was powerless in her
+firm grasp. He could not even scream, for a thick coating of soil had
+fastened itself to his features, had penetrated into eye, mouth, and
+nostrils. His fate was as melancholy as it was ludicrous; it brought
+about a truce between Okoya and the other maiden. They dropped, he the
+weapon, she her muddy arms, and looked at the other set of combatants
+with surprise and with immoderate laughter. The Indian is not
+tender-hearted on such occasions. When the victorious beauty at last
+arose, suffering her victim to turn over again, the merriment became
+uproarious, for Shyuote presented the appearance of a blowing, spitting,
+coughing, statue of dirt. His looks were in no manner improved by his
+frenzy after the boy had rubbed his eyes, and recovered his breath. Tears of rage rolled down his cheeks over patches of sand and mud, and
+when he noticed the mirth of the others Shyuote's fury knew no bounds. He rushed madly at the triumphant lass, who did not shrink from the
+hostile approach. The contest was threatening to assume serious
+proportions, when another person appeared upon the scene, at the sight
+of whom even Shyuote temporarily stayed all demonstrations, while Okoya
+seemed both startled and embarrassed. The new-comer was a young girl
+too; she carried on her head a vessel of burnt clay similar to a flat
+urn, decorated with black and red designs on cream-coloured ground, and
+filled with water. To understand this scene we must know that the two girls had been
+engaged in putting on the last coat of plaster to the walls of the abode
+of the Corn people, when Okoya suddenly came upon them. At a glance they
+saw that he had been on a hunt, and also that he had hunted in vain. Here was a welcome opportunity for jeering and mockery. They interrupted
+their plastic labour, and turned against him with such merciless
+allusions to his ill-success, that unable any longer to reply to their
+sarcasm Okoya threatened them, in jest of course, with his bow. Instead
+of desisting, the girls at once moved upon him with muddy hands. The one
+who last appeared upon the scene, although assistant to the others,
+inasmuch as she carried the water needed in the preparation of the mud
+for plastering, had not seen the engagement just fought. She looked at
+the group in blank surprise, stood still without lifting the bowl from
+her head, and presented thus the appearance of a handsome statue, dusky
+and graceful, whose lustrous black eyes alone moved, glancing from one
+of the members of the group to the other. Those large expressive eyes
+plainly asked, "What does all this mean?" The antagonists of Okoya and Shyuote were buxom lasses, rather short,
+thick-waisted, full-chested, with flat faces, prominent cheek-bones, and
+bright eyes. The third maiden was taller and much more graceful: her
+features were less coarse, less prominently distinctive. The nose was
+well-proportioned, the mouth also, although the lips were rather heavy. The eyes were large and beaming, soft yet not without an intelligent
+expression. All three girls were dressed nearly alike. A dark-blue
+cotton garment descended as far as the knees; it was tied over the left
+shoulder, and the right was exposed. A red-tinged scarf served as belt
+around the waist. Arms and feet were bare. The long black hair streamed
+loosely. Two of them wore heavy necklaces of green stones, red pebbles,
+and shell beads. The last comer carried only a single string of shell
+beads with an iridescent conch fastened to it in front. Ear-pendants of
+turquoises hung from the ears of all three. The attention of the girl with the urn on her head soon rested on
+Shyuote, and she was the first to break the silence by a hearty peal of
+laughter. This started her companions again, and the one nearest to
+Okoya exclaimed,--
+
+"Mitsha help us throw the water in your urn over the head of the boy. Okoya began it all, give it to him, too. You are strong enough." At the mention of Okoya's name the maiden addressed as Mitsha started. She threw a quick glance like a flash at him. Her face quivered and
+coloured slightly. Turning away, she deposited the water-urn at the foot
+of the wall, and remained standing, her eyes directed to the cliffs, her
+lithe fingers carelessly playing with the beads of her necklace. She was
+disinclined to take any part in the fray, and her behaviour acted as a
+damper on the buoyancy of the others. Okoya hastily gathered up his
+arrows, and called Shyuote to his side. But the boy did not care to
+obey. Thirst for revenge held him to the spot of his defeat; he shook
+his fists at the girls, clenched his teeth, and began to threaten
+vengeance, and to shower uncomplimentary expressions upon them. As soon,
+however, as the one who had so effectually routed him showed again a
+decided movement toward his raven locks, he beat a hasty retreat to his
+elder brother. This change of base excited new hilarity, and under a
+shower of jokes and sarcasms the two boys departed. Okoya walked along
+at a steady gait; but Shyuote, as soon as he considered the distance
+safe enough, turned around, making grimaces at the belligerent damsels,
+vowing vengeance, and uttering opprobrious epithets of the choicest
+kind. He noticed that the two returned his compliments without reserve,
+whereas Mitsha stood in silence leaning against the house-wall. One
+single look, one earnest almost sad glance, she sent after the
+disappearing form of Shyuote's elder brother. The main building was now close at hand. It was an irregular pentagon,
+and at places two, at others three stories high. With one single
+exception these stories formed terraces, retreating successively from
+the ground to the top like so many steps of a staircase. Nowhere did
+there appear any entrance. Notched beams led up to trapdoors in the
+roofs, similar beams penetrated into the interior below. Absolute
+stillness reigned about the edifice. Some women scoured scanty clothing
+in the ditch running past the structure; on the terraces not a soul
+appeared. The lads directed their course toward that side where the
+three stories presented a perpendicular wall, and as they neared it an
+entrance, or doorway, high enough for a man and wide enough for four
+abreast appeared in the vertical front. It led them through a dark
+passage into an interior court which was fairly clean and contained
+three estufas. Its diameter did not exceed one hundred and fifty feet. Toward this court, or yard, the stories of the building descended in
+terraces also; but though everywhere beams leaned up as ladders, access
+to the ground-floor was also afforded by narrow doorways closed with
+hides or mats. It was hot and quiet in this yard; the sun shed glaring
+light into it and over the roofs. Naked urchins played and squirmed
+below, whereas above, an old woman or some aged man would cower
+motionless, shading their blear eyes with one hand and warming their
+cold frames in the heat. Okoya went directly to one of the ground-floor
+openings, lifted the deerskin that hung over it, and called out the
+usual greeting,--
+
+"Guatzena!" "Opona,--'come in,'" responded a woman's voice. Both lads obeyed the
+summons. At first the room seemed dark on account of the sudden contrast
+with the glare outside, but as soon as this first impression was
+overcome, it appeared moderately lighted. It was a chamber about
+fourteen feet long and ten feet wide, and its walls were whitewashed
+with burnt gypsum. Deer-hides and a mat plaited of yucca-leaves lay
+rolled up in one corner. A niche contained a small earthen bowl, painted
+white with black symbolic figures. A doorway to the right led into
+another compartment which seemed darker than the first. As soon as the
+boys entered the room, a woman appeared in this side doorway. She was
+small, slender, and apparently thirty-five years of age. Her features,
+notwithstanding the high cheek-bones, were attractive though wan and
+thin. An air of physical suffering lay over them like a thin cloudy
+veil. At the sight of this woman, Okoya's heart began to throb again;
+for she it was whom he so direly suspected, nay, accused of treachery
+and deceit. This woman was his mother. FOOTNOTES:
+
+[Footnote 1: The word "umo" properly signifies "grandfather;" but it is
+used indiscriminately for all ages and sexes in calling. An old man, for
+instance, will call his grandchild "umo;" so will a wife her husband, a
+brother his sister, etc.] [Footnote 2: _Estufa_ properly means a stove, and the name was applied
+to those semi-subterranean places by the Spaniards on account of their
+comfortable temperature in winter. They recalled to them the
+_temaz-calli_, or sweat-houses, of Mexico.] [Footnote 3: The preservation of traditions is much systematized among
+the Pueblo Indians. Certain societies know hardly any other but the
+folk-tales relating to their own particular origin. To obtain correct
+tradition it is necessary to gain the confidence of men high in degree. That is mostly very difficult.] CHAPTER II. The homes of the Pueblo Indians of New Mexico, especially as regards the
+size and disposition of the rooms, are to-day slightly modified from
+what they were in former times. An advance has been made, inasmuch as
+the buildings are not any longer the vast and ill-ventilated honeycombs
+composed of hundreds of dingy shells, which they were centuries ago. The
+houses, while large and many-storied, are comparatively less extensive,
+and the apartments less roomy than at the time when the Queres lived in
+the Rito de los Frijoles. The two rooms where we left the lads and their mother at the close of
+the preceding chapter formed such a home. In the front one the family
+slept at night, with the exception of Okoya who was obliged to join the
+other youths in the estufa of his clan. The husband was not always at
+home after sunset. But the mother, Shyuote, and a little girl four years
+old invariably took their nightly rest there. To the little girl we have
+not yet been introduced. When the boys returned she was in the
+court-yard at play, and in the usual state of complete undress which is
+the regular condition of Indian children of her age. The inner cell was kitchen and storeroom, and there the family partook
+of their meals. Among the Pueblos the house was in charge of the women exclusively,
+everything within the walls of the house, the men's clothing and weapons
+excepted, belonging to the housekeeper. Even the crops if once housed
+were controlled by her. As long as they were in the field, the husband
+or masculine head of the family could dispose of them. Afterward he must
+consult the woman, and he could not sell an ear of corn without her
+consent. It is still so to-day in many villages. Formerly all the
+field-products were gathered and stored in the granaries of the several
+clans whence each household drew its supplies. Even the proceeds of
+communal hunts and fisheries were treated in this manner. Only where the
+husband, son, or brother killed game while out alone, could he do with
+it as he pleased. Not many centuries ago the members of each clan, or rather the women,
+their offspring, and aged people who were taken care of by their
+children, lived together. They occupied a certain section of the great
+hive which the communal dwelling represented, and such a section was not
+unappropriately called in Spanish a _quartel_ or quarter. The husband
+also stayed with his wife and the younger children, but he had no rights
+as owner, or proprietor, to his abode. Since it was the custom for women
+to raise the walls of buildings, and to finish the house inside and
+outside, they owned it also. The man was only tolerated. His home was
+properly with his clan, whither he must return in case his spouse
+departed this life before him. It was different in regard to the fields. Each clan had its particular
+holding, and since the field-work devolved upon the men, the cultivated
+plots belonged to them alone. Within each allotment every member who was
+of age, or so situated as to have to support himself or a family, owned
+and tilled a certain plot which was his by common consent, although in
+no manner determined by metes or bounds. The condition of ownership was
+regular improvement of the plot, and if that condition was not complied
+with, any other member of the same clan could step in and work it for
+his own benefit. In case of death the field reverted to the maternal
+relative of its owner, whereas the widow and children fell back for
+support upon the resources of their own clan. Hence the singular feature
+that each household got its livelihood from two distinct groups of
+blood-relatives. The home which we have entered belonged to the quarters
+of the Gourd people, or clan Tanyi hanutsh, from which the mother
+descended; and Okoya had slept at night in the estufa of that cluster
+ever since his thirteenth year. But the cultivated patch which the
+father tilled pertained to the fields of his clan, that of Water, Tzitz
+hanutsh. Though the Water people were his relatives, the crop raised by
+him found its way into the storeroom of Tanyi for the support of the
+family which he claimed as his own. Okoya's mother scanned her boys with a sober glance, and turned back
+into the kitchen without uttering a word. Soon a grating sound issued from that apartment, indicating that toasted
+corn was being ground on the flat slab called in Queres, _yakkat_, and
+now usually termed _metate_ in New Mexico. The boys meanwhile had
+approached a niche in the wall. Each one took a pinch of yellow cornmeal
+from the painted bowl, and scattered it successively to the north, west,
+south, east; then threw a little of it up in the air and to the ground
+before him. During this performance their lips moved as if in prayer. Then they separated, for the spirits had been appealed to, and their
+entrance into their home was under the special protection of Those
+Above. Shyuote, whose trout had been ruined during the combat with the
+girls, threw himself on the roll in the corner, there to mourn over his
+defeat. Okoya went out into the court-yard. Both expected an early meal,
+for the fire crackled in the dark kitchen, and a clapping of hands gave
+evidence that corn-cakes were being moulded to appease their hungry
+stomachs. The court-yard had become very quiet. Even the children had gone to rest
+in a shady place, where they slept in a promiscuous heap, a conglomerate
+of human bodies, heads, and limbs, intermingled. The form of an old man
+rose out of a hatchway in the ground-floor, and a tall figure, slightly
+stooping, clad in a garment, and with a head of iron gray hair, stood on
+the flat roof. He walked toward a beam leading down into the court,
+seized its upper end and descended with his face toward the wall, but
+without faltering. A few steps along the house brought him in front of
+Okoya, who had squatted near the doorway of his mother's dwelling. The
+youth was so absorbed in gloomy thoughts that the man's appearance was
+unexpected. Starting in surprise and hastily rising, Okoya called into
+the house,--
+
+"Yaya, sa umo,--'Mother, my grandfather!'" The old man gave a friendly nod to his grandchild, and crossed the
+threshold, stooping low. Still lower the tall form had to bend while
+entering the kitchen door. He announced his coming to the inmate in a
+husky voice and the common formula,--
+
+"Guatzena!" "Raua,--'good,'" the woman replied. Her father squatted close to the fire and fixed his gaze on his
+daughter. She knelt on the floor busy spreading dough or thick batter on
+a heated slab over the fire. She was baking corn-cakes,--the well-known
+_tortillas_ as they are called to-day. After a short pause the old man quietly inquired,--
+
+"My child, where is your husband?" "Zashue Tihua," the woman answered, without looking up or interrupting
+her work, "is in the fields." "When will he come?" The woman raised her right hand, and pointed to the hole in the wall,
+whence light came in from the outside. The wall faced the west, and the
+height of the loophole corresponded to that of the sun about one hour
+before sunset. "Give food to the children," directed the old man. "When they have eaten
+and are gone I shall speak to you." The fire crackled and blazed, and ruddy flashes shot across the features
+of the woman. Was it a mere reflection of the fire, or had her features
+quivered and coloured? The old man scanned those features with a cold,
+steady look. She removed from the fire the sooty pot of clay in which venison cut in
+small pieces was stewing together with corn, dark beans, and a few roots
+and herbs as seasoning. Then she called out,--
+
+"Shyuote, come and eat! Where is Okoya?" The latter alone heard the invitation, for Shyuote had gone to sleep on
+the hides. The elder brother shook him, and went into the kitchen. He
+was followed by the child who staggered from drowsiness. The mother
+meanwhile had placed on the floor a pile of corn-cakes. Beside it, in an
+earthen bowl decorated inside and out with geometrical lines, steamed
+the stew. Dinner was ready; the table spread. To enjoy this meal both lads squatted, but Shyuote, still half asleep,
+lost his balance and tumbled over. Angry at the merriment which this
+created, the boy hastily grabbed the food, but his mother interfered. "Don't be so greedy, uak,--'urchin.' Remember Those Above," she said;
+and Shyuote, imitating the example of Okoya, crossly muttered a prayer,
+and scattered crumbs before him. Then only, both fell to eating. This was done by simply folding a slice of the cake to form a primitive
+ladle, and dipping the contents of the stew out with it. Thus they
+swallowed meat, broth, and finally the ladle also. Okoya arose first,
+uttering a plainly audible hoa. Shyuote ate longer; at last he wiped his
+mouth with the seam of his wrap, grumbled something intended for
+thanksgiving, and strolled back to his resting place in the front room. Okoya went out into the court-yard to be alone with his forebodings. The
+sight of his mother seemed oppressive to him. After the boys had gone the woman emptied the remainder of the stew back
+into the pot, filled the painted bowl with water, and put both vessels
+in a corner. Then she sat down, leaning against the wall, looking
+directly toward her father. Her face was thin and wan, her cheeks were
+hollow, and her eyes had a suppressed look of uneasiness. The old man remained quietly indifferent as long as the meal lasted;
+then he rose, peeped cautiously into the outer apartment, resumed his
+seat, and spoke in a low tone,--
+
+"Is it true that you have listened to kamonyitza,--'black corn'?" The woman started. "Who says so?" she answered with sudden haste. "The Koshare," replied the old man, looking at her with a cold steady
+gaze. "What do I care for them," exclaimed his daughter. Her lips curled with
+an air of disdain. "It may be," spoke her father, in measured tones, "that you do not wish
+to hear from them; but I know that they care for your doings." "Let them do as they please." "Woman," he warned, "speak not thus. Their disposition toward you is not
+a matter for indifference." "What reason have they to follow my path? I am a woman like many others
+in the tribe, nothing more or less. I stay with my husband," she went on
+with greater animation. "I do my duty. What have the Delight Makers to
+say that might not be for my good?" "And yet, you are not precious to them--"
+
+"Neither are they precious to me," she cried. Her eyes sparkled. Her father heaved a deep sigh. He shook his head and said in a husky
+tone,--
+
+"Woman, your ways are wrong. I know it, and the Koshare know it also. They may know more, much more than I could wish," he added, and looked
+into her eyes with a searching sorrowful glance. An awful suspicion lay
+in this penetrating look. Her face flushed, she bent her head to avoid
+his gaze. To the gloomy talk succeeded a still more gloomy silence. Then the woman
+lifted her head, and began entreatingly,--
+
+"My father, I do not ask you to tell me how you come to know all this;
+but tell me, umo, what are these Delight Makers, the Koshare? At every
+dance they appear and always make merry. The people feel glad when they
+see them. They must be very wise. They know of everything going on, and
+drag it before the people to excite their mirth at the expense of
+others. How is it that they know so much? I am but a woman, and the ways
+of the men are not mine," she raised her face and her eyes flamed; "but
+since I hear that the Delight Makers wish me no good, I want to know at
+least what those enemies of mine are." The old man lowered his glance and sighed. "My child," he began softly, "when I was young and a boy like your son
+Okoya, I cared little about the Koshare. Now I have learned more." He
+leaned his head against the wall, pressed his lips firmly together, and
+continued, "The holders of the paths of our lives, those who can close
+them when the time comes for us to go to Shipapu, where there is neither
+sorrow nor pain, have many agents among us. P[=a]yatyama our Father, and
+Sanashtyaya our Mother saw that the world existed ere there was light,
+and so the tribe lived in the dark. Four are the wombs in which people
+grew up and lived, ere Maseua and Oyoy[=a]u[=a] his brother led them to
+where we are now, and this world which is round like a shield is the
+fourth womb." The woman listened with childlike eagerness. Her parted lips and
+sparkling eyes testified that everything was new to her. "Father," she interrupted, "I knew nothing of this. You are very wise. But why are women never told such things?" "Don't cut off my speech," he said. "Because women are so forward, that
+is why many things are concealed from them." "But," she continued, heedless of his rebuke, "where are the other three
+worlds?" "This question I shall answer," he said, "for it is wise in you to speak
+so. Haatze the earth is round and flat, but it is also thick like a
+cake. The other three wombs are down below inside, one beneath the
+other. At Shipapu the people came out upon this world which is the
+fourth womb, but it was cold and dark. Then the great sun rose in the
+heavens above. In it P[=a]yatyama dwells, and on it he rides around the
+world in one day and one night to see everything which happens. It is
+day and light, night and dark. We have also summer and heat, winter and
+cold. For this reason there are summer-people and winter-people, some
+who like to live when it is cold and others who enjoy the heat. Every
+tribe, every clan, has some of both kinds. Thus they came out of the
+third world, and thus they have remained until this day. It was cold at
+Shipapu when the people came out on the surface, and Those Above saw
+that they felt weak. Toward the south it was warm and bright, so Maseua
+and his brother said to their children, the men of our tribe, 'Go you
+where there is more light;' and the summer people they directed to go
+along the Rio Grande; the winter people they sent south also but far
+around by the east over the plains where the great buffalo is roaming,
+where the wind blows and it is cold and dry. To both kinds of men they
+said, besides, 'Come together in the mountains and live there in peace,
+each one getting food for himself and others as you are wont to do.' But, lest the people might get weary on their long journey, Maseua and
+his brother commanded that from Shipapu there should come forth a man
+whose body was painted white and black, and who carried on his head
+dried corn-leaves instead of feathers. This man began at once to dance,
+to jump, and to tumble, so that the people laughed and their hearts
+became glad. This man led the summer-men southward, and as often as they
+grew tired he danced again and made jests; and the tribe followed him
+until they came to where we are now, and all met again. The
+summer-people never suffered hunger in all their wanderings, for their
+leader was precious, and wherever they went he caused the fruits to be
+ripe. That man was the Koshare. [4] Since that time there have been
+Koshare in every tribe. Their task it is to keep the people happy and
+merry; but they must also fast, mortify themselves, and pray to Those
+Above that every kind of fruit may ripen in its time, even the fruit in
+woman's womb. To them is given the yellow flower from the fertile
+bottoms which makes the hearts of men glad. Now you know what the
+Koshare are and," he added emphatically, "why you should not laugh and
+make merry when you are not precious to them." The woman had listened with breathless attention. At the close, however,
+she hung her head and sighed. The old man gazed at her in silence. In
+the outer room the regular breathings of the sleeping boy were heard,
+otherwise all was as still as a grave. At last she lifted her face again. "Father," she asked, "are those who are precious to the holders of our
+paths, are they always good?" "I need not tell you about this," he replied, fixing upon her a
+penetrating glance. "I know of nothing evil," she stammered, "unless it be bad men." "And yet you have used owl's feathers!" Her face grew pale. She asked hoarsely,--
+
+"Where should I keep them?" "The Koshare know it," was the equally husky reply. She started, her eyes gleamed like living coals. "Have the Koshare sent you here, father?" "No," was the gloomy answer; "but if the old men come to me and say,
+'kill the witch,' I must do it. For you know I am Maseua,
+head-war-chief, and whatever the principals command I must do, even if
+it takes the life of my only child!" The woman rose to her feet; her attitude was one of defiance. "Let the Koshare speak, and do you as you are commanded. The time must
+come when I shall have to die. The sooner it comes, the sooner shall I
+find rest and peace with our mother at Shipapu." Her father also had risen, he clutched his cotton garment as if a sudden
+chill went through his body. Without a word he turned and went off
+dejected, stooping, with a heavy sigh. The woman dropped to the floor beside the hearth with a plaintive moan. She drew her hair over her face, weep she could not. The embers on the
+hearth glowed again, casting a dull light over the chamber. Say Koitza, as this wretched woman was called, was the only child of him
+with whom she had just had this dismal interview. His name was
+Topanashka Tihua, and he was maseua, or head-war-chief, of the tribe. In
+times of peace the maseua is subordinate to the tapop, or civil
+governor, and as often as the latter communicates to him any decision of
+the tribal council he is bound to execute it. Otherwise the maseua is
+really a superior functionary, for he stands in direct relation to the
+religious powers of which we shall hereafter speak, and these in reality
+guide and command through oracles and prophetic utterances. In war the
+maseua has supreme command, and the civil chief and the diviners, or
+medicine-men, must obey him implicitly as soon as any campaign is
+started. Topanashka was a man of great physical vigour notwithstanding his age. He was highly respected for his skill and bravery, and for his stern
+rectitude and obedience to strict duty. He feared nothing except the
+supernatural powers of evil. There is nothing the Indian fears, nay
+hates, so much as sorcery. Topanashka could scarcely believe that his
+daughter had tampered with magic by causing the dark-coloured corn to
+speak, and keeping owl's feathers in her possession. Still, if such were
+really the case, he knew of no other course to pursue but to execute the
+penalty which according to Indian ideas she deserved, and which the
+leading men of the tribe composing its council would undoubtedly mete
+out to her,--death; a cruel, terrible death. But she was his only child,
+and ere he placed faith in the suspicion communicated to him in secret
+by one of the shamans in the tribe, he wanted to satisfy himself from
+her own behaviour whether it was true or not. To his deepest sorrow Say
+Koitza's behaviour seemed to prove that she was not falsely accused. It
+was a terrible blow to the old man, who for the first time in his life
+rose from a task bewildered and hopeless. Duty was to him paramount, and
+yet he could not utterly stifle the longing to save his only child from
+a cruel and ignominious fate. His daughter too felt utterly wretched, and despondent in the highest
+degree. For the accusation against her was true. She had practised the
+dread art; and yet, strange to say, while conscious of guilt, in the
+bottom of her heart she felt herself innocent. Let us recall the past
+life of the unhappy being to see whether there is in it anything to
+explain this apparent anomaly. When Say Koitza was fourteen years of age her husband Zashue Tihua began
+to pay her his first attentions. He called at her mother's home oftener
+than any other youth of her tribe, and one afternoon, when she was
+returning from the brook with a jar filled with water on her head, he
+stopped her, dipped some water out of the urn, drank it, and whispered
+something to which she gave no reply, hurrying home as rapidly as
+possible. She could not speak to her mother about this, for her mother
+was hopelessly deaf, and it would not have been proper to consult her
+father, since the father belonged of course to another clan. A whole
+night and one full day Say pondered over the case; at last her mind was
+made up. The girl took a dish filled with corn-cakes and rolls of sweet
+paste of the yucca-fruit, and placed it on her head. With this load she
+climbed up the rugged slope leading to the dwellings of the Water clan,
+to which Zashue belonged. The lad was sitting in the cave inhabited by
+his family, busying himself with straightening arrow shafts over the
+fire, when the girl, pushing before her the loaded tray, crept through
+the port-hole. Silently she placed the food before him, and went out
+again without a word. This was her affirmative reply to his wooing. Thereafter, Zashue visited the quarters of the Gourd people at the big
+house every night. Along the foot of the cliffs, in soft ground, and in
+a lonely sheltered spot, he meanwhile planted four stakes connected by
+cross-poles. From end to end cotton threads were drawn lengthwise, and
+here Zashue wove a cotton wrap day after day. The girl would steal out
+to this place also, carrying food to the young artisan. She would
+cleanse his hair while they chatted quietly, shyly at first, about the
+present and the future. When the mantle was done and it looked white and
+firm, Zashue brought it to Say Koitza's mother, who forthwith understood
+the intention of his gift, and felt gratified at the prospect of
+securing a son-in-law who possessed cotton. The plant was not cultivated
+near the upper Rio Grande at that time, and had to be obtained from the
+far south by barter. Many journeys distant, Pueblo Indians lived also,
+and thither the Queres went at long intervals to trade and to hunt the
+buffalo on the southwestern plains. Topanashka also was pleased with the suitor. In due course of time
+Zashue Tihua and Say Koitza, therefore, became man and wife. [Illustration: Rito de los Frijoles
+
+A cliff estufa of the Snake-Clan]
+
+Zashue proved to be a good husband, according to Indian ideas. He worked
+and hunted dutifully, providing the storerooms of Tanyi Hanutsh with
+supplies of which his wife, and through her he also, enjoyed the
+benefit. He spun cotton and wove it into wraps, scarfs, and sashes. Furthermore, he was always good-natured and merry. He did not spend too
+many nights out of his wife's home, either. They had three children,
+Okoya, Shyuote, and a little girl. Of these Shyuote became the father's
+favourite, for when the child was yet small it happened that his father
+made a vow to make a Koshare of him. Zashue was a Delight Maker
+himself, and one of the merriest of that singular crew. Among them he
+was perhaps the most popular; for while good-looking, his strength and
+agility enabled him to perform in a conspicuous manner, and his ready
+wit and quick conception of everything ludicrous caused him to shine as
+a great light among that society of official jesters. So the two lived in quiet and sober content. Zashue was pleased with his
+spouse. She kept her looks well with advancing years, and while there is
+never among Indians that complete intimacy between man and wife which
+engenders fidelity under all circumstances, while a certain freedom of
+action is always permitted to the man toward the other sex, Say had
+natural tact enough to never pry into such matters. She, in turn, did
+her duty. Always at home, she faithfully fulfilled her obligations as
+head of the house, and naturally shrank from all society but that of her
+own sex and such men as were allied to her by near ties of relationship. When she told her father in that sad interview that she was faithful to
+her husband, Say had told the truth. And yet there was something that
+caused her to plead guilty. The family had lived contentedly, and no cloud appeared to hang over
+them until, a few years previous to the date of our story, Say Koitza
+fell ill from want of proper care. Mountain fever is not infrequently
+fatal, and it was mountain fever that had seized upon the delicate frame
+of the little woman. This fever is often tenacious and intermittent;
+sometimes it is congestive. Indian medicine may cure a slight attack,
+and prevent too frequent returns of more violent ones; but if the case
+is a serious one, Indian remedies are of no avail. Say suffered from a
+slight attack at first, and recovered from it. A primitive cold-water
+treatment was effective for the time being; but in the year ensuing
+fever set in again, and no sudorific was of any use. She tried a
+decoction of willow bark, but it did her no good. She took the root of
+the yucca, or soapweed, and drank the froth produced by whipping water
+with it, but gained no relief. The poor woman did not know that these
+remedies are not employed by the Indians in a case like hers, but only
+for toothache and, in the case of soapweed, for consumption. Thus it went on for three years. During the dry seasons there were no
+signs of the illness; but as soon as, in July or August, thunderstorms
+shed their moisture over the mountains, and chilly nights alternated
+with warm sunshine, the fever made its appearance. Two years before the
+rainy season had lasted unusually long, and it was followed immediately
+by snow-falls. The attacks from the disease were therefore unusually
+violent, and by November Say Koitza thought herself dying from weakness
+and exhaustion. Her condition was such that her husband felt alarmed,
+and every effort was made to relieve her by the aid of such arts as the
+Indian believes in. The chief medicine-man, or great shaman, of the
+tribe had to come and see the patient, pray by her side, and then go
+home to fast and mortify himself for four consecutive days. His efforts
+had no effect whatever. Every indigenous medicine that was thought of
+had been already used, and none had been of any avail. At last the shaman, encouraged by the many blue and green stones, cotton
+wraps, and quantities of corn meal which Zashue Tihua contributed in
+reward of his juggleries, resolved to make a final trial by submitting
+himself and his associates to the dangerous ordeal of fire-eating for
+the invalid's sake. This ceremony was always performed by a certain
+group of medicine-men, called therefore Hakanyi Chayani, or Fire
+Shamans. The Hishtanyi Chayan was their official head, and he, with the
+four others belonging to the fire-eating crew, fasted rigorously for
+four days and nights. Then they went to the house of Say Koitza, and in
+her presence sang the powerful song, while each one of them in turn
+waved a burning bunch of long dry grass to the six sacred regions, and
+each time bit off a piece of the burning weed and chewed it. When all
+had gone through the performances, and their mouths were well filled
+with ashes, each one gravely stepped up to the invalid, and spat the
+contents of his mouth in her face. Then they departed as quietly as they
+had come, and went home to await the results of the wonderful remedy. [5]
+It was a last, a supreme effort. The condition of Say could not fail to arouse the sympathies of her own
+sex, even outside of her clan. Many were the calls from compassionate
+women. They would drop in, squat down, tender their services, suggest
+remedies, and gossip. Only one woman made herself directly useful, and
+that was Shotaye, a member of the Water clan. Shotaye was a strange
+woman. Nobody liked her, and yet many applied to her for relief in
+secret; for Shotaye possessed great knowledge of plants and other
+remedies, and she had a keen practical sense. But people dreaded her;
+she lived alone in her cave among the abodes of the Water people, and
+nobody knew but she might know more than the official medicine-men
+themselves. In short, the majority of the tribe believed that Shotaye
+was a witch; but the woman was so wary that nobody could prove her to be
+one. Shotaye was not an old woman. Her appearance was not in the least
+repulsive, on the contrary. The men knew that the woman showed no
+objections to occasional attentions, even to intimacy. For this reason,
+also, she was not popular among her own sex. Shotaye had had a husband once; but he had left her and was living with
+another woman. That husband was called Tyope, badger, a man of strong
+physique and one averse to monotony in conjugal life. Tyope was a
+scheming man, cunning and unscrupulous in the highest degree; Shotaye an
+energetic woman, endowed with a powerful will of her own. Had there not
+been the little cloud of marital inconstancy on both sides, the pair
+would have been well-assorted for good as well as for evil. Tyope was a
+Koshare rather than an agriculturist, he spent his time mostly in other
+people's homes and in the estufa of the Delight Makers, leaving his wife
+to provide for herself and for him also, whenever he chose to remain at
+her house. In short there were flaws on both sides, and Shotaye being
+the house-mistress held the main power. One fine evening when Tyope
+presented himself in the grotto occupied by his wife, she refused to
+recognize him any longer. He protested, he stormed, he menaced her; it
+was of no avail. Shotaye told him to go, and he left. Henceforth the two
+were mortal enemies. The woman said little; but he was bent upon her
+destruction by every possible means. She kept on the defensive, avoided
+all conflicts, and was very careful not to give any cause for a direct
+accusation of sorcery. She cured people incidentally, never asking any
+compensation for it. She lived alone, and thus earned enough to be
+independent of her own clan if need be. This woman called on Say occasionally, but only between the periods of
+the attacks of fever. On such visits she would assist the patient, do
+the housework, and arrange the hides or covers for her. Say harboured a
+wish to consult her about her disease; but Shotaye studiously avoided
+any opportunity for confidential talk. One day, however, when the two
+were alone in the kitchen, and the invalid felt somewhat relieved, she
+opened her heart to her visitor. Shotaye listened very attentively, and
+when Say had concluded, instead of asking for further details, she
+abruptly asked whether Say had no suspicion of being bewitched. If such a question were put to us, we should doubt the sanity of the
+questioner. Not so the Indian. Say felt like one from whose eyes thick
+scales are suddenly removed. Indeed, she thought this was the cause of
+her evil, this alone could explain the tenacity of the disease, its
+mysterious intermittence. She told her interlocutor that she must be
+right, or else why these regular returns and always during the season of
+rain? Shotaye listened and listened; every word she heard was in
+confirmation of her own thoughts. Say must be under the influence of
+some evil charm, and unless counteracted by magic, it was clear to her
+that the poor woman must succumb to its workings. Whatever there is in nature which the Indian cannot grasp at once, he
+attributes to mysterious supernatural agencies. He believes that nature
+is pervaded by spiritual essence individualized into an infinite number
+of distinct powers. Everything in nature has a soul according to him,
+and it is that soul which causes it to move or to act upon its
+surroundings in general. Thus the medical properties of animals, of
+plants, or minerals, are due to spiritual manifestations. His medical
+art therefore does not consist merely in eliminating the physical cause
+of disease. As soon as any disease is stubborn there must be at the
+bottom of it some spiritual source, and this source can be discovered
+and removed only by magic. Incantations therefore form an important part of Indian medicine. The
+formulas therefor are the special property of the medicine-men, whom we
+shall hereafter designate with the much more appropriate name of
+Shamans. The shaman is wizard and physician at the same time. He is
+also a prophet, augur, and oracle. His duty it is not only to protect
+from evil, but to counteract it. He has charms and incantations which he
+offers for the production of beneficial natural phenomena. Magic for such purposes is regarded by the Indian as essential to the
+existence of man. Magic, however, as a black art is the most heinous
+crime which he can conceive. The difference between the two consists
+mainly in their purpose; the manipulations are substantially the same,
+so are the objects. To know those details is one of the attributes of
+the shamans. The latter constitute a circle of their own,--a cluster of adepts,
+nominally in the arts of healing, but really in the arts of magic. That
+circle is wide, and whoever stands outside of it has no right to
+infringe upon the duties of its members by attempting to follow their
+example. It is an institution, and its origin dates from untold
+centuries. It is subdivided into groups, each of which practises charms,
+incantations, or magic, relating to certain human interests. The Shyayak
+are in possession of the spell which charms game, in other words they
+are the shamans of the hunt. The Uakanyi practise magic in warfare, they
+are the shamans of war. The Chayani are physicians who combine with the
+knowledge of medicine proper, the knowledge of magic curative powers. They are the shamans of medicine. Lastly the Yaya combine a knowledge of
+all these different branches in their essence. They are the prophets and
+priests. These groups may be described as, in a certain sense, guilds. But they are secret societies also, inasmuch as the arts and practices
+of each are special property which is kept secret from the others, and
+from the uninitiated members in the tribe. In order to become a member
+of a society of that kind secrecy is required and long apprenticeship. The novice rises slowly from one degree of knowledge to another, and
+only few attain the higher positions. The members of these secret societies are therefore magicians or
+wizards, and when any one dreads danger from evil sorcery it is his duty
+to consult the proper shaman for relief, unless he should be sure of the
+person of the sorcerer, in which case he may kill him outright without
+even mentioning the deed. In the present instance Say could not resort
+to such a summary expedient. It was therefore the duty of Shotaye, who
+was better informed on institutions and customs, to direct her sick
+friend to a shaman. But Shotaye was not on good terms with the official
+wizards, particularly the Chayani, those who cured, and still less with
+the highest religious powers, the Yaya. It suited her pride to attempt
+the experiment at her own risk, conscious all the while that it was
+dangerous,--dangerous for herself, as well as for her patient. For it
+entailed performances which only the shaman can undertake, and should
+they be detected, the very crime of sorcery, against which their
+experiments were directed, would be charged against them. Shotaye had still another reason for not encouraging her friend to speak
+to the higher chayani. The fever coincided with the rainy season. As
+soon as this was over it subsided. Natural as this was, both women
+attributed it to a mysterious cause; and Shotaye, suspicious and
+vindictive even, thought she had discovered a clew to the guilty party. The rainy season in New Mexico is of course essential to the growth of
+the chief staple of the Indian,--maize or Indian corn. When, therefore,
+in July daily showers should occur, the principal shamans of each tribe
+and the yaya must pray, fast, and mortify themselves, in order that
+Those Above may send the needed rain. The hishtanyi chayan scatters the
+powder of the white flower to the winds, meanwhile murmuring
+incantations. At night he imitates thunder, by whirling a flint knife
+attached to the end of a long string, and draws brilliant flashes
+from pebbles which he strikes together in a peculiar manner. For the
+Indian reasons that since rain is preceded in summer by lightning
+and thunder, man by imitating those heralds is calling the desired
+precipitation,--beckoning it to come. This is the time of the year when the Koshare perform their chief work. Four days and four nights, sometimes longer, they must fast and pray in
+order that the crops may obtain the moisture indispensable for ripening. The people look upon the Delight Makers with a degree of respect akin to
+fear at all times, for they are regarded as powerful intermediaries in
+matters of life and death to the tribe; but during that particular time
+they are considered as specially precious to the higher powers. Shotaye
+hated the Koshare. They in turn disliked the woman, and gave vent to
+their dislike by turning her into ridicule at public dances as often as
+possible. This she resented greatly; but she was powerless to retaliate,
+since the Delight Makers enjoy special privileges on festive days. The
+medicine-woman's hatred was still increased by the fact that her former
+husband, Tyope, was a leading Koshare. To his influence she attributed
+the insults which the jesters offered her, and she saw in the whole
+group but a crowd of willing tools handled by her personal enemy. Since Say's illness coincided with the beginning of the rainy season,
+the principal activity of the Koshare immediately preceded the outbreak
+of the fever. Urged by hate and desire for revenge, Shotaye combined the
+two facts in her mind, and drew the conclusion that the disease was due
+to the magic power of the Koshare, directed against Say for some unknown
+reason and purpose. If the Koshare were guilty, it was not only useless, it was dangerous
+even, to call upon any chayan for relief. The Delight Makers were the
+chief assistants of the shamans in any public ceremony, and
+indispensable to them in many ways. Beside, Say Koitza could not have
+applied to a chayan without her husband's knowledge, and that husband
+was a Koshare. So after explaining to the invalid her suspicions and inferences, she
+suggested direct inquiry about the principals in the supposed evil
+actions against her. That inquiry could be conducted only through
+sorcery itself, and Say at first trembled. She feared, and not without
+good cause, an appeal to evil powers. Still Shotaye spoke so plausibly;
+she assured so strongly her friend of her own discretion and fidelity,
+and was so insistent upon her constant success in everything she had
+undertaken as yet,--that the woman yielded at last against her own
+convictions. Something within her seemed to speak and say, "Do not tread
+forbidden paths, speak to your husband first." But the arguments on the
+other side were too strong, her own physical condition too weak; she
+grasped the expected relief regardless of the warnings of her
+conscience. Among the objects connected with evil magic, a certain kind of maize had
+the power of speech attributed to it. It is the dark-coloured variety,
+called in the Queres language _ka monyi tza_. Ears of this corn
+belonging to a witch are said to speak in the absence of their owner,
+and to tell of her whereabouts and doings. Shotaye knew this, and
+herself but indifferently versed in the black art, concluded that the
+black corn would also reveal, if properly handled, the agent whose
+manipulations caused Say Koitza's sufferings. She hoped also that by
+combining the dreaded grain with another more powerful implement of
+sorcery, owl's plumage, she would succeed in eliciting from the former
+all the information desired. The woman was quite ignorant of the evil
+ways in which she was about to wander; but she was bold and daring, and
+the hope of injuring her enemies was a greater inducement than the
+desire to relieve her friend. The proposed manipulation was directed in
+fact much more against her former husband than against the disease. But how to obtain the necessary objects! How to secure black corn, and
+how and where to get the feathers of an owl! Both were so well known and
+so generally tabooed that inquiry after them would forthwith arouse
+suspicion. Black maize might be procured on the sly; but the other could
+be found by chance only,--by meeting with the body of a dead owl on the
+heights surrounding the Tyuonyi. Shotaye was in the habit of strolling alone all around the Rito, over
+the timbered mesa as well as through the gorges which descend from the
+mountains. On such excursions the woman observed the most minute
+precautions, for there was danger,--danger from roaming Indians of the
+Navajo or Dinne tribe, and danger from spies of her own tribe. Frequently people had followed stealthily in the hope of surprising her
+at some illicit practice, but she had been lucky enough to notice them
+in time. Of what is called to-day the mesa del Rito, the high table-land
+bordering the Tyuonyi on the south, Shotaye knew every inch of ground,
+every tree and shrub. On a clear, cool November day she strolled again in that direction,
+climbing the heights and penetrating into the scrubby timber,
+interspersed with tall pines, which covers the plateau for miles. To her
+delight she discovered the remains of an owl at no great distance from
+the declivity of the Rito beneath a rotten pine. Instead of picking up
+the carcass she kicked it aside disdainfully, but took good care to
+notice whither so as to remember the place. It landed on a juniper-bush
+and remained suspended from its branches. Shotaye went onward
+carelessly. She looked for herbs and plants, picking up a handful here,
+pulling out a root there, until she had made a long circuit, which
+however brought her back to the place where the dead owl was. Here she
+stopped, listening, all the while looking out for plants. As if by
+accident she neared the bush on which the carcass was still hanging, and
+after assuring herself that the body had not been disturbed, she brushed
+past so as to cause it to drop to the ground. She hastily plucked a few
+feathers, put them with the herbs and roots already gathered, and turned
+homeward. Everything was quiet and still around her, only at a short
+distance two crows flew up croaking. Say Koitza was not strong enough to walk up to the cliffs; therefore
+Shotaye, when she came to announce to her friend that the necessary
+material was at last secured, suggested that the incantation be
+performed at the home of the invalid. A certain evening when Zashue was
+sure to be absent, owing to a gathering of the Koshare, was appointed
+for the purpose. On that evening the two women sat alone in the kitchen. Okoya was away in the estufa of Tanyi hanutsh. The two younger children
+were fast asleep in the outer room. It was a cold night, but the fire on
+the hearth had almost completely subsided, only a few embers remaining. Through the loophole in the wall an occasional draught of chilly air
+entered. Say Koitza clung to her friend's shoulder, shivering and
+trembling from fear as well as from cold. In the centre of the dark room Shotaye had placed a few ears of black
+corn, and on them two bundles of owl's feathers, each tied to a chip of
+obsidian. She had also brought along some bark of the red willow; this
+she pulverized in the hand, and made into two cigarettes with corn
+husks. At that time tobacco was unknown to the Pueblos, and red
+willow-bark was the only thing used for smoking, while smoking itself
+was not a relish but exclusively a sacrifice. Handing one of the cigarettes to her friend, Shotaye directed her to
+light it and then puff the smoke successively to the six mythical
+regions. After this she was to cast the glowing stub on the pile of corn
+and feathers. With a shudder Say Koitza obeyed these instructions; her
+teeth chattered while the cave-woman recited an invocation. Then both
+huddled together to listen. Even Shotaye felt afraid of the
+consequences. For a long time everything was silent; the cold draught
+from the outside had stopped; the women sat in breathless silence; they
+listened and listened. Nothing moved. Not a sound was heard. Shotaye overcame her first anxiety and repeated the dread formula. All
+was silent. Suddenly a cold blast pervaded the room again. It fanned the
+embers to renewed life; they shed a faint glimmer over the chamber. The
+women started; there was a crackling heard; the feathers moved; the ears
+of corn seemed to change position. One of the feather bunches rolled on
+the floor. They nearly screamed in terror, for their excited imagination
+caused them to hear ghostly sounds,--disconnected, uncomprehended words. It was clear that the black corn had spoken. What it said neither could
+tell; but the fact of having heard the noise was sufficient to convince
+them that Say was under the influence of an evil charm, and Shotaye took
+care to add that that charm was exercised by the Koshare or by some one
+belonging to their society. So powerful was the effect of this incantation scene upon Say that she
+fainted. After a while she recovered and Shotaye led her back to the
+outer room, where, after some time, she began to slumber from sheer
+exhaustion. Then the medicine-woman returned to the caves, taking with
+her every vestige of the conjuration. It was wise on her part, for as soon as Say awoke from feverish and
+anxious dreams, her first thought was about the dismal objects. Everything was quiet. Zashue had returned, and was quietly asleep by her
+side. She arose and glided into the kitchen, noiselessly, stealthily. The floor was clean. She felt around; not a trace of the objectionable
+pile could be noticed. Unspeakable was the feeling of relief with which
+she returned to her husband's side and extended herself on the hides
+again; sound sleep came to her, and when she awoke it was daylight. She
+felt stronger, brighter. Yet thereafter, as often as Zashue approached
+her in his harmless, bantering manner, she experienced a strange, sudden
+pang. She was reminded of having done wrong in not having been open with
+him. The Indian's conscience is hemmed in by bonds arising from his
+social and religious organization; why, for instance, should she have
+told her spouse? He was neither of her clan nor of her party. He
+belonged to the summer people, she to those of winter. She stood outside
+of all secret associations, whereas he was a Koshare. The winter following proved to be mild and dry. Say recovered slowly. Shotaye kept aloof after the conjuration, for a long time at least. All
+of a sudden she made her appearance at the home of her convalescent
+friend. It was in order to remind her that the first step was only a
+preliminary, and that it could not effect a radical cure. All that had
+been achieved was to prove that an evil charm existed, and that the
+Koshare were the wrongdoers. It remained now to remove the spell by
+breaking the charm. This, she represented, had to be attempted when the
+Koshare were in their greatest power, and could only be effected by
+means of the owl's feathers. By burying these feathers near the place
+where the Delight Makers used to assemble, Shotaye asserted that not
+only would the disease be eliminated forever, but the guilty one be
+punished according to the measure of his crime. Say would not listen to any such proposals. She saw no necessity for
+going any further in forbidden tracks. Now that her health was restored,
+why should she attempt to harm a cluster of men to which her husband
+belonged, and thus perhaps imperil his life? Shotaye met this objection
+with the assurance that the remedy was directed against the guilty ones
+only, and that she herself did not for a moment think that Zashue had
+participated in the evil manipulations against his wife; that
+consequently he was in no manner exposed to danger. Say finally told her
+visitor that she would wait and see, and then decide. Winter went and spring came. Warm summer followed with a dark-blue sky
+and sporadic thunderclouds. All the crops were planted, irrigated, and
+scantily weeded. Now they awaited the rains in order to complete growth
+and prepare for maturity. The great chayani had gone through their
+official fasts, they had made their sacrificial offerings in the sacred
+bowls dedicated to rain-medicine. Every day clouds loomed up in the
+west, distant thunder rumbled, but not a drop of rain fell in the Rito
+and the people began to look gloomy. The Koshare were therefore required
+to go to work earlier than usual. They were to fast four consecutive
+days between two full moons. The estufa in which the Delight Makers used to assemble is situated at
+the eastern end of the cliffs, and its access is difficult to-day. It is
+a circular chamber in the rock twenty feet in diameter. At present the
+outer wall has fallen in, but a crease in the floor indicates the place
+where a little port-hole led into the cave. The cave lies high, so that
+from it a view of the whole valley presents itself, and at its feet
+opens a narrow chasm of considerable depth. This is a mere fissure, so
+narrow that cross-beams were fastened into its sides like the rounds of
+a step-ladder; and on these the people ascended to a narrow trail
+leading up to the entrance. Other cave-dwellings were scattered along
+this trail and farther below. They were inhabited by the people of the
+Turquoise clan. All the Koshare had retired to this secluded spot, and the first day of
+fasting was nearly over when Shotaye called once more at the home of
+Say. The latter guessed the object of her coming and felt afraid. Without preamble, in a sober, matter-of-fact way, the cave-woman stated
+that the time had come for a decisive step; and with this she placed
+three bunches of owl's feathers on the floor. In vain Say Koitza
+protested, affirming that her health was fully restored. Shotaye would
+not listen to refusal or excuse. Now or never, she commanded. She
+repeated her former assertion that the charm could not hurt Zashue as
+long as he was not guilty. For a long while the women sat arguing the
+matter; at last Say Koitza yielded, and promised to comply. Night came, and the people of the Rito went to rest. The moon rose
+behind the lava-ridge of the Tetilla; the rocky battlements of the
+cliffs shone brightly above the gorge, whose depths rested in dark
+shadow. A tiny figure crept out of the big building and hurried down the
+vale along the fields. When she reached the grove where we met Okoya and
+his little brother for the first time, she crouched beneath a tree,
+covered her head, and sobbed aloud. It was a dire task for Say Koitza,
+this errand out of which harm might arise to the whole cluster to which
+her husband belonged. If the charm which she clutched with trembling
+fingers should work against him, then he was the guilty party. So
+Shotaye had insinuated, and the word had stung her like the bite of a
+serpent. It came back to her mind as she hurried to perform the deed,
+and caused her to start. She rose hastily and turned toward the cliffs. The uppermost rocks glistened fairly in the light of the moon; and where
+the sharp line of the shadows commenced, the ruddy glow of a fire burst
+from an oblong aperture. There was the estufa of the Koshare. From it
+issued the sound of hollow drumming intermingled with the cadence of a
+chorus of hoarse voices. A thrill went through Say, she stopped again
+and listened. Was not her husband's voice among them? Certainly he was
+there, doing his duty with the rest. 
