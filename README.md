@@ -19,6 +19,6 @@ Suraj Maharjan, Sudipta Kar, Manuel Montes-y-Gómez, Fabio A. González, and  
     * sf_mt_50_checked_model.hdf5 : saved best model (with whole book content, 50 chunks, MT) 
 
 * vectors
-    * nrc_mean_sd_50_all.pkl : emotion chunk feature vectors built with NRC emotion lexicon (50 chunks, whole book content)
+    * nrc_mean_sd_50_all.pkl : emotion chunk feature vectors built with NRC emotion lexicons (50 chunks, whole book content)
     * nrc_mean_sd_50_all_index.pkl : book ids
     
